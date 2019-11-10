@@ -2,10 +2,14 @@ v67 Mark D Lippmann Method (“Mastery Protocol”)
 
 
 
+Copyright: All rights reserved.
+
+
+
 Contents (simplified/elided):
 	front matter and more (including a full table of contents)
 	goal
-	[solution [no stub]]
+	end state
 	other practices
 	culture and community
 		evil
@@ -32,7 +36,7 @@ preamble [draft!]:
 
 1. Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts.
 2. Remember that, while no one is obligated to give you or help you get these things, you deserve happiness, health, enjoyment, love, sex, family, and more.
-3. I reserve all rights with respect to this document.
+3. Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated): Do what thou wilt, that is the whole of the law. Love under will. (or something)
 4. […]
 5. […]
 6. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
@@ -75,7 +79,7 @@ Perhaps evil or malevolence is objective but things are only bad relative to you
 
 You might not feel good and safe all the time, but it’s good to want to feel good and safe, and it’s good to seek to stably feel good and safe or to feel good and safe as much as possible.
 
-Without exception, and no hello why do'nt you come right in matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to Inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
+Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to Inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
 
 You might get hit by a bus or meteor or your cryo chamber might run out of geopolitics or something. But, it’s possible to have a good life, anyway, and it’s possible to impeccably work to reduce the chances of such bad things while having a good, complete, rich, full, life.
 
@@ -180,6 +184,7 @@ v63 backup 20191104.rtf
 v64 20191104 backup.rtf
 v65 backup 20191110.rtf
 v66 20191110 backup.rtf
+v67 20191110 backup.rtf
 
 
 
@@ -192,6 +197,7 @@ Credits:
 Contents (expanded):
 
 version and working title
+copyright
 contents (simplified/elided)
 preamble
 an exoteric doctrine v0.2
@@ -201,6 +207,7 @@ contents (expanded)
 introduction
 text interpretation
 goal
+end state
 other practices
 culture and community
 	evil
@@ -646,6 +653,54 @@ Your perception, behavior, ontology, judgments, and preferences get refactored, 
 
 
 
+end state: (draft!)
+
+The end state is arrived at asymptotically. There’s always room for improvement because the world keeps changing. The journey will often be nonmonotonic, too.
+
+In any case, what it sort of looks like is coming to be intrinsically motivated to optimize self and world, seamlessly, without limit or exception, to care for everything into the infinite future, including yourself, all together, all at once.
+
+Being this way, all the way down to the core of your being, sort of cleanly solves all your problems in the moment and in the limit. [“Infinity” is just a concept, etc., etc. Don’t take refuge in your interpretation of these words. Let it all go.]
+
+Another way to express this is “true (global) total (maximum) positive sum with no negative externalities.”
+
+Another way to express this is “embodying a perfectly unified, eternal, sempiternal, and exceptionless will that’s going after the most good and best thing for everybody and everything, including yourself, without compromise or exception, all at once.
+
+One comes to see that there are no terrible, hard truths and no terrible, hard tradeoffs.
+
+One comes to know deeply that, if something feels or seems wrong, no matter how subtle, still, small, and quiet, then something is wrong, somewhere, and it doesn’t have to be.
+
+You have to feel and listen, eventually, ultimately, to each, every, and all still, small, and quiet voice:
+
+“If you’re good to them, then they’ll become good you.”
+
+All of the above is not “turiya” or “nonduality,” but it is compatible with this “stateless state.” 
+
+Progressive insight into emptiness unlocks the capacity for turiya and the capacity for all the above. And progress towards turiya is usually progress towards all the above, and vice versa. Using the practices in this document will steadily, albeit nonmonotonically, move you towards all of this.
+
+You will get all the meditation-y goodness, in addition to everything else (which I suspect was the goal of many non-modern-Buddhist systems):
+
+aiming at and asymptotically, nonmonotonically arriving at “mastery”/“perfection.”
+
+There’s a final, additional piece which completes of all of this, that’s something like “proactive recursive bootstrapping,” progressively structuring self and world to learn about self and world more and more efficiently and effectively.
+
+Again, working with the practices in this document are intended to efficiently take you towards everything above.
+
+A failure mode is trying to smash yourself into being what you think all the above must be like, by trying to directly aim at preconceived notions. If you don’t do all this “bottom up,” then you’ll tie yourself in knots.
+
+The better thing to do is to *go after what you want,* systematically and iteratively resolving or correcting internal conflict and contradiction and error (with respect to goodness, truth, will, desire, etc., etc., etc.) along the way, and you’ll likely eventually find yourself in the neighborhood of something like this. It will unified and elegant and a simplicity on the far side of complexity and not overwhelming or scattering or impossible. That’s what solving the puzzle box of the mind does. And it will be fun, meaningful, interesting, equanimous, captivating, loving, intimate, exciting, erotic, whatever.
+
+Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated):
+
+Do what thou wilt, that is the whole of the law. Love under will. (or something)
+
+A key insight: If you know you’re doing the absolute best you can at all times in each moment taking into account all future times and all possible futures deep down in your bones then you just relax and let go, and it feels good
+
+The “good for everyone all at once thing” is equivalent to solving all of your problems.
+
+[For everything above, don’t take refuge in your interpretation of these words, or, if you do, hold it lightly. Let it all go. Let it all go to get the real thing back, later, in the right way, beyond your current conception. This is all just words. The whole document is just words. You must find your own truth or lack thereof, meaning or meaninglessness.]
+
+
+
 other practices: (draft)
 
 If you have the time and money, I don’t know, maybe find a good therapist (one in 1000-10,000), go get therapy or psychoanalysis.
@@ -662,8 +717,7 @@ Use everything. Use all of it. There’s better and worse, and choices matter, b
 
 Lots of solo time is needed, and sometimes solo time is the only thing available, but someone who’s having a rich variety of experiences with a rich variety of compassionate, intelligent, interesting people will progress (possibly) faster (and possibly more safely), all things being equal.
 
-BOB=================
-=================
+
 
 culture and community:
 
