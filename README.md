@@ -4,7 +4,7 @@ This repository has one additional file besides the readme:
 
 working_version_snapshot.txt
 
-If you just click on that filename, above, THE CONTENT WILL NOT BE WORD-WRAPPED, and trying to read it will be confusing, frustrating, or it might seem like too much effort to deal with.
+If you just click on that filename, above, in blue, in the file list, THE CONTENT WILL NOT BE WORD-WRAPPED, and trying to read it will be confusing, frustrating, or it might seem like too much effort to deal with.
 
 To get a word wrapped version, do click on the filename, above, and then, on the next page, click on the "raw" button a bit up and to the right.
 
