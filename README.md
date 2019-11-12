@@ -16,7 +16,6 @@ In the file, there are *two* tables of contents that make use of tab indents (on
 
 So, right now, for better or worse, the formatting (or lack thereof) of the material is a barrier to entry. But that won't be the case in the future. Things are still very optimized for creation rather than distribution. But the material can still be effectively consumed with some front-loaded effort.
 
+Anyway, it's a long and highly structured document, though the "object-level prose" is often very, very messy, at least at this draft stage.
 
-It's a long and highly structured document, though the "object-level prose" is often very, very messy, at least at this draft stage.
-
-You can browse differences between versions by (a) looking for the word "commits" above and clicking on it or (b)looking for the word "commit" and clicking on the string of characters to the right of it. You may need an additional click to load the diff.
+Because of its length, it can be helpful to see "diffs" of the differences between old and newer versions, which will help you see exactly what's changed. You can browse diffs by (a) looking for the word "commits," above, and clicking on it or (b) looking for the word "commit" (no 's')  and clicking on the string of characters to the right of it. You may need an additional click somewhere to load the diff because of the relatively large file size.
