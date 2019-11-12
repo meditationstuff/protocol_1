@@ -10,7 +10,7 @@ To get a word wrapped version, do click on the filename, above, and then, on the
 
 The document will still look very ugly and possibly hard to read. You might save it to a local rich text file, change the whole document to the font (and font size) of your choice, and then output that text file as a pdf. It may *still* be hard to read, but less so, and you won't have to be worry about accidentally editing something. (If you do accidentally edit something, you can always download the file again.)
 
-Eventually this document will be formatted nicely, but it's easier, for me, to edit the document as a simple text file--and that does mean faster content updates. (There is actually formatting consistency, though it's not perfect: Three blank lines are used for major section breaks. Two blank lines are used for minor section breaks.)
+Eventually this document will be formatted nicely, but it's easier, for me, to edit the document as a simple text file--and that does mean faster content updates. (There is actually formatting consistency, though it's not perfect: Three blank lines are used for major section breaks. Two blank lines are used for minor section breaks. Line-terminating colons signify headers.)
 
 There are two tables of contents that make use of tab indents. Once you get used to visually parsing them, then you can work to understand the structure and intent of the whole document. And, it will be easier to navigate the document by searching for the table of contents headers.
 
