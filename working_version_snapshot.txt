@@ -1,8 +1,12 @@
-v70 Mark D Lippmann Method (“Mastery Protocol”)
+v71 Mark D Lippmann Method (“Mastery Protocol”)
 
 
 
 Copyright: All rights reserved.
+
+
+
+***Catch-all/alpha/beta/draft disclaimer:*** I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a very small additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a very small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
 
 
 
@@ -188,6 +192,7 @@ v67 20191110 backup.rtf
 v68 backup 20191118.rtf
 v69 20191118 backup.rtf
 v70 backup 20191118.rtf
+v71 backup 20191118.rtf
 
 
 
@@ -201,6 +206,7 @@ Contents (expanded):
 
 version and working title
 copyright
+catch-all/alpha/beta/draft disclaimer
 contents (simplified/elided)
 preamble
 an exoteric doctrine v0.2
