@@ -50,14 +50,14 @@ preamble [draft!]:
 3. Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated): Do what thou wilt, that is the whole of the law. Love under will. (or something)
 4. […]
 5. […]
-6. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
+6. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extreme caution. If you have other musculoskeletal risks then you must be careful.
 7. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
 8. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
 9. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
 10. If you have metabolic or cardiovascular disease such that a prolonged, inadvertent sedentary lifestyle (no exercise because of musculoskeletal sequelae) would be dangerous, then you should engage with these practices with caution.
 11. If your immune system is under- or overactive, then you should engage with these practices with caution.
 12. If you have experience abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
-13. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner that you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
+13. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner than you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
 14. […]
 
 
@@ -90,7 +90,7 @@ Perhaps evil or malevolence is objective but things are only bad relative to you
 
 You might not feel good and safe all the time, but it’s good to want to feel good and safe, and it’s good to seek to stably feel good and safe or to feel good and safe as much as possible.
 
-Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to Inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
+Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
 
 You might get hit by a bus or meteor or your cryo chamber might run out of geopolitics or something. But, it’s possible to have a good life, anyway, and it’s possible to impeccably work to reduce the chances of such bad things while having a good, complete, rich, full, life.
 
@@ -113,7 +113,7 @@ past versions:
 
 the current thing - phenomenology all plus blending * see also meditation slides folder.rtf
 devolition--so-called-v2--global unconditional refactoring at finest grain modulo good bad analysis.rtf
-good bad analysis ultimately ontology plan refactoring;--dynamics reformulation and goodness analysis.rtf 
+good bad analysis ultimately ontology plan refactoring;--dynamics reformulation and goodness analysis.rtf
 v4.rtf
 v5-v9.rtf
 practice notes dialogue * snapshot 20190117.pdf
@@ -204,7 +204,7 @@ v72 backup 20191118.rtf
 
 
 
-Credits: 
+Credits:
 
 …__, __, __, __, __, __, __… [I have to ask at least these seven people whether they want to be credited.]
 
@@ -443,7 +443,7 @@ practice
 			seeping into; keeping company
 			describe
 			explicate/articulate
-			bare sensations as such	
+			bare sensations as such
 			mind-only
 			acquiesce
 			become
@@ -487,7 +487,7 @@ lists and more
 	can’t-look-yet (“avoidance”)
 	systematicity
 	exhaustivity and bottlenecks
-	(mental) action and the attentional manifold	
+	(mental) action and the attentional manifold
 	the use of the will
 	using your time
 	a note on force (plus a brief mention of “redo-to-undo”)
@@ -528,7 +528,7 @@ for example wrt to the above, knowing stuff like this has made it easier for me 
 ***
 
 Jonathan [4:32 PM]
-The way I've been orienting to [this protocol versus other meditation protocols] myself recently is not through the meditation frame (though it is that and becomes that feel again eventually) but through the "going all the way to the bottom and from first principles as it were figuring out how to use a mind" frame, or something in the ballpark of that (edited) 
+The way I've been orienting to [this protocol versus other meditation protocols] myself recently is not through the meditation frame (though it is that and becomes that feel again eventually) but through the "going all the way to the bottom and from first principles as it were figuring out how to use a mind" frame, or something in the ballpark of that (edited)
 It just cuts through a lot of the "is this meditation", or "am I doing the right thing" stuff, if you forget about meditation for a couple months and pretend it's not that, or something  (At least in my experience)
 I guess this is a bit of a tangent now
 
@@ -537,7 +537,7 @@ Cool. It is really different than [other] meditation [procedures] in a lot of wa
 
 Jonathan [6:46 PM]
 yeah. i definitely think it is meditation. i'm probably being critically unappreciative, but there's a way in which other meditations are more narrow/constrained and this stuff is still meditation but wholeheartedly takes on the whole mind and every part of it. maybe it's all the same in the limit or something.
-the concern is that i think i probably spent something like 50 - 100 hours (total total total total total ballpark) trying to make [this protocol into] what i understood to be meditation, or at least hours where this was on my mind and undermining practice, in a way. and even afterwards there have been and has been threads in my mind like "huh this doesn't feel like meditation so i must be doing something wrong". of course i think a lot of this is par for the course and part of tacking towards good and tacking towards better models of mind and meditation. like why does it feel wrong? why is one thing more meditation than another? but maybe with the right upfront expectation setting there's a way to just nip the shoehorning in a bud and save people time (edited) 
+the concern is that i think i probably spent something like 50 - 100 hours (total total total total total ballpark) trying to make [this protocol into] what i understood to be meditation, or at least hours where this was on my mind and undermining practice, in a way. and even afterwards there have been and has been threads in my mind like "huh this doesn't feel like meditation so i must be doing something wrong". of course i think a lot of this is par for the course and part of tacking towards good and tacking towards better models of mind and meditation. like why does it feel wrong? why is one thing more meditation than another? but maybe with the right upfront expectation setting there's a way to just nip the shoehorning in a bud and save people time (edited)
 […]
 
 Mark [8:00 PM]
@@ -547,7 +547,7 @@ how does that look? can you say more? want to innoculate (and i'm sorry)
 
 Jonathan [8:03 PM]
 so after like n years knowing about tmi and noting and related practices, i had implicit models about how meditation works. the general general shape of the model was something like: your mind is a tool/machine, and you need to make it sensitive tool/machine such that one day it can finally pick up on some details of experience that lead to insight. step 1) develop powerful tool [powerful experienced as stable in the case of tmi, and perceptive in the case of noting]. step 2) use tool to examine reality
-importantly nowhere in this model was there a sense that meaningful progress was being made up until the point of insight (edited) 
+importantly nowhere in this model was there a sense that meaningful progress was being made up until the point of insight (edited)
 
 Mark [8:05 PM]
 so like train tool/build microscope, then use microscope? does that simplify it too much?
@@ -701,7 +701,7 @@ You have to feel and listen, eventually, ultimately, to each, every, and all sti
 
 “If you’re good to them, then they’ll become good you.”
 
-All of the above is not “turiya” or “nonduality,” but it is compatible with that “stateless state.” 
+All of the above is not “turiya” or “nonduality,” but it is compatible with that “stateless state.”
 
 Progressive insight into emptiness unlocks the capacity for turiya and the capacity for all the above. And progress towards turiya is usually progress towards all the above, and vice versa. Using the practices in this document will steadily, albeit nonmonotonically, move you towards all of this. You’ll incidentally get all the meditation-y goodness, too, without having to do anything special.
 
@@ -775,11 +775,11 @@ Reading the sections below may help to minimize risks to self and others, in rel
 
 part X: a brief layer model of mind, personality, groups, and (global) culture:
 
-Consider the mind to be made up of a large number of parallel (information) flows, or pipes, or tubes. 
+Consider the mind to be made up of a large number of parallel (information) flows, or pipes, or tubes.
 
 Countless numbers of these tubes all happening, all at once, is you.
 
-Sensory information goes in one end of a tube (sensation) and immune system, hormonal, glandular, smooth muscle, and skeletal muscle activity goes out the other end of a tube (actuation). 
+Sensory information goes in one end of a tube (sensation) and immune system, hormonal, glandular, smooth muscle, and skeletal muscle activity goes out the other end of a tube (actuation).
 
 Tubes can be short and long.
 
@@ -807,7 +807,7 @@ When junctured awareness tubes are very short and contain no loops, then there i
 
 When there are loops in or proximal to junctured awareness tubes then there is self-experience. There is, partially, “what it feels like to be you.”
 
-Countless tubes at any given time are junctured awareness tubes, but most tubes at any given time are not junctured awareness tubes. 
+Countless tubes at any given time are junctured awareness tubes, but most tubes at any given time are not junctured awareness tubes.
 
 When loops are minimized there cannot be contention or compensation.
 
@@ -829,7 +829,7 @@ An example of compensation is “I’m doing X which is bad but if I also do Y t
 
 Compensation is usually not perfect and so begets further compensation. An example of this is “I’m doing Y to compensate for X but Y creates a further problem Z so I must do R to compensate for Z but R also has a problem…”
 
-Compensation is fractally self-similar. That is, micro-compensation produces larger-scale patterns of compensation. Examples of larger-scale patterns are tics, neuroses, hangups, blindspots, personality disorders, etc. 
+Compensation is fractally self-similar. That is, micro-compensation produces larger-scale patterns of compensation. Examples of larger-scale patterns are tics, neuroses, hangups, blindspots, personality disorders, etc.
 
 Compensation can produce occlusion. Occlusion is when tubes are not and cannot easily or quickly become junctured awareness tubes.
 
@@ -885,15 +885,15 @@ And, upon being triggered, negative behaviors, both gross and subtle, will feel 
 
 The obvious stuff is bad enough, from glaring to shouting or even hitting. But the subtle stuff can be really bad, too. It can be coercive, soul-damaging—it can create vulnerabilities which beget further harm.
 
-We all do things we don’t endorse. We all can cause subtle harm. And, if we had adult abuse in our past, sometimes we can do harm “above our weight class,” and it’s very regretful. 
+We all do things we don’t endorse. We all can cause subtle harm. And, if we had adult abuse in our past, sometimes we can do harm “above our weight class,” and it’s very regretful.
 
 The above few paragraphs describe the spectrum from everyday blah all the way to hapless creeps.
 
 The is a worse level, which is that of the “dark wizard.” For the previous level, the ability to do harm is accumulated incidentally and unsystematically. But, a dark wizard systematically cultivates the ability to influence people. This can be both “deliberate and unreflective/accidental,” “deliberate and reflective.”
 
-For the “deliberate and unreflective/accidental” category, a good example of this is in relation some kinks, fetishes, paraphilias (and also “vanilla-sexual”). Some kinks are pure fantasy, some involve “consentual nonconsent,” and some, usually disendorsed, involve the actualization of nonconsent, either incidentally or essentially. 
+For the “deliberate and unreflective/accidental” category, a good example of this is in relation some kinks, fetishes, paraphilias (and also “vanilla-sexual”). Some kinks are pure fantasy, some involve “consentual nonconsent,” and some, usually disendorsed, involve the actualization of nonconsent, either incidentally or essentially.
 
-Unfortunately, all of those cases can potentially produce unwanted effects in other people because, even for the pure fantasy cases, there can be “actualization bleed.” And, often people have lower-layer material/“tubes”/etc that want to realize some “actual nonconsent,” even if this is disendorsed by much else of the system. And even if this is compensated for at the higher layers. There can still be subtle, harmful effects between people via lower levels. 
+Unfortunately, all of those cases can potentially produce unwanted effects in other people because, even for the pure fantasy cases, there can be “actualization bleed.” And, often people have lower-layer material/“tubes”/etc that want to realize some “actual nonconsent,” even if this is disendorsed by much else of the system. And even if this is compensated for at the higher layers. There can still be subtle, harmful effects between people via lower levels.
 
 The situation is analogous for safety/control fantasies and revenge fantasies. (For the safety/control case, the person wants other people to behave in highly specific ways so that that person can feel safe. Often, this will be in childhood, parent-child, or religious ontologies.)
 
@@ -1038,7 +1038,7 @@ It’s hard to overstate how much such an individual, one who, deep down, is rel
 
 part X: spotting a cult leader by overt signs:
 
-Because the subtle signs are harder to detect and sometimes can’t be detected immediately, here is an incomplete list of overt signs that you’re possibly in the presence of a cult leader: 
+Because the subtle signs are harder to detect and sometimes can’t be detected immediately, here is an incomplete list of overt signs that you’re possibly in the presence of a cult leader:
 
 (*) […]
 (*) noticing you’re holding your body very still
@@ -1203,7 +1203,7 @@ the creativity of evil:
 
 joy:
 
-safety = resolution of problems + mind autonomy	
+safety = resolution of problems + mind autonomy
 safety + creativity = joy
 
 
@@ -1252,7 +1252,7 @@ What these mean, and they all refer to the same thing, is to sort of be doing on
 
 It’s better to maybe pretend that the instructions are complete shit, a lossy telephone game, that’s pointing at a real thing (or is it), but something got hopelessly garbled. And, you want the value, but you should then interact with the instructions with the intention to find “the real instructions behind the instructions.” This isn’t a new idea. But, even where some parts of this document are vague, some parts are crystal clear (in some sense), albeit hard to parse or initially interpret. And that (arguable) clarity can make it seem like “all one has to do is follow the instructions,” which just isn’t true.
 
-I tell people they would ideally create their own instruction document, that leaves out none of the essential complexity that this document is pointing to, but is entirely in their own words… 
+I tell people they would ideally create their own instruction document, that leaves out none of the essential complexity that this document is pointing to, but is entirely in their own words…
 
 Without this section, I think the written instructions do eventually lead people to the “real instructions,” but hopefully reading this will make that go faster.
 
@@ -1337,7 +1337,7 @@ Bravery. Courage.
 
 drama:
 
-Beware of decompensated impulsiveness. Don’t cheat on your significant other. Don’t blow up at your friends. Don’t create situations where you need to be saved. Don’t be dramatic. Be exactly as dramatic as you need to be but no more. 
+Beware of decompensated impulsiveness. Don’t cheat on your significant other. Don’t blow up at your friends. Don’t create situations where you need to be saved. Don’t be dramatic. Be exactly as dramatic as you need to be but no more.
 
 
 error propagation, wayfinding, grace of what minds are:
@@ -1582,7 +1582,7 @@ Deliberately seek out positively valenced feelings and/or other sensations. Deli
 
 explore what you (seem to) know, understand, expect, and remember:
 
-Explore what you know. Explore your understanding of things. Explore your memories. 
+Explore what you know. Explore your understanding of things. Explore your memories.
 
 
 put things into words, slowly, and maybe revise:
@@ -1858,7 +1858,7 @@ Reassure yourself. Hold yourself. Be gentle on/to yourself. Talk to or treat you
 
 relax: (jd)
 
-Take deep breaths. Take it easy. Loosen up. Untense. Relaxxxxxxxx. 
+Take deep breaths. Take it easy. Loosen up. Untense. Relaxxxxxxxx.
 
 
 think with your body: (jd)
@@ -1903,7 +1903,7 @@ If it’s good to do so, lean-in-to/embrace the churn/uncertainty/not-knowing/in
 
 welcome experience: (jd)
 
-Welcome, allow, accept, receive, let in, make space for, give breathing room to … whatever is happening in experience. 
+Welcome, allow, accept, receive, let in, make space for, give breathing room to … whatever is happening in experience.
 
 
 examine avoidance: (jd)
@@ -2011,7 +2011,7 @@ explore joy in another’s success or happiness:
 Thus.
 
 
-explore reluctance to forgive; explore grudgingness: 
+explore reluctance to forgive; explore grudgingness:
 
 Thus.
 
@@ -2553,7 +2553,7 @@ Places likely worth investigating:
 2. Where something is seemingly somehow X and Y at the same time.
 3. Where something is seemingly somehow X and Y at different times.
 4. Where something is seemingly somehow either X or Y conditionally.
-X, Y = 
+X, Y =
 a) true, false
 b) good, bad
 c) existent/present, nonexistent/absent
@@ -2582,7 +2582,7 @@ Will Instructions Part 1:
 • If you become aware that it would be bad to directly and immediately will [in such or such and thus a manner/sense/way] that or something like or in the neighborhood of [proposition] P at or during a particular time/moment/instant or interval/duration, and, at or during that particular time/moment/instant or interval/duration, you can do so, and it’s still good to do so, then don't do so (don't start doing so or stop doing so); have the [minimal] absence of that willing; allow or participate in that happening.
 • If you become aware that it would in some sense have been good to do so but you can’t (a) will or can’t (b) have the absence of willing that or something like or in the neighborhood of some particular [proposition] P, at or during a particular time/moment/instant or interval/duration, then stop trying completely, will that you have the absence of willing that P and ultimately release even that; allow or participate in that happening.
 Will Instructions Part 2 (the “opposite” or “absence” or “antidote” of/to will):
-• If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as “volitional-you-proper” is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/destiny/inevitability/choicelessness/expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, dream, get lost, be lost, forget, allow, surrender, suffer, be confused, be uncertain, be out of control, let go, ‘controlled/channelized “falling backwards [into]”)’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.  
+• If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as “volitional-you-proper” is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/destiny/inevitability/choicelessness/expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, dream, get lost, be lost, forget, allow, surrender, suffer, be confused, be uncertain, be out of control, let go, ‘controlled/channelized “falling backwards [into]”)’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.
 • If you become aware that it would be bad to have faith or forbearance or resignation or surrender or giving up, etc. about something relative to your fate/destiny/inevitability/choicelessness/expectation[e.g.][(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality], to forget, dream, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, ‘controlled/channelized “falling backwards [into]”, fall-backwards-into, fall-forwards-backwards-into)’ and you can (not) do so, do not surrender to that, don’t do that. [e.g./for example maybe: fight, resist, will, try everything, try different things, go back to the drawing board, exhaust every possibility, give it everything you have, try more things, etc., or not, or don’t]
 • If you find you can’t do one of the two above, then stop trying completely, will that you have the absence of trying and ultimately release even that; allow or participate in that happening.
 Action Instructions Part 1:
@@ -2833,7 +2833,7 @@ knowledge/awareness of an inability to think, plan, or do anything as such
 knowledge/awareness of continuous [(subtle)] prevention
 knowledge/awareness of “didn’t think I had to look at this”; “didn’t think I had time to look at this”
 knowledge/awareness of “if I take the time to look at that then something bad will happen”
-knowledge/awareness of reliance on sensations representing not-here-and-now-ness 
+knowledge/awareness of reliance on sensations representing not-here-and-now-ness
 knowledge/awareness of turning towards inside instead of outside for stabilization
 knowledge/awareness of inclination towards indirect/mediated/symbolic control
 knowledge/awareness of “had I only known X”
@@ -2852,7 +2852,7 @@ awareness of “getting”/“getting mind to do X” [cf forcing]
 knowledge of seeming occluded resolve
 knowledge of insecurity
 knowledge of “temptation”, insecurity, credulity/credulousness
-knowledge/awareness of “moral reality”; causal/moral/reality 
+knowledge/awareness of “moral reality”; causal/moral/reality
 knowledge/awareness of desire or intention to make [X] actual
 knowledge/awareness of juxtaposition
 knowledge/awareness of [directly] “having no idea how to do that/X”
@@ -3059,7 +3059,7 @@ Finally, all the above is the canonical, main practice. And/but, you can also tr
 p10: [experimental]
 This practice might be called “minimal unit partially ordered imaginative/generative concrete planning.” That is, in some sense, it is a planning practice.
 
-Explore what you want and what you might do by imagining/generating immersive, concrete experience, as if you’re fully living it, in two subsequent moments. And repeat. 
+Explore what you want and what you might do by imagining/generating immersive, concrete experience, as if you’re fully living it, in two subsequent moments. And repeat.
 
 first person concrete experiential qualities in —> first person concrete experiential qualities out
 
@@ -3110,7 +3110,7 @@ Alternative presentation: [yay = good; bleh = bad] “Many Protocol” (Last upd
 
 2. Person A considers a move M. M can be (a) physically verbal, physical nonverbal, mental, or even (b) a “non-move that’s still a move.” Examples of (a): a verbal observation, verbal question, a verbal request, a quizzical look, a shrug, eye contact... Examples of (b): thinking about what to say, waiting patiently, waiting patiently with an open mind, leaving the vicinity temporarily…
 Moves can be complex, that is, moves can be made of submoves that are simultaneous and/or sequential in time.
- 
+
 3. Now, say, something can be “yay” or “bleh” for someone. And, something can be *believed* to be yay or bleh for someone, *by* someone. And, two or more people, at a particular time, might disagree as to whether a particular something is yay or bleh (for someone or in general). Also, say, for our purposes, that there’s a fact of the matter or a ground truth, that that particular something is actually/truly (contextually, for a particular person at a particular time) yay or bleh, with no other possibilities. And let those possibilities be possibilities for M. That is, we can have a big list (exactly 64 items) of things that could be the case for M, where only one entry/line in the list is true at a particular time. That list is in Appendix 1.
 
 4. Now, so, person A selects and makes the best move M they can make, in consideration of as many moves as they have time to consider, and in consideration of the 64 possible classifications of moves (in Appendix 1).
@@ -3246,7 +3246,7 @@ via e.g.: http://www.qcc.cuny.edu/socialsciences/ppecorino/MEDICAL_ETHICS_TEXT/C
 The Formula of the Law of Nature: "Act as if the maxim of your action were to become through your will a universal law of nature."
 The Formula of the End Itself: "Act in such a way that you always treat humanity, whether in your own person or in the person of any other, never simply as a means, but always at the same time as an end."
 The Formula of Autonomy: "So act that your will can regard itself at the same time as making universal law through its maxims."
-The Formula of the Kingdom of Ends: "So act as if you were through your maxims a law-making member of a kingdom of ends." 
+The Formula of the Kingdom of Ends: "So act as if you were through your maxims a law-making member of a kingdom of ends."
 
 
 Formulation 5: (mutual knowledge)
@@ -3265,7 +3265,7 @@ Notes:
 (*) co-doing, co-moves, simultaneous complementary moves, we, separation, nonseparation, no boundary, etc.
 
 
-lists and more: 
+lists and more:
 
 A few of these sections are sort of “less clear” in some ways than the main practices. Those are sort of “noncanonical” in some sense. I’m not sure how to slice and dice all this yet
 
@@ -3326,7 +3326,7 @@ Sensations can be “external” or “internal”.
 A proposition P is a representation that asserts what is or may be.
 A concept (directly) represents something.
 A collection of connected/nonseparated propositions are/is a model M.
-“Aware” in “become aware” is like if you’re aware of something then it’s “part of” awareness or “in” awareness. and awareness is the whole thing. 
+“Aware” in “become aware” is like if you’re aware of something then it’s “part of” awareness or “in” awareness. and awareness is the whole thing.
 […]
 
 
@@ -3354,21 +3354,21 @@ Usually the way your mind figures out how to make it safe to look will be necess
 Nevertheless, it can sometimes be helpful to make a list of the classes of things that are hard to look at, as a way to help your mind more quickly get it’s bearings. Below is a messy sample list of the kinds of things one might classify in one’s mind as “avoidy” or “attention-redirecty.”
 
 Low-grade anxiety
-Horror 
+Horror
 Terror
-Metaphysical horror 
-Horribleness 
+Metaphysical horror
+Horribleness
 Terribleness
 Pointlessness
 Meaninglessness
 Cold-water-Spray-bottle-kitten-shock-outrage-sick(-horror(-terror))
 (This-)can’t-be-happening-ness
 Hurt-by-others’-actions-ness
-hurt-by-others’-unhelpfulness 
+hurt-by-others’-unhelpfulness
 Drama
 Melodrama
-Psychodrama 
-Anything suppressed by the will that feels bad being unsuppressed 
+Psychodrama
+Anything suppressed by the will that feels bad being unsuppressed
 Really-was-upset(-about-that)-ness
 Really/actually-was-really-bad(-at-the-time-it-was-happening)-ness
 Really-did-push-that-away-without-solving-it
@@ -3383,7 +3383,7 @@ Haste/imminence_pressure/rushing/corner-cutting/force-it-through-ing cf (judged_
 Wrongness/doing-the-wring-thing-ness/this-isn’t-working-ness/(judged_)too_slow(_ness)
 ?????doubt-in-method-ness
 Frantic-ness
-Desperation 
+Desperation
 ...sacredness
 ...unforgiveableness
 ...unthinkableness
@@ -3394,11 +3394,11 @@ teeth-gritting, white-knuckling [will+redirection?...]
 blind/unresponsive-just-keep-going-ness [vs a better version...]
 Relief(!)—I.e. anything can get tagged as “redirectively bad”
 “perpetuators”/“slack grabbers”/“compulsive push-downs”
-Etc 
+Etc
 cf. the attention redirecting or aversive phenomenologies
 has to be uncrusty exposure vs copy or (re)duplication~ facilitation via correct application of do nothing
 [some repeats below here]
-Low-grade anxiety, panic, horribleness, fear, terror, terribleness, hopelessness, meaninglessness, surprise sudden soul-tap uninterpretable mortal physical peril terror even childhood nightmare/fantasy possibly extreme soul-gripping [perfect fear/intolerable/disgust experiential  
+Low-grade anxiety, panic, horribleness, fear, terror, terribleness, hopelessness, meaninglessness, surprise sudden soul-tap uninterpretable mortal physical peril terror even childhood nightmare/fantasy possibly extreme soul-gripping [perfect fear/intolerable/disgust experiential
 
 Again this is a hard thing to do willfully, and one shouldn’t do it forcefully, but it can be helpful to keep in mind “(self-)cornering”, as in “nothing left to do but look” and “surfing up the terribleness gradients”, using experiential badness as a way to prioritize and navigate. Sometimes badness will come up that seems tangiential or in reaction to what you’re doing, but, in fact, it’s directly related, and in some sense should be prioritized.
 
@@ -3439,7 +3439,7 @@ Finally, here are some ways that people systematically leave things out; as best
 
 
 exhaustivity and bottlenecks:
- 
+
 don’t skip anything, don’t bypass anything, don’t force anything. don’t double-down, you’re probably missing something somewhere else. if you accidentally force, reverse it as soon as you possibly can. rare, weird, unusual, surprising, or uncommon stuff matters. it could be a clue to a systematic avoidance or a bottleneck. eventually you have to touch everything in every way, think “everything,” believe “everything,” do “everything”, remember everything, often from multiple angles, over and over again, in the right global order, though with plenty of room for backtracking and mistakes. every good thing, every bad thing, every trauma, every childhood terror. it’s finite. don’t do so any session indiscrimately; and catching small details can save dozens or hundreds of hours, tiny (or large) unexpected body locations or depths from particular angles or along particular paths, far removed from each other in partially repeating, complex orders; the right turn or surrender to memory or thought or reverie—spending hours painstakingly untangling (local or distributed) X is worth it and necessary, interleaving doing that with large excursions to elsewhere in body and mind may help you find what’s “secretly” blocking that untanglng. sleeping, watching tv, conversing, throwing yourself into experience may offer clues to what to do next. it’s finite.
 
 a too-clean sample pattern of attention: 1212121212121212121212…
@@ -3521,7 +3521,7 @@ So if a person is shying away from force completely, but there's already force i
 
 So sometimes it's important to surrender to or to go into that what is generally “not supposed to do,” (in this case, force) so I don't want to say like globally don't be forcy. But sometimes subtly or not so-subtly ease into forcing, or already existing forcing, or allow latent or hidden forcing to appear.
 
-And this “going into,” or “allowing,” or “surfacing,” is for the purposes of sort of self-liberating that remaining forcing or dissolving it or undoing it or undoing its leading edge. 
+And this “going into,” or “allowing,” or “surfacing,” is for the purposes of sort of self-liberating that remaining forcing or dissolving it or undoing it or undoing its leading edge.
 
 So this is nuancing on top of the general but not universal principle of avoiding forciness or forcing. (And this “redo-to-undo” principle/heuristic also more generally applies. See p2 for more pith pointers to this.)
 
@@ -3618,12 +3618,12 @@ More questions welcome and please poke for different kinds/styles of answers if 
 
 Mark 9:03 AM
 It’s not universally true, but, generally, “forcing,” “powering through,” or “needle-threading in order to keep going and going” should be avoided because these can create puzzles that need to be laboriously undone later to make further progress.
-If something seems like it’s “jamming” or “grinding,” I would halt that prelim/aux exercise and engage the meta protocol to see if that illuminates a better thing to do. The meta protocol itself can jam, in which case one can do lighter and lighter versions of the meta protocol (as described in the meta protocol section), or do the “meta meta protocol” (apply the meta protocol to itself), or browse through the document and choose something else to do, as per intuition (such as other prelim/aux practices or one of the main practices), or take a break and do something different and/or fun. (edited) 
+If something seems like it’s “jamming” or “grinding,” I would halt that prelim/aux exercise and engage the meta protocol to see if that illuminates a better thing to do. The meta protocol itself can jam, in which case one can do lighter and lighter versions of the meta protocol (as described in the meta protocol section), or do the “meta meta protocol” (apply the meta protocol to itself), or browse through the document and choose something else to do, as per intuition (such as other prelim/aux practices or one of the main practices), or take a break and do something different and/or fun. (edited)
 
 Mark 9:12 AM
-For intuitions, to my mind, meditation is less like strength training and more like a single [many-typed, many-peg] Tower of Hanoi-type puzzle, if that makes sense. Long-range, global [maximum] wayfinding through a multidimensional, nonmonotonic space. (edited) 
+For intuitions, to my mind, meditation is less like strength training and more like a single [many-typed, many-peg] Tower of Hanoi-type puzzle, if that makes sense. Long-range, global [maximum] wayfinding through a multidimensional, nonmonotonic space. (edited)
 
-And the [open set of] prelim/aux practices reveal new dimensions of movement and new feedback loops, to be fed into the global wayfinding engine [automatically and by application of the meta protocol]. (edited) 
+And the [open set of] prelim/aux practices reveal new dimensions of movement and new feedback loops, to be fed into the global wayfinding engine [automatically and by application of the meta protocol]. (edited)
 And then p2 is the enactment of global wayfinding which includes upgrading itself en route, interleaving handoffs to other practices for indirect upgrades, and finally undoing and self-transcending itself.
 
 Mark 9:33 AM
