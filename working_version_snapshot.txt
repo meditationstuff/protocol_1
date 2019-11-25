@@ -2546,12 +2546,17 @@ To what end am I doing what I am currently doing? And why that? And why that? &c
 
 refactor agency: (h)
 
-À la V. Rao (https://www.ribbonfarm.com/2012/11/27/patterns-of-refactored-agency/). Notice a thought or framing of some occurrence, and split/clump/invert/rotate/refactor the agency/will of whatever is involved. Some examples: “Those flowers are alluring” → “Those flowers want to be admired”; “I want to eat the doritos” → “The doritos want to feed me”; “I hate this traffic” → “This traffic jam is angry with itself”; etc.
+À la V. Rao (https://www.ribbonfarm.com/2012/11/27/patterns-of-refactored-agency/). Notice a thought or framing of some occurrence, and split/clump/invert/rotate/refactor the agency/will of whatever is involved.
+
+Some examples:
+- “Those flowers are alluring” → “Those flowers want to be admired”;
+- “I want to eat the doritos” → “The doritos want to feed me”;
+- “I hate this traffic” → “This traffic jam is angry with itself”; etc.
 
 
 invent a concept: (h)
 
-Name the heretofore unnamed. Slice reality along a new axis.
+Name the unnamed. Slice reality in a new way.
 
 
 mindful hygiene: (h)
