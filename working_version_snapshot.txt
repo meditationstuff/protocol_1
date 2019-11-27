@@ -1,16 +1,23 @@
-v75 Mark D Lippmann Method (“Mastery Protocol”)
+v76 Mark D Lippmann Method (“Mastery Protocol”)
 
 
 
-Copyright: All rights reserved. You may fork/publish lightly transformed (formatted, edited) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date.
+Copyright:
+
+All rights reserved. You may fork/publish lightly transformed (formatted, edited) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date.
 
 
 
-***Catch-all/alpha/beta/draft disclaimer:*** I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a very small additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a very small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
+***Catch-all/alpha/beta/draft disclaimer:***
+
+I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a very small additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a very small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
 
 
 
-Please support this work: https://www.patreon.com/meditationstuff
+Funding:
+
+Please support this open access work: https://www.patreon.com/meditationstuff
+[As of this version, now at 8 patrons and $101/month USD. Next round number $110; 9$ to go; 92% complete.]
 
 
 
@@ -18,7 +25,13 @@ Author web presence: https://meditationstuff.wordpress.com
 
 
 
-Alternative versions: Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
+Canonical location of this document: https://github.com/meditationstuff/protocol_1
+
+
+
+Alternative versions:
+
+Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
 
 (*) https://rothos.github.io/protocol_1/
 
@@ -105,7 +118,7 @@ Most people will probably be happier striving for and maintaining a stable roman
 
 Love properly labeled and defined is probably a uniquely important thing.
 
-Some truths are exceptionless/universal and eternal or sempiternal. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
+Some truths are exceptionless/universal and eternal or sempiternal or timeless or outside-of-time or something. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
 
 Progress is often multidimensionally nonmonotonic.
 
@@ -210,12 +223,13 @@ v71 backup 20191118.rtf
 v72 backup 20191118.rtf
 v73 backup 20191122.rtf
 v74 backup 20191122.rtf
+v75 backup 20191122.rtf
 
 
 
 Credits: 
 
-…__, __, __, __, __, __, __… [I have to ask at least these seven people whether they want to be credited.]
+…JD, __, __, __, __, __, __, H… [I have to ask several of these people whether they want to be explicltly credited.]
 
 
 
@@ -226,6 +240,7 @@ copyright
 catch-all/alpha/beta/draft disclaimer
 funding
 author web presence
+canonical location of this document
 alternative versions
 contents (simplified/elided)
 preamble
@@ -362,7 +377,7 @@ practice
 			examine avoidance (jd)
 			do what feels good
 			patiently wait with what feels bad
-			patiently what with “something’s bad but don’t know what or where”
+			patiently wait with “something’s bad but don’t know what or where”
 			uncrush crushed desires
 			physically dramatize, physically act out
 			explore the experience of masculine gendered power
@@ -506,7 +521,7 @@ practice
 			seek explicit understanding
 			intention
 			counterfactual closure
-find the sparkle:
+			find the sparkle
 		main practice(s)
 			p0
 			p1 [old names: Elemental Analysis, Comprehensive Elemental Analysis]
@@ -543,6 +558,7 @@ lists and more
 	extremity replay and creativity: panic, trauma, sexual arousal
 	on falling asleep
 	a gentle onramp
+	good(ness) bad(ness)
 	some “big” useful concepts
 bibliography (incomplete)
 
@@ -1425,6 +1441,15 @@ You might also see the “gentle on-ramp”/“onramp” section elsewhere in th
 
 practice:
 
+>>>
+> […] >  I claim that one can't just pick a method and push that button until the end. One eventually has to transcend whatever instructions they're doing to find the "real feedback loops and gradients" that the words are trying to point at.
+> [For what it’s worth], my method is intended to painstakingly direct people to the really real feedback loops they’re actually using to bootstrap them to doing an ever-better thing behind the thing.
+> (1) The Main practices (abstractly specified, closed set, concretely instantiable in each moment)
+> (2) Prelim/Aux practices (call out degrees of freedom to feed into the main practices)
+> (3) Meta protocol (explicit bootstrapping and error correction)
+> (4) Lists (more calling out degrees of freedom and ways to slice the pie, to feed into the main practices)
+> […]
+<<<
 
 
 risks:
@@ -1640,7 +1665,7 @@ Thus; And consider writing by hand when you’re doing this.
 
 say or think truth:
 
-Verbalize a seeming relevant seeming truth. [sic] Repeat.
+Verbalize a seemingly relevant seeming truth. [sic] Repeat.
 
 
 explore *how* you’re thinking:
@@ -1964,7 +1989,7 @@ do what feels good:
 Thus.
 
 
-patiently what with what feels bad:
+patiently wait with what feels bad:
 
 Thus.
 
@@ -3107,6 +3132,7 @@ knowledge/awareness of “plan [phenomenology]” (*)
 knowledge/awareness of “error”
 knowledge/awareness of “two things that are combined that shouldn’t be”
 knowledge/awareness of wrongness/incorrectness
+knowledge/awareness of “this is my life, now” [~transient]
 
 
 
@@ -3293,7 +3319,13 @@ p8:
 (*) Does the world need to make sense in a very particular way? How/what is that way?
 (*) How is your mind working right now? In what manner?
 (*) What language or meta-language is your mind using? What is the lingua franca of your mind?
-
+(*) What is the world?
+(*) What is the relationship between meaning, completion, imminence, now, and stability, in no particular order?
+(*) Say there’s something X that nothing “external” to you can give you, or that you can’t get doing “external” things. What is X?
+(*) Say there’s something X that can only be gotten through “internal rearrangement.” What is X?
+(*) Has anything ever-always-as-yet-still been completely untouched by all goal-seeking in your life? If so, what/where is that?
+(*) Do you want to fuck and/or be accepted by your mom? Do you want to fuck and/or be accepted by your dad? Do you want to kill either or both of your parents or any or all your siblings?
+(*) What as an AMAB or AFAB (a male assigned at birth, a female assigned at birth) or intersex or contingent anything, can you definitely or merely apparently never receive, have, get, do, etc.?
 
 
 p9:
@@ -3908,6 +3940,11 @@ Not universally, but generally, increases in muscle tension (including subtle, s
 Shaking, twitching, emoting, vocalizations, and large movements are sometimes necessary and sometimes “self-distraction” (and sometimes a mixture). The meta protocol can be engaged to sort though and piece apart what should be allowed and encouraged and what should gently be disengaged or blocked.
 
 
+good(ness) bad(ness):
+
+What is goodness? What is badness? What is good? What is bad? What is good for you? What is bad for you? What does “good” mean to you? What does “bad” mean to you? Morally good, ethically good, personally good, good feeling? For you? For others? Morally bad, ethically bad, bad feeling? For you? For others? Usefulness? Value? Worth? Worthiness? Helpfulness? Spiritually? Practically? Partially good? Partially bad? Generally/contextually good? Generally/contextually bad? Universally good? Universally bad? Wholly good? Wholly bad? Mixed good and bad? More good? Less good? More bad? Less bad? Better? Worse? Best? Worst? [why not in meta, p/a, main practices and instead in lists and more is left as exercise to reader. Cam of course play with in relation to any of p/a, main practices (including p1) meta, and so forth.] doing good vs being good vs having  good vs experiencing good. Doing bad vs being bad vs having bad vs experiencing bad(ness). Intrinsic/essential/inherent goodness vs extrinsic/secondary/acquired/contextual goodness. Intrinsic/essential/inherent badness vs extrinsic/secondary/acquired/contextual badness. Goodness of form. Goodness of mode. Badness of form. Badness of mode. Goodness as an attribute. Badness as an attribute. Subsistent goodness. Subsistent badness. Where and what and how and when  and why and for what purpose is goodness? Where and what and how amd why and when and for what purpose is badness? What causes goodness? What causes badness? When is goodness an effect? When is badness an effect? When are goodness and badness neither a cause nor an effect? Is felt goodness always good? Is felt badness always bad? Immediate goodness. Mediate goodness. Immediate badness. Mediate badness. Direct goodness. Indirect goodness. Direct badness. Indirect badness. Sometimes good. Sometimes bad. Acting good. Acting bad. Appearing good. Appearing bad. Somehow good. Somehow bad. Artificially good. Artificially bad. Naturally good. Naturally bad. Stably good. Stably bad. Tending (toward) good. Tending (toward) bad. Historically good. Historically bad. Historically mixed. Eventually good. Eventually bad. Highest good. Lowest good. Highest bad. Lowest bad. Initial good. Initial bad. Final good. Final bad. Good for X. Bad for X. Good for X for Y. Bad for X for Y. Structurally good. Structurally bad. Independently good. Independently bad. Dependently good. Dependently bad. Separably good. Separably bad. Inseparably good. Inseparably bad.
+
+
 some “big” useful concepts:
 
 exceptionlessness 
@@ -3924,6 +3961,7 @@ existing/obtaining-at-all-times
 existing/obtaining-timelessly
 existing/obtaining-eternally
 existing/obtaining-sempiternally
+existing/obtaining-outside-of-time
 perfection
 flawlessness
 unity
