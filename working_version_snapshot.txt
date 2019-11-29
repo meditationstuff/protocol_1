@@ -76,7 +76,7 @@ preamble [draft!]:
 9. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
 10. If you have metabolic or cardiovascular disease such that a prolonged, inadvertent sedentary lifestyle (no exercise because of musculoskeletal sequelae) would be dangerous, then you should engage with these practices with caution.
 11. If your immune system is under- or overactive, then you should engage with these practices with caution.
-12. If you have experience abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
+12. If you have experienced abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
 13. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner that you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
 14. […]
 
@@ -110,7 +110,7 @@ Perhaps evil or malevolence is objective but things are only bad relative to you
 
 You might not feel good and safe all the time, but it’s good to want to feel good and safe, and it’s good to seek to stably feel good and safe or to feel good and safe as much as possible.
 
-Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to Inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
+Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
 
 You might get hit by a bus or meteor or your cryo chamber might run out of geopolitics or something. But, it’s possible to have a good life, anyway, and it’s possible to impeccably work to reduce the chances of such bad things while having a good, complete, rich, full, life.
 
@@ -726,9 +726,9 @@ There’s an ongoing project of collecting all the reasons why people bounce off
 
 goal: (draft)
 
-The goal of the practice is to have a good life, in the most broad and ordinary sense, on your terms, in your words, in your frame, or in no frame. That might look still, quiet, and intimate. That might look big and beautiful. (That might or might not include a good death.) That might look superficially normative and be quite nonnormative under the hood and in the cracks. Or that might quite normative in lots of ways. But the important thing is that it is good for and everyone you care about (which might be no one, everyone, etc.). It might end too soon or go on too long or who knows. In some sense you might fail: Maybe you or people you care about will get hit by a bus, a heart attack, a meteor, or a nuclear war. But the goal is to have a good (peaceful, interesting, exciting, fun, intimate, quiet, safe, stable, normal, extraordinary) life. That’s the point of all of this. (Asymptotically, nonmonotonically approaching self-perfection might be an interesting, fun, mediately traumatizing, opportunity-costly, incidental side effect.)
+The goal of the practice is to have a good life, in the most broad and ordinary sense, on your terms, in your words, in your frame, or in no frame. That might look still, quiet, and intimate. That might look big and beautiful. (That might or might not include a good death.) That might look superficially normative and be quite nonnormative under the hood and in the cracks. Or that might quite normative in lots of ways. But the important thing is that it is good for you and everyone you care about (which might be no one, everyone, etc.). It might end too soon or go on too long or who knows. In some sense you might fail: Maybe you or people you care about will get hit by a bus, a heart attack, a meteor, or a nuclear war. But the goal is to have a good (peaceful, interesting, exciting, fun, intimate, quiet, safe, stable, normal, extraordinary) life. That’s the point of all of this. (Asymptotically, nonmonotonically approaching self-perfection might be an interesting, fun, mediately traumatizing, opportunity-costly, incidental side effect.)
 
-Part of having a good life is preparing and account for (the likely possibility of) death such that you actually have a good life. One can have a dispreference for death, while not fearing it, while competently and proactively avoiding it, while seamlessly having that be a part of everything else that is good.
+Part of having a good life is preparing and accounting for (the likely possibility of) death such that you actually have a good life. One can have a dispreference for death, while not fearing it, while competently and proactively avoiding it, while seamlessly having that be a part of everything else that is good.
 
 One might have to give up everything in the pursuit of this goal, strangely, weirdly, even as lots of things stay superficially the same. In some ways getting everything you want will first cost you everything, will cost you your entire world, as you realize what you want is nothing like what you initially thought, that reality is nothing like what you initially thought, even though what you want appears superficially similar, in some ways, to what you previously wanted.
 
@@ -915,7 +915,7 @@ A person manages always-triggerable lower layers by reducing the scope of their 
 
 A person will have learned to manage some of their lower layers. But, typically, many layers (and “pockets”) will not be well-managed. A further complication is that lower layers, while not always, tend to be occluded and so can be affected outside of awareness and those effects may be hard to infer from downstream, ramified experiences. In short, it’s possible for vulnerable lower layers to become traumatized or further traumatized.
 
-It gets worse in that everyone, at all layers have both functional ontologies as well as remaining blooming, buzzing confusion (as per William James). That is, everyone has patterns of input that can produce hard to predict effects in the system. This is a further dimension of vulnerabilitiy.
+It gets worse in that everyone, at all layers, has both functional ontologies as well as remaining blooming, buzzing confusion (as per William James). That is, everyone has patterns of input that can produce hard to predict effects in the system. This is a further dimension of vulnerabilitiy.
 
 To explain further, when we were at our youngest, while we have genetic predisposition towards certain types of interpretations, the world doesn’t come pre-given. We have to assemble feeling, sound, light, touch, etc., into appearances, inferred objects, causal relations, and proactive management of self and environment. Prior to this, and always alongside this, there is blooming, buzzing confusion. There is “static,” “noise” limning the edges of experience and even shot through all of experience, the “feel of reality.”
 
@@ -1014,7 +1014,7 @@ To make things even *more* complicated, often people who are vulnerable to what 
 
 This is all very hard.
 
-There is an additional phenomenon of people believing that they are protected by their rationality, reaonabilitiy, belief in science, or strength of will. But, very often, such people will still be affected in occluded layers. And so their behavior will become more harmful, because they themselves have been harmed by something, but they will be resistant or unable to investigate this. And they might also further transfer bad things to other people; they might unknowingly pass bad stuff along. Such people are good candidates for interaction with a healer, if they agree to it.
+There is an additional phenomenon of people believing that they are protected by their rationality, reasonabilitiy, belief in science, or strength of will. But, very often, such people will still be affected in occluded layers. And so their behavior will become more harmful, because they themselves have been harmed by something, but they will be resistant or unable to investigate this. And they might also further transfer bad things to other people; they might unknowingly pass bad stuff along. Such people are good candidates for interaction with a healer, if they agree to it.
 
 Another problematic thing that can happen is, when someone becomes a systematic meditator, they can start decompensating in ways that influence occluded material. They might have cycles of increased desperation or neediness that bleeds through in problematic or intense ways. And people who are good-faith trying to become safer to be around, or just better people, can actually become more dangerous to be around for a period of time. This extends to communities as well. For a community of self-transformers, things can get much, much, much worse until things get better—lives can be ruined and communities can get torn apart, even as people just wanted to get better together. All the bad stuff can come out in insidious and explosive ways.
 
@@ -1054,7 +1054,7 @@ The second dimension is that of goodness/badness inversions. Sometimes we think 
 
 So self/other confusions and good/bad inversions can be abstractly considered as the main sources or enablers of subtle interpersonal disendorsed effects.
 
-(You may wish to temporarily skip to “part X: the quiet interaction and the beauty of subtle interpersonal effects” before moving foward.)
+(You may wish to temporarily skip to “part X: the quiet interaction and the beauty of subtle interpersonal effects” before moving forward.)
 
 
 part X: cult leaders:
@@ -1073,7 +1073,7 @@ Bad things happened to them (very) early in life, or they responded to normal or
 
 5) Finally, that seeming special knowledge about truth, goodness, power, meaning, etc., will in some way be instantiated in that person’s mind, but will usually be in some ways perverted, warped, or incomplete (even if seemingly clear, persuasive, attractive, and valuable). And prolonged contact with such a person can have a whole-mind warping effect, which would not be the case for someone who hadn’t developed such coherent-yet-still-perverse views.
 
-6) FInally, some people are particularly schizoid or exquisitely walled off from the effects of sensations, somehow managing sensations such that they flow through a keyhole in order to preserve a fantasy reality of control, megalomania, (terror, fear), etc., sometimes hidden even from themselves. They might seem somewhat normal, if otherwise charismatic and/or creepy, but their minds will be arranged in a way that makes it very, very, very hard for them to responsively learn and grow, to understand the harm they’re causing and to all-the-way-down care about not hurting people or to realize, all the way down, that they’re even hurting people at all.
+6) Finally, some people are particularly schizoid or exquisitely walled off from the effects of sensations, somehow managing sensations such that they flow through a keyhole in order to preserve a fantasy reality of control, megalomania, (terror, fear), etc., sometimes hidden even from themselves. They might seem somewhat normal, if otherwise charismatic and/or creepy, but their minds will be arranged in a way that makes it very, very, very hard for them to responsively learn and grow, to understand the harm they’re causing and to all-the-way-down care about not hurting people or to realize, all the way down, that they’re even hurting people at all.
 
 So charismatic cult leaders, or whatever, really are doing something especially bad.
 
@@ -1187,7 +1187,7 @@ Of course, it’s nice to be needed, or is it? It’s maybe safer to be needed, 
 
 Other people’s intelligence, skill, compassion, and love keep us safe, not them being forced into a narrow range of behaviors around you. Of course, people can locally disagree about what’s safe and good, and people can not realize how they’re being harmful, and people can be manufacturing victimhood or engaging in net-destructive self-healing strategies, and so on. So, ideally, as many people as possible are collaboratively and synergistically engaging in effective self-transformative practice and resource acquisition and distribution, etc.
 
-In any case, if someone doesn’t need to layer in your presense, then they can grow in your presence. And, if this is mutual, then you can grow together.
+In any case, if someone doesn’t need to layer in your presence, then they can grow in your presence. And, if this is mutual, then you can grow together.
 
 
 part X: it’s not cool:
@@ -1236,7 +1236,7 @@ Horrible things have happened to individuals, often in childhood. Violent abuse,
 
 part X: inappropriate reification:
 
-Remember all the above is just a theory of convenience, a story. Find your own truth. Don’t inappropriately reify any of this or take my word for it. Good science is still true. Planes still fly. Government still do the thing they do. Computers compute. Stuff that’s true is simultaneously true. Give yourself time to integrate new, surprising stuff into a unified worldview. It will take some time.
+Remember all the above is just a theory of convenience, a story. Find your own truth. Don’t inappropriately reify any of this or take my word for it. Good science is still true. Planes still fly. Governments still do the thing they do. Computers compute. Stuff that’s true is simultaneously true. Give yourself time to integrate new, surprising stuff into a unified worldview. It will take some time.
 
 
 
@@ -1260,7 +1260,7 @@ the creativity of evil:
 (#) Sometimes, one or more people from the outside can extract value from poison, without being destroyed, and can ultimately provide and share wisdom and healing that wouldn’t have been possible before.
 (#) Evil is real; it incidentally destroys goodness or directly tries to destroy goodness (and sometimes succeeds).
 (#) Evil is illusory; In its place is myopic, selfish desperation that would be (safe and) good, instantly, if it knew how.
-(#) It will ok in the end. If it’s not ok, then it’s not the end.
+(#) It will be ok in the end. If it’s not ok, then it’s not the end.
 
 
 
