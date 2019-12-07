@@ -1,10 +1,10 @@
-v76 Mark D Lippmann Method (“Mastery Protocol”)
+v80 Mark D Lippmann Method (“Mastery Protocol”)
 
 
 
 Copyright:
 
-All rights reserved. You may fork/publish lightly transformed (formatted, edited) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date.
+All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date.
 
 
 
@@ -48,11 +48,13 @@ Contents (simplified/elided):
 		the creativity of evil
 		joy
 	practice
+		risks
+		environment
+		posture
 		meta practice
 			meta protocol
 			meta meta protocol [sic]
 		solo practice (“main protocol”)
-			posture
 			preliminary/auxiliary practices
 			main practice(s)
 		interpersonal practice
@@ -224,12 +226,15 @@ v72 backup 20191118.rtf
 v73 backup 20191122.rtf
 v74 backup 20191122.rtf
 v75 backup 20191122.rtf
+v77 backup 20191205.rtf
+v78 20191205 backup.rtf
+v79 backup 20191205.rtf
 
 
 
 Credits: 
 
-…JD, __, __, __, __, __, __, H… [I have to ask several of these people whether they want to be explicltly credited.]
+…JD, __, __, __, __, __, __, H, A… [I have to ask several of these people whether they want to be explicltly credited.]
 
 
 
@@ -276,6 +281,7 @@ culture and community
 	creativity
 	the creativity of evil
 	joy
+	lineages and transformative works
 practice preliminaries
 	timeline, mindset, trajectory, harm
 		raw hours
@@ -290,11 +296,12 @@ practice preliminaries
 		conclusion
 practice
 	risks
+	environment [and subtlety; (more) risks and rabbit holes]:
+	posture
 	meta practice
 		meta protocol v1.5
 		meta meta protocol
 	solo practice (“main protocol”)
-		posture
 		preliminary/auxiliary practices
 			do less
 			sense now
@@ -519,9 +526,51 @@ practice
 			state/find the X
 			seek implicit understanding
 			seek explicit understanding
+			find the sparkle
 			intention
 			counterfactual closure
-			find the sparkle
+			stretch (h)
+			connect deeply with purpose/value/meaning/goodness (h)
+			notice the past (h)
+			notice the future (h)
+			notice discomfort (h)
+			attention pulled
+			volitional attention
+			liminal/nonverbal
+			curiosity for disagreement
+			resist attentional capture (1)
+			resist attention capture (2)
+			balance foreground and background:
+			look past (interpretive) overlays
+			the really truly possibly really good in the bad
+			the chakras
+			microcosmic orbit
+			bad to know/understand/see/be-able-to-tell
+			homomorphic ostension or reference
+			being/from
+			somatic refactoring
+			explore the body
+			fix/solve/solve
+			provenance and historical explanation
+			looking/checking with what you already have
+			personal evaluative comparison
+			meaning
+			ghost/energy hands
+			fractured reality
+			look down through the body
+			look at the back of you head
+			be (pop?) zen
+			stop trying to escape the now
+			take a break
+			collect simultaneous attentional objects
+			ghost/energy body
+			acceptance
+			instantaneous immortality
+			expand
+			broken phenomenology
+			inability/can’t/ability/can
+			stimulate all your senses (a)
+			minimize sensory input (a)
 		main practice(s)
 			p0
 			p1 [old names: Elemental Analysis, Comprehensive Elemental Analysis]
@@ -560,6 +609,10 @@ lists and more
 	a gentle onramp
 	good(ness) bad(ness)
 	some “big” useful concepts
+	poem of self/other confusion and interdependence
+	states
+	invitation of acceptance
+	nutrition
 bibliography (incomplete)
 
 
@@ -1270,6 +1323,120 @@ safety = resolution of problems + mind autonomy
 safety + creativity = joy
 
 
+lineages and transformative works:
+
+There’s the Silicon Valley bromide, “A’s hire A’s; B’s hire C’s.” So there’s this awareness of entropy or degradation or something.
+
+There’s a joke about how philosophers or academics in general produce “lesser clones” of themselves.
+
+There’s a big deal, I think, in artificial intelligence around “artificial bootstrapping,” as in, if and how and when is it possible to make something better in some way than its originator.
+
+I think, generally, in the self-help world, an academic or a sharp independent will create a technique, and then people will popularize it. Sometimes the popularization will be recognizable as the original or the original will even be referred to. Sometimes it’s called by the same name, and sometimes this is endorsed by the originator.
+
+And, other times, the popularization will have its provenance obfuscated. The popularizer will call everything by different names, usually water the thing down, make it much easier for people to grasp.
+
+Sometimes this will even be an improvement, but, I think, also, sometimes nuance will be left out that means that people that encounter it won’t be able to use that instantiation to “go all the way” with the material. This can still be a net win if the user would never have known about the existence of the original material or they wouldn’t have had an on-ramp to unlock the original material.
+
+But, sometimes, a couple worse things can happen. First, people can encounter the watered-down version and then think that the original version must be likewise deficient, even though they don’t carefully investigate the encountered original. (They might not know that it’s the *original gold standard,* or whatever.) Another thing that can happen is that no one will want to invest in the original creator popularizing their work, when they eventually want to get around to it, because “it’s already been done.” I vaguely remember at least one concrete case of this.
+
+The above paragraph is sort of looking at potentially bad outcomes at the level of individuals, consumers and the original creators. There’s system-wide potential negative effects, too:
+
+This happens to some extent in academic science, there’s a proliferation of low-quality papers (this is due to possibly too much funding as well as perverse incentives and metrics). And, skilled researchers can identify quality lines of work and build on those, but less skilled researchers and scientists in adjacent communties have a much harder time weeding through all the crap. This might be isomorphic to the idea of a market for lemons, which is a notable economics paper. If I recall correctly, in a market for lemons (as in lemon cars versus cherry cars?), there’s no way to tell which are the lemons and which are the cherries (back in the day), and so there was no incentive to sell cherries, and the average quality of used car was very low. (I’m probably getting something wrong, here.)
+
+Transferring this over to meditation-land. If there’s too many techniques to try because of low-quality and even well-intentioned popularizers and teachers, and say a person can’t efficiently weed through techniques until they find quality ones, because, for that person, it takes too long to know whether a technique is working or not—they might just not try to engage with meditation techniques at all.
+
+At think wisdom traditions, meditation lineages partially solve this by investing a lot of resources into a small number of people and authorizing some of them to teach and appointing one as a successor.
+
+This helps with succession and quality maintenance but is still vulnerable. It’s hard to be invulnerable to quality degradation. (Sometimes synthesizers or revivalists [or popularizers who choose wisely!] figure out or semi-invent things that are as good or better than the originals, at least along some dimensions.) People from the outside still have to figure out which lineages are actually good, and so there’s still a market for lemons problem, even if the lineage itself is doing an ok job of maintaining quality. And there’s the scaling problem.
+
+Even though science has its issues, it’s partially solved some of these kinds of problems, at scale, with with good feedback loops “truth”, empiricism, explicitness, etc. Again there’s a proliferation of low-quality papers. And, I think we’ve lost a good deal of our ability to train skilled scientists. But something was working ok for a while, and we’re still limping along, and science and technology are still progressing. (I’m ignoring the moral angle as well as opportunity costs, what could have been, in some neighboring world, here.)
+
+One can do a similar thing with self-improvement and meditation techniques. That is, while meditation traditions have texts, there’s often secret knowledge, or keys to unlocking those texts, that could only be gotten in person. (Sometimes people can bootstrap, one way or another, into unlocking texts without forming an intense relationship with a teacher.)
+
+That similar thing is to write better meditation manuals, and to keep improving them. Make them comprehensively explicit and conceptually clear. (My material has a long way to go, but it’s arguably pretty good. It seems like people do best when they’ve had some prior contact with other meditation techniques, and often it takes at least a tiny bit of question-answering with me, but some fraction of people on-ramp pretty quickly. And it’s my hope that skilled people will be able to de novo bootstrap with my material even if they have no contact with anyone who’s used it before, say if they find it on the internet somewhere.
+
+There’s still all sorts of dangers, here. It’s a trope of people destroying themselves with found texts and people mistintpreting texts or teachers, going too far too fast or perversely misterpreting, becoming dark wizards, cult leaders, arch nemeses, and so forth.
+
+But there’s something better, sometimes, about freely available, explicit meditation manuals versus esoteric knowledge mostly locked up in people. (Back in the day, by being esoteric, that’s how some traditions survived, I assume, making it possible for as to know about them and build on them. They kept the knowledge rare and valuable, so they could eat and keep the thing going. Hard problems, here. It sometimes also avoided the dangers in the above paragraph, probably, but the tropes still exist for a reason.)
+
+In any case, I worry that my material will be cleaned up and popularized in a way that both dilutes it and actually harms dissemination, breadth and depth, for some of the reasons above.
+
+More to say, and more to come, I suppose.
+
+It’s partially hard because I want people to take apart the material and rewrite it, because that’s a good way to learn, maybe the best way to learn. And I do want people to improve on the material, to the point that it becomes unrecognizable, in part because it’s better that way or just that it’s equally good (or whatever) but the new language speaks better to a different group of people.
+
+Often when people recreate something, they get it working just enough for themselves, whether they realize that’s what they’ve done or not, and they distribute it anyway, and this contributes to noise in the system, lemon markets, people thinking they’ve already seen better thing but it’s not worth it, and so on. (I think something like this happens in open source software, for some language and some domains. Also the forking, which is sometimes critically excellent and sometimes divisive, resource-draining, and community-killing.)
+
+So I guess I’m asking something like, if you lightly reshape the material, link back to my thing. If you heavily reshape the material, either make it so unrecognizable (if that’s natural) that’s there’s sort of no brand or community overlap, as it were, so that more and more people can be reached without instead just confusing people. And, in any case, try to make it excellent, try to make it so that it takes people all they way from many, many, many different starting points. Make it as excellent, effective, and comprehensive as you can, and powerful enough to take many different people at different starting points absolutely all the way.
+
+It’s my hope that we can make it really obvious who’s stuff is good, somehow cutting through all the noise. And then we link all the good stuff to all the other good stuff, and then people can choose from superb protocols that meet them exactly where they’re at. And somehow there’s just enough choice to benefit people, and low enough proliferation that there’s a very high signal-to-noise ratio.
+
+This is a theoretical-technical-empirical problem—makes the instructions interpretable and excellent. And partially a sociological problem—guard the community from entropy and noise. And those two problems are interrelated.
+
+Let’s try to have the right thing happen, and I also hope that my writing this doesn’t have a chilling effect, somehow. Let’s do the best we can to get supremely excellent material safely into as many hands as possible.
+
+Maybe it’ll be a long time before people’s work diverges and competes with mine (in a good(!) way or a bad(!) way or both). Or maybe it’s coming up fast. Unclear, at the time of this writing.
+
+See also, if twitter still exists when you’re reading this: https://twitter.com/swardley/status/1200193566749921280
+
+Well, he probably wouldn’t mind if I just pasted it here:
+
+Thread
+See new Tweets
+Conversation
+Simon Wardley #EEA #Labour
+@swardley
+Me : Gosh, your work is truly amazing.
+X : Thanks. I'd like to make it more widespread like your mapping.
+Me : That's easy. Just make it open, creative commons. People will ignore for years but don't worry.
+X : What if someone steals it.
+Me : They can't steal what you give away.
+5:23 PM · Nov 28, 2019·TweetDeck
+18
+ Retweets
+70
+ Likes
+Simon Wardley #EEA #Labour
+@swardley
+·
+22h
+Replying to 
+@swardley
+X : But wha if someone else makes money with it?
+Me : That's good news. The more the better. You're trying to create a community, a space for your work to exist in. Do you seek irrelevance?
+X : No
+Me : Then open it up.
+Simon Wardley #EEA #Labour
+@swardley
+·
+22h
+X : Can't I get some VC to sponsor or invest in me?
+Me : You're more likely to get someone with capital to steal your idea, cut yourself out of a market and never expand it. Entire markets are lost over legal squabbles and attempts to "own" stuff ... see Unix.
+Simon Wardley #EEA #Labour
+@swardley
+·
+22h
+X : I wasn't around at that time.
+Me : Oh, no problem. The entire future of the operating system was lost by a bunch of squabbling execs backed up by over enthusiastic lawyers, none of which could spell strategy let alone play it. This is a common story throughout history.
+Simon Wardley #EEA #Labour
+@swardley
+·
+22h
+... into the mix, an "unruly" individual played an open source hand and asked for help. It was mostly laughed at, dismissed as lacking any business acumen and then won the world. It's another reasonably common story.
+Simon Wardley #EEA #Labour
+@swardley
+·
+22h
+X : Reasonably?
+Me : Yes ... an open play doesn't exempt people from making utterly daft mistakes. See OpenStack and differentiation on APIs with AWS.
+Simon Wardley #EEA #Labour
+@swardley
+·
+22h
+X : I'm nervous about this.
+Me : Well, that's a good sign. The numero uno of daft moves is to open by default. You're struggling with this question which means you're on the open by thinking path. Even my opening of mapping all those years ago had a plan but no guarantees
+
+
 
 practice preliminaries:
 
@@ -1471,6 +1638,122 @@ The stuff below has a mild and transient version all the way up to an extreme an
 (*) Again, this could break you, this could ruin your life, ruin your mind, ruin your relationships, hurt a significant other, hurt your kids in entire-life-affecting subtle and overt ways, etc.
 
 
+environment and subtlety; (more) risks and rabbit holes:
+
+[editing note: needs at least some editing to tighten up the point being made and for run-on sentences, at the very, very least. may go for more concrete examples, later, too, along a bunch of dimensions.]
+
+As you dissemble and reassemble your idiosyncratically built up sensory processing system, as it were, choice about where and when you meditate can matter, more some times and less other times, over the long run, sometimes for idiosyncratic reasons and sometimes for more general reasons. Over time, you must come to be able to make good choices about when to modify your environment (time/money/mental/interpersonal cost-permitting) and when to leave it alone (time/money/mental/interpersonal cost-permitting), whether during meditation or just in daily life.
+
+So, environment-wise, systematically or opportunistically, it can be good to try many different things, and to try to discern what makes differences if there are seemingly differences:
+
+inside structures
+outside of structures, outside
+different structures/buildings
+different rooms in structures/buildings
+different locations in rooms
+different times of day: sunrise/dawn, sunset/dusk, noon, middle of the night, early morning hours, early evening
+city, suburbia, rural areas, countryside
+sea level, high hills, mountains
+different humidity, air pressure, temperature
+on boats and airplanes 
+by rivers, lakes, oceans
+different soundscapes and vistas or lack thereof
+different weather conditions
+
+You can also get a lot of cheap variety if you’re doing walking meditation, indoors or out and about.
+
+The claim is not that you must spend the time, money, and mental energy for exotic meditation experiences, definitely not that. And, surely, over time, you you want to be able to meditate effectively (and live fully) under a sufficiently wide range of conditions.
+
+[Some environments might be good every once in a while to maybe get unstuck, but are not necessary, and can be prohibitively costly to do regularly: anechoic rooms, flotation tanks and other sensory deprivation chambers, etc. I’ve played with a couple of these a few times, but in no way relied on them. It seemed like a good idea to include them for completeness.]
+
+But, all sorts of weird, counterintuitive things can matter over the short and long run, so it’s good to experiment. At least some of the variables are cheap to manipulate, and other variables can be manipulated opportunistically.
+
+You’ll start to notice subtler and subtler things, which will afford data that might sometimes be interpreted “superstitiously.” So, this is also yet another channel to explore and refine your epistemics, self-beliefs, meditation-beliefs, and cost/opportunity-beliefs, and to generate explanations of apparent influences on your practice, which you might find to be real or illusory, over time, and which you might become more and more robust to, over time, if they are real. (You might also transiently become more and more affected by them, which might be why they became more and more salient to you in the first place, whether for “superstitious” reasons, or not, which would not be unusual, and depends on idiosyncratic factors.)
+
+In any case, sometimes it’s a very, very good idea to meditate when weird right-now distracting or unpleasant environmental stuff is going on. And other times, it’s more productive to seek out different conditions for meditation.
+
+This is yet another area where you may go a little crazy before you go saner than you were before. And, trying to arrange one’s environment, because of believed/experienced effects, those effects may or may not actually being long-run problematic, whether one is meditating or living life, can become costly in way that, for people without the time and money, can be a net life negative. 
+
+In response to an earlier draft of this section, a collaborator writes:
+
+>>>
+[A]
+[…]
+You may discover that obvious and non-obvious stimuli have a distracting [or otherwise right-now-believed-to-be negative] effect[s….] And also, you may discover that some of these are chronically present in your environment, which you were not aware of, and you may become convinced they're bad for you, and please don't fuck up your life.
+<<<
+>>>
+[A]
+[…]
+To expand on the don't fuck up your life part, some well-intentioned gaslighting may be in order. Point out meditator's pain which not really about the position of your leg, point out that even ordinarily you will sometimes find a sound intolerable that you live with otherwise, point out that you are already inhabiting the world including these aspects and removing yourself from that comes with trade-offs (morality is the first teaching etc)
+[…]
+<<<
+>>>
+[A]
+By the way I think you really do have a tightrope to navigate here because one of the unique things about this system and this community is all the […] baggage it comes with, positive and negative. Assuming that any sort of spiritual practice will make you start acting like a crazy weirdo for a little bit, I find it much preferable that it goes in the direction of buying an air quality monitor or talking about primal sleeping positions and doing things in the spirit of […] weirdo optimizations rather than […]
+<<<
+>>>
+[A]
+Like I blew $200 on that [air quality monitor] and now I wonder about brain damage when […] lights a scented candle
+But otoh it's nice to get a ping to crack a window sometimes instead of being distressed that I'm just not feeling smart or energetic today
+<<<
+>>>
+Mark 1:15 PM
+yeah.
+it’s true. both. i think all of it can get integrated and sort of a costless choice to light the candle or not, open the window or not, but possibly crazy in middle and some people won’t have time/money/something to weather the crazy and it won’t be net good for them.
+<<<
+>>>
+[A] 1:16 PM
+Yeah, exactly
+Eat less carbs when it's a cheap option because it is legit better, but still outperform when you're on a pasta-based diet
+Learn what is orthorexia vs just being right
+<<<
+>>>
+Mark 1:29 PM
+Yeah. One of my ex’s knew me for a health nut and was shocked when I ate a huge Snicker’s bar in front of her. And I was like, well, a few of these will be like they never happened, and, I didn’t have time to cook, and, I know it won’t make sleepy and also I won’t be hungry for hours, and if I eat it all at once and then eat normal food later then it won’t contribute to insulin resistance. And I know I’m going to get some magnesium and potassium (etc.) later, and they have much lower trans fat than they used to, and peanuts are poison but only if you eat a ton for like a whole week or two, and…
+And she was like, oh, [aspirationally] reality-based.
+And I guess this generalizes to every single damn choice ever. (edited) 
+[…]
+“now you have n+1 problems before you have n-1 problems” or something.
+<<<
+
+
+posture: (section needs editing)
+
+You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, eyemask or dark room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
+
+Favorite meditation postures/combinations (unordered): sitting, lying down back/sides, Zhan Zhuang / standing, walking, running/jogging, yoga asanas, eyes open/closed, earplugs +/-, eye shades / complete darkness +/-, netflix, amazon video, facebook, twitter, watching blog stats
+
+Ah, also like "erect kneeling", knees on something padded, and otherwise "standing" straight. (If I'm doing standing meditation and my feet start to hurt, I switch between standing and this type of kneeling.) Different postures change salience of different feedback loops. Safer.
+
+Oh, more for completeness: leaning with back (butt) against low things like countertops where everything above the lean is unsupported/erect. Leaning back against walls. Finally, sometimes facing wall bracing with hands.
+
+more distinctions: sitting without back support, sitting with back support (still erect), and hella slumped in some comfortable couch or chair in some long-term comfortable way. always mix with erect/unsupported sitting and standing!
+
+Also, E Tai Chi (https://www.amazon.com/Tai-Chi-Basic-Book-Simplest-ebook/dp/B01MREOH1P/ …), custom/ad hoc tai chi, and custom/ad hoc yoga asanas
+
+[Also: ad hoc “internal martial arts” rearranging your weight, rearranging your stance, rearranging your relationship with gravity, rearranging your physical anticipations…]
+
+Also, custom/ad hoc device assisted stretches
+
+Also, sort of “upright fetal position”, maybe in the corner of a big chair or couch, with one’s back against the armrest and leaning to the side against the back. I am more likely to stay awake in this position if I’m tired but I can still drift in and out of sleep while meditating, and it’s a different kind of balance than laying in bed.
+
+Another thing to vary: Surfaces from very hard concrete to very soft for standing, sitting, and laying down, for very different kinds of feedback. For lying down: both on back and side, with and without a pillow. You might look into “natural sleeping postures. Firmer head or neck pillows can give better feedback for spotting creeping muscle tension or having it not arise in the first place.”
+
+You should check to make you’re not losing flexibility or that certain physical movements (or patterns of attention) aren’t becoming subtly unpleasant or aversive. Also, barbell weight training and bodyweight exercise is good, too, as another way to check for whether something is off, e.g. if some exercises become aversive or you’re losing strength or less able to transmit power through structure.
+
+[book recommendations: feldenkrais awareness through movement, anatomy trains yoga, starting strength, becoming a supple leopard]
+
+Some takes on “perfect meditation posture:”
+
+Johnson, Will. Aligned, relaxed, resilient: The physical foundations of mindfulness. Shambhala Publications, 2000.
+Johnson, Will. The posture of meditation: A practical manual for meditators of all traditions. Shambhala Publications, 1996.
+The Way of Energy: Mastering the Chinese Art of Internal Strength with Chi Kung Exercise (A Gaia Original)
+by Master Lam Kam-Chuen
+(books about Zhan Zhuang, in general)
+
+“Perfect posture” should be explored for the possibility of maximal useful feedback and safety.
+
+
 
 meta practice:
 
@@ -1539,42 +1822,6 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 
 
 solo practice: (“main protocol”)
-
-
-
-posture: (section needs editing)
-
-You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, eyemask or dark room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
-
-Favorite meditation postures/combinations (unordered): sitting, lying down back/sides, Zhan Zhuang / standing, walking, running/jogging, yoga asanas, eyes open/closed, earplugs +/-, eye shades / complete darkness +/-, netflix, amazon video, facebook, twitter, watching blog stats
-
-Ah, also like "erect kneeling", knees on something padded, and otherwise "standing" straight. (If I'm doing standing meditation and my feet start to hurt, I switch between standing and this type of kneeling.) Different postures change salience of different feedback loops. Safer.
-
-Oh, more for completeness: leaning with back (butt) against low things like countertops where everything above the lean is unsupported/erect. Leaning back against walls. Finally, sometimes facing wall bracing with hands.
-
-more distinctions: sitting without back support, sitting with back support (still erect), and hella slumped in some comfortable couch or chair in some long-term comfortable way. always mix with erect/unsupported sitting and standing!
-
-Also, E Tai Chi (https://www.amazon.com/Tai-Chi-Basic-Book-Simplest-ebook/dp/B01MREOH1P/ …), custom/ad hoc tai chi, and custom/ad hoc yoga asanas
-
-[Also: ad hoc “internal martial arts” rearranging your weight, rearranging your stance, rearranging your relationship with gravity, rearranging your physical anticipations…]
-
-Also, custom/ad hoc device assisted stretches
-
-Also, sort of “upright fetal position”, maybe in the corner of a big chair or couch, with one’s back against the armrest and leaning to the side against the back. I am more likely to stay awake in this position if I’m tired but I can still drift in and out of sleep while meditating, and it’s a different kind of balance than laying in bed.
-
-You should check to make you’re not losing flexibility or that certain physical movements (or patterns of attention) aren’t becoming subtly unpleasant or aversive. Also, barbell weight training and bodyweight exercise is good, too, as another way to check for whether something is off, e.g. if some exercises become aversive or you’re losing strength or less able to transmit power through structure.
-
-[book recommendations: feldenkrais awareness through movement, anatomy trains yoga, starting strength, becoming a supple leopard]
-
-Some takes on “perfect meditation posture:”
-
-Johnson, Will. Aligned, relaxed, resilient: The physical foundations of mindfulness. Shambhala Publications, 2000.
-Johnson, Will. The posture of meditation: A practical manual for meditators of all traditions. Shambhala Publications, 1996.
-The Way of Energy: Mastering the Chinese Art of Internal Strength with Chi Kung Exercise (A Gaia Original)
-by Master Lam Kam-Chuen
-(books about Zhan Zhuang, in general)
-
-“Perfect posture” should be explored for the possibility of maximal useful feedback and safety.
 
 
 
@@ -2719,6 +2966,236 @@ counterfactual closure:
 Ask, what you could have done differently, along with some minimal other changes to a situation, so that X bad thing wouldn’t have happened? Or that would have made the bad thing ok?
 
 
+stretch: (h)
+
+Like a cat that just woke up from a long nap. Try while standing, lying down, or in some other position. Shoulders back, chest out, get on your tippy-toes & arch that spine, yawn, vocalize, release!
+
+
+connect deeply with purpose/value/meaning/goodness: (h)
+
+Notice your current situation/trajectory, and connect as deeply as you can with how this situation/trajectory is (now & ongoingly) meaningful & valuable, what purpose it serves, what broader good(ness) it relates to, etc. In what ways is today good/meaningful/valuable? How does the goodness/meaningfulness/value of today connect to the goodness/meaningfulness/value of your entire life?
+
+
+notice the past: (h)
+
+Notice momentary or ongoing conceptions of the past.
+
+
+notice the future: (h)
+
+Notice momentary or ongoing conceptions of the future.
+
+
+notice discomfort: (h)
+
+Are you (greatly or subtly) uncomfortable right now? Which sensations tell you that you are uncomfortable? Why doesn’t everything about right now feel great/fine/perfect?
+
+
+attention pulled:
+
+Let your attention be drawn places and maybe actively stay there for a bit once you get there.
+
+
+volitional attention:
+
+Attend somewhere two-dimensional or three-dimension or n-dimensional or non-dimensional, specifically, for at least a brief time.
+
+
+liminal/nonverbal: (inspired by h)
+
+Do what you’re already doing but deliberately move towards going it liminally verbally or nonverbally.
+
+
+curiosity for disagreement:
+
+Have respectful curiosity and inquisitiveness for what happens to be in you or is a part of you, that you disagree with.
+
+
+resist attentional capture (1):
+
+Some of the time, temporarily, concentrate (on something). Facilitate attentional capture.
+
+
+resist attention capture (2):
+
+Some of the time, temporarily, have a wide, open, fuzzy focus. Concentrate on everything or no-thing. Relax, do this minimally, minimally reactively, as minimally involved as you can.
+
+
+balance foreground and background: (cf Lippmann and Culadasa)
+
+Become aware of everything you can become aware of, in the “background,” while also attending to a “foreground” object. The background is in your peripheral awareness (cf. peripheral vision). Look both at and “through” the foreground object. Balance the salience of foreground and background so that they are potentially seamless in brief moments or stably.
+
+
+look past (interpretive) overlays:
+
+Look at something; look past that at “what’s really going on.”
+
+
+the really truly possibly really good in the bad:
+
+With the expectation that there’s something good and important, there, a wisdom of some kind: Ask would it be good to keep doing this bad thing? How would it be good to keep doing this good thing? Would it be bad to stop doing this bad thing? How/why would it be bad to stop doing this (at least partially) bad thing?
+
+
+the chakras:
+
+Attend for some time to each chakra, bottom to top, including genitals. Hara. Hands. Feet.
+
+
+microcosmic orbit:
+
+Move attention slowly through microcosmic orbit (loop around front and back of body from crown of head to perineum and back) in the direction [down the front, up the back; up the front, down the back] that feels most smooth.
+
+
+bad to know/understand/see/be-able-to-tell:
+
+Ask, is it bad to know [about] X, bad to understand [something about] X, bad to be able to see [something about X], bad to be able to tell something about X? If so, how did that come to be? Why? How do you know? How did you come to know?
+
+
+homomorphic ostension or reference:
+
+Come up with a metaphor, simile, allusion, allegory, analogy, or story for a relevant thing that might be otherwise hard to put into words. In that, what’s the problem, in that language/structure/ontology? What could be added inside that language/structure/ontology/logic? What’s obviously missing when seen from inside that?  How would manipulate that to solve the thing, strictly inside or that language/structure/ontology?
+
+
+being/from:
+
+Ask, is this from me? Is this from you? Is this me? Is this you? Is this him/her/per/them?
+
+
+somatic refactoring:
+
+Feel and relax your way into beneficial “somatic refactoring.” Let the body naturally and intricately change.
+
+
+explore the body:
+
+Exhaustively, but loosely, sensitively, being willing to back off or let go, explore the entire value of the body  with your attention, little by little. If you can’t attend somewhere, don’t force attention into the area. Explore what feels good and bad about this and what seems good and bad about doing it in different places and a different times.
+
+
+fix/solve/solve:
+
+Ask, can you do X/that? Can you fix X/that? Can you solve X/that? Can you handle X/that?
+
+
+provenance and historical explanation:
+
+Ask, how did that/X come to be?
+
+
+looking/checking with what you already have:
+
+Ask can you look to see whether that’s true or not? Can you find that out with what you already have? (If not, can you get more information if you need it? How? Can you do that? Will you do that?)
+
+
+personal evaluative comparison:
+
+Ask, for me, why do I want/choose/like/desire/pick/etc this/X versus that/Y. Which is better or worse? More good or less good versus each or the other?
+
+
+meaning: 
+
+Ask what does it/X/that mean?
+
+
+ghost/energy hands:
+
+Touch your body or feel into your body with ghost/energy hands.
+
+
+fractured reality:
+
+Feel the fractures of reality. Feel how reality is broken.
+
+
+look down through the body:
+
+Look down through your neck into your body from the inside
+
+
+look at the back of you head: (after Headless Way?)
+
+Look at the back of your head from the outside without the aid of a mirror, phone, anything.
+
+
+be (pop?) zen:
+
+No goal, nowhere to go, nothing to do, no escape, start or where you are, gateless gate, stateless state.
+
+
+stop trying to escape the now:
+
+Temporarily stop trying to escape from exactly what’s happening, exactly how it’s happening, and exactly what it is that’s happening.
+
+
+take a break:
+
+Thus.
+
+
+collect simultaneous attentional objects:
+
+“Collect” things in your awareness to pay attention to, and attend them sequentially or simultaneously.
+
+
+ghost/energy body:
+
+Be physically relatively still, but walk and move with your “ghost” body or “energy body.”
+
+
+acceptance:
+
+Accept that this is your life now or in fact always was.
+
+
+instantaneous immortality:
+
+Noticed that in this moment you literally cannot just directly and successfully choose to die.
+
+
+expand:
+
+Expand into the available space, “outer” or “inner.” Accept/become the available space, “outer” or “inner.”
+
+
+broken phenomenology:
+
+Feel your “‘broken’ phenomenology”; rest in it, all of yourself with it, as it is.
+
+
+inability/can’t/ability/can:
+
+If you find you can’t do something, explore how to phrase it conditionally:
+
+(You might ask, why can’t I do this? How can I come to be able to do this? How did I come to not be able to do this? How do I know I can’t do this?)
+
+can’t X while Y
+can’t X when Y
+can’t X until Y
+can’t X since Y
+can’t X where Y
+can’t X because Y
+can’t X without Y
+etc.
+
+Then, if it might be good to able to do X even while the conditions obtains, you might ask something like:
+
+How might I be able to do X even while Y? What are some worlds where I might be able to do X even while Y?  even when Y? even if it’s not Y yet? even if Y has since obtained? even if Y holds? even if Y? even without Y?
+
+Or, if it might be good to not have the condition obtain so you can do X, you might ask something like:
+
+If Y prevents: How might I not have Y obtain? Are there good worlds where Y doesn’t obtain? What might such a world look like? How might I know I were in such a world? Might I be in such a world already or how might I arrive in such a world?
+
+If Y enables: How might I have Y obtain? Are there good worlds where Y does obtain? What might such a world look like? How might I know I were in such a world? Might I be in such a world already or how might I arrive in such a world?
+
+
+stimulate all your senses: (a)
+
+Thus.
+
+minimize sensory input: (a)
+
+Thus.
+
+
 
 main practice(s):
 
@@ -3133,6 +3610,15 @@ knowledge/awareness of “error”
 knowledge/awareness of “two things that are combined that shouldn’t be”
 knowledge/awareness of wrongness/incorrectness
 knowledge/awareness of “this is my life, now” [~transient]
+knowledge/awareness of an ‘instance of itself” (after Eugene Gendlin)
+knowledge/awareness of “belief in punctate updates” [though not necessarily conceptualized or named exactly as such]
+knowledge/awareness of [an instance of] [a/an] intellectual-grasping/update/thought
+knowledge/awareness of limit(s)/edge(s) of its world
+knowledge/awareness of instance-exemplification [sic] of the attention paradigm as such
+knowledge/awareness of “I am *that* which attends [pays/places attention]”
+knowledge/awareness [identity-feel](s); being someone
+??”I” without identity ?or trajectory/future
+knowledge/awareness of relief
 
 
 
@@ -3326,6 +3812,22 @@ p8:
 (*) Has anything ever-always-as-yet-still been completely untouched by all goal-seeking in your life? If so, what/where is that?
 (*) Do you want to fuck and/or be accepted by your mom? Do you want to fuck and/or be accepted by your dad? Do you want to kill either or both of your parents or any or all your siblings?
 (*) What as an AMAB or AFAB (a male assigned at birth, a female assigned at birth) or intersex or contingent anything, can you definitely or merely apparently never receive, have, get, do, etc.?
+(*) Who’s trying to get things for whom?
+(*) Where are you?
+(*) When are you?
+(*) What are you doing (to undo) that’s an instance of a(/the very) thing you’re trying/intending to undo?
+(*) What happens in the seconds and milliseconds before you start “officially” meditating, and what does that mean?
+(*) What is always already now complete and unified and pure and...?
+(*) What is (your) fundamental insecurity?
+(*) Would you harm, rape, kill, one-up, take advantage of, and/or gain advantage over another person if you were absolutely certain you’d never, ever get caught or face any (external, gross) consequences, on your terms?
+(*) What are you doing to yourself X to prevent yourself from doing bad/shameful/evil/destructive/etc thing Y? (And/or to keep yourself doing either good or believed necessary thing Z?)
+(*) The whole point of meditating was to never have to face what/X? What is X?
+(*) How is [the very fabric of] reality broken?
+(*) Does every towards have an away from?
+(*) What is the unity of opposites?
+(*) What is the unification of concepts?
+(*) How does X contain Y? (“containment relations “)
+
 
 
 p9:
@@ -3942,7 +4444,7 @@ Shaking, twitching, emoting, vocalizations, and large movements are sometimes ne
 
 good(ness) bad(ness):
 
-What is goodness? What is badness? What is good? What is bad? What is good for you? What is bad for you? What does “good” mean to you? What does “bad” mean to you? Morally good, ethically good, personally good, good feeling? For you? For others? Morally bad, ethically bad, bad feeling? For you? For others? Usefulness? Value? Worth? Worthiness? Helpfulness? Spiritually? Practically? Partially good? Partially bad? Generally/contextually good? Generally/contextually bad? Universally good? Universally bad? Wholly good? Wholly bad? Mixed good and bad? More good? Less good? More bad? Less bad? Better? Worse? Best? Worst? [why not in meta, p/a, main practices and instead in lists and more is left as exercise to reader. Cam of course play with in relation to any of p/a, main practices (including p1) meta, and so forth.] doing good vs being good vs having  good vs experiencing good. Doing bad vs being bad vs having bad vs experiencing bad(ness). Intrinsic/essential/inherent goodness vs extrinsic/secondary/acquired/contextual goodness. Intrinsic/essential/inherent badness vs extrinsic/secondary/acquired/contextual badness. Goodness of form. Goodness of mode. Badness of form. Badness of mode. Goodness as an attribute. Badness as an attribute. Subsistent goodness. Subsistent badness. Where and what and how and when  and why and for what purpose is goodness? Where and what and how amd why and when and for what purpose is badness? What causes goodness? What causes badness? When is goodness an effect? When is badness an effect? When are goodness and badness neither a cause nor an effect? Is felt goodness always good? Is felt badness always bad? Immediate goodness. Mediate goodness. Immediate badness. Mediate badness. Direct goodness. Indirect goodness. Direct badness. Indirect badness. Sometimes good. Sometimes bad. Acting good. Acting bad. Appearing good. Appearing bad. Somehow good. Somehow bad. Artificially good. Artificially bad. Naturally good. Naturally bad. Stably good. Stably bad. Tending (toward) good. Tending (toward) bad. Historically good. Historically bad. Historically mixed. Eventually good. Eventually bad. Highest good. Lowest good. Highest bad. Lowest bad. Initial good. Initial bad. Final good. Final bad. Good for X. Bad for X. Good for X for Y. Bad for X for Y. Structurally good. Structurally bad. Independently good. Independently bad. Dependently good. Dependently bad. Separably good. Separably bad. Inseparably good. Inseparably bad.
+What is goodness? What is badness? What is good? What is bad? What is good for you? What is bad for you? What does “good” mean to you? What does “bad” mean to you? Morally good, ethically good, personally good, good feeling? For you? For others? Morally bad, ethically bad, bad feeling? For you? For others? Usefulness? Value? Worth? Worthiness? Helpfulness? Spiritually? Practically? Partially good? Partially bad? Generally/contextually good? Generally/contextually bad? Universally good? Universally bad? Wholly good? Wholly bad? Mixed good and bad? More good? Less good? More bad? Less bad? Better? Worse? Best? Worst? [why not in meta, p/a, main practices and instead in lists and more is left as exercise to reader. Cam of course play with in relation to any of p/a, main practices (including p1) meta, and so forth.] doing good vs being good vs having  good vs experiencing good. Doing bad vs being bad vs having bad vs experiencing bad(ness). Intrinsic/essential/inherent goodness vs extrinsic/secondary/acquired/contextual goodness. Intrinsic/essential/inherent badness vs extrinsic/secondary/acquired/contextual badness. Goodness of form. Goodness of mode. Badness of form. Badness of mode. Goodness as an attribute. Badness as an attribute. Subsistent goodness. Subsistent badness. Where and what and how and when  and why and for what purpose is goodness? Where and what and how amd why and when and for what purpose is badness? What causes goodness? What causes badness? When is goodness an effect? When is badness an effect? When are goodness and badness neither a cause nor an effect? Is felt goodness always good? Is felt badness always bad? Immediate goodness. Mediate goodness. Immediate badness. Mediate badness. Direct goodness. Indirect goodness. Direct badness. Indirect badness. Sometimes good. Sometimes bad. Acting good. Acting bad. Appearing good. Appearing bad. Somehow good. Somehow bad. Artificially good. Artificially bad. Naturally good. Naturally bad. Stably good. Stably bad. Tending (toward) good. Tending (toward) bad. Historically good. Historically bad. Historically mixed. Eventually good. Eventually bad. Highest good. Lowest good. Highest bad. Lowest bad. Initial good. Initial bad. Final good. Final bad. Good for X. Bad for X. Good for X for Y. Bad for X for Y. Structurally good. Structurally bad. Independently good. Independently bad. Dependently good. Dependently bad. Separably good. Separably bad. Inseparably good. Inseparably bad. veridically good/bad, certainly good/bad, illusorily good/bad, apparently good/bad, good before/after/at/when/during/while X, bad before/after/at/when/during/while X, good now/later, bad now/later, lower good, higher good, net good, net bad, “too good,” “too bad,” “infinitely” good, “infinitely” bad, permanently good, permanently bad, contagiously good, contagiously bad
 
 
 some “big” useful concepts:
@@ -3975,6 +4477,66 @@ totality
 globality
 reality
 actuality
+
+
+poem of self/other confusion and interdependence:
+
+Is this me? Is this you? Is that me? Is that you?
+I am you, and you are me, and we are we.
+No.
+I am not you, and you are not me, and we are not we.
+I am me, and you are you.
+She is not him, and she is not you, and he is not her, and he is not you.
+I am not him, and I am not her.
+I am me, and you are you, and I am not you, and you are not me.
+And, we can be we. 
+
+
+states: (draft)
+
+Normal waking ommiarousal; questing emotions 
+Rest/digest laze around low vigilance low arousal
+Sexual arousal; (horny, full plateau arousal, orgasm; post orgasm extended afterglow
+Compassion/care/love/teach/help/protect/serve/defend arousal
+Syntonic stress arousal—perform, flow; achieve
+Dystopia stress arousal (or vasocagal response)—fight flight/flee freeze faint
+Positive and negative past/future:counterfactual updating/processing emotions (surprise fear happiness
+Epistemic pre and post processing emotions cf uncertainty—anxiety, unrest 
+Puttering emotions—low arousal good—joy... enjoyment, wellbeing
+Derealozation/depersonalization (can be acute with dystonic or chronic)
+States can be mixed
+
+
+invitation of acceptance: (so-called “Litany of Gendlin”)
+
+What is true is already so.
+Owning up to it doesn't make it worse.
+Not being open about it doesn't make it go away.
+And because it's true, it is what is there to be interacted with.
+Anything untrue isn't there to be lived.
+People can stand what is true,
+for they are already enduring it.
+
+—Eugene Gendlin
+
+
+nutrition:
+
+I am not a doctor or other kind of licensed health professional, and this is not medical or nutritional advice.
+
+If you are lacking mental or physical stamina for meditation, you might try adding butter and/or MCT oil to your diet. (Some MCT oils have three different lengths and some just have two lengths. Sometimes just two lengths is advertised as “better” in some way, but I felt like I was getting some kind of weird metabolic deficiency on the two lengths variety. That last longer length chain seemed to really be good to have in there, for some reason, at least prior to adaptation, which I didn’t try to do.) Less likely to be helpful, but depends, you might try adding a bit more cheese or other animal saturated fat to your diet. (Each will have different chain length profiles.) You might also try adding a bit of choline, which can take a few weeks to month for you to notice any difference.
+
+If you’re not, consider jogging or other aerobic exercise to you life, 2-5 times per week for 40 minutes, minimum, to avoid fat metabolism disfunction. You maybe should probably get your cholesterol checked periodically, too.
+
+You might also consider adding non-rancid flax seed, some good source of sulfer,  and/or some quality source of collagen.
+
+You might also switch to all slow-release carbs, to even out insulin. The steadier energy release is, the less you’ll have boom and bust mental energy before and after meals. You want super-steady energy release for hours and hours. If you have insulin resistance, your body will release fuel from storage too slowly, and you’ll have to rely more on proximity to meals for meditation enablement.
+
+If you have insulin smoothed out, your food craving system will be smarter, and you should generally indulge food cravings for weird food, as best you can.
+
+If you’re eating fewer, larger meals, be careful with your kidney’s and liver.
+
+Consider a multivitamin in powder form or in many pills per day, so you can titrate. I know multivitamins are supposed to do nothing or be detrimental, but you might find subdoses to be seemingly very helpful.
 
 
 
