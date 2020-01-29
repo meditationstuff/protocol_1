@@ -1,4 +1,4 @@
-v80 Mark D Lippmann Method (“Mastery Protocol”)
+v81 Mark D Lippmann Method (“Mastery Protocol”)
 
 
 
@@ -229,6 +229,7 @@ v75 backup 20191122.rtf
 v77 backup 20191205.rtf
 v78 20191205 backup.rtf
 v79 backup 20191205.rtf
+v80 backup 20191207.rtf
 
 
 
@@ -1177,6 +1178,7 @@ Because the subtle signs are harder to detect and sometimes can’t be detected 
 (*) interacting with them will have a “hermetically sealed” quality, where they’ll have an immediate “cached” or “cued up” answer to every possible concern, objection, accusation, etc. You’ll know it’s cached because of the speed of the response as well as the ways it doesn’t quite address the issue raised but seems to talk past it or not consider it freshly.
 (*) interacting with them will have a “never quite reaches them” feel, in that, even if your position is restated by them, it will be a “frankencreation” in their own concepts or their own perspective and your actual position will be discarded or dismissed by them. You’ll know this by how their restatement seems to “do harm” to your position makes it less accessible to you.
 (*) acting like their “logical” arguments are complete, closed, final, and dominating. playing with definitions of words or philosophical ideas in order to win an argument. becoming extremely abstract or meta—needing to hairsplit premises as a way to win an argument. needing to win all arguments or to dismiss the other position is not even wrong or not worth engaging in.
+(*) takes advantage of “good-faith, good-will to resolve disagreements to get to the bottom of things,” takes advantage of “mutual” understanding as a way to get more airtime and sink hooks in, with no intention or even necessarily ability to understand or gain insight from your position, perspective, feelings, etc.
 (*) the person has created carefully structured or cultivated groups, organizations, etc. in an attempt to have people behave in a very specific way (because they really need people to interact in a very specific way or they need the world to work in a very specific way, and this is their starting point or safe haven)
 (*) in general any hint of rigidity in behavior or what can happen around them or black-and-white-ness or foreclosing or shutting down the behavior of others is at least a yellow flag. If they want a particular type of interaction that can be ok, but if it seems like they can’t handle something else even for a second or they’re white-knuckling or teeth-gritting through part of something until they can get the thing they want, that’s a yellow flag.
 (*) particular advocacy for the world being unsafe or bad: doom, apocalypse, collapse, etc. [That’s not to say such things might or might not be true, but claims of their truth are part of a lever to control other’s behavior.]
@@ -1453,6 +1455,8 @@ So there’s this partially open-ended thing that you can do with the bodymind. 
 
 If someone is older, they’ll have more raw stuff to work through. [The following sentence is long and hard to parse, and I apologize.] I suspect, for, say, someone who’s, I don’t know, between eighteen and thirty years old, with no really perverse trauma that can confusingly mix good and bad together, for example childhood sexual abuse, who’s really good with working with documents and a teacher, *maybe* they could start to asymptote around 2000-3000 hours. Maybe. There are still unknowns, here. I suspect something more realistic, for someone between eighteen and forty-five, is anywhere from 4000-10,000 hours.
 
+Every problem you encounter may seem like it’s the deepest last problem. But there will be another, and another, maybe with a delay but inevitably, until there isn’t. So plan for this, in resources (time, money, relationships), possible break-taking (to make money or friends), opportunity costs, etc. One can’t predict using timelines, or plan using timelines—one has to just assume it’s going to take 10 years 20 years even if it only takes 1.7 years. This can potentially be hard and risky, depending on available resources and opportunity costs, and likely or possible sequelae. This paragraph will be at the end of the next section as well.
+
 
 better to finish, and smoothly:
 
@@ -1465,6 +1469,8 @@ So there’s a certain safety in “really committing.” You *don’t* have to 
 An important part of the that “really committing” is not just knowing that you’re going to put in a lot of hours. That other part is something like “cognitive burden” or “cognitive momentum.” It often or even usually won’t look like normal “figuring things out,” though it very well might, but your mind is going to be occupied solving problems of types its never, ever had to solve before. And, to make progress, this is sometimes going to be going on “in the back of your mind” when you’d potentially rather be, say, making money or enjoying or strengthening relationships. One person described it to be as “whole self demanding” as another full time job or another primary relationship. So, even if one doesn’t meditate for three days or something, that “job-ness” or “relationship-ness” in terms of how the mind is processing beneath the surface (or not) doesn’t go away.
 
 A few paragraphs above, I mentioned, “they may get stuck in a state that’s hurting themselves, people they care about, and possibly many people that they incidentally come into contact with in their daily lives.” Being “really committed” also involves trying to have life flexibility to sometimes dial the intensity up even more, to move through harmful states faster or more smoothly. Other sections will talk a bit more specifically about the possible harms to oneself and other people. But, if something like that is going on, one wants to be able to ideally isolate themselves for as many hours or days is necessary to get to something better. That’s going to put a strain on relationships, depending on how complete that isolation should be. It’s better to have kids after one or both people get on the likely far side of all of that.
+
+This paragraph is in the section above, too: Every problem you encounter may seem like it’s the deepest last problem. But there will be another, and another, maybe with a delay but inevitably, until there isn’t. So plan for this, in resources (time, money, relationships), possible break-taking (to make money or friends), opportunity costs, etc. One can’t predict using timelines, or plan using timelines—one has to just assume it’s going to take 10 years 20 years even if it only takes 1.7 years. This can potentially be hard and risky, depending on available resources and opportunity costs, and likely or possible sequelae.
 
 
 a failure mode:
@@ -1524,6 +1530,8 @@ perfection
 no shims, no patches, nothing left behind, no subtle errors, no subtle jogs or discontinuities or shear
 no stuff hidden under apparent flawlessness or smoothness
 no stable bypass, nothing left behind, no shortcuts
+
+[And eventually you will let go of the above! Perfection-in-imperfection type stuff, aconceptual and post-conceptual type stuff.]
 
 That is, it can be helpful to realize, at the finest grain, there’s no vagueness, no “mush,” no “slop.” The mind, in some sense, is shockingly lossless. Like, there’s compression, to be sure, but that compression is shockingly lossless.
 
@@ -1659,6 +1667,7 @@ on boats and airplanes
 by rivers, lakes, oceans
 different soundscapes and vistas or lack thereof
 different weather conditions
+soundscapes and vistas and lack thereof
 
 You can also get a lot of cheap variety if you’re doing walking meditation, indoors or out and about.
 
@@ -1719,9 +1728,9 @@ And I guess this generalizes to every single damn choice ever. (edited)
 
 posture: (section needs editing)
 
-You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, eyemask or dark room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
+You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket or no blanket, eyemask or dark room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
 
-Favorite meditation postures/combinations (unordered): sitting, lying down back/sides, Zhan Zhuang / standing, walking, running/jogging, yoga asanas, eyes open/closed, earplugs +/-, eye shades / complete darkness +/-, netflix, amazon video, facebook, twitter, watching blog stats
+Favorite meditation postures/combinations (unordered): sitting, lying down back/sides, Zhan Zhuang / standing, walking, running/jogging, yoga asanas, eyes open/closed, earplugs +/-, eye shades / complete darkness / pitch black +/-, netflix, amazon video, facebook, twitter, watching blog stats
 
 Ah, also like "erect kneeling", knees on something padded, and otherwise "standing" straight. (If I'm doing standing meditation and my feet start to hurt, I switch between standing and this type of kneeling.) Different postures change salience of different feedback loops. Safer.
 
@@ -1729,13 +1738,30 @@ Oh, more for completeness: leaning with back (butt) against low things like coun
 
 more distinctions: sitting without back support, sitting with back support (still erect), and hella slumped in some comfortable couch or chair in some long-term comfortable way. always mix with erect/unsupported sitting and standing!
 
+more distinctions: sitting on a hard, very flat surface; sitting on a very firm but nevertheless soft surface (like a big memory foam block)…
+
 Also, E Tai Chi (https://www.amazon.com/Tai-Chi-Basic-Book-Simplest-ebook/dp/B01MREOH1P/ …), custom/ad hoc tai chi, and custom/ad hoc yoga asanas
 
 [Also: ad hoc “internal martial arts” rearranging your weight, rearranging your stance, rearranging your relationship with gravity, rearranging your physical anticipations…]
 
+Also, sort of “upright fetal position”, maybe in the corner of a big chair or couch, with one’s back against the armrest and leaning to the side against the back. I am more likely to stay awake in this position if I’m tired but I can still drift in and out of sleep while meditating, and it’s a different kind of balance than laying in bed.
+
 Also, custom/ad hoc device assisted stretches
 
-Also, sort of “upright fetal position”, maybe in the corner of a big chair or couch, with one’s back against the armrest and leaning to the side against the back. I am more likely to stay awake in this position if I’m tired but I can still drift in and out of sleep while meditating, and it’s a different kind of balance than laying in bed.
+Also, ad hoc dancing, bouncing, rocking, fidgeting, stretching, yoga pretzels…
+
+Earplugs can enhance sensitivity to subtle muscle movement and body creaking in head and neck and elsewhere but make sure meditate plenty without earplugs, too.
+
+Long-sleeve clothing, pants (vs shorts/skirts) or blankets reduce subtle air current and temperature changes on skin which can make it easier to attend to other things. (So, sometimes this is good to do and sometimes it’s better to be exposed to the elements.)
+
+Long-run, retrospectively, you might have spent equal time sitting, standing, and laying down while meditating. Sometimes it’s good to switch every day or every hour.
+
+On twitches and posture and readjustments—
+Might want to gently restrain
+Might want to gently repeat
+Might want to gently hold in the “twitched” position for a while to see what happens
+
+There’s the cliche of having something to bite down on, when experiencing pain or something. I’m not suggesting that, though it could be good—teeth generally aren’t supposed to touch teeth, but, if your jaw happens to be clenching, putting in a mouthguard might be good for your teeth and bad for your jaw—maybe ask a dentist or something about tradeoffs. In any case, the point of this paragraph is to make an analogy to biting down on something: if your hand is clenching, it can make it safer for your hand to clench if you clench a stress ball or a rolled up shirt. If your neck is doing weird things, it can be helpful to do that laying it in a cradle of pillows, and so forth. It’s good to be able to meditate sitting or standing tall, but it’s also good to be able to arrange your environment when/if that’s the best thing, too.
 
 Another thing to vary: Surfaces from very hard concrete to very soft for standing, sitting, and laying down, for very different kinds of feedback. For lying down: both on back and side, with and without a pillow. You might look into “natural sleeping postures. Firmer head or neck pillows can give better feedback for spotting creeping muscle tension or having it not arise in the first place.”
 
@@ -3308,7 +3334,7 @@ Action Instructions Part 1:
 • If you become aware that it would be bad to directly and immediately do [in such or such and thus a manner/sense/way] that or something like or in the neighborhood of [action/behavior/doing/self-happening/etc.] A at or during a particular time/moment/instant or interval/duration, and, at or during that particular time/moment/instant or interval/duration, you can (not) do so, and it’s still good to (not) do so, then don't do so (don't start doing so or stop doing so); have the [minimal] absence of that doing [A]; allow or participate in that happening.
 • If you become aware that it would have in some sense been good to do so but you can’t (a) do or can’t (b) have the absence of doing that or something like or in the neighborhood of some particular [action/behavior/doing/self-happening] A, at or during a particular time/moment/instant or interval/duration, then stop trying completely, will that you have the absence of doing A and ultimately release even that; allow or participate in that happening.
 Action Instructions Part 2 (the “opposite” or “absence” or “antidote” of/to action):
-• If you become aware that it would be good to (instead) revert/have become labile/undo/invert/reverse/inverse [operation]/release/“incomplete”/let go of/redo-to-undo/replay-to-undo/juxtapose-to-undo/allow-to-undo/dream-to-undo/reverie-to-undo/do-to-undo/go-true-backwards/go-perfect-backwards/‘controlled/channelized “falling backwards [into]”; fall-backwards-into, fall-forwards-backwards-into)’ the immediate effects of some particular acting/doing A, and you can do so, then do so; allow or participate in that happening.
+• If you become aware that it would be good to (instead) revert/have become labile/undo/invert/reverse/inverse [operation]/release/“incomplete”/let go of/redo-to-undo/replay-to-undo/revisit-to-undo/return-to-to-undo/juxtapose-to-undo/allow-to-undo/dream-to-undo/reverie-to-undo/do-to-undo/go-true-backwards/go-perfect-backwards/‘controlled/channelized “falling backwards [into]”; fall-backwards-into, fall-forwards-backwards-into)’ the immediate effects of some particular acting/doing A, and you can do so, then do so; allow or participate in that happening.
 • If you become aware that it would be bad to revert/have-become-labile/undo/invert/reverse/inverse-[operation]/release/“incomplete”/let-go-of/de-reify/un-reify/‘controlled/channelized “falling backwards [into]”)’ the immediate effects of some particular acting/doing A, and you can (not) do so, then don't do so (don't start doing so or stop doing so); allow or participate in that (not) happening.
 • If you become aware that it would have in some sense been good to revert or have something become labile (or not) but you can’t, then stop trying completely, will that you have the absence of such and ultimately release even that; allow or participate in that happening.
 
@@ -3339,6 +3365,12 @@ Notes:
 (*) (1) If good to will and can will (or keep willing) do so. If bad to will and can stop or prevent, do so. If good to do one of those but can’t, then make sure you’ve stopped trying completely. (2) If good to surrender and can surrender (or keep surrendering) do so. If bad to surrender and can stop or prevent, do so. If good to do one of those but can’t, then make sure you’ve stopped trying completely. (3) If good to do and can do (or keep doing) do so. If bad to do and can stop or prevent, do so. If good to do one of those but can’t, then make sure you’ve stopped trying completely. (4) If good to undo and can undo, do so. If bad to undo and can stop or prevent, do so. If good to do one of those but can’t, then make sure you’ve stopped trying completely.
 (*) Sometimes a doing or willing will be both good and bad, that is one or more (sub-)parts of the willing  will be good and one or more other (sub-)parts will be bad. This can be fractal as (sub-)parts can have (sub-)parts that can be good and bad. One can use doing and willing (if good and possible) to break apart willings and doings into (contextually) good and bad parts or “neutral” parts that can potentially be done by themselves or recombined into larger units and done as a whole. [How to do the actual “breaking apart” is hard to specify generally; it will be contextual, contingent, and idiosyncratic. See p8 for evocative possibilities. Briefly, you might ask what’s good or bad in or about things. Again, please note that none of this is intended to presuppose or make ontological (or even/including methodological) commitments about how to do this or the nature or essence of such parts. Remember to not  inappropriately reify anything, including notes like this.]
 (*) There is a “special” class of doing, the doing that precedes/enables/causes/facilitates not doing or the absence of doing. X might = suppress, dispel, dissolve, prevent, block, have the absence of, do-to-not-do, do-in-order-to-not-do, hold-back, allow-something-else-to-happen, etc. [Remember to not inappropriately reify any of this.][cf. pleasant distraction or pull-away is not always good to follow or surrender to. See distraction/diversion/displacement in p3.]
+(*) Don’t improperly reify “proposition,” don’t take that too seriously. “Propositions” might have an “implicit component” not fully accounted for by the words.
+(*) All the above applies to willing/doing you’re already willing/doing—if become aware you’re willing/doing it, you can keep doing it or stop/have the absence of it, as per the rest of the instructions.
+(*) good [to do] = contextually good [to do], now, at the very least
+(*) compare “good” with “good (enough)”—when same; when different?
+(*) Example: ”have been good to do so" ~= Like, you try to (a) do/will X or (b) have the absence of Q, because it seemed like that would have been good. But you find you can't. And then you explore whether there's still a part of you, something, somewhere, that's still trying to have (a) or (b) happen. 
+
 
 
 p3:
@@ -3619,6 +3651,17 @@ knowledge/awareness of “I am *that* which attends [pays/places attention]”
 knowledge/awareness [identity-feel](s); being someone
 ??”I” without identity ?or trajectory/future
 knowledge/awareness of relief
+awareness of  “non-Euclidean openings”
+awareness of “other realities”/“another reality”
+awareness of  “openings to other realities” [“zones”]
+awareness of “skhandas”(sp?)
+knowledge/awareness of “the whole damn thing and it’s relationship to me”
+knowledge/awareness of “waiting/trusting for ‘fill-in’/‘building’”
+knowledge/awareness of “fakeness” or “more fake”
+knowledge/awareness of “more real”
+knowledge/awareness of going-with-it-/running-with-it-ness (unassuming-self-assuming [sic])
+knowledge/awareness of “this is the case-ness”
+knowledge of unhandledness, seeming-liability-ness 
 
 
 
@@ -3827,6 +3870,24 @@ p8:
 (*) What is the unity of opposites?
 (*) What is the unification of concepts?
 (*) How does X contain Y? (“containment relations “)
+(*) What’s the one thing you’d never allow yourself to be cornered into having to talk about? What are the things you’d never allow yourself to be cornered into having to talk about?
+(*) What conversations can’t you (yet) have?
+(*) What can’t you extemporaneously talk about (a lot), pretty quickly, maybe with a bit of a delay before you get going?
+(*) What is the relationship between “cognition “and “embodiment “?
+(*) What things in your mind that cannot express themselves are the same time?
+(*) Is it safe to be radically vulnerable to yourself? If not, how might that come to be?
+(*) What would still be the problem even if you were certain you were perfectly healthy and you had one hundred million dollars in a trusted bank?
+(*) What would still be a problem if you were rich, stably physically healthy, and immortal?
+(*) What are the relationships between inside, now, future, outside?
+(*) How would you choose differently if no one you ever knew would ever know? Put a different way, if you could live perfect double or triple lives, where no one in each life would ever, ever find out about the other lives, what would you do in each life? Put another way, if everyone you ever knew or know gave you perfect permission to do as you wanted and also would never or know or be able to cast judgment on you or whatever you did, what would you do or do differently?
+(*) In what ways are you not taking unified and total responsibility for your life? And what are the ways in which you are?
+(*) What is/was your entire life going to be, including in light of possible sudden and/or unexpected death?
+(*) What problems would yet persist even after “all your problems were solved”?
+(*) Could you just exist like this, if you had to? (How could that be ok?)
+(*) What’s your meta goal?
+(*) What are you actually doing?
+(*) Is here and now bad?
+(*) Do you hate reality?
 
 
 
@@ -3872,6 +3933,11 @@ interpersonal practice:
 formulation 1 (including Many Protocol): (strategy flavored; mutual epistemics flavored)
 
 A move M could be in the context of conversational or other local, real time interaction. Or a move M could be composite and part of a long-term plan. So, a move could be right here and now (or soon), taking place, once initiated, in a single moment or across a small number of contiguous moments, or a move can be planned for future, as part of a global strategy, or anywhere in between. And the number of people considered can be from n=2 to n=billions.
+
+Less obvious moves, in addition to particularly other-directed moves: “non”-moves, receptive moves, waiting patiently moves, self-care moves, time out and stopping temporarily or for a longer duration moves, being-helped moves (e.g. free-associating, saying what’s most bad, saying don’t feel safe disclosing X, saying prefer not to do X without explanation or apology), listening quietly, going with the flow of what the other person is doing…
+
+It can be helpful, when doing the many protocol with new people, to start with just five minutes at a time, maybe trying five minutes just once in a single day, then five minutes again or ten minutes the next day, and so on. If it’s not working, don’t force it! Just do solo meditation or some other group activity.
+
 
 0. Consider at least n=2 people: A (you) and B (someone else)
 
@@ -4220,6 +4286,7 @@ valence/feel
 chakra-esque: crown/scalp, brow/face, throat/jaw, back-base of skull, back of neck, heart, solar plexus, naval, dan tien, genitals, sacrum, coccyx, perineum (for the mediate ones, both front and back of the body)
 meaning, nonsymbolic and liminally verbal knowing
 slightly-out-of-phase-with-normal-attention-“inner space” that is both seemingly “in there” and in-there-“out there” or “out there”-in-there…
+non-euclidean body-related space and “inner” space
 other “non-sensory” or “non-traditionally-sensory” phenomenology
 “body” or “mind” that’s somehow “outside” the skin or “somewhere else”
 skeletal muscles (every last one of them)
@@ -4241,7 +4308,7 @@ also: the subtle movements of your eyes, the subtle movements of muscles in the 
 
 states can be important too: sexually aroused, not sexually aroused, desirous of sex, not desirous of sex, possibly various states of emotional arousal
 
-Finally, here are some ways that people systematically leave things out; as best you can make sure to not be systematically avoiding anything, of course with fast moving mind (belief/expectation/thought/imagination/feared possible truths and outcomes, etc.) and sensation stuff, but also old injuries, unsettling or unpleasant sensations around permanent pins or staples from old surgeries, scars, feared body stuff (cancer? precancer? did i fuck up nerve/ligament/tendon permanently? etc), phantom or feared teeth and jaw stuff, unpleasant “wrong, nervy” stuff. or maybe you don’t like your hands or feet or stomach or thighs or something. don’t avoid.
+Finally, here are some ways that people systematically leave things out; as best you can make sure to not be systematically avoiding anything, of course with fast moving mind (belief/expectation/thought/imagination/feared possible truths and outcomes, etc.) and sensation stuff, but also old injuries, unsettling or unpleasant sensations around permanent pins or staples from old surgeries, scars (injury or cosmetic), genital circumcision, feared body stuff (cancer? precancer? did i fuck up nerve/ligament/tendon permanently? etc), phantom or feared teeth and jaw stuff, unpleasant “wrong, nervy” stuff. or maybe you don’t like your hands or feet or stomach or thighs or something. don’t avoid.
 
 
 exhaustivity and bottlenecks:
@@ -4484,6 +4551,10 @@ poem of self/other confusion and interdependence:
 Is this me? Is this you? Is that me? Is that you?
 I am you, and you are me, and we are we.
 No.
+This is almost me, similar to me, but it is not me.
+That is almost me, similar to me, but it is not me.
+While plausibly me, this was historically never actually me.
+While plausibly me, that was historically never actually me.
 I am not you, and you are not me, and we are not we.
 I am me, and you are you.
 She is not him, and she is not you, and he is not her, and he is not you.
