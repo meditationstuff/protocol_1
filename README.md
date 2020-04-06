@@ -1,8 +1,8 @@
 # Instructions / Read This First
 
-This repository has one additional file besides the readme:
+The main file in this repository is:
 
-working_version_snapshot.txt
+protocol.txt
 
 If you just click on that filename, above, in blue, in the file list, THE CONTENT WILL NOT BE WORD-WRAPPED, and trying to read it will be confusing, frustrating, or it might seem like too much effort to deal with.
 
