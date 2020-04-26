@@ -1,4 +1,4 @@
-v84 Mark D Lippmann Method (“Mastery Protocol”)
+v85 Mark D Lippmann Method (“Mastery Protocol”)
 
 
 
@@ -48,6 +48,7 @@ Contents (simplified/elided):
 		the creativity of evil
 		joy
 	practice
+		preliminaries and vacations; conceptualization as such
 		risks
 		environment
 		posture
@@ -233,6 +234,7 @@ v80 backup 20191207.rtf
 v81 20200128 backup.rtf
 v82 backup 20200225.rtf
 v83 20200405 backup.rtf
+v84 backupd 20200408.rtf
 
 
 
@@ -300,6 +302,7 @@ practice preliminaries
 		error propagation, wayfinding, grace of what minds are
 		conclusion
 practice
+	preliminaries and vacations; conceptualization as such:
 	risks
 	environment [and subtlety; (more) risks and rabbit holes]:
 	posture
@@ -913,6 +916,7 @@ lists and more
 	invitation of acceptance
 	nutrition
 	historical and contemporary difficulties and uncertainties of life [experimental section]
+	muscle tension scratch
 bibliography (incomplete)
 
 
@@ -1996,6 +2000,213 @@ practice:
 > (4) Lists (more calling out degrees of freedom and ways to slice the pie, to feed into the main practices)
 > […]
 <<<
+
+
+preliminaries and vacations; conceptualization as such:
+
+Someone comments (slightly edited):
+
+“I’m very interested in the demarcation between meditation and not-meditation (with respect to the instructions not ‘feeling like’ meditation. Can you just basically meditate all the time, by this system, unless you have something else to focus on in specific (job, a game, movie, in-depth conversation, whatever?)"
+
+Answer:
+
+It matters how you think about what you’re doing, how you explicitly or implicitly, reflectively or unreflectively, conceive of what you’re doing, while you’re doing it.
+
+There’s a main practice, below, where one of the components is surrender, reverie, etc. Just as in that practice, where it’s ok to let go, to be lost, to forget, to daydream, to be in reverie, it’s also ok to get lost in life.
+
+So when you’re working, playing, socializing, relating, it’s probably often better to just do that. (Maybe this changes, little by little by little, as one gets very far along, and there are practices, one described below, where it’s possible to explicitly practice with someone. But, 99% of the time, maybe, when meditating, meditate, and, when living, just live.)
+
+Meditating of course happens in an environment, air conditioning, kitchen appliances in the distance, wind, traffic, machinery, conversations in another room. So meditation takes the environment into account. But there’s still sort of a difference between meditating in an environment and living (in an environment), until there is no difference, which never has to be forced.
+
+***
+
+An electronic dialogue (slightly edited):
+
+[…]
+
+Mark  15 minutes ago
+to be fair, the protocol doc is me collecting 15,000+ words of highly detailed things to remember, for myself (and others). so there’s that. [in order to eventually “forget” it], to not need it, for it to become an inert pedagogical tool to share with others (edited) 
+
+[…]
+
+Collaborator  15 minutes ago
+i have some new thoughts on the protocol doc
+
+Collaborator  15 minutes ago
+nascent thoughts
+
+Collaborator  14 minutes ago
+i think you’d agree fwiw …
+
+Collaborator  14 minutes ago
+[that] like for a (small?) percentage of minds [the protocol document] will drive them crazy
+
+Mark  13 minutes ago
+i’m more inclined to think this than in the past
+
+Collaborator  13 minutes ago
+[A long time ago I read a] quote [that] was like, “a meditator will choose the protocol that feeds their neurosis”
+
+Collaborator  13 minutes ago
+definitely not saying this is always or even usually the case
+
+Collaborator  13 minutes ago
+but like, i can see the ways i’ve gotten stuck * inside * of the protocol
+
+Mark  13 minutes ago
+... …and then hopefully a protocol is good enough to eventually deconstruct that neurosis… …
+
+Collaborator  12 minutes ago
+sigh
+
+Collaborator  12 minutes ago
+hopefully
+
+Collaborator  12 minutes ago
+i think eventually maybe
+
+Collaborator  12 minutes ago
+but there might be faster ways
+
+Collaborator  12 minutes ago
+jumping into deep ends
+
+Collaborator  12 minutes ago
+going to wild parties
+
+Collaborator  12 minutes ago
+^ not so much that last one
+
+Collaborator  12 minutes ago
+but you get the point i think
+
+Collaborator  11 minutes ago
+like i think i have to forget the protocol kind of to proceed
+
+Collaborator  11 minutes ago
+which isn’t exactly true
+
+Collaborator  11 minutes ago
+i’ll still be following the protocol
+
+Collaborator  11 minutes ago
+at least the most important ways
+
+Mark  11 minutes ago
+would say that this conversation, this being verbalized, is evidence of protocol at least partially working
+
+agreed that some things will be hilariously ridiculously faster for some people.
+
+“if i’d only done X first” is also kind of a thing. i’m guessing that X usually wouldn’t have had the same effect if it came first.
+
+Collaborator  11 minutes ago
+> but like, i can see the ways i’ve gotten stuck * inside * of the protocol
+
+but have to deconstruct several layers of how i baked it into my mind
+
+Collaborator  11 minutes ago
+partially yeah sure
+
+Collaborator  11 minutes ago
+but like wouldn’t have gotten there with just protocol
+
+Mark  10 minutes ago
+> like i think i have to forget the protocol kind of to proceed
+
+this needs to be more explicit, yeah. it’s near top of list.
+
+Collaborator  10 minutes ago
+> like i think i have to forget the protocol kind of to proceed
+
+but can’t forget protocol when inside of the protocol
+
+Collaborator  10 minutes ago
+or something like that
+
+Mark  10 minutes ago
+yeah
+
+Collaborator  10 minutes ago
+*for some people some of the time (edited) 
+
+Collaborator  10 minutes ago
+like i still think protocol is Right [Editor: Ahhhh! I’m trying to point in the direction of something Right, “under emptiness.”]
+
+Collaborator  10 minutes ago
+and maybe even Ultimate [Editor: Ahhhh! I’m trying to point in the direction of something Right, “under emptiness.”]
+
+Collaborator  9 minutes ago
+but like it’s more clear to me how i’ve gotten trapped inside it and it’s assumptions (possibly the assumptions I gave to it)
+
+Collaborator  9 minutes ago
+and like how i might just need to go sing and roll in the grass and stuff for a couple months [kind of …, not exactly …]
+
+Collaborator  8 minutes ago
+protocol feels very platonic to me
+
+Collaborator  8 minutes ago
+or at least my understanding/interpretion of it
+
+Mark  8 minutes ago
+the way i’m thinking about it right now is there’s sort of micro-redo-to-undo, which can often be done in the context of main practice p2, conceptualized as such.
+
+and then there’s also sort of macro-redo-to-undo, which can easily involve forgetting about the protocol for a few months to go have desired experiences and experiments. and both may be very necessary. and needing to do that one to twenty times, big macro orbits that forget about the protocol completely and then maybe pick it up again later. (edited) 
+
+Collaborator  7 minutes ago
+fwiw i don’t think i’ve found anything that you’d disagree with perse
+
+Collaborator  7 minutes ago
+like you’ve always given room for going off and doing wild experiments
+
+Collaborator  7 minutes ago
+and so maybe i haven’t listened
+
+Collaborator  7 minutes ago
+but but
+
+Collaborator  7 minutes ago
+at the same time
+
+Collaborator  6 minutes ago
+i think there’s some assumption baked into the whole approach/attitude/mind life of protocol (and creator? maybe??) that’s leaking out here
+
+Collaborator  6 minutes ago
+some worldview, ontology, something something
+
+Collaborator  6 minutes ago
+maybe
+
+Collaborator  6 minutes ago
+or maybe just my (mis)understanding
+
+Collaborator  6 minutes ago
+not clear
+
+Collaborator  5 minutes ago
+nap time
+
+Mark  5 minutes ago
+> like i still think protocol is Right
+> and maybe even Ultimate
+
+I think the protocol captures something pretty well, albeit, abstractly. but everyone will interpret and reify the conceptual homomorphism in like a slightly different place in their mind. and sometimes may need to indulge discontinuities, like complete vacations, in order to pick it up again in way that’s seated more fortuitously.
+
+Mark  4 minutes ago
+> i think there’s some assumption baked into the whole approach/attitude/mind life of protocol (and creator? maybe??) that’s leaking out here
+
+for sure, inevitably, even though tried to maximally abstract that out. the vibe of the whole thing. will be my contingencies baked in a various ways. this convo one way of mitigating that to some degree.
+
+Mark  3 minutes ago
+@Collaborator Can I paste this into protocol doc with some light editing? Will remove some stuff at beginning of thread.
+
+Mark  1 minute ago
+Have been looking for a way to introduce the “healthy orbiting” idea. There’s also “pre-orbiting” where a person does a bunch of other stuff first, evaluating and comparing and maybe eliminating alternatives and complementary practices, as well as maybe refactoring life situation, while only lightly poking at doc, before really digging in. And that can be in stages or back-and-forth, plenty, too. And that’s fine and good.
+
+Mark  1 minute ago
+“healthy orbiting and pre-orbiting”
+
+Mark  < 1 minute ago
+And for some people, there will be something much more direct than analytically deconstructing and insourcing a !5,000+ word document. Or they should do that first for X months or years and then fiddle with the document if they get stuck or something.
 
 
 risks:
@@ -5302,6 +5513,8 @@ Further notes:
 (*) You might also write/think/say things (assertions) and then incline towards generating relevant (apparent, seeming, believed, thought, felt, wondered, imagined, suspected, endorsed, something…) counterexamples or contradictions to those things. And then use the things and the counterexamples or contradictions to improve on the original thing or to write a better thing not subject to the original counterexamples or contradictions.
 (*) Some additional good concepts, semi-separately, are “error correction,” “counterfactual,” “counterexample…”
 (*) Try also: not X = [pick things and see if they’re in or out, let this change anything]
+(*) Consider swapping out the =/equals sign above with things like: is, means, signifies, is equivalent to, ~/sort of equals; maybe equals; could equal; is; is essentially; could be conceived as; could be construed as; could be stipulated as; could be schematized as; could be conveniently stipulated as; boils down to; could have a good enough for now/here definition of; is/can be defined as; most people think of this like/as; is like…
+(*) In addition to =/equals and so forth, you can of course try using the particular word or phrase in a sentence or sentences.
 
 
 p2:
@@ -6342,6 +6555,7 @@ meaning, nonsymbolic and liminally verbal knowing
 slightly-out-of-phase-with-normal-attention-“inner space” that is both seemingly “in there” and in-there-“out there” or “out there”-in-there…
 non-euclidean body-related space and “inner” space
 other “non-sensory” or “non-traditionally-sensory” phenomenology
+stuff/things/experience that is “out there in the world” but somehow not directly sensory, in character
 “body” or “mind” that’s somehow “outside” the skin or “somewhere else”
 skeletal muscles (every last one of them)
 interoception (visceral organs, sinuses of the skull, pressure, heartbeat, peristalisis, autonomic arousal, etc.)
@@ -6675,7 +6889,12 @@ historical and contemporary difficulties and uncertainties of life: [experimenta
 
 Warning: This section is experimental and should be approached with caution if you have live existential/cosmological/eschatological/metaphysical issues or live mania, paranoia, or possibly other things.
 
-In no particular order: deaths of parents, significant others, children, other family, natural disaster, solar flares, pandemics, war, invasion, food insecurity, systemically messed up and flawed healthcare, accidents, nuclear war, phishing, failure of cryogenic preservation if you go that route or being tortured and unable to die when you wake up until some very large energy source runs out, Alzheimer’s, Parkinson’s, chronic fatigue, physical disability, nation/state/country failure, sudden death, cancer, stroke, agents of power knowing exactly who you are and the uncertain threat of them coming to harm, kill, or take you away (in front of significant others, children, or other family of friends).
+In no particular order: deaths of parents, significant others, children, other family, natural disaster, solar flares, pandemics, war, invasion, food insecurity, authoritarian surveillance states, violent feuds, systemically messed up and flawed healthcare, accidents, nuclear war, phishing, failure of cryogenic preservation if you go that route or being tortured and unable to die when you wake up until some very large energy source runs out, Alzheimer’s, Parkinson’s, chronic fatigue, physical disability, nation/state/country failure, sudden death, cancer, stroke, agents of power knowing exactly who you are and the uncertain threat of them coming to harm, kill, or take you away (in front of significant others, children, or other family of friends).
+
+
+muscle tension scratch
+
+Increases in muscle tension are caused when one is meditating under the conditions of needing/expecting a/any “some particular thing” to be a/any “some particular way” on a/any “some particular timeline.” LaTeX subscript: ({“some particular X”}_{de dicto})
 
 
 
