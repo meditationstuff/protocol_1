@@ -1,4 +1,4 @@
-v87 Mark D Lippmann Method (“Mastery Protocol”)
+v88 Mark D Lippmann Method (“Mastery Protocol”)
 
 
 
@@ -237,6 +237,7 @@ v83 20200405 backup.rtf
 v84 backupd 20200408.rtf
 v85 20200426 backup.rtf
 v86 backup 20200426.rtf
+v87 backup 20200426.rtf
 
 
 
@@ -304,9 +305,9 @@ practice preliminaries
 		error propagation, wayfinding, grace of what minds are
 		conclusion
 practice
-	preliminaries and vacations; conceptualization as such:
+	preliminaries and vacations; conceptualization as such
 	risks
-	environment [and subtlety; (more) risks and rabbit holes]:
+	environment [and subtlety; (more) risks and rabbit holes]
 	posture
 	meta practice
 		meta protocol v1.5
@@ -897,6 +898,10 @@ practice
 			options, pros and cons
 			trigger yourself
 			intuition
+			counterfactual past additions
+			memory/imagination triggering
+			urges and impulses
+			three-dimensional, unforced scanning
 		main practice(s)
 			p0
 			p1 [old names: Elemental Analysis, Comprehensive Elemental Analysis]
@@ -943,6 +948,8 @@ lists and more
 	muscle tension scratch
 	last gasps
 	being (not) ok tangles
+	dark phenomenology and presence/absence conceptions
+	getting triggered, usefulness and risks
 bibliography (incomplete)
 
 
@@ -5535,6 +5542,26 @@ intuition:
 Temporarily let yourself [come to] know (or understand) without dictating the why of how you know or the how of how you know. (cf. radically unstructured coming to know/understand.)
 
 
+counterfactual past additions:
+
+What would it have been good to experience, at any point when you were younger, in the recent or distant past? How might that have gone? What was the experience, maybe sight, sound, touch, taste, smell, feel, meaning…
+
+
+memory/imagination triggering:
+
+Through memory, imagination, or imaginative riffs, trigger yourself, distress yourself.
+
+
+urges and impulses:
+
+Feel ongoing and the bleeding-edge arising edges of impulses, urges, impellment, compellment, compulsion
+
+
+three-dimensional, unforced scanning:
+
+Slowly explore the surface and physical interiority of the body with attention. Don’t force attention to where attention doesn’t easily go or where it slides away. Let it go; it will surely open up later, and you will surely come back to it later, possibly effortlessly and costlessly folded into something else.
+
+
 
 main practice(s):
 
@@ -5665,8 +5692,8 @@ Will Instructions Part 1:
 • If you become aware that it would be bad to directly and immediately will [in such or such and thus a manner/sense/way] that or something like or in the neighborhood of [proposition] P at or during a particular time/moment/instant or interval/duration, and, at or during that particular time/moment/instant or interval/duration, you can do so, and it’s still good to do so, then don't do so (don't start doing so or stop doing so); have the [minimal] absence of that willing; allow or participate in that happening.
 • If you become aware that it would in some sense have been good to do so but you can’t (a) will or can’t (b) have the absence of willing that or something like or in the neighborhood of some particular [proposition] P, at or during a particular time/moment/instant or interval/duration, then stop trying completely, will that you have the absence of willing that P and ultimately release even that; allow or participate in that happening.
 Will Instructions Part 2 (the “opposite” or “absence” or “antidote” of/to will):
-• If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as “volitional-you-proper” is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/destiny/inevitability/choicelessness/expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, let [it] relax, let [it] recede, let it undo itself, dream, get lost, be lost, forget, allow, surrender, suffer, free-associate, be confused, be uncertain, be out of control, let go, ‘controlled/channelized “falling backwards [into]”)’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.  
-• If you become aware that it would be bad to have faith or forbearance or resignation or surrender or giving up, etc. about something relative to your fate/destiny/inevitability/choicelessness/expectation[e.g.][(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality], to forget, dream, hypnogogia, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, ‘controlled/channelized “falling backwards [into]”, fall-backwards-into, fall-forwards-backwards-into)’ and you can (not) do so, do not surrender to that, don’t do that. [e.g./for example maybe: fight, resist, will, try everything, try different things, go back to the drawing board, exhaust every possibility, give it everything you have, try more things, etc., or not, or don’t]
+• If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as “volitional-you-proper” is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/destiny/inevitability/choicelessness/expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, daydream, fantasize, reverie, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, let [it] relax, let [it] recede, let it undo itself, dream, get lost, be lost, forget, allow, surrender, suffer, free-associate, be confused, be uncertain, be out of control, let go, ‘controlled/channelized “falling backwards [into]”)’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.  
+• If you become aware that it would be bad to have faith or forbearance or resignation or surrender or giving up, etc. about something relative to your fate/destiny/inevitability/choicelessness/expectation[e.g.][(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality], to forget, dream, hypnogogia, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, ‘controlled/channelized “falling backwards [into]”, fall-backwards-into, fall-forwards-backwards-into)’ […], etc.,  and you can (not) do so, do not surrender to that, don’t do that. [e.g./for example maybe: fight, resist, will, try everything, try different things, go back to the drawing board, exhaust every possibility, give it everything you have, try more things, etc., or not, or don’t]
 • If you find you can’t do one of the two above, then stop trying completely, will that you have the absence of trying and ultimately release even that; allow or participate in that happening.
 Action Instructions Part 1:
 • If you become aware that it would be good to directly and immediately do [in such or such and thus a manner/sense/way] that or something like or in the neighborhood of [action/behavior/doing/self-happening—do/act/cause/maintain/enable/incept/start/prevent/block/stop/end/facilitate/retard/stabilize/change/think/know/sense/judge/evaluate/ compare/differentiate/hear/see/smell/taste/look/listen/appreciate/enjoy/contemplate/imagine/grasp/accumulate/suffer/feel/check/test/try/experiment/have-part-in/querying/asking/wondering/imagining/storytelling/narrating/what-if-ing/solving/solutioning/what-would-they-do-ing/questioning/assessing/judging/evaluating … participating in/push/pull/raise/lower/attend/image/envision/visualize/interrupt/preempt/interleave/substitute/switch/meaning-making/meaning-dissolving, experimenting, waiting, observing, interrupting] A at or during a particular time/moment/instant or interval/duration, and, at or during that particular time/moment/instant or interval/duration, you can do so, and it’s still good to do so, then do so; allow or participate in that happening. [Selecting from space of all possible actions…]
@@ -6038,6 +6065,20 @@ awareness of anxiety
 knowledge/awareness of has-to-work-ness/must-work-ness/has-to-succeed-ness/must-succeed-ness
 knowledge/awareness of [body] [felt] anticipations/ing
 knowledge/awareness of [bodymind] commitments
+knowledge/awareness of disbelief/“disbelief”
+knowledge/awareness of disbelief-as-such/“disbelief as such”
+knowledge/awareness of [“particularly active”] disbelief-as-such/“disbelief as such”
+knowledge/awareness of disbelief that X
+knowledge/awareness of disbelief that X is real/true/obtaining 
+knowledge/awareness of seeming-darkness
+knowledge/awareness of almost-darkness
+knowledge/awareness of “blackness”
+knowledge/awareness of low-magnitude-ness (sensation)
+knowledge/awareness of low-intensity-ness (sensation)
+knowledge/awareness of truth/“truth”
+knowledge/awareness of existence/“existence”
+knowledge/awareness of reason/reasoning/“reason”/“reasoning”/“Reason”
+knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
 
 
 
@@ -7081,6 +7122,53 @@ If I’m actually ok, I will have to do things that I don’t want to do, that I
 Being ok is against my belief system/ideology. Being not ok is what makes people good. Being not ok is what makes people transcendent. Being not ok is an act of transgressive power.
 
 Furthermore, it’s not ok to bask in the goodness of not being ok. Given that I’m not ok, it’s also not ok to fully enjoy not being ok. It’s not ok to enjoy how being broken is incredibly delicious.
+
+
+dark phenomenology and presence/absence conceptions:
+
+Something to keep in mind is that some phenomenology is relatively more prone to being “misinterpreted” or “misconceptualized,” still not committing to any particular thing when using the words “phenomenology,” “mistinterpretation,” “misconceptualization,” etc.
+
+In particular, phenomenology that is “dim,” “dark,” “black”(!), is not just harder to “see” than gross/overt/bright/clear/something phenomenology or even subtle/low-intensity/low-magnitude that’s not “black.” It’s, again, more prone to being misinterpreted/misconceptualized.
+
+“Very dark” or “black” phenomenology sometimes contributes to people, in part, locally, isolatedly, in some part of their “system,” “believing” that they’re nothing, or that they’re dead, or that nothing’s there, or the phenomenology itself is nothing, or there’s a black hole “there” that one might get sucked into, and so on. 
+
+It might be worth noting that “black” phenomenology is still phenomenology! It’s still present!
+
+As a caveat, this doesn’t mean all “black” phenomenology is “safe” or “harmless” or “the same” as all other “black phenomenology.” I mean, it’s definitely safe in some absolute sense, but don’t interact with it mechanically or unresponsively, as per usual! Possibly engage in things like the meta protocol in inclining towards what to do! There’s still a sense in which bad/“bad” things could be lurking/hiding in “the black,” in “the dark” (or in bright stuff, too), depending on all sorts of factors.
+
+Again, please don’t “fix”/“stabilize” the meaning of pretty much any word in this section (or in the entire document), but there’s a thing, here.
+
+Additionally, given some relationship between quality and conception, there’s a related thing with conceiving presence and absence.
+
+For example, it’s important to distinguish between (a) not X, (b) the absence/lack of X, (c) the presence of the representation of the absence/lack of X, and so on. Making a light, local distinction between something like “experience” and something like “concept.” Conceptualization or experience of the lack of X, which, in some sense, technically, is presence, not absence, may be accompanied by dim, dark, or black phenomenology. (Again, not all dim, dark, or black phenomenology is “the same.”)
+
+Example:
+
+lack of belief and/or lack of disbelief is not the same thing as “active/present” disbelief, which might be some combination of feelings, thoughts, “phenomenology,” sensations, etc. And some of that might be very dim, dark, or “black.”
+
+
+getting triggered, usefulness and risks:
+
+Sometimes getting triggered can save time, whether that triggering is accidental, surprising, or even prospectively (and retrospectively) net undesirable.
+
+Somehow, someway, the meditator will make it all the states/places in their bodymind state that they need to or want to, to have things change in ways that are nonmonotonically, retrospectively good. One doesn’t need an external trigger, in the limit, which is good because sometimes triggers aren’t available, e.g. a childhood context or friend or enemy who’s passed away or unavailable. (Often, though, too, something far removed from an original context has an element of, or enough of a similarity, to an original context/person/situation, to serve as a trigger or cause triggering.)
+
+But, if triggers are available, sometimes they can cause really fast pinpointing and learning, if the meditator is ready. Sometimes, this will alleviate a bottleneck, and it’ll be doubly useful. Even if they’re not ready, it’s still data that will be useful later.
+
+Whether intentional or accidental, getting triggered isn’t always safe, because being triggered can sometimes involve an increased propensity for destructive behavior. (Part of being triggered is sometimes not realizing one has been triggered, and then destructive things sometimes feel “right” or “justified,” in the moment.
+
+Being mindful of safety, sometimes it’s better to avoid being triggered, and sometimes it can be net-helpful to be triggered. And sometimes undesirable triggering can happen, and it can be useful, even if it’s partially or net-problematic.
+
+Finally, “retraumatization” is a thing—being exposed to “triggers” too early can also cause net more “layering” and “compensation” and thereby make things take fractionally longer, on net. This can be discouraging if one didn’t intend to be triggered, but it’s normal to get triggered and retriggered, and it’s very possible to think one os being “re-traumatized,” etc., but it’s actually net “redo-to-undo,” and net progress. It can be hard to tell in the moment, and, in any case, getting triggered is par for the course, grist for the mill. It’s ok.
+
+All that said, it can be fine good to systematically, actively seek out some triggers, some of the time, when you’re ready or as a careful (or accidental) experiment.
+
+
+informal working definitions:
+
+trigger ~= something that can or does cause an abrupt (negative) state change, or change to local, behavioral propensities, that doesn’t depend on the rest of the environmental context
+
+trauma ~= bodymind state/feeling/content/material that’s needs extra steps to be safe to re-experience, that in its dormant/latent state is a bottleneck/dependency on other/further valued changes
 
 
 
