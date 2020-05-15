@@ -1,4 +1,4 @@
-v88 Mark D Lippmann Method (“Mastery Protocol”)
+v89 Mark D Lippmann Method (“Mastery Protocol”)
 
 
 
@@ -238,6 +238,8 @@ v84 backupd 20200408.rtf
 v85 20200426 backup.rtf
 v86 backup 20200426.rtf
 v87 backup 20200426.rtf
+v88 20200503 backup.rtf
+v89 backup 20200515.rtf
 
 
 
@@ -950,6 +952,7 @@ lists and more
 	being (not) ok tangles
 	dark phenomenology and presence/absence conceptions
 	getting triggered, usefulness and risks
+	“psychic” and “supernatural” stuff: what/how/how-not [draft]
 bibliography (incomplete)
 
 
@@ -7169,6 +7172,204 @@ informal working definitions:
 trigger ~= something that can or does cause an abrupt (negative) state change, or change to local, behavioral propensities, that doesn’t depend on the rest of the environmental context
 
 trauma ~= bodymind state/feeling/content/material that’s needs extra steps to be safe to re-experience, that in its dormant/latent state is a bottleneck/dependency on other/further valued changes
+
+
+“psychic” and “supernatural” stuff: what/how/how-not: [draft]
+
+This is a section about:
+
+geas, spells, curses, evil eye, demons, objects, entities, ghosts, echoes, spirits, critters, egregores, aliens, servitors, siddhis, powers, ESP, psi, mediumship, shamanism, energy work, energy healing, prana, qi, chi, ruach, qigong, taichi, bodywork, reiki, intuitive healing, intuitive diagnosis, clairvoyance (clairaudience, clairsentience, etc.), angels, higher beings, possession, lower beings, higher selves, magic, magick, occult, voodoo, spirit guides, imprints, possession, riders, compulsion, bewitchment, ensorcellment, psychic rape, brainwashing, mesmerizism, animal magnetism
+
+Most of the above could qualify as “supernatural,” and most of the above somehow relates to other people or other “entities.” Also, the above list is a mix of traditions and even a mix of perhaps “good” and “bad,” though some traditions think almost all of the above are bad, or at least distracting. With respect to “supernatural” phenomena, different traditions may emphasis different distinctions:
+
+Now versus later or never:
+
+Contemporary meditation teachers sometimes mention “the powers”, “the siddhis” as illusory or real-but-orthogonal to spiritual practice, either something to be ignored or avoided, or something to come back to, later, maybe: “If you meet the buddha on the road, kill him.”
+
+Sentient versus non-sentient:
+
+Various occult and religious traditions distinguish between possession (e.g. by entities, ghosts, demons) and other kinds of not-directly-sentient spiritual and interpersonal effects.
+
+Self versus not-self:
+
+Very loosely speaking, maybe, shamanism (I’m not sure if all of indigenous, pre-contemporary, and contemporary) makes a distinction between “parts of the self” (e.g. “soul fragments”??) versus “curses,” “darts,” etc.
+
+Contemporary, and relatively secular, Internal Family Systems therapy purportedly distinguishes between “guides” and “critters.”
+
+There are broad patterns or rules in all of these traditions for distinguishing between what’s what, what’s self and not-self, as it were, what’s false and true, and what’s good and what’s bad, and when, out of all of these apparent things. And these traditions have procedures and methods for what to do under various conditions.
+
+***
+
+I didn’t say this in the Culture section; but, here, I’ll straightforwardly assert that relatively high fidelity, “things” can apparently be “in your mind” but “not you.”
+
+(Is this a “pragmatic” claim or a “literal” claim? Yes, no, maybe, both, neither, etc.)
+
+These sorts of “things,” “information,” “patterns,” “objects,” “influences,” including those with “agency/will/intelligence” can, not always, but not unusually, be as apparently high fidelity as your own thoughts, feelings, sensations. (Regarding “agency/will/intelligence,” this still includes simple, confused, and perseverative things.) And, what’s “you” and “not you” can be easily confused for the other. Just like, sometimes, some “parts” of you might feel like “I” and some “parts” of you might feel like “me” or “past me”, etc.,, also, sometimes, you may, too, find what ultimately comes to be understood as “not me.” (And, of course, some people do sometimes say things like, “This isn’t me. That’s not me.” More on this, below.)
+
+(And, of course, not all of you, or necessarily any of you, feels “part like.” It’s not really accurate to say people are “made of parts.”)
+
+***
+
+So, here we go. There are a bunch of nuanced points to be made, here, so do please read this section carefully and maybe more than once.
+
+It will be outrageous or disappointing to some people that a claim like “in you but not you” is being made in this document, whether I handwave about “pragmatic” or “literal” claims, or not. It might help a little bit to note that, to some indigenous cultures, say, a light touch of wind or dust sparkling in a shaft of sunlight, can be ascribed agency and be conceived of as a literal spirit, erroneously or not, in some ontology and metaphysics. Suffice it to say, here, mechanism is a bit outside the scope of this section (and document), but phenomenology, usefulness, and reflective and prereflective conceptualizations-as-such, though, are in scope.
+
+So, this section is not about “how could this even be a thing, literally or apparently?” It’s not about neurophysiology, information theory, signal processing, bandwidth, inverse problems, biophysics, sociology, superstition, cognitive biases, nocebo effects, confirmation bias, autosuggestion, confabulation, demand effects, cultural conditioning, religious conditioning, etc.
+
+With that in mind, I want to acknowedge that, if you at least provisionally accept that “there is an existant, relevant phenomenon, here” you may immediately and prereflectively have opinions and reflexive inclinations for what to *do* about all this, and you might immediately start doing those things, right now or upon encountering what I might be referring to. You might be tempted to go right to treating these phenomena as superstition, culture, or sociology, and you might prefer to preemptively treat such phenomena as, say, biology, neuroscience, or physics, or at least “somehow natural.”
+
+(“Somehow-natural” seems good; I, personally, more or less, believe that everything is lawful, natural, etc., and sort of can’t be otherwise, almost be definition, or something. And, I’m a fan of contemporary (and especially future…) physics and neuroscience. Say, forces, fields and nothing else, maybe.)
+
+Anyway, the point I want to make is that some of what you do will be local and net error *correction*, but some things will be local and net error *propagation*:
+
+It’s very important to do some form of overall process error checking, like with the Meta Protocol or something in the same spirit.
+
+So, my advice then would be to go in without preconceptions, as best you can, in part because meditation is eventually going to “turn everything inside out,” anyway. And, if you take my advice, safely letting go of preconceptions, to flexibly engage with these sorts of phenomena, is a process. Yes, say, physics, sociology, everything. But, also, maybe, temporarily, set physics aside to pick it up again, later. In any case, you’re going to believe physics *differently* on the far side, even though all the equations will be the same. Also, likely, much of you,“doesn’t believe in physics,” *right now*. Childhood parts of you, as it were, will believe in god, monsters under the bed, etc. Additionally, “things” inside of you can believe in gods and monsters and might not believe in *you.*
+
+To be sure, sometimes, there’s a gray area between, say, “a self-introjected parent” versus, sometimes, alien-ness or foreignness that is much more clear cut. But, you may eventually find that many things are much, much more clear cut than you might initially expect. Most people have at least a little bit of this sort of “not me” phenomena and some people have a lot.
+
+As per the usual pattern, there can be a period of increasing confusion and problematic over-sensitization (which can last a very long time and potentially be very crippling) followed by things getting properly situated, comprehended, interpreted, filtered, and/or understood. This applies to both what’s “already in you,” as well as “new stuff that you might pick up in real time.” One’s “real time filters” often get worse, before they get better, as per how the bodymind sometimes needs to make changes.
+
+Things get to make sense in the end, but they might not make sense in the middle, and over and over again.
+
+More generally, for all this stuff, It can be good to have the goals of wellbeing (and safety), intellectual internal consistency (phenomenology, science, sociology, compassion, kindness, love), and understanding, while being open to suffering, inconsistency/contradiction, and confusion.
+
+***
+
+One might ask, why engage with this sort of thing at all, on any timeline? The answer is that “not-you” things, whether neutral, malevolent, or benevolent, “real” or “illusory,” all things being equal, will typically, eventually, sooner or later, become a bottleneck on meditative progress. There will typically be a way in which they are subtly “against the grain” of one’s (body)mind and will eventually “get in the way.” There’s some sense in which they need to be “metabolized” or “integrated.”
+
+Given that claim, this is a good place to explore some concerns and objections:
+
+(1a/3) The concern of buying into a “demon-haunted world”—(1b/3) where, e.g. only one method, one cult can save you.
+
+The above is from the title of a Carl Sagan book: “The Demon-Haunted World: Science as a Candle in the Dark”
+
+So, should you, in some sense, surely not in the Sagan sense, buy into a demon-haunted world? On what metaphysical, physical, psychological, or even moral grounds? You’ve got just one body and one brain, right? Right??? When and how does it make sense to treat things as “parts,” let alone “parts” that are “not you.” In what sense??? Via what causal history??? Via what mechanism???
+
+This is maybe where most meditation writers get cagey. I try to almost never, ever, ever do the cagey thing, but I’m going to do it, here, at least in this version. Part of the issue is that one needs to sort of go beneath, underneath “all” metaphysical, physical conceptions, anyway, in some sense, regardless of what’s “really” going on. You’ll need to come to (provisional) conclusions for yourself, via engagement with your own process.
+
+But, but, but, I want to reiterate a few things from the Culture section. There’s the pattern of another person or group somehow causing you to experience something unexpected and then using that to somehow claim intellectual, moral, or “health/safety” authority over you. Some cults out there will wait a bit, wait for you to get sucked in, before telling you something like, “you are not just broken but filled with bad things, and you have to get them out or disaster or forever non-acceptance!” And whatever they tell people will be correlated *just enough* with that person’s experience that that person will both believe the cult and also think that the cult is their only option to get “clean” or “pure” or worthy of happiness, safety, intimacy, etc. It often works, at least in the West(?), because mainstream culture mostly doesn’t talk about these sorts of apparent phenomena—so being somehow exposed to these sorts of phenomena is immediately isolating and yet these people seem to know all about it, and they want to help… Yikes.
+
+That being said, this document *is* intended for people who want to “go all the way,” towards something that has to be reconceived during the journey. But, you don’t have to defer happiness, safety, intimacy while you’re doing it. It’s always the best mix and ordering you can figure out, as you go. And, of course, just because you’re reading this doesn’t mean you have to “do the document.” As written in a few places, this document is a telephone game, and I hope people will take it apart and use it (or parts of it) on their own terms, on their own timeline. You don’t have to give up your intellectual, moral, etc., autonomy. There are additional external resources below that talk about these sorts of phenomena (some intended as “good” examples and some as “problematic” examples.)
+
+
+(2/3) The concern of self-repression, self-suppression, self-alienation
+
+So, again, it’s worth calling out, that any conceptualization of “in you but not you” can potentially lead to “self-violence.” Recall, “in you but not you” is just words that you are actively interpreting. It might not mean what you think it means. You might come to prefer very, very different language or a very different way of thinking about all this. You might decide that the frame, here, is deeply contingent and generally inappropriate. It’s possible that I’m very wrong about something.
+
+Here, I can only refer one to the meta protocol and main practice p2, to careful discussions with other people, and maybe engagement with additional resources. Be careful, patient, gentle and discerning, generally, as best you can.
+
+A general point is that, even if you’re not sure whether something is “good” or “bad” (or “mixed”), whether or not you’re sure whether it’s “you” or “not you,” at any point you can explore what’s good about it. You get to keep anything that’s good, no matter where it came from or how it came to be under consideration.
+
+
+(3/3) The concern/horror/distate of purportedly “needing to” “integrate”/“metabolize” “everything.”
+
+So, we’re pretty far down in this section, and we sort of haven’t talked about the potential “horror” or all this, yet. I didn’t want to coercively suggest that all of this can be very scary. That said, it can be, and sometimes it transiently is, but, immediately or nonmonotonically, it can become very manageable and matter-of-fact.
+
+Again, some people will barely encounter any of this, or won’t for a very long time, and other people will encounter a bunch of it, up front, and/or it will even be pretty central for a while, maybe getting bad or worse, in a bunch of different ways, before it gets better.
+
+In any case, the main point of this subsection is to unpack these ideas of “integrate” or “metabolize” a little bit more. 
+
+By “metabolize” or “integrate,” this doesn’t mean that you, in some sense have to either “keep” a bad or unwanted thing or, again, that you have to “give up”/“dissolve” a good thing.
+
+It’s more like, perhaps, you get to appreciate the goodness and badness of things, as you come to understand those things better and better—until “influence” becomes mere “information” (as Ken Wilber might put it). I really like his concision, here: “Influence becomes information.” (I think he was talking about the personal psychological shadow and not “objects” but it still generally applies.)
+
+So, if something is “metabolized,” it might be that all that’s left is a (nonreactive, nontraumatic) memory and/or the knowledge and confidence for how to deal with such things in the future. It could be more than that, too—e.g. some “bad” thing might be “brave,” and you might want to keep some aspect of that braveness around or, more likely, even just use the inert memory of it as inspiration for your own braveness on your own terms. Or you might use something “bad” as inspiration for how to be the opposite of that. As discussed above, you can keep anything you want to keep, in the way you want to keep it, or it can just be the knowledge that something happened, likely “truly having made peace with that,” on, say, truly your terms.
+
+***
+
+So, by “metabolization” or “integration” hopefully it’s clear that I mean something very methodologically specific (through very flexible in the concretes) and also very contingently personal.
+
+So how does one do it? As with anything else, it’s “just” engagement with main practice p2, the other main practices, auxilliary practices as needed for inspiration, the meta protocol, your own interpretation of “how to do all this” that changes and improves, over time. As said in a bunch of places, it sort of all becomes “just doing one thing,” simplicity on the far side of complexity, whether you’re working with “me,” “not me,” or often both mixed together, etc. Hopefully, this further discussion will make things faster and easier, though.
+
+Doing something like “metabolization” or “integration” might be a very different conceptual/experiential/sensory, multi-step puzzle per thing to be metabolized. (If it weren’t at least a little bit of a puzzle, it would have already happened a long time ago, “automatically,” probably.)
+
+(By the way, as per “puzzle-like nature,” just “willing” “Integrate!” or “Metabolize!” might seem useful or even seemingly effective, in the short-term, but, likely, much will have to be re-done. Again, recall, error correction versus error propagation.)
+
+Do maybe remember that terms like “object,” “thing,” or even “ghost,” “angel,” “demon,” can be misleading, of course. For you, your (body)mind, you might seemingly find those sorts of things in yourself as such, and/or/also, it might be more like a pattern, a shimmer, sensory patterns, more wavelike than particle-like, or person-like, as it were. But, it might indeed feel person-like. There can also be plenty of “disembodied” feelings, sentiments, urges/iimpulses, reactiveness, “beliefs,” etc., that you ultimately come to understand as “not me,” before then making decisions about what to do next.
+
+Person-like, feeling-like (etc.), and pattern-like phenomena will likely need different interaction patterns, in the puzzle-solving sense.
+
+Sometimes things that feel like “not me” will turn out to be “was me all along,” disowned/repressed/suppressed parts of self, sometimes, e.g., soft and/or loving (“good”) and sometimes, e.g., scared and/or violent (“bad”). Each of these cases may take a bit of a different approach, and there might be many types/kinds/cases/mixes/subtypes of each.
+
+And sometimes things that feel like “not me” will be “actually from the outside.” And there can be many subtypes of each, all of which might be best treated in very different ways.
+
+Regarding “me” versus “not me” (versus even an initially mixed situation), and regarding the process of determining which is which, and what to do before or after provisionally determining that, here are the briefest of examples/analogies: You probably wouldn’t treat a friend (happy or unhappy), or a seemingly suffering stranger, necessarily, in a same way, though their might be deep guiding principles or values at any particular time. Sometimes with a friend, you’d be very open to letting them guide, or sometimes you might be firm, or sometimes it would be very undifferentiated. Sometimes with a stranger you might be particularly polite. Other times you might be particularly cautious or you’d have firm boundaries for when and how to interact. Sometimes people mislead, misrepresent, outright lie, or are mistaken about their own “true nature.” You might or might not, initially or finally, interact on their terms or their frame. Or you might! And, of course, all of this might be quite nonverbal and very experiential (or, again, very “low level” and not with reference to person-like-ness at all, etc.).
+
+It might seem initially complicated, but, ultimately, you’ll sort of transcend any particular mechanistic or stereotyped framework or set of steps!
+
+You don’t need to memorize patterns, rules, etc.! You will bottom-up acquire them, implicitly or explicitly, in any case. It can be helpful to write things down, sometimes, buckets, lists, reminders, messy or organized. It can be helpful to try strategies in this document and to articulate/write your own variations in your own words. In any case, there is a simplicity on the far side of complexity. Eventually, there’s a real sense that you’re “just doing one thing,” whether something is person-like, pattern-like, you, not-you, good, bad, safe, unsafe, etc. Eventually you’ll go/experiment/learn/succeed largely by “feel,” “beneath” language and even concept or category. 
+
+And, you’ll make mistakes! Sometimes you’ll find that something you’ve been treating as “you” or “not you” is actually the other case, or it’s an initially mixed case that’s more complicated than you thought. Many people, most people, will have inevitable error propagation mixed in with error correction. Try not to have this happen, but it will(!!!!), and that’s ok. It’s ok to make mistakes, part of the 5,000-10,000 hours, or whatever, accounts for thousands of hours worth of mistakes and backtracking!!!!!!!!!!!!!!!!!!!! [sic]
+
+Given the ways in which the mind is “lossless,” even “propagated” and “entrenched” errors can be undone, unentrenched. Any “mistake” can be undone, whether from five minutes ago or back from within your prenatal first seconds of consciousness. (Yes; that may need to be a whole other section, in a similar style to this section.) This is (very) long-range wayfinding, and there will be wrong turns, and it’s ok.
+
+***
+
+There are maybe a few fairly general patterns that can pop up pretty often:
+
+As per usual, there’s the general “making it safe to look and then looking.”
+
+There maybe is also “making it safe for this to possibly have been me all along and then being able to check.”
+
+There is also “making it safe to provisionally accept/allow the seeming felt goodness/attractiveness in this bad/evil/horrifying/distasteful/disgusting thing and then basking in that savoring that, for the purpose of coming to ultimately impartial conclusions.” As discussed in the culture section, even if lots of bad stuff came along with it, “knowingly or unknowingly” (to some part of you), there will probably be something tempting, attractive, seemingly good, in there, too, that will need to be evaluated. The bodymind is very conservative and doesn’t want to throw away possibly good things, no matter how problematic the circumstances of encountering those good things! Preferentially, the mind will “detoxify” rather than discard.
+
+***
+
+Nearing the conclusion, anyway, again, some people will barely encounter any of all of this, or won’t for a very long time, and other people will encounter a bunch of it, up front, and/or it will even be pretty central for a while, maybe getting bad or worse, in a bunch of different ways, before it gets better.
+
+But, on the other side, things will be simpler, safer (for self and others), with better boundaries and better filters, but not in a way that interferes with connection, intimacy, closeness.
+
+And, you might find that you want to frame/conceptualize all of this in a very different way than the one I’m using, here. And, my pedagogical or actual frame, position, etc., will change in various ways, too.
+
+***
+
+A final rant, in a bit of a different tone, from some previous scratch notes:
+
+The hardcore meditator, as it were, uses everything, ontologically/metaphysically commits to nothing, and steadily cuts straight to the heart of everything. Open mind—so as not to get stuck; meta protocols—so as to be able to navigate (or to be able to choose when not to navigate) in the midst of anything and everything. One could spend a *lifetime* researching or practicing occult things, or, in my opinion, spend “only”/*only* 4000-15,000 hours meditating (which is also an epistemological practice) thereby retrospectively and counterfactually obviating the benefits of any such occult practice and study, in my current opinion. I mean, it’s ok to poke around a bit, of course, as per interest, but it’s kind of bottomless unless one finds a way to credibly get the whole shape of it, likely from the outside (e.g. by meditating, at the very least).
+
+As per the Culture section of the document, most of time, maybe almost all of the time, 99% of the time, it may be good to avoid spending really any time at all with anyone who claims special, deep, or correct knowledge about any of spiritual/occult/etc things, especially if divorced from straightforward, no-frills transformative practice.
+
+(For that 1% of friends, peers, collaborators, teachers, mentors, it might be very useful or helpful to carefully engage, though. Recall, also, the Many Protocol, which is intended to harmonize with, complement and/or replace this entire space. Some percentage of meditators will go on to become nondogmatic healers, bodyworkers, shamans, etc. It might be good to do no more than dabble in those things until one is many thousands of hours into their meditation practice (4000 hours, 5000 hours, 10,000 hours, even). This whole space should maybe boil down into something elegant, simple, and error-checked, for you, and relatively personally and interpersonally safe, first.)
+
+(And don’t become a “dark wizard.” This will be tonally abrupt and harsh, using language that’s unlike any other in the document, but one could replace “dark wizard” with “predator” or “mind rapist.” That noted, it’s ok to have coercive intimacy, sex, power fantasies! But also be mindful that, sometimes in very literal ways, such fantasies don’t live only in your head, and it’s important to keep that in mind, long-run. There’s, in some sense, nothing wrong with non-fantasy, actual “power,” too, decontextualized. It’s neutral, in some sense. But, as far as I can tell, the only power that works in the long-run is power that is systematically contrite/repentant, systematically nonviolent, and that which safely, systematically empowers others, among other things.)
+
+And, do maybe read the Culture section for more thoughts on ascribing blame, intention, intent, etc., if you experience these sorts of things, in or via your immediate or past environments. It’s tricky stuff, and sometimes people are “doing things” well outside of their awareness or reflective intent. And sometimes you’re the only one affected, or you’re the catalyst, or it was “only in your own head all along,” or everyone bears some “responsbility”/responsibility, or a particular thing is good for some people and bad for others. And, other times, someone really especially did some sort of especially focused thing (occult, meditative), in the past, reflecitvely or not, which contributed to them doing something predatorial or coercive now (and they might be, at least initially, belligerently defensive, or horrified, or not). And you might find that that (partly) coercive person is actually you, or both of you, or some third party.
+
+
+***
+
+Further reading:
+
+[Note that some of these I particularly don’t endorse or have very mixed feelings about. And some are provided purely for context.]
+
+[Thank you to everyone who suggested some of these resources to me.]
+
+Katz, Richard. Boiling energy: Community healing among the Kalahari Kung. harvard university Press, 1982.
+
+Stephan, V. Singing to the plants: A guide to mestizo shamanism in the upper Amazon. UNM Press, 2010.
+
+Earley, Jay. Self-Therapy: A Step-By-Step Guide to Creating Inner Wholeness Using Ifs, a New, Cutting-Edge Therapy. Hillcrest Publishing Group, 2009.
+
+Allione, Tsultrim. Feeding your demons: Ancient wisdom for resolving inner conflict. Little, Brown Spark, 2008.
+
+Fortune, Dion. Psychic self-defense. Weiser Books, 1967.
+
+Mariani, Mike. American Exorcism. https://www.theatlantic.com/magazine/archive/2018/12/catholic-exorcisms-on-the-rise/573943/ Last accessed: 2020-05-08
+
+Malaea, Marika. Catholic Church Attendance in Decline While Exorcisms and Exorcism Training is on the Rise. https://www.newsweek.com/catholic-church-attendance-decline-while-exorcisms-exorcism-training-rise-1469334 Last accessed: 2020-05-08
+
+https://news.vcu.edu/article/The_centuriesold_practice_of_exorcism_is_on_the_rise_Why_now Last accessed: 2020-05-08
+
+http://betsybergstrom.com/about/depossession.php ; https://www.google.com/search?q=compassionate+depossession ; https://www.google.com/search?q=betsy+bergstrom+compassionate+depossession
+
+https://en.wikipedia.org/wiki/Neoshamanism
+
+Scott, Derek. https://www.derekscott.co/2012/06/the-integration-of-spiritual-experiences/ Last accessed: 2020-05-08
+
+“Why I No Longer Practice IFS Therapy” https://www.nadinemenezes.com/ifs-therapy Last accessed: 2020-05-08
+
+https://en.wikipedia.org/wiki/Distributed_cognition
 
 
 
