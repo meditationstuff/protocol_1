@@ -1,4 +1,4 @@
-v2
+v3
 p1_appendix-en-US.txt
 https://stackoverflow.com/questions/3191664/list-of-all-locales-and-their-short-codes
 
@@ -463,6 +463,10 @@ n/a
 	- attribute, mode
 - untitle serial list
 	- somehow
+- 
+	- correct, right, true, properly
+-
+	- absence, presence, contact/touch(ing), separation
 - untitled serial list
 	- And, plus, and nothing else
 	- Or
@@ -470,6 +474,53 @@ n/a
 	- Here there at then scope/bound/context cf. extension and duration/interval
 	- but
 	- nor
+	- coordinating conjunctions
+		- for, and, nor, but, or, yet, so
+	- correlative conjunctions
+		- either...or
+		- not only...but (also)
+		- neither...nor
+		- both...and
+		- whether...or
+		- just as...so
+		- the...the
+		- as...as
+		- as much...as
+		- no sooner...than
+		- rather...than
+		- not...but rather
+		- if…then, ...
+	- conjunctions of time	
+		- after
+		- as long as
+		- as soon as
+		- by the time
+		- long before
+		- now that
+		- once
+		- since
+		- till
+		- until
+		- when
+		- whenever
+		- while
+	- subordinating conjunctions
+		- after, although, as, as far as, as if, as long as, as soon as, as though, because, before, even if, even though, every time, if, in order that, since, so, so that, than, that, though, unless, until, when, whenever, where, whereas, wherever, and while
+	-
+		- at least
+		- at most
+		- not too only
+		- another
+		- yet another
+		- finally
+		- even while
+		- while
+		- withstanding
+		- notwithstanding
+		- besides
+		- recall
+- to resume, resumption
+- call, name, dub, label
 - untitled serial list
 	- concept, meaning, sense, intension, extension, referent, refer, apply
 - untitled serial list
@@ -481,7 +532,7 @@ n/a
 - untitled serial list
 	- duty permission allowed permitted forbidden responsibility obligation should suppose to
 - untitled serial list “even”
-	- except, even though, even while, even as, even if
+	- except, even though, even while, even as, even if, even yet while
 	- only
 	- like
 	- same
@@ -542,10 +593,25 @@ n/a
 	- separation/separateness; individuality
 	- nonrelation
 - [untitled]
+	- if then unless
+	- since until
+	- while
+	- when except
+	- at the start of, at the end of, at (the) instant (of), during/while (the) interval/duration (of)
+	- before after then next
+	- even yet, even while, even still, even yet while, but, and, with expectation, against expectation
+	- instead
+	- same like similar different distinct
+	- but however though
+	- therefore, in conclusion
+	- with, without, absent, present, less
+- [untitled]
 	- vagueness
 	- specificity
 	- precision
 	- grain
+- [untitled]
+	- 
 - [untitled]
 	- reference
 	- simile
@@ -593,6 +659,18 @@ n/a
 	- [aspect, feature, facet, (dimension)]
 	- [glimpse, taste, flash, flicker, glimmer, peak]
 	- fact, event, situation, occurrence, happening...
+-	
+	- necessary, contingent, arbitrary, (incidental)
+-
+	- to index
+	- to depic
+	- to symbolize
+	- to recognize
+	- to conflate
+	- to overlook
+	- to present
+	- to repeat
+	- to correlate
 - [untitled]
 	- quality
 	- property
@@ -695,6 +773,7 @@ n/a
 	- https://en.wikipedia.org/wiki/Conjunctive_adverb
 	- https://en.wikipedia.org/wiki/Transition_(linguistics)
 		- Transition_Words_and_Phrases_7ESL.jpg
+	- https://en.wikipedia.org/wiki/Most_common_words_in_English#Parts_of_speech
 ============
 https://en.wikipedia.org/wiki/Extensional_definition
 https://en.wikipedia.org/wiki/Intensional_definition
