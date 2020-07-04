@@ -1,4 +1,4 @@
-v90 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v91 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 
 
@@ -53,6 +53,7 @@ Contents (simplified/elided):
 		environment
 		posture
 		“headyness”/“heady-ness”/“headiness”
+		body, self-trust, sensory processing, meaning
 		meta practice
 			meta protocol
 			meta meta protocol [sic]
@@ -241,6 +242,7 @@ v86 backup 20200426.rtf
 v87 backup 20200426.rtf
 v88 20200503 backup.rtf
 v89 backup 20200515.rtf
+v90 backup 20200629.rtf
 
 
 
@@ -313,6 +315,7 @@ practice
 	environment [and subtlety; (more) risks and rabbit holes]
 	posture
 	“headyness”/“heady-ness”/“headiness”
+	body, self-trust, sensory processing, meaning
 	meta practice
 		meta protocol v1.5
 		meta meta protocol
@@ -2459,14 +2462,136 @@ Below are notes from a call with a collaborator (jd), with further maybe-helpful
 * arriving at all this was confusing because didn’t seem like what mark was doing. [Mark: makes sense. all seems right to me and I’ve done a ton of just wandering around, maybe not in remote nature, but away from people, in parks or where I knew that I knew nobody even if there were people around 20-50 feet away, and i knew it was completely safe so I could just space out[, be in reverie or landscape-absorbed] for hours.]
 
 
+body, self-trust, sensory processing, meaning:
+
+[For this draft, if any single sentence doesn’t make sense, it’s probably ok to skip that sentence and keep reading.]
+
+Deciding when to self-trust can be hard. Frameworks like the Meta Protocol can help. (The meta protocol will be discussed, soon, in a subsequent section.) In addition to protocols, procedures, etc., it can help to think about various dimensions of knowing (and perhaps understanding, and perhaps other things) as a sort of backdrop to self-trust.
+
+One could consider knowing (intuiting, etc.) along at least two axes:
+
+1. degree of provenance/origin transparency
+2. degree of symbolic versus nonsymbolic representation/“representation” and provenance
+
+The first axis is pointing at something like “knowing where it came from or how it came to be,” knowing the causal history of how you came to know something, as it were. One can imagine “a knowing,” knowledge, insight, something, sort of just appearing in the mind, and you don’t know where it came from or how it got there. One can also imagine, having (or being able to construct) a rich history of all the experiencing and evidence and thinking/figuring/inferring/something of how you came to know/feel/believe some particular thing. This history might be verbal or nonverbal, partial or complete, sequentially accessible or felt “all at once,” sparse-symbolic or richly felt, or a mixture of any or all of these, all at once.
+
+(Note that the “causal history” of some of your knowledge can be very different than, in no particular order, (a) your “current best argument,” either the one you feel like you probably could produce, verbally, at least in bits and pieces, if pressed, or (b) the rich, felt anticipations in your body that are, well, the embodiment of that knowing, or (c) what you might tell yourself about that knowing that you wouldn’t necessarily share with other people, or (d) other phenomenological aspects of that knowing not specified in (abc). To summarize, your current and future states, are different than your previous states, and your current and future states can have different representations (or at least present lack thereof of those representations) of previous states, in degree and type/kind.)
+
+The second axis is maybe a bit more self-explanatory—was the *route* to that knowing more or less symbolic? Is it’s current form more or less symbolic?
+
+More symbolic routes of knowing might be things like thinking, “figuring,” calculating, inferring, abducting, deducing, writing. 
+
+“Medium-symbolic” routes of knowing might be things like verbally describing, “iconically imagining,” simulating, running thought experiments, sketching and drawing on paper. (Perhaps: “multischematic”)
+
+Less symbolic and non symbolic routes of knowing could be things like feeling, sensing, perceiving, gnosis, direct knowing, direct awareness, “expanded awareness,” “listening/feeling for the subtle, distant, faint, interconnected,” intuition. (Perhaps: “innumerable, ineffable, inchoate”)
+
+Both axes (1) and (2) could perhaps be very loosely, messily, and jointly summarized along a single axis from unconscious to explicit:
+
+(a) unconscious
+(b) implicit/inexplicit/tacit/felt (less “knowing-feeling”, less “meaning-laden”)
+(c) explicit (more knowing-feeling and meaning-laen)
+
+***
+
+At least in modern times (for some very loose and general definition of modern), we have a habit of privileging explicit knowing and explicit justification. If we don’t have explicit knowing and/or explicit justification (or we don’t feel like we can produce it, or at least bits and pieces of it) it might be harder for us to self-trust (as well as it being harder to navigate the familial, social (and professional) worlds…). We might lose track of goals, lose track of reasons, forget desires, not act on goals and desires, and so forth. We might be more indecisive and act less consistently.
+
+But, the basis of self-legitimate and self-credible self-trust (including, e.g. trusting that we can wield argumentation/justification if/when we ever need to) starts in the prereflective and the intuitive. Consider, the prereflective and intuitive are what choose to wield (explicit) argumentation, even if the producing, wielding, or consuming) of argumenation are things that modulate the prereflective and implicit. One could say that self-trust is constituted by the entire experiential field, which takes into account the present state of the self as well as past, present, and future of self and world. 
+
+***
+
+We can learn to value and to legitimately and credibly trust the implict and intuitive more and more over time. Importantly, even if the provenance of some knowing isn’t “directly accessible,” features of the knowing itself can be used for indirect accessment of value, correctness, etc. (This assessment itself can be intuitive, prereflective, “in a flash,” though it doesn’t have to be. “Nonsymbolic regress” does bottom out, even when symbolic regress does not.)
+
+Importantly, nonsymbolic knowing tends to come with reletively less explicit provenance, but nonsymbolic knowing does tend to come with more rich phenomenology, even when it doesn’t “experientially display” it’s provenance, all at once (and sometimes it does). And that rich phenomenology can still be “used” or experienced in a way that allows one to *learn* how to properly treat/engage/regard that richness with respect to behavior. And that treatment might be reflective or unreflective/prereflective—“already in motion before you even realize it” turns out to be retrospectively valid, much of the time, and more and more.
+
+The felt, the implicit, the intuitive can be subject to (implicit or explicit) critique or error-checking, just like the explicit. And it can therefore it can be a basis of self-trust.
+
+One can start with little bets, little tests, or just patience to see how an intuition or feeling evolves. You can start with things that are relatively costless, local, impactless, safe.
+
+***
+
+There are a lot of “negative feedback loops” when playing with intuitive knowing (and correctives will be discussed below).
+
+When one first starts exploring intuitive knowing, one might treat it “almost analytically,” in a way that’s sort of just as “slow and exhausting” as with more explicit knowing. So it can seem not worth it, because it’s “like explicit knowing but even more fragmentary and one can tell even less about what’s going on.”
+
+It can go in the other direction, too—one could accidentally sort of “turn on the tap,” and get flooded with urges, impulses, sensing, illumination, something, that’s overwhelming, far too much, that one doesn’t know how to shut off, let alone interpret or trust.
+
+Part of problem, here, is that there’s sort of a whole additional dimension to all of this, that gets overlooked, because it’s so counterintuitive and time-delayed.
+
+While overlooked, it’s sort of also a cliche at this point: And that is… the body.
+
+***
+
+So, regarding the body, there’s yet another way to slice things:
+
+1. symbolic knowing (knowledge involving symbols)
+2. nonsymbolic knowing/thinking/etc.
+3. meaning-laden sensation (and “imagination”)
+4. non-meaning-laden sensation (and “imagination”)
+
+The line between (2) and (3), nonsymbolic knowing and meaning-laden sensation is a bit blurry. Also, it’s worth calling out that symbolic knowing doesn’t exist without nonsymbolic knowing (and perhaps meaning-laden sensation) somehow being present, simultaneously.
+
+In any case, the entire discussion above, in this section, so far, has been loosely referring to (1-3) but not 4. And, people typically ignore non-meaning-laden sensations unless they’re particularly salient—hunger, thirst, pain, sensuous stretching, sexual pleasure, orgasm, etc. But, the rest of the time, we don’t pay attention to body sensations very much. (One could further subdivide (1-4) according to whether their “valence” is (a) pleasant/pleasurable/attractive versus (b) unpleasant/noxious/etc versus (c) neutral…but things complexify when considering “hurts so good” phenomena, from delayed-onset-muscle-soreness, after exercise, to BDSM.)
+
+Attending to non-meaning-laden body sensations might feel like a waste of time, annoying, or even terrifying if it draws someone into the “here and now,” and they don’t want to be there, for whatever reason.
+
+(I want to call attention to a particular concern that people sometimes have, when body sensations are discussed. People sometimes wonder if they’re going to get the advice (or have it unspoken but heavily implied) that they’re supposed to walk around paying attention to body sensations for the rest of their lives in some “mindful” but distracting and even pointless-feeling way. Don’t worry, that’s not where we’re going with this.)
+
+In any case, let’s talk theory, for a moment. I’ve been using the word “sensation” loosely. One might also use terms like apprehension, perception, and interpretation and so forth. Let’s be a little more careful, here. One could imagine a human “sensory processing pipeline” starting with “raw perception” or “raw sensaton,” that’s perhaps almost immediately processed and interpretated (or, even, is *never* “uninterpreted, in some sense), and then that “data” participates in higher- and higher-level “processing,” perhaps while still being “non-meaning-laden,” and then, at some point, through perhaps some opaque process, this “sensory data” tips over into participating in “meaning-laden inference and knowing” (whether unconscious or conscious).
+
+Provsionally assuming some kind of pipeline like that, I want to offer an immediate correction, which is something like, non-meaning-laden sensation and minimally-symbolic knowing, or some sort, are paired, almost instantly, at the beginning of the processing stack. Almost as soon as there’s sensation, there’s rudimentary (or not) *knowing* about that sensation, even if we’re not consciously aware of it. (This *may* be quite a bit different than, say, one of Daniel Ingram’s schemas, that may look superficially similar, just FYI.)
+
+So, this may make immediate sense because, there’s plenty of sensation and noise going on, all the time, only a small portion of it making it (“all the way up”) into consciousness, for example if it’s (maybe subliminally) surprising or about something possibly dangerous. And that sort of “meaning-laden” decision-making needs to start before it’s conscious. We learn over time what to filter from consciousness and what to promote to consciousness, and this is getting sculpted in real time, all the time, and the sculpting process itself (or at least its real time effects) are sometimes unconscious and sometimes conscious. (I might say “sometimes unreflective” and “sometimes reflective,” depending on how we’re precisely using all these words, and whether something can be “conscious” without our being aware of it or at least remembering being aware of it, and so on, and so on.)
+
+Ok, so, again, anyway, there’s this (massively parallel) “pipeline” that has both a non-meaning-laden and a meaning-laden component much earlier than is typically consciously obvious.
+
+And, let’s add a few more pieces:
+
+1. Any stage or branch of the (massively parallel, branching and joining) processing pipeline can be “raised” and “lowered” into and out of consciousness.
+2. When pipeline stages/branches are raised into consciousness they are and can be “refactored,” both the non-meaning-laden sensory processing as well as the meaning-laden component, as well as the relationship between the two. (This refactoring “interwingles” with local and adjacent sensory memory that has previuosly been processed by that part of the pipeline. In some sense, that sensory memory is *constitutive* of the pipeline.)
+
+A qualifier: When I say “any” stage of the pipeline, there may still be some prior “never conscious” stage of sensory processing, of course, especially looking at the neurophysiology, but it sure can practically feel like one can be directly conscious [being philosophically loose, here] of the very first wiggle of one’s sensory neurons, ear hairs, retina, etc., and anything “after” that.
+
+Another qualifier: “Raising” and “lowering” isn’t “separably direct;” it’s a highly constrained “puzzle” over the course of thousands and thousands of hours. For example, to raise “piece” X, when might need to raise and lower thousands and thousands of other “pieces” in a complex order, in order to “get to” X. And raising and lowering can seem very indirect—it’s “tied” to “the movement/change of attention/awareness” in nonlocal ways. That is, “attending” to something, somewhere may influence raising and lowering “elsewhere.”
+
+Another qualifier: “Raising, lowering, depth, up, down, etc.” not to mention “pieces, pipes, parts, branches” are all leaky abstractions or a less-well-differentiated complexity. There’s some sense in which the brain and/or mind is, not only massively parallel, but also “flat” (and/or its activity is simultaneously reconstituted, all in parallel, in a periodic pattern). Don’t sort of inapproriately reify any of this! Phenomenology-first, as it were!
+
+In any case, for whatever reason, the non-meaning-laden components of the sensory processing pipeline tend to be more salient to us, especially when we’re deliberately paying attention to sensations, making paying attention to sensations often seem dumb and pointless.
+
+***
+
+But, provisionally given the above, we can see that body sensations are already, in some sense, meaning-laden, even if they don’t seem to be, and body sensations heavily influence meaning-making (of course, but perhaps much more so than is initially intuitive). Further, body sensations, in some sense, influence the sensory processing pipeline itself as well as the process of meaning-making itself—what we even might usually think of as hardwired cognition or even hardwired intelligence, itself. Body sensations are the first step in sort of sculpting and meta-sculpting everything, all the time. Very little is hardwired—I always say the mind is 99% software and 1% hardware, metaphorically. I’m not doing a good job of unpacking it in this section, but, in some sense, our minds are nothing more than all the experiences we’ve ever had—and through memory and imagination we can have any experience. And, add two more pieces: the mind is practically lossless (in that any distinguishable sensory memory can be ultimately recovered) and that the mind is simultaneously “utterly malleable” (even while being lossless!). And, so then, the degrees of freedom for a mind are just cosmologically vast, with no prior way of thinking/feeling/behavior set in stone. Note that cosmologically vast doesn’t mean arbitrary or unconstrained! The “envelope” is nevertheless highly, highly constrained and going from state to state is exquisitely path-dependent, as mentioned above. This gives gods-eye-view-predictable-and-repeatable meditation journeys, with a wide variation in concrete details and asymptotic well-fittedness to whatever situations people might find themselves in.
+
+***
+
+So, in any case, paying attention to body sensations is important. But, there are some practical “buts.”
+
+First, one shouldn’t necessarily focus exclusively on, say, “body” sensations, or, rather non-meaning-laden sensory inputs or sensations of any kind. The entire experiential envelope participates in the sensory processing pipeline, as it were (including feedback loops, whether non-meaning-laden, obviously meaningful/knowing or not)—
+
+The order in which one does everything matters. There will be tremendous interleaving of “attention”/awareness in different “locations” (from body to meaning to etc.) typically, but not always, at a finer and finer grain.
+
+Second, paying more attention to the body is sort of a *phase* (which could be repeating, which could be sort of periodic, spiraling, nonmonotonic). It’s sort of like, most people are “in their heads,” and have sort of “built up body awareness (or lack thereof)” suboptimally. And, so, there will be a period of “re-attending” to things (body, memories, sensory field) in the right order, which will refactor the pipeline, including awareness of sensations, cognition, meaning, everything. And, during that refactoring, a bunch of things can become salient that sort of “need” to temporarily become salient, because of path-dependent change, and, over time, things will sort of “reflow,” and most body sensations (and other sensory processing) will once again become relatively less salient, and/but everything will be working better, from sensory processing to cognition.
+
+So, it’s less “I need to pay attention to the body much more, and for the rest of my life” and more, “I need to carefully, correctly, perhaps extensively but in the right way and the right order, pay attention to the body so as to be able to forget (and enjoy) the body when I want to, along with all sorts of other good things, happening.” And, it’s less “top-down attending” and more “obliquely doing whatever’s necessary to have body attention be prereflective and automatic in ways that it’s not already but could be.”
+
+***
+
+So, this was ridiculously roundabout, but, the basis of self-trust is not just in intuition (which can’t get trapped in infinite regress, among other things) but in the body (and sensory field). Attending to the body, in the right way and in the right order (interleaved with other things, including reverie and plenty of thinking), eventually refactors intuition, making it prereflective, broadband, and powerful, and also refactors even the intellect (as well as preflective sensory processing and much more). This includes more and more resolution of inconsistencies, contradiction, contention in behavior, antcipation, cognition, “belief,” and more.
+
+In some ways, self-trust is the resolution of just enough inner conflict and the acquisition of just enough (inner and wordly) skill that one is confident that they can resolve and acquire all the rest, in a way that’s safe enough and good enough for themselves and others.
+
+And part of that, and only part, is very counterintuitively attending to the body (and plenty of other things) for an accumulating thousands of hours, where it may initially seem like almost nothing is happening at all, and for long stretches after, even after some things do start happening. And, with tools like the meta protocol (or in the spirit of the meta protocol), one can more quickly bootstrap confidence and self-trust that the process is working. And that self-trust can quickly extend to other areas of life and self-trust in general. (And experimenting and living in the world is of course also an important component of [gaining] self-trust as well part of the whole point.)
+
+Something not explicitly noted in the above, but implicitly there, is that, at least locally, the mind is *always spontaneously doing the right thing*. (Choose some evolutionary, physical, or cosmological theory, here.) And the mind can net-globally do the right thing, too, especially if context and preconditions are set up just a hair on the side of sufficiency. And this is why, with a few inputs, just a little “grace” (which is usually bad and good mixed together) like mixed-bag mentors/“mentors” and/or mixed-bag meditation instructions, the whole mind (and one’s entire life) can kind of unwind and rewind itself in retrospectively and prospectively desired and endorsed ways. And this sponteneity of (body)mind, is the ultimate basis of self-trust.
+
+
 
 meta practice:
 
 
 
-meta protocol v1.5:
+meta protocol v1.6:
 
-v1.5 (Last updated: 2019-10-13; 08:41 CDT)
+v1.6 (Last updated: 2020-07-04; 12:25 CDT)
 
 Contents
 (0) Notes
@@ -2481,7 +2606,7 @@ Contents
 (*) You don't need to ask the questions below verbally or discretely, though it's good to experiment with that first. You can also cast your mind over the questions or the memory of the questions, sequentially, semi-sequentially, or all together, all at once. Try to vary how you're accessing the questions, verbally/sequentially versus all at once, and the degrees in between.
 (*) There is a "meta meta protocol" [sic] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
 (*) Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
-(*) Lots of things have the “flavor” of the meta protocol, without looking exactly like the below. You might feel like you’re “not doing the meta protocol” but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s “going meta.” It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly.
+(*) Lots of things have the “flavor” or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re “not doing the meta protocol” but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s “going meta.” It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly. Intuition! Feeling!
 
 
 (1) Retrospective Evaluation of Happening and Doing
