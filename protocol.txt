@@ -1,4 +1,4 @@
-v91 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v92 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 
 
@@ -243,6 +243,7 @@ v87 backup 20200426.rtf
 v88 20200503 backup.rtf
 v89 backup 20200515.rtf
 v90 backup 20200629.rtf
+v91 backup 20200704.rtf
 
 
 
@@ -962,6 +963,7 @@ lists and more
 	dark phenomenology and presence/absence conceptions
 	getting triggered, usefulness and risks
 	“psychic” and “supernatural” stuff: what/how/how-not [draft]
+	self and other; good and bad [draft]
 bibliography (incomplete)
 
 
@@ -2355,7 +2357,7 @@ And I guess this generalizes to every single damn choice ever. (edited)
 
 posture: (section needs editing)
 
-You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket or no blanket, eyemask or dark room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
+You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking (while “meditating-meditating,” but see below) and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket or no blanket, eyemask or dark room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
 
 Favorite meditation postures/combinations (unordered): sitting, lying down back/sides, Zhan Zhuang / standing, walking, running/jogging, yoga asanas, eyes open/closed, earplugs +/-, eye shades / complete darkness / pitch black +/-, netflix, amazon video, facebook, twitter, watching blog stats
 
@@ -2387,12 +2389,16 @@ On twitches and posture and readjustments—
 Might want to gently restrain
 Might want to gently repeat
 Might want to gently hold in the “twitched” position for a while to see what happens
+Might want to gently especially facilitate and allow
 
-There’s the cliche of having something to bite down on, when experiencing pain or something. I’m not suggesting that, though it could be good—teeth generally aren’t supposed to touch teeth, but, if your jaw happens to be clenching, putting in a mouthguard might be good for your teeth and bad for your jaw—maybe ask a dentist or something about tradeoffs. In any case, the point of this paragraph is to make an analogy to biting down on something: if your hand is clenching, it can make it safer for your hand to clench if you clench a stress ball or a rolled up shirt. If your neck is doing weird things, it can be helpful to do that laying it in a cradle of pillows, and so forth. It’s good to be able to meditate sitting or standing tall, but it’s also good to be able to arrange your environment when/if that’s the best thing, too. Another take: “Having things squeeze or slide against can slow things down, reduce currently problematic degrees of freedom and/or increase feedback through resistance or friction”
+Long walks while daydreaming or in reverie could be considered a posture—wandering aimlessly around in safe environments, where you don’t have to be “on,” is also very important, ideally for hours and hours!
 
 Another postural thing to vary: Surfaces from very hard concrete to very soft for standing, sitting, and laying down, for very different kinds of feedback. For lying down: both on back and side, with and without a pillow. You might look into “natural sleeping postures. Firmer head or neck pillows can give better feedback for spotting creeping muscle tension or having it not arise in the first place.”
 
 You should check to make you’re not losing flexibility or that certain physical movements (or patterns of attention) aren’t becoming subtly unpleasant or aversive. Also, barbell weight training and bodyweight exercise is good, too, as another way to check for whether something is off, e.g. if some exercises become aversive or you’re losing strength or less able to transmit power through structure.
+
+Props like for jaw or hand stuff or etc if ever a thing:
+There’s the cliche of having something to bite down on, when experiencing pain or something. I’m not suggesting that, though it could be good—teeth generally aren’t supposed to touch teeth, but, if your jaw happens to be clenching, putting in a mouthguard might be good for your teeth and bad for your jaw—maybe ask a dentist or something about tradeoffs. In any case, the point of this paragraph is to make an analogy to biting down on something: if your hand is clenching, it can make it safer for your hand to clench if you clench a stress ball or a rolled up shirt. If your neck is doing weird things, it can be helpful to do that laying it in a cradle of pillows, and so forth. It’s good to be able to meditate sitting or standing tall, but it’s also good to be able to arrange your environment when/if that’s the best thing, too. Another take: “Having things squeeze or slide against can slow things down, reduce currently problematic degrees of freedom and/or increase feedback through resistance or friction”
 
 [book recommendations: feldenkrais awareness through movement, anatomy trains yoga, starting strength, becoming a supple leopard]
 
@@ -7686,6 +7692,74 @@ Scott, Derek. https://www.derekscott.co/2012/06/the-integration-of-spiritual-exp
 “Why I No Longer Practice IFS Therapy” https://www.nadinemenezes.com/ifs-therapy Last accessed: 2020-05-08
 
 https://en.wikipedia.org/wiki/Distributed_cognition
+
+
+
+self and other; good and bad:
+
+[please read the section, “psychic” and “supernatural” stuff: what/how/how-not, before this section]
+
+***
+
+[The first draft of this, below, came out extremely “stilted!” The first few sentences and paragraphs are especially bad, particularly rough going, and it gets at least a little bit better, as you continue on.]
+
+***
+
+One could imagine a person having a “deepest” or “bare metal” or “enacted” understanding of things like individuation, individuality, identity, personhood, will, agency, autonomy, etc..
+
+These (a) “deep understandings” of individuation, etc. might or might not well-correspond to, sort of, (b) *intellectual concepts* of individuation, etc.. So, we might talk about individuation, etc. while not “inappropriately reifying/fixatinging/relying” on any particular intellectual (or lived/felt) understandings of individuation, etc..
+
+Additionally, we might talk about a “confusion gradient,” about these sorts of things, from worse to better, again while also not inappropriately reifying/fixatinging/relying on something like that.
+
+Less abstractly, one might imagine that, deep down, maybe in a few different sorts of ways, a person might not be able to tell “who’s who,” or “who’s doing what,” or even that there are multiple people instead of just a seeming “undifferentiated one thing.” One might be able to imagine this or also, now (or eventually, in meditation) find their own “actually instantiated, personally resonant” things like this. Almost everyone has a scattered little bit of things like this, and some people have a lot.
+
+(About all this stuff, one might ask, well, if there’s *confused,* then what might relatively *un-confused* look like? And, what about spiritual teachings around perhaps-related things like seamlessness, undifferentiatedness, interconnectedness, no-self, etc.? One might note that “apparently very enlightened” people still have “coherently differentiated” behavior, at least in some sense—that is, they can keep track of who knows what, when a new person enters a multi-person conversation; they can remember and use people’s names; open a checking account; drive a car, whatever. So one might imagine potentially ever-more-appropriate, all things being equal, lived synthesis of interconnectedness and differentiation, perhaps at a profoundly deep level.)
+
+Continuing on, recalling from previous sections, that people can and do, for better and worse, end up with “patternness” of other people “in” them, and, allowing that confusions around identity, individuation, personhood, etc., can be “patterns” in this sense, confusions around individuation and identity tends be more “contagious” than other “kinds” of “patterns,” all things being equal. That is, people can catch identity-and-individuation confusions, from each other, sometimes, and this is a bit more likely than catching other sorts of things.
+
+One might see how this might be the case. Almost everyone has a little bit of identity-and-individuation confusion. And to any degree that “the medium is the message,” and to any degree that identity-and-individuation confusion in one person might unilaterally or reciprocally exacerbate identity or individuation confusion in another person (even if “a little different,” somehow), then one might see how identity-and-individuation confusion, in one or two (or more) people, might unilaterally or reciprocally be contagious or aggregative. (This is not a great or clear argument, but I’m going ot keep going.)
+
+In fact, one might further hypothesize that all (or most, or lots of) cases of “stuff transfer,” between people, might depend on or be enabled by, at root, identity-and-individuation confusions of one or both people. (And, as mentioned in other places, all of this can be accidental, deliberate, reflective, unreflective, endorsed, disendorsed, quasi-unilateral, mutual, etc.)
+
+Further, one might imagine *cascades* of *worsening* identity-and-individuation confusions as well as “more object level” content, “beliefs,” “goals,” “plans,” “cosmology,” etc., kind of layered-ly building on each other. And, even if very fractionally, the more “relatively similar” two (or more) people became, the easier it would be for object- and meta-level confusions to ramify, and things could potentially get worse and worse, until some sort of equilibrium, if ever. (And, again, we don’t want to inappropriately reify “things” like beliefs, goals, plans, etc.)
+
+An important principle in the above is that if one person has, some “belief” *A*, and another person has very similar “belief” *A-prime*, those “beliefs” more likely to get mixed together [“A-double-prime”] in one or both people, perhaps in different ways, because it won’t be perfectly symmetric. And this can happen for lots and lots of “beliefs,” etc., and, as above, this can facilitate even more mixture, etc.
+
+And, ultimately, in a bad case, a person might end up having aggregated large “swaths” of “pattern” very far from their original beliefs or even very contradictory to lots of their beliefs, sometimes leading to muscle tension, emotional and behavioral disregulation, demotivation, “goal fragmentation,” etc. (being careful, here, not to inapproriately reify things like “goal fragmentation,” etc.).
+
+That said(!), one might imagine this mixing to sometimes be relatively harmless or even a useful mechanism of group cohesion. (I can imagine it being contingently harmless and useful, sometimes.) But, at least some of the time, as per an earlier section, because this process is sort of “messy,” and “confusion-based” (as claimed, here), any mixing will, over time, potentially create tangles and technical debt, as it were, for someone. So, while it might short-run be unnoticeable or positive, over time it can tend to gum up, jam up, limit positive and self-valued individual and group change, causing personal transformative arrest and group transformative arrest. Further, of course, of course, of course, additionally, individuals might prospectively, retrospectively, and god’s-eye-view, as it were, not want this mixing to occur(!!!), for any personal reason at all, including things like tangling or gumming up.
+
+***
+
+This can all be very tricky to talk about, for several reasons. (Note, when I say “talk about,” here, I mean “talk about,” in general, not about any particular concrete incident or ongoingly extended situation. Though, both sorts of discussions can be good. Importantly, any particular person might not want to talk about this sort of thing with any other particular person, for any reason at all, including the avoidance of any (additional) possible subtle (or not at all subtle) effects between those two people.)
+
+(1) First, all this can be scary and weird. Sometimes people merely marvel at things in this neighborhood, “I became so close to my class/cohort/group, that I would have committed crimes with them or jumped off a bridge with them.” And other times, it’s deeply upsetting and disregulating in a way that lingers—a person might feel diminished, disregulated, and violated, at a deep level (to say the least). So, especially when it’s “really obvious,” but, also, really “alien,” it can be tempting to deny that anything happened or to minimize its impact, and so forth. (It might be very healthy and productive to temporarily deny and minimize, etc., for some people some of the time. People have different coping and healing strategies.)
+
+(2) Second, regarding belief A mixing with belief A-prime to yield belief A-double-prime, as mentioned above: There’s sometimes an effect of something like, “I’ve always believed “A[-double-prime]”. (To imagine a concrete example, one person might want to talk about something concrete, in a constructive manner, or a coercive manner, or anything, and the other person might not want to talk, for any reason, well-motivated or poorly-motivated, reflectively or unreflectively, and they might use, the assertion, “I’ve always believed ‘A’” as support. And, they could always be quite right, and the other person could be reflectively or unreflectively gaslighting them, and so on. Hard. Tricky.)
+
+(3) Third, people’s individuation and identity confusions can be “profoundly deep,” indeed, they can go back to very early childhood, or earlier, and they can be cemented/reified/entrenched “ideologically.”
+
+“Ideological,” here, means “beliefs plus plans” (as always, very loosely speaking) about how things should be, how things should go, how things should happen, locally, globally, cosmologically, etc. “And if they *don’t* or *didn’t* go that way, well, it’s nearly unthinkable, barely considerable, that it could go otherwise, even obviously impossible that it could go otherwise; it would be disastrous[, evil, universe-rending, something.]”
+
+Ideological components [explicit, unstated, never stated, reflective, or fish-in-water] could be in regard to interpersonal care, intimacy, group dynamics, sexuality, consent, coercion, child care, elder care, autonomy, agency, etc. 
+
+People might explicitly defend their “ideological positions” by way of all sorts of things like “civilizational decline,” atomization, ennui, conservatism, traditionalism, naturalness, empathy, “the current state or trajectory of the world,” science, evolution, the march of progress, morality.
+
+And those are all very good things to think/feel about, to explore, to defend, to act from, and so on. But, there’s a way such positions can “get stuck” and that stickiness can be traced back all the way to deep confusions about self, other, etc.
+
+People can profoundly disagree, in very fine-grain ways, concrete ways, abstract ways, aesthetic ways about what’s good, ok, neutral, bad, etc. For some people, something X might seem downright critically good. For other people, that something X might seem downright demonic, locally or long-run catastrophic.
+
+And, because such things can be so emotionally charged, as it were, people might strongly bristle at the intimation that their deeply held beliefs, cares, concerns, or some very narrow behavior, might have root in some “confusion,” let alone a “childhood confusion” that is supposedly “maybe not immediately reflectively accessible[, even after thousands of hours of meditation, or whatever.]”
+
+X is bad, X is good, X doesn’t exist and X-prime does, X isn’t a monolith, it’s actually A, B, C, D… And each those is bad, or good, or…
+
+(And people can wrong, and very wrong, for a very long time. A long-term meditator might have stuff flip from good to bad or bad to good or one way and back again, after thousands and thousands of hours of meditation, and then still yet more thousands of hours of meditation. One might expect greater and greater convergence between people over time [depending on one’s current beliefs about objective truth, starting conditions, nature, nurture, relative truth, bottom up discovery, subjective and objective morality, path dependence, backtracking, reparability, losslessness, “one reality,” and so on!]. And/but, this stuff is hard and the path is long! I personally think interpersonal convergence can be self-aligned, bottom-up, inexorable and strong, all things being equal.)
+
+And, so, all this “emotional charge” can make it hard to talk about things like, say, “good-faith meta-cohesion” (or live-and-let-live!), let alone an exploration of ideas like individuation and identity confusion, let alone exploring those confusions over a long period of time, let alone doing so if/while problematic interpersonal effects are still happening, making it hard to interact in e.g. real time at all.
+
+***
+
+In conclusion, one could be thought of as sometimes having a scattering of “deep” understandings, and confusions, around individuation, individuality, identity, personhood, will, agency, and autonomy. These understandings and confusions ramify in ways that can sometimes have strong effects on interpersonal and group interactions, to say the least. And, over time, an individual can resolve more and more of these confusions, using tools like meditation, making it easier and safer to interact choicefully and flexibly and safely with other individuals and groups, or to avoid such interactions. A long-run meditator will have a deep, functional, enacted, integrated understanding of individuality and interconnectedness, all things being equal, though asymptotically and sometimes with abrupt reversals, along various dimensions, late in the game. And/but, over time, one might expect more and more fruitful, safe, constructive convergence around “goodness, safety, beliefs, plans, goals, agency, autonomy” between meditators, holding ideas about all such things, and all this, lightly.
 
 
 
