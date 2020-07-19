@@ -1,4 +1,4 @@
-v92 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v93 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 
 
@@ -52,6 +52,8 @@ Contents (simplified/elided):
 		risks
 		environment
 		posture
+		breath
+		states
 		“headyness”/“heady-ness”/“headiness”
 		body, self-trust, sensory processing, meaning
 		meta practice
@@ -244,6 +246,7 @@ v88 20200503 backup.rtf
 v89 backup 20200515.rtf
 v90 backup 20200629.rtf
 v91 backup 20200704.rtf
+v92 backup 20200719.rtf
 
 
 
@@ -315,6 +318,8 @@ practice
 	risks
 	environment [and subtlety; (more) risks and rabbit holes]
 	posture
+	breath
+	states
 	“headyness”/“heady-ness”/“headiness”
 	body, self-trust, sensory processing, meaning
 	meta practice
@@ -2411,6 +2416,34 @@ by Master Lam Kam-Chuen
 (books about Zhan Zhuang, in general)
 
 “Perfect posture” should be explored for the possibility of maximal useful feedback and safety.
+
+
+breath:
+
+Some traditions place great importance on the breath, as an aid to concentration, as a source of interesting observational data, as a way to affect thinking and emotions, as illustrative of the border or lack thereof between doing and non-doing, and more.
+
+Additionally, some traditions place great importance on *proper* breathing, e.g. abdominal or diaphragmatic breathing, and more.
+
+The methods in this document don’t place great importance on the breath, allowing the breath to correct itself over time. Sometimes it’s ok to deliberately attend to the breath and sometimes one’s attention (or etc.) will be magnetically drawn to the breath. Sometimes attention to the breath will be effortless and non-interfering, and sometimes attention to the breath will seem to “stop” or dysregulate the breath. Sometimes it’s good to gently and deliberately avoid attending to the breath or to forget about the breath as best one can, to let it settle down. And sometimes one might not think explicitly about the breath or “foreground” (or even “background”) attend to breathing for a very long time, and this is fine. Sometimes breathing will be heaving or hitching, and this fine. Sometimes, one might briefly feel like they can *only* breath deliberately or that they can’t breath at all, and so on.
+
+Long-run, one might barely reflectively attend very much or not at all to the breath, for thousands of hours or indefinitely, or at least do so only as much one might attend to anything else, generally, with respect to body, mind, and environment, etc., “in” the entire “phenomenological field.”
+
+Over time, all things being equal, with “right engagement” and right “non-engagement,” breathing will tend to become ever-more-subtle, over time. This subtlety will be reflected in the barely perceptible use (or non-use) of all breathing muscles, from diaphragm, stomach/belly, chest, shoulders, and more. Sometimes the subtlest changes in posture are all that’s needed for “breathing.”
+
+What’s happening, here, is that breathing has “volitional” components and an “autogenic” component. And, over time, “volitional” components can get habitually convolved with the autogenic components, leading to overbreathing and other kinds of disregulated breathing. Through meditation, volitional components can be “deconvolved” out of breathing, leaving mostly just the autogenic component, which, generally, can take care of itself. (Note that this untangling, “deconvolving,” may involve much of the rest of the system, too, so attention elsewhere than to the breath, may have long-run positive effects on breathing, and so on. It’s a global sort of puzzle, where breathing is only one piece and is indirectly affected, sometimes, by the rest of it.)
+
+Deliberate or stereotyped attention to the breath, breath control (e.g. emphasizing inhalation or exhalation, or panting, belly breaths, even chanting, etc.), over hundreds of hours, can “tangle in” volitional components that need to eventually be untangled. (Sometimes this can be strategic, though, on a person-by-person basis.) Tingly lightheadness, needing to pee very often, issues with throat smooth muscle tone and sleep, can be signs that one is generally overbreathing, because of breathing’s connection to kidney function, autonomic regulation, and more. Aerobic and anaerobic exercise, such as jogging and sprinting, can short-term improve breathing issues, via effects on blood-gas CO2 tolerance. But, long-term, one must deconvolve volitional components from the breathing, as part of the global meditation puzzle.
+
+Note: “attention,” “foreground,” “background,” “in,” “phenomenological field,” are used very loosely in this section and are not technical or ontological commitments
+
+
+states:
+
+Some traditions emphasize cultivation of altered states, residing in altered states, and/or mastery of altered states.
+
+This meditation system doesn’t place particular emphasis on altered states and is of the position that systematic cultivation is unnecessary. Intermittent, gentle facilitation of potentially spontaneously arising altered states can be important, though. Through application of method, a meditator may spontaneously “stage”/“prepare” for entry into an altered state, “pop into” the state, “do whatever’s necessary” in that state, and quickly or eventually “pop back out.” This can and will eventually, naturally, and spontaneously happen in the course of meditation and doesn’t need to be deliberately cultivated as such. It’s of course generally fine to incline towards interesting or attractive states (perhaps checked against something like the meta protocol) and it’s of course fine to explore and experiment with concentration and tranquility practices.
+
+Deliberate engagement with concentration and tranquility practices can sometimes “burn in” (reversibly!) habits of mind that eventually need to be undone for further progress, which can be a lengthy process. Sometimes light (or even moderate) deliberate cultivation *can* be strategic, on a person by person basis—many of the preliminary/auxiliary practices suggest concentration-/tranquility-like things to try and experiment with. That being said, there’s a right thing, right time, right way, right dose, gently, sensitively, responsively (with plenty of room for error and backtracking) ethos. And much or quite all of engagement with “altered states” can happen spontaneously and naturally, in the course of practice. 
 
 
 “headyness”/“heady-ness”/“headiness”:
