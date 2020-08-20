@@ -1,4 +1,4 @@
-v95 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v96 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 
 
@@ -249,7 +249,7 @@ v91 backup 20200704.rtf
 v92 backup 20200719.rtf
 v93 backup 20200719.rtf
 v94 backup 20200719.rtf
-
+v95 20200720 backup.rtf
 
 
 Credits: 
@@ -969,6 +969,7 @@ lists and more
 	being (not) ok tangles
 	dark phenomenology and presence/absence conceptions
 	getting triggered, usefulness and risks
+	a dialogue between N and Mark, on reasoning and pre-reasoning
 	“psychic” and “supernatural” stuff: what/how/how-not [draft]
 	self and other; good and bad [draft]
 	prenatal experiences
@@ -2632,7 +2633,7 @@ meta practice:
 
 
 
-meta protocol v1.6:
+meta protocol:
 
 v1.7 (Last updated: 2020-07-20; 05:06 CDT)
 
@@ -7534,6 +7535,603 @@ trigger ~= something that can or does cause an abrupt (negative) state change, o
 trauma ~= bodymind state/feeling/content/material that’s needs extra steps to be safe to re-experience, that in its dormant/latent state is a bottleneck/dependency on other/further valued changes
 
 
+a dialogue between N and Mark, on reasoning and pre-reasoning:
+
+[> indicates a pull-quote]
+
+[we use the example of “feet” a lot, but that’s just one example! we might have used hands, belly button, something. feet are a good heuristic thing to try, but it’s not a rule.]
+
+
+N
+[…]
+I guess the next logical question would be […]
+
+
+Mark
+Want to say something like I think there’s a pre-rational step that’s being missed
+
+
+N
+Say more!
+
+Wdym by pre-rational?
+
+
+Mark
+You probably should pay attention to your feet a bunch or something versus trying to answer questions like […]
+
+maybe.
+
+but something vaguely like that, maybe extensively
+
+
+N
+You think there's a frozen thing in the body that constrains reasoning and needs to be moved around a bit by correct placing of attention?
+
+
+Mark
+YES. but, a lot, not a little bit
+
+
+N
+Why won't reasoning work? The right answers simply won't pop up in my head or something?
+
+
+Mark
+reasoning for most people mostly happens in a “virtual machine” and there’s only a trickle from that down to preference changes, behavior changes, and goal changes, even if one comes up with “right answers.” a failure mode is to keep collecting right answers indefinitely without them becoming a part of the “motivated seeming” of the world
+
+
+N
+In my mind reasoning isn't disconnected from behavioral change, ala critical rationalism
+
+IME in any case where I see lack of progress, I can sort of clearly see why and what problems aren't solved yet
+
+I've never been in a situation where my problem seems explicitly solved, but no behavioral change follows
+
+
+Mark
+That is true for some people, for some domains, contingently
+
+> In my mind reasoning isn’t disconnected from behavioral change, ala critical rationalism
+
+do you mean all minds or just some minds, like your mind?
+
+
+N
+The latter, but I'd assume that they're reasoning incorrectly, i.e. missing important signals from the body or getting themselves in conceptual tangles without noticing
+
+
+Mark
+yeah
+
+
+N
+So maybe I got lucky with my mind, hehe
+
+Or I'm just deluded
+
+
+Mark
+but incorrectly is a massive gradient, from extreme virtual machine to radical integration. almost everyone has a lot of confusions, at least at first
+
+
+N
+Do you have any reasons to believe that certain mental moves, e.g. look at feet, just plain don't work and are based on spurious data?
+
+
+Mark
+for some people doing that specifically will be the wrong thing to do at any given time. right thing right time in right order
+
+that’s why there’s 500+ p/a practices, etc., etc.
+
+
+N
+Or, have you considered it?
+
+
+Mark
+considered what?
+
+
+N
+That they don't actually work
+
+
+Mark
+the meta-protocol is a schematization of error checking and meta error checking. it’s an ongoing consideration of whether such things don’t work
+
+at any particular time for some particular person
+
+
+N
+I see, I see
+
+But you don't have an explicit model that accounts both for the usually psychotherapy stuff and mental moves such as that, and can legibly translate from its language into their?
+
+Or do you
+
+
+Mark
+sensory experiences sculpt the future propensities of the system. talk therapy is narrow sculpting that leaves out a huge range of possible experiences that can be used for sculpting
+
+the mind is highly intertwingled such that feet are involved in reasoning, usually confusedly. gotta sometimes e.g. pay attention to the feet to use e.g. talk therapy, correctly
+
+
+N
+[…] how/why sensory experience of one's feet can be useful for sculpting one's higher-level behavior and goals and shit?
+
+I understand the general idea
+
+But I don't understand how experiencing one's feet could be useful for changing beliefs about the world
+
+Feeling one's feet is very different from trying out new food and liking it, me thinks
+
+In this sense feet seem irrelevant
+
+To any major stuff
+
+Don't understand how feet are involved with reasoning :(
+
+Or can be
+
+The way you talk about it is very different from the language/ontology I personally use to make sense of this area
+
+
+Mark
+one’s epistemic stack involves sensory experience of elbows, knees, voice tone, prosody, everything. all of it becomes the substrate for reasoning
+
+
+Mark
+to improve reasoning one sometimes needs to unpack some of the lower-level stuff that doesn’t feel “meaning-laden,” like weird body sensations
+
+
+N
+So suppose a person feels their feet
+
+And suppose she did it at the right time
+
+What happens next?
+
+An insight suddenly pops up in their head?
+
+Or maybe weird sensations appear in some body part
+
+
+Mark
+they realize they were doing reasoning wrong, somehow, that was systematically biasing their conclusions. it’s usually not that direct but sometimes it is
+
+usually it’s lots of small steps
+
+that don’t seem to add up until the end
+
+
+N
+And when it's not direct, what happens is something like 'next time they do think, they're able to look at the problem from a slightly different perspective or something'?
+
+
+Mark
+that’s object-level, and that’s a thing too. but, meta-level, the reasoning system itself will work slightly differently, sometimes a bit worse before it’s long-run net better
+
+
+N
+Aight
+
+And they could also maybe never experience anything meaning-laden throughout feeling their feet?
+
+
+Mark
+yeah, plenty of stuff stays non-meaning-laden, contentless [throughout]
+
+
+N
+But they find out that reasoning works a lil better (or worse) when they try it next time?
+
+
+Mark
+yup
+
+
+N
+Ohh
+
+Fuck, these inferences are, indeed, hard to make
+
+
+Mark
+yes
+
+
+N
+Like unless the person is systematic, they might never notice the connection
+
+Right?
+
+
+Mark
+even if reasoning works a little better, that doesn’t mean a conclusion is guaranteed to pop out in any particular thinking/feeling session, ofc
+
+
+N
+Yeah
+
+
+Mark
+> Like unless the person is systematic, they might never notice the connection
+
+yes exactly
+
+
+N
+You really need to put this into protocol
+
+
+Mark
+it’s ridiculously long-range/counterintuitive, all things being equal
+
+
+N
+It connects the right stuff
+
+For me and probably certain people
+
+
+N
+Could it be that some people simply notice stuff like 'when I work out or do open awareness, I sort of can think better afterwards', and the model above explains why?
+
+
+Mark
+yeah
+
+could you see if this existing section kind of says it:
+
+“headyness”/“heady-ness”/“headiness”
+
+
+N
+I've read it, I think
+
+And it didn't
+
+
+Mark
+ok
+
+
+N
+How does one start noticing patterns such as this? (e.g. look at feet now, see more progress later)
+
+
+Mark
+I think need to study a ton of people from the outside, or need a methodological bootstrap, from the inside.
+
+
+N
+How could studying people work?
+
+
+Mark
+the methodological bootstrap, for me, was p2 plus the meta protocol.
+
+
+N
+Like, it's so hard to notice it in yourself
+
+
+Mark
+wayfinding in methodology/theory space
+
+
+N
+How would it be easier to notice in others?
+
+
+[delay]
+
+
+Mark
+i’m looking for the original Gendlin Focusing research study
+
+N
+Go on
+
+Oh
+
+
+Mark
+they tried to figure out why some people made progress in therapy and others didn’t, and that’s how they isolated “focusing moves”
+
+
+N
+It has something about that
+
+Yeah
+
+I know
+
+Doesn't seem like something that's possible for a regular Joe to do
+
+
+Mark
+and so my stuff, for example, could be considered a generalization of that original observation
+
+
+N
+Aight
+
+What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
+
+
+Mark
+> Doesn’t seem like something that’s possible for a regular Joe to do
+
+it is very freaky when it feels like “me or someone maybe couldn’t have figured out this important thing without outside stimulus”
+
+very unpleasant, at first, at least for me
+
+
+N
+Does anything else matter, aside from looking when feel stuck?
+
+
+Mark
+> What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
+
+has to do with deep contingent structure of any particular system based on experiences that person has had and prior attentional propensities
+
+
+Mark
+hard to explicate which is why personal global wayfinding can help
+
+
+N
+Wanna unpack 'prior attentional propensities'?
+
+
+Mark
+including possibly reads by people who are a bit farther on the journey
+
+the experiences we have determine the structure of the system and the future propensities of the system
+
+
+N
+> What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
+
+> Wanna try unpacking the gears behind 'deep contingent structure of...'?
+
+
+Mark
+so the necessary order of refactoring of a system will depend on that causal history
+
+
+N
+What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
+
+Maybe with an example
+
+
+Mark
+it’s really hard to say. if someone ignored their feet a lot or spent a lot of time attending to their feet, at some point in their life. then, in meditation or whatever, they’ll probably need to spend a lot of time with their feet.
+
+it’s like a collection of loosely coupled stacks, in the computer science sense. LIFO: last in first out, in terms of the order one needs to sort of touch stuff in to refactor  
+
+loosely coupled partial orderings
+
+N
+So from a subjective experience viewpoint, what mostly happens is just you staring at feet and nothing really happens while you're doing it  
+
+And you do it for a long time
+
+Maybe regularly or at once
+
+
+Mark
+kind of. one can keep running navigational stuff like meta protocol, but there can be a lot of up-front uncertainty.
+
+the “how” matters, too. things like top-down attending vs “letting feet come to you” and stuff like that. and might need to interleave many other things. could extend timeline if just forcefully tried to attend to something in a contiguous block. needs to be patient, gentle, curious, cautious, etc. etc.
+
+
+N
+Is it a linear thing? I.e. the less you looked at feet before, the more you gotta do it? What happens behind the scenes while you do it?
+
+
+Mark
+but yeah, it can take a long time before one gets a sense of whether “something’s happening” or not. it’s a very gradual increase in sensitivity and long-range wayfinding
+
+i think it’s sublinear for any particular thing and superlinear globally
+
+but still practically finite. a fraction of the time one has already been alive
+
+
+N
+^ don't understand sub/supra
+
+Also would like to get an answer to 'what happens behind the scenes', if ok
+
+
+Mark
+so like if feet stuff was weird for five years, then maybe only need 500 hours of feet stuff and not five years of feet stuff
+
+there’s a compression thing
+
+but there’s still sort of a combinatorial explosion of pairwise e.g. feet interaction with other things.
+
+lots of recursion
+
+behind the scenes it’s like A comes into contact with B and yields A-prime and B-prime, and there’s like a huge number of these little interactions that have to occur and reoccur
+
+
+N
+What's ‘A-prime'?
+
+
+Mark
+A-prime is A but a little different
+
+
+N
+(prime, is that from maths?)
+
+Ok
+
+
+Mark
+yeah
+
+
+N
+And A and B are beliefs or something?
+
+Mark
+beliefs, anticipations, synaptic potentials, something
+
+
+N
+Cool
+
+And that happens unconsciously?
+
+I assume
+
+
+Mark
+one can infer it sometimes from skeletal muscle changes, tingles, insights, and other phenomenological changes, but it can seem like nothing is happening sometimes for many hours
+
+
+N
+If something bubbles up to consciousness, then in what form?
+
+Cool
+
+
+Mark
+insights, realizations, muscle tension changes, yeah  
+
+
+N
+You have a list in the end of all stuff that could be useful to look through
+
+Mark
+yeah
+
+
+N
+Is there a way you can dissect that list? E.g. hands/feet usually are more useful, so try maybe starting with those first, but be gentle and self-aware etc etc
+
+
+Mark
+i think i give some rough heuristics somewhere
+
+in various lists and more sections
+
+
+N
+Where?
+
+Hm
+
+Can't recall seeing that
+
+
+Mark
+extremities and stomach, not the head, are good places to experiment with, first. but too much can tangle further, etc,. etc.
+
+
+N
+Aight
+
+
+N
+Is there more info in those places in the protocol?
+
+
+Mark
+> Is there more info in those places in the protocol?
+
+i don’t do too much of this because it’s so personally contingent and blocky suggestions might cause people to ignore subtle stuff that’s not in my suggestions
+
+
+N
+Cool
+
+Aight thanks
+
+Oh
+
+How can you notice that I need to e.g. look more at feet?
+
+Is it something you infer from what I say and the types of problems I'm dealing with, for example?
+
+
+Mark
+If something feels stuck, wrong, etc., but usually hope to e.g. look at feet long before that.
+
+
+N
+Oh
+
+
+Mark
+> Is it something you infer from what I say and the types of problems I’m dealing with, for example?
+
+usually not object level problems, though sometimes, but general patterns, yeah
+
+
+N
+So in my case I don't feel like I'm completely stuck, more like 'it's moving too slow'. But I don't feel that I literally tried all I can and that my current way of dealing w stuff can't give me more progress atm
+
+Is that why
+
+You say that I should continue with what I do
+
+And maybe eventually naturally exhaust the potential
+
+Of what I'm doing?
+
+
+Mark
+Maybe!! But can be good to keep alternatives in mind, too, and maybe interleave a little bit, increasingly over time
+
+
+N
+But if I interleave, I won't be able to clearly notice that that's what's helping me
+
+And I'll keep thinking that my method is working
+
+
+Mark
+There may be ways to do it while not confounding too much. Not entirely overlapping lead indicators.
+
+But it’s a good point
+
+
+N
+Say more?
+
+Re ways
+
+
+Mark
+you may notice different good things via your current way versus trying new things, making it possible to know where the good things are coming from  
+
+there will be some overlap, probably, but not complete overlap
+
+
+N
+Oh
+
+Ok
+
+Aight, cool
+
+Thanks for doing this conversation!
+
+
+Mark
+you’re very welcome. thank you for your questions
+
+
+
+
 “psychic” and “supernatural” stuff: what/how/how-not: [draft]
 
 This is a section about:
@@ -7940,3 +8538,4 @@ bibliography (incomplete):
 (*) Philosophical Investigations Wittgenstein
 (*) Meditation for the Love of It Kempton
 (*) https://vividness.live/2015/11/27/emptiness-form-and-dzogchen-ethics/ last accessed: 20200413
+(*) Maté, Gabor. Scattered minds: The origins and healing of attention deficit disorder. Vintage Canada, 2011.
