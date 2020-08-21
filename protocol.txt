@@ -1,4 +1,4 @@
-v96 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v97 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 
 
@@ -51,6 +51,7 @@ Contents (simplified/elided):
 		preliminaries and vacations; conceptualization as such
 		risks
 		environment
+		movement
 		posture
 		breath
 		states
@@ -250,6 +251,7 @@ v92 backup 20200719.rtf
 v93 backup 20200719.rtf
 v94 backup 20200719.rtf
 v95 20200720 backup.rtf
+v96 20200819 backup.rtf
 
 
 Credits: 
@@ -319,6 +321,7 @@ practice
 	preliminaries and vacations; conceptualization as such
 	risks
 	environment [and subtlety; (more) risks and rabbit holes]
+	movement
 	posture
 	breath
 	states
@@ -2365,15 +2368,54 @@ And I guess this generalizes to every single damn choice ever. (edited)
 <<<
 
 
+movement:
+
+How to engage with movement? One could think of movement as falling into these categories:
+
+1) subtle (including postural readjustment; sitting or standing, etc.)
+2) one-off overt movements (including postural readjustment; sitting or standing, etc.)
+3) structured repetitive movement (e.g. tai chi, qigong, slow-walking meditation, dish washing)
+4) unstructured relatively still (standing around, shifting weight, looking around, whatever)
+5) unstructured in motion (walking, jogging, swimming, etc.)
+
+***
+
+All of the ways of engaging above can be helpful at different times, with varying degrees of “stringency.”
+
+Subtle movement, aliveness, poise (sometimes!) facilitates meditative progress!
+
+Allowing only subtle movement (so suppressing one-off over movements) can make very subtle things more salient.
+
+Allowing one-off, overt movements can help the system get over “humps.”
+
+Structured repetitive movement is sometimes good for getting the benefits of movement as well as keeping the mind just a little bit occupied, in a good way.
+
+Unstructured repetitive movement (e.g. a long walks) tends to draw people into reverie, daydreaming, etc., in a good way.
+
+***
+
+In general, urges and impulses to move can be deferred, but there’s usually something there that needs to be expressed, eventually, at least liminally. So it can be good to think of suppressed urges or impulses as debt that eventually needs to be paid off. Sometimes it can be good to hold movement in abeyance, to allow important subtlety to become salient. But, sometimes, it’s better just to “move now” because you’ll eventually need to “move later,” anyway.
+
+***
+
+Structured repetitive movement can be thought of as an optional investment that doesn’t always net pay off. It takes time for such movements to become relatively automatic, such that they can be interleaved with meditation in a way that doesn’t clash and jar with meditation (or thought). For some people, it’s worth the investment, as a sort of delimiting container for meditation, where the movement helps to move things along and there’s just enough room for variation to get over state-space humps. For other people (perhaps most people?), such a container isn’t necessary and can add significant complexity, over the long-run, that isn’t worth it.
+
+***
+
+Unstructured repetitive movement (e.g. long walks) tends to draw people into reverie, daydreaming, etc., and sometimes people find this initially unattractive if they’re “trying to meditate,” but sometimes reverie and daydreaming are the most important thing to be doing. People need almost as much unstructured reverie time as they do “meditation time,” at least long-run, in order to “go all the way.” Meditation masters take long, aimless walks, with no particular relation to their (body)mind, as long and as often as they have time for, and it’s unwasted time; it’s time well spent, in terms of their values and goals and hopes and dreams, as it were. If you do take long walks, a key piece is “nonvigilance,” and so just make sure you’re in a safe environment, where you can naturally “space out.” People are generally ok, if they’re undistracting strangers at a distance or just passing you on the trail. Cars can be more loud and disruptive, depending, even if you’re safely on the sidewalk.
+
+If it’s hard to “sit down to meditate” or meditation has lately been “immediately going wrong” (in some very loose sense!), then often the right thing to do is to just take aimless walks, for hours and hours. One can also leave open blocks of time to do random chores at home and kind of slowly “back onto the cushion” and hop right back off again if things become problematic.
+
+
 posture: (section needs editing)
 
-You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking (while “meditating-meditating,” but see below) and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket or no blanket, eyemask or dark room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
+You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking (while “meditating-meditating,” but see below) and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket or no blanket, sleep mask or pitch black room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
 
 Favorite meditation postures/combinations (unordered): sitting, lying down back/sides, Zhan Zhuang / standing, walking, running/jogging, yoga asanas, eyes open/closed, earplugs +/-, eye shades / complete darkness / pitch black +/-, netflix, amazon video, facebook, twitter, watching blog stats
 
 Ah, also like "erect kneeling", knees on something padded, and otherwise "standing" straight. (If I'm doing standing meditation and my feet start to hurt, I switch between standing and this type of kneeling.) Different postures change salience of different feedback loops. Safer.
 
-Oh, more for completeness: leaning with back (butt) against low things like countertops where everything above the lean is unsupported/erect. Leaning back against walls. Finally, sometimes facing wall bracing with hands.
+Others: leaning with back (butt) against low things like countertops where everything above the lean is unsupported/erect. Leaning back against walls. Finally, sometimes facing wall bracing with hands.
 
 more distinctions: sitting without back support, sitting with back support (still erect), and hella slumped in some comfortable couch or chair in some long-term comfortable way. always mix with erect/unsupported sitting and standing!
 
@@ -2407,8 +2449,21 @@ Another postural thing to vary: Surfaces from very hard concrete to very soft fo
 
 You should check to make you’re not losing flexibility or that certain physical movements (or patterns of attention) aren’t becoming subtly unpleasant or aversive. Also, barbell weight training and bodyweight exercise is good, too, as another way to check for whether something is off, e.g. if some exercises become aversive or you’re losing strength or less able to transmit power through structure.
 
-Props like for jaw or hand stuff or etc if ever a thing:
-There’s the cliche of having something to bite down on, when experiencing pain or something. I’m not suggesting that, though it could be good—teeth generally aren’t supposed to touch teeth, but, if your jaw happens to be clenching, putting in a mouthguard might be good for your teeth and bad for your jaw—maybe ask a dentist or something about tradeoffs. In any case, the point of this paragraph is to make an analogy to biting down on something: if your hand is clenching, it can make it safer for your hand to clench if you clench a stress ball or a rolled up shirt. If your neck is doing weird things, it can be helpful to do that laying it in a cradle of pillows, and so forth. It’s good to be able to meditate sitting or standing tall, but it’s also good to be able to arrange your environment when/if that’s the best thing, too. Another take: “Having things squeeze or slide against can slow things down, reduce currently problematic degrees of freedom and/or increase feedback through resistance or friction”
+If you do unfortunately run into some of the warned-about muscle tension, the below can be helpful. I’d imagine one would only experience likely one of these or zero:
+
+For hand/finger cramps/clenching, a stress ball or a wadded shirt can be helpful to grip or to prevent joint compression.
+
+Laying down with a cradle of pillows can give the neck something to support or push against.
+
+For jaw tension, you might bite down on something or use a mouthguard, some things will better and worse for your teeth and better and worse for jaw alignment.
+
+Generally, if an irritated joint wants to move, having things to squeeze, press against, or slide against can slow things down, reduce currently problematic degrees of freedom and/or increase feedback through resistance or friction.
+
+In summary, it’s good to be able to meditate sitting or standing tall, but it’s also good to be able to arrange your environment when/if that’s the best thing, too.
+
+***
+
+More:
 
 [book recommendations: feldenkrais awareness through movement, anatomy trains yoga, starting strength, becoming a supple leopard]
 
