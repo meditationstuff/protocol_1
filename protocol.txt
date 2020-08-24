@@ -1,4 +1,4 @@
-v98 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v99 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 
 
@@ -252,6 +252,7 @@ v93 backup 20200719.rtf
 v94 backup 20200719.rtf
 v95 20200720 backup.rtf
 v96 20200819 backup.rtf
+v98 20200824 8f536062759c618b129d8e1f610f21c217d78042.txt
 
 
 Credits: 
@@ -8818,3 +8819,15 @@ bibliography (incomplete):
 (*) Meditation for the Love of It Kempton
 (*) https://vividness.live/2015/11/27/emptiness-form-and-dzogchen-ethics/ last accessed: 20200413
 (*) Maté, Gabor. Scattered minds: The origins and healing of attention deficit disorder. Vintage Canada, 2011.
+(*) Bollas, Christopher. The shadow of the object: Psychoanalysis of the unthought known. Columbia University Press, 1987.
+(*) Bollas, Christopher, and Sacha Bollas. Catch them before they fall: The psychoanalysis of breakdown. Vol. 978. No. 0-63726. Routledge, 2012.
+(*) Sidman, Murray. Coercion and its fallout. Boston: Authors Cooperative, 1989.
+(*) Walker, Pete. Complex PTSD: From surviving to thriving: A guide and map for recovering from childhood trauma. Createspace Independent Pub, 2013.
+(*) Ratcliffe, Matthew. Experiences of depression: A study in phenomenology. OUP Oxford, 2014.
+(*) Sarasvathy, Saras D. Effectuation: Elements of entrepreneurial expertise. Edward Elgar Publishing, 2009.
+(*) Bohm, David. On dialogue. Routledge, 2013.
+(*) Johnson-Laird, Philip Nicholas. Mental models: Towards a cognitive science of language, inference, and consciousness. No. 6. Harvard University Press, 1983.
+(*) Churchland, Paul M. Plato's camera: How the physical brain captures a landscape of abstract universals. MIT press, 2012.
+(*) Anderson, Michael L. After phrenology: Neural reuse and the interactive brain. MIT Press, 2014.
+(*) Simon, Herbert A. "Bounded rationality." Utility and probability. Palgrave Macmillan, London, 1990. 15-18.
+
