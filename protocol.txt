@@ -323,6 +323,7 @@ practice preliminaries
 practice
 	preliminaries and vacations; conceptualization as such
 	risks
+	transitioning from other practices (re "sharp cutovers")
 	environment [and subtlety; (more) risks and rabbit holes]
 	movement
 	posture
@@ -1027,6 +1028,8 @@ interpreted correctly on the first n tries
 
 Might replace "do the thing" with "handle all your concerns, bottom up" or [something like that].
 <<<
+
+("Telephone" or "the telephone game" or "Chinese whispers" is game where players whisper a message, from person to the next, until the last person finally says the final received message out loud, and the first person reports the original message. There is almost always a nearly inevitable (and humorous) difference between the first and last message, due to all sorts of possible reasons for successive transmission error.)
 
 *
 
@@ -2336,6 +2339,21 @@ The stuff below has a mild and transient version all the way up to an extreme an
 *5. Finally, there’s opportunity cost.
 
 (*) Again, this could break you, this could ruin your life, ruin your mind, ruin your relationships, hurt a significant other, hurt your kids in entire-life-affecting subtle and overt ways, etc.
+
+
+transitioning from other practices (re "sharp cutovers"):
+
+If you are coming to these practices from many hours of other practices or another lineage, it can be sometimes helpful to deliberately and exploratorily interleave your old practices with new ones, prior to a bootstrap of greater and greater intuition for what to do when and how. (This might be on a timescale of seconds, minutes, hours, days, or weeks.   It just depends.)
+
+"Sharp cutovers," where a person leaves an old practice behind, for a new practice, and never touches the old one again, can lead to problems, in part because a person will have to touch the old practices (or their results), again, eventually, in order to make continued progress. And, it's sometimes easier to do that sooner rather than later. (See, in part, the idea of "redo-to-undo," later in the document, as well as the idea of "layering.")
+
+It's like the old practice, depending on how much "undoing" you were already doing, has built up scaffolding, built up more each time one engages the practice. And, it takes some fraction of that time, in the future, to take down that scaffolding (while keeping the benefits). If one switches over to doing a new practice, too soon or too completely, it can leave scaffolding behind that eventually gums things up, later. (Though, you will have the opportunity to clean things up, then, at that later time, of course; it just might be at greater expense. Or(!), you'll have much more experience in the future, and it's much better to just wait to go back (and you may spontaneously find yourself there when it's time, in any case). It all just depends.)
+
+Note also, anyway, that many people should just keep doing something in the space of what they've been prevously doing, for a time, or on and off. The "meta framework" of this document smoothly admits any and all practices (see the preliminary/auxilliary practices, main practice p2, etc.) Many people import practices from other lineages or find those practices already in the document, in some same, similar, or otherwise nearby form. (Eventually one moves beyond "practices" to just step-by-step, concrete, fine-grain doing, a la radically unstructured global wayfinding.)
+
+So, if things feel fine, or going back and forth is confusing and "grindy" it's (maybe very) ok to just cautiously go ahead and trust your felt/intuitive sense of what to be doing (which could be new things or old things or creative mixes or amalgams of the two). This is, at least, just something to keep in mind. You'll eventually return, somehow, to the things you've already done, maybe liminally, at least once, and usually many times.
+
+In any case, it can be helpful to keep in mind that some people are sometimes inclined towards "sharp cutover(s)" in a possibly problematic way.
 
 
 environment and subtlety; (more) risks and rabbit holes:
@@ -8509,7 +8527,7 @@ So, should you, in some sense, surely not in the Sagan sense, buy into a demon-h
 
 This is maybe where most meditation writers get cagey. I try to almost never, ever, ever do the cagey thing, but I’m going to do it, here, at least in this version. Part of the issue is that one needs to sort of go beneath, underneath “all” metaphysical, physical conceptions, anyway, in some sense, regardless of what’s “really” going on. You’ll need to come to (provisional) conclusions for yourself, via engagement with your own process.
 
-But, but, but, I want to reiterate a few things from the Culture section. There’s the pattern of another person or group somehow causing you to experience something unexpected and then using that to somehow claim intellectual, moral, or “health/safety” authority over you. Some cults out there will wait a bit, wait for you to get sucked in, before telling you something like, “you are not just broken but filled with bad things, and you have to get them out or disaster or forever non-acceptance!” And whatever they tell people will be correlated *just enough* with that person’s experience that that person will both believe the cult and also think that the cult is their only option to get “clean” or “pure” or worthy of happiness, safety, intimacy, etc. It often works, at least in the West(?), because mainstream culture mostly doesn’t talk about these sorts of apparent phenomena—so being somehow exposed to these sorts of phenomena is immediately isolating and yet these people seem to know all about it, and they want to help… Yikes.
+But, but, but, I want to reiterate a few things from the Culture section. There’s the pattern of another person or group somehow causing you to experience something unexpected and then using that to somehow claim intellectual, moral, or “health/safety” authority over you. Some cults out there will wait a bit, wait for you to get sucked in, before telling you something like, “you are not just broken but also filled with bad things, and you have to get them out or disaster or forever non-acceptance!” And whatever they tell people will be correlated *just enough* with that person’s experience that that person will both believe the cult and also think that the cult is their only option to get “clean” or “pure” or worthy of happiness, safety, intimacy, etc. It often works, at least in the West(?), because mainstream culture mostly doesn’t talk about these sorts of apparent phenomena—so being somehow exposed to these sorts of phenomena is immediately isolating and yet these people seem to know all about it, and they want to help… Yikes.
 
 That being said, this document *is* intended for people who want to “go all the way,” towards something that has to be reconceived during the journey. But, you don’t have to defer happiness, safety, intimacy while you’re doing it. It’s always the best mix and ordering you can figure out, as you go. And, of course, just because you’re reading this doesn’t mean you have to “do the document.” As written in a few places, this document is a telephone game, and I hope people will take it apart and use it (or parts of it) on their own terms, on their own timeline. You don’t have to give up your intellectual, moral, etc., autonomy. There are additional external resources below that talk about these sorts of phenomena (some intended as “good” examples and some as “problematic” examples.)
 
@@ -8539,9 +8557,9 @@ So, if something is “metabolized,” it might be that all that’s left is a (
 
 ***
 
-So, by “metabolization” or “integration” hopefully it’s clear that I mean something very methodologically specific (through very flexible in the concretes) and also very contingently personal.
+So, by “metabolization” or “integration” hopefully it’s clear that I mean something very methodologically specific (through very flexible, in the concretes) and also very contingently personal.
 
-So how does one do it? As with anything else, it’s “just” engagement with main practice p2, the other main practices, auxilliary practices as needed for inspiration, the meta protocol, your own interpretation of “how to do all this” that changes and improves, over time. As said in a bunch of places, it sort of all becomes “just doing one thing,” simplicity on the far side of complexity, whether you’re working with “me,” “not me,” or often both mixed together, etc. Hopefully, this further discussion will make things faster and easier, though.
+So how does one do it? As with anything else, it’s “just” engagement with main practice p2, the other main practices, auxilliary practices, as needed for inspiration, the meta protocol, your own interpretation of “how to do all this” that changes and improves, over time. As said in a bunch of places, it sort of all becomes “just doing one thing,” simplicity on the far side of complexity, whether you’re working with “me,” “not me,” or often both mixed together, etc. Hopefully, this further discussion will make things faster and easier, though.
 
 Doing something like “metabolization” or “integration” might be a very different conceptual/experiential/sensory, multi-step puzzle per thing to be metabolized. (If it weren’t at least a little bit of a puzzle, it would have already happened a long time ago, “automatically,” probably.)
 
@@ -8551,9 +8569,13 @@ Do maybe remember that terms like “object,” “thing,” or even “ghost,�
 
 Person-like, feeling-like (etc.), and pattern-like phenomena will likely need different interaction patterns, in the puzzle-solving sense.
 
-Sometimes things that feel like “not me” will turn out to be “was me all along,” disowned/repressed/suppressed parts of self, sometimes, e.g., soft and/or loving (“good”) and sometimes, e.g., scared and/or violent (“bad”). Each of these cases may take a bit of a different approach, and there might be many types/kinds/cases/mixes/subtypes of each.
+Sometimes things that feel like “not me” will turn out to be “was me all along,” disowned/repressed/suppressed parts of self, sometimes, e.g., soft and/or loving (“good”) and sometimes, e.g., scared and/or violent (“bad”).
 
-And sometimes things that feel like “not me” will be “actually from the outside.” And there can be many subtypes of each, all of which might be best treated in very different ways.
+And so sometimes things that feel like “not me” will be “actually from the outside.” And there can be many subtypes of each, all of which might be best treated in very different ways.
+
+(And sometimes things that you thought were "me" turn out to be "not me" or often an ultimately separable mix of both "me" and "not me.")
+
+Each of these cases may take a bit of a different approach, and there might be many types/kinds/cases/mixes/subtypes of each.
 
 Regarding “me” versus “not me” (versus even an initially mixed situation), and regarding the process of determining which is which, and what to do before or after provisionally determining that, here are the briefest of examples/analogies: You probably wouldn’t treat a friend (happy or unhappy), or a seemingly suffering stranger, necessarily, in a same way, though their might be deep guiding principles or values at any particular time. Sometimes with a friend, you’d be very open to letting them guide, or sometimes you might be firm, or sometimes it would be very undifferentiated. Sometimes with a stranger you might be particularly polite. Other times you might be particularly cautious or you’d have firm boundaries for when and how to interact. Sometimes people mislead, misrepresent, outright lie, or are mistaken about their own “true nature.” You might or might not, initially or finally, interact on their terms or their frame. Or you might! And, of course, all of this might be quite nonverbal and very experiential (or, again, very “low level” and not with reference to person-like-ness at all, etc.).
 
@@ -8662,7 +8684,7 @@ In fact, one might further hypothesize that all (or most, or lots of) cases of �
 
 Further, one might imagine *cascades* of *worsening* identity-and-individuation confusions as well as “more object level” content, “beliefs,” “goals,” “plans,” “cosmology,” etc., kind of layered-ly building on each other. And, even if very fractionally, the more “relatively similar” two (or more) people became, the easier it would be for object- and meta-level confusions to ramify, and things could potentially get worse and worse, until some sort of equilibrium, if ever. (And, again, we don’t want to inappropriately reify “things” like beliefs, goals, plans, etc.)
 
-An important principle in the above is that if one person has, some “belief” *A*, and another person has very similar “belief” *A-prime*, those “beliefs” more likely to get mixed together [“A-double-prime”] in one or both people, perhaps in different ways, because it won’t be perfectly symmetric. And this can happen for lots and lots of “beliefs,” etc., and, as above, this can facilitate even more mixture, etc.
+An important principle in the above is that if one person has, some “belief” *A*, and another person has very similar “belief” *A-prime*, those “beliefs” are more likely to get mixed together [“A-double-prime”] in one or both people, perhaps in different ways, because it won’t be perfectly symmetric. And this can happen for lots and lots of “beliefs,” etc., and, as above, this can facilitate even more mixture, etc.
 
 And, ultimately, in a bad case, a person might end up having aggregated large “swaths” of “pattern” very far from their original beliefs or even very contradictory to lots of their beliefs, sometimes leading to muscle tension, emotional and behavioral disregulation, demotivation, “goal fragmentation,” etc. (being careful, here, not to inapproriately reify things like “goal fragmentation,” etc.).
 
