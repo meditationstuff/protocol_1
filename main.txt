@@ -1514,6 +1514,8 @@ Have you been cranking?
 
 You might also see the “gentle on-ramp”/“onramp” section elsewhere in the document as well as the “meditating by coincidence” section.
 
+Also, some people are turned off by the "crank"/"cranking"/"turning the crank" metaphor. Another way of looking at is with a "learning to play music and playing music" metaphor: The preliminary/auxiliary practices are like playing the scales. The main practices are like playing from sheet music (with personal interpretation). And then after that is improvisation, jazz, riffing, creative, experimental, joyful--maybe "getting somewhere" (cf. "global wayfinding") and maybe not, depending on how conceived and you proceed, on your terms, but the system is changing and changing, always slowly and sometimes quickly.
+
 
 
 practice:
@@ -1902,6 +1904,8 @@ Others: leaning with back (butt) against low things like countertops where every
 more distinctions: sitting without back support, sitting with back support (still erect), and hella slumped in some comfortable couch or chair in some long-term comfortable way. always mix with erect/unsupported sitting and standing!
 
 more distinctions: sitting on a hard, very flat (parallel to ground, no tilting) surface; sitting on a very firm but nevertheless soft surface (like a big memory foam block)…
+
+Sometimes you may find yourself drawn to particular, idiosyncratic "finger mudras," as well as leg crossings, and/or arm crossings.
 
 Also, E Tai Chi (https://www.amazon.com/Tai-Chi-Basic-Book-Simplest-ebook/dp/B01MREOH1P/ …), custom/ad hoc tai chi, and custom/ad hoc yoga asanas
 
@@ -2432,6 +2436,8 @@ solo practice: (“main protocol”)
 
 preliminary/auxiliary practices:
 
+The preliminary/auxiliary practices are sometimes useful to explore before and concurrently with the main practices, especially main practice p2.
+
 These practices won’t take you all the way and can even tie you in knots, but they can get things going and sometimes unstick things. They are presented in no particular order.
 
 Consider creating for yourself and/or submitting your own preliminary/auxiliary practices for inclusion in this document. Submission could be very useful to other people. If you wished that it had been here, instead of you needing to discover it, or you just think it’d be useful to other people, please submit. Preliminary practices are intended to be unsystematized, ad hoc, a little bit vague, brief, and jargon-free. Ideally they are titled with a short, imperative phrase, but that isn’t necessary. Your submissions will be indicated by your initials or pseudonymous initials (please choose/indicate).
@@ -2457,6 +2463,24 @@ See
 auxiliary.txt
 
 for the actual preliminary/auxiliary practices.
+
+Contemporary meditators sometimes dismiss the preliminary/auxiliary practices (and sometimes, based on this, the entire document/protocol), because they seem "too intellectual" or "too conceptual." There's a few things to say, here. First, experimenting with versions of these that do sometimes tend to be too "top-down," too "heady"/conceptual/intellectual, at first, can help the system learn how to do "bottom-up"/automatic/spontaneous versions. Many of the p/a practices are pointing at phenomena that spontaneously precede insights.
+
+Contemporary meditators sometimes also dismiss preliminary/auxiliary for being "too therapeutic." If meditation is the total transformation of (body)mind, then anything is fair game and potentially relevant, and ordering matters. Sometimes a meditator will be "stuck," then go talk to a therapist about something seemingly unrelated, and then be "unstuck" in their meditation practice. To the degree that a meditator can be "unstuck" "on the cushion", their practice will precede more systematically and efficiently. It's all the same system, and "mundane" insights can bottleneck "the big stuff" as viewed through traditional maps or contemporary lenses.
+
+All that being said, sometimes the long list of preliminary/auxiliary practices can just seem paralyzingly overwhelming. "Do I have to do them all?" No! Explore the ones that look interesting or resonant. You will generalize from these. If you get bored or you're not "stuck," don't use them. The idea is to do just enough that you begin to generalize towards finding new degrees of freedom and the right high-dimensional, deeply personal and situated things to do, on your own. Eventually the mind becomes fully self-generative and "omni-directional." The preliminary/auxiliary practices are intended to facilitate that bootstrap, not to be a laborious and exhaustive set of practices that need to be completed  before moving on.
+
+An analogy used elsewhere is that the preliminary/auxiliary practices can be thought of as playing the scales, as in when learning to play a musical instrument. It's not a perfect analogy, but it might be a helpful one. One doesn't play all possible scales and one doesn't want to mistake the scales for sheet music performance or jazz. Though, sometimes, they're an excellent and helpful/healing/something thing to do.
+
+Most people aren't exercising all the degrees of freedom of their minds--there's a way in which it can be hard to see all the different things one might do in any particular moment. (The "all you see is all there" bias.) Lists like can help people to fill out their "missing degrees of freedom." Almost everyone has a speckle pattern of blind spots, for things they could do but don't spontaneously think of doing, at times where it'd be helpful (e.g. in daily life, or in reflection, or while journaling... or while doing p2!)
+
+Further, "generalization" runs "deep," to ever-finer things one might do with ever-finer nuance and variation. Again, one eventually goes "beyond" the preliminary/auxiliary practices, though even "meditation masters" will dip back into the list, every so often, for all sorts of reasons.
+
+(Degrees of freedom and fine-grain-ness have relationships to the classical concept of "pliability.")
+
+Finally, for any given person, sooner or later, they will experiment with a preliminary/auxiliary practice and find that it's jarring, grindy, disruptive, something. Not all practices will be net good for people at all times, and plenty will be potentially detrimental. (Maybe only a tiny, different fraction of them will be useful for any particular person.) As one progresses in meditation, less and less "top-down" or "random" "mental actions" (not to inappropriately reify anything of that) will be useful! It's ok to put preliminary/auxiliary practices down and never pick them up again (or to never try some of them at all, ever), and so on.
+
+Again, the preliminary/auxiliary practices are sometimes useful to explore before and concurrently with the main practices, especially main practice p2.
 
 
 
@@ -5226,4 +5250,7 @@ bibliography (incomplete):
 (*) Simon, Herbert A. "Bounded rationality." Utility and probability. Palgrave Macmillan, London, 1990. 15-18.
 (*) [maybe not best translation] Pettit, John W. Mipham's beacon of certainty: illuminating the view of Dzogchen, the Great Perfection. Vol. 2. Simon and Schuster, 1999.
 (*) Kim, Hee-Jin. Dogen on Meditation and Thinking: a Reflection on his View of Zen. SUNY Press, 2007.
-
+(*) Deacon, Terrence William. The symbolic species: The co-evolution of language and the brain. No. 202. WW Norton & Company, 1998.
+(*) Tomasello, Michael. Constructing a language. Harvard university press, 2009.
+(*) https://greg-goode.com/article/logic-and-the-direct-path/ (last accessed: 2020-08-31)
+(*) https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/ (last accessed: 2020-08-31) (*) Blanshard, Brand. Reason and analysis (vols. 1 and 2). Routledge, 2014.
