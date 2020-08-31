@@ -3542,3 +3542,304 @@ If I were on a drug right now, what would it be called? Is this a good trip or a
 watch for reactivity: (h)
 
 thus
+
+
+DIY p3 and/or p8: (h)
+
+Make new versions of the lists in p3 and/or p8 for yourself, based on your own experiences.
+
+
+best attention: (h)
+
+Gently, dreamily seek the best place/orientation/position for your attention, right now.
+
+
+pay atentionto detail: (d)
+
+Thus.
+
+
+own your shit: (h)
+
+Own your fucking shit: your problems, your grievances, your situation, your past, your feelings, your mistakes. They’re yours. Own them.
+
+And while you’re at it: your achievements, your skills, your friendships, your future, your potentiality, your pride, your worth. They’re yours. Own them.
+
+
+confront it gently: (h)
+
+Try confronting it in a very slow, easy, gentle way.
+
+
+taxonomize phenomena: (h)
+
+Explicitly, provisionally taxonomize/categorize the relevant thing(s) 
+
+
+be fluid: (h)
+
+Be fluid, supple, yielding.
+
+
+disobey: (h)
+
+Thus.
+
+
+go orthogonal: (h)
+
+Consider the axis defined by what you’re doing (or trying to do) and its opposite. now go in an orthogonal direction.
+
+
+intention shaping: (h)
+
+Play with and perfect your intention.
+
+
+only action: (h)
+
+stream of consciousness for doing — don’t think or plan, just [safely] act in the world, for a bit.
+
+
+dream big: (h)
+
+Thus.
+
+
+be generous: (h)
+
+Be generous and charitable, literally or metaphorically.
+
+
+look for what’s missing:
+
+Thus.
+
+
+compose a will: (h)
+
+Compose a last will and testament, even a brief or incomplete or inadequate one.
+
+
+befriend: (h)
+
+Try befriending it.
+
+
+wrong: (h)
+
+Directly ask, what might I be wrong about?
+
+
+disconnected value: (m)
+
+Ask, what things do I seem to value that seem totally disconnected from the other things I value?
+
+comment:
+
+Main one I'm familiar with is "family".
+
+
+the big picture: (h)
+
+Consider the big picture, or a bigger picture.
+
+
+identify the different forces at play: (h)
+
+Thus.
+
+
+repeat an error: (h; gpt-3)
+
+Deliberately do something that embarrassingly backfires or leads to an embarrassing or inappropriate response.
+
+
+repeat a success: (h; gpt-3)
+
+Deliberately do something that leads to positive or satisfying results.
+
+
+reverie/daydream: (h; gpt-3)
+
+Let your mind wander in whatever direction it wants to.
+
+
+focus on what feels best/worst/neutrally good/bad: (h; gpt-3)
+
+Thus.
+
+
+focus on the good/bad of a past event: (h; gpt-3)
+
+Thus.
+
+
+concentrate on something to the exclusion of all else: (h; gpt-3)
+
+Thus and notice subtle or gross wavering or interjection.
+
+
+engage in overt positive/negative self-talk: (h; gpt-3)
+
+Thus.
+
+
+engage in covert positive/negative self-talk: (h; gpt-3)
+
+Thus.
+
+
+allow yourself to be emotionally affected (be susceptible): (h; gpt-3)
+
+comment:
+
+Be empathetic for example.
+
+
+allow yourself to be intellectually influenced (be vulnerable): (h; gpt-3)
+
+Notice and allow for an influence on or by your thoughts and/or emotions. 
+
+
+losing control: (h; gpt-3)
+
+Experiment with losing control. Have it, enjoy it. Then, let it go.
+
+
+masturbate: (h; gpt-3)
+
+Thus.
+
+
+origins and name: (h; gpt-3)
+
+Ask what’s the origin of X/that? What’s the name of X/that?
+
+
+all of it: (h; gpt-3)
+
+Ask, is it all of it?
+
+
+balanced perspective: (h; gpt-3)
+
+Ask to be balanced in your perspective. Can you see the good, bad, and ugly of X/that?
+
+
+totality: (h; gpt-3)
+
+Be a totality, or “everything.”
+
+
+offer help, accept help: (h; gpt-3)
+
+Thus.
+
+
+do something that will definitely work
+
+Thus.
+
+
+funny laugh: (h; gpt-3)
+
+Curiously, genuinely explore what happens if you try to laugh from your deepest place.
+
+
+try on new identities: (h; gpt-3)
+
+If you’re not sure what your identity is, or if you’re not sure if you have an identity, try on some identities. Test them. See how they fit.
+
+
+get curious about what’s going on inside you: (h; gpt-3)
+
+Go meta, get curious about what’s going on inside you.
+
+Comment: There are lots of ways i can know something, like knowing something consciously (i.e. thinking about it), knowing something implicitly like a word in a language that i don’t know consciously but know implicitly, or knowing something unconsciously like how i can know that i know how to type without actually being able to recall any of the details of how i learned how to type.
+
+
+deeper than that: (h; gpt-3)
+
+Ask, is there something deeper than that?
+
+undo: (h; gpt-3)
+
+Ask, how might I undo this or undo its effects?
+
+
+not neutral: (h; gpt-3)
+
+Ask, what isn’t neutral about this?
+
+
+footsteps: (h; gpt-3)
+
+Imagine being a friend to yourself, following your footsteps, the path you took to get to where you are right now. Maybe that friend can point out, here’s the right decision, here’s the one you regret, here’s the thing you’ll be sorry about later, here’s the fork in the road, here’s the leap of faith you took, here’s the thing you should have said, here’s the way you got it right, here’s the way you got it wrong, here’s how you could have gotten it right.
+
+
+not the only thing: (h; gpt-3)
+
+Ask, what are three other things like this?
+
+how do you experience things: (h; gpt-3)
+
+How do you experience the experience? How do you experience the experience of the experience?
+
+
+private wisdom: (h; gpt-3)
+
+Ask, what is the wisdom you have that you can’t talk about? (That you are unable to say out loud.)
+
+
+responding and initiating: (h; gpt-3)
+
+Explore the difference between responding and initiating.
+
+
+error message: (h; gpt-3)
+
+Give yourself an error message.
+
+
+other people’s minds: (h; gpt-3)
+
+Imagine you/your self (or someone else) suddenly and without warning enters someone else’s mind. Imagine the sensation of that sudden entrance. What would you see, hear, feel? Was that terrifying? What about relieving?
+
+camouflage: (h; gpt-3)
+
+How are you in camouflage? What are you in camouflage from?
+
+
+what is the model here?: (h; gpt-3)
+
+What is the implicit or explicit model here? What would it mean/be like if that were to change? (Or to be obliterated?)
+
+
+just go with it and see what happens: (h)
+
+Thus.
+
+
+keep doing what you're doing until there is something better to do (without necessarily specifically looking for some better thing): (h)
+
+Thus.
+
+
+opposite: (q)
+
+Along whatever axes seem important, do the opposite of what you normally do.
+
+comment:
+
+reversed stupidity may not be intelligence but it is search
+
+
+create affordance: (d)
+
+Can you turn impossibility into possibility, even if it's with the knowledge you'd never do it?
+
+
+active & passive thinking: (h)
+
+Incline toward noticing whether thoughts are “actively thought” or “passively/spontaneously arise”

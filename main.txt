@@ -2480,6 +2480,10 @@ Further, "generalization" runs "deep," to ever-finer things one might do with ev
 
 Finally, for any given person, sooner or later, they will experiment with a preliminary/auxiliary practice and find that it's jarring, grindy, disruptive, something. Not all practices will be net good for people at all times, and plenty will be potentially detrimental. (Maybe only a tiny, different fraction of them will be useful for any particular person.) As one progresses in meditation, less and less "top-down" or "random" "mental actions" (not to inappropriately reify anything of that) will be useful! It's ok to put preliminary/auxiliary practices down and never pick them up again (or to never try some of them at all, ever), and so on.
 
+Meditation is global wayfinding. Everything you do changes you. Have every degree of freedom at your disposal in the service of better and better--the right things, in the right order, a the right time, ultimately beyond reason and conception (though reason and conception are still good, before, sometimes during, and after).
+
+If the list is overwhelming, the meta protocol can help bootstrap intuitive navigation and selection of practices, from the preliminary/auxiliary practices and of course what to do, when, with respect to the entire protocol. It's ok to choose randomly and experiment. There is time. It's included in the "10,000 hours."
+
 Again, the preliminary/auxiliary practices are sometimes useful to explore before and concurrently with the main practices, especially main practice p2.
 
 
@@ -5253,4 +5257,6 @@ bibliography (incomplete):
 (*) Deacon, Terrence William. The symbolic species: The co-evolution of language and the brain. No. 202. WW Norton & Company, 1998.
 (*) Tomasello, Michael. Constructing a language. Harvard university press, 2009.
 (*) https://greg-goode.com/article/logic-and-the-direct-path/ (last accessed: 2020-08-31)
-(*) https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/ (last accessed: 2020-08-31) (*) Blanshard, Brand. Reason and analysis (vols. 1 and 2). Routledge, 2014.
+(*) https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/ (last accessed: 2020-08-31)
+(*) Blanshard, Brand. Reason and analysis (vols. 1 and 2). Routledge, 2014.
+(*) Fricker, Miranda. Epistemic injustice: Power and the ethics of knowing. Oxford University Press, 2007.
