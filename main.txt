@@ -2384,6 +2384,7 @@ Contents
 (*) There is a "meta meta protocol" [sic] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
 (*) Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
 (*) Lots of things have the “flavor” or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re “not doing the meta protocol” but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s “going meta.” It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly.
+(*) You might simply ask, what are all the options/affordances, here, and which might be good right now to pick?
 (*) Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/feel for answers with the body, the mind, or the bodymind, or anything, or everything.
 
 
@@ -3070,6 +3071,10 @@ knowledge/awareness of reason/reasoning/“reason”/“reasoning”/“Reason�
 knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
 knowledge/awareness of credulity+naivete+{having no idea what's going on}
 knowledge/awareness of "reality pocket"
+knowledge/awareness of heaviness (h)
+knowledge/awareness of lightness (h)
+knowledge/awareness of world pockets
+knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
 
 
 p4:
@@ -3337,6 +3342,11 @@ p8:
 (*) What if life is suffering?
 (*) What if you’re being utterly carried and held in this physical world, this very moment, and this one?
 (*) What would happen if you were ok?
+(*) What are all the ways actual empathy could work?
+(*) What are all the ways perspective-taking could work?
+(*) Are you a person, through-and-through? Is it safe to not be a wholly a person or to not be a person, when/if needed?
+(repeat? *) Are you willing to have X forever?
+(repeat? *) Are you willing to be exactly this way forever? How would that look? What would you do right now in that world?
 
 
 
@@ -5260,3 +5270,4 @@ bibliography (incomplete):
 (*) https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/ (last accessed: 2020-08-31)
 (*) Blanshard, Brand. Reason and analysis (vols. 1 and 2). Routledge, 2014.
 (*) Fricker, Miranda. Epistemic injustice: Power and the ethics of knowing. Oxford University Press, 2007.
+(*) https://en.wikipedia.org/wiki/Enactivism (Last accessed: 2020-08-31)
