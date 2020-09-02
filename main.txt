@@ -3076,6 +3076,8 @@ knowledge/awareness of heaviness (h)
 knowledge/awareness of lightness (h)
 knowledge/awareness of world pockets
 knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
+knowledge/awareness of indeterminacy
+
 
 
 p4:
