@@ -3350,6 +3350,7 @@ p8:
 (*) Are you a person, through-and-through? Is it safe to not be a wholly a person or to not be a person, when/if needed?
 (repeat? *) Are you willing to have X forever?
 (repeat? *) Are you willing to be exactly this way forever? How would that look? What would you do right now in that world?
+(*) What is the true/actual (self-)language of the body(mind)?
 
 
 
