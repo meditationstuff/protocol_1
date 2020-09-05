@@ -399,7 +399,21 @@ lists and more
 	self and other; good and bad [draft]
 	prenatal experiences
 	direct and indirect people and group stuff
+teaching and learning and creating and relating (meditation and anything)
+	teaching
+		no one gets pixel-perfect possibilities
+		guided on-ramp for main practice p2 [draft]
+	learning
+		technical debt, meditation, and minds
+		a speculative comment on language learning
+		technical debt and inverse operations
+		merely just having the experience itself, and, technical debt is good, actually
+	relating
+		in-relationship foreclosing legacy of past interaction [stub]
+	creating
+		randomness/arbitrariness, unpunished, as necessary data [not yet written]
 bibliography (incomplete)
+
 
 
 introduction; getting over the hump; text interpretation:
@@ -5400,6 +5414,331 @@ cultural and historical “paranoia”, fear, trauma, etc.
 generational salience, trauma, and ideology from the past 10-50 years
 salience, trauma, ideology, colonialism from the past several hundred years
 belief, religion, cosmology from different parts of the world, seemingly going back thousands of years or into prehistory
+
+
+
+teaching and learning and creating and relating (meditation and anything):
+
+
+
+teaching:
+
+
+
+no one gets pixel-perfect possibilities:
+
+[Originally published: https://meditationstuff.wordpress.com/2020/09/03/no-one-gets-pixel-perfect-possibilities/ (Last accessed: 2020-09-05)]
+
+There’s an intuition I’m working on conveying, which I think applies to [all transformative practices, including the preliminary/auxiliary practices], everything.
+
+For those interested, maybe consider this color sorter:
+
+http://jackxmorris.com/posts/color-sort
+
+I would click on bubble sort. (I think this sorter doesn’t quite finish, but the analogy holds).
+
+[If the website dies or the images get lost: There’s this big square, still image image that looks mostly an ugly gray, with faint heterogeneity in its pixel colors, little glimmers of color. You can click buttons that say e.g. “bubble sort.” And, when one of the buttons is clicked, the pixels start to get sorted by an algorithm, and a columnwise rainbow starts to appear, filling the whole image, made up of only pixels that were already present, yet in an order that hid the potential rainbow. Finally, buggy-javascript-dependent, there’s a “perfect rainbow.”]
+
+There’s a low-key, leaky-abstraction sense in which there’s a real, true, final “pixel perfect” state of (body)mind, at the end of meditation. The abstraction leaks, in a bunch of ways, maybe, in that the mind doesn’t know or need to know, at the beginning what rainbows are, that they exist, that pixels exist, all sorts of stuff. And, there’s no perfect, no final end, no fixed goal, etc. And, from the inside, the process needs exploration, experimentation, creativity, and self-authority, not rote/mechanical color sorting.
+
+But, sort of, in some sense, (a) pixel-perfect precision, and (b) something like really-there, absolute, objective patterning/ordering (like a rainbow)— analogously, analogously, analogously—are a thing.
+
+My concern with circling, somatic experiencing, nedera, etc., is that they’re seductive in the ways that THEY PRODUCE EFFECTS unlike just about everything else that’s out there. They are true advances. I’m so grateful they exist.
+
+And/but, long-run, they sort of trade off on local versus global. Like, they can make little rainbows (highly valued breakthroughs, changes, something) in some local area, while fucking up a bunch of shit outside that local area, sometimes, in ways that are hard to detect and realize.
+
+(And it’s all fixable! It’s fine! Lossless rewind, long run. And, for any particular person, doing nedera or etc., is, for sure, the right strategic move for them, in terms of life situation or total path length, or whatever.)
+
+But, almost no system seems to get this “pixel-perfect” thing.
+
+(This is for sure not a denial of nebulosity, emptiness, etc. The “pixel-perfect” thing accounts for these. It’s just an analogy. It’s also beyond arhatship, though; it’s the deconditioning that continues, through proper practice, after arhatship.)
+
+There’s sort of this belief, maybe, with all these systems, that “if I just keep going,” either in a straight line or picking off issues, one by one, as they come up, then “that’s enough, that will get me what I’m looking for.”
+
+And there’s a sense in which that’s true:
+
+The mind IS always working on heading in the right direction, unwinding, unknotting, etc. The mind is ALWAYS working on doing the pixel-perfect thing. That’s what the mind naturally, spontaneously does.
+
+But.
+
+I can’t speak well to other systems, except for local interactions I have with practitioners in them, small-n impressions. But, I think with respect to those systems, and certainly with “meditation” we see side-effects, muscle tension, distress, plus sometimes a belief that “it’s part of the process,” or even “it’s somehow my own fault.” To be sure, even when meditation goes perfectly, it’s usually a rough ride. But when things get rough, people often start mashing buttons harder, because of the intermittent really good stuff that happens in the roughness. But the roughness isn’t long-run costless, depending on what the person is trying to ultimately do.
+
+In any case, there’s a loose mechanism, here, that I can point to, that’s one of the problematic things:
+
+When someone does (a) any sort of reaching, pushing, forcing, scraping the bottom, and then (b) sort of pivots to doing something else, in the next moment, without “cleaning up,” without “taking one’s foot off the gas”—that reaching, pushing, forcing, scraping tends to still be operative, in the “place that the person just was, e.g. attentionally.
+
+It’s like a pushy/reachy/grabby/scrape-y process gets left behind, that’s sort of operating mindlessly and autonomously, in the background, underneath stuff, and it’s dragging stuff around, in weird directions, kind of warping the whole system over time, if left long enough.
+
+And we all start out with “knots” and “slack” and/but these techniques, used unreflectively or not meta-systematically, eventually can start pulling those knots tight, which makes them long-run harder to unknot, and it leads to distress, behavioral rigidity, emotional suppression, and sometimes impulsive behavior or a diminished behavioral repertoire.
+
+Often, especially in the beginning ALL SORTS of good stuff will happen, because the bodymind is exercising new degrees of freedom and really smart about grabbing value, and these techniques are cool and brilliant.
+
+But, there’s also a sense in which they can and do make a mess, a mess that can keep getting worse autonomously, and they all have large tail risk, in my opinion. (So does my stuff, to be fair).
+
+There’s still all sorts of reasons to do these things–to learn new degrees of freedom for the bodymind, to meet cool people, to learn from people with lots of experience. And, the benefit/risk often comes down to the actual person leading, facilitating, mentoring, as well as the actual other people attending the event, because of interpersonal vibe and nonverbal stuff.
+
+And, when engaged reflectively, sensitively, responsively, meta-systematically, all of these tools, and/or the fine-grain best parts of them, have a place in personal practice, of course.
+
+But so few people seem to really get this “pixel perfect rainbow” thing, and so I see SO FEW mentors or teachers who are, in my opinion, correctly balancing local with global, short-run with long-run, when interacting with clients, students, workshop attendees, etc. Frankly, I think it’s because they haven’t gotten far enough to realize that this “pixel-perfect rainbow thing” is even a thing. But they absolutely could. And I could be wrong about something, etc.
+
+
+
+guided on-ramp for main practice p2: [draft]
+
+(a) let mind wander 30s-5 min
+
+(b) if notice your mind doing something “good,” just be like “alright, cool” 30s-5 min
+
+(c) if notice that could do/add something good, gently try [ok if bodymind does it for you], if can’t, gently take foot off trying gas completely. 30s - 5 min
+
+(d) if notice mind doing something “bad,” just be like “alright, that’s ok” 30s-5 min
+
+(e) if notice that you could stop something “bad” that’s already happening, gently try [ok if bodymind does it for you], if you find you can’t, just be like “alright, that’s ok” and gently take foot of trying gas completely 30s-5 min
+
+(f) if notice that you could stop something “bad” from starting, gently try [ok if bodymind does it for you], if you find you can’t, just be like “alright, that’s ok” and gently take foot off trying gas completely 30s-5 min
+
+
+
+learning:
+
+
+
+technical debt, meditation, and minds:
+
+[Originally published: https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/ (Last accessed: 2020-09-05)]
+
+>>>
+Technical debt (also known as design debt or code debt) is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.
+
+Technical debt can be compared to monetary debt.[3] If technical debt is not repaid, it can accumulate ‘interest’, making it harder to implement changes later on. Unaddressed technical debt increases software entropy. Technical debt is not necessarily a bad thing, and sometimes (e.g., as a proof-of-concept) technical debt is required to move projects forward. On the other hand, some experts claim that the “technical debt” metaphor tends to minimize the impact, which results in insufficient prioritization of the necessary work to correct it.
+
+https://en.wikipedia.org/wiki/Technical_debt (Last accessed: 2020-09-05)
+<<<
+
+People have really been liking this metaphor, so I thought it would be good to explicitly call it out in a post. It’s not even really a metaphor; it’s just what’s happening.
+
+When a mind is really surprised, or things are happening too fast, or something is just too hard, or a mind enacts ingrained bad habits, in all these cases a mind takes on technical debt in order to keep dealing with the world in real time. The more technical debt a mind has, the harder it is for that mind to solve problems moving forward, so technical debt begets more technical debt.
+
+Technical debt is hard to pay off. Sleep hacks away it and normal problem solving hacks away at it too. For the most part, though, most people are steadily accumulating technical debt their entire lives. That’s why you can’t teach an old dog new tricks or whatever, and I’m suspicious that e.g. the first-language learning window is anything special at all. I think that window closes because of normal processes that are always at work. (And second and nth languages get literally laid down in different places in the mind/brain.) That’s more elegant than supposing there’s like a special language learning window.
+
+One way to look at meditation is that correct meditation pays off technical debt faster than it accumulates until it’s all paid off. As far as I can tell, this is very related to why some traditions call the enlightened mind the natural state. All those invariant structures get shipped around or homomorphically transformed until everything is in the right place–all the gradients and attractive basins that are pushing or pulling all the time, all the things that a mind would want to do if it could only figure out how, that all gets to happen. As far as I can tell, minds are really only trying to do one thing all the time, somethingsomething elegance collapse in terms of a predictive world model or something.
+
+Most meditative practices or at least most practitioners’ interpretation of meditative practices actually increase technical debt!
+
+Most meditative practices or at least most practitioners’ interpretation of meditative practices actually increase technical debt!
+
+Most meditative practices or at least most practitioners’ interpretation of meditative practices actually increase technical debt!
+
+One can get all sorts of positive effects, for months or even years, but eventually things grind to a halt, the practitioner tangles themselves into a corner or piles just too much stuff onto too much stuff.
+
+In particular there’s a right way and a wrong way to use the maps or descriptions of valued states.
+
+If you’re like trying to directly see things as empty or you’re “trying on” spiritual perspectives or construals, or trying to get particular isolated things to stick, whether you succeed or not, you’re probably taking on technical debt.
+
+You can actually get some number of really real attainments, not fake versions, at the expense of increasing technical debt. But if you want all the attainments, or you want to make it all the way, you have to do it in a direction of decreasing technical debt.
+
+Are you increasing technical debt or paying it off in your practice? How can you tell?
+
+[See the meta protocol.]
+
+
+
+a spectulative comment on language learning:
+
+[Originally published: https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/#comment-1962 (Last accessed: 2020-09-05)]
+
+I predict that someone very far along on the meditative path, who puts in the time to learn a second language or to polish a second language that they learned after early childhood, will end up with that second language “mixed in” with their first language. In other words, the fluently multilingual advanced meditator will have a more similar brain, in the relevant ways, to a “natively multilingual” person, someone who grew up speaking multiple languages, than other later-in-life bilingual or multilingual individuals.
+
+It’s not automatic; you don’t get it for free by taking classes or something. You do have to do a special thing that looks more like meditation than study and practice, in addition to whatever else one normally does to learn a language (drill, immersion, etc.)
+
+Generally speaking, correct meditation “puts things in the right places” in the brain. And generally you learn how to learn better (across hundreds and hundreds if not thousands of hours).
+
+As I’ve gotten a taste for this, I have indeed thought about gaining “fluency all the way down” in a second or third language. It’s a very large time investment, though, some fraction of the total number of real-time hours of language use in one’s entire life thus far, because of how stuff gets laid down in the brain. And so I think the opportunity cost may be prohibitive. But it would be a finite amount of time, a non-insane thing that someone could reasonably do, and it’s on my maybe list.
+
+There are lots of cool things in this space, for social interaction, sports, intellectual abilities, stroke victims, PTSD… Anything that you use a brain for… This stuff is very, very, very cool.
+
+I currently believe that this works almost just as well for an eighty-year-old as a twenty-five-year-old meditator. The eighty-year-old may need a few thousand more hours to get to the bottom, depending on how learning and compression actually work, because they’ve been alive longer, but I imagine it’s pretty practically finite, all things being equal.
+
+I believe that the ways in which some subset of eighty-year-olds (or forty-year-olds or fifty-year-olds or thirty-five-year-olds) are mentally X is often or even usually because of “technical debt” and not some sort of cellular senescence or something. I think the operating characteristics are the same from one acquiring one’s first couple of wired-together neurons until (a little after) medical death. I think that the “technical debt” explanation is more elegant because there are sharp-as-a-tack 80-year-olds walking around, and even a confused 80-year-old is doing astonishingly complex real-time learning with their mind, in every waking moment, that is not really different in kind from a baby’s mind. I claim.
+
+
+
+technical debt and inverse operations:
+
+
+[Originally published: https://meditationstuff.wordpress.com/2020/07/10/technical-debt-and-inverse-operations/ (Last accessed: 2020-09-05)]
+
+
+[Thanks to one of my collaborators whose questions stimulated this post.]
+
+One could imagine a model of mind involving the accumulation and cancellation of technical debt. So, say, a person goes through life and has experiences of types A, B, and C, which add imprints of those experiences to their mind:
+
+ABC
+
+One could imagine experiences of these types accumulating further:
+
+ABC
+ABC
+
+But, let’s say a person has inverse operations -A, -B, -C. Then, while meditating, or in the midst of life, that person could apply those inverse operations to pay off technical debt:
+
+ABC -A
+ABC
+
+ BC
+ABC
+
+Let’s say the set of inverse operations, -A, -B, -C are enough for most life experiences. But, every once in a while something surprising and novel happens, like Z.
+
+ BCZ
+ABC 
+
+A person doesn’t have inverse operations for some things, so, all things being equal, over time, for an untrained mind, that person’s (body)mind will slowly accumulate technical debt over time.
+
+Additionally, say a person goes on vacation or starts taking long walks, all things being equal, they will only ever be able to pay off so much technical debt, because they lack inverse operations for “deeper accumulation.”
+
+   ZQRS
+DEF
+GHI
+...
+
+In the example above, even if a person pays off all their ABC, they’re still slowly accumulating new technical debt, and they don’t have inverse operations for older and very old technical debt D, E, F, G, H, I… (And, they’ll encounter more ABC in life, so there’s sort of a dynamic equilibrium that people find themselves in, absent meditation or other transformative practice.)
+
+(Recall, so-called “technical debt” reduces slack/creativity/flexibility in the mind and begets more technical debt.)
+
+Ok, so, part of what meditation is, is discovering new inverse operations and building (sometimes temporary) infrastructure to support (and discover) more inverse operations.
+
+So, an advanced meditator will be doing a tremendous amount of undoing, via a large collection of inverse operations, as well as plenty of creative doing, for learning and staging future learning, doing, and undoing.
+
+And, the very advanced meditator will sort of have a fine-grain “omnidirectional undoer” running at all times, and will effortlessly, costlessly, fully embody something like that, such that all their actions are sort of fluid and flexible and (relatively) “karmically free,” because all doing (and experiencing) is self-met with undoing, as needed. And, if something super surprising happens, and a lot of novel, not-yet-invertible accumulation happens, there’s a tremendous amount of latent skill that immediately starts puzzle solving for new inverse operations, as needed.
+
+To the degree people don’t eventually get overwhelmed with all their stuff, everyone already has a lot of inverse operations, as it were, and everyone does get new ones, in therapy, journaling, long walks, talking with friends, and so on. Though, for most people, they are net accumulating technical debt versus net decreasing technical debt, over time. And, learning to meditate, eventually, tips the balance of accumulation versus not to the side of net decreasing (nonmonotonically), over time.
+
+(Remember, local accumulation isn’t bad, in a vacuum; it’s extremely useful! Accumulation can be highly strategic for the purposes of future payoff, and so on.)
+
+It can take a long time to sort of “phenomenologically align” with “undoing as such” to sort of knowingly, directly facilitate, participate, allow it as it’s happening. It’ll of course have always already been happening, to some degree, and it comes to happen more and more, unreflectively, prereflectively, and spontaneously, too. Eventually, it’s just a seamless, costless, creative thing that’s happening a ton, along with everything else in the mind, that the mind anticipatorily and skillfully inclines towards, as needed.
+
+***
+
+So the above is sort of simplified intellectual model, that leaves out stuff about “concrete sensory impressions,” and much more.
+
+And the “real thing” is felt, sensuous, embodied (and intellectual, and daydreaming, and getting lost in life, and everything).
+
+One does more and more stuff that kind of maps-ish to the intellectual model above, by, well, meditating. Wellbeing, relief, insight can be clues of heading in the right direction, though plenty of clues feel pretty bleh, too, contextually.
+
+Meditation is felt wayfinding, meditation is felt puzzle-solving.
+
+
+
+merely just having the experience itself, and, technical debt is good, actually:
+
+[Originally published: https://meditationstuff.wordpress.com/2020/08/17/merely-just-having-the-experience-itself-and-technical-debt-is-good-actually/ (Last accessed: 2020-09-05)]
+
+Pre-notes:
+
+[Thank you to at least three different interactions amongst collaborators and students for inspiring this post and for some fun pieces.]
+
+[This is a draft.]
+
+[All my posts on “technical debt”: https://meditationstuff.wordpress.com/?s=technical+debt ]
+
+[There is a P.S. at the bottom.]
+
+I wanted to make sure that people don’t get too afraid of “accruing technical debt.” It’s a leaky abstraction, for one thing, even though it really, really fits.
+***
+
+Trying out a bunch of things, having a ton of plates spinning, keeping a lot of balls in the air, being in a new job, a new relationship, a new hobby—these kinds of things will tend to accrue technical debt. Prior to having put in tons and tons of meditation time, there’s sort of just too much going on to easily “integrate” in real time (or in stolen moments, or on long walks, or in meditation), because integration, when needed, takes real time, and sometimes a lot of time.
+
+One can tell they’re maybe accruing technical debt (accumulating karma, in another model) if they have to kind of use a bunch of willpower, or push through a bit, to show up for things or to get things done, some of the time—or, even if not being “pushy,” if one’s “mental checklists” kind of go into overdrive.
+
+There’s an arguable phrase in the software industry world, “always be shipping.” Maybe, here, it’s something like, “always be living.”
+
+Part of having a good life is sometimes doing a ton of stuff, that gets really ragged around the edges, and/or you get really ragged around the edges. But, that’s ok:
+
+Have all the experiences, so you know what’s out there and what you want!
+
+There’s a real/fake way in which there’s always enough time—like, even if things feel crazy, if you were to sort of put everything on your calendar and just show up to everything, that would just work, in some abstract fake world, that ignores how minds work. Everything fits on your calendar.
+
+But the mind doesn’t work like that, and you don’t work like that, and something would maybe break, somewhere, sometimes (demotivation, forgetting things, who knows). The felt complexity is sort of the “inelegances” bursting at the seams, the puzzle pieces that don’t quite fit because the bodymind hasn’t had time to kind of whirl it all around into settled-yet-shimmering elegance. Life sensemaking.
+
+And, so, sometimes, one needs a break, a weekend, long walks, a full-on retreat. And sometimes one needs periods of their life where they’re doing less, or, say, putting e.g. meditation first.
+
+But, when that’s not going on, maybe, then—”always be living.”
+
+It’s ok to bumble through, sometimes at max crazy complexity. Have all the experiences.
+
+***
+
+If one takes the meditation journey, which does require some time and space, during some periods, for various kinds of nonmonotonicities, including making it over various technical debt payback humps (this is is one place I sometimes equivocated-ly use the term “escape velocity”), then here’s what eventually happens:
+
+There’s a simplicity on the far side of complexity—successive “elegance collapses” (though it’s, on net, much more incremental than dramatic “collapses;” it’s tiny changes over a very long period of time, with maybe a few big whooshes).
+
+Most people, at first, have a few big “mind zones,” two to five, at least: different, big parts of mind space, or, like, maybe everything “in here,” and then everything “out there.” (Also, here’s another thing, too, that’s barely a metaphor: minds are also composed of layers and layers of “virtual machines”).
+
+What happens, through meditation, is that the whole thing starts to integrate and unify (cf. nonduality). There’s just eventually just “one thing,” and, rather than these “zones” having to spend a lot of time sort of translating back and forth across interfaces and impedance mismatch, with gazillions of buggy microservices all bumbling along, runaway processes spinning, with periodic reboots—over time, there’s just one single integrated thing, humming along.
+
+Further, mind (bodymind, memory, something), becomes more and more “content addressable.” [1,2] That is, the mind rearranges itself, more and more, so that “the right surfaces are exposed at the right times,” and information is shipped to where it needs to go, more and more efficiently, with less and less hops and, so, less and less time needed.
+
+(So there a way in which there’s dramatically less and less need for cognition, over time.)
+
+And, so, over time, more and more, MERELY JUST HAVING THE SENSORY EXPERIENCE ITSELF completely replaces “cognition.”
+
+Experience is memory is integration is anticipation, loosely speaking.
+
+Context switching, pre-prep, “post-prep,” becomes less and less of a thing. “How do you do so much? / I never leave my meditation cushion.”
+
+And so when the monk returns the marketplace with helping hands, they are vastly less likely to accrue technical debt, because everything is operating more efficiently, in this simplicity on the far side of complexity.
+
+In the steelmanned ideal, they’ll be able to do so much more—more responsibilities, more details, costlessly, effortlessly, easefully. (And they’ll be, proactively, both solving and dissolving that complexity along the way.)
+
+And, if they do accrue technical debt, as everyone does, in the course of even a single day, they can pay it down much more efficiently, because of extreme practice and skill at omni-directional “refactoring,” as it were.
+
+When things are too fast, too intense, too surprising, in a bad way, or a good way, technical debt will accrue and that’s fine! Over minutes, hours, days or weeks!
+
+It’s about having a good life, and that’s about having concrete, sensuous experiences, with other people, in all their messy contingency. And/but, one is more and more prepared for that, and it gets easier and easier, to just get lost in life in a good way.
+
+***
+
+[1] https://en.wikipedia.org/wiki/Content-addressable_memory
+
+[2] https://en.wikipedia.org/wiki/Associative_array
+
+***
+
+P.S. What of the cliche of “broken monks?”
+
+I’m claiming, long-run, meditation makes one more effective.
+
+But, if meditation has been around for thousands of years, where are all the Gandhi-Elon-Musks [sic]? That’s a really long conversation, involving sociology and epistemic viciousness, but here’s part of it:
+
+A key thing is multidimensional, relatively phase-decorrelated, nonmonotonicity. That is, things are getting better and worse along different dimensions and timescales, and, with enough complexity, something is always in a valley, some of the time: For a meditator in the middle of their journey, something’s always broken, at any given time, generally speaking.
+
+And, if a system is relatively fragile, in a technical sense, that is, if, say, four out of five or five out of five pieces are working, then system output is 90-100, but, if only three or four pieces out of five are working, then system output is two or three, then you get “broken monks.”
+
+Instead of five, you know, substitute millions, and so on. Anyway, that’s one piece of this.
+
+But, the whole journey is practically finite, and people do pop out on the other side, and so on. This is just a model, it’s messier than this, and there’s room for proactivity and slack, and so on, but most people will still have hard-to-predict, rough ride, in at least some places.
+
+And this is part of why there can be claims of effortless complexity, while at the same time having broken monks, while at the same time keeping an eye out for Gandhi-Elon-Musks.
+
+
+relating:
+
+
+
+in-relationship foreclosing legacy of past interaction: [stub]
+
+Past interactions in relationship preclude and foreclose types of interactions and concrete interactions in the future, unless actions are taken to (re(?)-)open those possibilities. Meta-communication is a route, that complements other routes, to that (re(?)-)opening.
+
+
+
+creating:
+
+
+
+randomness/arbitrariness, unpunished, as necessary data: [not yet written]
+
+An organism needs to be able to "randomly/arbitrary" experiment in order to generate data that becomes an input into learning.
 
 
 
