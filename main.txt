@@ -1,4 +1,4 @@
-v103 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
+v104 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”)
 
 
 
@@ -258,6 +258,7 @@ v99 20200824 e3aac9ab2cb9370f8ac96cb7dd4d5b3b6de3a206.rtf
 v100 20200831 8db595caf6e7b16c466cd1b8f5c0a9be53f7e803.zip
 20200831 7e970c91957b00aef1be97ea5dfc14a5ab3f975f.zip
 v102 20200905 50c7c33faffd05939eb1f5858e471902618f315a.zip
+v103 20200906 43f6d83b05857cef1aa6912c7c7b0f232c5f4acd.zip
 
 
 Credits: 
