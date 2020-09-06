@@ -605,13 +605,19 @@ n/a
 	- but however though
 	- therefore, in conclusion
 	- with, without, absent, present, less
+-	
+	- suppose OR let OR grant OR presume OR presuppose OR assume if OR when was OR were did OR didn't OR not had OR have been and OR but then would OR will OR might OR maybe OR could OR should OR shall OR notwithstanding OR nevertheless therefore OR thus conclus
+	- Abridgement of the Debates of Congress, from 1789 to 1856, Vol. I (of 16) by Thomas Hart Benton
+	- "if" "were" "then, if" "were" "then" "would" -math -programming -logic -computer -theory
 - [untitled]
 	- vagueness
 	- specificity
 	- precision
 	- grain
+-	
+	- X as X, X qua X, X as such, X conceived (of) as such
 - [untitled]
-	- 
+	- lemma trivial corollary	
 - [untitled]
 	- reference
 	- simile
@@ -801,6 +807,9 @@ https://en.wikipedia.org/wiki/Genus%E2%80%93differentia_definition
 (*) Friedrich Nicolovius, Königsberg. 1800. Immanuel Kants Logik: Ein Handbuch zu Vorlesungen (“Immanuel Kant’s Logic: A Manual for Lectures”). Library of Congress Cataloging-in-Publication Data Kant, Immanuel, 1724—1804. Logic. Translation of: Logik, 1800. Reprint. Originally published: Indianapolis : Bobbs-Merrill, 1974.
 Includes bibliographical references. 1. Logic. I. Title. B2794.L62E5 1988 160 88-3734 9780486117430 ## Copyright © 1974 by Robert S. Hartman and Wolfgang Schwarz. ## https://www.amazon.com/Logic-Immanuel-Kant/dp/0486256502/
 (*) de re, de dicto, de se
+============
+(*) https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem
+(*) https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction
 ============
 - tenses/aspects/modes/etc
 	- tense/aspect
