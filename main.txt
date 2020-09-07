@@ -63,6 +63,7 @@ Contents (simplified/elided):
 		solo practice (“main protocol”)
 			preliminary/auxiliary practices
 			main practice(s)
+			creativity(/unsticking) protocol
 		interpersonal practice
 			many protocol
 			alternative formulations
@@ -362,6 +363,9 @@ practice
 				p10 [experimental]
 			theory
 				incomplete, alternative renderings
+		creativity(/unsticking) protocol
+			what to do when nothing's happening/working
+			creativity(/unsticking) protocol
 	interpersonal practice
 		formulation 1 (including Many Protocol)
 		formulation 2
@@ -886,7 +890,7 @@ Anyway, we humans have a low-dimensional projection/representation of literally 
 
 
 
-ok-ness and cosmology
+ok-ness and cosmology:
 
 ///
 [Originally published: https://meditationstuff.wordpress.com/2020/06/22/ok-ness-and-cosmology/ (Last accessed: 2020-09-06)]
@@ -3835,6 +3839,55 @@ top-down permitting plus bottom-up undoing
 top-down surrender
 top-down surrender-to-enable plus bottom-up undoing
 bottom-up doing-to-undo / redoing-to-undo
+
+
+
+creativity(/unsticking) protocol:
+
+
+what to do when nothing's happening/working:
+
+[stub]
+
+Sometimes, especially somewhere near the very beginning, or eventually, it seems like nothing's happening, or nothing's working, or nothing's changing, or things are just as bad, or things are changing but nothing's actually getting better, or absolutely nothing is happening at all.
+
+In these times, maybe counterintuitively, it can be helpful to incline towards doing ever-less, not more. Trying and experimenting and "thrashing" can be loud. They can make it harder to detect subtle and new (to you; or old) POSITIVE LEAD INDICATORS.
+
+These might be things like subtle, distant puffs of relief, subtle, over-the-shoulder, was-already-there-at-least-in-the-moment-before memories or insights, subtle changes in muscle tension, and so on. And, it can also be very counterintuitive things or things that maybe feel bad but are actually in the right direction, slight changes in the "pattern of pixels" (not to inappropirately reify any of that), maybe a little patch in a region of bigger "pixels." Or voxels, or definitely don't inappropriately reify anything like pixels, voxels, space, time, etc., anything.
+
+So, it's important to explore how to "take the foot off the gas," sometimes, in times like these, to make it easier to detect and discern and find SUBTLE POSITIVE LEAD INDICATORS (which won't necessarily feel good, but "feels good" is an excellent heuristic).
+
+You might in particular explore the "do less" preliminary/auxiliary practice. It's not a panacea and, in my opinion, it generally won't take people "all the way," as per this whole document, but it's a good thing to explore while being careful of tangling or counterproductiveness, perhaps via the meta protocol.
+
+Over time, one can use patterns and meta-patterns to approximately predict aspects of the future.
+
+>>>
+https://twitter.com/meditationstuff/status/1301623971323015168
+
+[...] over time, one learns patterns of subtle lead indicators allowing navigation across larger & larger nonmonotonicities, to months of hardness where you're barely 51% sure, if that, that you're doing the right thing. it's fallible but practically doable, cf. buddha nature, etc. [...]
+<<<
+
+An example of the the above is knowing that even though things actually feel worse, you're 51% confident that something better is on the other side.
+
+Another example is, suddenly, you seemingly know *less* about something than you did before, but you stably rest in this, you don't claw back to knowing, you rest in this new unknowing (because you're confident that it's ok to do it, safe to do it, and you can do it), for seconds, minutes, many minutes, or a day or two, and you come out the other side, better off, knowing more or knowing differently.
+
+
+creativity(/unsticking) protocol:
+
+Intructions:
+
+(*) Do something you’ve never done before, that you can do and seems safe enough and ok to do, as best you can currently tell.
+(*) Repeat, over and over again, as needed.
+
+Notes:
+(*) In addition to "doing" something you've never done before, you might try bottom-up "allowing" or surrendering to something you've never allowed or surrendered to before (if it seems safe enough and ok enough). You might "participate" in something you've never participated in before...
+(*) Maybe that "something you've never done before" is wholly novel or maybe it's something deeply familiar, with a glimmer of novelty.
+(*) Maybe that "something you've never done before" is something *have* done before but you're doing it in a new way/manner, perhaps with a new implicit or explicit adverb, or, if it's transitive, you're doing it to a new thing.
+(*) If you have no "degrees of freedom," don't force. Just wait.
+(*) If you have very few "degrees of freedom," you might have to go “backwards” or “sideways” for a long time, through familiar things, to actualize the totally new thing, or it definitely might be immediately available or almost immediately available 
+(*) In addition to "safe enough" and "ok," you might also choose things that are fun, interesting, tolerable, engaging, attractive, exciting, strange, weird, things that youre curious about...
+(*) If you're very at a loss, you might go through preliminary/auxilliary practices you haven't tried. Or, whether or not you have tried them all, you might take p/a practices and change words or write them in your own words, and then that's your new thing. You can keep modifying them as per your intuitive interest or sense that they might be the right thing to do.
+(*) This might expand the space of things to do so much that it might be (even more) paralyzing, if you were already paralyzed on some dimensions. Will this work/terminate/something? Yes, Buddha nature, etc. Keep mixing in preliminary/auxiliary practices, main practices, the meta protocol, other tools, etc.
 
 
 
