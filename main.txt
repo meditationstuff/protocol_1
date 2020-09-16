@@ -6152,3 +6152,4 @@ bibliography (incomplete):
 (*) Fricker, Miranda. Epistemic injustice: Power and the ethics of knowing. Oxford University Press, 2007.
 (*) https://en.wikipedia.org/wiki/Enactivism (Last accessed: 2020-08-31)
 (*) Suarez, Hume, Descartes, Leibniz, Aristotle, Plato, Kant, Popper, Deutsch, Gendlin, Kripke, Wittgenstein
+(*) Clarke DD, Schubiner H, Clark-Smith MA, Abbass A, (2019) Psychophysiologic Disorders, Trauma informed, Interprofessional diagnosis and treatment, U.S.
