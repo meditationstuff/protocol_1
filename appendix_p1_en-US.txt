@@ -605,8 +605,9 @@ n/a
 	- but however though
 	- therefore, in conclusion
 	- with, without, absent, present, less
--	
-	- suppose OR let OR grant OR presume OR presuppose OR assume if OR when was OR were did OR didn't OR not had OR have been and OR but then would OR will OR might OR maybe OR could OR should OR shall OR notwithstanding OR nevertheless therefore OR thus conclus
+-	argument, argumentation, persuasion, evidence, deduction, explanation, reasoning
+	- suppose OR let OR grant OR presume OR presuppose OR assume if OR when was OR were did OR didn't OR not had OR have been and OR but then would OR will OR might OR maybe OR could OR should OR shall OR notwithstanding OR nevertheless therefore OR thus OR conclude OR conclusion
+	- suppose OR let OR grant OR presume OR presuppose OR assume if OR when was OR were did OR didn't OR not had OR have been and OR but then would OR will OR might OR maybe OR could OR should OR shall OR notwithstanding OR nevertheless therefore OR thus OR conclude OR conclusion "good" OR "bad" OR "better" OR "worse" OR "mora"l OR "ethical" OR "righteous" OR "kind" OR "right" OR "wrong" OR "just" OR "unjust" OR "should" OR "shouldn't" OR immoral in the sense relative to if then
 	- Abridgement of the Debates of Congress, from 1789 to 1856, Vol. I (of 16) by Thomas Hart Benton
 	- "if" "were" "then, if" "were" "then" "would" -math -programming -logic -computer -theory
 - [untitled]
