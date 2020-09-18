@@ -344,8 +344,9 @@ practice
 	body, self-trust, sensory processing, meaning
 	but is it meditation? (a dialogue between J and Mark)
 	practice in daily life or no?
+	what about concrete/proximal problems?
 	meta practice
-		meta protocol v1.5
+		meta protocol
 		meta meta protocol
 	solo practice (“main protocol”)
 		preliminary/auxiliary practices
@@ -2769,14 +2770,39 @@ There becomes just one seamless thing, with context dependent, manifold evolving
 So/but, anyway, here, in this practice system, we're sort of coming at this blurring/mixing, indirectly, from the practice side, rather than top-down trying to mix practice and daily life directly.
 
 
+what about concrete/proximal problems?:
+
+It’s ok to try to or to explore applying meditation to concrete or proximal problems. You might meditate/will/think/feel/etc. towards their being solved or dissolved, directly, in the context of your practice.
+
+In the course of that, if something starts to grind or jam, just make sure you sort of notice this as quickly as possible, and then “take your foot of the gas,” gently, fully stop trying, in that particular way you were trying, before you try something a little different or very different. (This helps to reduce the possibility of a “runaway proliferation of activity” or “leaving scaffolding or activity behind.” It’d be fine if you do leave stuff behind, and/but then you’d likely have to clean it up later, someway, somehow. And that’s fine, too; it just might cause handleable but undesirable problems in the meantime—it can increase the chances of some of the things in the “risks” section happening, in the worst case.)
+
+And things *will* probably grind or jam, within seconds or minutes, for an early- and middle-stage meditator, because of the nonarbitrary, structural relatedness of everything “in” the (body)mind. If things weren’t all intertwingled and dependently interrelated (at first) then one wouldn’t need to meditate! Problems would just sort of spontaneously unravel, solve, and dissolve themselves. (And they often do already! And, you don’t notice it! Because, it’s just spontaneously, effortlessly happening for lots of possible problems and desires and hopes and goals that never need to become problems and desires in the first place! That’s just what the mind does and is trying to do, in some sense, all the time, for everything, anyway. Sometimes it just needs a little help on the front end, and that’s what meditation is.)
+
+Meditation is *for* things. Meditation *is* concrete/proximal problem solving, though sometimes the solution involves going very oblique, very indirect, up to and including one’s entire cosmology, metaphysics, and the very seeming and experiencing of the world. And things can get rocky when that’s happening. But, sometimes, to solve a very important, concrete problem, that’s what one ends up needing to do.
+
+Part of why the concrete/proximal problem solving aspect of meditation is deemphasized or dismissed is because direct problem solving not only kind of tends to quickly grind or jam but because usually the “energy” or “directionality” of that problem-solving activity is what’s causing or perpetuating the problem in the first place.
+
+There’s a way in which that’s almost tautological or analytic (in the analytic versus synthetic proposition sense): The problem-solving activity, if crystalized as such, must somehow be trapping or preventing solution pieces inside of itself, in some sense. Otherwise, the problem would have never become a problema in the first place, in some sense—it would have somehow been automatically, spontaneously, effortlessly handled at some point in the past. So, while/when a goal or problem-directedness is fixed/frozen/crystallized, problem solving potentiality is sort of trapped within it. But, if that goal or problem-directeness can relax, let go, recede, lose momentum, become fluid, then those solution pieces can be released and sort of mix profitably with the rest of the space, and then suddenly (or gradually/eventually) the solution might become clear or the problem might dissolve.
+
+So trying to solve some problems “directly,” and trying to solve problems directly with meditation, can sort of be a trap. But, it’s ok to play with it, and try, because solving and dissolving problems is kind of the point, whether it happens directly or indirectly.
+
+Note, of course, “dissolving problems” can be a huge space of coming to want different things over time because “you and your bodymind” decide those things are much better than the things you wanted before, intrinsically, or because lots of knock-on problems just sort of fall away.
+
+In the meantime, and forever, it’s ok to want money, mansions, anything. It’s ok to want whatever kind of life you want, and it’s ok to want your life to feel however you want it to feel. (The “endless non-end non-state” can be exciting, engaging, passionate, interesting, playful…)
+
+The ways in which you’re “hey wait a second,” to any of the above, are part of the inputs to meditation. If you’re concerned “enlightenment” or mansions or money won’t make you safe or happy, then, through meditation, you might turn towards having merely “enough” money (which might be a little bit or might be billions), and being the kind of person that can participate in every more stable and expansive intimate care relationships. And politics. Who knows.
+
+Even if embodying “no-self” and nonduality (or whatever), the system will still be moving towards homeostasis and procreation (all things being equal) across all time horizons, and all sorts of things interrelated with those.
+
+It’s ok to try to get specific, concrete things, and it’s ok to try to use meditation to get them—especially as one gets farther along, as the system becomes more and more nonarbitrarily fluid. And sometimes, when directness doesn’t work, the right thing to do will be to let things go, to incline towards indirect, oblique, provisional, noncommital openness, when one can, to facilitate the solving and dissolving of one’s problems, in ways that couldn’t be appreciated, pursued, or conceived, ahead of time.
+
+
 
 meta practice:
 
 
 
 meta protocol:
-
-v1.7 (Last updated: 2020-07-20; 05:06 CDT)
 
 Contents
 (0) Notes
@@ -6153,3 +6179,4 @@ bibliography (incomplete):
 (*) https://en.wikipedia.org/wiki/Enactivism (Last accessed: 2020-08-31)
 (*) Suarez, Hume, Descartes, Leibniz, Aristotle, Plato, Kant, Popper, Deutsch, Gendlin, Kripke, Wittgenstein
 (*) Clarke DD, Schubiner H, Clark-Smith MA, Abbass A, (2019) Psychophysiologic Disorders, Trauma informed, Interprofessional diagnosis and treatment, U.S.
+(*) practice on perceptual forms herbert demmin
