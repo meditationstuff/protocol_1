@@ -6170,7 +6170,7 @@ bibliography (incomplete):
 (*) Churchland, Paul M. Plato's camera: How the physical brain captures a landscape of abstract universals. MIT press, 2012.
 (*) Anderson, Michael L. After phrenology: Neural reuse and the interactive brain. MIT Press, 2014.
 (*) Simon, Herbert A. "Bounded rationality." Utility and probability. Palgrave Macmillan, London, 1990. 15-18.
-(*) [maybe not best translation] Pettit, John W. Mipham's beacon of certainty: illuminating the view of Dzogchen, the Great Perfection. Vol. 2. Simon and Schuster, 1999.
+(*) Pettit, John W. Mipham's beacon of certainty: illuminating the view of Dzogchen, the Great Perfection. Vol. 2. Simon and Schuster, 1999.
 (*) Kim, Hee-Jin. Dogen on Meditation and Thinking: a Reflection on his View of Zen. SUNY Press, 2007.
 (*) Deacon, Terrence William. The symbolic species: The co-evolution of language and the brain. No. 202. WW Norton & Company, 1998.
 (*) Tomasello, Michael. Constructing a language. Harvard university press, 2009.
@@ -6182,3 +6182,5 @@ bibliography (incomplete):
 (*) Suarez, Hume, Descartes, Leibniz, Aristotle, Plato, Kant, Popper, Deutsch, Gendlin, Kripke, Wittgenstein
 (*) Clarke DD, Schubiner H, Clark-Smith MA, Abbass A, (2019) Psychophysiologic Disorders, Trauma informed, Interprofessional diagnosis and treatment, U.S.
 (*) practice on perceptual forms herbert demmin
+(*) Drescher, Gary L. Good and real: Demystifying paradoxes from physics to ethics. MIT Press, 2006.
+(*) Ryle, Gilbert. The concept of mind. Routledge, 2009.
