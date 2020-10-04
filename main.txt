@@ -6193,3 +6193,4 @@ bibliography (incomplete):
 (*) Bader, Michael J. Arousal: The secret logic of sexual fantasies. Macmillan, 2003.
 (*) Casati, Roberto, and Achille C. Varzi. "Holes and other superficialities." (1994).
 (*) Rosen, Robert. Life itself: a comprehensive inquiry into the nature, origin, and fabrication of life. Columbia University Press, 1991.
+(*) Johnson-Laird, Philip Nicholas. Mental models: Towards a cognitive science of language, inference, and consciousness. No. 6. Harvard University Press, 1983.
