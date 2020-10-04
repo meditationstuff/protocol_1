@@ -6184,3 +6184,4 @@ bibliography (incomplete):
 (*) practice on perceptual forms herbert demmin
 (*) Drescher, Gary L. Good and real: Demystifying paradoxes from physics to ethics. MIT Press, 2006.
 (*) Ryle, Gilbert. The concept of mind. Routledge, 2009.
+(*) Mitchell, Stephen. Tao te ching.
