@@ -6194,3 +6194,11 @@ bibliography (incomplete):
 (*) Casati, Roberto, and Achille C. Varzi. "Holes and other superficialities." (1994).
 (*) Rosen, Robert. Life itself: a comprehensive inquiry into the nature, origin, and fabrication of life. Columbia University Press, 1991.
 (*) Johnson-Laird, Philip Nicholas. Mental models: Towards a cognitive science of language, inference, and consciousness. No. 6. Harvard University Press, 1983.
+(*) https://en.wikipedia.org/wiki/Stephen_Grossberg
+(*) https://en.wikipedia.org/wiki/Judea_Pearl
+(*) Pearl, Judea. Causality. Cambridge university press, 2009.
+(*) Jaynes, Edwin T. Probability theory: The logic of science. Cambridge university press, 2003.
+(*) https://en.wikipedia.org/wiki/Karl_J._Friston
+(*) Smith, Brian Cantwell. "On the Origin of Objects. A Bradford Book." (1996).
+(*) Feinstein, Alvan R. "Clinical judgment." (1967).
+(*) Hurlburt, Russell T., and Sarah A. Akhter. "Unsymbolized thinking." Consciousness and Cognition 17.4 (2008): 1364-1374.
