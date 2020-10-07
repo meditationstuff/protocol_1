@@ -347,8 +347,8 @@ practice
 	what about concrete/proximal problems?
 	meta practice
 		meta protocol
-			collaborator reformulations
-				collaborator reformulation 1
+			collaborator formulations
+				collaborator formulation 1
 		meta meta protocol
 	solo practice (“main protocol”)
 		preliminary/auxiliary practices
@@ -2854,10 +2854,10 @@ Offline Generative, While Taking a Break from Meditating:
 	How are you currently coming to know, or, how might you come to know, about additional possibly contextually good things to do, that you’re not currently doing, or not doing at all the times they might be good to do, or have never done before, as far as you can currently tell? What are some things you’ve never done before that might be good to do, as far as you can currently tell? How might you come to do those possibly good things at possibly good times, as far as you can currently tell?
 
 
-collaborator reformulations:
+collaborator formulations:
 
 
-collaborator reformulation 1:
+collaborator formulation 1:
 
 so, a quick rephrase of the meta protocol:
 
