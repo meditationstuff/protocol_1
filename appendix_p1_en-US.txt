@@ -357,6 +357,12 @@ n/a
 	- soon. Just. Now. As. Yet. Beginning. End. Start. Finish. Complete. Final. Simultaneously. Synchronously. Unison. Lockstep. At. When. During. Moment. Time. Interval. Duration. Place. Adjacent. Above. Below. Sidelong. Aside. Bestride. Under. Underneath. Along. Near. Far. In front. Behind. Inside. Within. Without. At the entrance. At the opening. Boundary. Inner. Outer. Between. Across. Left. Right. Side. 
 -
 	- still, as, yet, until, since, while, during, before, after, at, when, start, end, at this time
+-
+	- axiomatics (...)
+		- It’s possible that X/Y is true/false, and, if it is so the case, then, it’s impossible that X/Y is (also) true/false.
+		- It’s possible that X/Y is true/false, and, if it is so the case, then, it must be so, too, that X/Y is (also) true/false.
+		- One of X or Y can be true/false, or neither, and/but both X and Y can’t be true/false at the same time.
+		-Given Z, if X, then Y.
 
 - address
 	- Writer
@@ -617,6 +623,8 @@ n/a
 	- grain
 -	
 	- X as X, X qua X, X as such, X conceived (of) as such
+-
+	- "neither separate nor identical" [dc]
 - [untitled]
 	- lemma trivial corollary	
 - [untitled]
