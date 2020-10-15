@@ -4404,3 +4404,23 @@ comment:
 body and head:
 
 Let both body and head “test/check for done”/yes/no/good/bad/etc.
+
+
+X milliseconds before:
+
+Explore the first X (10, 20, 50, 100, 500) milliseconds before something.
+
+
+first X milliseconds:
+
+Explore the first X (10, 20, 50, 100, 500) milliseconds of something.
+
+
+deciding border:
+
+Explore the nebulous border between haven’t decided to meditate yet and having decided to meditate, at the millisecond level (or tens or hundreds of milliseconds).
+
+
+meditating border:
+
+Explore the nebulous (or not) temporal border between not (yet) meditating and now meditating, at the millisecond level (or tens or hundreds of milliseconds).

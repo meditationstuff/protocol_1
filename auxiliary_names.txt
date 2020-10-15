@@ -842,3 +842,7 @@ empty justifications
 weighty feeling/memory
 let your body solve it
 body and head
+X milliseconds before
+first X milliseconds
+deciding border
+meditating border
