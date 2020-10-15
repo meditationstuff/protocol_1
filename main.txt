@@ -93,6 +93,8 @@ preamble [draft!]:
 
 an exoteric doctrine: (v0.2)
 
+[Note, immediately below, it might seems like "nebulosity" or "emptiness" isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase.]
+
 Objective and singular truth exists (and/or objective reality exists and objective truth corresponds to it).
 
 Objective and singular goodness(/ethics/morality) exists.
@@ -1164,11 +1166,12 @@ If an adult has childhood confusions or uncertainties or inabilities and/or (by 
 
 A person manages always-triggerable lower layers by reducing the scope of their lives (never entering particular situations), creating controlled situations (only entering situations that they themselves have carefully prearranged), managing attention in situations (carefully using actuation to manage the sensation stream), or arranging temporary compensatory sinks (teeth-gritting, white-knuckling, stomach-clenching, etc.). [An alternative, of course, if resources are available, is to take the time to naturalize layer after layer, to find noncompensatory solutions and thereby widening the scope of life.]
 
-A person will have learned to manage some of their lower layers. But, typically, many layers (and “pockets”) will not be well-managed. A further complication is that lower layers, while not always, tend to be occluded and so can be affected outside of awareness and those effects may be hard to infer from downstream, ramified experiences. In short, it’s possible for vulnerable lower layers to become traumatized or further traumatized.
+A person will have learned to manage some of their lower layers. But, typically, many layers (and “pockets”) will not be well-managed. A further complication is that lower layers, while not always, tend to be occluded and so can be affected outside of awareness and those effects may be hard to infer from downstream, ramified experiences. In short, it’s possible for vulnerable lower layers to become traumatized or further traumatized. (A way to restate this is that tubes can be receiving input from the outside world, but that reception and its proximal downstream effects might be outside personal awareness (though potentially evident in behavior that's observable by other people), and distal downstream effects (eventually, in milliseconds to days) *will* be in personal awareness, though not connected to the relevant (maybe high-dimensional, thin-slice) "causes" from the world. Over time, a person gets ever-better at connecting inputs/causes to effects.)
 
 It gets worse in that everyone, at all layers have both functional ontologies as well as remaining blooming, buzzing confusion (as per William James). That is, everyone has patterns of input that can produce hard to predict effects in the system. This is a further dimension of vulnerabilitiy.
 
 To explain further, when we were at our youngest, while we have genetic predisposition towards certain types of interpretations, the world doesn’t come pre-given. We have to assemble feeling, sound, light, touch, etc., into appearances, inferred objects, causal relations, and proactive management of self and environment. Prior to this, and always alongside this, there is blooming, buzzing confusion. There is “static,” “noise” limning the edges of experience and even shot through all of experience, the “feel of reality.”
+
 
 part X: the demon-haunted world and science as a candle in the dark (as per Carl Sagan):
 
@@ -1366,23 +1369,28 @@ Because the subtle signs are harder to detect and sometimes can’t be detected 
 (*) narrow interaction patterns—can only interact with them in a certain way because if don’t then they won’t engage or don’t even seem to understand
 (*) things that they say are wrong, according to them, are all wrong and completely dismissed, can’t find partial value in things or evaluate things with nuance.
 (*) if the good sides of other teachers or teachings are considered, it’s mere lip service and subtle body language or even subtler things is dismissing those teachers or teachings whole-cloth and also dismissing you for even considering their value
-(*) body language or tone implying you’re not even wrong, that you’re question, consideration, position has no value and that you don’t have any value.
+(*) body language or tone implying you’re not even wrong, that your question, consideration, position has no value and that you don’t have any value.
 (*) they imply other teachings, other goals, other plans, other groups have no value
 (*) if “caught out” or forced somehow to interact outside of their normal,narrow window they might become very anxious or very angry
 (*) holding up very narrow patterns of behavior (like particular types or styles of interactions) as universally good and that all other interaction styles are bad
 (*) in general they’ve created a “closed universe” around themselves where only a very narrow range of things can happen, even if a small number of those things are cool, impressive, or in some way world-facing.
 (*) interacting with them will have a “hermetically sealed” quality, where they’ll have an immediate “cached” or “cued up” answer to every possible concern, objection, accusation, etc. You’ll know it’s cached because of the speed of the response as well as the ways it doesn’t quite address the issue raised but seems to talk past it or not consider it freshly.
 (*) interacting with them will have a “never quite reaches them” feel, in that, even if your position is restated by them, it will be a “frankencreation” in their own concepts or their own perspective and your actual position will be discarded or dismissed by them. You’ll know this by how their restatement seems to “do harm” to your position makes it less accessible to you.
-(*) acting like their “logical” arguments are complete, closed, final, and dominating. playing with definitions of words or philosophical ideas in order to win an argument. becoming extremely abstract or meta—needing to hairsplit premises as a way to win an argument. needing to win all arguments or to dismiss the other position is not even wrong or not worth engaging in.
+(*) acting like their “logical” arguments are complete, closed, timeless, eternnal, acontextual, true everywhere, final, and dominating. playing with definitions of words or philosophical ideas in order to win an argument. becoming extremely abstract or meta—needing to hairsplit premises as a way to win an argument. needing to win all arguments or to dismiss the other position is not even wrong or not worth engaging in.
 (*) takes advantage of “good-faith, good-will to resolve disagreements to get to the bottom of things,” takes advantage of “mutual” understanding as a way to get more airtime and sink hooks in, with no intention or even necessarily ability to understand or gain insight from your position, perspective, feelings, etc.
 (*) the person has created carefully structured or cultivated groups, organizations, etc. in an attempt to have people behave in a very specific way (because they really need people to interact in a very specific way or they need the world to work in a very specific way, and this is their starting point or safe haven)
 (*) in general any hint of rigidity in behavior or what can happen around them or black-and-white-ness or foreclosing or shutting down the behavior of others is at least a yellow flag. If they want a particular type of interaction that can be ok, but if it seems like they can’t handle something else even for a second or they’re white-knuckling or teeth-gritting through part of something until they can get the thing they want, that’s a yellow flag.
 (*) particular advocacy for the world being unsafe or bad: doom, apocalypse, collapse, etc. [That’s not to say such things might or might not be true, but claims of their truth are part of a lever to control other’s behavior.]
+(*) they speak of elements of human interaction like they're "tools" or "toolkits" [cf. "tool-ification"*]; they turn human relating into checklists, flowcharts, actions and responses. and, some people have the tools, or know how to use the tools, and some people don't.
+(*) they tell you about yourself, they make a "package" [cf. "packaging"] of it, they say "this is you, and this is how you work, and this is what you're experience is and what it means," in words/ideas/concepts that make you doubt the legitimacy/safety/goodness/poewr of your own ongoing experience and active self-care, and your interpretation of that experience and active self-care
+(*) they claim the presence of unseen/unfelt forces/happenings/causes/effects, and you feel pressure to acquiesce to their claims or to their ontology, or that there's no "surface," space, time abundance, safety, something to question their claims, directly to them, or to other people
 (*) […]
 
 See also:
 
 Amor, Aleaxandra. Cult, A Love Story: Ten Years Inside a Canadian Cult and the Subsequent Long Road of Recovery. Fat Head Publishing, 2013.
+
+*"tool-ification" is someone else's term, and I might not be using it correctly
 
 
 part X: incomplete list of relatively succinct concepts/definitions
@@ -3564,6 +3572,10 @@ knowledge/awareness of clawing
 knowledge/awareness of [active] directionality 
 knowledge of fragility
 knowledge of safety
+knowledge/awareness of error
+knowledge/awareness of suffering as such
+knowledge/awareness of reification as such
+knowledge/awareness of impermanence as such
 
 
 p4:
@@ -3837,6 +3849,8 @@ p8:
 (repeat? *) Are you willing to have X forever?
 (repeat? *) Are you willing to be exactly this way forever? How would that look? What would you do right now in that world?
 (*) What is the true/actual (self-)language of the body(mind)?
+(*) What is your lifeworld built out of?
+(*) What for you is context bound?
 
 
 
@@ -3954,9 +3968,11 @@ what to do when nothing's happening/working:
 
 Sometimes, especially somewhere near the very beginning, or eventually, it seems like nothing's happening, or nothing's working, or nothing's changing, or things are just as bad, or things are changing but nothing's actually getting better, or absolutely nothing is happening at all.
 
-In these times, maybe counterintuitively, it can be helpful to incline towards doing ever-less, not more. Trying and experimenting and "thrashing" can be loud. They can make it harder to detect subtle and new (to you; or old) POSITIVE LEAD INDICATORS.
+In these times, maybe counterintuitively, it can be helpful to incline towards doing ever-less, not more. Trying and experimenting and "thrashing" can be loud. They can make it harder to detect subtle and new (to you; or old) [SUBTLE] POSITIVE LEAD INDICATORS.
 
 These might be things like subtle, distant puffs of relief, subtle, over-the-shoulder, was-already-there-at-least-in-the-moment-before memories or insights, subtle changes in muscle tension, and so on. And, it can also be very counterintuitive things or things that maybe feel bad but are actually in the right direction, slight changes in the "pattern of pixels" (not to inappropirately reify any of that), maybe a little patch in a region of bigger "pixels." Or voxels, or definitely don't inappropriately reify anything like pixels, voxels, space, time, etc., anything.
+
+More: right-there-over-your-shoulder-there-all-along-at-least-for-a-little-bit creeping sense of something, a faint dreamy, dreamlike dawning around the edges, little phenomenological glimmers in strange inner spaces, little bits of somatic/muscle refactoring, faint, distant puffs of “relief,” somatic tingles...
 
 So, it's important to explore how to "take the foot off the gas," sometimes, in times like these, to make it easier to detect and discern and find SUBTLE POSITIVE LEAD INDICATORS (which won't necessarily feel good, but "feels good" is an excellent heuristic).
 
@@ -6258,3 +6274,4 @@ bibliography (incomplete):
 (*) Smith, Brian Cantwell. "On the Origin of Objects. A Bradford Book." (1996).
 (*) Feinstein, Alvan R. "Clinical judgment." (1967).
 (*) Hurlburt, Russell T., and Sarah A. Akhter. "Unsymbolized thinking." Consciousness and Cognition 17.4 (2008): 1364-1374.
+(*) Leonard, George. Mastery: The keys to success and long-term fulfillment. Penguin, 1992.

@@ -847,3 +847,4 @@ first X milliseconds
 deciding border
 meditating border
 finer grain
+try treating change like digital logic
