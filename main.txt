@@ -1,4 +1,4 @@
-v105 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol")
+v106 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol")
 
 
 
@@ -261,6 +261,8 @@ v100 20200831 8db595caf6e7b16c466cd1b8f5c0a9be53f7e803.zip
 v102 20200905 50c7c33faffd05939eb1f5858e471902618f315a.zip
 v103 20200906 43f6d83b05857cef1aa6912c7c7b0f232c5f4acd.zip
 v104 20200907 af027327a873b98cf6bb9215828e04d4de79faf4.zip
+v105 20201015 08b3bca342190d3a91b1960cd05c018b5491de29.zip
+
 
 
 Credits: 
