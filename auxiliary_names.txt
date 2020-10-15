@@ -846,3 +846,4 @@ X milliseconds before
 first X milliseconds
 deciding border
 meditating border
+finer grain
