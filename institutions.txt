@@ -1,0 +1,226 @@
+A preliminary sketch theory of (ideal?) institutions:
+
+A (successful) institution is a pattern of multi-person human activity that (can (and does?)) outlast the particular individual humans that are participating in it at any given time.
+
+Therefore, somewhat analytically, an institution is a pattern of enacted roles, of which those roles are enacted by particular people at any given time.
+
+Those roles enact functions, so a role could be enacted by one person, or the whole group of people who comprise the institution, or a subgroup.
+
+Roles interlock to comprise a mission.
+
+Let it be given that everything is ontologically open, nebulous, empty, provisional, non-eternally-reifiable(and patterned).
+
+Therefore, any institution with eternalist (or nihilist) DNA will eventually fail when the condition/context/environment of the institution changes enough) because DNA must fit/match/something the environment enough in order to function. Because, the institution will not being able to change enough or quickly enough to preserve its open pattern/interaction with the environment.
+
+Thus, a lasting institution must be able to rewrite its roles, function, mission, etc. This is a succession problem and an identity problem. Since there is no eternalist identity, a successful institution must, in lieu of identity(???), must preserve its causal history, by continuously extending it. (The causal history can be transformed, over time, under structure-/pattern-preserving transformations.)
+
+So, a successful institution must select new people for roles in a way that preserve functions (successful succession), especially including such functions as role-rewriting and causal history preservation and extension. Successful succession includes knowledge preservation and transfer, perhaps as part of an extended causal history. (If someone fully knows how something came to be, they can later it without needing to fully repeat or rediscover past mistakes. This may be a precondition of doing anything truly new at all.)
+
+(Computers (automation) and text (signs, labels, documents) can almost completely fulfill some roles, at some times.)
+
+A structurally fluid institution cannot stay “bad” for very long. Note that “structurally fluid” necessitates both “structure” and “fluidity.”  Fluidity allows for change, for continued (moral) responsivity and accountability (under inexorable, ongoing environmental/contextual change) and structure allows for pattern preservation under change or even assault/attack.
+
+Institutional structural fluidity necessitates individual structural fluidity, I.e. deconstrained/fluid/loving people, who can take on roles that can rewrite roles. If such people cannot be found and recruited from the context/environment (because they don’t exist in that period in history or they are doing other more important things) then such individuals must be “trained”(?)/facilitated/fostered/something by the institution.
+
+***
+
+some brief discussion:
+
+
+Collaborator c:
+
+> successful institution [...] outlast the particular individual humans
+
+hmm, what do we make then of a group that can/does rewrite its roles/function/mission to adapt, but isn't solving the succession / turnover problem?
+e.g. that works because it is a set of deconstrained/fluid/loving people with mutual trust & the above abilities, but not either A. situated in a context where people can be found & trained, nor B. successfully mentoring/fostering them
+and so has a natural end-of-life baked in?
+
+(e.g. a marriage!) (although a marriage can operate as a sub-institution within an "extended family" that may incorporate new people via births and marriage; the dyad itself is a "member" with a role in the super-institution)
+
+
+Mark:
+
+Right, I think a group of particular people could be called a different theoretical thing? Maybe just a... group??? And then maybe individual marriages vis-a-vis the institution of marriage is a different thing?? institution_X? Maybe the nomenclature is bad!!
+
+
+c:
+
+I like "group". "A successful group is [...]. And an *institution* differs from an ordinary group in that [something about succession/turnover]"
+
+now how does a "community" differ from an "institution" in this framework? :wink:
+
+
+Mark:
+
+i’m sure in interesting and important ways!!
+
+
+Mark:
+
+Apoptosis vs necrosis, too.
+
+Institutions should probably have an apoptosis, hibernation/hiatus, and full-on Phoenix functions, too.
+
+
+Collaborator mo:
+
+Mmmm! I resonate with this more than I thought I would when I first saw "an institution is a pattern of enacted roles" because that seemed like too low of an abstraction layer or something. I still feel like there are lots of differences in how I'm thinking about it but I'm not sure how to clarify.
+
+I like this bit:
+
+> Institutional structural fluidity necessitates individual structural fluidity
+
+and the bit about potentially needing to train people. Have been staring at his thing for awhile trying to figure out how it's going to work, and the extent to which training people within a training org works, ie an org whose primary role is training people, or if it's actually better to have an org with an object-level purpose, or at least a substantial amount of meaningful/progressful object level work to do (progressful ie not just upkeep of eg a house or property, but actually effecting change). Definitely tradeoffs. Ideal situation might contain progressful work with few time pressures, so that quality-of-thinking is never sacrifice to meet a deadline, but you can still assess how the meta stuff is affecting capacity to perform on the object level. "Does it grow corn?"
+
+
+Mark:
+
+“training”/“teaching” would probably/hopefully mean leaving people alone… a lot. i assume just like with functional research orgs/institutions? and monasteries? (though monks don’t have a lot of downtime???) i don’t think anything new and valuable or humane is possible without a lot of downtime.. flexibility, aimless meandering use of personal time, i think
+
+
+c:
+
+ugh, RE training, I definitely have this general "ugh" around "mentorship" as it's usually sold/marketed by like "mentorship programs". it's such bullshit! [... could unpack that but for now will just go "bleh" at it]
+
+
+mo:
+
+I recently hired a friend of mine as "mindset coach" and that has been an amazing relationship so far
+
+and so different because I reached out to him rather than him trying to pitch me
+
+
+Mark:
+
+> ugh, RE training, I definitely have this general “ugh” around “mentorship”
+
+what about idek abbot or rinpoche or master (as in gender-neutral skill level). idk, hard.
+
+
+mo:
+
+what about them?
+
+c:
+
+vs "mentor" or "coach" or w/e? (edited) 
+
+
+c:
+
+mm. my thought in response - which is veering in yet another offshoot direction - is that it's good to have elders AND it's good to have some "system" for establishing common knowledge of who is/isn't elders of what sort, to avoid rampant generic status competition on elder-ness (edited) 
+
+
+c:
+
+and yes, feels better. "mentorship programs" are very, like, "push" model, like the mentoring is pushed upon the mentee
+
+abbot/master/etc. feels kind of "pull" model, like the student noodles around and then has nudges or structured times to... just ask stuff.
+
+
+Mark:
+
+nice
+
+
+Collaborator ev:
+
+> Therefore, somewhat analytically, an institution is a pattern of enacted roles, of which those roles are enacted by particular people at any given time
+
+What do you mean by roles here?
+
+
+Mark:
+
+> What do you mean by roles here?
+
+archivist, teacher, cook, bookkeeper…
+
+strategist, leader, idk
+
+
+ev:
+
+strong intuition that that’s the wrong level of aggregation
+
+this will be gesturing
+
+you don’t need a Bookkeeper, you need the books to be done
+
+
+c:
+
+(Responsibilities rather than Roles?)
+
+
+Mark:
+
+> (Responsibilities rather than Roles?)
+
+not bad
+
+
+ev:
+
+you don’t ned the books to be done, you need:
+to know how much money you have so you know how much you can spend
+to find theft
+to appease any authorities re: taxes and things
+probably other stuff
+
+and both the goals met by bookkeeping and the way you meet existing goals can change
+
+which I think is what Mark is getting at with “change must be in DNA or institution will eventually lose environmental fit”
+
+
+Mark:
+
+contingent consideration clusters, idk. there is probably a single english word.
+
+
+mo:
+
+> contingent consideration clusters
+I like this phrase aesthetically, separate from whether it's appropriate
+
+may not be a single english word as most single words are laden with baggage
+
+
+Mark:
+
+needs, functions
+
+
+ev:
+
+functions sounds like a much closer fit to me
+
+functions and goals, both of which can shift
+
+this also reminds me of charitable foundations founded 100 years ago, all of which have drifted severely leftward of their founders’ values
+
+
+Mark:
+
+The initial sketch also leaves out a lot of “empirical” sociological detail, like things gleaned from detailed past and contemporary case studies and analyses, maybe:
+
+one thing is that many people* have written about “infiltration” by idk “sociopaths,” “defectors,” something, who create little fiefdoms or power centers and defend them. or who warp the “pattern” of the org or its work product to make it more transmissable or monetizable or something but in ways that leave out value or create long-term fragility or something. so there needs to be a sort of memetic immune system, but without autoimmune illness (self-attacking healthy functions), and so on. many, many other things.
+
+Not all of this necessarily needs to be sketched out if deep DNA or other starting pieces are just right, like fluidity might metabolize these, and/but structural fluidity is HARD, and I suspect there’s tremendous hidden complexity and difficulty. And this message or above pieces might already be in the “wrong” ontology, level of detail, something. Like, conceptualizing “institutions as such,” as above, or e.g. “memetic immune systems as such,” as above, might already be self-defeating, because of how those conceptualizations as such sit/function in an environment, and so on.
+
+Proper meditation with enough resources to do it, transcends zero-sum, in the limit, and creates non-myopic, non-self-abnegating, kind, loving, compassionate competent, visionary, positive-sum collaborators, all things being equal, in the limit. But there's lots of complexity to be healthily metabolized, along the way.
+
+* https://meaningness.com/geeks-mops-sociopaths
+* https://defmacro.substack.com/p/how-to-get-promoted
+
+
+***
+
+See also:
+
+(*) https://meaningness.com/fluidity-desiderata
+(*) Robert, Jackall. “Moral mazes: The world of corporate managers.” (1988).
+APA
+(*) Flyvbjerg, Bent. Rationality and power: Democracy in practice. University of Chicago press, 1998.
+APA
+(*) Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. Veritas Paperbacks, 2020.
