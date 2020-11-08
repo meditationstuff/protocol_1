@@ -6277,3 +6277,4 @@ bibliography (incomplete):
 (*) Leonard, George. Mastery: The keys to success and long-term fulfillment. Penguin, 1992.
 (*) Kramer, Joel, and Diana Alstad. The guru papers: Masks of authoritarian power. North Atlantic Books, 2012.
 (*) Kent, William. Data and Reality: A Timeless Perspective on Perceiving and Managing Information. Technics publications, 2012.
+(*) Van den Bergh, Omer, et al. "Better safe than sorry: A common signature of general vulnerability for psychopathology." (2020).
