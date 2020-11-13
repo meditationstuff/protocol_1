@@ -3576,6 +3576,8 @@ knowledge/awareness of error
 knowledge/awareness of suffering as such
 knowledge/awareness of reification as such
 knowledge/awareness of impermanence as such
+top-down person-ing [sic]
+
 
 
 p4:
@@ -3851,6 +3853,8 @@ p8:
 (*) What is the true/actual (self-)language of the body(mind)?
 (*) What is your lifeworld built out of?
 (*) What for you is context bound?
+(*) Are you a person in the world?
+(*) What glues together ongoing narrative?
 
 
 
