@@ -695,6 +695,8 @@ n/a
 	- fact, event, situation, occurrence, happening...
 -	
 	- necessary, contingent, arbitrary, (incidental)
+-	
+	- [moreover, notwithstanding, withstanding, nevertheless, therefore]
 -
 	- to index
 	- to depic
