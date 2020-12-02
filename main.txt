@@ -337,61 +337,65 @@ practice preliminaries
 		error propagation, wayfinding, grace of what minds are
 		conclusion
 practice
-	preliminaries and vacations; conceptualization as such
-	risks
-	transitioning from other practices (re "sharp cutovers")
-	environment [and subtlety; (more) risks and rabbit holes]
-	movement
-	posture
-	breath
-	states
-	“headyness”/“heady-ness”/“headiness”
-	“subtle energy” and “energy work” and mental models
-	brief draft comment on first-pass, seemingly separate magisteria
-	body, self-trust, sensory processing, meaning
-	but is it meditation? (a dialogue between J and Mark)
-	practice in daily life or no?
-	what about concrete/proximal problems?
-	meta practice
-		meta protocol
-			collaborator formulations
-				collaborator formulation 1
-		meta meta protocol
-	solo practice (“main protocol”)
-		preliminary/auxiliary practices
-		main practice(s)
-			introduction
-			practices
-				p0
-				p1 [old names: Elemental Analysis, Comprehensive Elemental Analysis]
-				p2
-				p3
-				p4
-				p5
-				p6
-				p7
-				p8
-				p9
-				p10 [experimental]
-			theory
-				incomplete, alternative renderings
-		creativity(/unsticking) protocol
+	nuts and bolts considerations
+		preliminaries and vacations; conceptualization as such
+		risks
+		transitioning from other practices (re "sharp cutovers")
+		environment [and subtlety; (more) risks and rabbit holes]
+		movement
+		posture
+		breath
+		states
+		“headyness”/“heady-ness”/“headiness”
+		“subtle energy” and “energy work” and mental models
+		brief draft comment on first-pass, seemingly separate magisteria
+		body, self-trust, sensory processing, meaning
+		but is it meditation? (a dialogue between J and Mark)
+		practice in daily life or no?
+		what about concrete/proximal problems?
+		how much and how often
+		what to do when
+	practices
+		meta practice [solo and otherwise]
+			meta protocol
+				collaborator formulations
+					collaborator formulation 1
+			meta meta protocol
+		solo practice
+			preliminary/auxiliary practices
+			main practice
+				introduction
+				practices
+					p0
+					p1
+					p2
+					p3
+					p4
+					p5
+					p6
+					p7
+					p8
+					p9
+					p10 [experimental]
+				theory
+					incomplete, alternative renderings
+		creativity(/unsticking) protocol [solo and otherwise]
 			what to do when nothing's happening/working
 			creativity(/unsticking) protocol
-	interpersonal practice
-		formulation 1 (including Many Protocol)
-		formulation 2
-		formulation 3
-		formulation 4
-		formulation 5
-		formulation 6
+		interpersonal practice
+			formulation 1 (including Many Protocol)
+			formulation 2
+			formulation 3
+			formulation 4
+			formulation 5
+			formulation 6
 lists and more
 	nonmonotonicity
 	definitions
 	undefined and explications
 	bodymindenvironment
 	can’t-look-yet (“avoidance”)
-	systematicity
+	systematicity, ontologies, phenomenological and otherwise
 	exhaustivity and bottlenecks
 	(mental) action and the attentional manifold	
 	the use of the will
@@ -2058,6 +2062,9 @@ practice:
 <<<
 
 
+nuts and bolts considerations:
+
+
 preliminaries and vacations; conceptualization as such:
 
 Someone comments (slightly edited):
@@ -2882,7 +2889,7 @@ Mark
 yeah
 
 
-Jonathan
+J
 
 and so it didn't really feel like i was developing a microscope
 
@@ -2978,8 +2985,73 @@ Even if embodying “no-self” and nonduality (or whatever), the system will st
 It’s ok to try to get specific, concrete things, and it’s ok to try to use meditation to get them—especially as one gets farther along, as the system becomes more and more nonarbitrarily fluid. And sometimes, when directness doesn’t work, the right thing to do will be to let things go, to incline towards indirect, oblique, provisional, noncommital openness, when one can, to facilitate the solving and dissolving of one’s problems, in ways that couldn’t be appreciated, pursued, or conceived, ahead of time.
 
 
+how much and how often:
 
-meta practice:
+For the first few days weeks or months, it can be good to stick to 2-20 minutes per day, slowing working up to 40-60 minutes per day.
+
+During that initial time, if anything is "grinding" or "jamming," or there's growing muscle tension, it can be good to stop immediately and to explore again, slightly differently, the next day.
+
+During this initial time, the bodymind is learning about safety and so on.
+
+If one finds that they can only do 2-15 minutes per day, that's ok! If one takes a few days or weeks (or months) off, that's ok!
+
+If you find you "can't meditate" either you're not making time to do it, or, there's theoretically time to do it, but you "just can't," or, you're sitting/standing/laying down to do it, but you're not doing it--that's ok! There will be life situation reasons, front-loaded opportunity-cost-balancing reasons, bodymind "pre-preparation" reasons, and so on. (You might re-read the "preliminaries and vacations" section, above) There can also be things like "more gently backing onto the cushion," as it were, different ways to gently ease the bodymind system into it, that sort of thing. 
+
+Troubleshooting "can't meditate" is very large topic, beyond the scope of this section. But, it can be good to know that it's normal and that possibly a lot of good things are happening and need to happen before/between when one is regularly meditating.
+
+Eventually, eventually, eventually, there can be periods of time where meditation is sort of a black hole that will suck up all available time. It'll be easy to meditate for hours and hours, and you'll even lose time. So, if one "wants to be meditating more (seemingly efficiently) then one will eventually get the chance! (This can, of course, be quite disruptive, too, and one should do their best to life plan for this, even though that can be quite challenging.) It is intermittent and temporary, though it can come in blocks of weeks or months.
+
+***
+
+It can be helpful to be mindful of "local settling dynamics" and "unpacking and packing" dynamics, as it were. And a particular kind of momentum.
+
+These are problematic: Trying to "get stuff to stick" or trying to "get stuff over humps and make them stay there," to "lock in gains." Ahhhhhh!!!!!!  That is, long-term, meditation is sort of about "positive disassembly" and structural/structure-preserving fluidity--not trying to stably make oneself any particular way. The "bodymindenvironment" should take care of that for you, as it were, ever more, over time. And, in other places in this document, I've warned about particular types of "felt momentum" or rigid pushiness.
+
+But, there is still a thing where the bodymind, all things being equal, as one becomes more experienced, in meditation, sort of prepares itself to make changes, makes/allows/explores changes ("momentum"), and then prepares itself to stop meditating and to get on with the day (overall, say: "unpacking and packing"). Also, post-meditation, while doing other things, the bodymind can still be rearranging itself to facilitate further non-meditation activities ("local settling dynamics").
+
+Eventually, all things being equal, "long range proactive precomputation" (which one gets more and more of through meditation) sort of reduces context switching costs and context switching dynamics, more and more, over time. But, the sorts of dynamics, above, on and off, can be especially prominent, in the beginning.
+
+There will still be cumulativity, traction even if one doesn't do the following, but one can sometimes make more efficient progress if one meditates more than forty minutes in a single session. (Forty minutes seems to be the magic number for lots of people, in terms of "paying the cost of entry," as it were.)
+
+Note! If things grind or jam, etc., before forty minutes, then one is doing plenty with what's currently available (and it's better if one can stop *well before* grinding or jamming and one, ideally, can gently explore, over time, how to not have that happen in the first place! Because grindy/jamminess can sort of problematically accumulate before the bodymind gets very good at fully cleaning it up and/or avoiding it entirely. Additionally, if one meditates well over forty minutes, remember one can generally move around, change postures/positions, stretch, etc., quite a bit without "disrupting momentum." 
+
+In addition to meditation for at least, e.g. forty minutes, it can be helpful to meditate right when one wakes up, without opening one's eyes, to take advantage of "sleep lability." And, it can be helpful to meditate in the hours before bed, and while falling asleep*, depending on one's current life situation and responsibilities.
+
+(*as long as one is generally using something like the meta protocol, meditating while falling asleep doesn't make one a sloppy meditator or in danger of "subtle dullness" and stuff like that.)
+
+
+what to do when:
+
+This is a very, very, very, very rough breakdown of how you might use your time while practicing. It could be more granular, and all the percentages could be tweaked more. Note that each “level” adds up to 100%. For example, it’s ballpark suggested that p2 might be 80% of 72% of your total practice time. Or, stated more imprecisely, if you’re doing the protocol proper, explore doing lots of p2. These percentages may change as we learn more. For example, the ballpark suggestion for doing the meta protocol might go down or up. Also, in the beginning you might spend much more time on the preliminary/auxiliary practices, and so forth. These are intended to be the very-long-run breakdowns.
+
+protocol 100%
+	preliminary/auxiliary practices 4%
+	other-person-inclusive practices 2%
+	meta protocol 15%
+	creativity/unsticking practice 2%
+	meta meta protocol 5%
+	protocol 72%
+		p0 1%
+		p1 2%
+		p2 80%
+		p3 2%
+		p4 2%
+		p5 3%
+		p6 2%
+		p7 2%
+		p8 2%
+		p9 2%
+		p10 2%
+
+Important: It’s normal to “orbit” this document and the practices, to read this and put it down for a while, or to do the practices and then do other life things for a while. There are many paths up the mountain and many often necessary “detours,” which aren’t detours at all, of course.
+
+
+
+practices:
+
+
+
+meta practice [solo and otherwise]:
 
 
 
@@ -3213,7 +3285,8 @@ The current renderings of the main practices are below.
 practices:
 
 p0:
-[Will that you become someone who uses the practice regularly and effectively to achieve the goals of the practice.]
+
+[Gently, conservatively, cautiously, patiently will that you become (incline towards becoming) someone who uses the practice regularly and effectively to achieve the goals of the practice.]
 
 
 p1: [old names: Elemental Analysis, Comprehensive Elemental Analysis]
@@ -4132,7 +4205,7 @@ bottom-up doing-to-undo / redoing-to-undo
 
 
 
-creativity(/unsticking) protocol:
+creativity(/unsticking) protocol [solo and otherwise]:
 
 
 what to do when nothing's happening/working:
@@ -4570,7 +4643,7 @@ Low-grade anxiety, panic, horribleness, fear, terror, terribleness, hopelessness
 Again this is a hard thing to do willfully, and one shouldn’t do it forcefully, but it can be helpful to keep in mind “(self-)cornering”, as in “nothing left to do but look” and “surfing up the terribleness gradients”, using experiential badness as a way to prioritize and navigate. Sometimes badness will come up that seems tangiential or in reaction to what you’re doing, but, in fact, it’s directly related, and in some sense should be prioritized.
 
 
-systematicity:
+systematicity, ontologies, phenomenological and otherwise:
 
 If only one could make a list of what needs to be attended to, and then one could just go through the list. Unfortunately, people’s ontology and ordering for what’s good to do when will be idiosyncratic and complex and evolving and ultimately (often) very fine-grain
 
@@ -4658,31 +4731,6 @@ practice diaries:
 - holding the right things in attention
 - emphasis on somatics
 <<<
-
-
-using your time:
-
-This is a very, very, very, very rough breakdown of how you might use your time while practicing. It could be more granular, and all the percentages could be tweaked more. Note that each “level” adds up to 100%. For example, it’s ballpark suggested that p2 might be 80% of 72% of your total practice time. Or, stated more imprecisely, if you’re doing the protocol proper, explore doing lots of p2. These percentages may change as we learn more. For example, the ballpark suggestion for doing the meta protocol might go down or up. Also, in the beginning you might spend much more time on the preliminary/auxiliary practices, and so forth. These are intended to be the very-long-run breakdowns.
-
-protocol 100%
-	preliminary/auxiliary practices 4%
-	other-person-inclusive practices 2%
-	meta protocol 17%
-	meta meta protocol 5%
-	protocol 72%
-		p0 1%
-		p1 2%
-		p2 80%
-		p3 2%
-		p4 2%
-		p5 3%
-		p6 2%
-		p7 2%
-		p8 2%
-		p9 2%
-		p10 2%
-
-Important: It’s normal to “orbit” this document and the practices, to read this and put it down for a while, or to do the practices and then do other life things for a while. There are many paths up the mountain and many often necessary “detours,” which aren’t detours at all, of course.
 
 
 
@@ -4978,6 +5026,10 @@ For example, it’s important to distinguish between (a) not X, (b) the absence/
 Example:
 
 lack of belief and/or lack of disbelief is not the same thing as “active/present” disbelief, which might be some combination of feelings, thoughts, “phenomenology,” sensations, etc. And some of that might be very dim, dark, or “black.”
+
+Note:
+
+There are parallels, here, to "unvalenced" phenomenology and memories. (vs "valenced" as in phenomenology/sensations that is/are directly positive/pleasurable/good or negative/noxious/bad/etc or, more loosely, sensations or experiences that are associated with such.)
 
 
 getting triggered, usefulness and risks:
