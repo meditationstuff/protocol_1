@@ -1866,8 +1866,51 @@ If someone is older, they’ll have more raw stuff to work through. [The followi
 
 Every problem you encounter may seem like it’s the deepest last problem. But there will be another, and another, maybe with a delay but inevitably, until there isn’t. So plan for this, in resources (time, money, relationships), possible break-taking (to make money or friends), opportunity costs, etc. One can’t predict using timelines, or plan using timelines—one has to just assume it’s going to take 10 years 20 years even if it only takes 1.7 years. This can potentially be hard and risky, depending on available resources and opportunity costs, and likely or possible sequelae. This paragraph will be at the end of the next section as well.
 
+I sometimes say that all of this, for some degree of "asymptotic done-ness," with optional plenty more to do, across a lifetime, takes roughly, on the order of, 10,000 hours.
+
+Below is a discussion of the use of the number "10,000."
+
+
+[...]
+
+
+Mark:
+
+the “[10,000] hours” thing may end up being problematic for a lot of people. [i do think it's a pretty good rough estimate; i chose that number carefully and i'm tracking data, as it comes in, to see if that estimate should be updated, and/but,] i just wanted to convey something about the seriousness of the investment, how long bad patches can be, and how counterintuitively long it can take to get certain benefits.
+
+but like if people don’t meditate while falling asleep or waking up bc it’s hard to start and stop a timer, ahhhh. all sorts of goodharty stuff is possible, leading to too much grindy meditation and too little ad hoc meditation
+
+
+collaborator1:
+
+I also recently found the 10k number VERY helpful to get oriented (see “in an hour maybe you can cover 1% of 1%”) so for me “Estimating” to get a sense of scale seems good for me right now, and “Tracking” seems hilariously bad
+
+
+collaborator2:
+
+@collaborator1 the 1% of 1% thing as expectation management and setting small goals / making sure I am not pushing too hard has been super helpful to me.
+
+
+collaborator1:
+
+!! Right: although they superficially seem the same (pointing at the scale of the endeavor) there is a huuuuuuuge difference in flavor between “in a given hour I can expect to cover 1% of 1% of what’s down there” versus “oof, lotta hours, gotta start churning them out - gotta do more hours”
+
+The former encourages me to “push” or “force” a LOT less, to be WAY more patient
+
+The latter makes me impatient
+
+“This is a slow, gentle unfolding. It thrives when given breathing room, time, and space” versus “This is gonna be a herculean raw accumulation of effort.”
+
+ “I am going to a meditation retreat so I can put in a bunch more hours” (latter) vs “I am going on retreat so I can give this process so much slack, so little pressure; allow it to bloom, to rest, to unfurl into the time abundance”
+
+... I think this mood more or less is my practice, right now. The entirety of it
+
+[end discussion]
+
 
 better to finish, and smoothly:
+
+[editing note: noting that the discussion just added above maybe confusingly tone clashes with this section]
 
 One of the things that’s hard is that, I suspect, for most people, doing the thing will either consume their lives or they’ll get stuck. There’s the saying, “Better not to start. If you start, better to finish.”
 
@@ -3020,7 +3063,7 @@ In addition to meditation for at least, e.g. forty minutes, it can be helpful to
 
 (*as long as one is, in general, making use of something like the meta protocol, meditating while falling asleep doesn't turn one into a sloppy meditator or put one at risk of entrenching "subtle dullness" and stuff like that.)
 
-Note: Plenty of cumulativity is still possible, long-run, in fuzzily bounded sessions and under forty minute sessions. And good things of course happen prior to the forty-minute mark in longer sessions. Over time, one can get a better and better sense of whether one or multiple shorter sessions are "worth it" on any particular day, if that's all one has time for. And, a "session" is a nebulous, "fake" construct, a leaky abstraction, and forty minutes could be zero/five/twenty/sixty/etc. minutes, on any particular day, and so on, all things being equal.
+Note: Plenty of cumulativity is still possible, long-run, in fuzzily bounded sessions and under forty minute sessions. And good things of course happen prior to the forty-minute mark in longer sessions. Over time, one can get a better and better sense of whether one or multiple shorter sessions are "worth it" on any particular day, if that's all one has time for. And, a "session" is a nebulous, "fake" construct, a leaky abstraction, and forty minutes could be zero/five/twenty/sixty/eighty/120/.../etc. minutes, on any particular day, and so on, all things being equal.
 
 
 what to do when:
