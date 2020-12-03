@@ -3020,6 +3020,8 @@ In addition to meditation for at least, e.g. forty minutes, it can be helpful to
 
 (*as long as one is generally using something like the meta protocol, meditating while falling asleep doesn't make one a sloppy meditator or in danger of "subtle dullness" and stuff like that.)
 
+Note: Plenty of cumulativity is still possible, long-run, in fuzzily bounded sessions and under forty minute sessions. And good things of course happen prior to the forty-minute mark in longer sessions. Over time, one can get a better and better sense of whether one or many shorter sessions are "worth it" on any particular day, if that's all one has time for. And, a "session" is a nebulous, fake construct, and so on, all things being equal.
+
 
 what to do when:
 
@@ -3045,6 +3047,8 @@ protocol 100%
 		p10 2%
 
 Important: It’s normal to “orbit” this document and the practices, to read this and put it down for a while, or to do the practices and then do other life things for a while. There are many paths up the mountain and many often necessary “detours,” which aren’t detours at all, of course.
+
+Note: A future draft of this should maybe include percentages for "lost in life, including maybe forgetting this document even exists" as well as doing all sorts of random things for oneself that don't immediately seem to have any connection to meditation or this protocol. That might get too complicated or so inclusive it become less useful as a rough guide.
 
 
 
