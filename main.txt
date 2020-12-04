@@ -1905,7 +1905,9 @@ The latter makes me impatient
 
 ... I think this mood more or less is my practice, right now. The entirety of it
 
+
 [...]
+
 
 collaborator1:
 
@@ -1918,6 +1920,27 @@ Every time I’m not enforcing some constraint that’s incompatible with doing 
 Even if I - even if “the system” - chooses to do “something else” with that time/space (edited) 
 
 Sometimes I end up going kinda deep on some interospective sifting, but sometimes I end up doing art or cleaning or something, that’s all good
+
+
+[...]
+
+
+collaborator3:
+
+What’s the benefit of keeping track of how long you meditate for?
+
+How is it not just an overhead?
+
+Does it help anything? (aside from research, e.g. Mark would want to estimate how long it might take for the sake of people adopting his approach)
+
+
+Mark:
+
+for me, as a very, very rough guide of “where one is at” so it doesn’t feel like a vague infinity. it matters less if someone can “just tell” the time spent is good and valuable, but, even then, a very rough hour guesstimate can help someone gently persevere when/if things sometimes feel endlessly hard.
+
+with current data [2020-12-03], “10k hours” seems like a good heuristic for a “first-pass tour of all the possible surprises and neat/terrible stuff before things mostly ongoingly chill out”
+
+a GENTLE, loosely held, completionism thing, I think, can help, too, hour count-wise, if it doesn’t become goodhart-y and grind-y, for people who are particularly interested in ”going all the way,” for whatever that individually means to them. though whatever that means to them, individually, could come in/“finish” way under or over 10,000 hours. (and, 10k or not, in any case, some people, long-run, will be doing things across a lifetime, along a complex spectrum of priority and investment.)
 
 [end discussion]
 
