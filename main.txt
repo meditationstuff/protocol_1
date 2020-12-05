@@ -355,7 +355,7 @@ practice
 		what about concrete/proximal problems?
 		how much and how often
 		what to do when
-	practices
+	top-level practices/categories
 		meta practice [solo and otherwise]
 			meta protocol
 				collaborator formulations
@@ -3066,41 +3066,63 @@ It’s ok to try to get specific, concrete things, and it’s ok to try to use m
 
 how much and how often:
 
-For the first few days weeks or months, it can be good to stick to 2-20 minutes per day, slowing working up to 40-60 minutes per day.
+For the first few days weeks or months, it can be good to stick to 2-20 minutes per day, slowly working up to 40-60, 40-90 minutes per day. (Eventually, sometimes, you might meditate many hours in a single day, with plenty of stretching, changing positions, and so on.)
 
-During that initial time, if anything is "grinding" or "jamming," or there's growing muscle tension, it can be good to stop immediately and to explore again, slightly differently, the next day.
-
-During this initial time, the bodymind is learning about safety and so on.
+During that initial time, if anything is "grinding" or "jamming," or there's growing muscle tension, it can be good to stop immediately and to explore again, slightly differently, the next day. The bodymind is learning about safety and so on.
 
 If one finds that they can only do 2-15 minutes per day, that's ok! If one takes a few days or weeks (or months) off, that's ok!
 
-If you find you "can't meditate," any of, you find you're not making time to do it, or, there's theoretically time to do it, but you "just can't," or, you're sitting/standing/laying down to do it, but you're not doing it--that's ok! There will be life situation reasons, front-loaded opportunity-cost-balancing reasons, bodymind "pre-preparation" reasons, and so on. (You might re-read the "preliminaries and vacations" section, above.) 
+If you find you "can't meditate," any of, "you find you're not making time to do it," or, "there's theoretically time to do it, but you 'just can't,'" or, "you're sitting/standing/laying down to do it, but then, while there, you're 'not meditating'"--that's ok! There will be life situation reasons, front-loaded opportunity-cost-balancing reasons, bodymind "pre-preparation" reasons, and so on. (You might re-read the "preliminaries and vacations" section, above.) 
 
-There can also be things like "more gently backing onto the cushion," as it were, different ways to gently ease the bodymind system into it, that sort of thing:
+Troubleshooting "can't meditate" is very large topic, beyond the scope of this section. But, it can be good to know that it's normal and that possibly (likely!) a lot of good things are happening, and need to happen, before/between when one is regularly meditating. (Briefly, briefly, briefly, this is an infinitesimal sliver of a suggestion, that ellides any deep structure, deep reasons, and it, for sure, won't work for everyone, and that's ok--there can be helpful things like "more gently backing onto the cushion," as it were, different ways to gently ease the bodymind system into it, that sort of thing.)
 
-Troubleshooting "can't meditate" is very large topic, beyond the scope of this section. But, it can be good to know that it's normal and that possibly a lot of good things are happening and need to happen before/between when one is regularly meditating.
-
-Eventually, eventually, eventually, there can be periods of time where meditation is sort of a black hole, that will suck up all available time. It'll be easy to meditate for hours and hours, and you'll even lose time. So, if one "wants to be meditating more (seemingly efficiently)," then one will eventually get the chance! (This can, of course, be quite disruptive, too, and one should do their best to life plan for this, even though that can be quite challenging.) It is intermittent and temporary, if/when it does happen, though it can come in blocks of weeks or months.
+Eventually, eventually, eventually, there can/may/will be periods of time where meditation is sort of a black hole, that will suck up all available time. In those periods, it'll be easy to meditate for hours and hours, and you'll even lose time. So, if one "wants to be meditating more (seemingly efficiently)," then one will eventually get the chance! (This can, of course, be quite disruptive, too, and one should do their best to life plan for this, even though that can be quite challenging.) It is intermittent and temporary, if/when it does happen, though it can come in blocks of weeks or months.
 
 ***
 
-It can be helpful to be mindful of "local settling dynamics" and "unpacking and packing" dynamics, as it were. And a particular kind of momentum.
+As time passes, prior to having a good, intuitive sense, there's the question of "how long should I meditate"? (Why did I say "40-60," "40-90," above, in particular?)
 
-These are problematic!!: Trying to "get stuff to stick" or trying to "get stuff over humps and make them stay there," to "lock in gains." Ahhhhhh!!!!!! That is, long-term, meditation is sort of about "positive disassembly" and structural/structure-preserving fluidity--not trying to stably make oneself any particular way. The "bodymindenvironment" should take care of that for you, as it were, ever more, over time. And, in other places in this document, I've warned about particular types of "felt momentum" or rigid pushiness.
+It can be helpful to consider "local settling dynamics" and "unpacking and (re-)packing" dynamics, as it were, as well as distinctions between particular kinds of momentum.
 
-But, there is still a thing where the bodymind, all things being equal, as one becomes more experienced, in a single meditation session or "superblock," maybe fuzzy around the edges!!!, one sort of goes through this sequence: the bodymind prepares itself to make changes, makes/allows/explores changes ("momentum"), and then prepares itself to stop meditating and to get on with the day (overall, say: "unpacking and packing"). Also, post-meditation, while doing other things, the bodymind can still be rearranging itself to facilitate further non-meditation activities ("local settling dynamics").
+One could think of there being one kind of "'bad' momentum" and two kinds of "'good' momentum."
 
-(Eventually, all things being equal, "long range proactive precomputation" (which one gets more and more of through meditation) sort of reduces context switching costs and context switching dynamics, more and more, over time. But, the sorts of dynamics, above, on and off, can be especially prominent, in the beginning.)
+(Note, it can be hard to distinguish between (a) good momentum, (b) bad momentum, and (c) good and bad momentum mixed together. That's ok, that's normal, part of meditation is a reduction of the "bad" to a clean zero over a patient hundreds and thousands of hours.)
 
-So, there will still be cumulativity, traction, even if one doesn't do the following, but one can sometimes make more efficient progress if one meditates more than forty minutes in a single session. (Forty minutes seems to be the magic number for lots of people, in terms of "paying the cost of entry," as it were.)
+“‘Bad’ momentum” is/are things like potentially automatized (reversibly so!), unresponsive, possibly overly enthusiastic or indiscriminate e.g. “pushing,” "forcing," etc. which can “leave behind scaffolding” and especially “leave behind occluded runaway processes,” both of which “have to be cleaned up later,” and, in the meantime, can cumulatively lead to muscle tension, longer timelines, and other problems. All of this can include an attitude of "trying to get stuff to stick" or "trying to get stuff over humps to make it stay there," to "trying to lock in gains." Ahhhhhh!!!!!! (Long-term,  meditation is sort of about "positive disassembly" and structural/structure-preserving fluidity--*not* trying to stably make oneself any particular way. The "bodymindenvironment" should sort of take care of ways of being for you, as it were, ever more, over time.)
 
-Note! If things grind or jam, etc., before forty minutes, then one is doing plenty with what's currently available (and it's better if one can stop *well before* grinding or jamming), and one, ideally, can gently explore, over time, how to not have that happen in the first place!, because grindy/jamminess can sort of problematically accumulate before the bodymind gets very good at fully cleaning it up and/or avoiding it entirely. Additionally, if one meditates well over forty minutes, remember one can generally move around, change postures/positions, stretch, etc., quite a bit without "disrupting momentum." 
+And, then, by contrast, two "good" practice states, are, like, (a) and (b):
 
-In addition to meditation for at least, e.g. forty minutes, it can be helpful to meditate right when one wakes up, without opening one's eyes, to take advantage of "sleep lability." And, it can be helpful to meditate in the hours before bed, and while falling asleep*, depending on one's current life situation and responsibilities.
+(a) "pre-zone" or "non-zone" meditation: anything one does is progress, in-principle--long-run, cumulative, data, learning, incrementality, even including, especially including, during long stretches of 'seems like nothing is happening'" [and this even *also includes*, too, experiences of "bad momentum"!]. Note that, some of the time, sometimes most of the time, hundreds or thousands of hours, "pre-zone" isn't pre-anything. It's just "normal daily meditation!" And this can be true ten hours in or 10,000 hours in.
+
+(b) "in the zone" or "'good' momentum."
+
+"'Good' momentum," emphasis on *momentum*, is a bit of a misnomer. The word "momentum" is used because being in these states can feel like there is especially fast, smooth progress happening.  And/but, first, misnomer-wise, there's a sense in which smooth progress is *always* incrementally happening, no matter what, as per (a), no matter whether it's two-steps-forward-one-step-back, long, wrong turns, "seems like nothing's happening," or anything.
+
+And, second, misnomer-wise, the dynamics, at a fine grain, aren't precisely "momentum-y;" it's very much more, just, that, "the right, specific things are happening," full stop. That is, top-down or spontaneous/bottom-up, or, of course, both, what's happening is generally measured, concrete, specific--sometimes patterned, sometimes globally unique—personal-causal-history-lock-and-key, more like puzzle-solving and not painting nor stirring. (To be sure, though, puzzle-solving can still be long-stretches of shimmery, flowy, fuzzy, buzzy, fizzy, rippling, vibrate-y, waft-y, etc., experiences! The language is hard to get right.)
+
+So, how do these distinctions relate to "how much and how often"?
+
+There is a thing where the bodymind, all things being equal, as one becomes more experienced, in a single meditation session or "superblock" (maybe fuzzy around the edges!!!), is that one sort of goes through this sequence:
+
+The bodymind (w) prepares itself to make "deeper" changes ("entry"), perhaps for long minutes or hours, (x) makes/allows/explores "deeper" changes ("momentum"), perhaps for long minutes or hours, and then (y) prepares itself to stop meditating and to get on with the day/evening ("wind-down"/"safety") (for minutes or even hours). Also, there's something like (z): post-meditation--while doing other things, the bodymind can still be rearranging itself to facilitate further non-meditation activities ("local post-meditation settling dynamics").
+
+In the sequence above, (w; "entry") can tend to have the flavor of (a) "pre-zone/non-zone," above--patient incrementality, where it can be somewhat harder to tell what's going on. And then (x; "momentum") is more likely to be (b), being "in the zone."
+
+(The stages/states of (w) and (x) do, all things being equal, eventually somewhat kind of blur together, over hundreds or many thousands of hours, with any particular day or stretch being an exception. Eventually, all things being equal, "long range proactive precomputation" sort of reduces context switching dynamics (and context switching costs), more and more, over time. But, (x; "entry") and (w; "momentum") flavors, as more distinct, can be especially prominent, in the beginning.)
+
+So, finally, punchline, there will still be cumulativity, traction, even if one *doesn't* do the following(!), but one can sometimes make more efficient progress if one meditates more than forty minutes in a single session. (Forty minutes seems to be the magic number for lots of people, in terms of "paying the cost of entry," as it were.) Further, if possible, having a day, or a weekend, or a week, with fewer interruptions and responsibilities, can also facilitate sort of "extra-meditation supercycles" of multi-day super-"entry" and super-"wind-down," as a larger container for meditation (and long walks, and anything).
+
+Note! If things grind or jam, etc., before forty minutes, then one is doing plenty with what's currently available (and it's better if one can stop *well before* grinding or jamming), and one, ideally, can gently explore, over time, how to not have that happen in the first place!, because grindy/jamminess can sort of problematically accumulate before the bodymind gets very good at fully cleaning it up and/or avoiding it entirely. Additionally, if one meditates well over forty minutes, remember one can generally move around, change postures/positions, stretch, etc., quite a bit without "disrupting momentum."
+
+AND, ONE SHOULD NEVER DIRECTLY TRY TO DIRECTLY [sic] "GET INTO" (w; "momentum")! THAT'S SORT OF HOW ONE IS MORE LIKELY TO ACCUMULATE "'BAD' MOMENTUM.":
+
+WHETHER ONE IS IN (w), (x), ETC., ONE IS STILL, IN SOME SENSE, DOING THE SAME THINGS, THAT IS GENTLY, SOFTLY, PATIENTLY, ETC. WORKING THE PROTOCOLS, OR WHATEVER: THERE CAN BE A SEAMLESSNESS AND ULTIMATELY A SORT OF "META JUST DOING ONE THING" (at least while practicing) THAT HOLDS/APPLIES ACROSS ANY PARTICULAR STATE/STAGE/PHENOMENA. So, one's only responsibility is gently inclining towards executing gentle, impeccable practice, nothing more, nothing less, and, in some sense, things just happen on their own, can only happen on their own, when the time is right.
+
+Depending on one's current life situation, e.g. current life-partner expectations/agreements, life/family/etc. responsibilities/obligations--in addition to meditation for e.g. forty-plus minutes, it can be helpful to meditate right when one wakes up, without even opening one's eyes, to take advantage of "sleep lability." And, it can be helpful to meditate in the hours before bed, and while falling asleep.*
 
 (*as long as one is, in general, making use of something like the meta protocol, meditating while falling asleep doesn't turn one into a sloppy meditator or put one at risk of entrenching "subtle dullness" and stuff like that.)
 
-Note: Plenty of cumulativity is still possible, long-run, in fuzzily bounded sessions and under forty minute sessions. And good things of course happen prior to the forty-minute mark in longer sessions. Over time, one can get a better and better sense of whether one or multiple shorter sessions are "worth it" on any particular day, if that's all one has time for. And, a "session" is a nebulous, "fake" construct, a leaky abstraction, and forty minutes could be zero/five/twenty/sixty/eighty/120/.../etc. minutes, on any particular day, and so on, all things being equal.
+Note: To emphasize again, plenty of cumulativity is still possible, long-run, in fuzzily bounded sessions and under forty minute sessions. And good things of course happen prior to the forty-minute mark in longer sessions. Over time, one can get a better and better sense of whether one or multiple shorter sessions are "worth it" on any particular day, if that's all one has time for. And, a "session" is a nebulous, "fake" construct, a leaky abstraction, and forty minutes could be zero/five/twenty/sixty/eighty/120/.../etc. minutes, on any particular day, and so on, all things being equal.
 
 
 what to do when:
