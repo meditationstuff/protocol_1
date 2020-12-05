@@ -3110,7 +3110,11 @@ In the sequence above, (w; "entry") can tend to have the flavor of (a) "pre-zone
 
 (The stages/states of (w) and (x) do, all things being equal, eventually somewhat kind of blur together, over hundreds or many thousands of hours, with any particular day or stretch being an exception. Eventually, all things being equal, "long range proactive precomputation" sort of reduces context switching dynamics (and context switching costs), more and more, over time. But, (x; "entry") and (w; "momentum") flavors, as more distinct, can be especially prominent, in the beginning.)
 
-So, finally, punchline, there will still be cumulativity, traction, even if one *doesn't* do the following(!), but one can sometimes make more efficient progress if one meditates more than forty minutes in a single session. (Forty minutes seems to be the magic number for lots of people, in terms of "paying the cost of entry," as it were.) Further, if possible, having a day, or a weekend, or a week, with fewer interruptions and responsibilities, can also facilitate sort of "extra-meditation supercycles" of multi-day super-"entry" and super-"wind-down," as a larger container for meditation (and long walks, and anything).
+So, finally, punchline, there will still be cumulativity, traction, even if one *doesn't* do the following(!), but one can sometimes make more efficient progress if one meditates more than forty minutes in a single session. (Forty minutes seems to be the magic number for lots of people, in terms of "paying the cost of entry," as it were.)
+
+Further, if possible, having a day, or a weekend, or a week, with fewer interruptions and responsibilities, can also facilitate sort of "extra-meditation supercycles" of multi-day super-"entry" and super-"wind-down," as a larger container for meditation (and long walks, and anything). Leaving plenty of time for super-"wind-down" can be a large "retrocausal" boost to meditation efficiency/effectiveness because it makes it safe to "go deep" (because there's plenty of time to "come back").
+
+*
 
 Note! If things grind or jam, etc., before forty minutes, then one is doing plenty with what's currently available (and it's better if one can stop *well before* grinding or jamming), and one, ideally, can gently explore, over time, how to not have that happen in the first place!, because grindy/jamminess can sort of problematically accumulate before the bodymind gets very good at fully cleaning it up and/or avoiding it entirely. Additionally, if one meditates well over forty minutes, remember one can generally move around, change postures/positions, stretch, etc., quite a bit without "disrupting momentum."
 
@@ -3124,6 +3128,8 @@ Depending on one's current life situation, e.g. current life-partner expectation
 
 Note: To emphasize again, plenty of cumulativity is still possible, long-run, in fuzzily bounded sessions and under forty minute sessions. And good things of course happen prior to the forty-minute mark in longer sessions. Over time, one can get a better and better sense of whether one or multiple shorter sessions are "worth it" on any particular day, if that's all one has time for. And, a "session" is a nebulous, "fake" construct, a leaky abstraction, and forty minutes could be zero/five/twenty/sixty/eighty/120/.../etc. minutes, on any particular day, and so on, all things being equal.
 
+Note: In some ways the distinction between pre-zone and in-the-zone is real or at least useful or apparent. And, in other ways, it's "fake" and an artificial distinction on an underlying continuity or complexity. And, pre-zone versus in-the-zone will be different for different people at different times. Also, someone can feel like they almost always or even always "pre-zone"/"non-zone", and that's normal and ok, too, and doesn't necessarily mean things will be slower or different in any particular way, in terms of progress or trajectory, for them relative to other people.
+
 
 what to do when:
 
@@ -3131,14 +3137,14 @@ This is a very, very, very, very rough breakdown of how you might use your time 
 
 protocol 100%
 	preliminary/auxiliary practices 4%
-	other-person-inclusive practices 2%
+	interpersonal practices 2%
 	meta protocol 15%
 	creativity/unsticking practice 2%
 	meta meta protocol 5%
-	protocol 72%
+	main practices 72%
 		p0 1%
 		p1 2%
-		p2 80%
+		p2 80% [sic!]
 		p3 2%
 		p4 2%
 		p5 3%
