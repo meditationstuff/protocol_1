@@ -4210,6 +4210,7 @@ p8:
 (*) What for you is context bound?
 (*) Are you a person in the world?
 (*) What glues together ongoing narrative?
+(*) What is/are (a) [whole] world(s) and how should one relate to it/them, morally or generally?
 
 
 
@@ -6623,3 +6624,7 @@ Problematic but relevantly evocative neuroscience bibliography:
 (*) Solms, Mark. "The hard problem of consciousness and the free energy principle." Frontiers in psychology 9 (2019): 2714.
 (*) Solms, Mark, and Karl Friston. "How and why consciousness arises: some considerations from physics and physiology." Journal of Consciousness Studies 25.5-6 (2018): 202-238.
 (*) Solms, Mark Leonard. "The neurobiological underpinnings of psychoanalytic theory and therapy." Frontiers in Behavioral Neuroscience 12 (2018): 294.
+(*) Engelmann, Siegfried, and Douglas Carnine. Theory of instruction: Principles and applications. New York: Irvington Publishers, 1982.
+(*) Engelmann, Siegfried. "Low performers manual." Eugene, OR: Author (2005).
+(*) Engelmann, Siegfried, and Geoffrey Colvin. Rubric for identifying authentic Direct Instruction programs. Eugene, OR: Engelmann Foundation, 2006.
+(*) https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy) [last accessed: 2020-12-09]
