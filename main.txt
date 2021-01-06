@@ -3192,13 +3192,13 @@ Contents
 
 Happening
 	What is currently generally *happening* when you meditate?
-	What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s), as far as you can currently tell?
-	What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s), as far as you can currently tell?
+	What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
 	What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
 Doing
 	What do you currently generally *do* when you meditate?
-What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s), as far as you can currently tell?
-	What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s), as far as you can currently tell?
+What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
 	What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
 
 
@@ -3207,8 +3207,8 @@ What of that is in some sense seemingly contextually good, as far as you can cur
 Online Data Collection, with an Observer/Coach/Consultant/Friend:
 	As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? Start now.
 Offline Analysis, While Taking a Break from Meditating:
-	What of that was in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s), as far as you can currently tell?
-	What of that was in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s), as far as you can currently tell?
+	What of that was in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	What of that was in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
 	What of that are you currently unsure of whether it might have been contextually good or bad? How might you come to know better what of that was/is contextually good or bad?
 	For what’s seemingly contextually good, as far as you can currently tell, how might or will you keep doing it? And under what conditions might it or might it not be good to stop, if ever?
 	For what’s seemingly contextually bad, as far as you can currently tell, what might or might not be good to do about that, and when or under what conditions, as far as you can currently tell?
@@ -6629,3 +6629,4 @@ Problematic but relevantly evocative neuroscience bibliography:
 (*) Engelmann, Siegfried, and Geoffrey Colvin. Rubric for identifying authentic Direct Instruction programs. Eugene, OR: Engelmann Foundation, 2006.
 (*) https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy) [last accessed: 2020-12-09]
 (*) Rawls, John. Justice as fairness: A restatement. Harvard University Press, 2001.
+(*) https://en.wikipedia.org/wiki/Consequentialism [Last accessed: 2020-12-30]
