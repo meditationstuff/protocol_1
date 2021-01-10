@@ -6630,3 +6630,4 @@ Problematic but relevantly evocative neuroscience bibliography:
 (*) https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy) [last accessed: 2020-12-09]
 (*) Rawls, John. Justice as fairness: A restatement. Harvard University Press, 2001.
 (*) https://en.wikipedia.org/wiki/Consequentialism [Last accessed: 2020-12-30]
+(*) Thomas, Metzinger. "Suffering, the cognitive scotoma." The Return of Consciousness (2017): 237-262.
