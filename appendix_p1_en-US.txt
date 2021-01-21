@@ -534,7 +534,7 @@ n/a
 - untitled serial list
 	- necessary and sufficient, necessary but not sufficient, sufficient but not necessary, neither necessary nor sufficient
 - untitled serial list
-	- necessary contingent overdetermined constrained arbitrary incidental accidental sufficient covarying invariant, related, could-be-otherwise-ness, excludes, apodictic
+	- necessary contingent overdetermined constrained arbitrary incidental accidental sufficient covarying invariant, related, could-be-otherwise-ness, excludes, apodictic, counterfactual
 - untitled serial list
 	- duty permission allowed permitted forbidden responsibility obligation should suppose to
 - untitled serial list “even”

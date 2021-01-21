@@ -6616,14 +6616,14 @@ bibliography (incomplete):
 (*) Leonard, George. Mastery: The keys to success and long-term fulfillment. Penguin, 1992.
 (*) Kramer, Joel, and Diana Alstad. The guru papers: Masks of authoritarian power. North Atlantic Books, 2012.
 (*) Kent, William. Data and Reality: A Timeless Perspective on Perceiving and Managing Information. Technics publications, 2012.
-
-Problematic but relevantly evocative neuroscience bibliography:
+Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) Van den Bergh, Omer, et al. "Better safe than sorry: A common signature of general vulnerability for psychopathology." (2020).
 (*) Andrews, Mel. "The Math is not the Territory: Navigating the Free Energy Principle." (2020).
 (*) Laukkonen, Ruben, and Heleen A. Slagter. "From many to one: Meditation and the plasticity of the predictive mind."
 (*) Solms, Mark. "The hard problem of consciousness and the free energy principle." Frontiers in psychology 9 (2019): 2714.
 (*) Solms, Mark, and Karl Friston. "How and why consciousness arises: some considerations from physics and physiology." Journal of Consciousness Studies 25.5-6 (2018): 202-238.
 (*) Solms, Mark Leonard. "The neurobiological underpinnings of psychoanalytic theory and therapy." Frontiers in Behavioral Neuroscience 12 (2018): 294.
+(end interlude)
 (*) Engelmann, Siegfried, and Douglas Carnine. Theory of instruction: Principles and applications. New York: Irvington Publishers, 1982.
 (*) Engelmann, Siegfried. "Low performers manual." Eugene, OR: Author (2005).
 (*) Engelmann, Siegfried, and Geoffrey Colvin. Rubric for identifying authentic Direct Instruction programs. Eugene, OR: Engelmann Foundation, 2006.
@@ -6631,3 +6631,5 @@ Problematic but relevantly evocative neuroscience bibliography:
 (*) Rawls, John. Justice as fairness: A restatement. Harvard University Press, 2001.
 (*) https://en.wikipedia.org/wiki/Consequentialism [Last accessed: 2020-12-30]
 (*) Thomas, Metzinger. "Suffering, the cognitive scotoma." The Return of Consciousness (2017): 237-262.
+(*) Ray, Reginald A. Somatic Descent: How to Unlock the Deepest Wisdom of the Body. Shambhala Publications, 2020.
+(*) Krishnamurti, Uppaluri Gopala, and Rodney Alexander Arms. "The mystique of enlightenment: the unrational ideas of a man called UG." (1982).
