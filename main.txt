@@ -419,6 +419,7 @@ lists and more
 	dark phenomenology and presence/absence conceptions
 	getting triggered, usefulness and risks
 	a dialogue between N and Mark, on reasoning and pre-reasoning
+	a note on "making progress," "regression," and redo-to-undo
 	“psychic” and “supernatural” stuff: what/how/how-not [draft]
 	self and other; good and bad [draft]
 	prenatal experiences
@@ -3568,6 +3569,7 @@ Notes:
 (*) Example: ”have been good to do so" ~= Like, you try to (a) do/will X or (b) have the absence of Q, because it seemed like that would have been good. But you find you can't. And then you explore whether there's still a part of you, something, somewhere, that's still trying to have (a) or (b) happen. 
 (*) Your generally available set of actions/doing should expand over time, more fine-grain, more differentiated, lighter, omni-directional, multifarious, start-on-dime, stop-on-dime, interleave rapidly. They should also ideally become applicable in more and more contexts, more body locations, more phenomenologies, more senses/meanings/etc. Sometimes your available actions will shrink to a point, and that’s ok. But generally you want more and more, and more and more subtle, sometimes fast, barely nameable, barely effable, beyond language, and so forth. You might sometimes have mental tags or phenomenological tags or verbal tags or “knowing contexts” for them, and that’s great. And, there will be times when you’re taking relatively more new and/or unique/one-off/instance-of-themselves/unclassifiable actions/doings. (In some sense they’re all unique by virtue of their preconceptual referent and context.)
 (*) There can be doing on the border between surrender and doing or vice versa, where are you sort of doing but you also surrendered, or vice versa. Liminal doing; liminal surrender.
+(*) Regarding "undo," this can sometimes apply to things that "just happened" and can also apply to very old, localized or pervasive aspects of the system. It can be helpful to note that "undo" or "inverse operations" are happening all the time, like when a person learns something that contradicts an old "belief"--there will be some "layering," all things being equal, at least early in on meditation, but, mixed in with that, even at the beginning, will be some "undoing," too. Ditto for changes in behavioral propensities, preferences, etc., etc. etc. "Undoing" is very general and won't necessarily feel like "anything in particular"; it's almost a "contentless concept" or "empty concept" (perhaps concretely, phenomenologically speaking) that's directly-indirectly [sic] inferred. Eventually, there will be a tremendous amount of undoing (alongside all sorts of other things), during meditation.
 
 
 
@@ -5766,6 +5768,15 @@ you’re very welcome. thank you for your questions
 
 
 
+a note on "making progress," "regression," and redo-to-undo:
+
+It's important to have a model of progress that accounts for, nonarbitrarily, "anything could be happening at any time." Say things are sort of getting "easy and smooth" (or whatever), and it's been that way for a day or weeks, and then the next day things are choppy or distract-y, or whatever. That doesn't mean things have "regressed" or that progress isn't being made. *Anything* that the system has experienced in the past, thoughts, brain fog, depression, fear, anything--has to come up again sometime, in the course of meditation, because of the "redo-to-undo" "principle." Sometimes it'll be liminal, barely there, to be sure. Sometimes it'll be "in a "cradle/container" of "equanimity."" And, sometimes, something intense can/will come up that sort of takes over everything, like an immersive flashback or, less obviously, an old outlook or way of being, etc. It can also be very subtle, piecemeal things like "habits of mind." This can happen a lot, over thousands of hours. Additionally, sometimes very big intense stuff can happen, late in the game, because it took that long for there to be system-wide safety for that thing to to come up. (This could be the case, five to twenty times, or more, spaced out several months apart, as well as other possible patterns.) "The system makes it safe to look, and then looks, safe to have happen, then it happens..."
+
+So, in any case, one shouldn't infer progress by what's happening in any particular session--"terrible" sessions may be extremely constructive sessions; sessions that don't feel like sessions at all (however conceived) may be extremely constructive sessions, and stuff like that could go on for months! But, actually, all things being equal, the right things had been happening, the whole time.
+
+One sort of, as best they can, has to take into account the whole global history and context, in terms of global wayfinding, to get better and better at how to relate to and participate in any particular thing that's happening at any particular time, including being ok with being swept away, when that's the right thing to be doing, or anything in between, or nuanced variations of any of this, and so on.
+
+
 
 “psychic” and “supernatural” stuff: what/how/how-not: [draft]
 
@@ -6634,3 +6645,4 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) Ray, Reginald A. Somatic Descent: How to Unlock the Deepest Wisdom of the Body. Shambhala Publications, 2020.
 (*) Krishnamurti, Uppaluri Gopala, and Rodney Alexander Arms. "The mystique of enlightenment: the unrational ideas of a man called UG." (1982).
 (*) McWilliams, Nancy. Psychoanalytic diagnosis: Understanding personality structure in the clinical process. Guilford Press, 2011.
+(*) Kay, John. Obliquity: Why our goals are best achieved indirectly. Profile Books, 2011.
