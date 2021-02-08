@@ -6676,3 +6676,4 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) Krishnamurti, Uppaluri Gopala, and Rodney Alexander Arms. "The mystique of enlightenment: the unrational ideas of a man called UG." (1982).
 (*) McWilliams, Nancy. Psychoanalytic diagnosis: Understanding personality structure in the clinical process. Guilford Press, 2011.
 (*) Kay, John. Obliquity: Why our goals are best achieved indirectly. Profile Books, 2011.
+(*) Buber, Martin. I and Thou. 1923.
