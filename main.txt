@@ -7,6 +7,34 @@ Copyright:
 All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date.
 
 
+
+Brief Contents:
+
+front matter
+	document-level meta-warning
+	epistemic status disclaimer
+	[...]
+	full contents
+	[...]
+introductory material
+	goal
+	end state
+	[...]
+culture and community
+	an orienting model [...]
+	evil
+practice preliminaries
+	[...]
+	top-level practices/categories
+		meta practice
+		solo practice
+		creativity/unsticking
+		interpersonal practice
+lists and more
+bibliography
+
+
+
 ***Document-level meta-warning:***
 
 Some things are "totalizing memetic objects." (I may be using that quoted phrase in an idiosyncratic way!) A totalizing memetic object sort of purports to legitimately be about, or say things about "everything." "Everything" could be "reality," or "all of reality," or "everything that exists," "how the future will go," "the world," and stuff like that. There's also things that are "relatively more totalizing" than other things, because they say things about real or illusory "things that touch a lot of other things" or "things that have a lot of implications for other things." Examples in this category could be "minds," "truth," "goodness," "personhood," and things like that.
@@ -62,41 +90,6 @@ Alternative versions:
 Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
 
 (*) https://rothos.github.io/protocol_1/
-
-
-
-Contents (simplified/elided):
-	front matter and more (including a full table of contents)
-	goal
-	end state
-	other practices
-	culture and community
-		evil
-		creativity
-		the creativity of evil
-		joy
-	practice
-		preliminaries and vacations; conceptualization as such
-		risks
-		environment
-		movement
-		posture
-		breath
-		states
-		“headyness”/“heady-ness”/“headiness”
-		body, self-trust, sensory processing, meaning
-		meta practice
-			meta protocol
-			meta meta protocol [sic]
-		solo practice (“main protocol”)
-			preliminary/auxiliary practices
-			main practice(s)
-			creativity(/unsticking) protocol
-		interpersonal practice
-			many protocol
-			alternative formulations
-	lists and more
-	back matter and more
 
 
 
@@ -301,21 +294,22 @@ Credits:
 
 
 
-Contents (expanded):
+Full Contents:
 
 version and working title
 copyright
-catch-all/alpha/beta/draft disclaimer
+brief contents
+document-level meta-warning
+epistemic status disclaimer
 funding
 author web presence
 canonical location of this document
 alternative versions
-contents (simplified/elided)
 preamble
 an exoteric doctrine v0.2
 past versions
 credits
-contents (expanded)
+full contents
 introduction; getting over the hump; text interpretation
 goal
 end state
