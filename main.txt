@@ -327,11 +327,12 @@ ok-ness and cosmology
 seamless hyphenation [draft]
 other practices
 culture and community
-	evil
-		part X: introduction
-		part X: a brief layer model of mind, personality, groups, and (global) culture
+	an orienting model; layers and tangles; from "parts" to people to groups
+		part X: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture
 		part X: the blooming, buzzing confusion
 		part X: the demon-haunted world and science as a candle in the dark (as per Carl Sagan)
+	evil
+		part X: introduction
 		part X: everyday blah, hapless creeps, dark wizards, and cult leaders
 		part X: spot the dark wizard
 		part X: healers
@@ -1240,20 +1241,10 @@ Lots of solo time is needed, and sometimes solo time is the only thing available
 culture and community:
 
 
-
-evil:
-
-
-part X: introduction:
-
-If you start doing work on yourself, you’ll become more sensitive to a lot of things. And that sensitivity, initially, can make you more vulnerable to bad things than you’d otherwise be. That sensitivity can also make you become a more dangerous or harmful person to be around, initially. Over time, asymptotically, nonmonotonically, what you were vulnerable to, what used to influence you or cause disendorsed changes to you, becomes just information. And this information can be used to enhance safety for self and others. And your sensitivity and responsiveness, from ongoing meditation, and the knowledge that’s easier to acquire because of that sensitivity and responsiveness, can make you safer and safer for other people.
-
-Additionally, you may more often find yourself in communities of practice, as you explore things like meditation, energy work, shamanism, or whatever. Communities of practice sometimes have coercive things “in the air,” and sometimes communities of practice contain, or have adjacent, “dark wizards,” and sometimes they are created, run, influenced, or ruled by “cult leaders.”
-
-Reading the sections below may help to minimize risks to self and others, in relation and in community.
+an orienting model; layers and tangles; from "parts" to people to groups:
 
 
-part X: a brief layer model of mind, personality, groups, and (global) culture:
+part X: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture:
 
 Consider the mind to be made up of a large number of parallel (information) flows, or pipes, or tubes. 
 
@@ -1355,8 +1346,25 @@ Consider that what the brain does is make sense of blooming, buzzing confusion, 
 
 And then is it any wonder that hapless creeps, dark wizards, cult leaders… and healers walk among us?
 
+[continues in section "part X: Everyday blah, hapless creeps, dark wizards, and cult leaders"]
+
+
+
+evil:
+
+
+part X: introduction:
+
+If you start doing work on yourself, you’ll become more sensitive to a lot of things. And that sensitivity, initially, can make you more vulnerable to bad things than you’d otherwise be. That sensitivity can also make you become a more dangerous or harmful person to be around, initially. Over time, asymptotically, nonmonotonically, what you were vulnerable to, what used to influence you or cause disendorsed changes to you, becomes just information. And this information can be used to enhance safety for self and others. And your sensitivity and responsiveness, from ongoing meditation, and the knowledge that’s easier to acquire because of that sensitivity and responsiveness, can make you safer and safer for other people.
+
+Additionally, you may more often find yourself in communities of practice, as you explore things like meditation, energy work, shamanism, or whatever. Communities of practice sometimes have coercive things “in the air,” and sometimes communities of practice contain, or have adjacent, “dark wizards,” and sometimes they are created, run, influenced, or ruled by “cult leaders.”
+
+Reading the sections below may help to minimize risks to self and others, in relation and in community.
+
 
 part X: everyday blah, hapless creeps, dark wizards, and cult leaders:
+
+[continues from section "part X: the demon-haunted world and science as a candle in the dark (as per Carl Sagan)"]
 
 The mind is vast and occlusion is a thing.
 
