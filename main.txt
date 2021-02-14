@@ -69,7 +69,7 @@ Also, not mentioned above, the "vibe" of a document will be reflective of "the w
 
 a collaborator comments:
 
-"I actually had a conversation recently with a friend as we re-read a year-old doc of his that had a warning at the start, about how the tones of warnings can have a kind of infantilizing effect, and we talked about your protocol as one example of that
+"I actually had a conversation recently with a friend as we re-read a year-old doc of his that had a warning at the start, about how the tone of a warning can have a kind of infantilizing effect, and we talked about your protocol as one example of that
 […]
 ummm and I would say the new meta-warning sort of helps with that but it’s also sort of still committing the same thing, which it tries noting, but ugh ugh ugh"
 
