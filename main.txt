@@ -6861,3 +6861,4 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) Buber, Martin. I and Thou. 1923.
 (*) https://en.wikipedia.org/wiki/Reflective_equilibrium [Last accessed: 2021-02-14]
 (*) https://plato.stanford.edu/entries/reflective-equilibrium/ [Last accessed: 2021-02-14]
+(*) Jung, Carl Gustav. Memories, dreams, reflections. Vintage, 1989.
