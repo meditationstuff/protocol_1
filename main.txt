@@ -475,10 +475,15 @@ lists and more
 	getting triggered, usefulness and risks
 	a dialogue between N and Mark, on reasoning and pre-reasoning
 	a note on "making progress," "regression," and redo-to-undo
-	“psychic” and “supernatural” stuff: what/how/how-not [draft]
-	self and other; good and bad [draft]
-	prenatal experiences
-	direct and indirect people and group stuff
+	stuff stuff
+		“psychic” and “supernatural” stuff: what/how/how-not [draft]
+		self and other; good and bad [draft]
+		prenatal experiences
+		direct and indirect people and group stuff
+	civilizational stuff
+		buddhas, anti-buddhas, civilization, and the importance of method
+		sketching alternatives to straw realism (international and group relations) [draft!][2500 words]
+		karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)
 teaching and learning and creating and relating (meditation and anything)
 	teaching
 		no one gets pixel-perfect possibilities
@@ -5990,6 +5995,10 @@ One sort of, as best they can, has to take into account the whole global history
 
 
 
+stuff stuff:
+
+
+
 “psychic” and “supernatural” stuff: what/how/how-not: [draft]
 
 This is a section about:
@@ -6364,6 +6373,661 @@ cultural and historical “paranoia”, fear, trauma, etc.
 generational salience, trauma, and ideology from the past 10-50 years
 salience, trauma, ideology, colonialism from the past several hundred years
 belief, religion, cosmology from different parts of the world, seemingly going back thousands of years or into prehistory
+
+
+civilizational stuff:
+
+
+buddhas, anti-buddhas, civilization, and the importance of method [draft]:
+
+Hopefully without detracting from the gravity of what I'm writing about, I want to note that I am not a scholar or a historian, so there will be some inadvertent cherry picking and possibly howlers or just highly questionable assertions and inferences, not to mention history-writing winners, and all that. But, here we go.
+
+Also, content warning, this starts out maybe a little dark, or at least gray, and then gets darker further in.
+
+*
+
+There is the "banality of evil"--everyday cruelty, neglect, professional sadomasochism, and "just following orders."[*]
+
+There is also the "banality of good"--so the story goes, it's hard to refuse warmth to a hungry, cold community member, or to a stranger, at the the persistent request of a community member, if the hungry, cold person is standing right there outside your door. [*]
+
+Of course, we have both of these capacities within us, and much more. They aren't points in a space, they're vague swaths in the space. And they're contingent on causes and conditions. Change the society, change the person's causal history, and something different counterfactually occurs.
+
+Is there bias or directionality? Are both equally likely? Evil or good? A flip of the coin?
+
+What is the essence or long-run emergence of the human condition? (For completeness, artificial and alien intelligence may need to be discussed in a separate section. In brief, I think there's plausibly compelling arguments against the "orthogonality thesis," that intelligence/capability and "final goals" can independently, freely vary in "design space" is practically wrong, and also in principle.)
+
+I believe humans are long-run positive-sum.
+
+(I could make a case for this, and I may suggest some things, but this sort of, at least partially, has to be found from the inside, anyway.)
+
+"Long-run" suggest something problematic is going on in the "short-run": There is the anthropomorphized idea of "moloch" [1] or, more abstractly, inadequate equilibria [2]
+
+The rough idea is that distributed, discoordinated, local incentives can produce stable, entrenched, bad globalities, and thereby stable, entrenched, bad localities. (I may have added or distorted something, here.)
+
+Reasoning about equilibria also suggests that seeming utopias often have a hidden dark side, zero-sum coercion or exploitation, somewhere. (See perhaps the origin of the term utopia as well as tvtropes.com.)
+
+It takes (a) serendipitious or deliberate advances in abundance or (b) serendipitious or deliberate advances in coordination, to truly, positive-sum break out of bad equilibria.
+
+*
+
+An example of problematic coordination, a combination of good and bad, might be Christianity. See perhaps Girard. Christianity yielded a "universal scapegoat" and an "all-encompassing goodness out there." These may have reduced war, facilitated trade, not to mention they're a source or deep meaning and coherence. One could also argue (as I believe) that these, at least the straw versions, are partially inappropriate reifications, to the degree they've been non-incidental in violence and oppression (arguably crusades, colonialism, imperialism, prejudice, etc.).
+
+Another example of problematic coordination, could be just modernity itself, in the form of (somewhat unnecessarily comingled) reason, so-conceived mind/body dualism, and so on. To the degree that these ideas and situated behaviors are problematic, while producing extraordinary wealth and life improvements, they've arguably also contributed to the dissociation of "the big three," truth, goodness, and beauty, after Ken Wilber, and arguably contributed to atomization, ennui, anomie, and heavily falling birthrates.
+
+*
+
+I'm writing this draft in 2021 (2021-02-20). This will necessarily be written without historical perspective, in some sense, but I think the asymptotic limit of "doing good history" can be *very* good. I'm certainly not there, yet, in this draft--so this might age quite poorly or is even contemporaneously "cringe." (Again, I don't want to detract from gravity, but I want to lampshade that "cringe," in quotes, is cringe.)
+
+To be tonally abrupt after the immediately above, the holocaust wasn't that many decades ago, and genocides have continued before and after. There's some chance that the United States dollar will continue to devalue, and that could be fine or produce instability. Bitcoin and decentralized finance are currently hot. There is a global pandemic. Vaccine technology has been a big, though arguably delayed success.
+
+Now, what are the good futures?
+
+Fully automated luxury [gay] space communism? [3,4]
+
+Neopastoralism?
+
+How might we get there? What are the challenges?
+
+*
+
+For context (and this could be accurate or incredibly not-even-wrong or overstated, either my paraphrase or the source material [5,6]), in ancient, net-zero-sum wider environments, tribes will:
+
+1. find abundant resources
+2. reproduce until those resources are under strain or exhausted
+3. have more men than women, through female infanticide (and possibly murder of the elderly, especially women), to make resource acquisition more efficent and to have resources be depleted more slowly
+4. acquire more resources and women (rape) through war, which also kills men, and the male/female ratio improves, as well as the resource/population ratio.
+5. repeat
+
+*
+
+One could say that civilization is the de-escalation of violence [*] through positive-sum coordination. Perhaps, the more positive-sum-ness there is, the more civilization (and adequate equilibria, etc.) and abundance there is. (I am mixing math [metaphors] with synthetic a posteriori descriptions and claims, but, first-pass.)
+
+Since, I believe in humanity being long-run positive-sum, and since there is still resource competition today, I think we'll need to keep improving the causes and conditions that yield creativity and generativity, which yield more abundance and coordination and safety, which yield more creativity and generativity, and so on. (Technological advances, including possibly general artificial intelligence, will cause big improvements and big disruptions, along the way.)
+
+If creativity and generativity are "circularly-causally-downstream" of (body)mind, then one could argue that at least one leverage point is "self-transformative technology," method, e.g. meditation.
+
+But, e.g. meditation, and the sociological context that circularly-causally facilitates it, isn't good enough, yet, neither the "meditation technology" nor the "social technology." There is more to do.
+
+***
+
+Changing topics, slightly, depending on current technology and methods, the available mental/social milieu will sort of stochastically produce net-positive and net-negative "coordinators."
+
+We could have sort of a sophistication axis and a good/bad access.
+
+Low-sophistication and bad is warlords. High-sophistication and good is, say, buddhas and saints. High-sophistication and bad we'll call anti-buddhas.
+
+I'll lampshade that this is extremely reductive. There are no clean examples of any of these, and coordination or governance isn't always "profitably monocausally reducible" to a single individual or a single class of individual.
+
+I don't have enough historical background to comment, but Genghis Khan, the Roman Empire, the Qin dynasty, Alexander the Great, could be case studies of violent unification, for better and worse.
+
+One might think things are a bit better than the above listed examples, in the age of democracy, Westphalian states, and globally interconnected economies, but there are still hot wars, proxy wars, cold wars, "cyber" wars, genocides, propaganda wars, covert and overt assassination programs, nuclear armament and disarmament, a general AI race, and so on. I'm using "war" a little bit too loosely, here, but I think the general point holds. To wit, there is still vicious, violent resource competition, globally, between great powers, perhaps with the possibility of disaster. (And there is also poverty at home and abroad.)
+
+This can be extremely intense to think about. It usually creeps up on a meditator. In a developed country, it was maybe possible to not think about it at all, for the past few decades. But, maybe, history has started again (cf. "the end of history"). If they're not their already, one could slowly titrate "history" and "world" into their "very being and seeming of the world," over thousands of hours.
+
+In any case, so those "coordinators" I mentioned several paragraphs above, in the age of distributed institutions, say there are sometimes people who are "central coordinators," who can remake institutions. (An institution, here, is a pattern of human activity that is somewhat independent of any particular human participating in that pattern of activity.)
+
+Let's distinguish between "relatively rigid" coordinators and "relatively fluid" coordinators.
+
+A relatively more rigid coordinator will have a more dense pattern of phenomenological/epistemic constraints, behavioral rigidities, behavioral/psychological/emotional entrenchment, unreflectiveness, "missing concepts," "'missing' emotions/capacities," and so on, very loosely speaking.
+
+Note that even a "relatively rigid" coordinator, will still be relatively more fluid than a relatively non-central-coordinative person, because it's the fluidity that sort of allows a person to "transcend their distributed niche," in order to have the capacity to remake institutions. Though, that fluidity might sort of be a "forced, effortful, layery" not-really-fluidity, born of trauma, incomplete methods, or other contingency. Some people who are *effortfully* "fluid" become more and more spontaneously, effortlessly fluid over time.
+
+The degree of rigidity and fluidity of a person (and their "fluidity trajectory") are dependent on personal causal history and self-transformative practice/method or life context.
+
+Practices/methods/contexts can be things like professional training, insight meditation, concentration meditation, personal time and task management, philosophical training, other academic methodologies, and so on.
+
+Arguably, a method that is not "fully-self-reflective-at-the-finest-aconceptual-phenomenological-grain" will eventually produce diminishing returns and eventually net negative returns. A method sort of, perhaps, has to be able to eat itself until there is no method and no other remainder, as it were. Anything less will have lots of benefits but will eventually entrench things like those in the loose, informal list above, repeated here: phenomenological/epistemic constraints, behavioral rigidities, behavioral/psychological/emotional entrenchment, unreflectiveness, "missing concepts," "'missing' emotions/capacities," etc.
+
+(Trauma, misfortune, and intense life history will start a person off with more of the items in the above list and with a greater degree of any particular item, loosely speaking.)
+
+Part of the reason a method sort of needs to be able to eat itself is that "method-ification" and "tool-ification" of "bodymind," making transformative practice "separate," making it into a "thing," is already really distortive and problematic, though sometimes, in a sociohistorical context, a net win, if that problematicity is accounted for.
+
+Note, this is so hard. As far as I'm aware, just by way of an aside, there was plenty of politics, violence, assassinations in native Buddhisms, throughout history. Hindu contemplatives, highly enlightened, were often warriors, for better and worse, as far as I'm aware. And, people, even with good method, with have a few "deeply hidden/entrenched issues [see the list above]" that will need many years to be addressed.
+
+*
+
+Now, an "anti-buddha" (or whatever), can be very historically problematic. I'm using the rather extreme term anti-buddha because there's a sense in which they really actually "go against" the "metaphysical (non-)truths" that are revealed through correct meditative practice, and they can spread that "perfect antispirituality."
+
+For example, first, in some meditative traditions, enlightenment involves navigating extremes between nihilism and eternalism, including "positive" non-reification, "positive emptiness," nebulosity, no-thing-ness, no-goal-ness, etc.
+
+But, an anti-buddha (or a sophisticated warlord, cult leader, persuasive politician, etc.) will tear down other people's ideas with (a) weaponized *nihilism* and bullshit (in the technical sense) and will try to entrap people (deliberately or by hillclimbing what works) with *"enternal"* ideas, or "eternal versions" of ideas--god, nationalism, "the future," "necessity." Often, too, there will be apocalyptic imagery offering partial hope but with exhorted resignation on yet more things, producing a sort of aimable zombie hopelessness. (This sketch made some leaps and could be made more mechanistic.) Often they deeply believe in some of their eternalisms and others are insincere affectations, in some complex, shifty combination.
+
+The way things can start, for a relatively rigid coordinator, is that a person can be missing things from childhood, can feel rejected, alone, confused, etc., so they might become fascinated with ideas or texts. If such a text has a *thing to do* then they might start doing it. And if it seems to help, they might double-down again and again.
+
+This could be a sort of (unrecognized-as-such, except perhaps in retrospect) Faustian bargain anti-meditation, at least in part. It could a narrowly deployed “philosophical method.” or dialectical method, or “figuring out what’s wrong with things,” or a type of meditation, and so on.
+
+If the method is very incomplete, then use of it might safely produce positive then diminishing returns without further effects.
+
+If the method is relatively complete, but not complete enough, then this is the potential danger zone.
+
+At some point, before engagement with a method, or during, the invidual may have acquired rigid fetishizations and goals.
+
+A fetish is an ("eternal") stand-in, a "false idol," born out of seeming necessity due to confused nihilism, that sort of narrowly and myopically strips away or abstract details and adjacent features from something, and then the attainment of it seemingly promises safety and fulfillment, in some deeply, cosmically felt way. Note, fetishes are often harmless, sexual or otherwise, and generally the best thing to do with them is to enjoy them, and to meditate, the combination of which will eventually, maybe very long-term, self-alignedly evaporate them.
+
+But "fetishes" are more problematic when they coercively involve people at scale. Problematic ones can be sort of "twisted eternal goodnesses," like creepily wanting to make everyone the same (or *needing* everyone to be the same), or needing people to be "unified," on some deeply warped and creepy "spiritual/cosmic" way. And externalities are ignored or downplayed or deemed "necessary" costs or collateral.
+
+Anyway, a person will be rigidly pursuing fetishized goals (and also often have additional shadow or possibly coercive reproductive goals, that are somehow entangled with the other more surface fetishized goals). 
+
+And so if their method is relatively complete but not complete enough, it will help them get closer and closer to realizing seeming instantiations of the fetish/goal, but the method will also be causing them to "run out of mental 'slack', mentally/behaviorally painting them into a corner, pulling them tight.
+
+Sometimes, the person's effectiveness to influence people and the world will go down, but they might still have enough effectiveness to do local damage at some scale. Additionally, they'll have often acquired even more behavioral rigidity and expanded "nihilistic holes"; they'll be even more fixated on their narrow goals, because of how the method was ekking out more solutions/effectiveness/etc. The plans can become more and more grandiose, involving "'noble' lies," "terrible necessities," and so on.
+
+(Relatively rigid coordinators sometimes supplement an incomplete method with faith healers, "shamans," witches, bad occultism [which makes use of confusions between "reality" and illusion] and more. They can help a rigid coordinator squeeze out more slack in their method, eventually causing further rigidity. Sometimes, such healers, etc., are helping the person be less rigid, too. In any case, attendants/collaborators like this are something to keep an eye out for.) 
+
+As the person keeps applying their method, there can be a "sealing off," where critiques, outside corrections, pleas are fodder for smug, triumphalist dismissals and dehumanizations. ("People who are not overtly trying to become strong are weak, second class," etc.)
+
+To the degree a relatively rigid coordinator successfully influences other people, aside from more overt violence, financial ruin, lost years, etc., there is something like, generally, "out-of-ordering" people.
+
+With an incomplete method, a relatively rigid coordinator will encounter "seeming hard truths, too soon." That is, they'll encounter twisted versions of the truth (or they'll be too young to unconfusedly interpret what they're exposed to), so "kind of right truths", but with terrible implications for self and others. And then, they'll sort of force those "terrible, hard truths" on other people. To the degree that people are receptive, they might somewhat tie themselves in knots to sort of reify those "hard truths," and so those people may try to change "out of order," in self-harming ways.
+
+The ideal thing would be to encounter challenging things about the world in graded ways that lead to up-front metabolization, integration, empowerment, etc. But the relatively rigid coordinator can sort of push people onwards, reflectively or unreflectively, intentionally or unintentionally, sometimes in a sort of blood-from-a-stone sort of way, and there can be terrible local costs or even ones that reverberate through history.
+
+Finally, an anti-buddha might even be "anti-bodhisatva" because of expanding and exponentially compounding nth-order effects. I'm going to allude to "psychic"/"siddhi" stuff, discussed elsewhere in the document. But something analogous applies for just bog-standard "norm erosion" and "character erosion," by example. (Also I don't mean to imply that "psychic"/"siddhi" stuff has more than anything general and incidental to do with buddhas and bodhisatvas, materialist/physicalist/steelmanned, and/or idealized, and otherwise.):
+
+Someone applying incomplete methods is more likely to have magnified and problematic "psychic"/"siddhi" stuff going on, which can lead to contagious fantasy/reality confusion as well as increased "psychic contagion" in general. ("Reality" is generally a fluid, personal thing, modulo non-inappropriately-reified "truth," all things being equal, but there can be particularly problematic possible confusion.) Then, if that person or anyone else in the environment, also has violent ideation, which would otherwise be private and known-to-be-non-real, people might pick up on the ideation, on some level feel like it's real, and this can lead to interpersonal escalating paranoia cycles and even physical violence. 
+
+*
+
+In some sense, we all sort of want to be left alone to grow and play, to acquire wider ambitions, deeper intimacies, wider vistas, at our own pace.
+
+But, sometimes, just like in the books or movies, a looming darkness or more local problem, can sort of force its way into a pastoral setting, sometimes from very slowly and initially from far off.
+
+There are perhaps large-scale, secular trends, global boom and bust cycles [7,8], that are more likely to produce "buddhas" and "anti-buddhas," as it were.
+
+The antidote to "anti-buddhas" is, well, say, "buddhas," but, rather, just in the sense that the maybe-historical buddha was allegedly the discoverer and purveyor of relatively better methods of self-transformation (all things being equal).
+
+If an otherwise-anti-buddha encountered a compelling text or teacher, that had the quality of being relatively very hard to distort or warp or practice incorrectly, that was "relatively complete," in some sense, then they would be less likely to go "full anti-buddha."
+
+(It may be the case that, if they aren't closed off enough, giving an anti-buddha recognizably better methods might cause them to viciously (in a good way) engage with them to become something that is no longer an anti-buddha. (There might be a transient period where they are temporarily more dangerous, and there could be some tail risk that they'd permanently become much more dangerous, if something contingently remained still "stuck.")
+
+Additionally, anti-buddhas aside, transformative practices can directly help individuals become able to participate in the creation and renewal of institutions, for an ever-more-positive-sum world.
+
+Good methods, directly and indirectly, can be used for deescalation and creation. And a fully complete method is, in some sense, perhaps, a very narrow range of things, indeed. (Though, it will include expansive reverie, long aimless walks, creatively, play, etc.)
+
+*
+
+[1] Meditations on Moloch. https://slatestarcodex.com/2014/07/30/meditations-on-moloch/ Scott Alexander. [Last accessed: 2021-02-20]
+[2] Yudkowsky, E. Inadequate Equilibria. 2017.
+[3] Bastani, Aaron. Fully automated luxury communism. Verso Books, 2019.
+[4] https://knowyourmeme.com/memes/cultures/fully-automated-luxury-gay-space-communism [Last accessed: 2021-02-20]
+[5] Gat, Azar. "The human motivational complex: Evolutionary theory and the causes of hunter-gatherer fighting. Part I. Primary somatic and reproductive causes." Anthropological Quarterly (2000): 20-34. [Note: I haven't carefully read this paper, yet.]
+[6] https://flakmaniak.tumblr.com/post/626019326990876672/polygyny-infanticide-and-conflict-in-sexually [Last accessed: 2021-02-20] "polygyny, infanticide, and conflict in sexually imbalanced hunter-gatherer populations"
+[7] Turchin, Peter, and Sergey A. Nefedov. Secular cycles. Princeton University Press, 2009.
+[8] Ray Dalio's published and not-yet-published work on credit cycles.
+
+
+sketching alternatives to straw realism (international and group relations) [draft!][2500 words]:
+
+[Originally published: https://meditationstuff.wordpress.com/2020/05/03/sketching-alternatives-to-straw-realism-international-and-group-relations-draft2500-words/ Last accessed: 2021-02-20]
+
+[This is a really compressed draft. Some stuff is introduced or “marked” really abruptly and isn’t given time to breath.]
+
+I’m just pulling a bunch of this stuff off of wikipedia, quick first-pass, and indiscriminately mixing in… other stuff. If you’re a Great Power, don’t take advice from me about international relations. (<– Yes, this is a joke. –>) Just saying.
+
+So let’s consider (my hasty conception of) a straw realist [1]. Jumping right in, you may have to re-read this or click some links, and I’m mixing wikipedia-grade international relations with crackpot psychology, the straw realist seeks to be the stably uncontested leader of a hegemon, because being the leader of a hegemon is the greatest personal/familial/tribal protection against (totalizing? [2]) subjugation or annihilation.
+
+It’s probably a good idea to highlight the distinction between (a) the straw realist and (b) the straw hegemon. A hegemon can change leaders while remaining a hegemon. And, there’s at least two perspectives one could take when abstractly conceiving a straw hegemon. First, one could simplify things by conceiving of a (perfect/ideal/abstract/straw) hegemon as having a unified will/intention. But one could also profitably conceive of a hegemon as “fractal power relations all the way down to the level of straw realists.” That is, one could conceive of a hegemon as being composed of straw realists vying for total power. In this latter case, in some sense, this “hegemon” is maybe technically no longer a (perfect/ideal/abstract/straw) hegemon. The left hand might not know what the right hand is doing. The “entity conceived as such” may act against itself at times or just kind of blob out, in a lot of wasted time/money/energy/trust/something, because everybody is sort of fearfully, myopically striving for total power. (Again, this is a straw conception.)
+
+So, now let’s unpack and critique the “straw realist.”
+
+Again, the straw realist single mindedly seeks total power because they believe it’s the best plan for being safe. Note that the straw realist is a fearful pessimist and doesn’t believe they’ll ever actually be safe. They are resigned to deep-down, terrified paranoia, forever. But, even given that resignation, seeking total power is still the best plan under a tiniest sliver of hope for safety. The fear of a straw realist is perhaps a fear of psychological, social, and/or bodily annihilation, with no hope of salvation.
+
+But! What if!
+
+Sender criteria:
+	(*) a person (or group) could sufficiently competently *enact* nonviolent/peaceful/collaborative intentions
+	(*) a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+
+Receiver criteria:
+	(*) a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+	(*) a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/peaceful/collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
+	(*) a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/peaceful/collaborative intentions
+
+Let’s call a person (or group) that has all of both the sender criteria and the receiver criteria a “straw enlightened person” (or group).
+
+So! What if!
+
+What if all people and thus all groups were straw enlightened? Then there would be nonviolent/peaceful/collaborative synergy! We could then solve suffering, health, coercion, energy, mortality, and existential risk! (Oops, circularities abound!)
+
+“Ah ha!” says the straw realist! “But there is no button to push to have that! One way or another, we ended up with warlords and tribes, and then we ended up with global competition and great powers! Anarchy yields global competition and great powers! And I, the straw realist, will even admit that no one necessarily wants this! I might even admit that our very actions cause it! [3] But, there is no other way, because people are not naturally altruistic beyond family or tribe. Even ‘self-interested altruism,’ strategic generosity, grace, magnanimousness, isn’t really ‘intrinsic,’ isn’t really ‘sincere,’ and is unstable. And so we have the world today. At the bottom of everything is threat of violence and fear of suffering and death. That is what power is, threat or actualization of violent coercion, and it’s the only thing that matters.”
+
+There’s a lot of circularity and confirmation bias in the straw realist position directly above, but it’s good enough, for our purposes. (Heh.)
+
+International relations theory has of course thought about all this stuff (and more thoroughly and completely than I have, that could go without saying). This blog post isn’t even a survey; there’s a gazillion concepts and buzzwords (and shibboleths) that I haven’t mentioned. Somewhat relevantly, here, there’s ideas like “decentralization” and “nonpolarity.” These terms can be used very precisely within a particular paradigm, but decentralization might be something like spreading out power inside of group. And nonpolarity [4] might be something like power spread out between groups, to the point that no single group has particularly dominating power, along maybe a single dimension or net across all relevant dimensions. Decentralization and nonpolarity are critiqued in a straw realist paradigm, maybe using straw liberalism [5] as the containing foil.
+
+Anyway, so, as we look at the world, at the time of this writing, we arguably don’t see hot wars (arguably, because proxy battles/wars [6] are a thing, if you know where/how to look). And, arguably, we do see, maybe, cold wars, depending on how the term “cold war” is defined. But… like… maybe things are chilling out, overall? Proxy stuff aside (and that’s a big aside), I think it’s at least (contentiously) argued that democracies don’t go to war with each other? And, roughly speaking, with some dips, poverty is being alleviated to a greater degree with each passing year?
+
+So maybe things are “fine,” modulo continued human suffering, and getting reliably “more fine,” with each passing year?
+
+The straw realist might say that all the “fine” and “getting more fine” is a veneer or at least very fragile: “At the bottom is fear, threat, and selfishness or tribalism, and everything is held together, barely, by bluff or commitment to credible violence, nuclear weapons, domestic police or peace officers, or otherwise: USA/Russia/China/whoever, these visions of the world are different–goodness and especially safety LOOK DIFFERENT to different powers, and irreconcilably so. Heck, deep-down, some people think the best way to ‘save’ the world is to ‘destroy’ it, first! So trust is naive. Nuclear weapons, space weapons, and unstoppable, undetectable micro-drone assassinations, that look like naturally caused death are all there is. [non-straw-realist/editor’s note: As far as I know, the latter micro-drones don’t currently exist and maybe can’t practically exist or be worthwhile.] And global warming, pandemics, fast global travel, and globe-spanning weaponry are only making things more fragile.”
+
+***
+
+If one would like to gaze into the abyss, one can even dive into a deep well of fear and paranoia. One might even think they have only two choices, between (1) a “normal,” intimate, safe life. (A powerless life???????? An ignorant life?????????) And then (2) some sort of abyss-gazing thing that, extreme worst case, accidentally gets themselves “disappeared,” through maybe some impulse to act in the face of seeming-otherwise meaninglessness or feared-inconsequentiality.
+
+And, so…
+
+(*) What is the world?
+(*) Is the world safe or unsafe?
+(*) Is the world good or bad?
+(*) What is a life?
+(*) Are you, personally, safe or unsafe?
+(*) Is your life good or bad?
+
+How do these questions get answered?
+
+On the one hand, we are products of our environment: tv, influential peers and elders, google filter bubbles, one’s personal propensity to google…
+
+We practically don’t even ever know there’s ever even a there, there, unless, sort of, someone points it out, hopefully in a gentle or uncoercive way.
+
+[Side note: And, it’s good to ask, how does the person who does that pointing-out benefit from doing that pointing out, and from doing the pointing-out in that way, with that framing, in that context? And, it’s also good to go another layer up–who else, besides ostensibly you and the person doing the pointing-out, benefits from that person doing that pointing-out… As in, what led to that person being someone who does that pointing out? Causal history, years, decades, centuries, millenia back, grounded in relatively accurate conceptions of synchronic human nature.]
+
+On the other hand, through the grace of serendipity, imperfect friends and mentors, that crazy google search, the spontaneous, inherent nature of our mind and will, there’s this other sense in which we are not products of our environment; we are something discontinuously more than the products of our environment, ever always striving towards transcendence of contingency and limitation, towards safety and wellbeing, perhaps in some causally consistent sense.
+
+***
+
+The way it can kind of go, is that some people are living an actually, truly, really good (enough) life. The whole world, at the moment, breaks down without machinists, truck drivers, automators, programmers, lawyers, doctors, stockers, politicians, diplomats, soldiers, something. It’s not perfect, but, right here, right now, there are so many roles that are keeping the thing going. Sometimes it’s actually not that fragile, and sometimes it is. But all these roles are, at least in part, positively impacting other people, at least locally and partially. (And sometimes these roles are part of an actually, truly, really good (enough) life, and sometimes these roles are a part of life “led in quiet desperation.” When life is hard, it’s hard; And, it often is. It just depends.) And/but, with these roles being enacted, the world keeps going, with a chance of getting to a better thing.
+
+And then, for some other people, lots of people, it’s not an actually, truly, really good (enough) life: something is bad, somewhere. Maybe they determine that badness is in themselves, the world, or both.
+
+And, as a solution to that badness, maybe they seek to escape or alleviate that badness, through, say, or spiritual enlightenment, or worldly power, or all sorts of less extreme things.
+
+And some people find peace or intimacy or security along the way.
+
+And some people might fall into an abyss, trying to figure out how they work, or people work, or the world works: One might get stuck, at least for a time, thinking that the world can’t work or the truth is too terrible. And, they might inadvertently, circularly be confirming to themselves the very seeming badness they wish to solve.
+
+Sometimes, maybe often, people mistake childhood hurt or misinterpretation as the way the entire world works, the way the entire world must work, without remainder or alternative. And this straw trauma survivor is the straw realist.
+
+But, through therapy, journaling, meditation, long walks in nature, friendship, intimacy–bottleneck can become process-in-context. Therapy, meditation, etc.–these are privileges, to be sure. They require just enough health, just enough money, just enough space, just enough time, if not an abundance, of all of these, and these things are unevenly distributed, and hard choices might be needed to determinedly acquire them.
+
+***
+
+Whatever the world is, what ever a life is, safe or unsafe, good or bad, desperate or secure–the heart beats, the lungs breath, gravity and oxygen and warmth and atmosphere persist and nourish, in this moment, and the next, and the next. In some sense, we will only ever know this.
+
+So how do we live, in this world good/bad/safe/unsafe world, that, in any case, carries us in each moment of our lives?
+
+We do so, perhaps, by just living, and, perhaps, also, self-transforming as we have time and as makes sense.
+
+Only we can decide whether dark terribleness, is in us or in the world, and only we can determine how it got there in the first place. The is epistemic agency and also well-being agency. [7]
+
+Is the world good or bad? Now or later? Is your life good or bad? Now or later? And do the answers ultimately depend on self or world?
+
+In SOME nontrivial sense, maybe the only sense that ultimately matters, it’s up to you.
+
+And what of international relations? Or inter-group relations? Escalations and security dilemmas? And impulsive, fear-driven violence that has already happened, tit-for-tat, an eye for an eye, over and over again, personal and generational histories of trauma?
+
+Can we all be straw enlightened people or groups? Is it too late?
+
+There’s maybe a piece left out of the criteria above. I know they’re phrased awkwardly, but I chose the words pretty carefully, single pass, if you’ll look at them again. I’ve copied them again, here, exactly:
+
+Sender criteria:
+	(*) a person (or group) could sufficiently competently *enact* nonviolent/peaceful/collaborative intentions
+	(*) a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+
+Receiver criteria:
+	(*) a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+	(*) a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/peaceful/collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
+	(*) a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/peaceful/collaborative intentions
+
+Ok, but then, one more time, the straw realist says, “Well, I hate people, and/or I think your culture is disgusting, and/or the world must be burned to the ground to save it. Or, if I don’t think that, someone else will. So what of your ideals or beautiful aspirations? Violent power is what matters; violent power is security. And then the whole thing is just waiting to blow up.”
+
+So there’s maybe one more point to make, with the sender/receive criteria. (And, again, this is draft. There could be so many issues.)
+
+The better one embodies the sender/receiver criteria, the safer it is to become recognizably and actually strong. You will be less likely triggered into doing impulsive, destructive things that are hard to take back, even if you have some capability to do so. You’ll be less likely to trigger other people into doing impulsive, destructive things that are hard to take back, even if they have some capability to do so. And actors with the propensity to lead with violence will think twice, because of credible capability or at least a carefully measured, adequate response. And, all the while, the sender/receiver criteria maximize the possibility for diplomacy, communication, synchronous de-escalation, collaboration.
+
+The details matter, to be sure. Getting erroneously triggered doesn’t always feel like getting erroneously triggered. Seeing threat where there is or isn’t threat is deeply contingent and has to be meta managed by personal transformative practice or norms or formality, etc. Signs and signals are deeply contingent. Something that feels nonviolent to one party may initially feel very violent to another party (and actually be contingently violent). Something, somewhere, needs to be sensitive and responsive. Someone, somewhere will need to grow and change, and there can be strong initial disagreements about who/how/when/where. And the world is weird. There are dragons and surprises.
+
+But there is always a way forward. You can have 200% responsibility, including making up for regrettable mistakes.
+
+And, sometimes, the option space is very large and good, given enough time…
+
+Some might find, through service or practice, the sense, compatible with materialism, physicalism, naturalism, in which humans are, deep-down, at the very bottom, spontaneously compassionate, kind, loving, while simultaneously being discerning and strong, in a way that allows them to interact closely and intensely with others, despite differences, in the service of valued mutual goals and live-and-let-live.
+
+One might keep asking, what does the best safely reachable world look like? And, it might look very different from this one. And the way to get there might look very strange, while maybe necessarily being a path that is humane, non-authoritarian, and non-coercive, nonviolent while still self-recognizably requiring challenging growth and change for many. All the details matter; if you’ll permit me: we’re all paranoid, indignant humans, myself included. And there are real predators among us and within all of us, though they deserve compassion and a recognition of the sense in which this is not our true nature. And/but, while the stakes are real, in any case, so much is so good, now; and, in this exact very moment you are safe; and nothing is required of you; you have no duty, there is no judge; and that best safely reachable world might look very good, indeed…
+
+[1] https://en.wikipedia.org/wiki/Realism_(international_relations)
+[2] https://en.wikipedia.org/wiki/Totalitarianism
+[3] https://en.wikipedia.org/wiki/Security_dilemma
+[4] https://en.wikipedia.org/wiki/Polarity_(international_relations)#Nonpolarity
+[5] https://en.wikipedia.org/wiki/Liberalism_(international_relations)
+[6] https://en.wikipedia.org/wiki/Proxy_war
+[7] https://meditationstuff.wordpress.com/2019/09/17/human-epistemic-dynamics-and-phenomena/
+
+
+
+karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words): 
+
+[Originally published: https://meditationstuff.wordpress.com/2020/04/23/karma-losslessness-developmental-stage-models-violence-world-including-ken-wilber-and-robert-kegan-draft-6000-words/ Last accessed: 2021-02-20]
+
+[These ideas are not all my own. They draw from so many people, not all of whom are explicitly named below.]
+
+[If you lose the thread a lot, it’s me, not you. This is a draft.]
+
+To get things going, we’re going to mix a bunch of metaphors, here. First I’ll sketch two quick starter metaphors, then I’ll mix them, and then I’m going to mix in more metaphorical stuff as we go.
+
+*Metaphor part 1:*
+
+One can imagine the operation of the bodymind to be something like a huge, three-dimensional tetris game. [1] Normal two-dimensional tetris has tetraminoes, and, in this three-dimensional case, we have tetracubes. [2] (There is an actual videogame called Tetrisphere [3], although it works a bit differently than with descending blocks, as in two-dimensional tetris.)
+
+Remember, in tetris, the goal is to free up space, for more incoming tetraminoes, by arranging currently descending tetraminoes, so that they, and already placed tetraminoes, disappear.
+
+*Metaphor part 2:*
+
+As we take actions in the world and have experiences, one could imagine that we (our bodyminds) are each something like a gas giant planet [4], like Jupiter or Saturn. There’s space. There’s a gravity well. There’s a three-dimensional center. Maybe there’s a small, rocky core, floating in the center of the gas giant, utterly dwarfed in scale by the size of the gas giant surrounding it.
+
+*Metaphors mixed:*
+
+Ok, so we’re taking actions in the world, and we’re having experiences, and one could imagine that every experience we have is a new tetramino/tetracube: There’s these shapes continually appearing in the atmosphere of that gas giant. And while we’re moving around in the world and thinking, shapes are slowly descending, and more shapes are appearing.
+
+*Another piece:*
+
+And now consider that every single tetramino is connected to every single other tetramino by strings. It’s a complete graph, where the tetraminoes are the vertices and the strings are the edges. As new tetraminoes get added in the far atmosphere, near the edge of space, those strings magically appear.
+
+*Another piece:*
+
+And now consider that all of this is happening inside of a cardboard box–the gas giant, the tetraminoes, the strings–that box is getting filled with tetraminoes, over time, as you move about in the world and think.
+
+Ok, so just like in tetris, say as tetraminoes descend and touch down, far below, and more tetraminoes continue to descend, particular columns (or, in three-dimensions, regions) can start to stack up towards the sky.
+
+So, in particular places, that cardboard box surrounding everything can start to bulge, in different three-dimensional directions. It’s not game over, but it can mean muscle tension, rigid behavior, increased blood pressure, stress, difficulty sleeping, irritability, and so on, because somehow this is all also the bodymind.
+
+*Another piece:*
+
+In this game, tetraminoes don’t disappear, they never disappear, but let’s say each tetramino, really, tetracube, can nest perfectly inside tetracubes of the same type, without taking up any additional volume. Let’s say there’s alway at least one “side” of a tetracube that is permeable. So, if one can move things around enough, to get enough strings out of the way, and one can line up two similarly-shaped tetracubes, then one can “shrink the number of tetracubes in play” and “create additional space” inside the box, by fitting one tetracube inside another. One could do this for thousands, millions of tetracubes, billions, over and over again across a lifetime.
+
+This isn’t a perfect metaphor, because this is sort of potentially topologically impossible, given a “reified” complete graph, depending on the length or stretchiness of the strings. to do this “space creating” move an astronomically vast number of times, without getting things ever move tangled.
+
+But pretend this can be done “perfectly” or “cleanly,” indeed an astronomically vast number of times, and it is like a puzzle–you might be carefully rotating and nudging shapes for hours, weeks, months, finding little wins, even locally making more of a mess to find some of those little wins. And then maybe every once in a while, you get things lined up right, and vast three-dimensional spaces collapse into themselves, huge whooshes, perfectly, without messy remainder. But, very often, amidst those small, medium, and huge wins, there’s a tremendous amount of compensation and re-compensation going on: all the little tuggings you’re doing are tugging, fractionally, on every single other piece in the entire box. Locally wins might be causing columns to rise and bulging to happen on some distant region of the box, even faster than tetraminoes are falling in that part of the space.
+
+So this is a vast, global, combinatorial optimization problem.
+
+But the wins are highly nonlinear. somehow this metaphor relates to brain synapses, protein synthesis, axon potentials, and the physical movement of the body. But I want to give handwavey, metaphorical sense of scale. Say like the cardboard box is the size of earth, even though we were talking about gas giants. And let’s say that things can go from that box just bulging with tetraminoes, to huge wins shrinking the number of tetraminoes in play–from filling a space the size of the earth to filling a space the size of a basketball/football/soccer ball. Planet earth versus a sport ball. I’m just handwaving here, and maybe this is starting to get particularly misleading, phenomenologically speaking, but I want to give a sense of how much “compression” is possible. And, remember, the shapes fit perfectly. So it’s NOT like there’s a lot of “potential energy,” like that basketball is straining to explode. It’s an effortless, stable, forget-about-it perfect fit.
+
+One could say that this space-saving corresponds to elegance, simplicity, parsimony provisional “occam’s razor-ness” in, I’m just handwaving, here, say, (a) elegant “beliefs” (or how the world seems or appears) and/or (b) how the world appears, and/or (c) multifinal goals, and/or (d) elegant solutions to life’s problems, and/or (e) social grace, and/or (f) physical grace, and so on.
+
+Furthermore, the process of “making space,” “making room,” this “puzzle-solving,” can correspond to something like resolving inconsistencies, contradictions, contention. Theoretical elegance, informally (and maybe idiosyncratically) speaking, is something like “the greatest explanatory power, with the fewest number of theoretical elements, with the smallest number of anomalies (of which can perhaps generate those contradictions, depending on what’s “signal”/explained and what’s “noise”/anomaly.)” Anyway, theory-building can get very formal, and let’s say we’re still being metaphorical here. I’m talking about the version of this at “the bare metal,” theory building, action planning, and so forth, as the spontaneous activity of mind, including with “raw phenomenological correletes.”
+
+(Another thing to keep in mind is that there cannot be arbitrary states changes. To get to a particular state, this system has to move through intermediate states, necessarily. No discontinuities. There might be an optimal path and maybe a series of necessary bottlenecks, but a bunch of other states could be explored or backtracked on the way from point A to point B (which will generally not be known or accurately conceived of in advance.))
+
+*Losslessness part 1:*
+
+Now, I want to emphasize something in particular about this metaphor–and that is its losslessness. All the strings are still there, somehow, all the nested shapes are still there.
+
+And, in fact, while puzzle-solving, to make more room, sometimes we will need to unnest already nested tetraminoes to find new configurations that save even more space. Sometimes we’ll need to unnest vast numbers of them, over and over again, to figure out a different, more elegant global solution, as tetraminoes keep coming in.
+
+*Developmental stage models:*
+
+Ok, now let’s talk about developmental stage models. Ken Wilber has collated a bunch of these, and I think he personally refers to fulcrums and vertical development, among other things. There’s Jane Loevinger’s ego development, with Susan Cook-Greuter’s extensions. There’s Piaget, Carol Gilligan, Lawrence Kohlberg, Spiral Dynamics, Kegan, James Fowler, and so on. These tend to be psychologically flavored, edging into the so-called spiritual.
+
+And then there’s stuff like Aurobindo’s work, that has maybe an epistemological-moral-spiritual focus. And this maybe edges into “cultural” stage models. And ditto Hegel. I’m just sketching; I’m going to get a lot of details wrong.
+
+*Meditation, spirituality, and developmental stage models:*
+
+The relationship between meditation and developmental stage models is somewhat contentious.
+
+A lot of meditation teachers downplay or deny the relationship between meditation and adult development, perhaps in part because spiritual/meditation gurus can use claims about their own development for coercion of authoritarian purposes. And adult development, as a set of ideas, can greatly muddy meditation pedagogy, theory, and practice. It’s very helpful to keep meditation instructions, even meditation progress maps, as spartan and minimal as can be.
+
+But meditation does seem to go through stages, so it seems natural to try to line up meditative stages, somehow, with developmental stages. Meditation stages might be something like, I don’t know:
+
+(*) “figuring out what to provisionally be doing, at least to start,”
+(*) getting intimations of “emptiness”
+(*) entering the stream (deep though partial insight into emptiness)
+(*) … [intentional ellipses]
+(*) refactoring experiential-conceptual containment relations
+(*) integration of body and mind
+(*) diminishment of self-referential phenomena
+(*) sensory stream refactoring and semi-parallelization
+(*) … [intentional ellipses]
+(*) standing as awareness (and beyond)
+
+(The above lines up a tiny bit, in places, with the classical stages/progress of insight, but that’s a tighter/shorter loop, as it were.)
+
+Ok, anyway:
+
+So there’s the elegance stuff from farther above (elegant believing/seeming, social grace, physical grace, multifinal goals and plans). That can sort of be arranged in “stages” or along a gradient.
+
+And there’s the meditation stages immediately above.
+
+And then there’s the adult developmental stages research constructs above.
+
+I do think they’re kind of all the same thing, but I’m not just handwaving it all together. I want to connect it all to the metaphor above.
+
+So the bodymind is vast, right? That tetramino gas giant thing. And there’s that highly nonlinear “elegancing,” problem solving, something.
+
+Ken Wilber talks about a person’s psychograph, being able to plot where a person is on along different, semi-separable lines of development: cognitive, moral, etc.
+
+He notes that the cognitive line kind of bounds progress along the other lines (think something vaguely like IQ, maybe). I would call that line maybe “spatiotemporal phenomenological-conceptual grain” line. These are models, theories, metaphors. (Note that “IQ” and phenomenological grain are highly malleable, within-person. Remember that nonlinearity: planet earth to soccer ball sizes.)
+
+I want to generalize “semi-separable” beyond just the “cognitive” line. Remember the complete graph of the tetraminoes. I want to add something like the concept of “slack” or “give” or “slop.” The mind is anything but noisy or sloppy, once you really start paying attention. But, one can rearrange things a lot, as it were, before the cardboard box starts bulging. There’s enough slack for a person to be heavily developed on some lines and less developed on others. And there’s enough slack for a person to be pretty far on the meditation line but still be underdeveloped in other ways.
+
+People like to say that there is no “general skill acquisition,” that skill acquisition is concrete and situational, always. But, that’s clearly not true. People can learn how to learn, unlearn learned helplessness, and so on, all things being equal. There’s a sense in which this is just as contingent as any other “skill,” but there’s clearly something more general or special about it too.
+
+This is too quick and jumpy of a segue, but I would claim something in the space of “meditation” as being the “most special” of skills. It doesn’t have to be formal meditation:  people who are flexible, proactive, and resilient might be uneven/fragile/lumpy in various ways and in various unfortunate contexts, but they’re probably doing something meditation-y, as I define it, somewhere in their minds and life.
+
+*the meditation paradox:*
+
+Ok, but do we even think of meditators as flexible, proactive, or resilient?!
+
+Meditation teachers, sometimes, are held in esteem for their wisdom, compassion, social grace, or spiritual grace. Sometimes that list includes philosophical skill or administrative skill (e.g. running monasteries or entire religions).
+
+But the meditation students?
+
+There’s the cliche of broken monks. And don’t meditators often seem to be, maybe a bit more relaxed in some ways but maybe more anxious in others, sometimes?
+
+So meditation is good(?) but meditators aren’t generally that impressive? A paradox.
+
+I would point to at least three things:
+
+(*) the intrinsic nonmonotonicity of meditation
+(*) the state of meditation pedagogy
+(*) cultural disprivilege of meditating
+(*) contingent life tradeoff imbalances
+
+To take all of these, briefly:
+
+
+*nonmonotonicity:*
+
+As we saw above in the tetris model, sometimes things have to be greatly unpacked before they can be properly repacked with incoming tetraminoes. There can’t be instantaneous and arbitrary new packings. There has to be intermediate states, and some of them can be problematic, some of the time, all things being equal. And all this happens in real time–weeks, months, years.
+
+
+*the state of meditation pedagogy:*
+
+Generally speaking, meditation instruction is just not good at efficiently moving people along on the general path towards more elegance, noncontradiction, noncontention. This is for many reasons beyond the scope of this post.
+
+
+*cultural disprivilege of meditating:*
+
+This somewhat connects with the bullet above. Efficient meditation is time consuming and money or relationship consuming–and risky–in terms of health and life counterfactuals. And there isn’t a lot of cultural support, depending on the culture. One could say something, here, about institutions, knowledge transfer, and so on.
+
+
+*contingent life tradeoff imbalance:*
+
+(This will be discussed below.)
+
+
+*meditation and stages redux and problems and solutions and power and the world:*
+
+Ok, paradox aside for the moment, grant me that some ideal form of meditation, in the limit, all things being equal, gets you things like better beliefs, plans, goals, behavior, and so forth.
+
+What should or could this limit look like, ideally, a bit more concretely?
+
+Tantra does talk about personal power, which might involve charisma. And, hopefully it’s the nonviolent kind. We’ll get to that.
+
+Let’s talk about a “normal life” and then talk about some edge cases.
+
+Say a person born into a normal life, whatever that is, contingently ends up being pretty good at the tetris game, relatively speaking. They had a childhood that didn’t tangle things up too much, and they had time and space to play, run around, stare at the ceiling, just enough, again, to be relatively pretty good at that tetris game. And so life happens, they’re exposed to opportunities, they contingently develop interests and skills, and have pretty engaging plans, friends, intimacy, family, etc. Problems come up, and they do ok puzzle-solving them.
+
+Ok, next example, now let’s say someone does something which I’ll call “acquiring a linear ratchet.” In this case, based on activity within and experience without, they can *really* good at the puzzle game *in a particular region.* This translates to some kind of skill in the world, albeit potentially fragile or brittle or highly contextually bounded. They might find this skill or region because something *did* go wrong/bad in childhood, so they’re desperately casting about, and they get relatively lucky. (Or maybe they got really lucky by just having a great mentor, without something really bad happening to them, to make them desperate.)
+
+One could consider an ideal style of meditation to be a “most general or fundamental linear ratchet.”
+
+(Anyway, it may be that it’s more likely for (a) bad things to happen in childhood than there are to be (b) ok childhood’s with a decent supply of excellent mentors. So it may be the case that most people are casting about for a “linear ratchet” to compensate for their life situation or puzzle solving to be suboptimal in other ways, with problems compounding on top of problems.)
+
+Let’s consider a few cases, one of having a bunch of problems and *not* encountering a linear ratchet. And then a few general cases of *acquiring* a linear ratchet.
+
+So let’s say a person is traumatized, and their puzzle-solving system gets tangled up. They might have problems on top of problems–health problems, interpersonal problems, attention/learning/something problems, meaning/purpose problems, and so on. I mean, they might not be traumatized–this is also just life! Life is hard! Anyway, usually a person in this situation will be making hard tradeoffs. They might have great friends but their money situation is not what they want it to be. Or vice versa. Or money is going well but health is suffering. Or they have friends and money but they don’t have the time to figure out intimacy. And the cultural milieu will contingently make some things harder than other things, in general, or contingently, for that particular person.
+
+Ok, now let’s consider a person, who got *really* tangled up, and so they’re desperately casting around, and they do find some kind of linear ratchet. Let’s make two straw categories, one focused on the world within and one focused on the world without.
+
+So, taking the world within, let’s say this person latched on to philosophy, mathematics, programming, something, early on as a life solution, so it was intrinsically fascinating. They might traverse this line just enough to not make too hard of tradeoffs in their life: enough money, enough intimacy, and so forth. But let’s say that something is still just not quite working. So, because this is their main ratchet, they might double down, deeper and more abstract philosophy, more powerful mathematics, more esoteric programming languages. Let’s say this really starts to shear against friendships, or tenure, or the programming languages that are good for getting jobs. But, there’s just something so compelling there, for them. Sometimes this leads to a hobby on nights and weekends, sometimes madness, sometimes repeated breakthroughs that can be traded for money or other goods (sometimes this feels amazing and sometimes it feels like selling out or a terrible distraction).
+
+And, if we take the other case, the world without, I haven’t studied the psychology of highly successful professionals, world leaders, and so on: Some of these people are quite “balanced,” and we’ll discuss this more below. But, some of these people are trying to fill some void within themselves or to escape some pain, and so they ratchet, double down on acquiring influence, resources, and so on. This can be quite healthy, but it can also be very lopsided. Many influential people of course have shaped the world in mixed ways, enabling coordination and discoveries that have improved so many lives but at arguable cost, which we’ll talk about below.
+
+
+*A sketch of the meditation ratchet*
+
+Ok, so let’s say someone picks up an ideal form of meditation.
+
+(I’m not saying my current stuff is in any way ideal, by the way. Maybe wait for me to be either really happy or really successful, or wait for version 500 instead of version 84 (the current version at the time of this writing). But, if you’ve read all the warnings and qualifiers, join us now!)
+
+Anyway, let’s sketch a thing:
+
+According to Ken Wilber, the impetus of stage development is encountering problems that cannot be solved at the current stage. “Mo money mo problems”/”Mo stages mo problems.”
+
+[I forgot to put this above, but I think there’s a few not terrible research papers that give support for people moving through some stage models faster if they’re meditators (or if they cross-train, e.g. they’re weight-lifters in addition to X.]
+
+Ok, so if someone is going up in stages, they’re going to become more discerning, and they’re going to realize new and creative (and horrifying) ways in which their problems are not in fact yet solved.
+
+And, if someone has accelerated this process through a quality meditation system, this is going to be even more pronounced. Recall the nonmonotonicity described above.
+
+Recall that often a person is casting about for a ratchet because something kind of went wrong with their puzzle-solving system. Meditation is a pretty extreme ratchet, and it’s pretty hard to find quality meditation instructions. So, one might imagine that a person reaching for meditation, and then doubling down and seeking better and better meditation instruction might have a lot of trauma/something/X. (Again, it could also be the case that they lucked out in stumbling on quality instructions or mentors that they were able to trust and follow.)
+
+Ok, so here’s a person who maybe had some bad stuff happen to them, and maybe reacted really impulsively to that bad stuff (because they didn’t know any better) and then those impulsive solutions begat even more difficult problems. Maybe they fucked up their life even more. And meanwhile their stumbling towards more and more effective meditation. And, if it kind of works, things are getting better. …… BUT suddenly things are also getting worse! Because, correctly or incorrectly, they’ve ascertained that the world is even harder than they thought it was! More dangerous! More scary! At least seemingly!
+
+(And so people can get stuck in sort of this valley of bad meditation, where they’ve gotten just far enough to make things seem even harder than they were before, and it’s overwhelming to figure out what to do next, because maybe they’re running out of money or relationship capital, and they’re thinking and acting suboptimally. This is really hard stuff.)
+
+(By the way, I can definitely map my life to aspects of this, but I’m not just straight-up describing myself!)
+
+So this gets into things like the horrors of the self, or the horrors of one’s goals, or the horrors of the world. Regarding the self, one might find themselves judging themselves, transiently, seemingly, as terribly, irredeemably bad/useful/evil/hateful/something. Regarding the horrors of one’s goals, one might find, transiently, seemingly, that one’s goals are too hard, too fantastical, too self-serving, too immoral, and so on. Regarding the horrors of the world, one might be struck, seemingly, transiently at how tooth-and-claw everything is: it seems like we did get pretty close to nuclear war, maybe. Assassinations do happen. People do get “disappeared.” Individual people are more harmful than you previously thought possible, again at least transiently or seemingly. There is existential tail risk, for self and world. Also, there’s the problems of suffering, mortality, intimacy, eschatology, cosmology. Holy shit. Before, maybe you just didn’t have the resources to think about some of these things, or you were able to find solace in both healthy and unhealthy ways.
+
+If you’re lucky this’ll be sort of punctuated, things will get hard/depressing/scary/horrifying maybe just a little, maybe a lot, maybe you’ll experience fear, paranoia, dysregulation, but it’ll be relatively brief, or it’ll come in waves but they’ll be relatively brief swells. An unlucky version is kind of racing along and then smashing into all this headfirst at very high velocity and then one can be less functional for a very long time, including physical sequelae. Sometimes, there’s a period where something is wrong, but you don’t know what, or you’re just experiencing physical symptoms like muscle tension, and you don’t know why, and maybe they’re getting worse and worse, and then finally you kind of figure out what’s going on. And then weeks or months later there’s a big whoosh and you know, not just what it was all about, but also things are much better. Sometimes it’s not that clean and there’s a whoosh but lots more to do. And sometimes there’s a big whoosh but you need like five more big whooshes, and you don’t know what they’ll be or how far out they are, and it’s really unpleasant and scary.
+
+(And this sort of circles back to the “contingent life tradeoff imbalance” thing above. Perhaps, because someone is meditating in the first place, in some ways, maybe, they might be “much deeper in a hole” than the average person, on at least one major dimension, maybe. So, not just “mo stages mo problems” but “really big old problem,” or several. Of course, this is probably better than many, many other life situations, in the relative sense. Maybe better to have a ton of money or no childhood trauma, *maybe*, *sometimes,* but to have, say, a huge, crippling, truly experientially horrifying life problem [maybe buried somewhere deep-down] and also having enough resources to meditate and to seek quality meditation instructions–that’s maybe a really good life on net, depending on how everything shakes out.)
+
+There’s kind of a tragic thing, here. What I call the “last gasp.”
+
+One is sort of making it safe to re-experience things, as part of how meditation works. So often a person will re-experience at least a shadow of old bad things, things that they thought were long resolved, in the course of a great deal of meditation. (One trap is thinking that they’re not making progress because this thing has come up more than one time. It’s progress! That’s just how the mind works.)
+
+But there’s another thing that’s more problematic: If a person was crushing down a bunch of stuff. And they stop crushing. But say they haven’t fully worked through the thing under the crushing. If something happens in the world to trigger them, like they see their old girlfriend or whatever, they might have a more extreme, more impulsive, more destructive reaction, in that particular case, than if they hadn’t ever meditated. Behavior, belief or the very seeming of the world, and its attendant justification, will become live again, seem like the right thing to think/see/do. And then you’ll be in old destructive patterns, as bad or even worse than when those initial patterns were getting laid down. And then it’s maybe doubly regretful because this “last gasp” can go by fast. It can be embarrassing, especially if one is a self-styled advanced meditator. And if only you’d gotten to that old stuff, metabolized it, before being triggered. One just has to be as careful and meta-careful and meta-meta-careful and responsible with and around other people as they can be, and to make amends and reparations, if warranted, in a way that actually delivers.
+
+*The world part 1:*
+
+Ok, but somehow this meditation thing just keeps going, you keep going. Naturally, inevitably, you don’t have to force it, you start being able to grasp more and more of the entire world. Previously, the world was this big, incomprehensible thing. Or like you could gesture at aspects of it. Or you hated learning about history or something. But remember the elegance from above, that “compression.” And, in your life, “smaller” (though no less important) problems are getting solved. Intimacy is sort of making more sense. Social situations have a cognitive ease they didn’t have before. There’s more space, more time, your mind is clearer. (This is on the order of 4000 to 10000 hours of meditation in, or even more.) The gazillions of little details you had to sort of keep track of by reminding yourself, over and over again, are kind of filed away, things are just more handled, out into the future, or not, but you kind of know *how* you’re going to handle them, so you can kind of just do cumulatively constructive things in the moment. And so your scope and time horizon expands.
+
+To be sure, your life still might be kind of a mess, and you might be making risky tradeoffs, paying for past suboptimalities. Karma–we’ll get to that in a little bit. But there’s more wellbeing, more strategy, longer time horizons, more of the world taken into account, all things being equal, on average, on net.
+
+More and more you might be thinking, how the hell can this all (the world) possibly work better? Especially in times of crisis, it can be clear that there’s no one running this damn thing (the entire world). To be sure, there are powerful interests. But, bad world-scale stuff happens all the time, that is, things happen that are at least seemingly against at least one powerful interest. So wouldn’t they have stopped the bad thing if they could have? The whole damn thing just isn’t working as well as it could be. People are still suffering and dying. And that doesn’t just hurt in some distant way. Maybe it’s directly relevant to you, in many additional intrinsic ways than was the case before. You don’t just want people to not be hurting (or you’ve worked through a bunch of very normal ways in which you didn’t care about people, and now you do) but you can also see logistics and supply lines and entangled economies. Again, you’re not jamming this stuff into your head, though you might seek it out, out of interest. But because you really did solve that crushing intimacy/sex/friendship/love tangle, and, separately, you now *are* the living aesthetic expression you wanted to be, and, separately, you’ve sorted the crippling shame stuff or gender stuff, and, separately, you don’t think you’re stupid anymore, your mind just works better in ways you thought were impossible, for you–so thinking a bit about the economy, paying a little more attention to the world, doesn’t feel like this horrible detour from everything you care about. It’s just a natural, costless, intrinsically kind of interesting thing to do. (For some people the economy might have been part of one of their ratchets, of course.)
+
+To be sure, whether it’s the economy or clean energy or politics or whatever, you’ll be wrong about so much (as most people are, “experts” included). But your mind is just working differently, now. You’re more of sponge than you ever were and you’re metabolizing things, integrating things more than you ever were.
+
+*the world part 2:*
+
+Ok, so how does this damn thing actually work? There are deep fundamentals, at least at the moment(!), the spatial extent of the planet, human neurology and general biology, the speed of light, the shape of the continents.
+
+Things of course have changed, though:
+
+(*) monotheism
+(*) agriculture
+(*) bronze, steel
+(*) global fast travel (ship, air) [enabling rise of the great powers and global competition, according to at least one sociologist]
+(*) global fast communication (telegraph)
+(*) global information (internet)
+(*) global search (google, amazon books, google books, google scholar, scopus, web of science)
+(*) computation, biotech, etc.
+(*) intercontinental missiles, drones, satellite weapons
+
+Any random person on the planet can craft a tweet with a nonzero chance that the most powerful people in the world will read it, seconds later. This is happening. The world is changing, more opportunities, more dangers (bioweapons, accidental pandemics, nuclear weapons are still a thing, mass authoritarian surveillance.).
+
+
+*Losslessness part 2:*
+
+One thing a meditator starts to realize is that the mind, is shockingly lossless, as per the metaphor way above. Again, the mind is shockingly lossless.
+
+We can forgive, call truces, compensate, forbear, but we don’t deep-down actually forget. And that’s ok! People do fight and still have intimate relationships. And plenty of interpersonal problems do deep-down get solved. Everyone is striving for good things in community.
+
+But the unprocessed or tangled stuff that’s still around, down there, if one is reaching for better and better things–it usually becomes apparent that generally there is more processing to do.
+
+What I mean to say is that two people who have kind of made peace with each other, if one or both of them start meditating, lots of stuff is going to come up again.
+
+There’s even another thing. This losslessness goes between familial generations and cultural generations.
+
+Familial generational trauma and cultural generational trauma gets passed along, with shockingly high fidelity. For some people this is already intensely apparent. And, for meditators, this becomes even more apparent.
+
+This is part of seeing into personal, familial, and cultural karma. And this perhaps matters more than it ever did before. Again, your viral tweet or tiktok might get seen by the most powerful people in the world, within seconds, minutes, or hours.
+
+We are all affecting each other, all over the planet, more than we ever have before.
+
+And, as if that weren’t enough, so the cliche goes, the past isn’t even past! Generation to generation to generation, parent to child, mind to mind to mind to mind to mind…
+
+In no particular order:
+
+Descartes mind-body dualism and epistemology of doubt and certainty–so much good and so much bad.
+
+Alexander the Great.
+
+Genghis Khan.
+
+The machinery of the Roman Empire.
+
+The Old and New Testament.
+
+Colonialism.
+
+Genocides all over the planet.
+
+So many historical events.
+
+All of this lives in us, with shocking fidelity, again, down to the neurons, if you will. If there are no survivors, it lives in the murderers. As a meditator one can investigate this fidelity. The past isn’t past. Our minds are made out of it.
+
+Astonishing cruelty and violence, couched in righteousness or necessity or plain old callousness. Sure, cruelty was maybe “different” back then. But the past isn’t past.
+
+Astonishing goods have been produced. We live like kings (highly unevenly distributed); we reach for the stars (yay, but if only fewer people were in poverty, on earth, though it’s my understanding that there’s on average less and less each year. Probably not this year, though.)
+
+And in any case, all that violence is still there. It’s still here. We’re all reaping that karma, as we are born, grow old, and die.
+
+It seems that all violence breeds global-scale karma. It lives in the survivors, and, again, it lives in the murderers, even if there are no survivors.
+
+(*) There is direct physical violence (physical abuse, sexual abuse, deprivation, war).
+(*) There is direct psychological violence (coercion, authoritarianism).
+(*) And there is indirect “violence” desperation, poverty, etc.
+
+This violence doesn’t go away, and it breeds individual and global karma.
+
+Some of this violence is “solved” with more violence, violence layered on top of violence layered on top of violence. Hot wars on top of hot wars, cold wars on top of cold wars, proxy battles on top of proxy battles.
+
+Technological solutions create astonishing wealth and slack, freeing up people to do good things for themselves and for other people. Technology allows people to be nicer to each other. Technology makes it easier for people to find nonviolent solutions and to heal past violence. And/but technology also breeds new types of violence, of course.
+
+Anyway, not really a cliche, when we work on ourselves, when we ourselves are less reactive, wiser, more forgiving, gentler, it really does ripple through the internet, and across the entire planet, at a sizable fraction of the speed of light.
+
+There’s naive ways to think about this. Sometimes recycling bin does just get dumped in the trash, you know? Sometimes little private behaviors are not cumulative in the wider world. But more are, hugely more, because of internet publication and internet virality than they have ever been before, at any time in history.
+
+Ok, so there are those “little” behaviors, more and more of which are more significant than they ever have been before.
+
+Now what of the big stuff?
+
+Tentatively, taking the longest of long views, and hopefully every time horizon in between, the only workable future may involve something like deep understanding of noncoercion and nonviolence.
+
+If it weren’t the case that minds *remember,* generation across generation across generation, maybe some sort of terrible hard tradeoff would be justified? Another modern Alexander the Great or something? Some great unifier. I’m not a historian or sociologist (yet?), but imagine some great unifying force that produced tremendous collateral damage, deaths, something. (Maybe this just can’t happen because of how global supply lines work.) But, say, when it was over, somehow that violent authoritarianism relaxed, but coordination remained, and was enhanced, and so poverty (for those remaining…) was eliminated, and stably so. And science, and healthcare, and so on flourished.
+
+But, I think the above won’t work? Because violence is remembered, whether it’s physical or psychological domination. Even if there’s no survivors, that violence is carried in the murderers, across generations, and it comes out again.
+
+Tentatively, tentatively, tentatively, again I’m not a historian or a sociologist, I think solutions are going to look more like Martin Luther King, jr and Mahatma Gandhi than, say, the conquerors of old, or “impartial” big data. Maybe the next Gandhi will utilize big data, though, to get the words just right, though they’ll still be speaking from their very soul. (I don’t know the ways in which, e.g., Gandhi was controversial. I’m sure there are a lot.)
+
+It’s scary stuff; they were both assassinated.
+
+Eh, but there’s also a particular deep sense in which nothing is required of you, except that which you can do and that which you wholeheartedly and heartfelt want to do. And, heh, global surveillance might end up going both ways, centralized and personalized/federated. It might become practically or politically impossible for anyone to be assassinated or “disappeared” ever again. I don’t know.
+
+In any case, re nothing is required of you, you literally wouldn’t have to worry about it until you were actually really worried about it, as it were: People exemplifying extraordinary ease and wellbeing (and the low-key winning at life that comes with) are in short supply and desperately needed. Be the change you wish to see in the world, and all that.
+
+Under the present realities of suffering, old age, sickness, and death, perhaps learn diplomacy, forbearance, second chances, nontriggeredness, non-coercion, non-violence, self-care, compassion, the best most skillful, most intelligent, ever-improving, self-forgiving versions of these, until that’s what you effortlessly, costlessly, spontaneously, just are.
+
+One step at a time, one mind moment at a time.
+
+[1] https://en.wikipedia.org/wiki/Tetris
+[2] https://en.wikipedia.org/wiki/Tetromino
+[3] https://en.wikipedia.org/wiki/Tetrisphere
+[4] https://en.wikipedia.org/wiki/Gas_giant
 
 
 
@@ -6858,7 +7522,7 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) Krishnamurti, Uppaluri Gopala, and Rodney Alexander Arms. "The mystique of enlightenment: the unrational ideas of a man called UG." (1982).
 (*) McWilliams, Nancy. Psychoanalytic diagnosis: Understanding personality structure in the clinical process. Guilford Press, 2011.
 (*) Kay, John. Obliquity: Why our goals are best achieved indirectly. Profile Books, 2011.
-(*) Buber, Martin. I and Thou. 1923.
+(*) Buber, Martin. I and Thou. 1923. [I have not verified this myself, but I'm told the Ronald Gregor Smith translation is far superior to the Kauffman translation.]
 (*) https://en.wikipedia.org/wiki/Reflective_equilibrium [Last accessed: 2021-02-14]
 (*) https://plato.stanford.edu/entries/reflective-equilibrium/ [Last accessed: 2021-02-14]
 (*) Jung, Carl Gustav. Memories, dreams, reflections. Vintage, 1989.
