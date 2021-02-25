@@ -24,6 +24,7 @@ culture and community
 	an orienting model [...]
 	evil
 practice preliminaries
+practice
 	[...]
 	top-level practices/categories
 		meta practice
@@ -7526,3 +7527,4 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) https://en.wikipedia.org/wiki/Reflective_equilibrium [Last accessed: 2021-02-14]
 (*) https://plato.stanford.edu/entries/reflective-equilibrium/ [Last accessed: 2021-02-14]
 (*) Jung, Carl Gustav. Memories, dreams, reflections. Vintage, 1989.
+(*) https://vividness.live/unclogging [Last accessed: 2021-02-24]
