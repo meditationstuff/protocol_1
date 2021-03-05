@@ -492,12 +492,15 @@ teaching and learning and creating and relating (meditation and anything)
 	teaching
 		no one gets pixel-perfect possibilities
 		guided on-ramp for main practice p2 [draft]
-	learning
+	embodied learning
 		technical debt, meditation, and minds
 		a speculative comment on language learning
 		technical debt and inverse operations
 		merely just having the experience itself, and, technical debt is good, actually
+	epistemics
 		meditation indirectly discloses domain knowledge
+		human epistemic dynamics and phenomena
+		epistemic-aesthetic rigor [stub]
 	relating
 		in-relationship foreclosing legacy of past interaction [stub]
 	creating
@@ -7393,6 +7396,9 @@ And this is part of why there can be claims of effortless complexity, while at t
 
 
 
+epistemics:
+
+
 meditation indirectly discloses domain knowledge:
 
 [Originally published: https://meditationstuff.wordpress.com/2020/06/01/meditation-indirectly-discloses-domain-knowledge/ (Last accessed: 2020-09-06)]
@@ -7449,6 +7455,246 @@ And, one eventually runs out of absolute truths, to discover and align with.
 
 But, our expanding light cone retains the possibility of truly surprising us, in very mundane ways, as well as very not-mundane ways, as things disclose across the “unknown unknown boundary.” But, we can be ever-more-skillfully-poised, truly as best we know how, as best we can do, at any particular moment in our personal lifetime, or history, to facilitate and grab that possibly surprising data, the instant it appears, to wring out every last bit of de-fanged uncertainty, safety, joy, excitement, sociology, non-authoritarian governance, humane biomedical engineering, world peace, intimacy, and wellbeing it can offer. And meditation is especially suited to facilitate that poise, all things being equal.
 
+
+human epistemic dynamics and phenomena:
+
+[Originally published: https://meditationstuff.wordpress.com/2019/09/17/human-epistemic-dynamics-and-phenomena/ Last accessed: 2021-03-05]
+
+The most important element of an epistemic method (research method, knowledge generation method, theoretical method) is its capacity for producing solitary, systematic, inevitable, repeatable surprise.
+
+*solitary* – In some sense, all you have is what’s in your mind. Books, documents, and websites are mediately helpful. Conversations, colleagues, and mentorship are mediately helpful. And then, some of the time, you should go be alone. Because, in some narrow, narrow, narrow sense, everyone is epistemically alone. So own it.
+
+*systematic* – Does your method work all the time, on everything?
+
+*inevitable* – Can you head-down trust your method to work, if you just keep going over hundreds or thousands of hours?
+
+*repeatable* – Does it work again, and again, and again, and again…
+
+*surprise* – Alone in a room, are you surprised over and over and over again? Epistemic surprise, bayesian surprise, if you will. Whatever. Holy shit moments, all by yourself, over and over again if sometimes, often, far between. Again: solitary, systematic, inevitable, repeatable surprise
+If your method has something like the above characteristics (and I just haphazardly made them up for the purposes of this post) then the next thing you need are gradients, or lead indicators, or error-checking, or mediate and immediate feedback loops, and meta-criteria (e.g. truth and goodness).
+
+All the above, together, comprises that which is sufficient for long-range *WAYFINDING*.
+
+For the best methods, wayfinding should still work, even when one’s ontology, plan, problem, and even goals are illegible or uncertain. That’s what wayfinding is for, to make progress through the fog, to make systematic and inevitable progress anyway, even when you’re not exactly sure what you’re doing or why you’re doing it.
+
+When wayfinding is functioning, meta-epistemic patterns, epistemic phenomena, eventually become apparent:
+
+*The landscape of epistemic positions (space plus structure plus you-are-here)*
+
+Consider yourself moving through a landscape of peaks and valleys. Some peaks are higher than others. There are valleys between the peaks. Perhaps there is a highest peak somewhere in the distance. The peaks are local maxima–to get higher you have to first go down. The peaks represent, say, truthiness–they are relatively less wrong than everything else nearby.
+
+*Imaginatory Bleed; Modal World Bleed*
+
+You might think, no big deal, I’m over here, applying my method. Then there’s an epistemic landscape. Territory is territory, but I’m working with maps. I can work with multiple maps at the same time, multiple hypotheses at the same time, no big deal.
+
+But, for some hypotheses, to consider that hypothesis is to live it. Some parts of the epistemic landscape walk you and not the other way around. [1] This can be minimized but not entirely escaped, cf. the cultivation of meditative equanimity in its most technical sense. And that minimization requires one to already be walking the landscape–you have to build the raft in the water. And there be dragons.
+
+*But it’s not a bug; it’s a feature*
+
+One might at first think that hypotheses bleeding into reality are the product of some evolutionary heinous kludge. But, there is selection pressure, efficient entropic dissipation, eros, something, in there.
+
+“The only true voyage would be not to travel through a hundred different lands with the same pair of eyes, but to see the same land through a hundred different pairs of eyes.”
+
+― Marcel Proust
+
+To see with new eyes is freedom; it is the capacity to not be trapped in one’s mind. (But it is also the capacity to be trapped in one’s mind. See below.)
+
+People love philosophy, spirituality, pop science, and professional science because the best of it reshapes the very seeming and appearing of our world. There is a fundamental way in which the untrained human mind takes map to be territory. (Though, even when a trained human mind sees map as map [2], it’s still map. This might be part and parcel of what it means to be or have a mind at all, cf. representation in a technical sense.)
+
+In any case, we want the mind to be able to change all the way down, we want the very seeming and appearing of our world to be malleable. This is what allows us to not only pursue truth and goodness but to live it, to actually live, feel, and behave in a world that is closer to the true one behind the noumenic veil, and to do it together with others in ways we care about and that feel good. This is what allows us to actually understand each other and actually live in the same world as other people.
+
+(Note that this is, in part, a pedagogical post, and I don’t necessarily personally make any of these ontological commitments. And note that I’m mixing causal/mechanistic, telic, narrative, and anthropic reasoning all together.)
+
+*But there be dragons*
+
+Let’s get back to walking the landscape and then we’ll talk again about the landscape walking you.
+
+Back to the landscape metaphor, we have these phenomena in the beginning and especially the middle of the journey:
+
+*local maxima* – in order to be less wrong, in some cases, you *must* first be more wrong.
+
+(*valleys* – if there are peaks then there are valleys and they take time to cross, milliseconds, seconds, minutes, hours, days, weeks)
+
+*epistemic nonmonotonicity* – sometimes in the course of being globally less wrong, over time, you’re very wrong, over and over again
+
+*epistemic traps (and near-discontinuities)* – sometimes before you are right-ish, you are very, very, very wrong, in fact more and more wrong, over a long period of time (before, finally, either sharply or gradually, possibly with yet more nonmonotonicity, you are right or at least more stably less wrong
+
+(for completeness, one might consider a higher-dimensional metaphor, higher-dimensional manifolds of epistemic positions, with not just peaks and valleys but saddle points along various dimensions, and so on)
+
+And then, when the landscape is walking you (we’re considering, here, the beginning and middle of the journey; see more near the end of this post for later in the journey), some people get stuck:
+
+(*) But first, on the good (non-stuck) side, as mentioned above, there can be “deep refactoring” of belief and perception. The can include “disembedding,” “de-fish-in-water-ing.” You never knew it could possibly be a different way, that there even was a “way,” that could different, in the first place, along many, many, many dimensions. The very seeming and appearing of self and world changes. This can be so profound and good.
+
+(*) And then, on the bad side, there can be shear and fragmentation–say we’re walking many parts of the landscape at once, with some in-parallel journeys at better positions than others. This yields “saint in some ways, psychopath in others;” “genius in some ways, crushingly superstitious or self-destructive in others.
+
+(*) One might have whole-mind distortion, because “deep refactoring” is possible, sometimes the universe can be rending at the seams for months. And because how the mind sometimes contingently organizes knowledge, you sometimes just wanted to predict global hog futures, but instead reality is crumbling.
+
+(*) There is also whole-body distortion, the way things are hooked up you could run into terrible muscle tension, digestive issues, headaches, and so forth, or worse.
+
+(*) And then you’ve got your tropes, psychosis, paranoia, etc. Paper and string all over the wall? All over the room? It’s a trope because there’s something there.
+
+*Long-run Wayfinding*
+
+But let’s say your wayfinding is really good. You may then come to get a self-repeatable taste of these sorts of phenomena:
+
+(*) elegance, parsimony, universality, exceptionlessness, perfection, beauty (cf as simple as possible, but no simpler)
+
+(*) Hedgehog/fox [3] Chimaerism
+
+(*) *Provisionality* – In these postmodern times, the above two bullets might seem reminiscent of the epistemic traps mentioned above. I do believe that there is a sort of optimal way to organize the mind. With good method, people eventually become more hedgehog-like as their worldviews become more and more elegant: fewer “load-bearing” theories and explanations but with greater and greater explanatory power, dissolving more and more anomalies. But, this flavor of hedgehog-ness is not entrenched. Even these elegant theories, even if, for this person, they, in part, comprise the very appearing and seeming of their world, they are still held provisionally. The key term here is provisionality. And the fox-like flavor is brought in with a “modal penumbra,” perhaps organized, concentric clouds of possible worlds and perhaps not competing hypotheses but available hypotheses, for sharp cutovers. Other possible worlds are available for consideration, because maybe we are actually in those. And it’s both possible and safe to consider them.
+
+(*) And, so, there’s a phenomenon of settling. (You might find this concept discussed in an obscure dissertation about Descartes.) For some particular topic or question, absent leaving your room, and possibly even then, you’ve currently exhausted all available evidence and thinking. It’s all been fed into the machine, and you have your best current answer, you’re done, until something relevant happens. Most people haven’t felt this truly done for now feeling; there are close things but they aren’t exactly it. It doesn’t mean you’re right (and it doesn’t mean you’re not accidentally entrenched) and it certainly doesn’t mean you’re manifold vulnerable to the the turkey problem [5] (there’s a more classic or original formulation of this I can’t find), to bleen and grue [6], and maybe you deem it not safe to act yet, or maybe you don’t have enough data to render your settled thing coherent, even though you’ve run out of stuff that’s relevant to bring in, but here you are. This can take hundreds of hours per thing, and sharply pursuing settling isn’t recommended (comprehensive sort of layering and leveling may be strictly better, generally), but it is a phenomenon. New information might mean you de-settle hundreds of things, so neither is it necessarily good to completely settle particular topics, patches, regions, things. It can also inappropriately presuppose an ontology or thingness when it is done in error.
+
+(*) *Hyperintensionality and goodness* – Perhaps you disembed from language, in ways you fish-in-water didn’t know you could. Language becomes language games, even if truth and goodness are still a thing, or not. No improper reification, no improper or premature or entrenched ontological commitments, in the limit. And then, when map is mostly seen as map, and, sometimes before, with the right application of attention and submethod, /hyperintensionality/ affords new dimensions of truth and goodness. If “morning star” and “evening star” refer to the same star, then the meaning of morning star and evening star are different, yet their referring is co-extensive. The same thing works for propositions or models or theories. If you consider there to be something “out there,” and you have a correspondence theory of the truth, and you (provisionally or not) subscribe to something like multischematism or directly unknowable noumena, then you can have overlapping patchworks of theories that in part *perfectly*, precisely if not accurately, cover the exact same part of the (provisional) territory. And this yields the possibility for *equivalent* truths (in the limit) that are *more and less good*. There is not “facts don’t have feelings.” One’s choice of truth has moral weight. One can hold “degree of truth” constant, and “referent patch of reality” constant, while altering the dimension of goodness of that truth. Some truths are benevolent, some truths are evil, and there is everything in between. (Note: This is not the same as framing, privileging the hypothesis, and other reminiscent things. Those are real things, and this is also a different, real thing.) Some people saying true things, even critically important true things, are coercive assholes (of course). But, importantly, in the limit you don’t need those coercive assholes at all, because there will be truth that is just as good as their truth, or heaping tons better, that does all the same work and more, but is morally/ethically better in how it functions and operates in the mind and world.
+
+*Revisitation of the Demon-Haunted World* [7]
+
+GLENDOWER
+I can call spirits from the vasty deep.
+HOTSPUR
+Why, so can I, or so can any man;
+But will they come when you do call for them?
+
+And so, on the one hand, we have wayfinding that can potentially yield fundamental metaphysics, the distilled metalanguage that we use to do math and science, a sense of universal causal mechanism and law, naturalism [8], objective morality, and so forth.
+
+Your method, in community, should at least superficially track, recreate, and extend physics, medicine, cosmology… You better be able to put people on the moon, cure cancer, predict black holes, invent/discover math and computation, first-pass explain the brain with the free energy principle, and so on.
+
+And, so what of our demon-haunted world, superstition, evil eyes, normal human schizophrenia, everyday psychosis, angels, demons, god, gods, bicameral minds, pantheons, powers, siddhis, psi, psychic powers, clairvoyance, remote viewing, magick, enlightenment, enlightenments, talking trees, living streams, heavenly visions, heavenly spheres, the sublime, the awesome, the fantastic and erotic, succubi and incubi, chakras and subtle energy bodies, inner realms and higher realms, the horrific the gruesome, spells, curses, dreams, portents, gateless gates and stateless states?
+
+We have thought-stopping, single-term dismissal:
+
+brain farts, mental illness, “brains,” evolutionary suboptimality/lack of selection pressure for X, (social) signaling, self-deception, superstition, folk theory, nonmechanistic theories or explanations, nonrigorous theories or explanations, “just so” evolutionary psychology, phlogiston, dormitive principles, vitalism, “sociology,” “psychology,” coincidence/birthday problem/black swan spaces (improbable things happen often), selection bias, survivorship bias, anthropic bias, etc.
+
+Ok.
+
+But have you checked for yourself? Are you sure? Can you be more sure and what are the potential and expected benefits, costs, and opportunity costs? How would you even do that? What would it even mean to check for yourself for some of the above?
+
+The straw-dismissal of checking for yourself is something like, “you have to trust experts sometimes, you can’t walk on the moon for yourself, and recreate all the QM experiments for yourself, and investigate all the original historical documents for yourself, rigorously test all the supposed psi phenomena for yourself, etc.” So there are relatively more and less trusted people and sources and social epistemology, and one can prioritize a limited amount of personal spot checking, and so on.
+
+We’re all prioritizing, we’re all doing expert assessment, and we’re living and dying while we’re doing it, pursuing food, alone time, sex, relationships, kids, and the landscape is walking us.
+
+But, say you had a method that you could do (mostly, sort of) alone in a room that left out nothing, that had to touch almost everything because of what mind are, how brains work, how knowledge is organized.
+
+We are swimming in massively redundant information. Physical laws, fundamental metaphysics, the structure of consciousness, universalities, that which is exceptionless– they always already everywhere eternally and sempiternally run through the warp and weft of everything, at the very least by definition. There are some highly notable and liberating/emancipatory senses in which you already have everything you need. This isn’t exactly true, but it’s far more practically true than is immediately obvious.
+
+Many of us long for an enchanted world. Some of us exhort to have joy in the merely real.
+
+What if the merely real is enchanted?
+
+Perhaps you would have to walk illusory hells and heavens, evaporatory visions and dreams, to find out. Perhaps some enchantments and ecstasies are transient and come with crippling opportunity cost. Perhaps you will burn relationships and money. Perhaps you will hurt the people around you, drive not only yourself insane but them as well, they end up on the street alongside you.
+
+But maybe your life is or can be set up sufficiently that you can look for yourself, walk the heavens and the hells and the, ultimately, strange-ordinary and ordinary-ordinary. Maybe we can solve sociology-complete (cf NP-complete, AI-complete, mind-complete, economy-complete, world-complete) problems such that more people can investigate for themselves and everybody can take care of everybody.
+
+Have you looked for yourself?
+
+It starts with method. Excellence and mastery are worthy ideals.
+
+Maybe everyone that manages to successfully look sees the same thing, and maybe some of those successful lookers figure out how to describe the view to those who can’t or haven’t yet made the journey, and maybe yet then we can all dwell together in truth and goodness and reality/actuality or at least do the absolute best we can, together.
+
+[1] https://www.facebook.com/romeostevens/posts/10214779968345433
+[2] https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
+[3] https://www.google.com/search?q=hedgehog+versus+fox&oq=hedgehog&aqs=chrome.1.69i59l2j0l4.3086j0j9&sourceid=chrome&ie=UTF-8
+[4] https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/
+[5] https://www.google.com/search?sxsrf=ACYBGNRqao0vZXUsC8nEw5MY9nX5gtppfg%3A1568726029979&ei=DdyAXeCrO4zktQWBqq2wCQ&q=turkey+problem+taleb%2C+bernard&oq=turkey+problem+taleb%2C+bernard&gs_l=psy-ab.3...4327.8220..8622...0.0..0.113.836.6j3......0....1..gws-wiz.......33i299j33i160.EXKgm4RBn90&ved=0ahUKEwig5pDu99fkAhUMcq0KHQFVC5YQ4dUDCAs&uact=5
+[6] https://www.google.com/search?q=bleen+grue&oq=bleen+grue&aqs=chrome..69i57j0l5.2793j1j7&sourceid=chrome&ie=UTF-8
+[7] https://www.amazon.com/dp/B004W0I00Q/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+[8] https://www.google.com/search?q=naturalism&oq=naturalism&aqs=chrome..69i57j0l5.1088j0j7&sourceid=chrome&ie=UTF-8
+
+
+epistemic-aesthetic rigor [stub]:
+
+[Originally published: https://meditationstuff.wordpress.com/2021/02/14/epistemic-aesthetic-rigor-for-postrats-and-metarats-stub-post/ Last accessed: 2021-03-05]
+
+[full title: epistemic-aesthetic rigor and systematicity and coordination for meditators, postrats, and metarats]
+
+(There’s some extremely important ideas, here, pointed at without a lot of context and barely glued together. It’s a very first pass at a thing!)
+
+Ok, so, say you’re on board with meaning/truth/etc. being some or all of multischematic, interschematizable, embodied, enacted, felt, intuitive, indexical, ostensive, intensional, hyperintensional, language game-y, innumerable, nonnumeric, gestural, vibe-y.
+
+(Note: I also think math, logic, and computation are excellent and I use them like every day.)
+
+Ok/so/but given original list above, sort of, what’s the gradient? Where’s the directionality? What is quality, here?
+
+Sure, it’s/those are nebulous. But we can, sort of, sometimes, if we want, kind of gesture vaguely in the direction of having good “beliefs” in some sense, or “good science,” or “good writing,” in some sense—usefulness, insightfulness, depth, intricacy, elegance, transformativeness…
+
+How might we generally tack towards that and how might we tack towards that tacking towards that?
+
+Like, what’s the messy, living, breathing interface between sort of someone as they are, someone as they’re becoming, and like writing stuff down?
+
+What if you want to vibe, and you don’t want to mess up your vibing, and you don’t want to sacrifice rigor in some deep sense, even if you don’t alway go “full reason,” and you want your rigor, or your shitposting, to be infused with your vibe?
+
+What might unlock that, very loosely speaking?
+
+*A toy hierarchical ontology:*
+
+(*) Say there’s normal propositions and special propositions.
+(*) Say normal propositions are built out of
+	(*) normal concepts and
+	(*) special concepts called relations.
+(*) Say special propositions are built out of
+	(*) normal propositions and
+	(*) special concepts called reason relations.
+Say reason relations are
+	(*) implication [… implies…; if… then…; …because…],
+	(*) cause […causes…; if… then…],
+	(*) mixed/nebulous [if… then…; …because…], and finally
+	(*) means/end/purpose/for-ness […is for…; …]
+(*) Finally, say arguments and explanations are built out of normal propositions and special propositions.
+
+*Heuristic/gestural elegance, parsimony, simplicity, and more, in argument and explanation:*
+
+(I’m still fiddling with these ideas; there could be something really off, here.)
+
+Now,
+
+(*) without loss of essential detail, roughly MINIMIZE counts/number of
+	(*) axioms/premises
+	(*) other normal propositions
+	(*) kinds/types/classes/abstractions (i.e. normal concepts)
+	(*) anomalies, counterexamples, “unexplainable” phenomena
+	(*) reason relations (path-length/lemmas/inferential-or-causal-depth-to-conclusion)
+(*) roughly MAXIMIZE counts/number/density of
+	(*) conclusions
+	(*) fan-out / multifinality (with respect to reason relations)
+	(*) fan-in / equifinality (with respect to reason relations)
+	(*) instances/instantiations/tokens/concrets/particulars/specifics (that fall under the kinds/types/classes/etc above)
+
+*Nonequivocation:*
+
+Now, flirt with the problematic, problematically eternalist ideal of “nonequivocation.”
+
+Equivocation is using the same word for different things, including slightly different things. This can also be just poetic, gestural, normal speech.
+
+Nonequivocation, quotations incoming, would be when you use the “same” word or phrase to “refer” to the “same” “concept” which “refers/applies” to the “same” “referent” in the “same way” “each time.” [The "same" "sense" of a word "each time."] Or, when the “same”-ish sentence “refers” to the same “proposition,” wherever it’s written multiple times in the same scope/namespace, whether it’s a premise, lemma, conclusion, subproposition, antecedent, or consequent.
+
+*Phenomena and noumena:*
+
+Maybe flirt with the problematic, problematically eternalist ideas of noumena as distinguished from phenomena, where noumena could be taken as a “limit case concept,” “nearly empty,” and so forth.
+
+*Globality:*
+
+Now, then, you can ask, is this more or less true? More or less wrong? A more or less good expression? A more or less bad expression?
+
+So given all that, all that being said, how does one engage with all that? In my opinion, it’s often better, methodologically and wellbeing-wise, to engage with such forms indirectly and obliquely, generally through meditation and global wayfinding. (This is super cryptic, maybe; sorry.)
+
+***
+
+Further reading:
+
+https://en.wikipedia.org/wiki/Indicative_conditional
+https://en.wikipedia.org/wiki/Counterfactual_conditional
+https://plato.stanford.edu/entries/simplicity/
+Kripke, Saul A. “Naming and necessity.” Semantics of natural language. Springer, Dordrecht, 1972. 253-355.
+Kant, Immanuel. “Logic. Translated by Robert S. Hartman and Wolfgang Schwarz.” New York (1988).
+Organon, Aristotle.
+https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference
+https://en.wikipedia.org/wiki/Natural_transformation
+https://en.wikipedia.org/wiki/Reflective_equilibrium
+https://plato.stanford.edu/entries/reflective-equilibrium/
+https://en.wikipedia.org/wiki/Consistency
+https://github.com/meditationstuff/protocol_1/blob/master/main.txt#L3500
+https://github.com/meditationstuff/protocol_1/blob/master/appendix_p1_en-US.txt
+Principles of Philosophy, Descartes
 
 
 relating:
