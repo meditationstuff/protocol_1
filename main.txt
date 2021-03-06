@@ -7821,3 +7821,5 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) https://plato.stanford.edu/entries/reflective-equilibrium/ [Last accessed: 2021-02-14]
 (*) Jung, Carl Gustav. Memories, dreams, reflections. Vintage, 1989.
 (*) https://vividness.live/unclogging [Last accessed: 2021-02-24]
+(*) Ecker, Bruce, Robin Ticic, and Laurel Hulley. Unlocking the emotional brain: Eliminating symptoms at their roots using memory reconsolidation. Routledge, 2012.
+(*) Coherence Therapy Practice Manual
