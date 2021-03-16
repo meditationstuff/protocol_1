@@ -7218,7 +7218,7 @@ Notes:
 * When you have a choice, usually but not always choose effortlessness, effortless action, and spontaneity over effort.
 * Usually, though not always, though definitely in the limit, choose wellbeing and relief.
 * Be patient, do it differently, but don’t do it harder.
-* Temporary, when it’s safe, give up concrete and particular goals.
+* Temporarily, when it’s safe, give up concrete and particular goals.
 * Allow yourself to be very surprised, allow yourself to be nonnormative.
 * Relax, surrender into (when safe), flowingly, participate.
 * When safe, let it hurt.
