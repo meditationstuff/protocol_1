@@ -7229,6 +7229,13 @@ Notes:
 * All “mistakes” are undoable. They are part of the process, part of the timeline, the are accounted for.
 * When safe, allow memory, allow fantasy, allow planning and problem solving, allow thinking and reverie, all is “permitted”/“allowed”/etc.
 
+\*\*\*
+
+Unintegrated scratch pieces:
+
+* Turn towards interest, engagement, play, fun, nonvigilance.
+* Sometimes seek complete solitude and no-chance-of-interruption. Sometimes seek life and people and everything.
+
 
 
 learning:
