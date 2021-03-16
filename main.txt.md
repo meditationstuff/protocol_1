@@ -7235,6 +7235,7 @@ Unintegrated scratch pieces:
 
 * Turn towards interest, engagement, play, fun, nonvigilance.
 * Sometimes seek complete solitude and no-chance-of-interruption. Sometimes seek life and people and everything.
+* Find the proper places for love, compassion, gratitude (and fear, and hate, and etc.)
 
 
 
