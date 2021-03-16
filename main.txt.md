@@ -7887,3 +7887,4 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 * Frantzis, Bruce Kumar. Opening the Energy Gates of Your Body: Qigong for Lifelong Health. Blue Snake Books, 2006.
 * Lam, Kam Chuen, and Master Lam Kam-Chuen. The Way of Energy: A Gaia Original. Simon and Schuster, 1991.
 * https://en.wikipedia.org/wiki/Zhan_zhuang (Last accessed: 2021-03-16)
+* https://en.wikipedia.org/wiki/Tilopa#Six_Precepts_or_Words_of_Advice (ht JD/MO Last accessed: 2021-03-16)
