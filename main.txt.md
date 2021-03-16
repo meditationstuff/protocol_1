@@ -7884,3 +7884,6 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) Coherence Therapy Practice Manual
 (*) A COMPILATION OF DANIEL'S POSTS AT DHARMAOVERGROUND.ORG https://danielpostscompilation.blogspot.com/p/blog-page.html [Last accessed: 2021-03-06]
 * Slingerland, Edward. Effortless action: Wu-wei as conceptual metaphor and spiritual ideal in early China. Oxford University Press, 2007.
+* Frantzis, Bruce Kumar. Opening the Energy Gates of Your Body: Qigong for Lifelong Health. Blue Snake Books, 2006.
+* Lam, Kam Chuen, and Master Lam Kam-Chuen. The Way of Energy: A Gaia Original. Simon and Schuster, 1991.
+* https://en.wikipedia.org/wiki/Zhan_zhuang (Last accessed: 2021-03-16)
