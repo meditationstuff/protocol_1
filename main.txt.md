@@ -7203,7 +7203,7 @@ Notes:
 
 
 
-pith instructions (experimental):
+### pith instructions (experimental):
 
 * When you have a choice, usually but not always choose effortlessness, effortless action, and spontaneity over effort.
 * Usually, though not always, though definitely in the limit, choose wellbeing and relief.
