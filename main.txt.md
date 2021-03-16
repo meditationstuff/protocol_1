@@ -516,6 +516,7 @@ Credits:
 	* teaching
 		* no one gets pixel-perfect possibilities
 		* guided on-ramp for main practice p2 [draft]
+		* pith instructions (experimental)
 	* embodied learning
 		* technical debt, meditation, and minds
 		* a speculative comment on language learning
@@ -7199,6 +7200,24 @@ Notes:
 
 (*) "logical closure: if good maintain or start; if bad stop or prevent"
 (*) note that it's "bad" not bad (without the quotes)
+
+
+
+pith instructions (experimental):
+
+* When you have a choice, usually but not always choose effortlessness, effortless action, and spontaneity over effort.
+* Usually, though not always, though definitely in the limit, choose wellbeing and relief.
+* Be patient, do it differently, but don’t do it harder.
+* Temporary, when it’s safe, give up concrete and particular goals.
+* Allow yourself to be very surprised, allow yourself to be nonnormative.
+* Relax, surrender into (when safe), flowingly, participate.
+* When safe, let it hurt.
+* Be loosely precise, precisely loose, let go.
+* Slow down, allow detail to come and  to unfold and to present itself to you.
+* If there is resistance, then there is force, they are like a Newtonian equal-and-opposite pair, and they mean that something is unheard, something is left out, something is too fast, something is out of order.
+* No haste, no rushing, no hurrying, no skipping, no corner-cutting, no bypass, no override, no-out-of-order, no jamming, no grinding
+* All “mistakes” are undoable. They are part of the process, part of the timeline, the are accounted for.
+* When safe, allow memory, allow fantasy, allow planning and problem solving, allow thinking and reverie, all is “permitted”/“allowed”/etc.
 
 
 
