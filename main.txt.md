@@ -2,6 +2,14 @@
 
 
 
+### Quick Start
+
+See these sections:
+
+* guided on-ramp for main practice p2 [draft]
+* pith instructions (experimental)
+
+
 ### Formatting and Reformatting Note:
 
 This document exists, not just currently in a work-in-progress state, but also in a (perpetual?) "mixed state" between plaintext (txt) and markdown (md) formatting. Some sections are fully converted to markdown and others, especially "stubs" tend to be plaintext. If you find a, small or large, line or block of text that, at first glance, seems to be "nonsensically (all) mashed together," this could especially still be a plaintext section, but not necessarily! The way this document is written, and given its draft state, it's sometimes hard to tell. (-: Section headers that aren't enlarged and bolded are also a solid clue that that section hasn't been reformatted yet. **Recommended:** You can always switch from a markdown- or html-formatted version, to the "raw" file behind that version, to maybe see better formatting. Plaintext is always "canonical," in part because markdown is intended to fail gracefully to plaintext. Finally, you might also find clues to authorial intent in the reformatting progress tracker, here:
@@ -33,6 +41,7 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 ### Brief/Selected Contents:
 
 * front matter
+	* quick start
 	* formatting and Reformatting note
 	* document-level meta-warning
 	* epistemic status disclaimer
@@ -352,7 +361,8 @@ Credits:
 ### Full Contents:
 
 * version and working title
-* formatting and Reformatting note
+* quick start
+* formatting and reformatting note
 * copyright
 * brief contents
 * document-level meta-warning
