@@ -128,7 +128,7 @@ I make many bold assertions in this document, and sometimes I use words like usu
 ### Funding:
 
 Please support this open access work: https://www.patreon.com/meditationstuff
-[As of this version, now at 8 patrons and $101/month USD. Next round number $110; 9$ to go; 92% complete.]
+[As of this version, now at 10 patrons and $101/month USD. Next round number $110; 9$ to go; 92% complete.]
 
 
 
@@ -7854,3 +7854,4 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 (*) Ecker, Bruce, Robin Ticic, and Laurel Hulley. Unlocking the emotional brain: Eliminating symptoms at their roots using memory reconsolidation. Routledge, 2012.
 (*) Coherence Therapy Practice Manual
 (*) A COMPILATION OF DANIEL'S POSTS AT DHARMAOVERGROUND.ORG https://danielpostscompilation.blogspot.com/p/blog-page.html [Last accessed: 2021-03-06]
+* Slingerland, Edward. Effortless action: Wu-wei as conceptual metaphor and spiritual ideal in early China. Oxford University Press, 2007.
