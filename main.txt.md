@@ -4473,6 +4473,7 @@ p8:
 (*) What is the nature of “true bad”?
 (*) What is the answer/solution to “true bad”?
 (*) What is your original impulse? Or, what emerges as your original impulse?
+* Just this or not just this?
 
 
 
@@ -7233,7 +7234,7 @@ Notes:
 
 Unintegrated scratch pieces:
 
-* Turn towards interest, engagement, play, fun, nonvigilance.
+* Turn towards interest, engagement, creativity, experimentation, play, fun, nonvigilance.
 * Sometimes seek complete solitude and no-chance-of-interruption. Sometimes seek life and people and everything.
 * Find the proper places for love, compassion, gratitude (and fear, and hate, and etc.)
 
