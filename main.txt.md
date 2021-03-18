@@ -514,6 +514,7 @@ Credits:
 	* a dialogue between N and Mark, on reasoning and pre-reasoning
 	* a note on "making progress," "regression," and redo-to-undo
 	* don't be here now
+	* normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]
 	* stuff stuff
 		* “psychic” and “supernatural” stuff: what/how/how-not [draft]
 		* self and other; good and bad [draft]
@@ -6103,7 +6104,33 @@ And then, after that, sometimes things are simple, quiet, easy, rewarding, engag
 
 \*\*\*
 
+[See also section: normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft] ]
+
 \*”meaning” will be the topic of a future section
+
+
+
+### normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]:
+
+[See also section: don’t be here now]
+
+Most people have a strong push towards “normalcy,” making things be/seem/feel/appear normal.
+
+Most people are heavily built out of “sociality,” the deep building blocks of their world are somehow interpersonal.
+
+Sometimes people are permanently or malleably-but-deeply-entrenched *different*, even if takes them some time to realize it or realize its significance (gender, orientation, thinking-style, class, race, beauty, childhood trauma and confusion).
+
+Usually such people have then further bitten the non-normal bullet in some way, out of reflective or unreflective choice or desperation, because something already wasn’t working.
+
+Sometimes those choices are inside of institutions and societal forms and other times not. And sometimes those choices can seem pretty crazy or at least costly-go-nowhere: writing fanfiction, conlanging, abstract math deep dives, philosophy, epistemics, rationality, biology deep dives, listing protein folds.
+
+Sometimes some of these choices are intuited as “powerful,” and sometimes they are, in part, where there’s a powerful component and also a perverse, evil, faustian, or go-nowhere component. Sometimes this is “in the means,” and sometimes this is “in the ends,” like someone wants to learn something (manipulation of ideas, math, language) because, deep-down, on some fantasy level, they’re hoping to break out of the universe or step into another, better dimension.
+
+But, who are we to say that they’re wrong/misguided! It’s easy to make a dismissive, snap-judgment from the outside. And sometimes we have to, when choosing friends, lovers, community, and business partners. But, for example, it’s sometimes said that “hard science fiction is a spec”—this is sometimes true-ish and sometimes not at all, and/but it can be hard to judge the difference from the outside. Sometimes it’s go-nowhere fantasy and sometimes it’s inspiration for the author or a reader to do something astonishing. Better might be to make room for all of it, as much as is possible. Little personal and societal bets everywhere.
+
+In any case, competence and excellence can come out of video games, modding, photoshopping, fanfiction, obsessive biology deep dives, physics deep dives, and so on. When it doesn’t, something is probably stuck, somewhere—the fantasy piece doesn’t get resolved and keeps pulling on the “real” stuff. But that can be resolved in a way that doesn’t kill meaning, joy, and/or the whole reason the person was interested in the first place. (And they, in many senses, must be the initial and final arbiter of that.)
+
+Sometimes normalcy breeds excellence. But sometimes normal stays normal. Sometimes weirdness breeds go-nowhere (or quiet personal or communal joy) and sometimes weirdness breeds world-facing competence and excellence in institutions, discoveries, invention, constructive humanitarian outrage (or just smart life choices long before the world catches up, or you get the world to catch up). In any case, we need weird and we need “normal,” too. We need all of it. And “fantasy” doesn’t automatically preclude competence and excellence. (And sometimes world-facing competence and excellence is built of out “fantasy,” e.g. sometimes allegory or satire or hard science fiction changes the whole world.)
 
 
 
