@@ -513,6 +513,7 @@ Credits:
 	* getting triggered, usefulness and risks
 	* a dialogue between N and Mark, on reasoning and pre-reasoning
 	* a note on "making progress," "regression," and redo-to-undo
+	* don't be here now
 	* stuff stuff
 		* “psychic” and “supernatural” stuff: what/how/how-not [draft]
 		* self and other; good and bad [draft]
@@ -6079,6 +6080,30 @@ It's important to have a model of progress that accounts for, nonarbitrarily, "a
 So, in any case, one shouldn't infer progress by what's happening in any particular session--"terrible" sessions may be extremely constructive sessions; sessions that don't feel like sessions at all (however conceived) may be extremely constructive sessions, and stuff like that could go on for months! But, actually, all things being equal, the right things had been happening, the whole time.
 
 One sort of, as best they can, has to take into account the whole global history and context, in terms of global wayfinding, to get better and better at how to relate to and participate in any particular thing that's happening at any particular time, including being ok with being swept away, when that's the right thing to be doing, or anything in between, or nuanced variations of any of this, and so on.
+
+
+
+### don’t be here now:
+
+Many people, deep, deep down (or at multiple “levels”) are seeking an elsewhere, an elsewhen. They’re trying to step outside the universe, break the universe, step through a portal, step to another side, into books, movies, daydreams, somewhere else, another planet, another dimension, somewhere safe, somewhere beyond death, somewhere with adventure, somewhere with love, just somewhere else.
+
+Sometimes this is from parts of us not quite understanding, for example, as children, what books, tv, and movies actually mean, how the relate to the world around us; that material “gets in” (and that can be fine and is normal). And, sometimes, this comes just as a strategy for being safe or just getting away from the banal, terrifying, mortal, crushingly boring “tyranny of the here and now.”
+
+These “portals” and other “places” are sort of instantiated through “inner space phenomenology” and “motor output” phenomenology that can introduce contradiction and contention in problem-solving and muscle/motor planning. And/but, in any case, these portals and places are also sometimes deeply sacred and meaningful.
+
+There’s sort of a “double escape” thing that can happen—we sort of escape “towards” these other portals and worlds and dimensions (say, for safety, freedom, meaning). And/but, then we also sort of force ourselves “towards” some conception of “reality” or the “the real world” (also for safety—food, shelter, money—and sometimes this is where love and friends are, too, and sometimes not). So this introduces a sort of (fractal) “hitches” or “twists” or “switchbacks” in this system, where if we don’t go back and “recover,” honor, allow, integrate, receive, surrender to those beautiful, meaningful, “other places” and the ways to get to them, then our attempts to “function” in “the real world,” are kind of held back and stymied, to the point of muscle tension and more. This hitches takes modal/problem-solving “slack” out of the system, pull it tight, make things harder or slower or impossible-seeming. Further, beauty and meaning, being locked away in “other places,” can prevent us from finding wonder, meaning, love, competency, safety, strength, intimacy, wisdom, gratitude, grace, power, joy, community, adventure in the here and now.
+
+It’s a bit of a roundabout journey: Sometimes the way to “here and now” involves going to the farthest reaches of fantasy. Further, we have confusions about here and now (and death and nothingness and a paperwork and jobs and all sorts of things) that make here and now excruciatingly boring, painful, and scary. So, any instructions that look like “be here now” can be pretty problematic for some people, some of the time. It’s confusing result with journey.
+
+Further, *don’t take my word or anyone’s that “here and now” is good, or anything.* We have to find our own way, which, again, might look like five years (or forever!) writing (erotic robot vampire) fantasy and science fiction. “Here and now” is empty, nebulous. “Reality” is empty, nebulous. “Just this” is empty, nebulous. In any case, you still have to find your own way, “subjectively through your own self and world.” Which can take a long time and sort of be sometimes lonely and intimidating. But, that means you will not, cannot, must not leave behind anything you value, no matter how childish, cringe, weird, disgusting, beautiful, meaningful, sacred.
+
+Structure-preserving transformations, that seek “wrong/erroneous/misdirected efforting,” over many thousands of hours, are one way for someone to “eventually make their way all the way down” to the parts of ourselves that, for very good, though sometimes confused, but not to them, reasons, are trying so, so hard to be somewhere else, for beauty, meaning*, safety, and connection.
+
+And then, after that, sometimes things are simple, quiet, easy, rewarding, engaging, exciting in ways you couldn’t have imagined before. (And also sometimes ghastly, tragic, excruciating, and so on! But, in some sense, all of this is yours to navigate on your terms.) Invariants such as love and gratitude may coalesce and shine through more and more.
+
+\*\*\*
+
+\*”meaning” will be the topic of a future section
 
 
 
