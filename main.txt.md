@@ -513,7 +513,7 @@ Credits:
 	* getting triggered, usefulness and risks
 	* a dialogue between N and Mark, on reasoning and pre-reasoning
 	* a note on "making progress," "regression," and redo-to-undo
-	* don't be here now
+	* don't be here now (to start)
 	* normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]
 	* stuff stuff
 		* “psychic” and “supernatural” stuff: what/how/how-not [draft]
@@ -6084,7 +6084,7 @@ One sort of, as best they can, has to take into account the whole global history
 
 
 
-### don’t be here now:
+### don’t be here now (to start):
 
 Many people, deep, deep down (or at multiple “levels”) are seeking an elsewhere, an elsewhen. They’re trying to step outside the universe, break the universe, step through a portal, step to another side, into books, movies, daydreams, somewhere else, another planet, another dimension, somewhere safe, somewhere beyond death, somewhere with adventure, somewhere with love, just somewhere else.
 
