@@ -513,9 +513,11 @@ Credits:
 	* getting triggered, usefulness and risks
 	* a dialogue between N and Mark, on reasoning and pre-reasoning
 	* a note on "making progress," "regression," and redo-to-undo
-	* don't be here now (to start)
-	* normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]
-	* stuff stuff
+	* stuff stuff 1
+		* don't be here now (to start)
+		* normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]
+		* “false ends” (messy first draft)
+	* stuff stuff 2
 		* “psychic” and “supernatural” stuff: what/how/how-not [draft]
 		* self and other; good and bad [draft]
 		* prenatal experiences
@@ -6084,6 +6086,10 @@ One sort of, as best they can, has to take into account the whole global history
 
 
 
+### stuff stuff 1:
+
+
+
 ### don’t be here now (to start):
 
 Many people, deep, deep down (or at multiple “levels”) are seeking an elsewhere, an elsewhen. They’re trying to step outside the universe, break the universe, step through a portal, step to another side, into books, movies, daydreams, somewhere else, another planet, another dimension, somewhere safe, somewhere beyond death, somewhere with adventure, somewhere with love, just somewhere else.
@@ -6134,7 +6140,31 @@ Sometimes normalcy breeds excellence. But sometimes normal stays normal. Sometim
 
 
 
-stuff stuff:
+### “false ends” (messy first draft):
+
+Very, very, very loosely speaking, you can sort of model a person as a collection of (a) potential actions, (b) means, and (c) ends (goals). The (b) means are sort of intermediate goals and, in the right contexts, (a) potential actions are realized as actual actions that are carried out. And, via actions, we advance through our ends towards our goals. And, the whole thing is sort of contextual, multithreaded, interruptible, and continuously being sculpted as we accomplish things, are surprised, daydream and think, and so on. (It’s important to not inappropriately reify any of this—means/end chains are nebulous and interpenetrating, do we even have goals at all, are there even things, is thinking an natural kind, and so on. Yes and no. What is the evolving experience of this for you, in relation to what’s written here? and so on.).
+
+Through meditation (and lots of other things), bottom up, felt and found from within, nebulously, the whole means/ends goal system (not seperate from just the phenomenological field and the seeming of the world itself) sort of becomes more elegant and strategic, more antifragile, more multifinal and equifinal, more internally/intertemporally consistent, and so on. Experientially this is directly tied to increased wellbeing and other things.
+
+In the course of this, what we can realize, over time, is that some means have sort of been mistaken for ends. These means still feel right/good/intrinsic (or desperately or boringly necessary). [This could loosely be considered a type of “layer” using terminology from elsewhere in the document.] But, one could calse these means “false ends.”
+
+“False” (or frozen in time, or beautiful but no longer needed), in any case, we want what we want, and we do what we do, until we don’t. It’s ok to want what you want! There will be reasons, even if those reasons are somewhat confused or frozen in time. And we don’t know if they’re “problematic” until we do, though we may have inklings. And, even if so, there’s going to be deep wisdom or at least self love and care, that needs to be honored and accounted for, for the system to fully move forward without getting wrapped around itself. So that means we sort of should be careful to not self-undermine, to wholeheartedly, heartfeltly allow ourselves to want what we want as long as we do; parts of many wants will be very stable, and others won’t, in the long run. In some cases, in any case, one has to fully accept a want before it’ll loosen and transform, anyway.
+
+Sometimes these “false ends” are very sensible and whatever value we’ve created from them sort of gets rolled up into new, better plans and preferences. Other times, these “false ends” are more obviously destructive, but there’s still something we deeply want (and are moving towards or trying to move towards, whether real-ish or illusory-ish) and/or fear (and are moving away from or trying to move away from, whether real-ish or illusory-ish) in there, at least for a while, or many years.
+
+In any case, it can take a long time, thousands and thousands of hours of meditation, for sort of nebulous means/ends chain refactoring, and large-scale system refactoring, until means and ends behind the “false end” sort of become accessible and “surface” in a way that allows them to be spontaneously or reflectively sculpted, refactored, solved, dissolved, and so on.
+
+If someone is not a meditator, the more usual thing is that a person may painfully resign on getting something (because it seems too hard to get, part of which might be because it has childhood-conceived or fantasy elements that may be very challenging or impossible to realize). Or, a person singlemindedly pursues getting the thing and maybe alternates between exhiliration and defeat, if it’s hard but feels maybe possible. At times when it seems like they won’t get the thing, they might be depressed or devastated, and their goals might refactor just enough to have a new line of approach, but a deeper “false end” might still remain that will keep “generating” more proximal “false means/ends.”
+
+If a person is curious about discovering personal false ends or is just generally trying to solve/dissolve their problems in pursuit of love, safety, wealth, anything, then progress is usually some combination of solving/dissolving problems, evolution of preferences, acquiring capabilities, deep changes in “beliefs,” and the seeming and appearing of the world. And, it’s also sort of failing over and over again, and at times feeling hopeless--in ways that ultimately stimulate discovery of false ends!
+
+Meditation sort of allows one to sort of “fail faster” through “problem dissolution” as well as raising contradictions and inconsistencies (loosely speaking), that prompt crises of meaning, desire, and so on. (It’s faster because there’s sort of a more efficient “inner” process that’s also happening, in addition to as bumping into success, failure, novelties, and challenges in engagement with the world. People who aren’t meditators (and other things like therapy, journeling, etc.) sort of only mostly get the benefit of “external” learning, and meditators also get “internal” learning.)
+
+And so those crises of meaning, desire, and so on make it more likely that a person (or their “system”) will “need” (or choose to, or be prompted to), sometimes through deep, internal “settling and resettling and process of elimination” to surface those “false ends” (or just confused, frozen in time, beautiful but no longer needed, and so on).
+
+
+
+### stuff stuff 2:
 
 
 
