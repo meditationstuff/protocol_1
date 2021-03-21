@@ -6271,6 +6271,10 @@ If you found anything above to be inconsistent or untenable or unsatisfying or f
 
 And it can dialogue with other people’s things/deals, too, in comfort, love, intimacy, support, frustration, outrage, solitude, community, all of it, as part of that. Hell and heaven, eternity set aside, are other people, and all that.
 
+\*
+
+\* Whoops, also, I didn't mean to imply that anyone *has* to sort any of this out, whether by meditation or anything. And, also, nothing special has to happen in meditation or etc.. This sort of stuff "just pops out", all things being equal, in the course of correct practice.
+
 
 
 ### stuff stuff 2:
