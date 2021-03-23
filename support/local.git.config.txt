@@ -1,4 +1,4 @@
-git config --local core.pager "/Users/lippmann/Dropbox/diff-so-fancy/diff-so-fancy/diff-so-fancy | less --tabs=4 -RFX"
+git config --local core.pager "[...]/diff-so-fancy | less --tabs=4 -RFX"
 git config --local interactive.diffFilter "diff-so-fancy --patch"
 
 git config --local color.ui true
