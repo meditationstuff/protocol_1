@@ -1,0 +1,17 @@
+git config --local core.pager "/Users/lippmann/Dropbox/diff-so-fancy/diff-so-fancy/diff-so-fancy | less --tabs=4 -RFX"
+git config --local interactive.diffFilter "diff-so-fancy --patch"
+
+git config --local color.ui true
+
+git config --local color.diff-highlight.oldNormal    "red bold"
+git config --local color.diff-highlight.oldHighlight "red bold 52"
+git config --local color.diff-highlight.newNormal    "green bold"
+git config --local color.diff-highlight.newHighlight "green bold 22"
+
+git config --local color.diff.meta       "11"
+git config --local color.diff.frag       "magenta bold"
+git config --local color.diff.func       "146 bold"
+git config --local color.diff.commit     "yellow bold"
+git config --local color.diff.old        "red bold"
+git config --local color.diff.new        "green bold"
+git config --local color.diff.whitespace "red reverse"
