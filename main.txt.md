@@ -1673,39 +1673,40 @@ A good self-transformation technique will typically endogenously generate suffic
 It’s hard to overstate how much such an individual, one who, deep down, is relentlessly determined to control you and have you be a certain way, whether they realize it or not, can fuck up your life before you’ve realized it’s happened. Ten minutes with an individual like this can, worst-case, can mean hundreds of hours, or longer, to unfuck yourself.
 
 
-part X: spotting a cult leader by overt signs:
+### part X: spotting a cult leader by overt signs:
 
 Because the subtle signs are harder to detect and sometimes can’t be detected immediately, here is an incomplete list of overt signs that you’re possibly in the presence of a cult leader:
 
-(*) […]
-(*) noticing you’re holding your body very still
-(*) muscle tension, tension muscles in stomach, shoulders, neck
-(*) finding yourself barely breathing
-(*) tingling buzzing shimmering anywhere in body
-(*) noticing you’re getting sleepy or “stupid”
-(*) not being able to articulate something you can easily or could easily articulate in other environments, becoming tongue-tied
-(*) feeling fear, anxiety, love, sexual arousal, acceptance, belonging, power, “elitism,” or “having arrived” with no discernable cause or it’s sudden or there’s something intuitively strange-feeling about it
-(*) environment where there are “right answers” and “wrong answers,” in actuality, even if lip-service has been given to inclusivity or (provisional) openmindedness
-(*) environment arranged for e.g. high-stakes or fast responses, that in order to “get the right answer” you have to not just act but also think and feel a particular way.
-(*) narrow interaction patterns—can only interact with them in a certain way because if don’t then they won’t engage or don’t even seem to understand
-(*) things that they say are wrong, according to them, are all wrong and completely dismissed, can’t find partial value in things or evaluate things with nuance.
-(*) if the good sides of other teachers or teachings are considered, it’s mere lip service and subtle body language or even subtler things is dismissing those teachers or teachings whole-cloth and also dismissing you for even considering their value
-(*) body language or tone implying you’re not even wrong, that your question, consideration, position has no value and that you don’t have any value.
-(*) they imply other teachings, other goals, other plans, other groups have no value
-(*) if “caught out” or forced somehow to interact outside of their normal,narrow window they might become very anxious or very angry
-(*) holding up very narrow patterns of behavior (like particular types or styles of interactions) as universally good and that all other interaction styles are bad
-(*) in general they’ve created a “closed universe” around themselves where only a very narrow range of things can happen, even if a small number of those things are cool, impressive, or in some way world-facing.
-(*) interacting with them will have a “hermetically sealed” quality, where they’ll have an immediate “cached” or “cued up” answer to every possible concern, objection, accusation, etc. You’ll know it’s cached because of the speed of the response as well as the ways it doesn’t quite address the issue raised but seems to talk past it or not consider it freshly.
-(*) interacting with them will have a “never quite reaches them” feel, in that, even if your position is restated by them, it will be a “frankencreation” in their own concepts or their own perspective and your actual position will be discarded or dismissed by them. You’ll know this by how their restatement seems to “do harm” to your position makes it less accessible to you.
-(*) acting like their “logical” arguments are complete, closed, timeless, eternnal, acontextual, true everywhere, final, and dominating. playing with definitions of words or philosophical ideas in order to win an argument. becoming extremely abstract or meta—needing to hairsplit premises as a way to win an argument. needing to win all arguments or to dismiss the other position is not even wrong or not worth engaging in.
-(*) takes advantage of “good-faith, good-will to resolve disagreements to get to the bottom of things,” takes advantage of “mutual” understanding as a way to get more airtime and sink hooks in, with no intention or even necessarily ability to understand or gain insight from your position, perspective, feelings, etc.
-(*) the person has created carefully structured or cultivated groups, organizations, etc. in an attempt to have people behave in a very specific way (because they really need people to interact in a very specific way or they need the world to work in a very specific way, and this is their starting point or safe haven)
-(*) in general any hint of rigidity in behavior or what can happen around them or black-and-white-ness or foreclosing or shutting down the behavior of others is at least a yellow flag. If they want a particular type of interaction that can be ok, but if it seems like they can’t handle something else even for a second or they’re white-knuckling or teeth-gritting through part of something until they can get the thing they want, that’s a yellow flag.
-(*) particular advocacy for the world being unsafe or bad: doom, apocalypse, collapse, etc. [That’s not to say such things might or might not be true, but claims of their truth are part of a lever to control other’s behavior.]
-(*) they speak of elements of human interaction like they're "tools" or "toolkits" [cf. "tool-ification"*]; they turn human relating into checklists, flowcharts, actions and responses. and, some people have the tools, or know how to use the tools, and some people don't.
-(*) they tell you about yourself, they make a "package" [cf. "packaging"] of it, they say "this is you, and this is how you work, and this is what you're experience is and what it means," in words/ideas/concepts that make you doubt the legitimacy/safety/goodness/poewr of your own ongoing experience and active self-care, and your interpretation of that experience and active self-care
-(*) they claim the presence of unseen/unfelt forces/happenings/causes/effects, and you feel pressure to acquiesce to their claims or to their ontology, or that there's no "surface," space, time abundance, safety, something to question their claims, directly to them, or to other people
-(*) […]
+* […]
+* noticing you’re holding your body very still
+* muscle tension, tension muscles in stomach, shoulders, neck
+* finding yourself barely breathing
+* tingling buzzing shimmering anywhere in body
+* noticing you’re getting sleepy or “stupid”
+* not being able to articulate something you can easily or could easily articulate in other environments, becoming tongue-tied
+* feeling fear, anxiety, love, sexual arousal, acceptance, belonging, power, “elitism,” or “having arrived” with no discernable cause or it’s sudden or there’s something intuitively strange-feeling about it
+* environment where there are “right answers” and “wrong answers,” in actuality, even if lip-service has been given to inclusivity or (provisional) openmindedness
+* environment arranged for e.g. high-stakes or fast responses, that in order to “get the right answer” you have to not just act but also think and feel a particular way.
+* narrow interaction patterns—can only interact with them in a certain way because if don’t then they won’t engage or don’t even seem to understand
+* things that they say are wrong, according to them, are all wrong and completely dismissed, can’t find partial value in things or evaluate things with nuance.
+* if the good sides of other teachers or teachings are considered, it’s mere lip service and subtle body language or even subtler things is dismissing those teachers or teachings whole-cloth and also dismissing you for even considering their value
+* body language or tone implying you’re not even wrong, that your question, consideration, position has no value and that you don’t have any value.
+* they imply other teachings, other goals, other plans, other groups have no value
+* if “caught out” or forced somehow to interact outside of their normal,narrow window they might become very anxious or very angry
+* holding up very narrow patterns of behavior (like particular types or styles of interactions) as universally good and that all other interaction styles are bad
+* in general they’ve created a “closed universe” around themselves where only a very narrow range of things can happen, even if a small number of those things are cool, impressive, or in some way world-facing.
+* interacting with them will have a “hermetically sealed” quality, where they’ll have an immediate “cached” or “cued up” answer to every possible concern, objection, accusation, etc. You’ll know it’s cached because of the speed of the response as well as the ways it doesn’t quite address the issue raised but seems to talk past it or not consider it freshly.
+* interacting with them will have a “never quite reaches them” feel, in that, even if your position is restated by them, it will be a “frankencreation” in their own concepts or their own perspective and your actual position will be discarded or dismissed by them. You’ll know this by how their restatement seems to “do harm” to your position makes it less accessible to you.
+* acting like their “logical” arguments are complete, closed, timeless, eternnal, acontextual, true everywhere, final, and dominating. playing with definitions of words or philosophical ideas in order to win an argument. becoming extremely abstract or meta—needing to hairsplit premises as a way to win an argument. needing to win all arguments or to dismiss the other position is not even wrong or not worth engaging in.
+* takes advantage of “good-faith, good-will to resolve disagreements to get to the bottom of things,” takes advantage of “mutual” understanding as a way to get more airtime and sink hooks in, with no intention or even necessarily ability to understand or gain insight from your position, perspective, feelings, etc.
+* the person has created carefully structured or cultivated groups, organizations, etc. in an attempt to have people behave in a very specific way (because they really need people to interact in a very specific way or they need the world to work in a very specific way, and this is their starting point or safe haven)
+* in general any hint of rigidity in behavior or what can happen around them or black-and-white-ness or foreclosing or shutting down the behavior of others is at least a yellow flag. If they want a particular type of interaction that can be ok, but if it seems like they can’t handle something else even for a second or they’re white-knuckling or teeth-gritting through part of something until they can get the thing they want, that’s a yellow flag.
+* particular advocacy for the world being unsafe or bad: doom, apocalypse, collapse, etc. [That’s not to say such things might or might not be true, but claims of their truth are part of a lever to control other’s behavior.]
+* they speak of elements of human interaction like they're "tools" or "toolkits" [cf. "tool-ification"*]; they turn human relating into checklists, flowcharts, actions and responses. and, some people have the tools, or know how to use the tools, and some people don't.
+* they tell you about yourself, they make a "package" [cf. "packaging"] of it, they say "this is you, and this is how you work, and this is what you're experience is and what it means," in words/ideas/concepts that make you doubt the legitimacy/safety/goodness/poewr of your own ongoing experience and active self-care, and your interpretation of that experience and active self-care
+* they claim the presence of unseen/unfelt forces/happenings/causes/effects, and you feel pressure to acquiesce to their claims or to their ontology, or that there's no "surface," space, time abundance, safety, something to question their claims, directly to them, or to other people
+* they vibe, imply, or even explicitly state any or all of: (a) “objective”, (b) non-ideological, (c) “view from nowhere”, (d) unremarkably (d1) sane, (d2) normal, (d3) natural, (d4) sensible, (d5) rational, (d6) reasonable, (d7) legitimate, (d8) authoritative, even (d9) saintly, (d10) with the mandate of heaven, and, this is in fact so unremarkable, that the faintest pause, whiff of an objection, marks one as (“of course!”; “goes without saying!”) immature, dense, stupid, immoral, crazy, inconsistent, lesser, worthless, etc. [“big gaslight[ing] energy”] There is also an bit of a double bind or contradiction--what’s happening is all of unremarkable, reasonable, normative/normal, special, good, all at the same time and are even somehow conflated; but, all those things are sort of of different and sometimes incompatible kinds. And this can be disorienting and another vector by which a cult leader can cause a problem or confusion and then offer a seeming solution, to further possibly induce or entrench dependency.
+* […]
 
 See also:
 
@@ -1715,7 +1716,7 @@ Lifton, Robert Jay. Losing reality: On cults, cultism, and the mindset of politi
 
 Kramer, Joel, and Diana Alstad. The guru papers: Masks of authoritarian power. North Atlantic Books, 2012.
 
-*"tool-ification" is someone else's term, and I might not be using it correctly
+* "tool-ification" is someone else's term, and I might not be using it correctly
 
 
 part X: incomplete list of relatively succinct concepts/definitions
