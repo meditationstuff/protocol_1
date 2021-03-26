@@ -8093,3 +8093,5 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 * Lam, Kam Chuen, and Master Lam Kam-Chuen. The Way of Energy: A Gaia Original. Simon and Schuster, 1991.
 * https://en.wikipedia.org/wiki/Zhan_zhuang (Last accessed: 2021-03-16)
 * https://en.wikipedia.org/wiki/Tilopa#Six_Precepts_or_Words_of_Advice (ht JD/MO Last accessed: 2021-03-16)
+* The Multiple Orgasm Trigger Program by Jack Johnston
+* Existential Kink: Unmask Your Shadow and Embrace Your Power (A method for getting what you want by getting off on what you don't) by Carolyn Elliott
