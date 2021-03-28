@@ -4186,6 +4186,8 @@ knowledge/awareness of self-ing
 knowledge/awareness of separateness
 knowledge/awareness of I, world, future
 [knowledge/awareness] "don't fucking care" [sic]
+* narrative self as such
+* interiority as such
 
 
 
