@@ -4524,72 +4524,119 @@ first person concrete experiential qualities in —> first person concrete exper
 
 
 
-theory:
+### theory:
 
-incomplete, alternative renderings:
+### incomplete, alternative renderings:
 
 A collaborator (mh) notes:
 
 I find myself mentally replacing much of the "will" or "intent" language in the protocol (particularly p2) with something like "invite" or "permit,” both of which feel like "cleaner" versions of doing something volitional (cleaner=less mental baggage).
 
+\*\*
 
 Another collaborator (jd) notes (paraphrased):
 
 Regarding doing, willing, etc., and different understandings of the underlying concepts, the ontology of course being imperfect to begin with, there can be a distinction between more volitional doings and less volitional doings. And, there’s a way in which doings can feel more and less willful, from effortful to having a “nondoing” flavor. And, there’s an important distinction between the two: I can do a very topdown, or willful, willing or doing or there can be bottom-up doings, that are just kind of happening on their own. And there can be more bottom-up intention [will] as a companion to willing. And they feel very different. I’ve been inclining more towards surrender, but there’s still been a lot of doing going on. More precisely, I’m less and less the one doing the doings, in a way that happens more easily and on its own. And the word I’m using is “allowing,” or I’m allowing it. The doings are allowed, somehow, and maybe being lightly facilitated by me. It’s not like the practice is missing doing, it’s just light and gentle. […] Where I got stuck was doings and willings that were more an exercise of will versus allowing that was more bottom-up.
 
+\*
 
 I note/respond:
 
 the p2 language has [and has had, for a long time] “allow” and “participate” on the backend, but, yeah, this is coming up more with people. [One reason I haven’t emphasized top-down versus bottom-up, in the main practices, is that the distinction, eventually, in some sense collapses. Or, the line gets ever more blurred, or it very saliently moves. Some of the preliminary/auxiliary practices intentionally have a bottom-up flavor, e.g. “be moved.” Also, the baked-in emphasis on ability/can/can’t hopefully gives a flavor of circumscribing problematic top-down-ness. All that said,] I’m wondering if there could be something more explicit [or front-loaded, in the main practices, to help good things happen maybe sooner]. so instead of:
 
-will/intend/[…] :: ~surrender … “allow or participate in that happening”
-do :: undo … “allow or participate in that happening”
+will/intend/[…] :: ~surrender … “allow or participate in that happening”  
+do :: undo … “allow or participate in that happening”  
 
-maybe should be more like:
+maybe should be more like:  
 
-will/intend/invite/permit/facilitate […] ::surrender […] “allow or participate […]”
-do/non-do :: undo […] “allow or participate […]
+will/intend/invite/permit/facilitate […] ::surrender […] “allow or participate […]”  
+do/non-do :: undo […] “allow or participate […]  
 
-reminding myself the current structure of p2:
+reminding myself the current structure of p2:  
 
-2 main parts will/do,
-each with two subparts will/surrender, do/undo,
-each with three subparts: good/bad/can’t
+2 main parts will/do,  
+each with two subparts will/surrender, do/undo,  
+each with three subparts: good/bad/can’t  
 
-notes on a couple takes/facets metaphysics of causation:
+\*\*
 
-necessary
-sufficient
-necessary and sufficient
-neither necessary nor sufficient
-cause/start
-stop/end
-prevent/block
-enable
-facilitate
-retard/inhibit
+notes on a couple takes/facets metaphysics of causation:  
 
+* necessary
+* sufficient
+* necessary and sufficient
+* neither necessary nor sufficient
+* cause/start
+* stop/end
+* prevent/block
+* enable
+* facilitate
+* retard/inhibit
+
+\*\*
 
 I offered another partial schema, that maybe doesn’t front-load or specially emphasize “bottom-up” but is more explicitly balanced about this:
 
-top-down willing
-top-down willing-to-enable plus bottom-up doing (and participating)
-top-down blocking-to-enable plus bottom-up doing (and participating)
-top-down allowing-to-enable plus bottom-up doing (and participating)
-top-down inviting-to-enable plus bottom-up doing (and participating)
-top-down permitting plus bottom-up doing (and participating)
-top-down surrender (and participating)
-top-down surrender-to-enable plus bottom-up doing (and participating)
-top-down doing
-top-down doing-to-undo / redoing-to-undo
-top-down doing-to-enable plus bottom-up undoing
-top-down blocking-to-enable plus bottom-up undoing
-top-down allowing-to-enable plus bottom-up undoing
-top-down inviting-to-enable plus bottom-up doing
-top-down permitting plus bottom-up undoing
-top-down surrender
-top-down surrender-to-enable plus bottom-up undoing
-bottom-up doing-to-undo / redoing-to-undo
+* top-down willing
+* top-down willing-to-enable plus bottom-up doing (and participating)
+* top-down blocking-to-enable plus bottom-up doing (and participating)
+* top-down allowing-to-enable plus bottom-up doing (and participating)
+* top-down inviting-to-enable plus bottom-up doing (and participating)
+* top-down permitting plus bottom-up doing (and participating)
+* top-down surrender (and participating)
+* top-down surrender-to-enable plus bottom-up doing (and participating)
+* top-down doing
+* top-down doing-to-undo / redoing-to-undo
+* top-down doing-to-enable plus bottom-up undoing
+* top-down blocking-to-enable plus bottom-up undoing
+* top-down allowing-to-enable plus bottom-up undoing
+* top-down inviting-to-enable plus bottom-up doing
+* top-down permitting plus bottom-up undoing
+* top-down surrender
+* top-down surrender-to-enable plus bottom-up undoing
+* bottom-up doing-to-undo / redoing-to-undo
+
+\*\*
+
+Another collaborator (rv), published previously elsewhere, writes the below:
+
+\>\>\>  
+Language is stupid.
+
+Proof:
+
+* Doing X
+* Not doing X 
+
+"Not doing X" equivocates between the following:
+
+* Doing not-x (=> Actively avoiding doing X) 
+* Not do-X (=> Absence of doing X)
+
+If you understand this you understand Alexander Technique.
+
+FURTHERMORE:
+
+"Doing X" equivocates between the following:
+
+* Actively doing X (=> Actively executing X) 
+* Passively doing X (=> Allowing X to come to pass, by neither doing not-x NOR actively doing X )
+
+If you understand this you understand Wu Wei.
+
+MEANING:
+
+You can have whole ass (effectively) philosophical schools spring up and develop immense literature and practicum to teach you something which isn't a priori obvious for no reason other than living in between lapses of language.
+
+THEREFORE, language is stupid.
+
+Q.E.D.  
+\<\<\<
+
+\*
+
+[I would add, in addition to active and passive, there is sort of a third between them, "participation," after another meditation teacher.]
+
 
 
 
@@ -6469,6 +6516,8 @@ Stephan, V. Singing to the plants: A guide to mestizo shamanism in the upper Ama
 Earley, Jay. Self-Therapy: A Step-By-Step Guide to Creating Inner Wholeness Using Ifs, a New, Cutting-Edge Therapy. Hillcrest Publishing Group, 2009.
 
 Allione, Tsultrim. Feeding your demons: Ancient wisdom for resolving inner conflict. Little, Brown Spark, 2008.
+
+Shamanic Depossession: A Compassionate Healing Practice 1st Edition. Mr. Peter
 
 Fortune, Dion. Psychic self-defense. Weiser Books, 1967.
 
