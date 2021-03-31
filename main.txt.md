@@ -4598,7 +4598,7 @@ I offered another partial schema, that maybe doesn’t front-load or specially e
 
 \*\*
 
-Another collaborator (rv), published previously elsewhere, writes the below:
+Another collaborator (rv), tweets the below, published inline, with permission:
 
 https://twitter.com/nosilverv/status/1377214273471008775  
 \>\>\>  
