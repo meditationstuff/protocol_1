@@ -523,6 +523,7 @@ Credits:
 		* self and other; good and bad [draft]
 		* prenatal experiences
 		* direct and indirect people and group stuff
+		* on vibe(s) and vibing, briefly
 	* civilizational stuff
 		* buddhas, anti-buddhas, civilization, and the importance of method
 		* sketching alternatives to straw realism (international and group relations) [draft!][2500 words]
@@ -6662,6 +6663,37 @@ salience, trauma, ideology, colonialism from the past several hundred years
 belief, religion, cosmology from different parts of the world, seemingly going back thousands of years or into prehistory
 
 
+
+on vibe(s) and vibing, briefly:
+
+**vibe/vibes** (select definitions)  
+[...]  
+a sense or feeling about a person, place or thing  
+a distinctive emotional atmosphere; sensed intuitively.  
+feelings, atmosphere (from vibrations)  
+to agree with, like, or get along with  
+[...  ]
+--https://www.urbandictionary.com/define.php?term=Vibe  
+
+**vibing** (select definitions)  
+"Vibing in this form is a way of expressing energy without being hyper or over exaggerating and the person typically just lets out all the energy in a calm manner"  
+"Radiating a distinct emotional aura that others can detect."  
+--https://www.urbandictionary.com/define.php?term=vibing  
+
+Did/does my path have heart?  
+--Jack Kornfield, maybe  
+
+Did/does my path have vibe?  
+--someone  
+
+Did I love well?  
+--Jack Kornfield, maybe  
+
+Did I vibe well?  
+--someone  
+
+
+
 civilizational stuff:
 
 
@@ -8100,3 +8132,4 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 * The Multiple Orgasm Trigger Program by Jack Johnston
 * Existential Kink: Unmask Your Shadow and Embrace Your Power (A method for getting what you want by getting off on what you don't) by Carolyn Elliott
 * Feldenkrais, Moshe. Awareness through movement. Vol. 1977. New York: Harper and Row, 1972.
+* You Are the One You've Been Waiting For (Internal Family Systems). January 1, 2008. by Richard C. Schwartz
