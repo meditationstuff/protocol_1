@@ -6664,7 +6664,7 @@ belief, religion, cosmology from different parts of the world, seemingly going b
 
 
 
-on vibe(s) and vibing, briefly:
+### on vibe(s) and vibing, briefly:
 
 **vibe/vibes** (select definitions)  
 [...]  
