@@ -4598,7 +4598,7 @@ I offered another partial schema, that maybe doesn’t front-load or specially e
 
 \*\*
 
-Another collaborator (rv), tweets the below, published inline, with permission:
+Another collaborator (rv), tweets the below:
 
 https://twitter.com/nosilverv/status/1377214273471008775  
 \>\>\>  
@@ -4632,7 +4632,8 @@ You can have whole ass (effectively) philosophical schools spring up and develop
 THEREFORE, language is stupid.
 
 Q.E.D.  
-\<\<\<
+\<\<\<  
+(incorporated inline, with permission)  
 
 \*
 
