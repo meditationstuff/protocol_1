@@ -4191,6 +4191,9 @@ knowledge/awareness of I, world, future
 [knowledge/awareness] "don't fucking care" [sic]
 * narrative self as such
 * interiority as such
+* directly against/directly opposed
+* sensemaking 
+* doesn’t make sense/doesn’t need to make sense (at least right now)
 
 
 
@@ -4485,6 +4488,7 @@ p8:
 (*) What is the answer/solution to “true bad”?
 (*) What is your original impulse? Or, what emerges as your original impulse?
 * Just this or not just this?
+* Can you do it without coercive dominance?
 
 
 
