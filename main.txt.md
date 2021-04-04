@@ -5493,13 +5493,13 @@ The way to untangle attention [from other things and even completely] is no diff
 
 
 
-### “inner space” and physical/social grace
+### “inner space” and physical/social grace:
 
 (epistemic status: not exactly, maybe too extreme, needs more qualification, at least, and, but, etc.)
 
 “Internal” action, “mental” actions, perhaps (but not exactly*) even “subtle” actions are essential until they’re not (if ever) but there’s a sense in which perhaps all such actions are inherently jammy, grindy, frictiony, contradictory, contentious somewhere deep down. As in, any action that doesn’t stabilize or move the (“)physical(“) body, smoothly, coherently, is perhaps in some sense wasteful or ultimately superfluous.
 
-*This isn’t quite right because perhaps something like “inner space” transforms, thins, becomes re-known (cf. “just this” and luminosity**). But that doesn’t negate fantasy, imagination, play, shared dreaming, the positive (inner) spaces between (us). And/but/though/also, there’s senses in which thinking (“mental” action, mental effort) ultimately isn’t needed for any of that***. (“Ultimately,” as in eventually, because mind stuff is sometimes for sure needed until it isn’t.)
+\*This isn’t quite right because perhaps something like “inner space” transforms, thins, becomes re-known (cf. “just this” and luminosity**). But that doesn’t negate fantasy, imagination, play, shared dreaming, the positive (inner) spaces between (us). And/but/though/also, there’s senses in which thinking (“mental” action, mental effort) ultimately isn’t needed for any of that***. (“Ultimately,” as in eventually, because mind stuff is sometimes for sure needed until it isn’t.)
 
 **”in the seeing just the seen, in the hearing just the heard”; centerlessness, agency-less-ness (not saying these are necessarily good, necessary, inevitable but sketching out the space)
 
@@ -5507,7 +5507,7 @@ The way to untangle attention [from other things and even completely] is no diff
 
 
 
-dark phenomenology and presence/absence conceptions:
+### dark phenomenology and presence/absence conceptions:
 
 Something to keep in mind is that some phenomenology is relatively more prone to being “misinterpreted” or “misconceptualized,” still not committing to any particular thing when using the words “phenomenology,” “mistinterpretation,” “misconceptualization,” etc.
 
@@ -5534,7 +5534,7 @@ Note:
 There are parallels, here, to "unvalenced" phenomenology and memories. (vs "valenced" as in phenomenology/sensations that is/are directly positive/pleasurable/good or negative/noxious/bad/etc or, more loosely, sensations or experiences that are associated with such.)
 
 
-getting triggered, usefulness and risks:
+### getting triggered, usefulness and risks:
 
 Sometimes getting triggered can save time, whether that triggering is accidental, surprising, or even prospectively (and retrospectively) net undesirable.
 
