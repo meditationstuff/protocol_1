@@ -4223,7 +4223,7 @@ p7:
 
 1. Who am I being (right now)?
 1. What/which is me and/or mine? What/which is you and/or yours? What/which is his/her/it and/or theirs?
-1. What is this/that/my [(necessary) essence/]nature here/there? What is this that I am being right now, here/there and how does it/that [(necessary) essence/](nature) work?
+1. What is this/that/my [(necessary) essence/]nature here/there? What is this that I am being right now, here/there and how does it/that [(necessary) essence/(nature)] work?
 1. What is this/that that I’m or this part of me is currently knowing/believing/understanding/representing/thinking/expecting, there/here? What do things feel/seem to be from its perspective, as it, from it? How does the world seem to be to/from it?
 1. What is/are this/these practice(s) for? Why, for what (purpose/goal/good...), am I doing (any of) this/these at all?
 1. Why, for what (purpose/goal/good...), am I doing anything at all rather than doing nothing?
