@@ -2742,7 +2742,7 @@ If it’s hard to “sit down to meditate” or meditation has lately been “im
 
 posture: (section needs editing)
 
-You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking (while “meditating-meditating,” but see below) and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket or no blanket, sleep mask or pitch black room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
+You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for “progress.” It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking (while “meditating-meditating,” but see below) and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket(s) or no blanket(s), sleep mask or pitch black room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
 
 Favorite meditation postures/combinations (unordered): sitting, lying down back/sides, Zhan Zhuang / standing, walking, running/jogging, yoga asanas, eyes open/closed, earplugs +/-, eye shades / complete darkness / pitch black +/-, netflix, amazon video, facebook, twitter, watching blog stats
 
@@ -4217,278 +4217,281 @@ p7:
 • When you’re finished with the above as such, in the ways in which it’s good to do so and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you stop willing the above as such in the ways that make sense.
 
 
-p8:
+### p8:
+
 (There will be a right way and a wrong way and a right time and a wrong time to incline towards answering any of these questions.) If can ask in a way/manner/sense that’s good, and it is good to ask at/during the time of asking through the interval of (possibly) answering or partially or fully answering:
-*1) Who am I being (right now)?
-*2) What/which is me and/or mine? What/which is you and/or yours? What/which is his/her/it and/or theirs?
-*3) What is this/that/my [(necessary) essence/]nature here/there? What is this that I am being right now, here/there and how does it/that [(necessary) essence/](nature) work?
-*4) What is this/that that I’m or this part of me is currently knowing/believing/understanding/representing/thinking/expecting, there/here? What do things feel/seem to be from its perspective, as it, from it? How does the world seem to be to/from it?
-*5) What is/are this/these practice(s) for? Why, for what (purpose/goal/good...), am I doing (any of) this/these at all?
-*6) Why, for what (purpose/goal/good...), am I doing anything at all rather than doing nothing?
-*7) What question of these or any would be good to ask next?
-*8) How is one to understand/know themselves?
-*9) Why is there something, anything rather than nothing?
-*x) what is the basis or ground of everything? What does everything depend on but this?
-[*10) cf What would be good to do?]
-[*11) What minimally and correctly/truthfully explains everything?]
-(*12) What is the deepest or most fundamental or most unconditional determining or causal factor or truth of what you experience or are aware of or attend to next?
-(*13) How does will and/or volitional doing work? How does nonvolitional or currently uninfluenceable enacting of self-change or self-telos work? What is the relationship between efficient(?) cause and telic or final cause?
-(*14) How do you come to know what is good and bad?
-(*15) Recall, feel back, to the immersive childhood (or prenatal or any age, as far back as you can go or wherever you’re drawn to or what makes sense or is good) feel, that sensory experience, that sensory feel, from the inside, from that perspective.
-(*16) Is this [current (self and) world] the best of all possible worlds? How do you know?
-(*17) What terrible tradeoffs am I making? For what am I holding out on, keeping what door open, for good or bad, for the slightest chance of X? How does that work and is that good to do? How do I know?
-(*18) What seems both terrible and (critically) necessary/needed?
-(*19) What will you never ever share with anyone no matter what about yourself, or your past, or who you were, or who you are, or what you want/desire?
-(*20) Where do you need to maximize something? Where will you never have enough? Where will nothing ever be enough? Where is infinitly needed or where is even infinity not enough? Why not determinate satisficing?
-(*21) For what must you risk the destruction of everything? What is worth risking everything for? What are you already risking everything for? For what must you risk destroying what you already have? What is worth that much that it is (seemingly) worth more than everything (or almost everything) else? What is so good about having a shot at X? Is (risking everything for) having a shot at X for some further good?
-(*22) Where must you be (self-)consistent and for what purpose?
-(*23) What would you do differently if you were truly alone or never accountable, in a good way?
-(*24) What do you have no choice about?
-(*25) What must you do no matter what?
-(*26) What outcome(s) must you avoid no matter what?
-(*27) What goal(s) must you achieve no matter what?
-(*28) In what ways can you not give up, in a bad way?
-(*29) In what ways can you not commit, in a bad way?
-(*30) What is taking (up) or consuming everything?
-(*31) How do things absolutely have to be? What absolutely has to be true? What absolutely has to be true in absolutely a particular way?
-(*32) What are all the things you’re doing or solving just so you can get back to X?
-(*33) What does or does not dictate global stringency or vigilance or room for error? How careful do you have to be in your life and why?
-(*34) Is the world (reality, the planet, the cosmos, life, being alive) good or bad?
-(*35) What would you tell someone if you could trust them completely?
-(*36) What would you tell someone if you knew the could and would safely and competently help you in a way that was ok or good for you?
-(*37) If I can do X then I can do Y; If I can do Y then I can do Z. So I should just do Z. But, then, what good things about X and Y might never happen?
-(*38) For what do you believe if you don’t do X then Y will never happen?
-(*39) What would be intolerable if it unexpectedly happened?
-(*40) What options or option types are you automatically/unreflectively discarding?
-(*41) cf the perfect is the enemy of the good; is the “perfect” the enemy of the perfect?
-(*42) Where are you getting the order wrong? Doing (or trying to do) A before B instead of B before A?
-(*43) What isn’t getting a chance to breath? What doesn’t have a chance to breath?
-(*44) What do you still feel (e.g. fear) from your childhood?
-(*45) In what ways do you still feel the “real immersive feel” of being a child? In what ways do you really feel like you haven’t aged?
-(*46) What was the first thing that happened to you or that you experienced that contributed to you becoming like this instead of like that?
-(*47) What are the real rules for how things work?
-(*48) Do you feel like you are the whole of your past?
-(*59) What did you leave behind? What were the clean breaks? What of your past must you confront or become or embrace?
-(*) What would you do if you had unlimited resources? What would you do if you could snap your fingers and magically make anything happen? For what would you push a button to instantly make it happen? For what would you think you would push the button, but, if it were actually in front of you you wouldn’t or couldn’t? Why? Everything were to suddenly become OK, what would’ve changed?
-(*) Where do other people’s “insides” or “insideness” live?
-(*) What is the relationship between other people’s “insideness” and “outsideness”?
-(*) Where is other people’s “insideness” and “outsidness” in relation to your “insideness” and “outsideness”?
-(*)What is the relationship between your “insideness” and your “outsideness” and environmental sensation and your experience of environmental location?
-(*) How do you know where things are in relationship to yourself?
-(*) Is the knowing of spatial location (of, say, sounds) “inside” you or “outside” you?
-(*) Where is knowledge of spatial location? Where is awareness of spatial location? What is the experience of spatial location?
-(*) Where is knowledge of spatial relationships? Where is awareness of spatial relation? What is the experience of spatial relation?
-(*) What is living a life like? What is being alive? What is it like to live a life? What is it like to go through life? How do you describe “what a life is”?
-(*) Where does the past live? Where does history live? Do history or the past exist outside of interpersonal interaction/“social reality”?
-(*) “Where”/“how” does death live? Can that “location” be otherwise?
-(*) “Where”/“how” does the future live? Can that “location” be otherwise?
-(*) “Where”/“how” does forever/immortality/deathlessness[ or not]/sempiternity/eternity/timelessness/“end-of-time-ness” live? Can that/those “location”(s) be otherwise?
-(*) Where/how does pain and/or suffering live?
-(*) What is the only thing that’s real?
-(*) Where does truth and the transitivity of truth preservation live?
-(*) Where and how does truth live in mind, experience, and behavior?
-(*) What is the relationship between truth and freedom?
-(*) What is the relationship between truth, freedom, and intolerably critical badness?
-(*) What are you expecting? What would be better? What would be better than that, better still?
-(*) What’s being left out? What is a frame that can hold everything (relevant)?
-(*) What do you feel like doing? What do you feel like doing right now?
-(*) Where is “infinity” and how is it represented?
-(*) What is your basis for action? What are you acting from? What beliefs or world-seeming are you acting from?
-(*) What is a basis for unconditional action? What is a basis for unconditional, a whole hearted action?
-(*) What do you take responsibility for? (cf duty obligation)
-(*) What is your basis for belief?
-(*) What is an unconditional basis for believe?
-(*) What is the difference between good and better?
-(*) What is the difference between contextually good and ultimately good; contextually bad and ultimately bad?
-(*) What is the difference between personally good and universally good?
-(*) What is the difference between good and necessary? (goodness and necessity)
-(*) What is the difference between good and right? (cf right=duty/obligation/responsibility)
-(*) Is there any greater whole worth dying for (the good of)?
-(*) What is the difference between this protocol and becoming a student of posture and movement?
-(*) What is the difference between unconditional goodness and ultimate goodness? (cf imminence, temporality, sempiternity, eternity, timelessness…)
-(*) Are causes singular, plural, or total/everything?
-(*) What is true/existing/obtaining in all places, times, (worlds,) universes, contexts, conditions, timelessly, eternally, sempiternally, unconditionally?
-(*) What are the limits on what is conceivable? What is the space of all conceivability? What are the limits on what is conceivable separately from other somethings?
-(*) What is good to unifiedly [sic] experience?
-(*) What do you want your life to concretely look, sound, and feel like? (etc.) How do you want your days to be filled?
-(*) If there is or were one “intrinsic motivation” in all times, all places, all situations, all contexts, what is or would it be?
-(*) What is the difference between one’s self-boundary and one’s sphere of influence?
-(*) When something is bad, when should you change yourself and not the world, your intentions, plans, goals, etc.? When should you change the world?
-(*) What’s real? What’s actual? (What things are real? What things are actual?)
-(*) What are bodies? What is your body? Are bodies real?
-(*) What is and isn’t reality?
-(*) What desire or problem are you avoiding at all costs?
-(*) What are minds? How do they work? What purpose do they serve? How does that feel from the inside? How should it be used?
-(*) What is a (human) mind?
-(*) Is everything perfect; are things perfect? If not, where/why not? (What’s bad? What (of everything) is bad? What’s bad here/everywhere? Where/what is concretely (or abstractly?) bad? What’s wrong? What’s not right?)
-(*) How do you account for (the contents/value/means/ends of) “having believed” (X) without needing to still believe (X)? [small-/medium-/large-scale reformatting]
-(*) What is everything that I rely on to know what I “should”/should be doing? [cf should, duty, obligation, responsibility, rightness, correctness, necessity, goodness, liking, loving, enjoying, wanting, desiring, hoping, longing, wishing, needing, preferring, nice-to-have, need-to-have, X-to-have][identity, self, other/not-me-but-another-self, me/I/myself, selfhood, personhood, grouphood]
-(*) What is should-ness? What is allowed-ness/permission? What is beyond either? [cf obliged, permitted, forbidden, other/by-whom-ness, authority, for-what-purpose/goodness-ness]
-(*) How do I know/tell when something (sensations, anything) is me? How do you know/tell when something (sensations, anything) is you? (How is that like something I do? How is it different?) [identity, self, other/not-me-but-another-self, me/I/myself, selfhood, personhood, grouphood]
-(*) What is authority? What is the basis of authority? What or who makes authority authoritative, and how? Who grants authority? Who enforces authority? What are the benefits of obedience?
-(*) Who will and won’t take care of you? Along what dimensions and what not? Who is and isn’t coming for you? Along what dimensions and what not? Who is coming/going to save you, and how or how not? Who won’t save you, and how or how not? Who do and will you love? Who does and will love you?
-(*) When are self-trust and self-reliance safe? When, if ever, is a lack of self-trust good? When self-trust is lacking, in what ways is self-trust actually (still) present?
-(*) How can self and other be confused?
-(*) Who determines what goodness is? Who determines what things are good? What determines what things are good? What makes something good, likeable,  desirable, enjoyable, ethical, moral, safe, correct, constructive, useful, valuable... ?
-(*) If you’re experiencing pressure from someone, where is it actually coming from? [Is it coming from you? From them? Both? Other? etc.]
-(*) What If X weren’t just so? What If X weren’t exactly just so? What If X weren’t exactly a particular way? What would be bad about that? What would happen? What would happen instead? What would that mean? What would be the improbable, fantastical ideal? What’s good about that? How would that feel?
-(*) [x] What are all the good things about all the bad things? What are all the good things in all the bad things? What are all the mixed things in the good things? What are all the mixed things and the bad things? What are all the good things in the mix things? What are all the bad things in all the mixed things? All the good things about all the mixed things? What are all the bad things about other mixed things? [What are all the good/bad/mixed things in/about all the good/bad/mixed things?] [cf. comprehensiveness; exhaustivity]
-(*) What does it all mean? What does it all signify? Where is all the lack/absence of meaning? Where is all the lack/absence of significance? Where is the meaning? Where is the significance? What is meaningful? What is significant? What is not meaningful? What is not significant? What is basis of significance? What is the basis of meaning? [cf. comprehensiveness; exhaustivity] [cf [x]]
-(*) What are all the true things about all the false things? etc. [What are all the true/correct/false/wrong/incorrect/mixed things in/about all the true/correct/false/wrong/incorrect/mixed things?] [cf. comprehensiveness; exhaustivity] [cf [x]]
-(*) What are all the real things in all the fake things? etc. [What are all the real/actual/obtaining/existing/veridical/fake/illusory/imaginary/mixed things in/about all the real/actual/obtaining/existing/veridical/fake/illusory/imaginary/mixed things?] [cf. comprehensiveness; exhaustivity] [cf [x]]
-(*) How are you being tripped up or slowed down by belief in belief?
-(*) “Why is the badness objectively real, something ‘out there?’”
-(*) “Why are you a bad person?”
-(*) “Why is anything objectively real, something ‘out there?’”
-(*) Are you allowed to come up with/find your own solutions?
-(*) What of your problems have you not yet solved? What of your problems do you assume you can’t solve?
-(*) How does a mind decide anything? How does a mind decide? How does mind choose anything? How doesn’t mind choose?
-(*) What if fear was unnecessary and you had none?
-(*) What could you have done differently? What could anyone have done differently? [question is unrelated to the questions above and below]
-(*) What concepts become unnecessary or ultimately meaningless?
-(*) Why are you doubting this right now instead of something else right now?
-(*) Is that necessary? What can happen anytime or next time?
-(*) If you provisionally assume it will be like this forever, how would you move forward (with all of that exactly like it is, now)?
-(*) What makes X bad?
-(*) How would you move forward if you never meditated or used this protocol or did anything “inward focused” ever again?
-(*) What if you completely stopped meditating or doing this protocol, temporarily? What then?
-(*) What if you gave up the idea of meditating? What if you tabooed “meditation”? How would you move forward?
-(*) What if you were “like this” for the rest of you life? How would you move forward?
-(*) What if meditation/protocoling wasn’t the only way out? What if there was no out but also no need to get out?
-(*) What do you do as you’re sitting down to “do the meditation activity”? What happens in the first milliseconds. And before that? What has already happened in the doing of that? What makes “doing meditation” separate from everything else? What if you dropped all that? What would meditation be then?
-(*) What if there was no meditation or pre-meditation or post-meditation but just mind?
-(*) What is meaningful for you?
-(*) What is your meaninglessness? (e.g. personal death, e.g. heat death of the universe)
-(*) What is the relationship between desire and intent?
-(*) What is the relationship between desire and intent and behavior and outcome?
-(*) What is the relationship between meaning-laden phenomenology and body?
-(*) Where does agency originate from?
-(*) What are the errors in your doing?
-(*) What are the errors in your willing?
-(*) What are the errors in your surrendering?
-(*) What are the errors in your undoing?
-(*) What is the relationship between self-conceptualization and doing?
-(*) What is the relationship between self-conceptualization and agency?
-(*) What is the relationship between self-conceptualization and planning/intending/intent/will…?
-(*) Is it ok to look at the way “you’ve just been happening”?
-(*) What would anyone do in this situation?
-(*) What is the relationship between phenomenology or “internal” experience and plan/“plan”? [sic]
-(*) What is the relationship between phenomenology or “internal” experience and expectation?
-(*) How is your “plan” the same or different from simply everything you currently are?
-(*) What are the relationships between natural planning and artificial planning?
-(*) For what open questions do you already have the data [“within you”]?
-(*) Does the world need to make sense in a very particular way? How/what is that way?
-(*) How is your mind working right now? In what manner?
-(*) What language or meta-language is your mind using? What is the lingua franca of your mind?
-(*) What is the world?
-(*) What is the relationship between meaning, completion, imminence, now, and stability, in no particular order?
-(*) Say there’s something X that nothing “external” to you can give you, or that you can’t get doing “external” things. What is X?
-(*) Say there’s something X that can only be gotten through “internal rearrangement.” What is X?
-(*) Has anything ever-always-as-yet-still been completely untouched by all goal-seeking in your life? If so, what/where is that?
-(*) Do you want to fuck and/or be accepted by your mom? Do you want to fuck and/or be accepted by your dad? Do you want to kill either or both of your parents or any or all your siblings?
-(*) What as an AMAB or AFAB (a male assigned at birth, a female assigned at birth) or intersex or contingent anything, can you definitely or merely apparently never receive, have, get, do, etc.?
-(*) Who’s trying to get things for whom?
-(*) Where are you?
-(*) When are you?
-(*) What are you doing (to undo) that’s an instance of a(/the very) thing you’re trying/intending to undo?
-(*) What happens in the seconds and milliseconds before you start “officially” meditating, and what does that mean?
-(*) What is always already now complete and unified and pure and...?
-(*) What is (your) fundamental insecurity?
-(*) Would you harm, rape, kill, one-up, take advantage of, and/or gain advantage over another person if you were absolutely certain you’d never, ever get caught or face any (external, gross) consequences, on your terms?
-(*) What are you doing to yourself X to prevent yourself from doing bad/shameful/evil/destructive/etc thing Y? (And/or to keep yourself doing either good or believed necessary thing Z?)
-(*) The whole point of meditating was to never have to face what/X? What is X?
-(*) How is [the very fabric of] reality broken?
-(*) Does every towards have an away from?
-(*) What is the unity of opposites?
-(*) What is the unification of concepts?
-(*) How does X contain Y? (“containment relations “)
-(*) What’s the one thing you’d never allow yourself to be cornered into having to talk about? What are the things you’d never allow yourself to be cornered into having to talk about?
-(*) What conversations can’t you (yet) have?
-(*) What can’t you extemporaneously talk about (a lot), pretty quickly, maybe with a bit of a delay before you get going?
-(*) What is the relationship between “cognition “and “embodiment “?
-(*) What things in your mind that cannot express themselves are the same time?
-(*) Is it safe to be radically vulnerable to yourself? If not, how might that come to be?
-(*) What would still be the problem even if you were certain you were perfectly healthy and you had one hundred million dollars in a trusted bank?
-(*) What would still be a problem if you were rich, stably physically healthy, and immortal?
-(*) What are the relationships between inside, now, future, outside?
-(*) How would you choose differently if no one you ever knew would ever know? Put a different way, if you could live perfect double or triple lives, where no one in each life would ever, ever find out about the other lives, what would you do in each life? Put another way, if everyone you ever knew or know gave you perfect permission to do as you wanted and also would never or know or be able to cast judgment on you or whatever you did, what would you do or do differently?
-(*) In what ways are you not taking unified and total responsibility for your life? And what are the ways in which you are?
-(*) What is/was your entire life going to be, including in light of possible sudden and/or unexpected death?
-(*) What problems would yet persist even after “all your problems were solved”?
-(*) Could you just exist like this, if you had to? (How could that be ok?)
-(*) What’s your meta goal?
-(*) What are you actually doing?
-(*) Is here and now bad?
-(*) Do you hate reality?
-(*) What are the places from which you’ve never left?
-(*) What are the ultraprecise, hyperprecise (interpersonal or otherwise) experience you want to have, need to have (to unlock, to uncoil, to move forward, to love, to anything, etc.)?
-(*) How is your current trying/doing/solution-ing getting in the way of actual no-brainer, will-be-fully-endorsed/wanted, solutions, positive changes?
-(*) What is terrifying for it to not already be true?
-(*) What is the difference between any and every “two” “sensations”?
-(*) What are you trying to maximize? Why not sufficiency? What will never be enough? Why or how do you know?
-(*) Do you want it all to just stop/end/finish/cease?
-(*) Are you trying to directly/immediate/instantly/something control (change, precent, block, cause) sensations?
-(*) How are you beyond beyond [sic] fucked?
-(*) What can you not accept?
-(*) What present limitations of yours can you not accept?
-(*) What are the things that nothing will fix (even if you *do* fix it?!)?
-(*) What can’t you keep out?
-(*) What destabilizes you?
-(*) How do you know/tell what’s actually real?
-(*) Who are you and what should you do?
-(*) What class of person are you and what should you do?
-(*) What in-group versus out-group are you really truly in?
-(*) What automatically makes someone a parent or an adult or The Man or The System? (Automatically makes it so that those things are real and someone must be seen as an agent or personification of one of them?)
-(*) What is the fabric of your world? (that completely comprises it, or parts of it, with nothing left over)
-(*) What must the world be? What must you be and what must other people be for the world to be(come) that?
-(*) What are the limits of your knowledge of outside this moment? What are the limits of your knowledge of the future? What do you and can you know about this moment? What do you and can you know about the future? What do you and can you know about outside this moment?
-(* [jd]) If you had a remote (or option) that could fast forward through time (you'd still be living your life but would "wake up" at a future moment), what would you do? Would you use it? would you do it?
-(* [h]) Under what circumstances would you betray your loved ones/yourself/your ideals in order to survive? [what’s that like?]
-(* [h]) What dead ends are you heading toward or stuck at?
-(*) What has been the same or unchanging since your earliest memory?
-(*) Why do you expect everything to work, versus suffering, failure, disappointment, harm?
-(*) Why do/did you think anything was/is going to work out at all? (preconceiving/presupposing X)
-(*) Why do/did you think you were an agent with (a) goal(s) at all? (preconceiving/presupposing X)
-(*) Where is the future seated? In there? In here? Up there? Out there?
-(*) Where are goals seated? In there? In here? Up there? Out there?
-(*) Where is *the* goal seated? In there? In here? Up there? Out there?
-(*) What are you wrapped around?
-(*) True of false and why: “I”(?) believe “I’m”(?) evil and therefore undeserving.
-(*) What would happen if you basked in the goodness of your seeming/provisional perfect irredeemability?
-(*) Where is the sky judge? How can it/they be known?
-(*) What mouse are you to what reality cat?
-(*) Where are the credentialers, the certifiers?
-(*) What if, whatever all this actually is, is ok?
-(*) What if life is suffering?
-(*) What if you’re being utterly carried and held in this physical world, this very moment, and this one?
-(*) What would happen if you were ok?
-(*) What are all the ways actual empathy could work?
-(*) What are all the ways perspective-taking could work?
-(*) Are you a person, through-and-through? Is it safe to not be a wholly a person or to not be a person, when/if needed?
-(repeat? *) Are you willing to have X forever?
-(repeat? *) Are you willing to be exactly this way forever? How would that look? What would you do right now in that world?
-(*) What is the true/actual (self-)language of the body(mind)?
-(*) What is your lifeworld built out of?
-(*) What for you is context bound?
-(*) Are you a person in the world?
-(*) What glues together ongoing narrative?
-(*) What is/are (a) [whole] world(s) and how should one relate to it/them, morally or generally?
-(*) What do you actually/truly/really want? (*)
-(*) What is the nature of “hell”?
-(*) How can suffering by an interpersonal strategy?
-(*) Is it safe for something to not have meaning and/or not have meaning “attached”/attached/??? ? [sic]
-(*) Have you considered the possibility that you are <this other person>, that there never was <you> to being with, or that <you> are dead, that <you> don’t exist at all, not to mention that there are no people and there are no things, and that what’s happening is happening to no one? That you were never alive in the first place?
-(*) Have you considered that everyone else is good and that youare not good?
-(*) What if you’re already dead?
-(*) What if you were never alive in the first place?
-(*) What is the actual badness of the world or actually real? Is there an actual badness of the world or actually real? Where might there be an actual badness of the world or actually real?
-(*) Why do (body)minds suffer, in the first place?
-(*) What will never be ok?
-(*) What is the nature of “true bad”?
-(*) What is the answer/solution to “true bad”?
-(*) What is your original impulse? Or, what emerges as your original impulse?
-* Just this or not just this?
-* Can you do it without coercive dominance?
+
+1. Who am I being (right now)?
+1. What/which is me and/or mine? What/which is you and/or yours? What/which is his/her/it and/or theirs?
+1. What is this/that/my [(necessary) essence/]nature here/there? What is this that I am being right now, here/there and how does it/that [(necessary) essence/](nature) work?
+1. What is this/that that I’m or this part of me is currently knowing/believing/understanding/representing/thinking/expecting, there/here? What do things feel/seem to be from its perspective, as it, from it? How does the world seem to be to/from it?
+1. What is/are this/these practice(s) for? Why, for what (purpose/goal/good...), am I doing (any of) this/these at all?
+1. Why, for what (purpose/goal/good...), am I doing anything at all rather than doing nothing?
+1. What question of these or any would be good to ask next?
+1. How is one to understand/know themselves?
+1. Why is there something, anything rather than nothing?
+1. what is the basis or ground of everything? What does everything depend on but this?
+1. cf What would be good to do?]
+1. What minimally and correctly/truthfully explains everything?]
+1. What is the deepest or most fundamental or most unconditional determining or causal factor or truth of what you experience or are aware of or attend to next?
+1. How does will and/or volitional doing work? How does nonvolitional or currently uninfluenceable enacting of self-change or self-telos work? What is the relationship between efficient(?) cause and telic or final cause?
+1. How do you come to know what is good and bad?
+1. Recall, feel back, to the immersive childhood (or prenatal or any age, as far back as you can go or wherever you’re drawn to or what makes sense or is good) feel, that sensory experience, that sensory feel, from the inside, from that perspective.
+1. Is this [current (self and) world] the best of all possible worlds? How do you know?
+1. What terrible tradeoffs am I making? For what am I holding out on, keeping what door open, for good or bad, for the slightest chance of X? How does that work and is that good to do? How do I know?
+1. What seems both terrible and (critically) necessary/needed?
+1. What will you never ever share with anyone no matter what about yourself, or your past, or who you were, or who you are, or what you want/desire?
+1. Where do you need to maximize something? Where will you never have enough? Where will nothing ever be enough? Where is infinitly needed or where is even infinity not enough? Why not determinate satisficing?
+1. For what must you risk the destruction of everything? What is worth risking everything for? What are you already risking everything for? For what must you risk destroying what you already have? What is worth that much that it is (seemingly) worth more than everything (or almost everything) else? What is so good about having a shot at X? Is (risking everything for) having a shot at X for some further good?
+1. Where must you be (self-)consistent and for what purpose?
+1. What would you do differently if you were truly alone or never accountable, in a good way?
+1. What do you have no choice about?
+1. What must you do no matter what?
+1. What outcome(s) must you avoid no matter what?
+1. What goal(s) must you achieve no matter what?
+1. In what ways can you not give up, in a bad way?
+1. In what ways can you not commit, in a bad way?
+1. What is taking (up) or consuming everything?
+1. How do things absolutely have to be? What absolutely has to be true? What absolutely has to be true in absolutely a particular way?
+1. What are all the things you’re doing or solving just so you can get back to X?
+1. What does or does not dictate global stringency or vigilance or room for error? How careful do you have to be in your life and why?
+1. Is the world (reality, the planet, the cosmos, life, being alive) good or bad?
+1. What would you tell someone if you could trust them completely?
+1. What would you tell someone if you knew the could and would safely and competently help you in a way that was ok or good for you?
+1. If I can do X then I can do Y; If I can do Y then I can do Z. So I should just do Z. But, then, what good things about X and Y might never happen?
+1. For what do you believe if you don’t do X then Y will never happen?
+1. What would be intolerable if it unexpectedly happened?
+1. What options or option types are you automatically/unreflectively discarding?
+1. cf the perfect is the enemy of the good; is the “perfect” the enemy of the perfect?
+1. Where are you getting the order wrong? Doing (or trying to do) A before B instead of B before A?
+1. What isn’t getting a chance to breath? What doesn’t have a chance to breath?
+1. What do you still feel (e.g. fear) from your childhood?
+1. In what ways do you still feel the “real immersive feel” of being a child? In what ways do you really feel like you haven’t aged?
+1. What was the first thing that happened to you or that you experienced that contributed to you becoming like this instead of like that?
+1. What are the real rules for how things work?
+1. Do you feel like you are the whole of your past?
+1. What did you leave behind? What were the clean breaks? What of your past must you confront or become or embrace?
+1. What would you do if you had unlimited resources? What would you do if you could snap your fingers and magically make anything happen? For what would you push a button to instantly make it happen? For what would you think you would push the button, but, if it were actually in front of you you wouldn’t or couldn’t? Why? Everything were to suddenly become OK, what would’ve changed?
+1. Where do other people’s “insides” or “insideness” live?
+1. What is the relationship between other people’s “insideness” and “outsideness”?
+1. Where is other people’s “insideness” and “outsidness” in relation to your “insideness” and “outsideness”?
+1.What is the relationship between your “insideness” and your “outsideness” and environmental sensation and your experience of environmental location?
+1. How do you know where things are in relationship to yourself?
+1. Is the knowing of spatial location (of, say, sounds) “inside” you or “outside” you?
+1. Where is knowledge of spatial location? Where is awareness of spatial location? What is the experience of spatial location?
+1. Where is knowledge of spatial relationships? Where is awareness of spatial relation? What is the experience of spatial relation?
+1. What is living a life like? What is being alive? What is it like to live a life? What is it like to go through life? How do you describe “what a life is”?
+1. Where does the past live? Where does history live? Do history or the past exist outside of interpersonal interaction/“social reality”?
+1. “Where”/“how” does death live? Can that “location” be otherwise?
+1. “Where”/“how” does the future live? Can that “location” be otherwise?
+1. “Where”/“how” does forever/immortality/deathlessness[ or not]/sempiternity/eternity/timelessness/“end-of-time-ness” live? Can that/those “location”(s) be otherwise?
+1. Where/how does pain and/or suffering live?
+1. What is the only thing that’s real?
+1. Where does truth and the transitivity of truth preservation live?
+1. Where and how does truth live in mind, experience, and behavior?
+1. What is the relationship between truth and freedom?
+1. What is the relationship between truth, freedom, and intolerably critical badness?
+1. What are you expecting? What would be better? What would be better than that, better still?
+1. What’s being left out? What is a frame that can hold everything (relevant)?
+1. What do you feel like doing? What do you feel like doing right now?
+1. Where is “infinity” and how is it represented?
+1. What is your basis for action? What are you acting from? What beliefs or world-seeming are you acting from?
+1. What is a basis for unconditional action? What is a basis for unconditional, a whole hearted action?
+1. What do you take responsibility for? (cf duty obligation)
+1. What is your basis for belief?
+1. What is an unconditional basis for believe?
+1. What is the difference between good and better?
+1. What is the difference between contextually good and ultimately good; contextually bad and ultimately bad?
+1. What is the difference between personally good and universally good?
+1. What is the difference between good and necessary? (goodness and necessity)
+1. What is the difference between good and right? (cf right=duty/obligation/responsibility)
+1. Is there any greater whole worth dying for (the good of)?
+1. What is the difference between this protocol and becoming a student of posture and movement?
+1. What is the difference between unconditional goodness and ultimate goodness? (cf imminence, temporality, sempiternity, eternity, timelessness…)
+1. Are causes singular, plural, or total/everything?
+1. What is true/existing/obtaining in all places, times, (worlds,) universes, contexts, conditions, timelessly, eternally, sempiternally, unconditionally?
+1. What are the limits on what is conceivable? What is the space of all conceivability? What are the limits on what is conceivable separately from other somethings?
+1. What is good to unifiedly [sic] experience?
+1. What do you want your life to concretely look, sound, and feel like? (etc.) How do you want your days to be filled?
+1. If there is or were one “intrinsic motivation” in all times, all places, all situations, all contexts, what is or would it be?
+1. What is the difference between one’s self-boundary and one’s sphere of influence?
+1. When something is bad, when should you change yourself and not the world, your intentions, plans, goals, etc.? When should you change the world?
+1. What’s real? What’s actual? (What things are real? What things are actual?)
+1. What are bodies? What is your body? Are bodies real?
+1. What is and isn’t reality?
+1. What desire or problem are you avoiding at all costs?
+1. What are minds? How do they work? What purpose do they serve? How does that feel from the inside? How should it be used?
+1. What is a (human) mind?
+1. Is everything perfect; are things perfect? If not, where/why not? (What’s bad? What (of everything) is bad? What’s bad here/everywhere? Where/what is concretely (or abstractly?) bad? What’s wrong? What’s not right?)
+1. How do you account for (the contents/value/means/ends of) “having believed” (X) without needing to still believe (X)? [small-/medium-/large-scale reformatting]
+1. What is everything that I rely on to know what I “should”/should be doing? [cf should, duty, obligation, responsibility, rightness, correctness, necessity, goodness, liking, loving, enjoying, wanting, desiring, hoping, longing, wishing, needing, preferring, nice-to-have, need-to-have, X-to-have][identity, self, other/not-me-but-another-self, me/I/myself, selfhood, personhood, grouphood]
+1. What is should-ness? What is allowed-ness/permission? What is beyond either? [cf obliged, permitted, forbidden, other/by-whom-ness, authority, for-what-purpose/goodness-ness]
+1. How do I know/tell when something (sensations, anything) is me? How do you know/tell when something (sensations, anything) is you? (How is that like something I do? How is it different?) [identity, self, other/not-me-but-another-self, me/I/myself, selfhood, personhood, grouphood]
+1. What is authority? What is the basis of authority? What or who makes authority authoritative, and how? Who grants authority? Who enforces authority? What are the benefits of obedience?
+1. Who will and won’t take care of you? Along what dimensions and what not? Who is and isn’t coming for you? Along what dimensions and what not? Who is coming/going to save you, and how or how not? Who won’t save you, and how or how not? Who do and will you love? Who does and will love you?
+1. When are self-trust and self-reliance safe? When, if ever, is a lack of self-trust good? When self-trust is lacking, in what ways is self-trust actually (still) present?
+1. How can self and other be confused?
+1. Who determines what goodness is? Who determines what things are good? What determines what things are good? What makes something good, likeable,  desirable, enjoyable, ethical, moral, safe, correct, constructive, useful, valuable... ?
+1. If you’re experiencing pressure from someone, where is it actually coming from? [Is it coming from you? From them? Both? Other? etc.]
+1. What If X weren’t just so? What If X weren’t exactly just so? What If X weren’t exactly a particular way? What would be bad about that? What would happen? What would happen instead? What would that mean? What would be the improbable, fantastical ideal? What’s good about that? How would that feel?
+1. [x] What are all the good things about all the bad things? What are all the good things in all the bad things? What are all the mixed things in the good things? What are all the mixed things and the bad things? What are all the good things in the mix things? What are all the bad things in all the mixed things? All the good things about all the mixed things? What are all the bad things about other mixed things? [What are all the good/bad/mixed things in/about all the good/bad/mixed things?] [cf. comprehensiveness; exhaustivity]
+1. What does it all mean? What does it all signify? Where is all the lack/absence of meaning? Where is all the lack/absence of significance? Where is the meaning? Where is the significance? What is meaningful? What is significant? What is not meaningful? What is not significant? What is basis of significance? What is the basis of meaning? [cf. comprehensiveness; exhaustivity] [cf [x]]
+1. What are all the true things about all the false things? etc. [What are all the true/correct/false/wrong/incorrect/mixed things in/about all the true/correct/false/wrong/incorrect/mixed things?] [cf. comprehensiveness; exhaustivity] [cf [x]]
+1. What are all the real things in all the fake things? etc. [What are all the real/actual/obtaining/existing/veridical/fake/illusory/imaginary/mixed things in/about all the real/actual/obtaining/existing/veridical/fake/illusory/imaginary/mixed things?] [cf. comprehensiveness; exhaustivity] [cf [x]]
+1. How are you being tripped up or slowed down by belief in belief?
+1. “Why is the badness objectively real, something ‘out there?’”
+1. “Why are you a bad person?”
+1. “Why is anything objectively real, something ‘out there?’”
+1. Are you allowed to come up with/find your own solutions?
+1. What of your problems have you not yet solved? What of your problems do you assume you can’t solve?
+1. How does a mind decide anything? How does a mind decide? How does mind choose anything? How doesn’t mind choose?
+1. What if fear was unnecessary and you had none?
+1. What could you have done differently? What could anyone have done differently? [question is unrelated to the questions above and below]
+1. What concepts become unnecessary or ultimately meaningless?
+1. Why are you doubting this right now instead of something else right now?
+1. Is that necessary? What can happen anytime or next time?
+1. If you provisionally assume it will be like this forever, how would you move forward (with all of that exactly like it is, now)?
+1. What makes X bad?
+1. How would you move forward if you never meditated or used this protocol or did anything “inward focused” ever again?
+1. What if you completely stopped meditating or doing this protocol, temporarily? What then?
+1. What if you gave up the idea of meditating? What if you tabooed “meditation”? How would you move forward?
+1. What if you were “like this” for the rest of you life? How would you move forward?
+1. What if meditation/protocoling wasn’t the only way out? What if there was no out but also no need to get out?
+1. What do you do as you’re sitting down to “do the meditation activity”? What happens in the first milliseconds. And before that? What has already happened in the doing of that? What makes “doing meditation” separate from everything else? What if you dropped all that? What would meditation be then?
+1. What if there was no meditation or pre-meditation or post-meditation but just mind?
+1. What is meaningful for you?
+1. What is your meaninglessness? (e.g. personal death, e.g. heat death of the universe)
+1. What is the relationship between desire and intent?
+1. What is the relationship between desire and intent and behavior and outcome?
+1. What is the relationship between meaning-laden phenomenology and body?
+1. Where does agency originate from?
+1. What are the errors in your doing?
+1. What are the errors in your willing?
+1. What are the errors in your surrendering?
+1. What are the errors in your undoing?
+1. What is the relationship between self-conceptualization and doing?
+1. What is the relationship between self-conceptualization and agency?
+1. What is the relationship between self-conceptualization and planning/intending/intent/will…?
+1. Is it ok to look at the way “you’ve just been happening”?
+1. What would anyone do in this situation?
+1. What is the relationship between phenomenology or “internal” experience and plan/“plan”? [sic]
+1. What is the relationship between phenomenology or “internal” experience and expectation?
+1. How is your “plan” the same or different from simply everything you currently are?
+1. What are the relationships between natural planning and artificial planning?
+1. For what open questions do you already have the data [“within you”]?
+1. Does the world need to make sense in a very particular way? How/what is that way?
+1. How is your mind working right now? In what manner?
+1. What language or meta-language is your mind using? What is the lingua franca of your mind?
+1. What is the world?
+1. What is the relationship between meaning, completion, imminence, now, and stability, in no particular order?
+1. Say there’s something X that nothing “external” to you can give you, or that you can’t get doing “external” things. What is X?
+1. Say there’s something X that can only be gotten through “internal rearrangement.” What is X?
+1. Has anything ever-always-as-yet-still been completely untouched by all goal-seeking in your life? If so, what/where is that?
+1. Do you want to fuck and/or be accepted by your mom? Do you want to fuck and/or be accepted by your dad? Do you want to kill either or both of your parents or any or all your siblings?
+1. What as an AMAB or AFAB (a male assigned at birth, a female assigned at birth) or intersex or contingent anything, can you definitely or merely apparently never receive, have, get, do, etc.?
+1. Who’s trying to get things for whom?
+1. Where are you?
+1. When are you?
+1. What are you doing (to undo) that’s an instance of a(/the very) thing you’re trying/intending to undo?
+1. What happens in the seconds and milliseconds before you start “officially” meditating, and what does that mean?
+1. What is always already now complete and unified and pure and...?
+1. What is (your) fundamental insecurity?
+1. Would you harm, rape, kill, one-up, take advantage of, and/or gain advantage over another person if you were absolutely certain you’d never, ever get caught or face any (external, gross) consequences, on your terms?
+1. What are you doing to yourself X to prevent yourself from doing bad/shameful/evil/destructive/etc thing Y? (And/or to keep yourself doing either good or believed necessary thing Z?)
+1. The whole point of meditating was to never have to face what/X? What is X?
+1. How is [the very fabric of] reality broken?
+1. Does every towards have an away from?
+1. What is the unity of opposites?
+1. What is the unification of concepts?
+1. How does X contain Y? (“containment relations “)
+1. What’s the one thing you’d never allow yourself to be cornered into having to talk about? What are the things you’d never allow yourself to be cornered into having to talk about?
+1. What conversations can’t you (yet) have?
+1. What can’t you extemporaneously talk about (a lot), pretty quickly, maybe with a bit of a delay before you get going?
+1. What is the relationship between “cognition “and “embodiment “?
+1. What things in your mind that cannot express themselves are the same time?
+1. Is it safe to be radically vulnerable to yourself? If not, how might that come to be?
+1. What would still be the problem even if you were certain you were perfectly healthy and you had one hundred million dollars in a trusted bank?
+1. What would still be a problem if you were rich, stably physically healthy, and immortal?
+1. What are the relationships between inside, now, future, outside?
+1. How would you choose differently if no one you ever knew would ever know? Put a different way, if you could live perfect double or triple lives, where no one in each life would ever, ever find out about the other lives, what would you do in each life? Put another way, if everyone you ever knew or know gave you perfect permission to do as you wanted and also would never or know or be able to cast judgment on you or whatever you did, what would you do or do differently?
+1. In what ways are you not taking unified and total responsibility for your life? And what are the ways in which you are?
+1. What is/was your entire life going to be, including in light of possible sudden and/or unexpected death?
+1. What problems would yet persist even after “all your problems were solved”?
+1. Could you just exist like this, if you had to? (How could that be ok?)
+1. What’s your meta goal?
+1. What are you actually doing?
+1. Is here and now bad?
+1. Do you hate reality?
+1. What are the places from which you’ve never left?
+1. What are the ultraprecise, hyperprecise (interpersonal or otherwise) experience you want to have, need to have (to unlock, to uncoil, to move forward, to love, to anything, etc.)?
+1. How is your current trying/doing/solution-ing getting in the way of actual no-brainer, will-be-fully-endorsed/wanted, solutions, positive changes?
+1. What is terrifying for it to not already be true?
+1. What is the difference between any and every “two” “sensations”?
+1. What are you trying to maximize? Why not sufficiency? What will never be enough? Why or how do you know?
+1. Do you want it all to just stop/end/finish/cease?
+1. Are you trying to directly/immediate/instantly/something control (change, precent, block, cause) sensations?
+1. How are you beyond beyond [sic] fucked?
+1. What can you not accept?
+1. What present limitations of yours can you not accept?
+1. What are the things that nothing will fix (even if you *do* fix it?!)?
+1. What can’t you keep out?
+1. What destabilizes you?
+1. How do you know/tell what’s actually real?
+1. Who are you and what should you do?
+1. What class of person are you and what should you do?
+1. What in-group versus out-group are you really truly in?
+1. What automatically makes someone a parent or an adult or The Man or The System? (Automatically makes it so that those things are real and someone must be seen as an agent or personification of one of them?)
+1. What is the fabric of your world? (that completely comprises it, or parts of it, with nothing left over)
+1. What must the world be? What must you be and what must other people be for the world to be(come) that?
+1. What are the limits of your knowledge of outside this moment? What are the limits of your knowledge of the future? What do you and can you know about this moment? What do you and can you know about the future? What do you and can you know about outside this moment?
+* [jd] If you had a remote (or option) that could fast forward through time (you'd still be living your life but would "wake up" at a future moment), what would you do? Would you use it? would you do it?
+* [h] Under what circumstances would you betray your loved ones/yourself/your ideals in order to survive? [what’s that like?]
+* [h] What dead ends are you heading toward or stuck at?
+1. What has been the same or unchanging since your earliest memory?
+1. Why do you expect everything to work, versus suffering, failure, disappointment, harm?
+1. Why do/did you think anything was/is going to work out at all? (preconceiving/presupposing X)
+1. Why do/did you think you were an agent with (a) goal(s) at all? (preconceiving/presupposing X)
+1. Where is the future seated? In there? In here? Up there? Out there?
+1. Where are goals seated? In there? In here? Up there? Out there?
+1. Where is *the* goal seated? In there? In here? Up there? Out there?
+1. What are you wrapped around?
+1. True of false and why: “I”(?) believe “I’m”(?) evil and therefore undeserving.
+1. What would happen if you basked in the goodness of your seeming/provisional perfect irredeemability?
+1. Where is the sky judge? How can it/they be known?
+1. What mouse are you to what reality cat?
+1. Where are the credentialers, the certifiers?
+1. What if, whatever all this actually is, is ok?
+1. What if life is suffering?
+1. What if you’re being utterly carried and held in this physical world, this very moment, and this one?
+1. What would happen if you were ok?
+1. What are all the ways actual empathy could work?
+1. What are all the ways perspective-taking could work?
+1. Are you a person, through-and-through? Is it safe to not be a wholly a person or to not be a person, when/if needed?
+1. Are you willing to have X forever?
+1. Are you willing to be exactly this way forever? How would that look? What would you do right now in that world?
+1. What is the true/actual (self-)language of the body(mind)?
+1. What is your lifeworld built out of?
+1. What for you is context bound?
+1. Are you a person in the world?
+1. What glues together ongoing narrative?
+1. What is/are (a) [whole] world(s) and how should one relate to it/them, morally or generally?
+1. What do you actually/truly/really want? (*)
+1. What is the nature of “hell”?
+1. How can suffering by an interpersonal strategy?
+1. Is it safe for something to not have meaning and/or not have meaning “attached”/attached/??? ? [sic]
+1. Have you considered the possibility that you are <this other person>, that there never was <you> to being with, or that <you> are dead, that <you> don’t exist at all, not to mention that there are no people and there are no things, and that what’s happening is happening to no one? That you were never alive in the first place?
+1. Have you considered that everyone else is good and that youare not good?
+1. What if you’re already dead?
+1. What if you were never alive in the first place?
+1. What is the actual badness of the world or actually real? Is there an actual badness of the world or actually real? Where might there be an actual badness of the world or actually real?
+1. Why do (body)minds suffer, in the first place?
+1. What will never be ok?
+1. What is the nature of “true bad”?
+1. What is the answer/solution to “true bad”?
+1. What is your original impulse? Or, what emerges as your original impulse?
+1. Just this or not just this?
+1. Can you do it without coercive dominance?
+1. What are your "behavioral anomalies", historical ways in which you surprised yourself by what you did, how you acted?
 
 
 
@@ -5487,6 +5490,21 @@ Often, “attention” is “too tangled up” with “other things,” and this
 The way to untangle attention [from other things and even completely] is no different than untangling anything else from anything else (muscles, imagery, knowing; see other sections). It’s all bodymind, all experience.
 
 [See also: https://twitter.com/eating_entropy/status/1367920780823044097 Last accessed: 2021-03-05]
+
+
+
+### “inner space” and physical/social grace
+
+(epistemic status: not exactly, maybe too extreme, needs more qualification, at least, and, but, etc.)
+
+“Internal” action, “mental” actions, perhaps (but not exactly*) even “subtle” actions are essential until they’re not (if ever) but there’s a sense in which perhaps all such actions are inherently jammy, grindy, frictiony, contradictory, contentious somewhere deep down. As in, any action that doesn’t stabilize or move the (“)physical(“) body, smoothly, coherently, is perhaps in some sense wasteful or ultimately superfluous.
+
+*This isn’t quite right because perhaps something like “inner space” transforms, thins, becomes re-known (cf. “just this” and luminosity**). But that doesn’t negate fantasy, imagination, play, shared dreaming, the positive (inner) spaces between (us). And/but/though/also, there’s senses in which thinking (“mental” action, mental effort) ultimately isn’t needed for any of that***. (“Ultimately,” as in eventually, because mind stuff is sometimes for sure needed until it isn’t.)
+
+**”in the seeing just the seen, in the hearing just the heard”; centerlessness, agency-less-ness (not saying these are necessarily good, necessary, inevitable but sketching out the space)
+
+***see section: merely just having the experience itself, and, technical debt is good, actually
+
 
 
 dark phenomenology and presence/absence conceptions:
@@ -6728,12 +6746,12 @@ a distinctive emotional atmosphere; sensed intuitively.
 feelings, atmosphere (from vibrations)  
 to agree with, like, or get along with  
 [...  ]
---https://www.urbandictionary.com/define.php?term=Vibe  
+--https://www.urbandictionary.com/define.php?term=Vibe (see many more)
 
 **vibing** (select definitions)  
 "Vibing in this form is a way of expressing energy without being hyper or over exaggerating and the person typically just lets out all the energy in a calm manner"  
 "Radiating a distinct emotional aura that others can detect."  
---https://www.urbandictionary.com/define.php?term=vibing  
+--https://www.urbandictionary.com/define.php?term=vibing (see many more)
 
 Did/does my path have heart?  
 --Jack Kornfield, maybe  

@@ -786,6 +786,40 @@ n/a
 	- adverb
 	- preposition
 	- nominalization
+- conversational epistemic/valence markers
+	- (what are some more, including non-anglo?)
+	- (corresponding emoji?)
+	- (could add what each one means; some mean multiple things)
+	- markers
+		- oh
+		- huh
+		- uh
+		- uhh
+		- heh
+		- whoa
+		- eh
+		- erm
+		- er
+		- hrm
+		- mm
+		- ohh
+		- oh!
+		- wha
+		- whuh
+		- ah
+		- ok
+		- got it
+		- uh huh
+		- uh-uh
+		- hm
+		- hmm
+		- ahh
+		- right
+		- what
+		- no
+		- noo
+		- kk
+		- okok
 - bibliography (partial)
 	- https://en.wikipedia.org/wiki/Skandha
 	- https://en.wikipedia.org/wiki/List_of_English_copulae
