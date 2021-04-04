@@ -509,6 +509,7 @@ Credits:
 	* brief note on space and sensations
 	* brief, loosely related notes on unknotting, untwisting, untangling
 	* attention is not fundamental
+	* “inner space” and physical/social grace
 	* dark phenomenology and presence/absence conceptions
 	* getting triggered, usefulness and risks
 	* a dialogue between N and Mark, on reasoning and pre-reasoning
