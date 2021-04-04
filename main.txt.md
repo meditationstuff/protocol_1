@@ -4334,7 +4334,7 @@ p7:
 1. Who determines what goodness is? Who determines what things are good? What determines what things are good? What makes something good, likeable,  desirable, enjoyable, ethical, moral, safe, correct, constructive, useful, valuable... ?
 1. If you’re experiencing pressure from someone, where is it actually coming from? [Is it coming from you? From them? Both? Other? etc.]
 1. What If X weren’t just so? What If X weren’t exactly just so? What If X weren’t exactly a particular way? What would be bad about that? What would happen? What would happen instead? What would that mean? What would be the improbable, fantastical ideal? What’s good about that? How would that feel?
-1. [x] What are all the good things about all the bad things? What are all the good things in all the bad things? What are all the mixed things in the good things? What are all the mixed things and the bad things? What are all the good things in the mix things? What are all the bad things in all the mixed things? All the good things about all the mixed things? What are all the bad things about other mixed things? [What are all the good/bad/mixed things in/about all the good/bad/mixed things?] [cf. comprehensiveness; exhaustivity]
+1. What are all the good things about all the bad things? What are all the good things in all the bad things? What are all the mixed things in the good things? What are all the mixed things and the bad things? What are all the good things in the mix things? What are all the bad things in all the mixed things? All the good things about all the mixed things? What are all the bad things about other mixed things? [What are all the good/bad/mixed things in/about all the good/bad/mixed things?] [cf. comprehensiveness; exhaustivity] [x]
 1. What does it all mean? What does it all signify? Where is all the lack/absence of meaning? Where is all the lack/absence of significance? Where is the meaning? Where is the significance? What is meaningful? What is significant? What is not meaningful? What is not significant? What is basis of significance? What is the basis of meaning? [cf. comprehensiveness; exhaustivity] [cf [x]]
 1. What are all the true things about all the false things? etc. [What are all the true/correct/false/wrong/incorrect/mixed things in/about all the true/correct/false/wrong/incorrect/mixed things?] [cf. comprehensiveness; exhaustivity] [cf [x]]
 1. What are all the real things in all the fake things? etc. [What are all the real/actual/obtaining/existing/veridical/fake/illusory/imaginary/mixed things in/about all the real/actual/obtaining/existing/veridical/fake/illusory/imaginary/mixed things?] [cf. comprehensiveness; exhaustivity] [cf [x]]
@@ -4444,9 +4444,9 @@ p7:
 1. What is the fabric of your world? (that completely comprises it, or parts of it, with nothing left over)
 1. What must the world be? What must you be and what must other people be for the world to be(come) that?
 1. What are the limits of your knowledge of outside this moment? What are the limits of your knowledge of the future? What do you and can you know about this moment? What do you and can you know about the future? What do you and can you know about outside this moment?
-* [jd] If you had a remote (or option) that could fast forward through time (you'd still be living your life but would "wake up" at a future moment), what would you do? Would you use it? would you do it?
-* [h] Under what circumstances would you betray your loved ones/yourself/your ideals in order to survive? [what’s that like?]
-* [h] What dead ends are you heading toward or stuck at?
+1. If you had a remote (or option) that could fast forward through time (you'd still be living your life but would "wake up" at a future moment), what would you do? Would you use it? would you do it? [jd]
+1. Under what circumstances would you betray your loved ones/yourself/your ideals in order to survive? [what’s that like?] [h]
+1. What dead ends are you heading toward or stuck at? [h]
 1. What has been the same or unchanging since your earliest memory?
 1. Why do you expect everything to work, versus suffering, failure, disappointment, harm?
 1. Why do/did you think anything was/is going to work out at all? (preconceiving/presupposing X)
