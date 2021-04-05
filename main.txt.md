@@ -1,4 +1,4 @@
-### Working Titles: “Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol"/"Wayfinding Meditation"/"Global Wayfinding Meditation"/"Wayfinding Meditation Document"/"Wayfinding Meditation Protocol Document"/“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”
+### Working Title(s): “Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol"/"Wayfinding Meditation"/"Global Wayfinding Meditation"/"Wayfinding Meditation Document"/"Wayfinding Meditation Protocol Document"/“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”
 
 by Mark D Lippmann and collaborators
 
