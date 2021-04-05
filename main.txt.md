@@ -20,6 +20,7 @@ See these sections:
 
 * guided on-ramp for main practice p2 [draft]
 * pith instructions (experimental)
+* a bare-bones, bottom-up, noting-esque practice (without labeling)
 
 
 
@@ -408,6 +409,7 @@ Let go…
 		* no one gets pixel-perfect possibilities
 		* guided on-ramp for main practice p2 [draft]
 		* pith instructions (experimental)
+		* a bare-bones, bottom-up, noting-esque practice (without labeling)
 	* embodied learning
 		* technical debt, meditation, and minds
 		* a speculative comment on language learning
@@ -7420,7 +7422,19 @@ Unintegrated scratch pieces:
 
 
 
-learning:
+### a bare-bones, bottom-up, noting-esque practice (without labeling)
+
+* Participate, tinker, experiment, allow (simultaneously and continuously sequentially):
+	* Deliberately (lightly, minimally) attend (or pay attention) to things or raw sensations as such
+	* Effortlessly allow yourself to passively notice whatever you (happen to passively) notice or are noticing
+	* Let go, take a break, daydream, be lost in thought, be lost in memory, be in reverie, forget
+	* Find/realize yourself doing or experiencing whatever you find yourself to be ([just] now already [have been]) doing or experiencing
+	* (Usually but nothing always, neither encourage nor suppress language/language-ing)
+	* (Sit, stand, lay down, readjust)
+
+
+
+### embodied learning:
 
 
 
