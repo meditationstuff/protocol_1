@@ -7429,7 +7429,7 @@ Unintegrated scratch pieces:
 	* Effortlessly allow yourself to passively notice whatever you (happen to passively) notice or are noticing
 	* Let go, take a break, daydream, be lost in thought, be lost in memory, be in reverie, forget
 	* Find/realize yourself doing or experiencing whatever you find yourself to be ([just] now already [have been]) doing or experiencing
-		* Do the above (finding/realizing) minimally, barely there, liminally--back off, let it (the doing or experiencing) be, let it maybe undo itself, let it maybe release (itself).
+		* (Do the above [finding/realizing] minimally, barely there, liminally--back off, let it [the doing or experiencing] be, let it maybe undo itself, let it maybe release [itself].)
 	* (Usually but nothing always, neither encourage nor suppress language/language-ing)
 	* (Sit, stand, lay down, readjust)
 
