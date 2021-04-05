@@ -1,4 +1,4 @@
-### “Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol"/"Wayfinding Meditation"/"Global Wayfinding Meditation"/"Wayfinding Meditation Document"/"Wayfinding Meditation Protocol Document"/“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”
+### Working Titles: “Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol"/"Wayfinding Meditation"/"Global Wayfinding Meditation"/"Wayfinding Meditation Document"/"Wayfinding Meditation Protocol Document"/“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”
 
 by Mark D Lippmann and collaborators
 
@@ -5289,12 +5289,12 @@ Warning: This section is experimental and should be approached with caution if y
 In no particular order: deaths of parents, significant others, children, other family, natural disaster, solar flares, pandemics, war, invasion, food insecurity, authoritarian surveillance states, violent feuds, systemically messed up and flawed healthcare, accidents, nuclear war, phishing, failure of cryogenic preservation if you go that route or being tortured and unable to die when you wake up until some very large energy source runs out, Alzheimer’s, Parkinson’s, chronic fatigue, physical disability, nation/state/country failure, sudden death, cancer, stroke, agents of power knowing exactly who you are and the uncertain threat of them coming to harm, kill, or take you away (in front of significant others, children, or other family of friends).
 
 
-muscle tension scratch:
+### muscle tension scratch:
 
-Increases in muscle tension are caused when one is meditating under the conditions of needing/expecting a/any “some particular thing” to be a/any “some particular way” on a/any “some particular timeline.” LaTeX subscript: ({“some particular X”}_{de dicto})
+This is a placeholder for a relatively comprehensive and relatively unified treatment of the possibility of muscle tension in meditative practice. For now, search for "muscle tension" in the document (without the quotes).
 
 
-last gasps:
+### last gasps:
 
 One is sort of making it safe to re-experience things, as part of how meditation works—eventually a re-experiencing is sort of the “final burning off of the (conditioning of the) thing.” So often a person will re-experience at least a shadow of old, bad things, over and over again, until not again—things that they thought were long resolved, in the course of a great deal of meditation. (One trap is thinking that one is not making progress, because this thing has come up more than one time. It is progress! That’s just how the mind works.)
 
@@ -5305,7 +5305,7 @@ Behavior, belief or the very seeming of the world, and its attendant justificati
 And then they’ll/you’ll be in old destructive patterns, transiently, as bad or even worse than when those initial patterns were getting laid down. And then it’s maybe doubly regretful because this “last gasp” can go by fast. It can be embarrassing, especially if one is a self-styled advanced meditator. And if only you’d gotten to that old stuff, metabolized it, before being triggered. One just has to be as careful and meta-careful and meta-meta-careful and responsible with and around other people as one can be, and to make amends and reparations, if warranted, in a way that actually delivers, that takes into account all this. Not your fault, yet no excuse, all at once; it’ll be ok, but you can’t morally rely on that, etc.
 
 
-being (not) ok tangles:
+### being (not) ok tangles:
 
 If I’m ok, I won’t be able to connect with the people who are not ok, and lots of people are not ok, and I need to be able to connect with them. So, I don’t want to be actually ok.
 
@@ -5324,7 +5324,7 @@ Being ok is against my belief system/ideology. Being not ok is what makes people
 Furthermore, it’s not ok to bask in the goodness of not being ok. Given that I’m not ok, it’s also not ok to fully enjoy not being ok. It’s not ok to enjoy how being broken is incredibly delicious.
 
 
-brief note on space and sensations:
+### brief note on space and sensations:
 
 It can be tempting to “reify” “space” as such and “sensations” as such, to “feel space,” to “point to sensations in space or in the body,” the raw sensory experience as such, the shimmering/blinking “voxels,” the “pixels” in extreme fine-grain detail.
 
@@ -5339,7 +5339,7 @@ And of course try to not to “reify” “reification,” “inappropriate reif
 [See also: https://twitter.com/quotidiania/status/1367900435013644290 [Last accessed: 2021-03-05]]
 
 
-brief, loosely related notes on unknotting, untwisting, untangling:
+### brief, loosely related notes on unknotting, untwisting, untangling:
 
 (1) There’s sort of a way in which experience accumulates or “tangles up” from the perineum to the crown of the head, over a lifetime. This may have something to do with ontogeny/phylogeny/something of the neural cord/crest, etc., in prenatal development. Around the perineum can be especially tangly. Around the neck can be especially tangly too.
 
@@ -5356,7 +5356,7 @@ Note: when I say "unwrapping bedsheets," it's sort of like it slides along the s
 [thank you to a collaborator for giving me an opportunity to articulate a chunk of this]
 
 
-attention is not fundamental:
+### attention is not fundamental:
 
 Everybody does “attention” and “attending” differently. There’s sort of a sense in which there’s “only awareness” and “attention” is an illusion. Some people “attend” in a very “heavyweight” way, much “comes along with it.” And some people attend more lightly.
 
