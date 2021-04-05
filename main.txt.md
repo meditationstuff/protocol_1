@@ -3687,385 +3687,386 @@ Notes:
 
 
 
-p3:
-• For which it’s good to do so and you can do do, will that you become aware of willing, acting/doing, expecting, seeming, appearing, convincing and denying that is or will be currently good to become aware of. And, simultaneously, for which it’s good to do so and you can do so, will that you do not become aware of willing, expecting, seeming, and appearing that is or will be currently bad to become aware of.
-• If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~~] willing W that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that willing W during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-• If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~provisionally~] expecting that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that expecting during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-• If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~indirectly~] seeming that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that seeming during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-• If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~directly~] appearing(/looking) (?/it is apparent, ?/apparently) that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that appearing during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-• If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~directly and immediately~] acting/doing[do/act/cause/maintain/enable/incept/start/prevent/block/stop/end/have part in/querying/asking/wondering/imagining/storytelling/narrating/what-if-ing/solving/solutioning/questioning/partcipating/pushing/pulling/attending/image/envision/visualize/interrupt/preempt/interleave/substitute/switch/meaning-make/meaning-dissolve…] that or (something) like or (something) in the neighborhood of [] X then, if you can and it’s good to do so, will that you have the absence of willing to change that doing/happening/something during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-• If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~~] denying that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that denying during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-• If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~~] convincing that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that convincing during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-This list is a work in progress:
-seeming (that [proposition] P)
-expecting (that [proposition] P)
-willing (that [proposition] P)
-appearing (that [proposition] P)
-explicating/articulating/enwordening/verbalizing  (of [proposition] P)
-clarifying/separating/deconfusing  (of [proposition] P)
-assessing/judging/evaluating (whether X is good or bad…)
-awareness of knowledge of inability
-awareness of knowledge of ignorance (of not knowing [something])
-awareness of knowledge of insufficiency or inadequacy
-?awareness of knowledge of impossibility
-awareness of knowledge of possiblity/necessity/contingency/duty/obligation/responsibility…
-being (identity) [I/me/self/]person/group/mixture] X [cf. Who (all) am I/is this being?]
-being (nature; causal/historical/telic nature) [] X [cf. What am I being?]
-being history
-being current state
-being current dynamics
-being causal laws
-being telos
-doing/acting/behaving/[/thinking]causing/enabling/maintaining/starting/stopping/ending/preventing/blocking [] X
-assessing/judging/evaluating X to be Y; assessing/judging/evaluating (whether X is good or bad…)
-immersive childhood or any past feel
-awareness of knowledge of lack of safety for being aware of the knowledge of a particular thing (cf bad to know)
-awareness of knowledge of part-of-whole-ness
-certainty
-knowledge of certain inevitable success [with respect to X]
-knowledge of certain unimpeachable (veridical) goodness [of X]
-knowledge of (disendorsed) not knowing (something)
-knowledge of (mediately endorsed) not knowing (something)
-knowledge of temporarily not knowing something previously known
-knowledge of provisionally disendorsed, felt certain knowledge of reality or how things work [regarding some experience or something in particular]
-[knowledge of believed irrational seeming safety]
-knowledge of need for safety
-knowledge of need for certainty
-awareness of past, immersive world-feel
-knowledge of seeming unsafety
-expectation that something will make sense in some particular way
-expectation that something will be explainable in some particular way
-expectation that something will work out or succeed in some particular way
-knowledge of having (had?) no idea what’s/was going on; knowing of having been confused in a particular (past or present/ongoing) situation or context
-knowing now knowing from the past
-abeyance
-causing/maintaining endorsed abeyance
-urge/impulse/overcoming… to…
-desiring
-underlying motivation…
-ground… basis…
-knowing (that [proposition] P)
-understanding (that [proposition] P)
-believing
-convincing (that [proposition] P)
-denying (that [proposition] P)
-doubting (that [proposition] P)
-considering (that [proposition] P)
-representing (that [proposition] P)
-?asserting (that [proposition] P)
-wanting/desiring/hoping/longing/needing/requiring/wishing/craving/thirsting/?grasping  (that [proposition] P)
-planning  (that [proposition] P)
-demanding/extorting/??foreclosing/insisting  (that [proposition] P)
-excusing (like making excuses, rationalizing, self-justifying)  (that [proposition] P)
-remembering
-blaming
-owing
-reifying
-enforcing/forcing; active holding, keeping, blocking, propping things up
-avoiding
-asserting
-rehearsing
-exclaiming
-planning, intending, anticipating…
-sensing that
-perceiving
-thinking
-urging
-listening to yourself from there or in such and thus a manner/sense/way, maybe or not give up knowing or understanding temporarily for here, and maybe or not allow yourself to be moved like so
-[reverie, trance, dream, reminiscence, immersion, flashback, not-now-ness, not-right-now-ness, non-present-moment-ness]
-blocking, overriding
-knowledge of where a particular representation lives in relation to all other representations
-knowledge of where something in particular lives in the mind and/or experience
-knowledge of other human minds
-knowledge of other human bodies
-knowledge of the relationship between other human minds and other human bodies
-knowledge of where the future lives
-knowledge of spatial location
-knowledge of spatial location in relation to oneself
-knowledge of what things are “inside/internal” (if anything)
-knowledge of what things are “outside/external” (if anything)
-awareness of something “inside/internal”
-awareness of something “outside/external”
-knowledge of “insideness/internalness” (if any)
-knowledge of “outsideness/externalness” (if any)
-awareness of “insideness/internalness” (if any)
-awareness of “outsideness/externalness” (if any)
-knowledge of borders or boundaries or lack thereof
-awareness of borders or boundaries or lack thereof
-knowledge of distance between you and something else or lack thereof
-awareness of distance between you and something else or lack thereof
-knowledge of counterfactuality (other ways something could be, all else [being] equal/the same)
-knowledge of optionality
-knowledge of could-be-otherwise-ness (cf counterfactuality, contingency, dimensions of variation)
-knowledge of could-have-been-otherwise-ness (cf counterfactuality, contingency, dimensions of variation)
-knowledge of (seeming-)couldn’t-be-other-wise-ness
-knowledge of where sense(meaning)-making lives; knowledge of coherent meaning; knowledge of noncommital, neither endorsed-nor-disendorsed discoherence
-awareness of particular sense(meaning) or representational content as such
-awareness of coherent meaning
-awareness of noncommital, neither endorsed-nor-disendorsed discoherence (discoherent “meaning”)
-knowledge of haste/rushing/bypass/corner-cutting/force/forcing/smashing/crushing/hammering
-awareness of force/forcing/haste
-knowledge of seeming unsolvabliity
-knowledge of care
-knowledge of immaturity
-awareness of immature representational content
-knowledge of responsibility
-knowledge of “thinking” [about X] [taking place]
-awareness of “thinking” [about X] [taking place]
-knowledge of “model building” [about X for (the purpose/intent of) Y] [taking place]
-awareness of “model building”  [about X for (the purpose/intent of) Y] [taking place]
-awareness of “the sensations of thinking”
-knowledge of attending
-awareness of “attending”
-awareness of “the sensations of attending”
-knowledge/awareness/experience of belief/believing/“belief”/“believing”/etc.… [sic]
-knowledge of sensations of believing
-awareness of sensations of believing
-knowledge of sensations of expecting
-awareness of sensations of expecting
-knowledge of imagining
-awareness of imagining
-knowledge of sensations of imagining
-awareness of sensations of imagining
-knowledge/awareness of “towards”
-knowledge/awareness of “away”
-knowledge/awareness of “forwards”
-knowledge/awareness of “backwards”
-knowledge/awareness of “good”
-knowledge/awareness of “bad”
-knowledge/awareness of “updating”
-knowledge/awareness of disbelief
-knowledge/awareness of pain/suffering
-knowledge/awareness of goodness of X
-knowledge/awareness of intolerability
-knowledge/awareness urgency/haste/rushing/hurry
-knowledge/awareness of “X feels so good”
-awareness of the current felt goodness of something endorsed (or not) as being bad
-knowledge/awareness of “road to nowhere-ness”
-[knowledge/awareness of “energy drain”/“motivation drain-out”/“strength drain-out”]
-knowledge/awareness of “counterintuitiveness to ‘go there’/‘do that’”
-knowledge/awareness of “extreme badness”
-knowledge/awareness of “critical badness”
-knowledge/awareness of “too good-ness”
-knowledge/awareness of seeming “[I have] no ability/know-how/models/knowledge of how to handle that and [I] never will
-knowledge/awareness of possibility/potentiality
-knowledge of coalescing/gathering
-knowledge of dispersing/spreading
-knowledge/awareness of credulity/credulousness
-knowledge/awareness of seeming local fallibility
-knowledge/awareness of immersive childhood feel/immersive prenatal feel/immersive otherworldly feel/ another time feel/foreign iintention/alien intention
-knowledge/awareness of observer plus dynamics as such
-knowledge/awareness of sensory memory
-knowledge of counterintuitiveness
-knowledge/awareness of “dark”/nonsalient sensations
-knowledge/awareness of seeming “nothing” that is actually the presence of “dark”/“black”/nonsalient sensations
-awareness of subtle/quiet/low-intensity/low-magnitude/barely-there sensations
-knowledge of awareness of the currently felt goodness of something
-knowledge/awareness of “nowhere to go nonexistence dysregulation Intolerability uhandleability
-knowledge of not having any idea what’s going on knowledge of having no idea whats going on
-knowledge/awareness of “actually think going to die or go insane or etc if look”
-knowledge/awareness of “no choice but to just look”
-knowledge/awareness of [(countering) good thing X] even if [(corresponding) bad thing Y]
-knowledge/awareness of [(countering) good thing X] even though [(corresponding) bad thing Y]
-knowledge/awareness of [(countering) good thing X] even while [(corresponding) bad thing Y]
-knowledge/awareness of X would be bad if true/false even for a second/instant
-knowledge/awareness of don’t know [if X is existing/obtaining/actual/nonactual/true/false/good/bad] for sure/in certainty
-knowledge/awareness of acceptance [of current belief or actuality [that] X [is/isn’t/might/may be existing/obtaining/true/false/unknown/unknowable/good/bad]] (or ok to look)
-even if don’t know [how (to do/get/have/be/achieve/solve/start/stop/fix/do/undo (X)] now, might know in future
-knowledge/awareness of “no big deal”/“that’s not a big deal”/“that’s not important”/“that doesn’t mean anything”/“that’s meaningless”/push-away/minimization
-knowledge/awareness of “feels like dying/dissolution/loss-of-will/loss-of-self/soul-damage/soul-corruption/insanity”
-knowledge/awareness of “[effortless] [almost-already-there] stability in/as all of that”
-knowledge/awareness of seeming “it-was-over-before-it-even-began-and/but-I-just-didn’t-even-know-it-yet-until-just-right-now” trauma
-knowledge/awareness of immersive dream
-knowledge/awareness of immersive “delusion”
-*knowledge/awareness of seeming “it’s not working”
-*knowledge/awareness of “oh, that *is* the thing”
-knowledge/awareness of optionality
-knowledge/awareness of lack of optionality, choicelessness
-knowledge/awareness of “something I could do right now or not”
-knowledge/awareness of “local choices I could choose amongst/from among”
-knowledge/awareness of “something that doesn’t have to be taken at face value”
-knowledge/awareness of a “seeming self-made assertion that can be provisionalized”
-knowledge of misattribution; awareness of that which has been misattributed
-knowledge/awareness of “what needs to be real or not-real in order to meditate”
-knowledge/awareness of “don’t want that” [but you actually might]
-knowledge/awareness of “that would have been so good or that at least would have (temporarily) felt so good, had it happened [given that/time/place/age/degree-of-experience-and-knowledge]
-knowledge/awareness of (seeming/chosen) “[that’s] not for me”/“not going to have that, choose that, go after that; will give away, relinquish, refuse, dismiss that”
-knowledge/awareness of too good/bad to be true/false/real/existing/obtaining/factual/counterfactual/present/absent
-knowledge/awareness of how I would have solved X in a vacuum, with no cultural input
-knowledge/awareness of an inability to think, plan, or do anything as such
-knowledge/awareness of continuous [(subtle)] prevention
-knowledge/awareness of “didn’t think I had to look at this”; “didn’t think I had time to look at this”
-knowledge/awareness of “if I take the time to look at that then something bad will happen”
-knowledge/awareness of reliance on sensations representing not-here-and-now-ness
-knowledge/awareness of turning towards inside instead of outside for stabilization
-knowledge/awareness of inclination towards indirect/mediated/symbolic control
-knowledge/awareness of “had I only known X”
-knowledge/awareness/experience of “is-ness”
-[knowledge/awareness/experience of thinking, believing, etc.]
-knowledge/awareness/experience of “mode of being as such”
-knowledge/awareness/experience of being “mode of being as such” [sic]
-knowledge/awareness of inner conflict
-knowledge/awareness of “not me”
-awareness of gappiness/gappyness/distraction/experiential-temporal-discontinuity/jump/jog/gap/discontinuity/reconfiguration/distraction/diversion/displacement [might feel good or bad and could be either good or bad]
-awareness of doubling
-knowledge/awareness of a lack/deficit/sparsity of understanding
-knowledge/awareness of an absence of understanding
-knowledge/awareness of confusion
-awareness of “getting”/“getting mind to do X” [cf forcing]
-knowledge of seeming occluded resolve
-knowledge of insecurity
-knowledge of “temptation”, insecurity, credulity/credulousness
-knowledge/awareness of “moral reality”; causal/moral/reality
-knowledge/awareness of desire or intention to make [X] actual
-knowledge/awareness of juxtaposition
-knowledge/awareness of [directly] “having no idea how to do that/X”
-knowledge/awareness of “don’t know how to do that/X”
-awareness of [a] “bounded nothing/absence pocket/bubble”
-awareness of “that which would consume all [resources] [because of intrinsic interestingness/pleasure/goodness; would want to do it all the time to exclusion of []]
-awareness of “that which would consume all [resources] [because of impossible/infinite ‘problematicness’]
-awareness of [a] “knowing/[being able to ]tell[ing] thread/bridge”
-knowledge/awareness darkness vs true absence; true absence vs darkness
-knowledge/awareness gap discontinuity, blue, partial blink out, partial absence, jog
-knowledge of unfixability; knowledge of unsolvability
-knowledge/awareness of “as real as it gets” [with respect to X]
-knowledge/awareness of “serious as a heart attack” [with respect to X]
-knowledge/awareness of revision
-knowledge/awareness of error correction
-knowledge/awareness of counterfactuality
-knowledge/awareness of permanence
-[knowledge/awareness of “It’s just what happened”]
-knowledge/awareness of “unrecoverabiity/“unrecoverable; can’t recover from that”
-knowledge/awareness of “not in a million/billion years”/never
-knowledge/awareness of “right in reality”
-knowledge/awareness of “weaves reality together”
-knowledge/awareness of “how the world/everything/reality works”
-knowledge/awareness of “how the world/everything/reality must work”
-knowledge/awareness of “it would be critical bad if X”
-knowledge/awareness of “new or renewed optionality [to stop/start X]”
-knowledge/awareness of “bypass” or “pre-bypass”/“should just be able to[ X[, full stop]]”
-knowledge/awareness of [“attempted”/“attempting”]“lock-in”/“stability”
-knowledge/awareness of “agency, errors in” [sic]
-knowledge/awareness of “doing, errors in” [sic]
-knowledge/awareness of self-conceptualization
-knowledge/awareness of self-conceptualization, errors in [sic]
-knowledge/awareness of “seamlessly decide to do and then do something” vs “just do”
-knowledge/awareness of “belief [phenomenology]” (*)
-knowledge/awareness of “plan [phenomenology]” (*)
-knowledge/awareness of “error”
-knowledge/awareness of “two things that are combined that shouldn’t be”
-knowledge/awareness of wrongness/incorrectness
-knowledge/awareness of “this is my life, now” [~transient]
-knowledge/awareness of an ‘instance of itself” (after Eugene Gendlin)
-knowledge/awareness of “belief in punctate updates” [though not necessarily conceptualized or named exactly as such]
-knowledge/awareness of [an instance of] [a/an] intellectual-grasping/update/thought
-knowledge/awareness of limit(s)/edge(s) of its world
-knowledge/awareness of instance-exemplification [sic] of the attention paradigm as such
-knowledge/awareness of “I am *that* which attends [pays/places attention]”
-knowledge/awareness [identity-feel](s); being someone
-??”I” without identity ?or trajectory/future
-knowledge/awareness of relief
-awareness of  “non-Euclidean openings”
-awareness of “other realities”/“another reality”
-awareness of  “openings to other realities” [“zones”]
-awareness of “skhandas”(sp?)
-knowledge/awareness of “the whole damn thing and it’s relationship to me”
-knowledge/awareness of “waiting/trusting for ‘fill-in’/‘building’”
-knowledge/awareness of “fakeness” or “more fake”
-knowledge/awareness of “more real”
-knowledge/awareness of going-with-it-/running-with-it-ness (unassuming-self-assuming [sic])
-knowledge/awareness of “this is the case-ness”
-knowledge of unhandledness, seeming-liability-ness
-knowledge/awareness of “real-feeling-ness” (cf. immersiveness, consequences, stakes)
-knowledge/awareness of bypass
-knowledge/awareness of pushing
-knowledge/awareness of forcing
-knowledge/awareness of structuring
-knowledge/awareness of choicepoint
-knowledge/awareness of what-got-you-here-won’t-get-you-there-ness
-knowledge/awareness of againstness; direct opposition
-knowledge/awareness of “knowledge of layering”
-knowledge/awareness of subverbal/paraverbal intention
-knowledge/awareness of subverbal/paraverbal structure/commitment
-knowledge/awareness of overloaded substrate
-knowledge/awareness of substrate contention
-knowledge/awareness of substrate usage detachment/refactoring
-knowledge/awareness of “somatic refactoring”
-knowledge/awareness of desert, deservingness (positive/negative)
-knowledge/awareness of “making-thing-exist”/“making-things-exist”
-knowledge/awareness of “selfing”/“self-ing”
-knowledge/awareness of “permanence-ing”
-knowledge/awareness of “independent existence-ing”
-knowledge/awareness of “[attempted] ’solution-ing’ for a particular thing that affirms/enhances/strengthens/facilitates the very thing that is the problem”
-knowledge/awareness of transparently-take-for-granted
-knowledge/awareness of opposite-masquerading-as-forward
-knowledge/awareness of liminally blocked/surfacing urge and/or impulse and/or “dysregulation”
-knowledge/awareness of near-or-full-overwhelming-ness-to-act-rather-than-not-act
-knowledge/awareness of only-ness
-knowledge/awareness of the-very-thing-that-ness
-knowledge/awareness of anything-but-the-mainline(-but-still-forward)-ness
-knowledge/awareness of artificiality
-awareness of suffering
-awareness of grasping/accumulating
-awareness of anxiety
-knowledge/awareness of has-to-work-ness/must-work-ness/has-to-succeed-ness/must-succeed-ness
-knowledge/awareness of [body] [felt] anticipations/ing
-knowledge/awareness of [bodymind] commitments
-knowledge/awareness of disbelief/“disbelief”
-knowledge/awareness of disbelief-as-such/“disbelief as such”
-knowledge/awareness of [“particularly active”] disbelief-as-such/“disbelief as such”
-knowledge/awareness of disbelief that X
-knowledge/awareness of disbelief that X is real/true/obtaining
-knowledge/awareness of seeming-darkness
-knowledge/awareness of almost-darkness
-knowledge/awareness of “blackness”
-knowledge/awareness of low-magnitude-ness (sensation)
-knowledge/awareness of low-intensity-ness (sensation)
-knowledge/awareness of truth/“truth”
-knowledge/awareness of existence/“existence”
-knowledge/awareness of reason/reasoning/“reason”/“reasoning”/“Reason”
-knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
-knowledge/awareness of credulity+naivete+{having no idea what's going on}
-knowledge/awareness of "reality pocket"
-knowledge/awareness of heaviness (h)
-knowledge/awareness of lightness (h)
-knowledge/awareness of world pockets
-knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
-knowledge/awareness of indeterminacy
-knowledge/awareness of rushing/haste/hurry/bypass/override/force/pressure/pushing
-knowledge/awareness of nebulosity and constraint
-knowledge/awareness of anxiety
-knowledge/awareness of the (felt) goodness/gift of anxiety
-knowledge/awareness of reaching
-knowledge/awareness of clawing
-knowledge/awareness of [active] directionality
-knowledge of fragility
-knowledge of safety
-knowledge/awareness of error
-knowledge/awareness of suffering as such
-knowledge/awareness of reification as such
-knowledge/awareness of impermanence as such
-top-down person-ing [sic]
-top-down meaning-making, "sensemaking," "figuring" [sic]
-"indirect awareness"/[indirect] knowledge of "partiality" [sic]
-awareness/~~~knowledge of non-figuring [sic]
-awareness of meaning
-awareness of interpretation
-awareness of significance
-awareness of implication
-awareness of “can I just get on with X now” impulse
-knowledge/awareness of [seemingly] inviolates, iron laws
-knowledge/awareness of fakeness
-knowledge/awareness of corruption [*]
-knowledge/awareness of insanity [*]
-knowledge/awareness of expectation/“expectationing” [sic]
-knowledge/awareness of railroading
-knowledge/awareness of [~~sending*]
-knowledge/awareness of control
-knowledge/awareness of self-ing
-knowledge/awareness of separateness
-knowledge/awareness of I, world, future
-[knowledge/awareness] "don't fucking care" [sic]
+### p3
+
+* For which it’s good to do so and you can do do, will that you become aware of willing, acting/doing, expecting, seeming, appearing, convincing and denying that is or will be currently good to become aware of. And, simultaneously, for which it’s good to do so and you can do so, will that you do not become aware of willing, expecting, seeming, and appearing that is or will be currently bad to become aware of.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~~] willing W that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that willing W during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~provisionally~] expecting that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that expecting during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~indirectly~] seeming that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that seeming during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~directly~] appearing(/looking) (?/it is apparent, ?/apparently) that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that appearing during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~directly and immediately~] acting/doing[do/act/cause/maintain/enable/incept/start/prevent/block/stop/end/have part in/querying/asking/wondering/imagining/storytelling/narrating/what-if-ing/solving/solutioning/questioning/partcipating/pushing/pulling/attending/image/envision/visualize/interrupt/preempt/interleave/substitute/switch/meaning-make/meaning-dissolve…] that or (something) like or (something) in the neighborhood of [] X then, if you can and it’s good to do so, will that you have the absence of willing to change that doing/happening/something during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~~] denying that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that denying during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (~for yourself~)]] [~~] convincing that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that convincing during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* (This list is a work in progress:)
+* seeming (that [proposition] P)
+* expecting (that [proposition] P)
+* willing (that [proposition] P)
+* appearing (that [proposition] P)
+* explicating/articulating/enwordening/verbalizing  (of [proposition] P)
+* clarifying/separating/deconfusing  (of [proposition] P)
+* assessing/judging/evaluating (whether X is good or bad…)
+* awareness of knowledge of inability
+* awareness of knowledge of ignorance (of not knowing [something])
+* awareness of knowledge of insufficiency or inadequacy
+* ?awareness of knowledge of impossibility
+* awareness of knowledge of possiblity/necessity/contingency/duty/obligation/responsibility…
+* being (identity) [I/me/self/]person/group/mixture] X [cf. Who (all) am I/is this being?]
+* being (nature; causal/historical/telic nature) [] X [cf. What am I being?]
+* being history
+* being current state
+* being current dynamics
+* being causal laws
+* being telos
+* doing/acting/behaving/[/thinking]causing/enabling/maintaining/starting/stopping/ending/preventing/blocking [] X
+* assessing/judging/evaluating X to be Y; assessing/judging/evaluating (whether X is good or bad…)
+* immersive childhood or any past feel
+* awareness of knowledge of lack of safety for being aware of the knowledge of a particular thing (cf bad to know)
+* awareness of knowledge of part-of-whole-ness
+* certainty
+* knowledge of certain inevitable success [with respect to X]
+* knowledge of certain unimpeachable (veridical) goodness [of X]
+* knowledge of (disendorsed) not knowing (something)
+* knowledge of (mediately endorsed) not knowing (something)
+* knowledge of temporarily not knowing something previously known
+* knowledge of provisionally disendorsed, felt certain knowledge of reality or how things work [regarding some experience or something in particular]
+* [knowledge of believed irrational seeming safety]
+* knowledge of need for safety
+* knowledge of need for certainty
+* awareness of past, immersive world-feel
+* knowledge of seeming unsafety
+* expectation that something will make sense in some particular way
+* expectation that something will be explainable in some particular way
+* expectation that something will work out or succeed in some particular way
+* knowledge of having (had?) no idea what’s/was going on; knowing of having been confused in a particular (past or present/ongoing) situation or context
+* knowing now knowing from the past
+* abeyance
+* causing/maintaining endorsed abeyance
+* urge/impulse/overcoming… to…
+* desiring
+* underlying motivation…
+* ground… basis…
+* knowing (that [proposition] P)
+* understanding (that [proposition] P)
+* believing
+* convincing (that [proposition] P)
+* denying (that [proposition] P)
+* doubting (that [proposition] P)
+* considering (that [proposition] P)
+* representing (that [proposition] P)
+* ?asserting (that [proposition] P)
+* wanting/desiring/hoping/longing/needing/requiring/wishing/craving/thirsting/?grasping  (that [proposition] P)
+* planning  (that [proposition] P)
+* demanding/extorting/??foreclosing/insisting  (that [proposition] P)
+* excusing (like making excuses, rationalizing, self-justifying)  (that [proposition] P)
+* remembering
+* blaming
+* owing
+* reifying
+* enforcing/forcing; active holding, keeping, blocking, propping things up
+* avoiding
+* asserting
+* rehearsing
+* exclaiming
+* planning, intending, anticipating…
+* sensing that
+* perceiving
+* thinking
+* urging
+* listening to yourself from there or in such and thus a manner/sense/way, maybe or not give up knowing or understanding temporarily for here, and maybe or not allow yourself to be moved like so
+* [reverie, trance, dream, reminiscence, immersion, flashback, not-now-ness, not-right-now-ness, non-present-moment-ness]
+* blocking, overriding
+* knowledge of where a particular representation lives in relation to all other representations
+* knowledge of where something in particular lives in the mind and/or experience
+* knowledge of other human minds
+* knowledge of other human bodies
+* knowledge of the relationship between other human minds and other human bodies
+* knowledge of where the future lives
+* knowledge of spatial location
+* knowledge of spatial location in relation to oneself
+* knowledge of what things are “inside/internal” (if anything)
+* knowledge of what things are “outside/external” (if anything)
+* awareness of something “inside/internal”
+* awareness of something “outside/external”
+* knowledge of “insideness/internalness” (if any)
+* knowledge of “outsideness/externalness” (if any)
+* awareness of “insideness/internalness” (if any)
+* awareness of “outsideness/externalness” (if any)
+* knowledge of borders or boundaries or lack thereof
+* awareness of borders or boundaries or lack thereof
+* knowledge of distance between you and something else or lack thereof
+* awareness of distance between you and something else or lack thereof
+* knowledge of counterfactuality (other ways something could be, all else [being] equal/the same)
+* knowledge of optionality
+* knowledge of could-be-otherwise-ness (cf counterfactuality, contingency, dimensions of variation)
+* knowledge of could-have-been-otherwise-ness (cf counterfactuality, contingency, dimensions of variation)
+* knowledge of (seeming-)couldn’t-be-other-wise-ness
+* knowledge of where sense(meaning)-making lives; knowledge of coherent meaning; knowledge of noncommital, neither endorsed-nor-disendorsed discoherence
+* awareness of particular sense(meaning) or representational content as such
+* awareness of coherent meaning
+* awareness of noncommital, neither endorsed-nor-disendorsed discoherence (discoherent “meaning”)
+* knowledge of haste/rushing/bypass/corner-cutting/force/forcing/smashing/crushing/hammering
+* awareness of force/forcing/haste
+* knowledge of seeming unsolvabliity
+* knowledge of care
+* knowledge of immaturity
+* awareness of immature representational content
+* knowledge of responsibility
+* knowledge of “thinking” [about X] [taking place]
+* awareness of “thinking” [about X] [taking place]
+* knowledge of “model building” [about X for (the purpose/intent of) Y] [taking place]
+* awareness of “model building”  [about X for (the purpose/intent of) Y] [taking place]
+* awareness of “the sensations of thinking”
+* knowledge of attending
+* awareness of “attending”
+* awareness of “the sensations of attending”
+* knowledge/awareness/experience of belief/believing/“belief”/“believing”/etc.… [sic]
+* knowledge of sensations of believing
+* awareness of sensations of believing
+* knowledge of sensations of expecting
+* awareness of sensations of expecting
+* knowledge of imagining
+* awareness of imagining
+* knowledge of sensations of imagining
+* awareness of sensations of imagining
+* knowledge/awareness of “towards”
+* knowledge/awareness of “away”
+* knowledge/awareness of “forwards”
+* knowledge/awareness of “backwards”
+* knowledge/awareness of “good”
+* knowledge/awareness of “bad”
+* knowledge/awareness of “updating”
+* knowledge/awareness of disbelief
+* knowledge/awareness of pain/suffering
+* knowledge/awareness of goodness of X
+* knowledge/awareness of intolerability
+* knowledge/awareness urgency/haste/rushing/hurry
+* knowledge/awareness of “X feels so good”
+* awareness of the current felt goodness of something endorsed (or not) as being bad
+* knowledge/awareness of “road to nowhere-ness”
+* [knowledge/awareness of “energy drain”/“motivation drain-out”/“strength drain-out”]
+* knowledge/awareness of “counterintuitiveness to ‘go there’/‘do that’”
+* knowledge/awareness of “extreme badness”
+* knowledge/awareness of “critical badness”
+* knowledge/awareness of “too good-ness”
+* knowledge/awareness of seeming “[I have] no ability/know-how/models/knowledge of how to handle that and [I] never will
+* knowledge/awareness of possibility/potentiality
+* knowledge of coalescing/gathering
+* knowledge of dispersing/spreading
+* knowledge/awareness of credulity/credulousness
+* knowledge/awareness of seeming local fallibility
+* knowledge/awareness of immersive childhood feel/immersive prenatal feel/immersive otherworldly feel/ another time feel/foreign iintention/alien intention
+* knowledge/awareness of observer plus dynamics as such
+* knowledge/awareness of sensory memory
+* knowledge of counterintuitiveness
+* knowledge/awareness of “dark”/nonsalient sensations
+* knowledge/awareness of seeming “nothing” that is actually the presence of “dark”/“black”/nonsalient sensations
+* awareness of subtle/quiet/low-intensity/low-magnitude/barely-there sensations
+* knowledge of awareness of the currently felt goodness of something
+* knowledge/awareness of “nowhere to go nonexistence dysregulation Intolerability uhandleability
+* knowledge of not having any idea what’s going on knowledge of having no idea whats going on
+* knowledge/awareness of “actually think going to die or go insane or etc if look”
+* knowledge/awareness of “no choice but to just look”
+* knowledge/awareness of [(countering) good thing X] even if [(corresponding) bad thing Y]
+* knowledge/awareness of [(countering) good thing X] even though [(corresponding) bad thing Y]
+* knowledge/awareness of [(countering) good thing X] even while [(corresponding) bad thing Y]
+* knowledge/awareness of X would be bad if true/false even for a second/instant
+* knowledge/awareness of don’t know [if X is existing/obtaining/actual/nonactual/true/false/good/bad] for sure/in certainty
+* knowledge/awareness of acceptance [of current belief or actuality [that] X [is/isn’t/might/may be existing/obtaining/true/false/unknown/unknowable/good/bad]] (or ok to look)
+* even if don’t know [how (to do/get/have/be/achieve/solve/start/stop/fix/do/undo (X)] now, might know in future
+* knowledge/awareness of “no big deal”/“that’s not a big deal”/“that’s not important”/“that doesn’t mean anything”/“that’s meaningless”/push-away/minimization
+* knowledge/awareness of “feels like dying/dissolution/loss-of-will/loss-of-self/soul-damage/soul-corruption/insanity”
+* knowledge/awareness of “[effortless] [almost-already-there] stability in/as all of that”
+* knowledge/awareness of seeming “it-was-over-before-it-even-began-and/but-I-just-didn’t-even-know-it-yet-until-just-right-now” trauma
+* knowledge/awareness of immersive dream
+* knowledge/awareness of immersive “delusion”
+* knowledge/awareness of seeming “it’s not working”
+* knowledge/awareness of “oh, that *is* the thing”
+* knowledge/awareness of optionality
+* knowledge/awareness of lack of optionality, choicelessness
+* knowledge/awareness of “something I could do right now or not”
+* knowledge/awareness of “local choices I could choose amongst/from among”
+* knowledge/awareness of “something that doesn’t have to be taken at face value”
+* knowledge/awareness of a “seeming self-made assertion that can be provisionalized”
+* knowledge of misattribution; awareness of that which has been misattributed
+* knowledge/awareness of “what needs to be real or not-real in order to meditate”
+* knowledge/awareness of “don’t want that” [but you actually might]
+* knowledge/awareness of “that would have been so good or that at least would have (temporarily) felt so good, had it happened [given that/time/place/age/degree-of-experience-and-knowledge]
+* knowledge/awareness of (seeming/chosen) “[that’s] not for me”/“not going to have that, choose that, go after that; will give away, relinquish, refuse, dismiss that”
+* knowledge/awareness of too good/bad to be true/false/real/existing/obtaining/factual/counterfactual/present/absent
+* knowledge/awareness of how I would have solved X in a vacuum, with no cultural input
+* knowledge/awareness of an inability to think, plan, or do anything as such
+* knowledge/awareness of continuous [(subtle)] prevention
+* knowledge/awareness of “didn’t think I had to look at this”; “didn’t think I had time to look at this”
+* knowledge/awareness of “if I take the time to look at that then something bad will happen”
+* knowledge/awareness of reliance on sensations representing not-here-and-now-ness
+* knowledge/awareness of turning towards inside instead of outside for stabilization
+* knowledge/awareness of inclination towards indirect/mediated/symbolic control
+* knowledge/awareness of “had I only known X”
+* knowledge/awareness/experience of “is-ness”
+* [knowledge/awareness/experience of thinking, believing, etc.]
+* knowledge/awareness/experience of “mode of being as such”
+* knowledge/awareness/experience of being “mode of being as such” [sic]
+* knowledge/awareness of inner conflict
+* knowledge/awareness of “not me”
+* awareness of gappiness/gappyness/distraction/experiential-temporal-discontinuity/jump/jog/gap/discontinuity/reconfiguration/distraction/diversion/displacement [might feel good or bad and could be either good or bad]
+* awareness of doubling
+* knowledge/awareness of a lack/deficit/sparsity of understanding
+* knowledge/awareness of an absence of understanding
+* knowledge/awareness of confusion
+* awareness of “getting”/“getting mind to do X” [cf forcing]
+* knowledge of seeming occluded resolve
+* knowledge of insecurity
+* knowledge of “temptation”, insecurity, credulity/credulousness
+* knowledge/awareness of “moral reality”; causal/moral/reality
+* knowledge/awareness of desire or intention to make [X] actual
+* knowledge/awareness of juxtaposition
+* knowledge/awareness of [directly] “having no idea how to do that/X”
+* knowledge/awareness of “don’t know how to do that/X”
+* awareness of [a] “bounded nothing/absence pocket/bubble”
+* awareness of “that which would consume all [resources] [because of intrinsic interestingness/pleasure/goodness; would want to do it all the time to exclusion of []]
+* awareness of “that which would consume all [resources] [because of impossible/infinite ‘problematicness’]
+* awareness of [a] “knowing/[being able to ]tell[ing] thread/bridge”
+* knowledge/awareness darkness vs true absence; true absence vs darkness
+* knowledge/awareness gap discontinuity, blue, partial blink out, partial absence, jog
+* knowledge of unfixability; knowledge of unsolvability
+* knowledge/awareness of “as real as it gets” [with respect to X]
+* knowledge/awareness of “serious as a heart attack” [with respect to X]
+* knowledge/awareness of revision
+* knowledge/awareness of error correction
+* knowledge/awareness of counterfactuality
+* knowledge/awareness of permanence
+* [knowledge/awareness of “It’s just what happened”]
+* knowledge/awareness of “unrecoverabiity/“unrecoverable; can’t recover from that”
+* knowledge/awareness of “not in a million/billion years”/never
+* knowledge/awareness of “right in reality”
+* knowledge/awareness of “weaves reality together”
+* knowledge/awareness of “how the world/everything/reality works”
+* knowledge/awareness of “how the world/everything/reality must work”
+* knowledge/awareness of “it would be critical bad if X”
+* knowledge/awareness of “new or renewed optionality [to stop/start X]”
+* knowledge/awareness of “bypass” or “pre-bypass”/“should just be able to[ X[, full stop]]”
+* knowledge/awareness of [“attempted”/“attempting”]“lock-in”/“stability”
+* knowledge/awareness of “agency, errors in” [sic]
+* knowledge/awareness of “doing, errors in” [sic]
+* knowledge/awareness of self-conceptualization
+* knowledge/awareness of self-conceptualization, errors in [sic]
+* knowledge/awareness of “seamlessly decide to do and then do something” vs “just do”
+* knowledge/awareness of “belief [phenomenology]” (*)
+* knowledge/awareness of “plan [phenomenology]” (*)
+* knowledge/awareness of “error”
+* knowledge/awareness of “two things that are combined that shouldn’t be”
+* knowledge/awareness of wrongness/incorrectness
+* knowledge/awareness of “this is my life, now” [~transient]
+* knowledge/awareness of an ‘instance of itself” (after Eugene Gendlin)
+* knowledge/awareness of “belief in punctate updates” [though not necessarily conceptualized or named exactly as such]
+* knowledge/awareness of [an instance of] [a/an] intellectual-grasping/update/thought
+* knowledge/awareness of limit(s)/edge(s) of its world
+* knowledge/awareness of instance-exemplification [sic] of the attention paradigm as such
+* knowledge/awareness of “I am *that* which attends [pays/places attention]”
+* knowledge/awareness [identity-feel](s); being someone
+* ??”I” without identity ?or trajectory/future
+* knowledge/awareness of relief
+* awareness of  “non-Euclidean openings”
+* awareness of “other realities”/“another reality”
+* awareness of  “openings to other realities” [“zones”]
+* awareness of “skhandas”(sp?)
+* knowledge/awareness of “the whole damn thing and it’s relationship to me”
+* knowledge/awareness of “waiting/trusting for ‘fill-in’/‘building’”
+* knowledge/awareness of “fakeness” or “more fake”
+* knowledge/awareness of “more real”
+* knowledge/awareness of going-with-it-/running-with-it-ness (unassuming-self-assuming [sic])
+* knowledge/awareness of “this is the case-ness”
+* knowledge of unhandledness, seeming-liability-ness
+* knowledge/awareness of “real-feeling-ness” (cf. immersiveness, consequences, stakes)
+* knowledge/awareness of bypass
+* knowledge/awareness of pushing
+* knowledge/awareness of forcing
+* knowledge/awareness of structuring
+* knowledge/awareness of choicepoint
+* knowledge/awareness of what-got-you-here-won’t-get-you-there-ness
+* knowledge/awareness of againstness; direct opposition
+* knowledge/awareness of “knowledge of layering”
+* knowledge/awareness of subverbal/paraverbal intention
+* knowledge/awareness of subverbal/paraverbal structure/commitment
+* knowledge/awareness of overloaded substrate
+* knowledge/awareness of substrate contention
+* knowledge/awareness of substrate usage detachment/refactoring
+* knowledge/awareness of “somatic refactoring”
+* knowledge/awareness of desert, deservingness (positive/negative)
+* knowledge/awareness of “making-thing-exist”/“making-things-exist”
+* knowledge/awareness of “selfing”/“self-ing”
+* knowledge/awareness of “permanence-ing”
+* knowledge/awareness of “independent existence-ing”
+* knowledge/awareness of “[attempted] ’solution-ing’ for a particular thing that affirms/enhances/strengthens/facilitates the very thing that is the problem”
+* knowledge/awareness of transparently-take-for-granted
+* knowledge/awareness of opposite-masquerading-as-forward
+* knowledge/awareness of liminally blocked/surfacing urge and/or impulse and/or “dysregulation”
+* knowledge/awareness of near-or-full-overwhelming-ness-to-act-rather-than-not-act
+* knowledge/awareness of only-ness
+* knowledge/awareness of the-very-thing-that-ness
+* knowledge/awareness of anything-but-the-mainline(-but-still-forward)-ness
+* knowledge/awareness of artificiality
+* awareness of suffering
+* awareness of grasping/accumulating
+* awareness of anxiety
+* knowledge/awareness of has-to-work-ness/must-work-ness/has-to-succeed-ness/must-succeed-ness
+* knowledge/awareness of [body] [felt] anticipations/ing
+* knowledge/awareness of [bodymind] commitments
+* knowledge/awareness of disbelief/“disbelief”
+* knowledge/awareness of disbelief-as-such/“disbelief as such”
+* knowledge/awareness of [“particularly active”] disbelief-as-such/“disbelief as such”
+* knowledge/awareness of disbelief that X
+* knowledge/awareness of disbelief that X is real/true/obtaining
+* knowledge/awareness of seeming-darkness
+* knowledge/awareness of almost-darkness
+* knowledge/awareness of “blackness”
+* knowledge/awareness of low-magnitude-ness (sensation)
+* knowledge/awareness of low-intensity-ness (sensation)
+* knowledge/awareness of truth/“truth”
+* knowledge/awareness of existence/“existence”
+* knowledge/awareness of reason/reasoning/“reason”/“reasoning”/“Reason”
+* knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
+* knowledge/awareness of credulity+naivete+{having no idea what's going on}
+* knowledge/awareness of "reality pocket"
+* knowledge/awareness of heaviness (h)
+* knowledge/awareness of lightness (h)
+* knowledge/awareness of world pockets
+* knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
+* knowledge/awareness of indeterminacy
+* knowledge/awareness of rushing/haste/hurry/bypass/override/force/pressure/pushing
+* knowledge/awareness of nebulosity and constraint
+* knowledge/awareness of anxiety
+* knowledge/awareness of the (felt) goodness/gift of anxiety
+* knowledge/awareness of reaching
+* knowledge/awareness of clawing
+* knowledge/awareness of [active] directionality
+* knowledge of fragility
+* knowledge of safety
+* knowledge/awareness of error
+* knowledge/awareness of suffering as such
+* knowledge/awareness of reification as such
+* knowledge/awareness of impermanence as such
+* top-down person-ing [sic]
+* top-down meaning-making, "sensemaking," "figuring" [sic]
+* "indirect awareness"/[indirect] knowledge of "partiality" [sic]
+* awareness/~~~knowledge of non-figuring [sic]
+* awareness of meaning
+* awareness of interpretation
+* awareness of significance
+* awareness of implication
+* awareness of “can I just get on with X now” impulse
+* knowledge/awareness of [seemingly] inviolates, iron laws
+* knowledge/awareness of fakeness
+* knowledge/awareness of corruption [*]
+* knowledge/awareness of insanity [*]
+* knowledge/awareness of expectation/“expectationing” [sic]
+* knowledge/awareness of railroading
+* knowledge/awareness of [~~sending*]
+* knowledge/awareness of control
+* knowledge/awareness of self-ing
+* knowledge/awareness of separateness
+* knowledge/awareness of I, world, future
+* [knowledge/awareness] "don't fucking care" [sic]
 * narrative self as such
 * interiority as such
 * directly against/directly opposed
