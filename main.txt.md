@@ -1,4 +1,16 @@
-### v106 Mark D Lippmann Method (“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”/“Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol"/"Wayfinding Meditation"/"Global Wayfinding Meditation"/"Wayfinding Meditation Document"/"Wayfinding Meditation Protocol Document")
+### “Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol"/"Wayfinding Meditation"/"Global Wayfinding Meditation"/"Wayfinding Meditation Document"/"Wayfinding Meditation Protocol Document"/“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”
+
+by Mark D Lippmann and collaborators
+
+Credits (needs to be updated):
+
+…JD, __, __, __, __, __, __, H, A…, [...], and many more [I have to ask several of these people whether they want to be explicltly credited.]
+
+
+
+### Copyright:
+
+All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 
 
 
@@ -8,6 +20,7 @@ See these sections:
 
 * guided on-ramp for main practice p2 [draft]
 * pith instructions (experimental)
+
 
 
 ### Formatting and Reformatting Note:
@@ -29,12 +42,6 @@ In the file, there are *two* tables of contents that make use of tab indents (on
 Formatting withstanding, the document is a continually updated draft. The prose is sometimes messy, unedited, or barely prose. But, above the prose level, the document is highly structured. Use that structure to make engaging with the content level easier.
 
 Right now, for better or worse, the presentation of the material is a barrier to entry. But that won't be the case in the future.
-
-
-
-### Copyright:
-
-All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 
 
 
@@ -225,145 +232,14 @@ Let go…
 
 
 
-past versions:
-
-the current thing - phenomenology all plus blending * see also meditation slides folder.rtf
-devolition--so-called-v2--global unconditional refactoring at finest grain modulo good bad analysis.rtf
-good bad analysis ultimately ontology plan refactoring;--dynamics reformulation and goodness analysis.rtf
-v4.rtf
-v5-v9.rtf
-practice notes dialogue * snapshot 20190117.pdf
-20190103_*_questions_on_background.txt
-v10 snapshot 20190117 with index.rtf
-v11 snapshot 20190119 with index.rtf
-v11 the source 20190123.rtf
-v12 20190123.rtf
-v13 20190124.rtf
-v14 true safety-handledness with index with v15 addenda.rtf
-v15.2 20190127.ooutline
-v16xx.ooutline including representational stuff.ooutline
-v17.ooutline
-v18 pieces, v19 pre with index.rtf
-v19.2 * Method.rtf
-v20 backup 20190202.rtf
-v21 20190202 backup.rtf
-v21 backup 20190204.rtf
-v22 backup 20190205.rtf
-v23 backup 20190208.rtf
-v24 backup 20190208.rtf
-v24 backup 20190211.rtf
-v25 backup 20190211.rtf
-v25 backup 20190215.rtf
-v26 backup 20190216.rtf
-v27 backup 20190216.rtf
-v27 backup 20190216b.rtf
-v27 backup 20190217.rtf
-v27 backup 20190218.rtf
-v27 backup 20190218b.rtf
-v28 backup 20190218.rtf
-v28 backup 20190220.rtf
-v28 backup 20190221.rtf
-v28 backup 20190222.rtf
-v28 backup 20190224.rtf
-v28 backup 20190303.rtf
-v29 backup 20190306.rtf
-v30-pre backup 20190306.rtf
-v30-pre backup 20190307.rtf
-v30-pre backup 20190310.rtf
-v31-pre backup 20190324.rtf
-v29 backup 20190324.rtf
-v31-pre backup 20190325.rtf
-v32 20190410 backup.rtf
-v33 backup 20190410.rtf
-v34 backup 20190410.rtf
-v35 backup 20190410.rtf
-v36 backup 20190411.rtf
-v37 backup 20190411.rtf
-v38 20190411 backup.rtf
-v39 20190412 backup.rtf
-v40 20190412 backup.rtf
-v40 20190422 backup.rtf
-v41 backup 20190423.rtf
-v42 backup 20190428.rtf
-v42 backup 20190428b.rtf
-v43 backup 20190428.rtf
-v43 20190429 backup.rtf
-v44 backup 20190506.rtf
-v45 20190512 backup.rtf
-v46 20190513 backup.rtf
-v47 backup 20190521.rtf
-v48 backup 20190622.rtf
-v49 backup 20190622.rtf
-v50 20190704 backup.rtf
-v51 20190706 backup.rtf
-v52 20190707 backup.rtf
-v53 20190709 backup.rtf
-v54 20190709 backup.rtf
-v55 backup 20190715.rtf
-v56 20190720 backup.rtf
-v57 20190727 backup.rtf
-v58 20190919 backup.rtf
-v59 backup 20190919.rtf
-v60 20191016 backup.rtf
-v61 backup 20191021.rtf
-v62 backup 20191103.rtf
-v63 backup 20191104.rtf
-v64 20191104 backup.rtf
-v65 backup 20191110.rtf
-v66 20191110 backup.rtf
-v67 20191110 backup.rtf
-v68 backup 20191118.rtf
-v69 20191118 backup.rtf
-v70 backup 20191118.rtf
-v71 backup 20191118.rtf
-v72 backup 20191118.rtf
-v73 backup 20191122.rtf
-v74 backup 20191122.rtf
-v75 backup 20191122.rtf
-v77 backup 20191205.rtf
-v78 20191205 backup.rtf
-v79 backup 20191205.rtf
-v80 backup 20191207.rtf
-v81 20200128 backup.rtf
-v82 backup 20200225.rtf
-v83 20200405 backup.rtf
-v84 backupd 20200408.rtf
-v85 20200426 backup.rtf
-v86 backup 20200426.rtf
-v87 backup 20200426.rtf
-v88 20200503 backup.rtf
-v89 backup 20200515.rtf
-v90 backup 20200629.rtf
-v91 backup 20200704.rtf
-v92 backup 20200719.rtf
-v93 backup 20200719.rtf
-v94 backup 20200719.rtf
-v95 20200720 backup.rtf
-v96 20200819 backup.rtf
-v98 20200824 8f536062759c618b129d8e1f610f21c217d78042.txt
-v98 20200824 06310c2766f3d007905758fe4d8ada92b0b60367.txt
-v99 20200824 e3aac9ab2cb9370f8ac96cb7dd4d5b3b6de3a206.rtf
-v100 20200831 8db595caf6e7b16c466cd1b8f5c0a9be53f7e803.zip
-20200831 7e970c91957b00aef1be97ea5dfc14a5ab3f975f.zip
-v102 20200905 50c7c33faffd05939eb1f5858e471902618f315a.zip
-v103 20200906 43f6d83b05857cef1aa6912c7c7b0f232c5f4acd.zip
-v104 20200907 af027327a873b98cf6bb9215828e04d4de79faf4.zip
-v105 20201015 08b3bca342190d3a91b1960cd05c018b5491de29.zip
-
-
-
-Credits:
-
-…JD, __, __, __, __, __, __, H, A… [I have to ask several of these people whether they want to be explicltly credited.]
-
-
-
-### Full Contents:
+### Full Table of Contents:
 
 * version and working title
+* byline
+* credits
+* copyright
 * quick start
 * formatting and reformatting note
-* copyright
 * brief contents
 * document-level meta-warning
 * epistemic status disclaimer
@@ -373,9 +249,7 @@ Credits:
 * alternative versions
 * preamble
 * an exoteric doctrine v0.2
-* past versions
-* credits
-* full contents
+* full table of contents
 * introduction; getting over the hump; text interpretation
 * goal
 * end state
