@@ -7522,7 +7522,7 @@ Notes:
 
 ### pith instructions (experimental):
 
-* When you have a choice, usually but not always choose effortlessness, effortless action, and spontaneity over effort.
+* When you have a choice, usually but not always choose effortlessness, effortless action, and spontaneity over effort. When it's safe/good/ok, let it happen; let yourself find yourself doing what you've just now already been doing.
 * Usually, though not always, though definitely in the limit, choose wellbeing and relief.
 * Be patient, do it differently, but don’t do it harder.
 * Temporarily, when it’s safe, give up concrete and particular goals.
