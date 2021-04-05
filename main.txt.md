@@ -7422,7 +7422,7 @@ Unintegrated scratch pieces:
 
 
 
-### a bare-bones, bottom-up, noting-esque practice (without labeling)
+### a bare-bones, bottom-up, noting-esque practice (without labeling):
 
 * Participate, tinker, experiment, allow (simultaneously and continuously sequentially):
 	* Deliberately (lightly, minimally) attend (or pay attention) to things or raw sensations as such
