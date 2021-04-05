@@ -7982,111 +7982,111 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 
 bibliography (incomplete):
 
-(*) https://jhanajenny.com/paragon-tantric-practice/ (Last accessed: 2019-07-04; 11:16 CDT)
-(*) EMDR Up Close: Subtleties of Trauma Processing 1st Edition by Dr. Philip Manfield. CreateSpace Independent Publishing Platform; 1 edition (September 16, 2013). ISBN-10: 1492399620. ISBN-13: 978-1492399629
-(*) https://www.google.com/search?q=descartes+rules+for+the+direction+of+the+mind
-(*) https://www.google.com/search?q=spinoza+emendation+of+the+intellect
-(*) Ingram, Daniel M. Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book (Revised and Expanded). Red Wheel/Weiser, 2018.
-(*) Goode, Greg. The direct path: A user guide. New Harbinger Publications, 2012.
-(*) Goode, Greg. After Awareness: The End of the Path. New Harbinger Publications, 2016.
-(*) Allione, Tsultrim. Feeding your demons: Ancient wisdom for resolving inner conflict. Little, Brown Spark, 2008.
-(*) Johnson, Will. Aligned, relaxed, resilient: The physical foundations of mindfulness. Shambhala Publications, 2000.
-(*) Gendlin, Eugene T. Focusing. Bantam, 1982.
-(*) Gendlin, Eugene T. Experiencing and the creation of meaning: A philosophical and psychological approach to the subjective. Northwestern University Press, 1997.
-(*) Earley, Jay. Self-Therapy: A Step-By-Step Guide to Creating Inner Wholeness Using Ifs, a New, Cutting-Edge Therapy. Hillcrest Publishing Group, 2009.
-(*) Andreas, Connirae, and Tamara Andreas. "Core transformation." Constructive Therapies V2 2 (1998): 275.
-(*) https://www.google.com/search?q=connirae+andreas+coming+to+wholeness
-(*) Grimes, Pierre, and Regina L. Uliana. Philosophical midwifery: A new paradigm for understanding human problems with its validation. Hyparxis Press, 1998.
-(*) Ericsson, K. Anders, and Herbert A. Simon. Protocol analysis: Verbal reports as data. the MIT Press, 1984.
-(*) Demmin, Herbert S. A Theory of the Microdynamics of Occurrent Thought. Lexington Books, 2015.
-(*) Demmin, Herbert. Ghosts of Consciousness: Thought and the Spiritual Path. Paragon House, 2003.
-(*) Boisvert, Mathieu. The five aggregates: Understanding Theravada psychology and soteriology. Vol. 17. Wilfrid Laurier Univ. Press, 1995.
-(*) Sayadaw, Mahasi. Manual of insight. Simon and Schuster, 2016.
-(*) Nanananda, Bhikkhu. Concept and Reality in Early Buddhist Thought. Buddhist Publication Society, 2012.
-(*) Hurlburt, Russell T. Investigating pristine inner experience: Moments of truth. Cambridge University Press, 2011.
-(*) Mangan, Bruce. "Sensation's Ghost." Psyche 7 (2001): 18.
-(*) Langford, Michael. "The Most Direct and Rapid Means to Eternal Bliss." (2007).
-(*) Duží, Marie, Bjorn Jespersen, and Pavel Materna. Procedural semantics for hyperintensional logic: foundations and applications of transparent intensional logic. Vol. 17. Springer Science & Business Media, 2010.
-(*) Naming and Necessity Kripke
-(*) Reference and Existence Kripke
-(*) General Semantics Korzybski Hayakawa
-(*) Philosophical Investigations Wittgenstein
-(*) Meditation for the Love of It Kempton
-(*) https://vividness.live/2015/11/27/emptiness-form-and-dzogchen-ethics/ last accessed: 20200413
-(*) Maté, Gabor. Scattered minds: The origins and healing of attention deficit disorder. Vintage Canada, 2011.
-(*) Bollas, Christopher. The shadow of the object: Psychoanalysis of the unthought known. Columbia University Press, 1987.
-(*) Bollas, Christopher, and Sacha Bollas. Catch them before they fall: The psychoanalysis of breakdown. Vol. 978. No. 0-63726. Routledge, 2012.
-(*) Sidman, Murray. Coercion and its fallout. Boston: Authors Cooperative, 1989.
-(*) Walker, Pete. Complex PTSD: From surviving to thriving: A guide and map for recovering from childhood trauma. Createspace Independent Pub, 2013.
-(*) Ratcliffe, Matthew. Experiences of depression: A study in phenomenology. OUP Oxford, 2014.
-(*) Sarasvathy, Saras D. Effectuation: Elements of entrepreneurial expertise. Edward Elgar Publishing, 2009.
-(*) Bohm, David. On dialogue. Routledge, 2013.
-(*) Johnson-Laird, Philip Nicholas. Mental models: Towards a cognitive science of language, inference, and consciousness. No. 6. Harvard University Press, 1983.
-(*) Churchland, Paul M. Plato's camera: How the physical brain captures a landscape of abstract universals. MIT press, 2012.
-(*) Anderson, Michael L. After phrenology: Neural reuse and the interactive brain. MIT Press, 2014.
-(*) Simon, Herbert A. "Bounded rationality." Utility and probability. Palgrave Macmillan, London, 1990. 15-18.
-(*) Pettit, John W. Mipham's beacon of certainty: illuminating the view of Dzogchen, the Great Perfection. Vol. 2. Simon and Schuster, 1999.
-(*) Kim, Hee-Jin. Dogen on Meditation and Thinking: a Reflection on his View of Zen. SUNY Press, 2007.
-(*) Deacon, Terrence William. The symbolic species: The co-evolution of language and the brain. No. 202. WW Norton & Company, 1998.
-(*) Tomasello, Michael. Constructing a language. Harvard university press, 2009.
-(*) https://greg-goode.com/article/logic-and-the-direct-path/ (last accessed: 2020-08-31)
-(*) https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/ (last accessed: 2020-08-31)
-(*) Blanshard, Brand. Reason and analysis (vols. 1 and 2). Routledge, 2014.
-(*) Fricker, Miranda. Epistemic injustice: Power and the ethics of knowing. Oxford University Press, 2007.
-(*) https://en.wikipedia.org/wiki/Enactivism (Last accessed: 2020-08-31)
-(*) Suarez, Hume, Descartes, Leibniz, Aristotle, Plato, Kant, Popper, Deutsch, Gendlin, Kripke, Wittgenstein
-(*) Clarke DD, Schubiner H, Clark-Smith MA, Abbass A, (2019) Psychophysiologic Disorders, Trauma informed, Interprofessional diagnosis and treatment, U.S.
-(*) practice on perceptual forms herbert demmin
-(*) Drescher, Gary L. Good and real: Demystifying paradoxes from physics to ethics. MIT Press, 2006.
-(*) Ryle, Gilbert. The concept of mind. Routledge, 2009.
-(*) Mitchell, Stephen. Tao te ching.
-(*) Deacon, Terrence W. Incomplete nature: How mind emerged from matter. WW Norton & Company, 2011.
-(*) Denton, Derek. The primordial emotions: The dawning of consciousness. Oxford University Press, 2005.
-(*) Morsella, Ezequiel. "The function of phenomenal states: supramodular interaction theory." Psychological Review 112.4 (2005): 1000.
-(*) Metzinger, Thomas. Being no one: The self-model theory of subjectivity. MIT Press, 2004.
-(*) Sorensen, Roy A. Thought experiments. Oxford University Press on Demand, 1998.
-(*) Bader, Michael J. Arousal: The secret logic of sexual fantasies. Macmillan, 2003.
-(*) Casati, Roberto, and Achille C. Varzi. "Holes and other superficialities." (1994).
-(*) Rosen, Robert. Life itself: a comprehensive inquiry into the nature, origin, and fabrication of life. Columbia University Press, 1991.
-(*) Johnson-Laird, Philip Nicholas. Mental models: Towards a cognitive science of language, inference, and consciousness. No. 6. Harvard University Press, 1983.
-(*) https://en.wikipedia.org/wiki/Stephen_Grossberg
-(*) https://en.wikipedia.org/wiki/Judea_Pearl
-(*) Pearl, Judea. Causality. Cambridge university press, 2009.
-(*) Jaynes, Edwin T. Probability theory: The logic of science. Cambridge university press, 2003.
-(*) https://en.wikipedia.org/wiki/Karl_J._Friston
-(*) Smith, Brian Cantwell. "On the Origin of Objects. A Bradford Book." (1996).
-(*) Feinstein, Alvan R. "Clinical judgment." (1967).
-(*) Hurlburt, Russell T., and Sarah A. Akhter. "Unsymbolized thinking." Consciousness and Cognition 17.4 (2008): 1364-1374.
-(*) Leonard, George. Mastery: The keys to success and long-term fulfillment. Penguin, 1992.
-(*) Kramer, Joel, and Diana Alstad. The guru papers: Masks of authoritarian power. North Atlantic Books, 2012.
-(*) Kent, William. Data and Reality: A Timeless Perspective on Perceiving and Managing Information. Technics publications, 2012.
-Problematic but relevantly evocative neuroscience bibliography interlude:
-(*) Van den Bergh, Omer, et al. "Better safe than sorry: A common signature of general vulnerability for psychopathology." (2020).
-(*) Andrews, Mel. "The Math is not the Territory: Navigating the Free Energy Principle." (2020).
-(*) Laukkonen, Ruben, and Heleen A. Slagter. "From many to one: Meditation and the plasticity of the predictive mind."
-(*) Solms, Mark. "The hard problem of consciousness and the free energy principle." Frontiers in psychology 9 (2019): 2714.
-(*) Solms, Mark, and Karl Friston. "How and why consciousness arises: some considerations from physics and physiology." Journal of Consciousness Studies 25.5-6 (2018): 202-238.
-(*) Solms, Mark Leonard. "The neurobiological underpinnings of psychoanalytic theory and therapy." Frontiers in Behavioral Neuroscience 12 (2018): 294.
-(end interlude)
-(*) Engelmann, Siegfried, and Douglas Carnine. Theory of instruction: Principles and applications. New York: Irvington Publishers, 1982.
-(*) Engelmann, Siegfried. "Low performers manual." Eugene, OR: Author (2005).
-(*) Engelmann, Siegfried, and Geoffrey Colvin. Rubric for identifying authentic Direct Instruction programs. Eugene, OR: Engelmann Foundation, 2006.
-(*) https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy) [last accessed: 2020-12-09]
-(*) Rawls, John. Justice as fairness: A restatement. Harvard University Press, 2001.
-(*) https://en.wikipedia.org/wiki/Consequentialism [Last accessed: 2020-12-30]
-(*) Thomas, Metzinger. "Suffering, the cognitive scotoma." The Return of Consciousness (2017): 237-262.
-(*) Ray, Reginald A. Somatic Descent: How to Unlock the Deepest Wisdom of the Body. Shambhala Publications, 2020.
-(*) Krishnamurti, Uppaluri Gopala, and Rodney Alexander Arms. "The mystique of enlightenment: the unrational ideas of a man called UG." (1982).
-(*) McWilliams, Nancy. Psychoanalytic diagnosis: Understanding personality structure in the clinical process. Guilford Press, 2011.
-(*) Kay, John. Obliquity: Why our goals are best achieved indirectly. Profile Books, 2011.
-(*) Buber, Martin. I and Thou. 1923. [I have not verified this myself, but I'm told the Ronald Gregor Smith translation is far superior to the Kauffman translation.]
-(*) https://en.wikipedia.org/wiki/Reflective_equilibrium [Last accessed: 2021-02-14]
-(*) https://plato.stanford.edu/entries/reflective-equilibrium/ [Last accessed: 2021-02-14]
-(*) Jung, Carl Gustav. Memories, dreams, reflections. Vintage, 1989.
-(*) https://vividness.live/unclogging [Last accessed: 2021-02-24]
-(*) Ecker, Bruce, Robin Ticic, and Laurel Hulley. Unlocking the emotional brain: Eliminating symptoms at their roots using memory reconsolidation. Routledge, 2012.
-(*) Coherence Therapy Practice Manual
-(*) A COMPILATION OF DANIEL'S POSTS AT DHARMAOVERGROUND.ORG https://danielpostscompilation.blogspot.com/p/blog-page.html [Last accessed: 2021-03-06]
+* https://jhanajenny.com/paragon-tantric-practice/ (Last accessed: 2019-07-04; 11:16 CDT)
+* EMDR Up Close: Subtleties of Trauma Processing 1st Edition by Dr. Philip Manfield. CreateSpace Independent Publishing Platform; 1 edition (September 16, 2013). ISBN-10: 1492399620. ISBN-13: 978-1492399629
+* https://www.google.com/search?q=descartes+rules+for+the+direction+of+the+mind
+* https://www.google.com/search?q=spinoza+emendation+of+the+intellect
+* Ingram, Daniel M. Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book (Revised and Expanded). Red Wheel/Weiser, 2018.
+* Goode, Greg. The direct path: A user guide. New Harbinger Publications, 2012.
+* Goode, Greg. After Awareness: The End of the Path. New Harbinger Publications, 2016.
+* Allione, Tsultrim. Feeding your demons: Ancient wisdom for resolving inner conflict. Little, Brown Spark, 2008.
+* Johnson, Will. Aligned, relaxed, resilient: The physical foundations of mindfulness. Shambhala Publications, 2000.
+* Gendlin, Eugene T. Focusing. Bantam, 1982.
+* Gendlin, Eugene T. Experiencing and the creation of meaning: A philosophical and psychological approach to the subjective. Northwestern University Press, 1997.
+* Earley, Jay. Self-Therapy: A Step-By-Step Guide to Creating Inner Wholeness Using Ifs, a New, Cutting-Edge Therapy. Hillcrest Publishing Group, 2009.
+* Andreas, Connirae, and Tamara Andreas. "Core transformation." Constructive Therapies V2 2 (1998): 275.
+* https://www.google.com/search?q=connirae+andreas+coming+to+wholeness
+* Grimes, Pierre, and Regina L. Uliana. Philosophical midwifery: A new paradigm for understanding human problems with its validation. Hyparxis Press, 1998.
+* Ericsson, K. Anders, and Herbert A. Simon. Protocol analysis: Verbal reports as data. the MIT Press, 1984.
+* Demmin, Herbert S. A Theory of the Microdynamics of Occurrent Thought. Lexington Books, 2015.
+* Demmin, Herbert. Ghosts of Consciousness: Thought and the Spiritual Path. Paragon House, 2003.
+* Boisvert, Mathieu. The five aggregates: Understanding Theravada psychology and soteriology. Vol. 17. Wilfrid Laurier Univ. Press, 1995.
+* Sayadaw, Mahasi. Manual of insight. Simon and Schuster, 2016.
+* Nanananda, Bhikkhu. Concept and Reality in Early Buddhist Thought. Buddhist Publication Society, 2012.
+* Hurlburt, Russell T. Investigating pristine inner experience: Moments of truth. Cambridge University Press, 2011.
+* Mangan, Bruce. "Sensation's Ghost." Psyche 7 (2001): 18.
+* Langford, Michael. "The Most Direct and Rapid Means to Eternal Bliss." (2007).
+* Duží, Marie, Bjorn Jespersen, and Pavel Materna. Procedural semantics for hyperintensional logic: foundations and applications of transparent intensional logic. Vol. 17. Springer Science & Business Media, 2010.
+* Naming and Necessity Kripke
+* Reference and Existence Kripke
+* General Semantics Korzybski Hayakawa
+* Philosophical Investigations Wittgenstein
+* Meditation for the Love of It Kempton
+* https://vividness.live/2015/11/27/emptiness-form-and-dzogchen-ethics/ last accessed: 20200413
+* Maté, Gabor. Scattered minds: The origins and healing of attention deficit disorder. Vintage Canada, 2011.
+* Bollas, Christopher. The shadow of the object: Psychoanalysis of the unthought known. Columbia University Press, 1987.
+* Bollas, Christopher, and Sacha Bollas. Catch them before they fall: The psychoanalysis of breakdown. Vol. 978. No. 0-63726. Routledge, 2012.
+* Sidman, Murray. Coercion and its fallout. Boston: Authors Cooperative, 1989.
+* Walker, Pete. Complex PTSD: From surviving to thriving: A guide and map for recovering from childhood trauma. Createspace Independent Pub, 2013.
+* Ratcliffe, Matthew. Experiences of depression: A study in phenomenology. OUP Oxford, 2014.
+* Sarasvathy, Saras D. Effectuation: Elements of entrepreneurial expertise. Edward Elgar Publishing, 2009.
+* Bohm, David. On dialogue. Routledge, 2013.
+* Johnson-Laird, Philip Nicholas. Mental models: Towards a cognitive science of language, inference, and consciousness. No. 6. Harvard University Press, 1983.
+* Churchland, Paul M. Plato's camera: How the physical brain captures a landscape of abstract universals. MIT press, 2012.
+* Anderson, Michael L. After phrenology: Neural reuse and the interactive brain. MIT Press, 2014.
+* Simon, Herbert A. "Bounded rationality." Utility and probability. Palgrave Macmillan, London, 1990. 15-18.
+* Pettit, John W. Mipham's beacon of certainty: illuminating the view of Dzogchen, the Great Perfection. Vol. 2. Simon and Schuster, 1999.
+* Kim, Hee-Jin. Dogen on Meditation and Thinking: a Reflection on his View of Zen. SUNY Press, 2007.
+* Deacon, Terrence William. The symbolic species: The co-evolution of language and the brain. No. 202. WW Norton & Company, 1998.
+* Tomasello, Michael. Constructing a language. Harvard university press, 2009.
+* https://greg-goode.com/article/logic-and-the-direct-path/ (last accessed: 2020-08-31)
+* https://greg-goode.com/spirituality/the-nature-of-thought-1939-a-personal-review/ (last accessed: 2020-08-31)
+* Blanshard, Brand. Reason and analysis (vols. 1 and 2). Routledge, 2014.
+* Fricker, Miranda. Epistemic injustice: Power and the ethics of knowing. Oxford University Press, 2007.
+* https://en.wikipedia.org/wiki/Enactivism (Last accessed: 2020-08-31)
+* Suarez, Hume, Descartes, Leibniz, Aristotle, Plato, Kant, Popper, Deutsch, Gendlin, Kripke, Wittgenstein
+* Clarke DD, Schubiner H, Clark-Smith MA, Abbass A, (2019) Psychophysiologic Disorders, Trauma informed, Interprofessional diagnosis and treatment, U.S.
+* practice on perceptual forms herbert demmin
+* Drescher, Gary L. Good and real: Demystifying paradoxes from physics to ethics. MIT Press, 2006.
+* Ryle, Gilbert. The concept of mind. Routledge, 2009.
+* Mitchell, Stephen. Tao te ching.
+* Deacon, Terrence W. Incomplete nature: How mind emerged from matter. WW Norton & Company, 2011.
+* Denton, Derek. The primordial emotions: The dawning of consciousness. Oxford University Press, 2005.
+* Morsella, Ezequiel. "The function of phenomenal states: supramodular interaction theory." Psychological Review 112.4 (2005): 1000.
+* Metzinger, Thomas. Being no one: The self-model theory of subjectivity. MIT Press, 2004.
+* Sorensen, Roy A. Thought experiments. Oxford University Press on Demand, 1998.
+* Bader, Michael J. Arousal: The secret logic of sexual fantasies. Macmillan, 2003.
+* Casati, Roberto, and Achille C. Varzi. "Holes and other superficialities." (1994).
+* Rosen, Robert. Life itself: a comprehensive inquiry into the nature, origin, and fabrication of life. Columbia University Press, 1991.
+* Johnson-Laird, Philip Nicholas. Mental models: Towards a cognitive science of language, inference, and consciousness. No. 6. Harvard University Press, 1983.
+* https://en.wikipedia.org/wiki/Stephen_Grossberg
+* https://en.wikipedia.org/wiki/Judea_Pearl
+* Pearl, Judea. Causality. Cambridge university press, 2009.
+* Jaynes, Edwin T. Probability theory: The logic of science. Cambridge university press, 2003.
+* https://en.wikipedia.org/wiki/Karl_J._Friston
+* Smith, Brian Cantwell. "On the Origin of Objects. A Bradford Book." (1996).
+* Feinstein, Alvan R. "Clinical judgment." (1967).
+* Hurlburt, Russell T., and Sarah A. Akhter. "Unsymbolized thinking." Consciousness and Cognition 17.4 (2008): 1364-1374.
+* Leonard, George. Mastery: The keys to success and long-term fulfillment. Penguin, 1992.
+* Kramer, Joel, and Diana Alstad. The guru papers: Masks of authoritarian power. North Atlantic Books, 2012.
+* Kent, William. Data and Reality: A Timeless Perspective on Perceiving and Managing Information. Technics publications, 2012.
+* Problematic but relevantly evocative neuroscience bibliography interlude:
+* Van den Bergh, Omer, et al. "Better safe than sorry: A common signature of general vulnerability for psychopathology." (2020).
+* Andrews, Mel. "The Math is not the Territory: Navigating the Free Energy Principle." (2020).
+* Laukkonen, Ruben, and Heleen A. Slagter. "From many to one: Meditation and the plasticity of the predictive mind."
+* Solms, Mark. "The hard problem of consciousness and the free energy principle." Frontiers in psychology 9 (2019): 2714.
+* Solms, Mark, and Karl Friston. "How and why consciousness arises: some considerations from physics and physiology." Journal of Consciousness Studies 25.5-6 (2018): 202-238.
+* Solms, Mark Leonard. "The neurobiological underpinnings of psychoanalytic theory and therapy." Frontiers in Behavioral Neuroscience 12 (2018): 294.
+* (end interlude)
+* Engelmann, Siegfried, and Douglas Carnine. Theory of instruction: Principles and applications. New York: Irvington Publishers, 1982.
+* Engelmann, Siegfried. "Low performers manual." Eugene, OR: Author (2005).
+* Engelmann, Siegfried, and Geoffrey Colvin. Rubric for identifying authentic Direct Instruction programs. Eugene, OR: Engelmann Foundation, 2006.
+* https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy) [last accessed: 2020-12-09]
+* Rawls, John. Justice as fairness: A restatement. Harvard University Press, 2001.
+* https://en.wikipedia.org/wiki/Consequentialism [Last accessed: 2020-12-30]
+* Thomas, Metzinger. "Suffering, the cognitive scotoma." The Return of Consciousness (2017): 237-262.
+* Ray, Reginald A. Somatic Descent: How to Unlock the Deepest Wisdom of the Body. Shambhala Publications, 2020.
+* Krishnamurti, Uppaluri Gopala, and Rodney Alexander Arms. "The mystique of enlightenment: the unrational ideas of a man called UG." (1982).
+* McWilliams, Nancy. Psychoanalytic diagnosis: Understanding personality structure in the clinical process. Guilford Press, 2011.
+* Kay, John. Obliquity: Why our goals are best achieved indirectly. Profile Books, 2011.
+* Buber, Martin. I and Thou. 1923. [I have not verified this myself, but I'm told the Ronald Gregor Smith translation is far superior to the Kauffman translation.]
+* https://en.wikipedia.org/wiki/Reflective_equilibrium [Last accessed: 2021-02-14]
+* https://plato.stanford.edu/entries/reflective-equilibrium/ [Last accessed: 2021-02-14]
+* Jung, Carl Gustav. Memories, dreams, reflections. Vintage, 1989.
+* https://vividness.live/unclogging [Last accessed: 2021-02-24]
+* Ecker, Bruce, Robin Ticic, and Laurel Hulley. Unlocking the emotional brain: Eliminating symptoms at their roots using memory reconsolidation. Routledge, 2012.
+* Coherence Therapy Practice Manual
+* A COMPILATION OF DANIEL'S POSTS AT DHARMAOVERGROUND.ORG https://danielpostscompilation.blogspot.com/p/blog-page.html [Last accessed: 2021-03-06]
 * Slingerland, Edward. Effortless action: Wu-wei as conceptual metaphor and spiritual ideal in early China. Oxford University Press, 2007.
 * Frantzis, Bruce Kumar. Opening the Energy Gates of Your Body: Qigong for Lifelong Health. Blue Snake Books, 2006.
 * Lam, Kam Chuen, and Master Lam Kam-Chuen. The Way of Energy: A Gaia Original. Simon and Schuster, 1991.
@@ -8096,3 +8096,12 @@ Problematic but relevantly evocative neuroscience bibliography interlude:
 * Existential Kink: Unmask Your Shadow and Embrace Your Power (A method for getting what you want by getting off on what you don't) by Carolyn Elliott
 * Feldenkrais, Moshe. Awareness through movement. Vol. 1977. New York: Harper and Row, 1972.
 * You Are the One You've Been Waiting For (Internal Family Systems). January 1, 2008. by Richard C. Schwartz
+* Sociological/Institutional/Market/Monetary Interlude:
+* Money’s Mutation of the Modern Moral Mind: The Simmel Hypothesis and the Cultural Evolution of WEIRDness. Cameron Harwick. Revised April 3, 2021.
+* Zelizer, Viviana A. "The purchase of intimacy." Law & Social Inquiry 25.3 (2000): 817-848.
+* Zelizer, Viviana A. The social meaning of money: Pin money, paychecks, poor relief, and other currencies. Princeton University Press, 2017.
+* [Comment: Harwick is on the now-separation between the sacred and financial. Zelizer is on the still-continuing integrations.]
+* Chwe, Michael Suk-Young. Rational ritual: Culture, coordination, and common knowledge. Princeton University Press, 2013.
+* Seligman, Adam B., et al. Ritual and its consequences: An essay on the limits of sincerity. OUP USA, 2008.
+* https://meaningness.com/further-reading [Last accessed: 2021-04-05]
+* End Interlude
