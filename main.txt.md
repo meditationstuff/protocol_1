@@ -8106,3 +8106,5 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Seligman, Adam B., et al. Ritual and its consequences: An essay on the limits of sincerity. OUP USA, 2008.
 * https://meaningness.com/further-reading [Last accessed: 2021-04-05]
 * End Interlude
+* https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/
+* Wilber, Ken. The Religion of Tomorrow: A Vision for the Future of the Great Traditions-More Inclusive, More Comprehensive, More Complete. Shambhala Publications, 2017.
