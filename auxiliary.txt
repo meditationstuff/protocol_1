@@ -4684,3 +4684,8 @@ Allow an answer to a question you pose to yourself to come up. Allow a counterar
 follow [the feeling of] X back in time (memories, etc.):
 
 Thus.
+
+
+find your way back:
+
+Thus.

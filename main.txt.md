@@ -8110,3 +8110,6 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * End Interlude
 * https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/
 * Wilber, Ken. The Religion of Tomorrow: A Vision for the Future of the Great Traditions-More Inclusive, More Comprehensive, More Complete. Shambhala Publications, 2017.
+* Sun, Chen Lee. Laozi's Daodejing--From Philosophical and Hermeneutical Perspectives: The English and Chinese Translations Based on Laozi’S Original Daoism. iUniverse, 2011.
+* Kugel, James L. The Great Shift: Encountering God in Biblical Times. Houghton Mifflin Harcourt, 2017.
+* Abram, David. The spell of the sensuous: Perception and language in a more-than-human world. Vintage, 2012.
