@@ -4072,6 +4072,8 @@ Notes:
 * directly against/directly opposed
 * sensemaking 
 * doesn’t make sense/doesn’t need to make sense (at least right now)
+* ?"testosterone system"
+* ?"estrogen system"
 
 
 
