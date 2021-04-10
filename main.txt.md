@@ -8113,3 +8113,4 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Sun, Chen Lee. Laozi's Daodejing--From Philosophical and Hermeneutical Perspectives: The English and Chinese Translations Based on Laozi’S Original Daoism. iUniverse, 2011.
 * Kugel, James L. The Great Shift: Encountering God in Biblical Times. Houghton Mifflin Harcourt, 2017.
 * Abram, David. The spell of the sensuous: Perception and language in a more-than-human world. Vintage, 2012.
+* Deutsch, David. The beginning of infinity: Explanations that transform the world. Penguin UK, 2011. [note: see in index: inexplicit, unconscious re ideas, arguments, explanations, knowledge; compare with gendlin’s implicit]
