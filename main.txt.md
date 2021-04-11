@@ -3318,8 +3318,8 @@ Alternative note: A future draft of this should maybe include percentages for "l
 **(2) Solo or Dyadic Tight Feedback Loop**
 
 * **Online Data Collection, Alone or with an Observer/Coach/Consultant/Friend:**
-	* As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? Start now.
-* **Offline Analysis, While Taking a Break from Meditating:**
+	* As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? Start now. [If talking/articulating/explicating/sharing is grindy, jammy, force-y, unsafe, bad feeling, don't! It's not the right time or context to be doing it, then! If alone, you might try doing the spirit of this but completely nonverbally.]
+* **Interleaved or Offline Analysis (While Taking a Break from Meditating):**
 	* What of that was in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
 	* What of that was in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
 	* What of that are you currently unsure of whether it might have been contextually good or bad? How might you come to know better what of that was/is contextually good or bad?
