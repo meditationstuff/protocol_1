@@ -32,17 +32,17 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 		* document-level meta-warning
 		* epistemic status disclaimer
 		* but what actually makes it risky?; how do risks obtain, when they do? [section doesn't exist yet]
-	* **What's the theoretical, metaphysical, ideological, sectarian, soteriological basis of this kind of meditation?**
-		* *See these sections:*
-			* an exoteric doctrine: (v0.2)
-			* goal
-			* end state
-			* no fixed conceptualized goal or end state part one ("goodness")
-			* no fixed conceptualized goal or end state part two ("better")
-			* meditation is concrete problem solving
-			* wellbeing and sacrifice
-			* ok-ness and cosmology
-			* seamless hyphenation [draft]
+* **What's the theoretical, metaphysical, ideological, sectarian, soteriological basis of this kind of meditation?**
+	* *See these sections:*
+		* an exoteric doctrine: (v0.2)
+		* goal
+		* end state
+		* no fixed conceptualized goal or end state part one ("goodness")
+		* no fixed conceptualized goal or end state part two ("better")
+		* meditation is concrete problem solving
+		* wellbeing and sacrifice
+		* ok-ness and cosmology
+		* seamless hyphenation [draft]
 * **What's the "practical core" of the document? What do I actually do?**
 	* *See these sections:*
 		* practice preliminaries (11+ sections)
