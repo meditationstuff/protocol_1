@@ -3244,28 +3244,28 @@ Note: To emphasize again, plenty of cumulativity is still possible, long-run, in
 Note: In some ways the distinction between pre-zone and in-the-zone is real or at least useful or apparent; and, in other ways, it's a "fake" and/or artificial distinction, riding on an underlying continuity or complexity. And, pre-zone versus in-the-zone will be different for different people at different times. There won't necessarily be a sharp felt/experiential distinction between the two, or even a vague one, on any particular day or in any particular session, or even ever-ish--someone can feel like they are almost always or even always "pre-zone"/"non-zone", and that's normal and ok, too, and doesn't necessarily mean things will be slower or different in any particular way, in terms of progress or trajectory, for them relative to other people.
 
 
-what to do when:
+### what to do when:
 
 This is a very, very, very, very rough breakdown of how you might use your time while practicing. It could be more granular, and all the percentages could be tweaked more. Note that each “level” adds up to 100%. For example, it’s ballpark suggested that p2 might be 80% of 72% of your total practice time. Or, stated more imprecisely, if you’re doing the protocol proper, explore doing lots of p2. These percentages may change as we learn more. For example, the ballpark suggestion for doing the meta protocol might go down or up. Also, in the beginning you might spend much more time on the preliminary/auxiliary practices, and so forth. These are intended to be the very-long-run breakdowns.
 
-protocol 100%
-	preliminary/auxiliary practices 4%
-	interpersonal practices 2%
-	meta protocol 15%
-	creativity/unsticking practice 2%
-	meta meta protocol 5%
-	main practices 72%
-		p0 1%
-		p1 2%
-		p2 80% [sic!]
-		p3 2%
-		p4 2%
-		p5 3%
-		p6 2%
-		p7 2%
-		p8 2%
-		p9 2%
-		p10 2%
+* protocol 100%
+	* preliminary/auxiliary practices 4%
+	* interpersonal practices 2%
+	* meta protocol 15%
+	* creativity/unsticking practice 2%
+	* meta meta protocol 5%
+	* main practices 72%
+		* p0 1%
+		* p1 2%
+		* p2 80% [sic!]
+		* p3 2%
+		* p4 2%
+		* p5 3%
+		* p6 2%
+		* p7 2%
+		* p8 2%
+		* p9 2%
+		* p10 2%
 
 Important: It’s normal to “orbit” this document and the practices, to read this and put it down for a while, or to do the practices and then do other life things for a while. There are many paths up the mountain and many often necessary “detours,” which aren’t detours at all, of course.
 
@@ -3273,84 +3273,81 @@ Alternative note: A future draft of this should maybe include percentages for "l
 
 
 
-practices:
+### top-level practices/categories:
 
 
 
-meta practice [solo and otherwise]:
+### meta practice [solo and otherwise]:
 
 
 
-meta protocol:
+### meta protocol:
 
-Contents
-(0) Notes
-(1) Retrospective Evaluation of Happening and Doing
-(2) Dyadic Tight Feedback Loop
+* Contents
+	* (0) Notes
+	* (1) Retrospective Evaluation of Happening and Doing
+	* (2) Dyadic Tight Feedback Loop
 
-(0) Notes
+**(0) Notes**
 
-(*) Note that you can also interleave/weave these questions (or the spirit of these questions) with[/into] a main meditation practice as you're doing it.
-(*) Don't force the questions below. If you're mind doesn't want to answer them, then don't make your mind answer them.
-(*) You don't need to get complete answers or verbal answers to the questions. Just good-faith try/intend to answer, being willing to release the *how* of how you're getting the answer or answering. When in doubt, let go and start over or let go completely. Let you mind have time and space to answer the questions however it wants. The mind might answer by doing something rather than answering the question, specifically.
-(*) You don't need to ask the questions below verbally or discretely, though it's good to experiment with that first. You can also cast your mind over the questions or the memory of the questions, sequentially, semi-sequentially, or all together, all at once. Try to vary how you're accessing the questions, verbally/sequentially versus all at once, and the degrees in between.
-(*) There is a "meta meta protocol" [sic] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
-(*) Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
-(*) Lots of things have the “flavor” or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re “not doing the meta protocol” but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s “going meta.” It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly.
-(*) You might simply ask, what are all the options/affordances, here, and which might be good right now to pick?
-(*) Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/feel for answers with the body, the mind, or the bodymind, or anything, or everything.
-
-
-(1) Retrospective Evaluation of Happening and Doing
-
-Happening
-	What is currently generally *happening* when you meditate?
-	What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
-Doing
-	What do you currently generally *do* when you meditate?
-What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
+* Note that you can also interleave/weave these questions (or the spirit of these questions) with[/into] a main meditation practice as you're doing it.
+* Don't force the questions below. If you're mind doesn't want to answer them, then don't make your mind answer them.
+* You don't need to get complete answers or verbal answers to the questions. Just good-faith try/intend to answer, being willing to release the *how* of how you're getting the answer or answering. When in doubt, let go and start over or let go completely. Let you mind have time and space to answer the questions however it wants. The mind might answer by doing something rather than answering the question, specifically.
+* You don't need to ask the questions below verbally or discretely, though it's good to experiment with that first. You can also cast your mind over the questions or the memory of the questions, sequentially, semi-sequentially, or all together, all at once. Try to vary how you're accessing the questions, verbally/sequentially versus all at once, and the degrees in between.
+* There is a "meta meta protocol" [sic] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
+* Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
+* Lots of things have the “flavor” or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re “not doing the meta protocol” but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s “going meta.” It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly.
+* You might simply ask, what are all the options/affordances, here, and which might be good right now to pick?
+* Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/feel for answers with the body, the mind, or the bodymind, or anything, or everything.
 
 
-(2) Dyadic Tight Feedback Loop 
+**(1) Interleaved or Retrospective Evaluation of Happening and Doing**
 
-Online Data Collection, with an Observer/Coach/Consultant/Friend:
-	As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? Start now.
-Offline Analysis, While Taking a Break from Meditating:
-	What of that was in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	What of that was in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	What of that are you currently unsure of whether it might have been contextually good or bad? How might you come to know better what of that was/is contextually good or bad?
-	For what’s seemingly contextually good, as far as you can currently tell, how might or will you keep doing it? And under what conditions might it or might it not be good to stop, if ever?
-	For what’s seemingly contextually bad, as far as you can currently tell, what might or might not be good to do about that, and when or under what conditions, as far as you can currently tell?
+* **Happening/Experiencing**
+	* What is currently generally *happening* when you meditate? What are you currently generally *experiencing* when you meditate?
+	* What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	* What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	* What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
+* **Doing**
+	* What do you currently generally *do* when you meditate?
+	* What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	* What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	* What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
+
+
+**(2) Solo or Dyadic Tight Feedback Loop**
+
+* **Online Data Collection, Alone or with an Observer/Coach/Consultant/Friend:**
+	* As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? Start now.
+* **Offline Analysis, While Taking a Break from Meditating:**
+	* What of that was in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	* What of that was in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	* What of that are you currently unsure of whether it might have been contextually good or bad? How might you come to know better what of that was/is contextually good or bad?
+	* For what’s seemingly contextually good, as far as you can currently tell, how might or will you keep doing it? And under what conditions might it or might it not be good to stop, if ever?
+	* For what’s seemingly contextually bad, as far as you can currently tell, what might or might not be good to do about that, and when or under what conditions, as far as you can currently tell?
 Offline Generative, While Taking a Break from Meditating:
-	How are you currently coming to know, or, how might you come to know, about additional possibly contextually good things to do, that you’re not currently doing, or not doing at all the times they might be good to do, or have never done before, as far as you can currently tell? What are some things you’ve never done before that might be good to do, as far as you can currently tell? How might you come to do those possibly good things at possibly good times, as far as you can currently tell?
+	* How are you currently coming to know, or, how might you come to know, about additional possibly contextually good things to do, that you’re not currently doing, or not doing at all the times they might be good to do, or have never done before, as far as you can currently tell? What are some things you’ve never done before that might be good to do, as far as you can currently tell? How might you come to do those possibly good things at possibly good times, as far as you can currently tell?
 
 
-collaborator formulations:
+### collaborator formulations:
 
 
-collaborator formulation 1: (mh)
+**collaborator formulation 1: (mh)**
 
 so, a quick rephrase of the meta protocol:
 
 evaluation of happening and doing:
 
-- start meta protocol, which kind of meta protocol feels [yes good ahh satisfying correct necessary-but-hard useful globally-good globally-ahhh]? is it the whole-body gesture, scan, interrogation, welcoming-of-an-answer-even-if-it-doesn’t-come? which....wait and see...
-
-- watch the doing/being/is/thus-ness, look around for/invite/welcome/find/discover/glance sideways at/whatever is there that is good/potentially good/felt-sense-of-satisfaction
-
-- look for/watch/investigate global risk/danger/pain-i’m-not-ready-for/things-i’ll-be-ready-for-soon/etc
-
-- trace back for hows/whys/stories/dissolution of stories/mechanisms/not-knowing-ness/okay-ness/not-okayness
-
-- welcome/wait for/investigate/build/construct/allow/whatever a next step if there is a next step/next question/next state/shift in priorities/etc
+* start meta protocol, which kind of meta protocol feels [yes good ahh satisfying correct necessary-but-hard useful globally-good globally-ahhh]? is it the whole-body gesture, scan, interrogation, welcoming-of-an-answer-even-if-it-doesn’t-come? which....wait and see...
+* watch the doing/being/is/thus-ness, look around for/invite/welcome/find/discover/glance sideways at/whatever is there that is good/potentially good/felt-sense-of-satisfaction
+* look for/watch/investigate global risk/danger/pain-i’m-not-ready-for/things-i’ll-be-ready-for-soon/etc
+* trace back for hows/whys/stories/dissolution of stories/mechanisms/not-knowing-ness/okay-ness/not-okayness
+* welcome/wait for/investigate/build/construct/allow/whatever a next step if there is a next step/next question/next state/shift in priorities/etc
 
 [they comment further:]
 
 I think I’m getting a better handle on “right place, right time.” it’s interesting how the definition of “good” shifts according to some kind of need, even when I don’t know what the need is
+
 there’s this all-inclusive okay-ness thing but so many fine-grained variations in what kinds of “good” and “bad” and “locally vs. globally good-or-bad” are available or necessary in any given moment
 
 […]
@@ -3369,7 +3366,7 @@ or, just not compatible with them
 
 
 
-meta meta protocol:
+### meta meta protocol:
 
 [minimally edited placeholder transcript; 1:1 message reply] I want to do something like not over or under sell the meta protocol, like, one thing that's important is that one should sort of also apply The Meta protocol to itself so sort of a Meta Meta protocol, and I'm sure there's better and worse ways to kind of weave it into the meditation practice itself.
 
@@ -3383,7 +3380,7 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 
 
 
-solo practice: (“main protocol”)
+### solo practice: (“main protocol”)
 
 
 
