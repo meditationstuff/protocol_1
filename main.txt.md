@@ -7387,7 +7387,7 @@ But so few people seem to really get this “pixel perfect rainbow” thing, and
 
 (h) explore deliberate or participatory surrender, acceptance, letting go, somewhat as per (a)
 
-(i) now patiently, slowly interleave (a)-(f) in a single practice, as you are so moved or as salience changes 30s-5min
+(i) now patiently, slowly interleave (a)-(h) in a single practice, as you are so moved or as salience changes 30s-5min
 
 
 Notes:
