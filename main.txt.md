@@ -261,6 +261,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* attention is not fundamental
 	* “inner space” and physical/social grace
 	* dark phenomenology and presence/absence conceptions
+	* brief thoughts on substances like psychedelics
 	* getting triggered, usefulness and risks
 	* a dialogue between N and Mark, on reasoning and pre-reasoning
 	* a note on "making progress," "regression," and redo-to-undo
@@ -5444,6 +5445,27 @@ lack of belief and/or lack of disbelief is not the same thing as “active/prese
 Note:
 
 There are parallels, here, to "unvalenced" phenomenology and memories. (vs "valenced" as in phenomenology/sensations that is/are directly positive/pleasurable/good or negative/noxious/bad/etc or, more loosely, sensations or experiences that are associated with such.)
+
+
+
+### brief thoughts on substances like psychedelics:
+
+This is a complex topic, so these are just some brief thoughts, to start. I (Mark) personally have never used psychedelics. (I wanted to "figure it out for myself.") It does seem like there's overlap between what psychedelics do and what meditation does, based on many conversations.
+
+I want to discuss two points. First, I write in the section "no one gets pixel-perfect possibilities" that there's sort of a "right place for everything," though noting that that "final ground state," loosely speaking, is stable, self-repairing, costless, effortless, "natural." It seems like psychedelics, with each use, sometimes, for some people, take a person vaguely, fractionally in this "natural" direction, but not precisely/exactly in this "natural" direction.
+
+Second, I rely a lot on the idea of redo-to-undo. So, say, psychedelics (or other substances) don't take a person in quite the right direction; say they cause some "error propagation" (??confusion, delusion, distortion, confabulation??).
+
+(I mention error correction and error propagation elsewhere in the document, not to inappropriately reify those two things/ideas, as per usual.)
+
+Then, at some point, a la redo-to-undo, a person will need to recover aspects of the altered state (perhaps liminally, subliminally) in order to "clean up" or "correct" some things (dipping in over and over again, contiguous with returning again and again to all sorts of things, as sometimes generally happens in meditation). To the degree that psychedelic aspects are hard to return to, and so "redo" takes longer, this might extend a person's meditation timeline. (In any case, popping into or easing into and out of "altered" states is a part of meditation, whether or not someone has ever used substances, as mentioned in the section "states," and other sections.)
+
+Some people may feel like substances are "experientially instructive," or are sometimes healing or make the journey better, irrespective of timelines, or are otherwise a "net timeline win."
+
+I suspect that the long-term meditator may eventually generally find substances to be net disruptive, but possibly not, given aspects of "final ground state."
+
+Again, I personally don't use, haven't used, and don't intend to use psychedelics or other substances (really, truly). And/but also, it's presumably not the end of the world if you do. And, also, don't do anything illegal, etc., etc. And, all that being said, a subset of people that I regularly interact with do systematically, regularly, or intermittently use mind-altering substances.
+
 
 
 ### getting triggered, usefulness and risks:
