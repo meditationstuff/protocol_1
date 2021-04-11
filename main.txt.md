@@ -7369,7 +7369,7 @@ But so few people seem to really get this “pixel perfect rainbow” thing, and
 
 
 
-guided on-ramp for main practice p2: [draft]
+### guided on-ramp for main practice p2: [draft]
 
 (a) let bodymind wander [baseline, glue that can hold it all together] 30s-5 min
 
@@ -7383,20 +7383,18 @@ guided on-ramp for main practice p2: [draft]
 
 (f) if notice that you could stop something “bad” from starting, gently try [ok if bodymind does it for you], if you find you can’t, just be like “alright, that’s ok” and gently take foot off trying gas completely 30s-5 min
 
-(g) now patiently, slowly interleave (a)-(f) in a single practice, as you are so moved or as salience changes 30s-5min
+(g) if there’s something that you want to be different, and it’s good/safe/ok to do the following, try gently directly inclining, willing, intending towards that desired difference to be actualized. if anything feels gummy, jammy, bad, forced then gently take foot off trying gas completely.
 
-(h) meta protocol
+(h) explore deliberate or participatory surrender, acceptance, letting go, somewhat as per (a)
 
-(j) if there’s something that you want to be different, and it’s good/safe/ok to do the following, try gently directly inclining, willing, intending towards that desired difference to be actualized. if anything feels gummy, jammy, bad, forced then gently take foot off trying gas completely.
-
-[(k) explore deliberate or participatory surrender, acceptance, letting go, somewhat as per (a)]
+(i) now patiently, slowly interleave (a)-(f) in a single practice, as you are so moved or as salience changes 30s-5min
 
 
 Notes:
 
-(*) "logical closure: if good maintain or start; if bad stop or prevent"
-(*) note that it's "bad" not bad (without the quotes)
-
+* "logical closure: if good maintain or start; if bad stop or prevent"
+* note that it's "bad" not bad (without the quotes)
+* future-proofing: "take your foot off the gas" refers to the automobile gas pedal, an analog intensity/degree/aggregate/recruitment/flux control... [it's an imperfect metaphor]
 
 
 ### pith instructions (experimental):
