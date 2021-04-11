@@ -16,6 +16,26 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 
 ### Quick Start Guide
 
+(There is also a full table of contents, if you keep scrolling for a while.)
+
+**Who is this document for?**
+
+This document is for people are curious about, serious about (and anything in between) *very long-term, goal-oriented meditation*, as in years and a lifetime. (And “goal-oriented” includes “no goal” and/or radical, self-determined, open-ended provisionality!) 
+
+(So, this document is intended to comprehensively support both complete beginners and “maximally advanced” meditators.)
+
+To get a sense of timescale, working with the practices in this document can be risky for approximately the first 10,000 hours or so, give or take a few thousand hours. (That’s ten thousand hours, 10k hours.)
+
+(Do see the sections links, below, for more about risks.)
+
+If meditating “full time” or “full time plus,” ~10,000 hours takes something like three to seven years. If meditating an hour a day, ~10,000 hours takes about twenty years.
+
+(Note! Sort of like how a weightlifter can’t get very strong by lifting weights for a week straight, night and day, without breaks, one can’t just *choose* to meditate “full time plus.” “Maximum available meditation hours” follows a natural, personal rhythm, which is sometimes “five minutes per day.” It’s more about how much someone is able to, or choosing to, prioritize meditation in their life, over other things, when potential meditation hours become “endogenously available.” “Full time plus” might look like lots of long walks and lots of sleep.)
+
+It’s ok to noncommitally play with (or use à la carte) the practices in this document, or to circle back to this document, on and off, or to use this document as an intermittent touchstone/umbrella/index, while exploring lots of other things. Just know that this still carries risks! There’s an apocryphal saying, “Better not to start; if you start, better to finish.” If one is dabbling, experimenting, tinkering (and there’s nothing wrong with that), one has to be careful, as best they can, to not “start” if one doesn’t intend to start, or one isn’t yet ready to start. (Of course, some people have aleady “started,” long ago, etc., etc.)
+
+\*\*\*
+
 [Eventually this section (and the full table of contents) will be hyperlinked. For now, Control-F/Command-F and search for the section titles.]
 
 * **What's new?**
@@ -32,8 +52,9 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 		* document-level meta-warning
 		* epistemic status disclaimer
 		* but what actually makes it risky?; how do risks obtain, when they do? [section doesn't exist yet]
-* **What's the theoretical, metaphysical, ideological, sectarian, soteriological basis of this kind of meditation?**
+* **What's the theoretical, metaphysical, ideological, sectarian, opinionated, telic, soteriological basis of this kind of meditation?**
 	* *See these sections:*
+		* introduction; getting over the hump; text interpretation [suggested below as well]
 		* an exoteric doctrine: (v0.2)
 		* goal
 		* end state
@@ -57,97 +78,8 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 * **How do I use this document? Also, is the above sort of "everything"? No! This just scratches the surface!**
 	* (After you read about risks, warnings, cautions, etc., do jump around in the document as per your interest.)
 	* *See these sections:*
-		* introduction; getting over the hump; text interpretation
+		* introduction; getting over the hump; text interpretation [suggested above as well]
 		* full table of contents
-
-
-
-
-### Formatting and Reformatting Note:
-
-This document exists, not just currently in a work-in-progress state, but also in a (perpetual?) "mixed state" between plaintext (txt) and markdown (md) formatting. Some sections are fully converted to markdown and others, especially "stubs" tend to be plaintext. If you find a, small or large, line or block of text that, at first glance, seems to be "nonsensically (all) mashed together," this could especially still be a plaintext section, but not necessarily! The way this document is written, and given its draft state, it's sometimes hard to tell. (-: Section headers that aren't enlarged and bolded are also a solid clue that that section hasn't been reformatted yet. **Recommended:** You can always switch from a markdown- or html-formatted version, to the "raw" file behind that version, to maybe see better formatting. Plaintext is always "canonical," in part because markdown is intended to fail gracefully to plaintext. Finally, you might also find clues to authorial intent in the reformatting progress tracker, here:
-
-https://docs.google.com/spreadsheets/d/1BKk7apnCxrOzcqOSKkslcXcxB0miLa-jrvcy_FGRwiw/
-
- (Public comments and nudges to reformat a section, sooner rather than later, are welcome, in the spreadsheet.)
-
- Note the "raw" button up and to the right on any markdown formatted page: At this stage, for a sometimes-cleaner reading experience, you might save the plaintext version to a local rich text file, change the whole document to the font (and font size) of your choice, and then output that text file as a pdf (or at least resize your document window, make the window narrower, to take advantage of automatic word wrapping). It may *still* be hard to read, but less so, and you won't have to be worry about accidentally editing something. (If you do accidentally edit something, you can always download the file again.)
-
-Eventually this document will be formatted nicely, but it's easier, for me, to edit the document as a simple text file--and that does mean faster content updates. Things are still very optimized for creation rather than distribution. But the material can still be effectively consumed with some front-loaded effort (and people are doing so).
-
-(There is decent plaintext formatting consistency, though it's not perfect: Three blank lines are used for major section breaks. Two blank lines are used for minor section breaks. Line-terminating colons signify headers.)
-
-In the file, there are *two* tables of contents that make use of tab indents (one brief, one expanded). Once you get used to visually parsing them, you can then work to understand the structure and intent of the whole document. And, it will be easier to navigate the document by returning repeatedly to the table of contents and then searching for the table of contents headers in the body of the document.
-
-Formatting withstanding, the document is a continually updated draft. The prose is sometimes messy, unedited, or barely prose. But, above the prose level, the document is highly structured. Use that structure to make engaging with the content level easier.
-
-Right now, for better or worse, the presentation of the material is a barrier to entry. But that won't be the case in the future.
-
-
-
-### ***Document-level meta-warning:***
-
-[meta-meta note: I want to acknowledge that this document is sort of accumulating warning after warning, which are sort of epicycles on epicycles on epicycles at this point. They’re responding to a twist in the document. And that twist needs to be eventually be untwisted. There’s like (a) an absence or a “not” that needs to be rotated around into (b) a “presence“--from "not this" to "yes that." From FUD to concretes.]
-
-Some things are "totalizing memetic objects." (I may be using that quoted phrase in an idiosyncratic way!) A totalizing memetic object sort of purports to legitimately be about, or say things about "everything." "Everything" could be "reality," or "all of reality," or "everything that exists," "how the future will go," "the world," and stuff like that. There's also things that are "relatively more totalizing" than other things, because they say things about real or illusory "things that touch a lot of other things" or "things that have a lot of implications for other things." Examples in this category could be "minds," "truth," "goodness," "personhood," and things like that.
-
-Here's a couple ways a (relatively) totalizing memetic object works: It might say compact, explicit things like this: "X is A, or X is B, or X is C, and nothing else." In that example, in so many words, it says that X could be three things and those three things are exhaustive. The "and nothing else" does a lot of work. "And nothing else" can be stated explicitly, as above, or it can implied or hinted at, intentionally or unintentionally, reflectively or unreflectively. Another thing about the above is that the mutual exclusivity of A, B, and C (and nothing else) make the assertion "tidy," and/or "explanatorily elegant." Elegant things can be sticky or attractive; they can kind "sink in," sometimes at least a little bit, whether a person wants them to or not, whether a person realizes it or not, at least at first. (This last sentence is possibly an example of "FUD," which will be described below.)
-
-Another way a totalizing memetic object can work is just by being very long and (at least seemingly) comprehensive. This has some of the effects like the above; a long document can lead to an experience of elegance "on the far side of complexity," and a long document, because it's so long, can lull someone into an experience of "this is everything."
-
-The end result is that something might be (at least temporarily) more salient, or mentally or behaviorally, effecting in a person's life than they would retrospectively choose.
-
-There's sometimes a second component to totalizing memetic objects, which is "Fear Uncertainty Doubt" (sometimes abbreviated or initialized as FUD). FUD is sometimes a non-specific warning about possible bad outcomes, or vague information that vaguely might imply possible bad outcomes. The nonspecificity and vagueness are very important because they then a person is affected in broader ways. Someone who has been subjected to FUD sometimes experience a chilling effect on experimentation, play, joy, and so on, because, reflectively or unreflectively, they're are a bit more inclined towards vigilance and caution, for better or worse, justifiedly or unjustifiedly.
-
-Further, FUD doesn't even have to have language like "you might not realize it" or "you might not be able to tell," but language like that can be particularly (self-)undermining, cf. "uncertainty" and "doubt." A person might question themselves more in unproductive ways or be more receptive to authoritative claims, helpful or not. As above, it can cause a person to reduce their behavioral repetoire, including in the space of assertiveness, self-care, and self-regulation.
-
-An alternative to FUD, is supplying mechanistic models, as precisely as possible, of *how* some things can sometimes lead to specific possibly bad outcomes, for some people, some of the time, as well as an explicit weighing of risks versus benefits, ways in which one might address risks and uncertainties, e.g. *how* someone might be "better able to tell," and possibly a list of graded alternatives that carry less risk.
-
-Now, currently, as a work-in-progress, this document is long, sometimes elegant, sometimes comprehensive, and arguably has lots of information that shades into FUD. I currently think, especially now "called out," the arguable FUD may be pretty easy to spot, in the large and in the small. (And the charitable angle is what could be taken as FUD are comprehensive and even-handed cautions and *highly* pragmatic nuance! And this was ever always generally the intent! But I still don't do a good enough job at being specific and mechanistic, and more.)
-
-The other totalizing aspects might be a little harder to spot. For example, I say it's ok to put down the document and come back to it later, that it's part of the practice, sometimes, to not be doing the practice and to not think about the practice. Now, this is intended, in part, to encourage someone to have "nonjudgmental spaciousness" and patience around the practice. But, for some people, this could be experienced as totalizing: There's practicing and not practicing--nothing's logically left out! And even not practicing is practicing! There's no escape! Or it can be uncomfortably felt that way, for some people, after engaging with the document. That's one example. There's a lesser thing, which is suggesting options: "this or not this or even this other thing, are all ok." Again, this is intended to encourage someone to hold everything loosely, provisionally, experimentally. But, sometimes, it could feel claustrophobic.
-
-Generally, when someone or something linguistically/verbally refers to *you*, to your attributes, your affordances, your choices, it's sort of "nonnatively packaging you and handing yourself back to you," and this can be subtly, loopily problematic, depending on the person in question, word choice, content, and so on. This is a possible side effect, any time language is used.
-
-In some ways, this whole document is actually about mitigating or skillfully handling, over time, the effects of linguistic packaging and (totalizing or non-totalizing) memetic objects. Suffice it to say, here, something that might be helpful on the front-end is inclining towards noticing when something might be "sinking in" in a problematic way, and then pausing and patiently keeping that company, then and there, perhaps neither pushing the experience away nor... [sic]
-
-Even though this section itself could serve as yet more "totalizing-ness" and especially "FUD fodder," after all, a collaborator noted the title of the section includes the word "warning," and it didn't necessarily have to, and here I am being stubborn and keeping it, at least in this draft, I hope this section serves to give a bit of a "reflectively constructive" frame for engaging with this document. A better, future thing may be hunt for vagueness or lack of qualifying/hedging in key places the document. Additionally, it may be possible reframe whole sections "positively" or "optimistically" in way that sacrifices no underlying content, intent, or nuance whatsoever.
-
-Also, not mentioned above, the "vibe" of a document will be reflective of "the whole state of the author" when they were writing (which can change over the course of along writing project). And that vibe can definitely be a little contagious to readers, for some people some of the time. As you might imagine, as you engage with some sections below, I did do some writing--well, you'll see. It's a work in progress. In some places more than others, especially in the meditation instruction proper, I've done my best-so-far, to use precise, general, language that is "uncontaminated" with my vibe--but of course that'll have it's own particular vibe, for better and worse! In any case, as you'll see throughout many sections below, after the philosopher Eugene Gendlin, among many other things, the document, as a living work in progress, is offered in a "multischematic and interschematizable" spirit.
-
-\*
-
-a collaborator comments:
-
-"I actually had a conversation recently with a friend as we re-read a year-old doc of his that had a warning at the start, about how the tone of a warning can have a kind of infantilizing effect, and we talked about your protocol as one example of that  
-[…]  
-ummm and I would say the new meta-warning sort of helps with that but it’s also sort of still committing the same thing, which it tries noting, but ugh ugh ugh"  
-
-
-a collaborator comments:
-
-"I think the stuff you added [the "document-level meta-warning"] helps me understand a little bit more about what you are getting at with the later warnings. It almost gives off the impression that you are second-guessing yourself whether you would be reckless to put such information into just any old person’s hands, somehow you give off the impression that these methods are incredibly powerful, but also maybe no big deal all at once. It’s an interesting sort of ambivalence, like, “here is this stuff that might really affect you and I want to warn you somehow so that I feel less responsibility for this and get it off my chest.” I admit I didn’t really get what the big fuss was about in the FUD sections you mention, which we talked about once. I get them a little better now after reading […]. The bureaucratic language that […] mentions about “don’t do if you reside with anyone under age 18...” etc. did also seem a both boilerplate-y and overwrought to me, but keep in mind I have very little experience, so my reaction to that is only interesting insofar as understanding how it might read to an uninitiated person, not to be taken as informed opinion."
-
-
-an out-of-context, somewhat revised and extended reply of mine:
-
-"[...] The meta-warning (and other warnings) are here to sort of speak to a very large spectrum of readers. One person did mention to me that the document was having a bit of the "totalizing" effect on them (which is not to say that adding the meta-warning necessarily, successfully cancels that effect!). And, a couple people have mentioned some similar effects the first time they encountered some of the practices below. Additionally, the unqualified warnings further down are a too-general way of protecting me from too many people (and protecting them, too!!) who are at least just slightly over on the side of 'shouldn't be engaging in the practices without support,' from reaching out and overwhelming my available time. Long-run, the warnings and risk discussions should be more nuanced, qualified, and backed up by data or representative anecdotes. (Though, there will be design decisions there, too, around thoroughness versus people skipping them because of length!) It’s almost like in a world where/when there is a very, very large community of practice and support one might soften these warnings. Right now, it's not necessarily the right tradeoffs, or the right evolution of tradeoffs in the right order, in how I present the material, but they are my best attempt at each update to the document. Some people skim the warnings and kind of get that that's what they're for, and/or they feel robust and well-resourced, with prior experience, and they proceed anyway. And some people have told me that they've read the warnings and, for better and worse, stopped reading. And, some people have read the warnings and then proceeded cautiously in both good ways and maybe not-so-good ways. And, some people have read the warnings and have reached out with really good questions about their personal situation. This mix of responses may not be god's-eye-view ideal, or in the right ratios, but it feels kind of ok, first pass. I do revisit concerns about both false positives and false negatives, a lot, though, as we learn more and more and as people supply critique and feedback!"
-
-
-a collaborator comments:
-
-"something something clicking for me about ways my actions within [public facing organization] became much more sane-seeming to collaborators once I was like '[hey], I am doing this because my personal reputation is on the line' or 'because if we don’t do this before [publication], people will storm/swamp me personally about this [...] and empathizing with you-as-document-author in these tradeoffs much better now'"
-
-
-another note by me:
-
-The verbose nuance, and many qualifiers, and qualifiers on qualifiers, and long introductions in the document can potentially impact readability. But the goal is sort of not to just obviate myself as an in-person teacher, but to err on the side of too much nuance, and too much information, to *thoroughly* obviate myself. I'd like there to be a big, thriving, supportive community across time, but I'd also like isolated people, where it catches their eye, and they're really willing to dig in and to digest (as a bunch of people have, so far!), to be able to pick this up and de novo use it to train and to even form a community and become a teacher/mentor/etc. without ever having interacted with me personally, if they would like, on their own terms. And that could be contemporaneously or one thousand years in the future, and so on. (Of course, many things will be different, in the future!) Note: All this being said about obviating myself, at this stage of the game, do please reach out, if you have questions!
-
-
-
-### ***Epistemic status disclaimer:***
-
-I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a small [though steadily growing, now] additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
 
 
 
@@ -174,98 +106,36 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 
 
-risks; maximally cautious warnings/directives (first-pass, without explanation):
-
-1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
-1. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
-1. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
-1. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
-1. If you have metabolic or cardiovascular disease such that a prolonged, inadvertent sedentary lifestyle (no exercise because of musculoskeletal sequelae) would be dangerous, then you should engage with these practices with caution.
-1. If your immune system is under- or overactive, then you should engage with these practices with caution.
-1. If you have experienced abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
-1. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner that you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
-1. You have to judge whether you have net enough money, food, shelter, social/relationship capital, "opportunity cost slack" to proceed. Ideally, a person either has "truly nothing to lose" or they have ample resources to last them three to seven years (just in case).
-
-
-
-
-an exoteric doctrine: (v0.2)
-
-[Note, immediately below, it might seems like "nebulosity" or "emptiness" isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase.]
-
-Objective and singular truth exists (and/or objective reality exists and objective truth corresponds to it).
-
-Objective and singular goodness(/ethics/morality) exists.
-
-The human mind is typically confused, uncertain, and ignorant. (Or, a typical person is…)
-
-Nevertheless, we can know typically error-prone approximations of that objective truth and we can know/do approximations of that objective goodness.
-
-Further, the human mind is asymptotically perfectible. That is, we can become better people in a practically unlimited way, all things being equal.
-
-???There are more worse ways than better ways to interact with oneself and others.
-
-In any moment you are the final arbiter of what’s true and good. You have to trust yourself while also being open to being wrong. This is hard but can get easier. [Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated): Do what thou wilt, that is the whole of the law. Love under will. (or something)]
-
-It’s possible to do more harm than good when trying or intending to do good and become better. (Also, you are the final arbiter of what’s better.)
-
-Using systematic (albeit self-adapted) method is often or at least sometimes a good way to improve one’s approximations of truth and goodness. Stated alternatively, we can systematically seek to get the things we want and we can systematically come have better wants (want better things).
-
-Some methods are better than others, depending on what you’re trying to do, such as knowing and doing better.
-
-We want what we want until we want something else, and it’s ok or good to want what we want for as long as we want it.
-
-Perhaps evil or malevolence is objective but things are only bad relative to your skill, power, and knowledge. Perfectibility (asymptotically) includes solving all your problems on your terms, in your words, until there is nothing left that is bad.
-
-You might not feel good and safe all the time, but it’s good to want to feel good and safe, and it’s good to seek to stably feel good and safe or to feel good and safe as much as possible.
-
-Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to Inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
-
-You might get hit by a bus or meteor or your cryo chamber might run out of geopolitics or something. But, it’s possible to have a good life, anyway, and it’s possible to impeccably work to reduce the chances of such bad things while having a good, complete, rich, full, life.
-
-Most people will probably be happier striving for and maintaining a stable romantic pair-bond and having one or more kids.
-
-Love properly labeled and defined is probably a uniquely important thing.
-
-Some truths are exceptionless/universal and eternal or sempiternal or timeless or outside-of-time or something. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
-
-Progress is often multidimensionally nonmonotonic.
-
-These are just words. This is just your interpretation of these words. Are there even words? You can’t know anything for sure; and that can be ok, with application of method or just because. There are more precise and accurate and deeper and more correct ways ways to say all the above.
-More and more and more of everyone may come together to do good things that we couldn’t do alone.
-Sometimes, an edgy joke should go here.
-Let go…
-
-
-
 ### Full Table of Contents:
 
-* version and working title
+* working title
 * byline
 * credits
 * copyright
 * quick start guide
-* formatting and reformatting note
-* brief contents
-* document-level meta-warning
-* epistemic status disclaimer
+	* who is this document for?
 * funding
 * author web presence
 * canonical location of this document
 * alternative versions
-* risks; maximally cautious warnings/directives (first-pass, without explanation)
-* an exoteric doctrine v0.2
 * full table of contents
-* introduction; getting over the hump; text interpretation
-* goal
-* end state
-* no fixed conceptualized goal or end state part one ("goodness")
-* no fixed conceptualized goal or end state part two ("better")
-* meditation is concrete problem solving
-* wellbeing and sacrifice
-* ok-ness and cosmology
-* seamless hyphenation [draft]
-* other practices
+* preliminary and introductory things
+	* formatting and reformatting note
+	* document-level meta-warning
+	* epistemic status disclaimer
+	* risks; maximally cautious warnings/directives (first-pass, without explanation)
+	* an exoteric doctrine v0.2
+	* introduction; getting over the hump; text interpretation
+* opinionated, telic, soteriological things
+	* goal
+	* end state
+	* no fixed conceptualized goal or end state part one ("goodness")
+	* no fixed conceptualized goal or end state part two ("better")
+	* meditation is concrete problem solving
+	* wellbeing and sacrifice
+	* ok-ness and cosmology
+	* seamless hyphenation [draft]
+	* other practices
 * culture and community
 	* an orienting model; layers and tangles; from "parts" to people to groups
 		* part X: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture
@@ -432,7 +302,162 @@ Let go…
 
 
 
-introduction; getting over the hump; text interpretation:
+### preliminary and introductory things:
+
+
+
+### Formatting and Reformatting Note:
+
+This document exists, not just currently in a work-in-progress state, but also in a (perpetual?) "mixed state" between plaintext (txt) and markdown (md) formatting. Some sections are fully converted to markdown and others, especially "stubs" tend to be plaintext. If you find a, small or large, line or block of text that, at first glance, seems to be "nonsensically (all) mashed together," this could especially still be a plaintext section, but not necessarily! The way this document is written, and given its draft state, it's sometimes hard to tell. (-: Section headers that aren't enlarged and bolded are also a solid clue that that section hasn't been reformatted yet. **Recommended:** You can always switch from a markdown- or html-formatted version, to the "raw" file behind that version, to maybe see better formatting. Plaintext is always "canonical," in part because markdown is intended to fail gracefully to plaintext. Finally, you might also find clues to authorial intent in the reformatting progress tracker, here:
+
+https://docs.google.com/spreadsheets/d/1BKk7apnCxrOzcqOSKkslcXcxB0miLa-jrvcy_FGRwiw/
+
+ (Public comments and nudges to reformat a section, sooner rather than later, are welcome, in the spreadsheet.)
+
+ Note the "raw" button up and to the right on any markdown formatted page: At this stage, for a sometimes-cleaner reading experience, you might save the plaintext version to a local rich text file, change the whole document to the font (and font size) of your choice, and then output that text file as a pdf (or at least resize your document window, make the window narrower, to take advantage of automatic word wrapping). It may *still* be hard to read, but less so, and you won't have to be worry about accidentally editing something. (If you do accidentally edit something, you can always download the file again.)
+
+Eventually this document will be formatted nicely, but it's easier, for me, to edit the document as a simple text file--and that does mean faster content updates. Things are still very optimized for creation rather than distribution. But the material can still be effectively consumed with some front-loaded effort (and people are doing so).
+
+(There is decent plaintext formatting consistency, though it's not perfect: Three blank lines are used for major section breaks. Two blank lines are used for minor section breaks. Line-terminating colons signify headers.)
+
+In the file, there are *two* tables of contents that make use of tab indents (one brief, one expanded). Once you get used to visually parsing them, you can then work to understand the structure and intent of the whole document. And, it will be easier to navigate the document by returning repeatedly to the table of contents and then searching for the table of contents headers in the body of the document.
+
+Formatting withstanding, the document is a continually updated draft. The prose is sometimes messy, unedited, or barely prose. But, above the prose level, the document is highly structured. Use that structure to make engaging with the content level easier.
+
+Right now, for better or worse, the presentation of the material is a barrier to entry. But that won't be the case in the future.
+
+
+
+### ***Document-level meta-warning:***
+
+[meta-meta note: I want to acknowledge that this document is sort of accumulating warning after warning, which are sort of epicycles on epicycles on epicycles at this point. They’re responding to a twist in the document. And that twist needs to be eventually be untwisted. There’s like (a) an absence or a “not” that needs to be rotated around into (b) a “presence“--from "not this" to "yes that." From FUD to concretes.]
+
+Some things are "totalizing memetic objects." (I may be using that quoted phrase in an idiosyncratic way!) A totalizing memetic object sort of purports to legitimately be about, or say things about "everything." "Everything" could be "reality," or "all of reality," or "everything that exists," "how the future will go," "the world," and stuff like that. There's also things that are "relatively more totalizing" than other things, because they say things about real or illusory "things that touch a lot of other things" or "things that have a lot of implications for other things." Examples in this category could be "minds," "truth," "goodness," "personhood," and things like that.
+
+Here's a couple ways a (relatively) totalizing memetic object works: It might say compact, explicit things like this: "X is A, or X is B, or X is C, and nothing else." In that example, in so many words, it says that X could be three things and those three things are exhaustive. The "and nothing else" does a lot of work. "And nothing else" can be stated explicitly, as above, or it can implied or hinted at, intentionally or unintentionally, reflectively or unreflectively. Another thing about the above is that the mutual exclusivity of A, B, and C (and nothing else) make the assertion "tidy," and/or "explanatorily elegant." Elegant things can be sticky or attractive; they can kind "sink in," sometimes at least a little bit, whether a person wants them to or not, whether a person realizes it or not, at least at first. (This last sentence is possibly an example of "FUD," which will be described below.)
+
+Another way a totalizing memetic object can work is just by being very long and (at least seemingly) comprehensive. This has some of the effects like the above; a long document can lead to an experience of elegance "on the far side of complexity," and a long document, because it's so long, can lull someone into an experience of "this is everything."
+
+The end result is that something might be (at least temporarily) more salient, or mentally or behaviorally, effecting in a person's life than they would retrospectively choose.
+
+There's sometimes a second component to totalizing memetic objects, which is "Fear Uncertainty Doubt" (sometimes abbreviated or initialized as FUD). FUD is sometimes a non-specific warning about possible bad outcomes, or vague information that vaguely might imply possible bad outcomes. The nonspecificity and vagueness are very important because they then a person is affected in broader ways. Someone who has been subjected to FUD sometimes experience a chilling effect on experimentation, play, joy, and so on, because, reflectively or unreflectively, they're are a bit more inclined towards vigilance and caution, for better or worse, justifiedly or unjustifiedly.
+
+Further, FUD doesn't even have to have language like "you might not realize it" or "you might not be able to tell," but language like that can be particularly (self-)undermining, cf. "uncertainty" and "doubt." A person might question themselves more in unproductive ways or be more receptive to authoritative claims, helpful or not. As above, it can cause a person to reduce their behavioral repetoire, including in the space of assertiveness, self-care, and self-regulation.
+
+An alternative to FUD, is supplying mechanistic models, as precisely as possible, of *how* some things can sometimes lead to specific possibly bad outcomes, for some people, some of the time, as well as an explicit weighing of risks versus benefits, ways in which one might address risks and uncertainties, e.g. *how* someone might be "better able to tell," and possibly a list of graded alternatives that carry less risk.
+
+Now, currently, as a work-in-progress, this document is long, sometimes elegant, sometimes comprehensive, and arguably has lots of information that shades into FUD. I currently think, especially now "called out," the arguable FUD may be pretty easy to spot, in the large and in the small. (And the charitable angle is what could be taken as FUD are comprehensive and even-handed cautions and *highly* pragmatic nuance! And this was ever always generally the intent! But I still don't do a good enough job at being specific and mechanistic, and more.)
+
+The other totalizing aspects might be a little harder to spot. For example, I say it's ok to put down the document and come back to it later, that it's part of the practice, sometimes, to not be doing the practice and to not think about the practice. Now, this is intended, in part, to encourage someone to have "nonjudgmental spaciousness" and patience around the practice. But, for some people, this could be experienced as totalizing: There's practicing and not practicing--nothing's logically left out! And even not practicing is practicing! There's no escape! Or it can be uncomfortably felt that way, for some people, after engaging with the document. That's one example. There's a lesser thing, which is suggesting options: "this or not this or even this other thing, are all ok." Again, this is intended to encourage someone to hold everything loosely, provisionally, experimentally. But, sometimes, it could feel claustrophobic.
+
+Generally, when someone or something linguistically/verbally refers to *you*, to your attributes, your affordances, your choices, it's sort of "nonnatively packaging you and handing yourself back to you," and this can be subtly, loopily problematic, depending on the person in question, word choice, content, and so on. This is a possible side effect, any time language is used.
+
+In some ways, this whole document is actually about mitigating or skillfully handling, over time, the effects of linguistic packaging and (totalizing or non-totalizing) memetic objects. Suffice it to say, here, something that might be helpful on the front-end is inclining towards noticing when something might be "sinking in" in a problematic way, and then pausing and patiently keeping that company, then and there, perhaps neither pushing the experience away nor... [sic]
+
+Even though this section itself could serve as yet more "totalizing-ness" and especially "FUD fodder," after all, a collaborator noted the title of the section includes the word "warning," and it didn't necessarily have to, and here I am being stubborn and keeping it, at least in this draft, I hope this section serves to give a bit of a "reflectively constructive" frame for engaging with this document. A better, future thing may be hunt for vagueness or lack of qualifying/hedging in key places the document. Additionally, it may be possible reframe whole sections "positively" or "optimistically" in way that sacrifices no underlying content, intent, or nuance whatsoever.
+
+Also, not mentioned above, the "vibe" of a document will be reflective of "the whole state of the author" when they were writing (which can change over the course of along writing project). And that vibe can definitely be a little contagious to readers, for some people some of the time. As you might imagine, as you engage with some sections below, I did do some writing--well, you'll see. It's a work in progress. In some places more than others, especially in the meditation instruction proper, I've done my best-so-far, to use precise, general, language that is "uncontaminated" with my vibe--but of course that'll have it's own particular vibe, for better and worse! In any case, as you'll see throughout many sections below, after the philosopher Eugene Gendlin, among many other things, the document, as a living work in progress, is offered in a "multischematic and interschematizable" spirit.
+
+\*
+
+a collaborator comments:
+
+"I actually had a conversation recently with a friend as we re-read a year-old doc of his that had a warning at the start, about how the tone of a warning can have a kind of infantilizing effect, and we talked about your protocol as one example of that  
+[…]  
+ummm and I would say the new meta-warning sort of helps with that but it’s also sort of still committing the same thing, which it tries noting, but ugh ugh ugh"  
+
+
+a collaborator comments:
+
+"I think the stuff you added [the "document-level meta-warning"] helps me understand a little bit more about what you are getting at with the later warnings. It almost gives off the impression that you are second-guessing yourself whether you would be reckless to put such information into just any old person’s hands, somehow you give off the impression that these methods are incredibly powerful, but also maybe no big deal all at once. It’s an interesting sort of ambivalence, like, “here is this stuff that might really affect you and I want to warn you somehow so that I feel less responsibility for this and get it off my chest.” I admit I didn’t really get what the big fuss was about in the FUD sections you mention, which we talked about once. I get them a little better now after reading […]. The bureaucratic language that […] mentions about “don’t do if you reside with anyone under age 18...” etc. did also seem a both boilerplate-y and overwrought to me, but keep in mind I have very little experience, so my reaction to that is only interesting insofar as understanding how it might read to an uninitiated person, not to be taken as informed opinion."
+
+
+an out-of-context, somewhat revised and extended reply of mine:
+
+"[...] The meta-warning (and other warnings) are here to sort of speak to a very large spectrum of readers. One person did mention to me that the document was having a bit of the "totalizing" effect on them (which is not to say that adding the meta-warning necessarily, successfully cancels that effect!). And, a couple people have mentioned some similar effects the first time they encountered some of the practices below. Additionally, the unqualified warnings further down are a too-general way of protecting me from too many people (and protecting them, too!!) who are at least just slightly over on the side of 'shouldn't be engaging in the practices without support,' from reaching out and overwhelming my available time. Long-run, the warnings and risk discussions should be more nuanced, qualified, and backed up by data or representative anecdotes. (Though, there will be design decisions there, too, around thoroughness versus people skipping them because of length!) It’s almost like in a world where/when there is a very, very large community of practice and support one might soften these warnings. Right now, it's not necessarily the right tradeoffs, or the right evolution of tradeoffs in the right order, in how I present the material, but they are my best attempt at each update to the document. Some people skim the warnings and kind of get that that's what they're for, and/or they feel robust and well-resourced, with prior experience, and they proceed anyway. And some people have told me that they've read the warnings and, for better and worse, stopped reading. And, some people have read the warnings and then proceeded cautiously in both good ways and maybe not-so-good ways. And, some people have read the warnings and have reached out with really good questions about their personal situation. This mix of responses may not be god's-eye-view ideal, or in the right ratios, but it feels kind of ok, first pass. I do revisit concerns about both false positives and false negatives, a lot, though, as we learn more and more and as people supply critique and feedback!"
+
+
+a collaborator comments:
+
+"something something clicking for me about ways my actions within [public facing organization] became much more sane-seeming to collaborators once I was like '[hey], I am doing this because my personal reputation is on the line' or 'because if we don’t do this before [publication], people will storm/swamp me personally about this [...] and empathizing with you-as-document-author in these tradeoffs much better now'"
+
+
+another note by me:
+
+The verbose nuance, and many qualifiers, and qualifiers on qualifiers, and long introductions in the document can potentially impact readability. But the goal is sort of not to just obviate myself as an in-person teacher, but to err on the side of too much nuance, and too much information, to *thoroughly* obviate myself. I'd like there to be a big, thriving, supportive community across time, but I'd also like isolated people, where it catches their eye, and they're really willing to dig in and to digest (as a bunch of people have, so far!), to be able to pick this up and de novo use it to train and to even form a community and become a teacher/mentor/etc. without ever having interacted with me personally, if they would like, on their own terms. And that could be contemporaneously or one thousand years in the future, and so on. (Of course, many things will be different, in the future!) Note: All this being said about obviating myself, at this stage of the game, do please reach out, if you have questions!
+
+
+
+### ***Epistemic status disclaimer:***
+
+I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a small [though steadily growing, now] additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
+
+
+
+### risks; maximally cautious warnings/directives (first-pass, without explanation):
+
+1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
+1. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
+1. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
+1. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
+1. If you have metabolic or cardiovascular disease such that a prolonged, inadvertent sedentary lifestyle (no exercise because of musculoskeletal sequelae) would be dangerous, then you should engage with these practices with caution.
+1. If your immune system is under- or overactive, then you should engage with these practices with caution.
+1. If you have experienced abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
+1. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner that you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
+1. You have to judge whether you have net enough money, food, shelter, social/relationship capital, "opportunity cost slack" to proceed. Ideally, a person either has "truly nothing to lose" or they have ample resources to last them three to seven years (just in case).
+
+
+
+### an exoteric doctrine: (v0.2)
+
+[Note, immediately below, it might seems like "nebulosity" or "emptiness" isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase.]
+
+Objective and singular truth exists (and/or objective reality exists and objective truth corresponds to it).
+
+Objective and singular goodness(/ethics/morality) exists.
+
+The human mind is typically confused, uncertain, and ignorant. (Or, a typical person is…)
+
+Nevertheless, we can know typically error-prone approximations of that objective truth and we can know/do approximations of that objective goodness.
+
+Further, the human mind is asymptotically perfectible. That is, we can become better people in a practically unlimited way, all things being equal.
+
+???There are more worse ways than better ways to interact with oneself and others.
+
+In any moment you are the final arbiter of what’s true and good. You have to trust yourself while also being open to being wrong. This is hard but can get easier. [Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated): Do what thou wilt, that is the whole of the law. Love under will. (or something)]
+
+It’s possible to do more harm than good when trying or intending to do good and become better. (Also, you are the final arbiter of what’s better.)
+
+Using systematic (albeit self-adapted) method is often or at least sometimes a good way to improve one’s approximations of truth and goodness. Stated alternatively, we can systematically seek to get the things we want and we can systematically come have better wants (want better things).
+
+Some methods are better than others, depending on what you’re trying to do, such as knowing and doing better.
+
+We want what we want until we want something else, and it’s ok or good to want what we want for as long as we want it.
+
+Perhaps evil or malevolence is objective but things are only bad relative to your skill, power, and knowledge. Perfectibility (asymptotically) includes solving all your problems on your terms, in your words, until there is nothing left that is bad.
+
+You might not feel good and safe all the time, but it’s good to want to feel good and safe, and it’s good to seek to stably feel good and safe or to feel good and safe as much as possible.
+
+Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to Inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
+
+You might get hit by a bus or meteor or your cryo chamber might run out of geopolitics or something. But, it’s possible to have a good life, anyway, and it’s possible to impeccably work to reduce the chances of such bad things while having a good, complete, rich, full, life.
+
+Most people will probably be happier striving for and maintaining a stable romantic pair-bond and having one or more kids.
+
+Love properly labeled and defined is probably a uniquely important thing.
+
+Some truths are exceptionless/universal and eternal or sempiternal or timeless or outside-of-time or something. With correct method, you can know those truths by making use of whatever experiences you’ve already had (because those truths will massively redundantly inhere in those experiences without exception.) Some truths and knowledge of correct/good/moral knowledge/behavior are contingent (or relative to, or contextually dependent on, this world and time and place) and, to obtain them, you’ll need to dispel ignorance, to have experiences, to learn. You’ll be wrong and bad a lot. Also, you are good.
+
+Progress is often multidimensionally nonmonotonic.
+
+These are just words. This is just your interpretation of these words. Are there even words? You can’t know anything for sure; and that can be ok, with application of method or just because. There are more precise and accurate and deeper and more correct ways ways to say all the above.  
+More and more and more of everyone may come together to do good things that we couldn’t do alone.  
+Sometimes, an edgy joke should go here.  
+Let go…  
+
+
+
+### introduction; getting over the hump; text interpretation:
 
 There’s an ongoing project of collecting all the reasons why people bounce off of the document, plus corresponding supplementary information:
 
@@ -448,12 +473,12 @@ There’s an ongoing project of collecting all the reasons why people bounce off
 
 5. My current best estimate is that these practices, even taking into account learning time, achieve various “classical milestones” maybe 1.2x to 2.5x faster than traditional practices (which I think takes somewhere between five and thirty years, of course towards the lower end if all goes smoothly and/or full-time-ly). Maybe. I’m still working this out. And, I expect speed gains and payoffs continue to accrue cumulatively and compoundingly. We shall see. In any case, this does continue to be an investment of thousands of hours. And, some payoffs come late in the game, while some payoffs to occur steadily. And there are still risks to be worked out and improved upon.
 
-*
+\*
 
 A, a collaborator, says:
 
->>>
-My 30 second version for a[n...] introduction is:
+\>\>\>  
+My 30 second version for a[n...] introduction is:  
 
 This document contains meditation instructions, and some things you may want to be aware of before starting or in the middle of a meditative journey.
 
@@ -473,14 +498,19 @@ interpreted correctly on the first n tries
 [...]
 
 
-Might replace "do the thing" with "handle all your concerns, bottom up" or [something like that].
-<<<
+Might replace "do the thing" with "handle all your concerns, bottom up" or [something like that].  
+\<\<\<  
 
 ("Telephone" or "the telephone game" or "Chinese whispers" is game where players whisper a message, from person to the next, until the last person finally says the final received message out loud, and the first person reports the original message. There is almost always a nearly inevitable (and humorous) difference between the first and last message, due to all sorts of possible reasons for successive transmission error.)
 
-*
+\*
 
 I'll finally add that this document aspires to be more and more radically complete, over time. It's already quite comprehensive, along *maybe* all necessary dimensions, but more and more detail and clarity (including cleaner prose and smoother on-ramps) could be added, for a long time. Having an extremely experienced teacher readily available will maybe always be a massive accelerant, but my ideal would be to completely obviate the need for a teacher--I'd like future people to be able to completely reconstruct the practice, and succeed at it, even one thousand years from now (2020), even if the living, person-to-person lineage gets broken, i.e. if everyone using this document dies. That would be sad and likely people would change a lot over one thousand years (cf. biotech and neurotech), but it's likely this material would still be valuable, indirectly or quite directly, just as it is, right now.
+
+
+
+### opinionated, telic, soteriological things:
+
 
 
 goal: (draft)
