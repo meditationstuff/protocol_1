@@ -14,13 +14,51 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 
 
 
-### Quick Start
+### Quick Start Guide
 
-See these sections:
+[Eventually this section (and the full table of contents) will be hyperlinked. For now, Control-F/Command-F and search for the section titles.]
 
-* guided on-ramp for main practice p2 [draft]
-* pith instructions (experimental)
-* a bare-bones, bottom-up, noting-esque practice (without labeling)
+* What's new?
+	See these sections:
+		* formatting and reformatting note
+* How can I immediately get a flavor of what *kind* of meditation this whole document is about?
+	* See these sections:
+		* guided on-ramp for main practice p2 [draft]
+		* pith instructions (experimental)
+		* a bare-bones, bottom-up, noting-esque practice (without labeling)
+* Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.
+	* See these sections:
+		* risks; maximally cautious warnings/directives (first-pass, without explanation)
+		* document-level meta-warning
+		* epistemic status disclaimer
+		* but what actually makes it risky?; how do risks obtain, when they do? [section doesn't exist yet]
+	* What's the theoretical, metaphysical, ideological, sectarian, soteriological basis of this kind of meditation?
+		* an exoteric doctrine: (v0.2)
+		* goal
+		* end state
+		* no fixed conceptualized goal or end state part one ("goodness")
+		* no fixed conceptualized goal or end state part two ("better")
+		* meditation is concrete problem solving
+		* wellbeing and sacrifice
+		* ok-ness and cosmology
+		* seamless hyphenation [draft]
+* What's the "practical core" of the document? What do I actually do?
+	* See these sections:
+		* practice preliminaries (11+ sections)
+		* practice nuts and bolts (17+ sections)
+			* what to do when
+		* top-level practices/categories (some structure is elided, here, for brevity)
+			* meta protocol
+			* preliminary/auxiliary practices (500+ [sic!])
+			* main practices (~10)
+			* creativity/unsticking protocol
+			* “many” protocol (interpersonal practice)
+* How do I use this document? Also, is the above sort of "everything"? No! This just scratches the surface!
+	* (After you read about risks, warnings, cautions, etc., do jump around in the document as per your interest.)
+	See these sections:	
+		* introduction; getting over the hump; text interpretation
+		* full table of contents
+
 
 
 
@@ -43,36 +81,6 @@ In the file, there are *two* tables of contents that make use of tab indents (on
 Formatting withstanding, the document is a continually updated draft. The prose is sometimes messy, unedited, or barely prose. But, above the prose level, the document is highly structured. Use that structure to make engaging with the content level easier.
 
 Right now, for better or worse, the presentation of the material is a barrier to entry. But that won't be the case in the future.
-
-
-
-### Brief/Selected Contents:
-
-* front matter
-	* quick start
-	* formatting and Reformatting note
-	* document-level meta-warning
-	* epistemic status disclaimer
-	* [...]
-	* full contents
-	* [...]
-* introductory material
-	* goal
-	* end state
-	* [...]
-* culture and community
-	* an orienting model [...]
-	* evil
-* practice preliminaries
-* practice
-	* [...]
-	* top-level practices/categories
-		* meta practice
-		* solo practice
-		* creativity/unsticking
-		* interpersonal practice
-* lists and more
-* bibliography
 
 
 
@@ -165,22 +173,18 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 
 
-preamble [draft!]:
+risks; maximally cautious warnings/directives (first-pass, without explanation):
 
-1. Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts.
-2. Remember that, while no one is obligated to give you or help you get these things, you deserve happiness, health, enjoyment, love, sex, family, and more.
-3. Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated): Do what thou wilt, that is the whole of the law. Love under will. (or something)
-4. […]
-5. […]
-6. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
-7. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
-8. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
-9. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
-10. If you have metabolic or cardiovascular disease such that a prolonged, inadvertent sedentary lifestyle (no exercise because of musculoskeletal sequelae) would be dangerous, then you should engage with these practices with caution.
-11. If your immune system is under- or overactive, then you should engage with these practices with caution.
-12. If you have experience abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
-13. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner that you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
-14. […]
+1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
+1. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
+1. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
+1. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
+1. If you have metabolic or cardiovascular disease such that a prolonged, inadvertent sedentary lifestyle (no exercise because of musculoskeletal sequelae) would be dangerous, then you should engage with these practices with caution.
+1. If your immune system is under- or overactive, then you should engage with these practices with caution.
+1. If you have experienced abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
+1. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner that you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
+1. You have to judge whether you have net enough money, food, shelter, social/relationship capital, "opportunity cost slack" to proceed. Ideally, a person either has "truly nothing to lose" or they have ample resources to last them three to seven years (just in case).
+
 
 
 
@@ -200,7 +204,7 @@ Further, the human mind is asymptotically perfectible. That is, we can become be
 
 ???There are more worse ways than better ways to interact with oneself and others.
 
-In any moment you are the final arbiter of what’s true and good. You have to trust yourself while also being open to being wrong. This is hard but can get easier.
+In any moment you are the final arbiter of what’s true and good. You have to trust yourself while also being open to being wrong. This is hard but can get easier. [Remember, in the relevant sense, you are the sole and final arbiter of what’s true, good, and beautiful. Feel what you feel. Do what you do. And, again, I think Crowley got something right, here, in the relevant sense (and possibly other things, too; i just haven’t investigated): Do what thou wilt, that is the whole of the law. Love under will. (or something)]
 
 It’s possible to do more harm than good when trying or intending to do good and become better. (Also, you are the final arbiter of what’s better.)
 
@@ -239,7 +243,7 @@ Let go…
 * byline
 * credits
 * copyright
-* quick start
+* quick start guide
 * formatting and reformatting note
 * brief contents
 * document-level meta-warning
@@ -248,7 +252,7 @@ Let go…
 * author web presence
 * canonical location of this document
 * alternative versions
-* preamble
+* risks; maximally cautious warnings/directives (first-pass, without explanation)
 * an exoteric doctrine v0.2
 * full table of contents
 * introduction; getting over the hump; text interpretation
