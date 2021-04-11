@@ -34,7 +34,7 @@ If meditating “full time” or “full time plus,” ~10,000 hours takes somet
 
 It’s ok to noncommitally play with (or use à la carte) the practices in this document, or to circle back to this document, on and off, or to use this document as an intermittent touchstone/umbrella/index, while exploring lots of other things. Just know that this still carries risks! There’s an apocryphal saying, “Better not to start; if you start, better to finish.” If one is dabbling, experimenting, tinkering (and there’s nothing wrong with that), one has to be careful, as best they can, to not “start” if one doesn’t intend to start, or one isn’t yet ready to start. (Of course, some people have aleady “started,” long ago, etc., etc.)
 
-\*\*\*
+**Partial Guided Tour**
 
 [Eventually this section (and the full table of contents) will be hyperlinked. For now, Control-F/Command-F and search for the section titles.]
 
@@ -6263,6 +6263,10 @@ And it can dialogue with other people’s things/deals, too, in comfort, love, i
 \*
 
 \* Whoops, also, I didn't mean to imply that anyone *has* to sort any of this out, whether by meditation or anything. And, also, nothing special has to happen in meditation or etc.. This sort of stuff "just pops out", all things being equal, in the course of correct practice.
+
+Notes:
+
+* An unintegrated fragment from an edit of an older section, that had different goals, that I want to re-work in a way that's seamless with this section: "Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts."
 
 
 
