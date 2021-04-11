@@ -18,32 +18,33 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 
 [Eventually this section (and the full table of contents) will be hyperlinked. For now, Control-F/Command-F and search for the section titles.]
 
-* What's new?
-	See these sections:
+* **What's new?**
+	* *See these sections:*
 		* formatting and reformatting note
-* How can I immediately get a flavor of what *kind* of meditation this whole document is about?
-	* See these sections:
+* **How can I immediately get a flavor of what *kind* of meditation this whole document is about?**
+	* *See these sections:*
 		* guided on-ramp for main practice p2 [draft]
 		* pith instructions (experimental)
 		* a bare-bones, bottom-up, noting-esque practice (without labeling)
-* Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.
-	* See these sections:
+* **Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.**
+	* *See these sections:*
 		* risks; maximally cautious warnings/directives (first-pass, without explanation)
 		* document-level meta-warning
 		* epistemic status disclaimer
 		* but what actually makes it risky?; how do risks obtain, when they do? [section doesn't exist yet]
-	* What's the theoretical, metaphysical, ideological, sectarian, soteriological basis of this kind of meditation?
-		* an exoteric doctrine: (v0.2)
-		* goal
-		* end state
-		* no fixed conceptualized goal or end state part one ("goodness")
-		* no fixed conceptualized goal or end state part two ("better")
-		* meditation is concrete problem solving
-		* wellbeing and sacrifice
-		* ok-ness and cosmology
-		* seamless hyphenation [draft]
-* What's the "practical core" of the document? What do I actually do?
-	* See these sections:
+	* **What's the theoretical, metaphysical, ideological, sectarian, soteriological basis of this kind of meditation?**
+		* *See these sections:*
+			* an exoteric doctrine: (v0.2)
+			* goal
+			* end state
+			* no fixed conceptualized goal or end state part one ("goodness")
+			* no fixed conceptualized goal or end state part two ("better")
+			* meditation is concrete problem solving
+			* wellbeing and sacrifice
+			* ok-ness and cosmology
+			* seamless hyphenation [draft]
+* **What's the "practical core" of the document? What do I actually do?**
+	* *See these sections:*
 		* practice preliminaries (11+ sections)
 		* practice nuts and bolts (17+ sections)
 			* what to do when
@@ -53,9 +54,9 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 			* main practices (~10)
 			* creativity/unsticking protocol
 			* “many” protocol (interpersonal practice)
-* How do I use this document? Also, is the above sort of "everything"? No! This just scratches the surface!
+* **How do I use this document? Also, is the above sort of "everything"? No! This just scratches the surface!**
 	* (After you read about risks, warnings, cautions, etc., do jump around in the document as per your interest.)
-	See these sections:	
+	* *See these sections:*
 		* introduction; getting over the hump; text interpretation
 		* full table of contents
 
