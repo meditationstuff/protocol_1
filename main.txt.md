@@ -53,7 +53,7 @@ It’s ok to noncommitally play with (or use à la carte) the practices in this 
 		* document-level meta-warning
 		* epistemic status disclaimer
 		* but what actually makes it risky?; how do risks obtain, when they do?
-		* (More:)
+		* *More sections:*
 			* environment and subtlety; (more) risks and rabbit holes
 			* “psychic” and “supernatural” stuff: what/how/how-not [draft]
 			* human epistemic dynamics and phenomena
@@ -502,7 +502,7 @@ None of the practices in Mark’s document seem that close to the sort of "focus
 
 Whew this is a complex topic. Some general things come to mind (and it’s a really good question that I personally haven’t tried to mechanistically answer, yet, anywhere):
 
-1.
+(1)
 
 Just like we typically don’t over-extend our musculoskeletal joints, like hyperextend our elbows, on a whim, the mind sort of learns, over an entire lifetime, “what not to do.” (Sometimes this is too conservative, as in, analogously, a physical trainer will sometimes positively encourage someone do something they thought they couldn’t do, with a healthy, safe outcome.)
 
@@ -516,7 +516,7 @@ I think it’s not TOOOOOOOOO uncommon for people to have “full blown delusion
 
 (Meditation, properly done, slowly creates a sort of “complex cradle” or “complementary space” for dream, delusion, psychosis, and then slowly titrates those things in, over days, weeks, months, and years, so it can safely metabolized, helped, listened to, accepted, etc. Even then, it can get harrowing.)
 
-2.
+(2)
 
 Another thing that can happen is that a person assumes that meditation instructions should be executed in a stereotyped manner and that the effect of meditation is purely good.
 
@@ -524,15 +524,15 @@ Then, if ANYTHING AT ALL BAD happens, the person assumes the right thing to do i
 
 Worst case, this can produce colossal feedback loop escalations and amplifications of bad things.
 
-3.
+(3)
 
 Further, there’s a way in which most people don’t start out with a “general undo.”  They can undo mistakes that are sort of a common type, for them.. But if they’ve just done something new, or a bunch of new things in a row, the bodymind system may have no easy way at all to reverse what’s happened, and, counterintuitively, worst case, learning how to reverse a new, unwanted thing can sometimes take weeks, months, or even years. And, a destabilized person may not be “well resourced” enough to be able to start figuring out how to work through or undo something, for a very long time. And this can contribute to chronic stuff in addition to the acute possibilities mentioned in (1) and (2).
 
-3.
+(4)
 
 (As to why some bad states can have similar features between people (“I broke the universe,” “everyone is fake”), there are only so many degrees of freedom of the system. And just like in “normal operatng mode” people arrive at similar conclusions (I am a person; I have a body), when the system is pushed to stereotyped extremes, a different people will come to similar conclusions, even if those conclusions seems strange or impossible to a person in “normal mode,” e.g. “I am god, jesus, etc.“)
 
-4.
+(5)
 
 (So, in my stuff, as best I currently know how, in case the reader is “1 in N” and their bodymind is precariously arranged (as are most people, at least a tiny bit), or they have latent intense stuff, or they’re predisposed to take instructions very literally and double down on them, that’s why I err on the side of all the warnings and qualifiers. Granted, they may obscure the forest for the trees or even prime people to experience some bad things.)
 
@@ -5294,7 +5294,7 @@ undoing = getting rid of, and it feels wrong to get rid of something that could 
 
 **M**
 
-[See also the section: “technical debt and inverse operations” for more on “general undo”]
+[Ed.: See also the section: “technical debt and inverse operations” for more on “general undo”]
 
 something is preserved, like the doing and undoing has been meta-recorded. something is latently, implicitly/“costlessly”, recoverably preserved, even in “undoing”
 
@@ -5308,9 +5308,9 @@ this metaphor might be incomplete and/or wrong in a bunch of ways but i like it
 
 \*\*\*
 
-A note copied from the p2 notes:
+Notes:
 
-* Regarding "undo," this can sometimes apply to things that "just happened" and can also apply to very old, localized or pervasive aspects of the system. It can be helpful to note that "undo" or "inverse operations" are happening all the time, like when a person learns something that contradicts an old "belief"--there will be some "layering," all things being equal, at least early in on meditation, but, mixed in with that, even at the beginning, will be some "undoing," too. Ditto for changes in behavioral propensities, preferences, etc., etc. etc. "Undoing" is very general and won't necessarily feel like "anything in particular"; it's almost a "contentless concept" or "empty concept" (perhaps concretely, phenomenologically speaking) that's directly-indirectly [sic] inferred. Eventually, there will be a tremendous amount of undoing (alongside all sorts of other things), during meditation.
+* A note copied from the p2 notes: Regarding "undo," this can sometimes apply to things that "just happened" and can also apply to very old, localized or pervasive aspects of the system. It can be helpful to note that "undo" or "inverse operations" are happening all the time, like when a person learns something that contradicts an old "belief"--there will be some "layering," all things being equal, at least early in on meditation, but, mixed in with that, even at the beginning, will be some "undoing," too. Ditto for changes in behavioral propensities, preferences, etc., etc. etc. "Undoing" is very general and won't necessarily feel like "anything in particular"; it's almost a "contentless concept" or "empty concept" (perhaps concretely, phenomenologically speaking) that's directly-indirectly [sic] inferred. Eventually, there will be a tremendous amount of undoing (alongside all sorts of other things), during meditation.
 * See also the section: “technical debt and inverse operations”
 
 
