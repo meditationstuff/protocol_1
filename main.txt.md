@@ -3623,7 +3623,7 @@ Again, the preliminary/auxiliary practices are sometimes useful to explore befor
 
 Addendum:
 
-In a similar vein to the above, some people have that the tweet below is a pithy way to bridge practices that seem more cognitive, therapeutic, top-down, etc., with more "traditionally meditation-y feeling/seeming" practices:
+In a similar vein to the above, some people have that the tweet below is one-pithy-way-to-express-one-way-of-how-one-might [sic] explore bridging practices that seem more cognitive, therapeutic, top-down, etc., with more "traditionally meditation-y feeling/seeming" practices:
 
 https://twitter.com/meditationstuff/status/1360397644498165763  
 "If you're solo working w/ Internal Family Systems Therapy (IFS; e.g. w/ the Self-Therapy Jay Earley book) or Feeding Your Demons (see appendices in the back of both books), & they've come to feel laborious or heavyweight, you can do them NONVERBALLY & SELF-TELEPATHICALLY, too."
