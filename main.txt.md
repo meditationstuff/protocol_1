@@ -7574,7 +7574,7 @@ One step at a time, one mind moment at a time.
 
 
 
-teaching and learning and creating and relating (meditation and anything):
+### teaching and learning and creating and relating (meditation and anything):
 
 
 
