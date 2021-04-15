@@ -7569,11 +7569,11 @@ teaching and learning and creating and relating (meditation and anything):
 
 
 
-teaching:
+### teaching:
 
 
 
-no one gets pixel-perfect possibilities:
+### no one gets pixel-perfect possibilities:
 
 [Originally published: https://meditationstuff.wordpress.com/2020/09/03/no-one-gets-pixel-perfect-possibilities/ (Last accessed: 2020-09-05)]
 
@@ -7628,6 +7628,14 @@ There’s still all sorts of reasons to do these things–to learn new degrees o
 And, when engaged reflectively, sensitively, responsively, meta-systematically, all of these tools, and/or the fine-grain best parts of them, have a place in personal practice, of course.
 
 But so few people seem to really get this “pixel perfect rainbow” thing, and so I see SO FEW mentors or teachers who are, in my opinion, correctly balancing local with global, short-run with long-run, when interacting with clients, students, workshop attendees, etc. Frankly, I think it’s because they haven’t gotten far enough to realize that this “pixel-perfect rainbow thing” is even a thing. But they absolutely could. And I could be wrong about something, etc.
+
+\*\*\*
+
+Addendum:
+
+“Pixel-perfect” is pointing at a “real,” nonmonotonic, asymptotic ideal, but it’s an abstract analogy that’s not necessarily pointing at what it *feels like* from the inside, including heading in that direction, at any particular time. One has to be careful not to pursue an unexamined, rigid sense of an abstract idea--one sort has to find oneself in the right places, almost accidentally, or, rather, bottom-up, indirectly, through correct practice, on one’s own terms, in one’s own concepts, as it were. And, regarding indirect and bottom-up (cf. “redo-to-undo”), one has to allow themselves to be anything--flawed, ridiculous, crazy, embarrassing, wretched, a failure, fantastical, childish, detached from reality, always more until/unless there isn't, radically patiently, anything--however oneself and others happen to be, right now, and now.
+
+Finally, to emphasize, “pixel perfect” is an analogy for something that’s still structurally fluid, sensitive, responsive, creative, dynamic, vibrant, alert, proactive, anything...
 
 
 
@@ -8374,3 +8382,5 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Kugel, James L. The Great Shift: Encountering God in Biblical Times. Houghton Mifflin Harcourt, 2017.
 * Abram, David. The spell of the sensuous: Perception and language in a more-than-human world. Vintage, 2012.
 * Deutsch, David. The beginning of infinity: Explanations that transform the world. Penguin UK, 2011. [note: see in index: inexplicit, unconscious re ideas, arguments, explanations, knowledge; compare with gendlin’s implicit]
+* Ratcliffe, Matthew. "Existential feelings." T. Szanto, & H. Landweer, The Routledge Handbook of the Phenomenology of Emotions. London: Routledge (2019).
+* Dreyfus, Hubert L., and L. Hubert. Being-in-the-world: A commentary on Heidegger's Being and Time, Division I. Mit Press, 1991.
