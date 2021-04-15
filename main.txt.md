@@ -3567,7 +3567,7 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 
 
 
-preliminary/auxiliary practices:
+### preliminary/auxiliary practices:
 
 The preliminary/auxiliary practices are sometimes useful to explore before and concurrently with the main practices, especially main practice p2.
 
@@ -3619,11 +3619,20 @@ If the list is overwhelming, the meta protocol can help bootstrap intuitive navi
 
 Again, the preliminary/auxiliary practices are sometimes useful to explore before and concurrently with the main practices, especially main practice p2.
 
+\*\*\*
+
+Addendum:
+
+In a similar vein to the above, some people have that the tweet below is a pithy way to bridge practices that seem more cognitive, therapeutic, top-down, etc., with more "traditionally meditation-y feeling/seeming" practices:
+
+https://twitter.com/meditationstuff/status/1360397644498165763  
+"If you're solo working w/ Internal Family Systems Therapy (IFS; e.g. w/ the Self-Therapy Jay Earley book) or Feeding Your Demons (see appendices in the back of both books), & they've come to feel laborious or heavyweight, you can do them NONVERBALLY & SELF-TELEPATHICALLY, too."
 
 
-main practice(s):
 
-introduction:
+### main practice(s):
+
+### introduction:
 
 Unlike the preliminary/auxiliary practices, which are ad hoc and open-ended, the main practices are designed to be a seamless unity, a seamless, closed set. As with the meta protocol, the verbal rendering of the “main practices,” in this document, could be considered one possible schematization out of many. That is, there are multiple ways that the main practices could be validly rendered into words, using maybe completely different (or overlapping) words, for each rendering. As always, it’s important to keep in mind that this entire document is a telephone game, pointing at bodymind practices, progressions, and ways of being that are “beneath” words. That being said, one hopes that this rendering (eventually), and other renderings, are in some sense “relatively losslessly complete.” That is, this rendering and other renderings will hopefully retain (point to) the same amount of “essential complexity,” without loss of important and unifying detail and sense. Ideally, each rendering of the main practices would be, in some sense, a “complete, seamless, closed set.”
 
@@ -3634,16 +3643,16 @@ All that being said, some people have taken a preliminary stab at pithy glosses 
 
 Example glosses by a collaborator (br):
 
-p1 - conceptual clarity
-p2 - do and will good things if you can
-p3 - become aware of everything without changing it
-p4 - temporarily emptiness/nothingness
-p5 - also become aware of everything without changing it?
-p6 - temporarily make everything better
-p7 - temporarily release everything
-p8 - 243 questions
-p9 - visualize the perfect day
-p10 - [not submitted]
+* p1 - conceptual clarity
+* p2 - do and will good things if you can
+* p3 - become aware of everything without changing it
+* p4 - temporarily emptiness/nothingness
+* p5 - also become aware of everything without changing it?
+* p6 - temporarily make everything better
+* p7 - temporarily release everything
+* p8 - 243 questions
+* p9 - visualize the perfect day
+* p10 - [not submitted]
 
 
 Another collaborator (d) offers these relationships:
@@ -3675,22 +3684,22 @@ Another collaborator (h/H) notes:
 [p3 is] like an antidote to (what seems to me to be) the strong doingness/acting-upon-ness of p2
 
 
-***
+\*\*\*
 
 In general, as mentioned in other places, if things feel stuck or “jammy,” or things become “forcy”/“force-y”, it can be good to change which main practice you’re doing, to switch to a preliminary/auxiliary practice, to engage the meta protocol or meta meta protocol, to change postures, to take a walk, to take a break, to do the most minimal, personal thing in the (meta) spirit of the meta protocol, etc.
 
 Finally, H notes:
 
->>>
-i’ve recommended the prot to several people now, and i notice that each time i do i include some kind of disclaimer/warning about the language of especially the main practices. like “don’t think too hard, don’t spin your wheels trying to understand every caveat & get it all in your head at once.” i’m not sure it’s best to do that, but i want to sort of encourage people to sit with it even if it is overwhelming or doesn’t make any sense in the beginning. “just let it wash over your subconscious” <-- problematic phrase maybe & i haven’t actually said that to anyone, but it’s kind of what i’m thinking
-<<<
+\>\>\>  
+i’ve recommended the prot to several people now, and i notice that each time i do i include some kind of disclaimer/warning about the language of especially the main practices. like “don’t think too hard, don’t spin your wheels trying to understand every caveat & get it all in your head at once.” i’m not sure it’s best to do that, but i want to sort of encourage people to sit with it even if it is overwhelming or doesn’t make any sense in the beginning. “just let it wash over your subconscious” <-- problematic phrase maybe & i haven’t actually said that to anyone, but it’s kind of what i’m thinking  
+\<\<\<  
 
 The current renderings of the main practices are below.
 
 
-practices:
+### practices:
 
-p0:
+### p0:
 
 [Gently, conservatively, cautiously, patiently will that you become (incline towards becoming) someone who uses the practice regularly and effectively to achieve the goals of the practice.]
 
