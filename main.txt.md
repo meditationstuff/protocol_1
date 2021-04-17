@@ -7992,19 +7992,19 @@ But, let’s say a person has inverse operations -A, -B, -C. Then, while meditat
 ABC -A  
 ABC  
   
- BC  
+_BC  
 ABC  
 
 Let’s say the set of inverse operations, -A, -B, -C are enough for most life experiences. But, every once in a while something surprising and novel happens, like Z.
 
- BCZ  
+_BCZ  
 ABC  
 
 A person doesn’t have inverse operations for some things, so, all things being equal, over time, for an untrained mind, that person’s (body)mind will slowly accumulate technical debt over time.
 
 Additionally, say a person goes on vacation or starts taking long walks, all things being equal, they will only ever be able to pay off so much technical debt, because they lack inverse operations for “deeper accumulation.”
 
-   ZQRS  
+___ZQRS  
 DEF  
 GHI  
 ...  
