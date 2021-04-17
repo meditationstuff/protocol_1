@@ -5082,13 +5082,13 @@ formulation 6:
 
 
 
-lists and more:
+### lists and more:
 
 A few of these sections are sort of “less clear” in some ways than the main practices. Those are sort of “noncanonical” in some sense. I’m not sure how to slice and dice all this yet
 
 
 
-nonmonotonicity:
+### nonmonotonicity:
 
 So, I suspect the way it goes is, there will be something both so bad and so difficult to change that a person tries everything and then becomes a systematic meditator.
 
@@ -5100,72 +5100,74 @@ I think the combination of intermediate very hard things getting better (when no
 
 
 
-definitions:
+### definitions:
 
-[…]
-revert = return to a previous state
-knowing = experiencing assertoric and implicational representational content or associated recorded sensations
-understanding = experiencing ontological/existential and causal representational content or associated recorded sensations
-action for X = something that is volitional or potentially volitional for X.
-good = “just good” or goodness/meaning/significance/purpose/value or good for goodness/meaning/significance/purpose/value
-will = will(/intend/plan) [that P]; do something volitional that alters expectations for future in a specific way
-acting/doing/do = do/act/cause/maintain/enable/incept/start/prevent/block/stop/end/facilitate/retard/stabilize/change/think/know/sense/feel/have part in/querying/asking/wondering/imagining/storytelling/narrating/what-if-ing/solving/solutioning/what-would-they-do-ing/questioning/assessing/judging/evaluating/participate/push/pull/attend/image/envision/visualize/interrupt/preempt/interleave/substitute/switch/meaning-making/meaning-dissolving, [language-ing, say-ing, word-ing, verbalizing, phrase-ing, sentence-ing, meaning-ing,] experimenting, waiting, observing, interrupting, moving, stabilizing, tuning, sounding, querying, testing, assessing, aligning, rearrangeing, ideating, simulating, gesturing, projecting, anticipating, predicting, expecting [X]/X [note: this is the do/action “evocative-suggestion-laundry list”]
-denying = willful disbelief in some such or thus manner/sense/way in opposition to some belief or seeming in something in some such or thus manner/sense/way
-convincing = willful belief in some such or thus manner/sense/way (possibly) in opposition to some belief or seeming in something in some such or thus manner/sense/way
-willing = [not exactly] planning/intending/directly-make-it-so-ing
-willing = [not exactly] currently intending to make it so; to make X Y
-[…]
-awareness =  [~~~that which contains “there it is as such”]
-knowledge = [~~~like not a direct phenomenological correlate as such but may be corresponding quality/concept in awareness. more of a “seeming” flavor versus an “appearing” flavor]
-[…]
-
-
-
-undefined and explications:
-
-[…]
-awareness
-experience
-sensation
-good
-bad
-good for X
-bad for X
-One can be aware of experience.
-A mind can be aware of experience.
-Experience is a genus.
-Sensation is a species of experience.
-Knowing is a species of experience.
-Understanding is a species of experience.
-Knowing and understanding are representation.
-Experience is solely composed of knowing, understanding, and sensation.
-Experience is solely composed of representation and sensation.
-Representations can (directly) refer/apply to apparent objects or attributes or sensations as such.
-A representation (directly) represents something.
-Sensations can be “external” or “internal”.
-A proposition P is a representation that asserts what is or may be.
-A concept (directly) represents something.
-A collection of connected/nonseparated propositions are/is a model M.
-“Aware” in “become aware” is like if you’re aware of something then it’s “part of” awareness or “in” awareness. and awareness is the whole thing.
-[…]
+* […]
+* revert = return to a previous state
+* knowing = experiencing assertoric and implicational representational content or associated recorded sensations
+* understanding = experiencing ontological/existential and causal representational content or associated recorded sensations
+* action for X = something that is volitional or potentially volitional for X.
+* good = “just good” or goodness/meaning/significance/purpose/value or good for goodness/meaning/significance/purpose/value
+* will = will(/intend/plan) [that P]; do something volitional that alters expectations for future in a specific way
+* acting/doing/do = do/act/cause/maintain/enable/incept/start/prevent/block/stop/end/facilitate/retard/stabilize/change/think/know/sense/feel/have part in/querying/asking/wondering/imagining/storytelling/narrating/what-if-ing/solving/solutioning/what-would-they-do-ing/questioning/assessing/judging/evaluating/participate/push/pull/attend/image/envision/visualize/interrupt/preempt/interleave/substitute/switch/meaning-making/meaning-dissolving, [language-ing, say-ing, word-ing, verbalizing, phrase-ing, sentence-ing, meaning-ing,] experimenting, waiting, observing, interrupting, moving, stabilizing, tuning, sounding, querying, testing, assessing, aligning, rearrangeing, ideating, simulating, gesturing, projecting, anticipating, predicting, expecting [X]/X [note: this is the do/action “evocative-suggestion-laundry list”]
+* denying = willful disbelief in some such or thus manner/sense/way in opposition to some belief or seeming in something in some such or thus manner/sense/way
+* convincing = willful belief in some such or thus manner/sense/way (possibly) in opposition to some belief or seeming in something in some such or thus manner/sense/way
+* willing = [not exactly] planning/intending/directly-make-it-so-ing
+* willing = [not exactly] currently intending to make it so; to make X Y
+* […]
+* awareness =  [~~~that which contains “there it is as such”]
+* knowledge = [~~~like not a direct phenomenological correlate as such but may be corresponding quality/concept in awareness. more of a “seeming” flavor versus an “appearing” flavor]
+* […]
 
 
 
-bodymindenvironment:
+### undefined and explications:
+
+* […]
+* awareness
+* experience
+* sensation
+* good
+* bad
+* good for X
+* bad for X
+* One can be aware of experience.
+* A mind can be aware of experience.
+* Experience is a genus.
+* Sensation is a species of experience.
+* Knowing is a species of experience.
+* Understanding is a species of experience.
+* Knowing and understanding are representation.
+* Experience is solely composed of knowing, understanding, and sensation.
+* Experience is solely composed of representation and sensation.
+* Representations can (directly) refer/apply to apparent objects or attributes or sensations as such.
+* A representation (directly) represents something.
+* Sensations can be “external” or “internal”.
+* A proposition P is a representation that asserts what is or may be.
+* A concept (directly) represents something.
+* A collection of connected/nonseparated propositions are/is a model M.
+* “Aware” in “become aware” is like if you’re aware of something then it’s “part of” awareness or “in” awareness. and awareness is the whole thing.
+* […]
+
+
+
+### bodymindenvironment:
+
+("bodymindworld" ht twitter)
 
 Sensation and representation and belief and expectation, how are all these related? It can be hard at first to experience things like “sensational imprint as such” or “representation as such” or both at once or are they two sides of the same coin? The analogies below are wrong but possibly evocative…
 
-body:mind
-sensations:meaning
-outside:inside
-experience:belief
-referent:representation
-sensing:knowing
-experience:belief
-appearance:representation
+* body:mind
+* sensations:meaning
+* outside:inside
+* experience:belief
+* referent:representation
+* sensing:knowing
+* experience:belief
+* appearance:representation
 
 
-can’t-look-yet (“avoidance”):
+### can’t-look-yet (“avoidance”):
 
 There will be thousands of things that are hard to “look at.” For any particular thing that you can’t look at, you won’t be able to look at it until you can. Your mind figures eventually figures out how to make it safe to look, and then you find yourself looking or you remember to look and you find that this time you can figure out how to do so.
 
@@ -5173,85 +5175,85 @@ Usually the way your mind figures out how to make it safe to look will be necess
 
 Nevertheless, it can sometimes be helpful to make a list of the classes of things that are hard to look at, as a way to help your mind more quickly get it’s bearings. Below is a messy sample list of the kinds of things one might classify in one’s mind as “avoidy” or “attention-redirecty.”
 
-Low-grade anxiety
-Horror
-Terror
-Metaphysical horror
-Horribleness
-Terribleness
-Pointlessness
-Meaninglessness
-Cold-water-Spray-bottle-kitten-shock-outrage-sick(-horror(-terror))
-(This-)can’t-be-happening-ness
-Hurt-by-others’-actions-ness
-hurt-by-others’-unhelpfulness
-Drama
-Melodrama
-Psychodrama
-Anything suppressed by the will that feels bad being unsuppressed
-Really-was-upset(-about-that)-ness
-Really/actually-was-really-bad(-at-the-time-it-was-happening)-ness
-Really-did-push-that-away-without-solving-it
-Really-did/do-want(ed)-that-ness
-Just-can’t-ness
-Just-can’t-go-on-ness
-Plaintive-desperation-ness
-Can’t believe that happened
-Can’t believe this is happening
-Remembered can’t believe this is happening
-Haste/imminence_pressure/rushing/corner-cutting/force-it-through-ing cf (judged_)too_slow(_ness)
-Wrongness/doing-the-wring-thing-ness/this-isn’t-working-ness/(judged_)too_slow(_ness)
-?????doubt-in-method-ness
-Frantic-ness
-Desperation
-...sacredness
-...unforgiveableness
-...unthinkableness
-should(-be)-X
-needs/has-to-be-X
-defending, resisting
-teeth-gritting, white-knuckling [will+redirection?...]
-blind/unresponsive-just-keep-going-ness [vs a better version...]
-Relief(!)—I.e. anything can get tagged as “redirectively bad”
-“perpetuators”/“slack grabbers”/“compulsive push-downs”
-Etc
-cf. the attention redirecting or aversive phenomenologies
-has to be uncrusty exposure vs copy or (re)duplication~ facilitation via correct application of do nothing
-[some repeats below here]
-Low-grade anxiety, panic, horribleness, fear, terror, terribleness, hopelessness, meaninglessness, surprise sudden soul-tap uninterpretable mortal physical peril terror even childhood nightmare/fantasy possibly extreme soul-gripping [perfect fear/intolerable/disgust experiential  
+* Low-grade anxiety
+* Horror
+* Terror
+* Metaphysical horror
+* Horribleness
+* Terribleness
+* Pointlessness
+* Meaninglessness
+* Cold-water-Spray-bottle-kitten-shock-outrage-sick(-horror(-terror))
+* (This-)can’t-be-happening-ness
+* Hurt-by-others’-actions-ness
+* hurt-by-others’-unhelpfulness
+* Drama
+* Melodrama
+* Psychodrama
+* Anything suppressed by the will that feels bad being unsuppressed
+* Really-was-upset(-about-that)-ness
+* Really/actually-was-really-bad(-at-the-time-it-was-happening)-ness
+* Really-did-push-that-away-without-solving-it
+* Really-did/do-want(ed)-that-ness
+* Just-can’t-ness
+* Just-can’t-go-on-ness
+* Plaintive-desperation-ness
+* Can’t believe that happened
+* Can’t believe this is happening
+* Remembered can’t believe this is happening
+* Haste/imminence_pressure/rushing/corner-cutting/force-it-through-ing cf (judged_)too_slow(_ness)
+* Wrongness/doing-the-wring-thing-ness/this-isn’t-working-ness/(judged_)too_slow(_ness)
+* ?????doubt-in-method-ness
+* Frantic-ness
+* Desperation
+* ...sacredness
+* ...unforgiveableness
+* ...unthinkableness
+* should(-be)-X
+* needs/has-to-be-X
+* defending, resisting
+* teeth-gritting, white-knuckling [will+redirection?...]
+* blind/unresponsive-just-keep-going-ness [vs a better version...]
+* Relief(!)—I.e. anything can get tagged as “redirectively bad”
+* “perpetuators”/“slack grabbers”/“compulsive push-downs”
+* Etc
+* cf. the attention redirecting or aversive phenomenologies
+* has to be uncrusty exposure vs copy or (re)duplication~ facilitation via correct application of do nothing
+* [some repeats below here]
+* Low-grade anxiety, panic, horribleness, fear, terror, terribleness, hopelessness, meaninglessness, surprise sudden soul-tap uninterpretable mortal physical peril terror even childhood nightmare/fantasy possibly extreme soul-gripping [perfect fear/intolerable/disgust experiential  
 
 Again this is a hard thing to do willfully, and one shouldn’t do it forcefully, but it can be helpful to keep in mind “(self-)cornering”, as in “nothing left to do but look” and “surfing up the terribleness gradients”, using experiential badness as a way to prioritize and navigate. Sometimes badness will come up that seems tangiential or in reaction to what you’re doing, but, in fact, it’s directly related, and in some sense should be prioritized.
 
 
-systematicity, ontologies, phenomenological and otherwise:
+### systematicity, ontologies, phenomenological and otherwise:
 
 If only one could make a list of what needs to be attended to, and then one could just go through the list. Unfortunately, people’s ontology and ordering for what’s good to do when will be idiosyncratic and complex and evolving and ultimately (often) very fine-grain
 
 But, it does matter what you do when, and that’s part of wayfinding. But, when you just don’t know what to do, you can be systematically experimental. This helps at least somewhat to keep from systematically leaving something out.
 
-inner senses (inner/imagined audition, visual phenomena, talking/thinking
-in between senses (phosphene splotches behind eyes, harmless tinnitus-like tones)
-outer senses
-valence/feel
-chakra-esque: crown/scalp, brow/face, throat/jaw, back-base of skull, back of neck, heart, solar plexus, naval, dan tien, genitals, sacrum, coccyx, perineum (for the mediate ones, both front and back of the body)
-meaning, nonsymbolic and liminally verbal knowing
-slightly-out-of-phase-with-normal-attention-“inner space” that is both seemingly “in there” and in-there-“out there” or “out there”-in-there…
-non-euclidean body-related space and “inner” space
-other “non-sensory” or “non-traditionally-sensory” phenomenology
-stuff/things/experience that is “out there in the world” but somehow not directly sensory, in character
-“body” or “mind” that’s somehow “outside” the skin or “somewhere else”
-skeletal muscles (every last one of them)
-interoception (visceral organs, sinuses of the skull, pressure, heartbeat, peristalisis, autonomic arousal, etc.)
-dermatomes (tiny random patches of skin/sensation all over, matter)
-somatically-overlaid-energy-full-body-movement-anticipation-planning-space, “energy work” space, phantom/ghost/energy hands space, “inner stance” space
-different frequencies/periodicities (Hz/milliseconds/half-seconds/seconds) of sensation at different depths of the body from skin to bones and inside the bones all over [buzz, tick, waggle, flickering, strobe, vibrate, tickle, wiggle, undulate, writhe, bounce]
-extremes: crown, perineum, hands, fingers, fingertips, sides of the fingers, wrists, ankles, palms, toes, soles of the feet
-edges: backs/fronts/sides of the arms, backs/fronts/sides of the legs
-creases: jaw/neck…
-boundaries: back-base of the skull…
-vestibular sense: phantom/immersive/vertigo-like moving, translation, spinning, going upside down, rotating
-ki, qi, chi, ruach, prana, energy…
-the “voluntariness of breathing” (versus the “involuntariness”)
+* inner senses (inner/imagined audition, visual phenomena, talking/thinking
+* in between senses (phosphene splotches behind eyes, harmless tinnitus-like tones)
+* outer senses
+* valence/feel
+* chakra-esque: crown/scalp, brow/face, throat/jaw, back-base of skull, back of neck, heart, solar plexus, naval, dan tien, genitals, sacrum, coccyx, perineum (for the mediate ones, both front and back of the body)
+* meaning, nonsymbolic and liminally verbal knowing
+* slightly-out-of-phase-with-normal-attention-“inner space” that is both seemingly “in there” and in-there-“out there” or “out there”-in-there…
+* non-euclidean body-related space and “inner” space
+* other “non-sensory” or “non-traditionally-sensory” phenomenology
+* stuff/things/experience that is “out there in the world” but somehow not directly sensory, in character
+* “body” or “mind” that’s somehow “outside” the skin or “somewhere else”
+* skeletal muscles (every last one of them)
+* interoception (visceral organs, sinuses of the skull, pressure, heartbeat, peristalisis, autonomic arousal, etc.)
+* dermatomes (tiny random patches of skin/sensation all over, matter)
+* somatically-overlaid-energy-full-body-movement-anticipation-planning-space, “energy work” space, phantom/ghost/energy hands space, “inner stance” space
+* different frequencies/periodicities (Hz/milliseconds/half-seconds/seconds) of sensation at different depths of the body from skin to bones and inside the bones all over [buzz, tick, waggle, flickering, strobe, vibrate, tickle, wiggle, undulate, writhe, bounce]
+* extremes: crown, perineum, hands, fingers, fingertips, sides of the fingers, wrists, ankles, palms, toes, soles of the feet
+* edges: backs/fronts/sides of the arms, backs/fronts/sides of the legs
+* creases: jaw/neck…
+* boundaries: back-base of the skull…
+* vestibular sense: phantom/immersive/vertigo-like moving, translation, spinning, going upside down, rotating
+* ki, qi, chi, ruach, prana, energy…
+* the “voluntariness of breathing” (versus the “involuntariness”)
 
 Sometimes you might experimentally want to increase the rate and depth of breathing, if breathing has become too subtle to offer certain kinds of systemic feedback.
 
@@ -5262,27 +5264,27 @@ states can be important too: sexually aroused, not sexually aroused, desirous of
 Finally, here are some ways that people systematically leave things out; as best you can make sure to not be systematically avoiding anything, of course with fast moving mind (belief/expectation/thought/imagination/feared possible truths and outcomes, etc.) and sensation stuff, but also old injuries, unsettling or unpleasant sensations around permanent pins or staples from old surgeries, scars (injury or cosmetic), genital circumcision, feared body stuff (cancer? precancer? did i fuck up nerve/ligament/tendon permanently? etc), phantom or feared teeth and jaw stuff, unpleasant “wrong, nervy” stuff. or maybe you don’t like your hands or feet or stomach or thighs or something. don’t avoid.
 
 
-exhaustivity and bottlenecks:
+### exhaustivity and bottlenecks:
 
 don’t skip anything, don’t bypass anything, don’t force anything. don’t double-down, you’re probably missing something somewhere else. if you accidentally force, reverse it as soon as you possibly can. rare, weird, unusual, surprising, or uncommon stuff matters. it could be a clue to a systematic avoidance or a bottleneck. eventually you have to touch everything in every way, think “everything,” believe “everything,” do “everything”, remember everything, often from multiple angles, over and over again, in the right global order, though with plenty of room for backtracking and mistakes. every good thing, every bad thing, every trauma, every childhood terror. it’s finite. don’t do so any session indiscrimately; and catching small details can save dozens or hundreds of hours, tiny (or large) unexpected body locations or depths from particular angles or along particular paths, far removed from each other in partially repeating, complex orders; the right turn or surrender to memory or thought or reverie—spending hours painstakingly untangling (local or distributed) X is worth it and necessary, interleaving doing that with large excursions to elsewhere in body and mind may help you find what’s “secretly” blocking that untanglng. sleeping, watching tv, conversing, throwing yourself into experience may offer clues to what to do next. it’s finite.
 
-a too-clean sample pattern of attention: 1212121212121212121212…
-a too-clean sample pattern of attention: 11111121111111211111121111112…
-a too-clean sample pattern of attention: 1111111111111121111111111111113111111111111111211111111111113111111111…
-a too-clean sample pattern of attention: 11111111111111211111111111111131111111188575351111111211111111111113111111111…
-a too-clean sample pattern of attention: 023987aliurnnga5098126943098fkkdan5691694704958637lkrjnanf0912360989sdf7basf3g7avf…
+* a too-clean sample pattern of attention: 1212121212121212121212…
+* a too-clean sample pattern of attention: 11111121111111211111121111112…
+* a too-clean sample pattern of attention: 1111111111111121111111111111113111111111111111211111111111113111111111…
+* a too-clean sample pattern of attention: 11111111111111211111111111111131111111188575351111111211111111111113111111111…
+* a too-clean sample pattern of attention: 023987aliurnnga5098126943098fkkdan5691694704958637lkrjnanf0912360989sdf7basf3g7avf…
 
 “slow is smooth: smooth is fast”, blah blah
 
 So sometimes things can look a lot like “contemporary classical noting practice.” [sic]
 
 
-(mental action) and the attentional manifold:
+### (mental action) and the attentional manifold:
 
 When you’re “doing things” in meditation, with what are you doing it? Your muscles? Your mind? Your phantom/ghost hands? Subtle or gross eye activity? Your jaw? The muscles in the back of your neck? The muscles in the back-base of the skull? Are the big motions or small motions? Sweeping or perfectly still attention? Vague or pin-point precision? Two dimensional, three dimensional, or conforming to a surface?
 
 
-the use of the will:
+### the use of the will:
 
 one can of course will changes in life situation and that can be really good
 
@@ -5296,25 +5298,25 @@ I’ll usually explicitly will something for brief periods, tweaking it as a I g
 
 I’ll also examine what I’m already implicitly willing, what I’m already implicitly trying to have happen, because it might be problematic. I might be pushing against something that’s not ready to move, or I might be trying to achieve something problematic out in the world, in the what, how, when, or order. there might be something better to mediately will that gets the same thing or better distally.
 
->>>
-Jonathan [8:24 AM]
-[…] for better or worse i have distinctions like (quick and nonexhaustive list):
+\>\>\>
+Jonathan [8:24 AM]  
+[…] for better or worse i have distinctions like (quick and nonexhaustive list):  
 
-possibly helpful theoretical distinctions
-- winding vs unwinding (with correlates to tension)
-- practice as global unwinding (in some sense), unification
+* possibly helpful theoretical distinctions
+	* winding vs unwinding (with correlates to tension)
+	* practice as global unwinding (in some sense), unification
 
-practice diaries:
-- tension solves
-- piecing together memories
-- (re-)understanding one's past
-- holding the right things in attention
-- emphasis on somatics
-<<<
+* practice diaries:
+	* tension solves
+	* piecing together memories
+	* (re-)understanding one's past
+	* holding the right things in attention
+	* emphasis on somatics  
+\<\<\<
 
 
 
-a note on force (plus a brief mention of “redo-to-undo”):
+### a note on force (plus a brief mention of “redo-to-undo”):
 
 [minimally edited placeholder transcript] I want to call this a brief note on Force. I've made it pretty clear in different places to not be forcy. And I don't think I'll define forcy, here. But, there's something about getting something to happen, something about threading a needle in a way that feels potentially bad. (Though it might only feel slightly bad! It might feel like necessary-tradeoff progress. Try to avoid needle-threading in the first place! It might almost never be worth it, if avoidable. Try to figure out or incline towards why it’s happening in the first place versus something cleaner.) There's potentially a sense of effort. It can be extreme, subtle, or somewhere in between.
 
@@ -5391,7 +5393,7 @@ Notes:
 
 
 
-meditating by coincidence:
+### meditating by coincidence:
 
 Mark  1 day ago
 have you ever heard of so-called “coding by coincidence” i think from dykstra? he’s kind of a dinosaur and it’s not the right thing to write careful proofs for one’s code before coding 99% of the time. but there’s a nice thing in there, something like:
@@ -5401,45 +5403,55 @@ but don’t guess? kind of?
 sort of going for exact knowledge of what does what. or to know that if one does X, given this context, within 7-31 hours Y will happen, inevitably. sort of.
 
 
-failure and other seemingly permanent and bad things:
+### failure and other seemingly permanent and bad things:
 
 Sometimes parts of the mind believe they will fail, even when, say, the rest of the mind believes in, say, trying and hope and best-effort. Sometimes the way to help that part of the mind is to “fully go into it,” to (temporarily) fully and completely believe that part, be that part, in such a way that you really believe that you will fail, or that you have failed, even forever. This sometimes does not feel good (understatement) and can be scary, especially the first time, and possibly every time (in the likely case that multiple parts of the mind believe that it will fail). But, in that “fully going into it” that part of the mind ultimately relaxes, updates, realizes all the goodness around it and comes to believe that it in fact will not fail. Sometimes you have to fully become something (bad) to become something else (good) even if it temporarily takes you over. Remember that you don’t have to go into something until and if it’s good and safe to do so and only when you in fact can do so. So don’t necessarily, say, try to up front find all the places and ways that you will fail and then, say, try to fully believe that you will fail in that way. Engage p2, the meta protocol, etc. Right time, right place, right manner, etc. (All of the same goes for failure, failing completely, giving up hope, failing forever, forgetting completely, and other seemingly scary, bad, or permanent things.)
 
 
-how bad does it have to get?:
+### how bad does it have to get?:
 
-[…] Today at 10:45 AM
+**[…]** Today at 10:45 AM
+
 [Question/comment wondering if it might be possible to never have to “go into badness,” that, in principle and possibly even in practice, whether there’s always a better option, and then there would be value of reminding people of that over and over again in the world where it’s true.]
 
-Mark  34 minutes ago
+**Mark**  34 minutes ago
+
 I think it will be exquisitely personal/idiosyncratic/contextual, depending on the fine-grain details of that person’s mind. Generally, there does seem to be an at least micro-redo-to-undo, mitigated or made safe by equanimity and various other preparatory things. Agreed that wording and preconceptions will have significant influence on “how bad things are,” though.
+
 I do somewhat less qualifying in the document, or a different pattern of qualifying, because a lot of stuff sort of “comes out in the wash” with hundreds or thousands of hours of meditation. And the meta protocol is also intended to help people correctly orient around interpretation of the instructions. I certainly am not fully accurately calibrated and if I had more resources I would likely qualify more. There is a lot of gentleness in the prelim/aux practices that is elided in the more terse main practices.
 
-Mark  31 minutes ago
+**Mark**  31 minutes ago
+
 There is also, I suppose, “the law of equal and opposite advice”--some people will shy away too much from discomfort. And of course some people will flagellate themselves. I think, long-run, it’s very good to be able to “go into badness”--this becomes ever more safe and constructive/productive over time, generally, I think. cf. “equanimity”
 
-Mark  31 minutes ago
+**Mark**  31 minutes ago
+
 ever-less looping and piling on over time
 
-Mark  27 minutes ago
+**Mark**  27 minutes ago
+
 Sometimes (often) “a better thing” just isn’t locally available and one has to “keep going through hell.” Other times a precise (and possibly necessarily personalized) reminder that something better is available makes a colossal difference. And calibrating how and when to remind or not will be somewhat empirical, given patterns of students, though of course deep principles could be elicited.
 
-[…]  19 minutes ago
+**[…]**  19 minutes ago
+
 […]
 
-Mark  < 1 minute ago
+**Mark**  < 1 minute ago
+
 I will note that there’s an important question here of how “soft/safe/gentle” [not to conflate gentle and safe but they are correlated] meditation can be in the limit. If we understood this better, and I hope to, plan to, intend to, in collaboration with others, it will make meditation accessible to a much wider range of people, in a much wider range of life circumstances. If someone could trust that nothing particuarly terrible could happen or that it would happen predictably, then it would be more likely they could do work/career/money and relationship/family things while being a serious meditator. And that would be a much better world. This is an open area of research and an extremely important area of research.  Safety and effectiveness (including consistency, monotonicity, ease of starting, initial palatability and interpretability, ideoloogical non-clashing, minimizing negative musculoskeletal involvement, minimizing “temporary trauma,” ease of talking about with other people, everything.
 
-[…] 10 minutes ago
+**[…]** 10 minutes ago
+
 […]
 
-Mark  < 1 minute ago
+**Mark**  < 1 minute ago
+
 One way to resolve possible contradictions somehow involving badness being good is to make the distinction between something feeling bad and something being bad. That is, one might accept that feeling bad can sometimes be good. Further, to equivocate, one might accept that feeling bad can sometimes straightforwardly feel good!  (Some people will say, of course! cf. “hurts so good,” painful pleasure, massages, erotic pain, etc.)
 
 The deeper thing, here, is something like “goodness” and “badness” are words and a person’s concepts of goodness and badness will contextually, contingently, and idosyncratically apply to, and in the context of, complex phenomenology and knowing that will be a complex mixture of valenced and unvalenced experience. And those concepts and that phenomenology and the relationship between the two will change as life and meditation progresses.
 
 
-extremity replay and creativity: panic, trauma, sexual arousal:
+### extremity replay and creativity: panic, trauma, sexual arousal:
 
 Sometimes old stuff will “come up” (come into awareness). Sometimes it will be obvious that it’s coming up to “burn off” (become stably absent) and other times this won’t be obvious (or it needs to come up but it’s not yet time for it to “burn off.”
 
@@ -5466,122 +5478,128 @@ An example of this is sexual fantasy and sexual arousal. A heuristic is that, if
 If there is an impulse/urge to act out something sexual, to actualize something, then it just depends whether it’s good to do that. The heuristic, here, too, is that if it’s safe and sufficiently not costly to do so then seek the experience. If there are unsafe or costly elements then it can be better to work with the fantasy/desire/planning experience as such rather than working to consummate it. There will be many good and redemptive things in there to untangle, to get them separately from a sexual encounter, or you might come to find that wanting (and/or getting) the/an inherently sexual thing is, partially or wholly, temporarily or stably, good to get and that you should work on creating a context in which it’s safe and wholly good to get the thing or part of the thing mostly or partially just as it is.
 
 
-on falling asleep:
+### on falling asleep:
 
 Sometimes it’s good to use postures such as sitting without back support or standing, in order to avoid falling asleep (see the posture section for more postures and thoughts on postures). But, it can be extremely profitable to meditate while curled up comfortably in bed both while falling asleep for the night, right upon waking up (without even opening one’s eyes), and also during the day. One can drift in and out of meditation, sleep, and reverie (sleep and reverie could be conceived as falling under the surrender portion of p2 but don’t have to be.).
 
 One could imagine that meditating in liminal states could lead to “bad form” or meditating incorrectly. But, I have found this to not be the case, at least empirically. It seems to be the case that this protocol is specified both precisely enough and generally enough that meditating and drifting (reverie) and sleeping seems to be extremely valuable, especially when often, sometimes, or eventually mixed with meditation in other postures.
 
 
-a gentle onramp:
+### a gentle onramp:
 
-Mark 8:55 AM
-5-30 minutes of a prelim exercise, followed by 2-15 minutes of the meta protocol (retrospectively on those 5-30 minutes), 1-2 times per day, would be a gentle, powerful onramp.
-I would use the meta protocol to semi-retrospectively determine which prelim exercises, how to personally enact them, for what duration, for how often, would be good.
-It would be fine to go down them in order, or to make index cards, or to paste them into a spreadsheet and keep track of frequency or duration in some way.
-Main practice p2 is sort of the heart of the main protocol, so eventually one would want to start puzzling it out and easing into that, too, interleaving with prelim/aux practices and the meta protocol. Eventually one will start acquiring better and better intuitions about what to do when, as well as facility with navigating the document and dipping into it for ideas and refreshing on the text, to aid practice.
+**Mark** 8:55 AM
+
+* 5-30 minutes of a prelim exercise, followed by 2-15 minutes of the meta protocol (retrospectively on those 5-30 minutes), 1-2 times per day, would be a gentle, powerful onramp.
+* I would use the meta protocol to semi-retrospectively determine which prelim exercises, how to personally enact them, for what duration, for how often, would be good.
+* It would be fine to go down them in order, or to make index cards, or to paste them into a spreadsheet and keep track of frequency or duration in some way.
+* Main practice p2 is sort of the heart of the main protocol, so eventually one would want to start puzzling it out and easing into that, too, interleaving with prelim/aux practices and the meta protocol. Eventually one will start acquiring better and better intuitions about what to do when, as well as facility with navigating the document and dipping into it for ideas and refreshing on the text, to aid practice.
 
 More questions welcome and please poke for different kinds/styles of answers if there’s something better
 
-Mark 9:03 AM
+**Mark** 9:03 AM
+
 It’s not universally true, but, generally, “forcing,” “powering through,” or “needle-threading in order to keep going and going” should be avoided because these can create puzzles that need to be laboriously undone later to make further progress.
+
 If something seems like it’s “jamming” or “grinding,” I would halt that prelim/aux exercise and engage the meta protocol to see if that illuminates a better thing to do. The meta protocol itself can jam, in which case one can do lighter and lighter versions of the meta protocol (as described in the meta protocol section), or do the “meta meta protocol” (apply the meta protocol to itself), or browse through the document and choose something else to do, as per intuition (such as other prelim/aux practices or one of the main practices), or take a break and do something different and/or fun. (edited)
 
-Mark 9:12 AM
+**Mark** 9:12 AM
+
 For intuitions, to my mind, meditation is less like strength training and more like a single [many-typed, many-peg] Tower of Hanoi-type puzzle, if that makes sense. Long-range, global [maximum] wayfinding through a multidimensional, nonmonotonic space. (edited)
 
 And the [open set of] prelim/aux practices reveal new dimensions of movement and new feedback loops, to be fed into the global wayfinding engine [automatically and by application of the meta protocol]. (edited)
+
 And then p2 is the enactment of global wayfinding which includes upgrading itself en route, interleaving handoffs to other practices for indirect upgrades, and finally undoing and self-transcending itself.
 
-Mark 9:33 AM
+**Mark** 9:33 AM
+
 Not universally, but generally, increases in muscle tension (including subtle, slow-growing) and contortions of face and posture mean it’s important to cut over to or at least interleave the meta protocol. An “uncoiled” posture such as sitting without back support, or standing, can make it easier to detect increases in muscle tension (though reclining and supported postures should be used, too, for decreasing incidental factors).
 
 Shaking, twitching, emoting, vocalizations, and large movements are sometimes necessary and sometimes “self-distraction” (and sometimes a mixture). The meta protocol can be engaged to sort though and piece apart what should be allowed and encouraged and what should gently be disengaged or blocked.
 
 
-good(ness) bad(ness):
+### good(ness) bad(ness):
 
 What is goodness? What is badness? What is good? What is bad? What is good for you? What is bad for you? What does “good” mean to you? What does “bad” mean to you? Morally good, ethically good, personally good, good feeling? For you? For others? Morally bad, ethically bad, bad feeling? For you? For others? Usefulness? Value? Worth? Worthiness? Helpfulness? Spiritually? Practically? Partially good? Partially bad? Generally/contextually good? Generally/contextually bad? Universally good? Universally bad? Wholly good? Wholly bad? Mixed good and bad? More good? Less good? More bad? Less bad? Better? Worse? Best? Worst? [why not in meta, p/a, main practices and instead in lists and more is left as exercise to reader. Cam of course play with in relation to any of p/a, main practices (including p1) meta, and so forth.] doing good vs being good vs having  good vs experiencing good. Doing bad vs being bad vs having bad vs experiencing bad(ness). Intrinsic/essential/inherent goodness vs extrinsic/secondary/acquired/contextual goodness. Intrinsic/essential/inherent badness vs extrinsic/secondary/acquired/contextual badness. Goodness of form. Goodness of mode. Badness of form. Badness of mode. Goodness as an attribute. Badness as an attribute. Subsistent goodness. Subsistent badness. Where and what and how and when  and why and for what purpose is goodness? Where and what and how amd why and when and for what purpose is badness? What causes goodness? What causes badness? When is goodness an effect? When is badness an effect? When are goodness and badness neither a cause nor an effect? Is felt goodness always good? Is felt badness always bad? Immediate goodness. Mediate goodness. Immediate badness. Mediate badness. Direct goodness. Indirect goodness. Direct badness. Indirect badness. Sometimes good. Sometimes bad. Acting good. Acting bad. Appearing good. Appearing bad. Somehow good. Somehow bad. Artificially good. Artificially bad. Naturally good. Naturally bad. Stably good. Stably bad. Tending (toward) good. Tending (toward) bad. Historically good. Historically bad. Historically mixed. Eventually good. Eventually bad. Highest good. Lowest good. Highest bad. Lowest bad. Initial good. Initial bad. Final good. Final bad. Good for X. Bad for X. Good for X for Y. Bad for X for Y. Structurally good. Structurally bad. Independently good. Independently bad. Dependently good. Dependently bad. Separably good. Separably bad. Inseparably good. Inseparably bad. veridically good/bad, certainly good/bad, illusorily good/bad, apparently good/bad, good before/after/at/when/during/while X, bad before/after/at/when/during/while X, good now/later, bad now/later, lower good, higher good, net good, net bad, “too good,” “too bad,” “infinitely” good, “infinitely” bad, permanently good, permanently bad, contagiously good, contagiously bad
 
 
-some “big” useful concepts:
+### some “big” useful concepts:
 
-exceptionlessness
-universality
-timelessness
-eternality
-sempiternality
-true-everywhereness
-true-all-timesness
-true-timelessly
-true-eternally
-true-sempiternally
-existing/obtaining-at-all-times
-existing/obtaining-timelessly
-existing/obtaining-eternally
-existing/obtaining-sempiternally
-existing/obtaining-outside-of-time
-perfection
-flawlessness
-unity
-wholeness
-wholeheartedness
-world
-universe
-experience
-everything
-totality
-globality
-reality
-actuality
-
-
-poem of self/other confusion and interdependence:
-
-Is this me? Is this you? Is that me? Is that you?
-I am you, and you are me, and we are we.
-No.
-This is almost me, similar to me, but it is not me.
-That is almost me, similar to me, but it is not me.
-While plausibly me, this was historically never actually me.
-While plausibly me, that was historically never actually me.
-I am not you, and you are not me, and we are not we.
-I am me, and you are you.
-She is not him, and she is not you, and he is not her, and he is not you.
-I am not him, and I am not her.
-I am me, and you are you, and I am not you, and you are not me.
-And, we can be we.
+* exceptionlessness
+* universality
+* timelessness
+* eternality
+* sempiternality
+* true-everywhereness
+* true-all-timesness
+* true-timelessly
+* true-eternally
+* true-sempiternally
+* existing/obtaining-at-all-times
+* existing/obtaining-timelessly
+* existing/obtaining-eternally
+* existing/obtaining-sempiternally
+* existing/obtaining-outside-of-time
+* perfection
+* flawlessness
+* unity
+* wholeness
+* wholeheartedness
+* world
+* universe
+* experience
+* everything
+* totality
+* globality
+* reality
+* actuality
 
 
-states: (draft)
+### poem of self/other confusion and interdependence:
 
-Normal waking ommiarousal; questing emotions
-Rest/digest laze around low vigilance low arousal
-Sexual arousal; (horny, full plateau arousal, orgasm; post orgasm extended afterglow
-Compassion/care/love/teach/help/protect/serve/defend arousal
-Syntonic stress arousal—perform, flow; achieve
-Dystopia stress arousal (or vasocagal response)—fight flight/flee freeze faint
-Positive and negative past/future:counterfactual updating/processing emotions (surprise fear happiness
-Epistemic pre and post processing emotions cf uncertainty—anxiety, unrest
-Puttering emotions—low arousal good—joy... enjoyment, wellbeing
-Derealozation/depersonalization (can be acute with dystonic or chronic)
-States can be mixed
-
-
-invitation of acceptance: (so-called “Litany of Gendlin”)
-
-What is true is already so.
-Owning up to it doesn't make it worse.
-Not being open about it doesn't make it go away.
-And because it's true, it is what is there to be interacted with.
-Anything untrue isn't there to be lived.
-People can stand what is true,
-for they are already enduring it.
-
-—Eugene Gendlin
+Is this me? Is this you? Is that me? Is that you?  
+I am you, and you are me, and we are we.  
+No.  
+This is almost me, similar to me, but it is not me.  
+That is almost me, similar to me, but it is not me.  
+While plausibly me, this was historically never actually me.  
+While plausibly me, that was historically never actually me.  
+I am not you, and you are not me, and we are not we.  
+I am me, and you are you.  
+She is not him, and she is not you, and he is not her, and he is not you.  
+I am not him, and I am not her.  
+I am me, and you are you, and I am not you, and you are not me.  
+And, we can be we.  
 
 
-nutrition:
+### states: (draft)
+
+* Normal waking ommiarousal; questing emotions
+* Rest/digest laze around low vigilance low arousal
+* Sexual arousal; (horny, full plateau arousal, orgasm; post orgasm extended afterglow
+* Compassion/care/love/teach/help/protect/serve/defend arousal
+* Syntonic stress arousal—perform, flow; achieve
+* Dystopia stress arousal (or vasocagal response)—fight flight/flee freeze faint
+* Positive and negative past/future:counterfactual updating/processing emotions (surprise fear happiness
+* Epistemic pre and post processing emotions cf uncertainty—anxiety, unrest
+* Puttering emotions—low arousal good—joy... enjoyment, wellbeing
+* Derealozation/depersonalization (can be acute with dystonic or chronic)
+* States can be mixed
+
+
+### invitation of acceptance: (so-called “Litany of Gendlin”)
+
+What is true is already so.  
+Owning up to it doesn't make it worse.  
+Not being open about it doesn't make it go away.  
+And because it's true, it is what is there to be interacted with.  
+Anything untrue isn't there to be lived.  
+People can stand what is true,  
+for they are already enduring it.  
+  
+—Eugene Gendlin  
+
+
+### nutrition:
 
 I am not a doctor or other kind of licensed health professional, and this is not medical or nutritional advice.
 
@@ -5600,7 +5618,7 @@ If you’re eating fewer, larger meals, be careful with your kidney’s and live
 Consider a multivitamin in powder form or in many pills per day, so you can titrate. I know multivitamins are supposed to do nothing or be detrimental, but you might find subdoses to be seemingly very helpful.
 
 
-historical and contemporary difficulties and uncertainties of life: [experimental section]
+### historical and contemporary difficulties and uncertainties of life: [experimental section]
 
 Warning: This section is experimental and should be approached with caution if you have live existential/cosmological/eschatological/metaphysical issues or live mania, paranoia, or possibly other things.
 
@@ -5772,29 +5790,33 @@ trigger ~= something that can or does cause an abrupt (negative) state change, o
 trauma ~= bodymind state/feeling/content/material that’s needs extra steps to be safe to re-experience, that in its dormant/latent state is a bottleneck/dependency on other/further valued changes
 
 
-a dialogue between N and Mark, on reasoning and pre-reasoning:
-
-[> indicates a pull-quote]
+### a dialogue between N and Mark, on reasoning and pre-reasoning:
 
 [we use the example of “feet” a lot, but that’s just one example! we might have used hands, belly button, something. feet are a good heuristic thing to try, but it’s not a rule.]
 
 
-N
+**N**
+
+
 […]
+
 I guess the next logical question would be […]
 
 
-Mark
+**Mark**
+
 Want to say something like I think there’s a pre-rational step that’s being missed
 
 
-N
+**N**
+
 Say more!
 
 Wdym by pre-rational?
 
 
-Mark
+**Mark**
+
 You probably should pay attention to your feet a bunch or something versus trying to answer questions like […]
 
 maybe.
@@ -5802,23 +5824,28 @@ maybe.
 but something vaguely like that, maybe extensively
 
 
-N
+**N**
+
 You think there's a frozen thing in the body that constrains reasoning and needs to be moved around a bit by correct placing of attention?
 
 
-Mark
+**Mark**
+
 YES. but, a lot, not a little bit
 
 
-N
+**N**
+
 Why won't reasoning work? The right answers simply won't pop up in my head or something?
 
 
-Mark
+**Mark**
+
 reasoning for most people mostly happens in a “virtual machine” and there’s only a trickle from that down to preference changes, behavior changes, and goal changes, even if one comes up with “right answers.” a failure mode is to keep collecting right answers indefinitely without them becoming a part of the “motivated seeming” of the world
 
 
-N
+**N**
+
 In my mind reasoning isn't disconnected from behavioral change, ala critical rationalism
 
 IME in any case where I see lack of progress, I can sort of clearly see why and what problems aren't solved yet
@@ -5826,7 +5853,8 @@ IME in any case where I see lack of progress, I can sort of clearly see why and 
 I've never been in a situation where my problem seems explicitly solved, but no behavioral change follows
 
 
-Mark
+**Mark**
+
 That is true for some people, for some domains, contingently
 
 > In my mind reasoning isn’t disconnected from behavioral change, ala critical rationalism
@@ -5834,53 +5862,64 @@ That is true for some people, for some domains, contingently
 do you mean all minds or just some minds, like your mind?
 
 
-N
+**N**
+
 The latter, but I'd assume that they're reasoning incorrectly, i.e. missing important signals from the body or getting themselves in conceptual tangles without noticing
 
 
-Mark
+**Mark**
+
 yeah
 
 
-N
+**N**
+
 So maybe I got lucky with my mind, hehe
 
 Or I'm just deluded
 
 
-Mark
+**Mark**
+
 but incorrectly is a massive gradient, from extreme virtual machine to radical integration. almost everyone has a lot of confusions, at least at first
 
 
-N
+**N**
+
 Do you have any reasons to believe that certain mental moves, e.g. look at feet, just plain don't work and are based on spurious data?
 
 
-Mark
+**Mark**
+
 for some people doing that specifically will be the wrong thing to do at any given time. right thing right time in right order
 
 that’s why there’s 500+ p/a practices, etc., etc.
 
 
-N
+**N**
+
 Or, have you considered it?
 
 
-Mark
+**Mark**
+
 considered what?
 
 
-N
+**N**
+
 That they don't actually work
 
 
-Mark
+**Mark**
+
 the meta-protocol is a schematization of error checking and meta error checking. it’s an ongoing consideration of whether such things don’t work
 
 at any particular time for some particular person
 
 
-N
+**N**
+
 I see, I see
 
 But you don't have an explicit model that accounts both for the usually psychotherapy stuff and mental moves such as that, and can legibly translate from its language into their?
@@ -5888,13 +5927,15 @@ But you don't have an explicit model that accounts both for the usually psychoth
 Or do you
 
 
-Mark
+**Mark**
+
 sensory experiences sculpt the future propensities of the system. talk therapy is narrow sculpting that leaves out a huge range of possible experiences that can be used for sculpting
 
 the mind is highly intertwingled such that feet are involved in reasoning, usually confusedly. gotta sometimes e.g. pay attention to the feet to use e.g. talk therapy, correctly
 
 
-N
+**N**
+
 […] how/why sensory experience of one's feet can be useful for sculpting one's higher-level behavior and goals and shit?
 
 I understand the general idea
@@ -5914,15 +5955,18 @@ Or can be
 The way you talk about it is very different from the language/ontology I personally use to make sense of this area
 
 
-Mark
+**Mark**
+
 one’s epistemic stack involves sensory experience of elbows, knees, voice tone, prosody, everything. all of it becomes the substrate for reasoning
 
 
-Mark
+**Mark**
+
 to improve reasoning one sometimes needs to unpack some of the lower-level stuff that doesn’t feel “meaning-laden,” like weird body sensations
 
 
-N
+**N**
+
 So suppose a person feels their feet
 
 And suppose she did it at the right time
@@ -5934,7 +5978,8 @@ An insight suddenly pops up in their head?
 Or maybe weird sensations appear in some body part
 
 
-Mark
+**Mark**
+
 they realize they were doing reasoning wrong, somehow, that was systematically biasing their conclusions. it’s usually not that direct but sometimes it is
 
 usually it’s lots of small steps
@@ -5942,81 +5987,98 @@ usually it’s lots of small steps
 that don’t seem to add up until the end
 
 
-N
+**N**
+
 And when it's not direct, what happens is something like 'next time they do think, they're able to look at the problem from a slightly different perspective or something'?
 
 
-Mark
+**Mark**
+
 that’s object-level, and that’s a thing too. but, meta-level, the reasoning system itself will work slightly differently, sometimes a bit worse before it’s long-run net better
 
 
-N
+**N**
+
 Aight
 
 And they could also maybe never experience anything meaning-laden throughout feeling their feet?
 
 
-Mark
+**Mark**
+
 yeah, plenty of stuff stays non-meaning-laden, contentless [throughout]
 
 
-N
+**N**
+
 But they find out that reasoning works a lil better (or worse) when they try it next time?
 
 
-Mark
+**Mark**
+
 yup
 
 
-N
+**N**
+
 Ohh
 
 Fuck, these inferences are, indeed, hard to make
 
 
-Mark
+**Mark**
+
 yes
 
 
-N
+**N**
+
 Like unless the person is systematic, they might never notice the connection
 
 Right?
 
 
-Mark
+**Mark**
+
 even if reasoning works a little better, that doesn’t mean a conclusion is guaranteed to pop out in any particular thinking/feeling session, ofc
 
 
-N
+**N**
+
 Yeah
 
 
-Mark
+**Mark**
+
 > Like unless the person is systematic, they might never notice the connection
 
 yes exactly
 
 
-N
+**N**
+
 You really need to put this into protocol
 
 
-Mark
+**Mark**
+
 it’s ridiculously long-range/counterintuitive, all things being equal
 
 
-N
+**N**
+
 It connects the right stuff
 
 For me and probably certain people
 
 
-N
+**N**
+
 Could it be that some people simply notice stuff like 'when I work out or do open awareness, I sort of can think better afterwards', and the model above explains why?
 
 
-Mark
+**Mark**
+
 yeah
 
 could you see if this existing section kind of says it:
@@ -6024,61 +6086,74 @@ could you see if this existing section kind of says it:
 “headyness”/“heady-ness”/“headiness”
 
 
-N
+**N**
+
 I've read it, I think
 
 And it didn't
 
 
-Mark
+**Mark**
+
 ok
 
 
-N
+**N**
+
 How does one start noticing patterns such as this? (e.g. look at feet now, see more progress later)
 
 
-Mark
+**Mark**
+
 I think need to study a ton of people from the outside, or need a methodological bootstrap, from the inside.
 
 
-N
+**N**
+
 How could studying people work?
 
 
-Mark
+**Mark**
+
 the methodological bootstrap, for me, was p2 plus the meta protocol.
 
 
-N
+**N**
+
 Like, it's so hard to notice it in yourself
 
 
-Mark
+**Mark**
+
 wayfinding in methodology/theory space
 
 
-N
+**N**
+
 How would it be easier to notice in others?
 
 
 [delay]
 
 
-Mark
+**Mark**
+
 i’m looking for the original Gendlin Focusing research study
 
-N
+**N**
+
 Go on
 
 Oh
 
 
-Mark
+**Mark**
+
 they tried to figure out why some people made progress in therapy and others didn’t, and that’s how they isolated “focusing moves”
 
 
-N
+**N**
+
 It has something about that
 
 Yeah
@@ -6088,17 +6163,20 @@ I know
 Doesn't seem like something that's possible for a regular Joe to do
 
 
-Mark
+**Mark**
+
 and so my stuff, for example, could be considered a generalization of that original observation
 
 
-N
+**N**
+
 Aight
 
 What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
 
 
-Mark
+**Mark**
+
 > Doesn’t seem like something that’s possible for a regular Joe to do
 
 it is very freaky when it feels like “me or someone maybe couldn’t have figured out this important thing without outside stimulus”
@@ -6106,54 +6184,64 @@ it is very freaky when it feels like “me or someone maybe couldn’t have figu
 very unpleasant, at first, at least for me
 
 
-N
+**N**
+
 Does anything else matter, aside from looking when feel stuck?
 
 
-Mark
+**Mark**
+
 > What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
 
 has to do with deep contingent structure of any particular system based on experiences that person has had and prior attentional propensities
 
 
-Mark
+**Mark**
+
 hard to explicate which is why personal global wayfinding can help
 
 
-N
+**N**
+
 Wanna unpack 'prior attentional propensities'?
 
 
-Mark
+**Mark**
+
 including possibly reads by people who are a bit farther on the journey
 
 the experiences we have determine the structure of the system and the future propensities of the system
 
 
-N
+**N**
+
 > What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
 
 > Wanna try unpacking the gears behind 'deep contingent structure of...'?
 
 
-Mark
+**Mark**
+
 so the necessary order of refactoring of a system will depend on that causal history
 
 
-N
+**N**
+
 What do you think determines the amount of time one needs to look at their feet? Like, why a lot or a little in certain cases?
 
 Maybe with an example
 
 
-Mark
+**Mark**
+
 it’s really hard to say. if someone ignored their feet a lot or spent a lot of time attending to their feet, at some point in their life. then, in meditation or whatever, they’ll probably need to spend a lot of time with their feet.
 
 it’s like a collection of loosely coupled stacks, in the computer science sense. LIFO: last in first out, in terms of the order one needs to sort of touch stuff in to refactor  
 
 loosely coupled partial orderings
 
-N
+**N**
+
 So from a subjective experience viewpoint, what mostly happens is just you staring at feet and nothing really happens while you're doing it  
 
 And you do it for a long time
@@ -6161,17 +6249,20 @@ And you do it for a long time
 Maybe regularly or at once
 
 
-Mark
+**Mark**
+
 kind of. one can keep running navigational stuff like meta protocol, but there can be a lot of up-front uncertainty.
 
 the “how” matters, too. things like top-down attending vs “letting feet come to you” and stuff like that. and might need to interleave many other things. could extend timeline if just forcefully tried to attend to something in a contiguous block. needs to be patient, gentle, curious, cautious, etc. etc.
 
 
-N
+**N**
+
 Is it a linear thing? I.e. the less you looked at feet before, the more you gotta do it? What happens behind the scenes while you do it?
 
 
-Mark
+**Mark**
+
 but yeah, it can take a long time before one gets a sense of whether “something’s happening” or not. it’s a very gradual increase in sensitivity and long-range wayfinding
 
 i think it’s sublinear for any particular thing and superlinear globally
@@ -6179,13 +6270,15 @@ i think it’s sublinear for any particular thing and superlinear globally
 but still practically finite. a fraction of the time one has already been alive
 
 
-N
+**N**
+
 ^ don't understand sub/supra
 
 Also would like to get an answer to 'what happens behind the scenes', if ok
 
 
-Mark
+**Mark**
+
 so like if feet stuff was weird for five years, then maybe only need 500 hours of feet stuff and not five years of feet stuff
 
 there’s a compression thing
@@ -6197,32 +6290,39 @@ lots of recursion
 behind the scenes it’s like A comes into contact with B and yields A-prime and B-prime, and there’s like a huge number of these little interactions that have to occur and reoccur
 
 
-N
+**N**
+
 What's ‘A-prime'?
 
 
-Mark
+**Mark**
+
 A-prime is A but a little different
 
 
-N
+**N**
+
 (prime, is that from maths?)
 
 Ok
 
 
-Mark
+**Mark**
+
 yeah
 
 
-N
+**N**
+
 And A and B are beliefs or something?
 
-Mark
+**Mark**
+
 beliefs, anticipations, synaptic potentials, something
 
 
-N
+**N**
+
 Cool
 
 And that happens unconsciously?
@@ -6230,38 +6330,46 @@ And that happens unconsciously?
 I assume
 
 
-Mark
+**Mark**
+
 one can infer it sometimes from skeletal muscle changes, tingles, insights, and other phenomenological changes, but it can seem like nothing is happening sometimes for many hours
 
 
-N
+**N**
+
 If something bubbles up to consciousness, then in what form?
 
 Cool
 
 
-Mark
+**Mark**
+
 insights, realizations, muscle tension changes, yeah  
 
 
-N
+**N**
+
 You have a list in the end of all stuff that could be useful to look through
 
-Mark
+**Mark**
+
 yeah
 
 
-N
+**N**
+
 Is there a way you can dissect that list? E.g. hands/feet usually are more useful, so try maybe starting with those first, but be gentle and self-aware etc etc
 
 
-Mark
+**Mark**
+
 i think i give some rough heuristics somewhere
 
 in various lists and more sections
 
 
-N
+**N**
+
 Where?
 
 Hm
@@ -6269,25 +6377,30 @@ Hm
 Can't recall seeing that
 
 
-Mark
+**Mark**
+
 extremities and stomach, not the head, are good places to experiment with, first. but too much can tangle further, etc,. etc.
 
 
-N
+**N**
+
 Aight
 
 
-N
+**N**
+
 Is there more info in those places in the protocol?
 
 
-Mark
+**Mark**
+
 > Is there more info in those places in the protocol?
 
 i don’t do too much of this because it’s so personally contingent and blocky suggestions might cause people to ignore subtle stuff that’s not in my suggestions
 
 
-N
+**N**
+
 Cool
 
 Aight thanks
@@ -6299,21 +6412,25 @@ How can you notice that I need to e.g. look more at feet?
 Is it something you infer from what I say and the types of problems I'm dealing with, for example?
 
 
-Mark
+**Mark**
+
 If something feels stuck, wrong, etc., but usually hope to e.g. look at feet long before that.
 
 
-N
+**N**
+
 Oh
 
 
-Mark
+**Mark**
+
 > Is it something you infer from what I say and the types of problems I’m dealing with, for example?
 
 usually not object level problems, though sometimes, but general patterns, yeah
 
 
-N
+**N**
+
 So in my case I don't feel like I'm completely stuck, more like 'it's moving too slow'. But I don't feel that I literally tried all I can and that my current way of dealing w stuff can't give me more progress atm
 
 Is that why
@@ -6325,35 +6442,41 @@ And maybe eventually naturally exhaust the potential
 Of what I'm doing?
 
 
-Mark
+**Mark**
+
 Maybe!! But can be good to keep alternatives in mind, too, and maybe interleave a little bit, increasingly over time
 
 
-N
+**N**
+
 But if I interleave, I won't be able to clearly notice that that's what's helping me
 
 And I'll keep thinking that my method is working
 
 
-Mark
+**Mark**
+
 There may be ways to do it while not confounding too much. Not entirely overlapping lead indicators.
 
 But it’s a good point
 
 
-N
+**N**
+
 Say more?
 
 Re ways
 
 
-Mark
+**Mark**
+
 you may notice different good things via your current way versus trying new things, making it possible to know where the good things are coming from  
 
 there will be some overlap, probably, but not complete overlap
 
 
-N
+**N**
+
 Oh
 
 Ok
@@ -6363,12 +6486,13 @@ Aight, cool
 Thanks for doing this conversation!
 
 
-Mark
+**Mark**
+
 you’re very welcome. thank you for your questions
 
 
 
-a note on "making progress," "regression," and redo-to-undo:
+### a note on "making progress," "regression," and redo-to-undo:
 
 It's important to have a model of progress that accounts for, nonarbitrarily, "anything could be happening at any time." Say things are sort of getting "easy and smooth" (or whatever), and it's been that way for a day or weeks, and then the next day things are choppy or distract-y, or whatever. That doesn't mean things have "regressed" or that progress isn't being made. *Anything* that the system has experienced in the past, thoughts, brain fog, depression, fear, anything--has to come up again sometime, in the course of meditation, because of the "redo-to-undo" "principle." Sometimes it'll be liminal, barely there, to be sure. Sometimes it'll be "in a "cradle/container" of "equanimity."" And, sometimes, something intense can/will come up that sort of takes over everything, like an immersive flashback or, less obviously, an old outlook or way of being, etc. It can also be very subtle, piecemeal things like "habits of mind." This can happen a lot, over thousands of hours. Additionally, sometimes very big intense stuff can happen, late in the game, because it took that long for there to be system-wide safety for that thing to to come up. (This could be the case, five to twenty times, or more, spaced out several months apart, as well as other possible patterns.) "The system makes it safe to look, and then looks, safe to have happen, then it happens..."
 
@@ -6576,7 +6700,7 @@ Notes:
 
 
 
-“psychic” and “supernatural” stuff: what/how/how-not: [draft]
+### “psychic” and “supernatural” stuff: what/how/how-not: [draft]
 
 This is a section about:
 
@@ -6600,7 +6724,7 @@ Contemporary, and relatively secular, Internal Family Systems therapy purportedl
 
 There are broad patterns or rules in all of these traditions for distinguishing between what’s what, what’s self and not-self, as it were, what’s false and true, and what’s good and what’s bad, and when, out of all of these apparent things. And these traditions have procedures and methods for what to do under various conditions.
 
-***
+\*\*\*
 
 I didn’t say this in the Culture section; but, here, I’ll straightforwardly assert that relatively high fidelity, “things” can apparently be “in your mind” but “not you.”
 
@@ -6610,7 +6734,7 @@ These sorts of “things,” “information,” “patterns,” “objects,” �
 
 (And, of course, not all of you, or necessarily any of you, feels “part like.” It’s not really accurate to say people are “made of parts.”)
 
-***
+\*\*\*
 
 So, here we go. There are a bunch of nuanced points to be made, here, so do please read this section carefully and maybe more than once.
 
@@ -6636,7 +6760,7 @@ Things get to make sense in the end, but they might not make sense in the middle
 
 More generally, for all this stuff, It can be good to have the goals of wellbeing (and safety), intellectual internal consistency (phenomenology, science, sociology, compassion, kindness, love), and understanding, while being open to suffering, inconsistency/contradiction, and confusion.
 
-***
+\*\*\*
 
 One might ask, why engage with this sort of thing at all, on any timeline? The answer is that “not-you” things, whether neutral, malevolent, or benevolent, “real” or “illusory,” all things being equal, will typically, eventually, sooner or later, become a bottleneck on meditative progress. There will typically be a way in which they are subtly “against the grain” of one’s (body)mind and will eventually “get in the way.” There’s some sense in which they need to be “metabolized” or “integrated.”
 
@@ -6678,7 +6802,7 @@ It’s more like, perhaps, you get to appreciate the goodness and badness of thi
 
 So, if something is “metabolized,” it might be that all that’s left is a (nonreactive, nontraumatic) memory and/or the knowledge and confidence for how to deal with such things in the future. It could be more than that, too—e.g. some “bad” thing might be “brave,” and you might want to keep some aspect of that braveness around or, more likely, even just use the inert memory of it as inspiration for your own braveness on your own terms. Or you might use something “bad” as inspiration for how to be the opposite of that. As discussed above, you can keep anything you want to keep, in the way you want to keep it, or it can just be the knowledge that something happened, likely “truly having made peace with that,” on, say, truly your terms.
 
-***
+\*\*\*
 
 So, by “metabolization” or “integration” hopefully it’s clear that I mean something very methodologically specific (through very flexible, in the concretes) and also very contingently personal.
 
@@ -6710,7 +6834,7 @@ And, you’ll make mistakes! Sometimes you’ll find that something you’ve bee
 
 Given the ways in which the mind is “lossless,” even “propagated” and “entrenched” errors can be undone, unentrenched. Any “mistake” can be undone, whether from five minutes ago or back from within your prenatal first seconds of consciousness. (Yes; that may need to be a whole other section, in a similar style to this section.) This is (very) long-range wayfinding, and there will be wrong turns, and it’s ok.
 
-***
+\*\*\*
 
 There are maybe a few fairly general patterns that can pop up pretty often:
 
@@ -6720,7 +6844,7 @@ There maybe is also “making it safe for this to possibly have been me all alon
 
 There is also “making it safe to provisionally accept/allow the seeming felt goodness/attractiveness in this bad/evil/horrifying/distasteful/disgusting thing and then basking in that savoring that, for the purpose of coming to ultimately impartial conclusions.” As discussed in the culture section, even if lots of bad stuff came along with it, “knowingly or unknowingly” (to some part of you), there will probably be something tempting, attractive, seemingly good, in there, too, that will need to be evaluated. The bodymind is very conservative and doesn’t want to throw away possibly good things, no matter how problematic the circumstances of encountering those good things! Preferentially, the mind will “detoxify” rather than discard.
 
-***
+\*\*\*
 
 Nearing the conclusion, anyway, again, some people will barely encounter any of all of this, or won’t for a very long time, and other people will encounter a bunch of it, up front, and/or it will even be pretty central for a while, maybe getting bad or worse, in a bunch of different ways, before it gets better.
 
@@ -6728,7 +6852,7 @@ But, on the other side, things will be simpler, safer (for self and others), wit
 
 And, you might find that you want to frame/conceptualize all of this in a very different way than the one I’m using, here. And, my pedagogical or actual frame, position, etc., will change in various ways, too.
 
-***
+\*\*\*
 
 A final rant, in a bit of a different tone, from some previous scratch notes:
 
@@ -6743,7 +6867,7 @@ As per the Culture section of the document, most of time, maybe almost all of th
 And, do maybe read the Culture section for more thoughts on ascribing blame, intention, intent, etc., if you experience these sorts of things, in or via your immediate or past environments. It’s tricky stuff, and sometimes people are “doing things” well outside of their awareness or reflective intent. And sometimes you’re the only one affected, or you’re the catalyst, or it was “only in your own head all along,” or everyone bears some “responsbility”/responsibility, or a particular thing is good for some people and bad for others. And, other times, someone really especially did some sort of especially focused thing (occult, meditative), in the past, reflecitvely or not, which contributed to them doing something predatorial or coercive now (and they might be, at least initially, belligerently defensive, or horrified, or not). And you might find that that (partly) coercive person is actually you, or both of you, or some third party.
 
 
-***
+\*\*\*
 
 Further reading:
 
@@ -6781,15 +6905,15 @@ https://en.wikipedia.org/wiki/Distributed_cognition
 
 
 
-self and other; good and bad:
+### self and other; good and bad:
 
 [please read the section, “psychic” and “supernatural” stuff: what/how/how-not, before this section]
 
-***
+\*\*\*
 
 [The first draft of this, below, came out extremely “stilted!” The first few sentences and paragraphs are especially bad, particularly rough going, and it gets at least a little bit better, as you continue on.]
 
-***
+\*\*\*
 
 One could imagine a person having a “deepest” or “bare metal” or “enacted” understanding of things like individuation, individuality, identity, personhood, will, agency, autonomy, etc..
 
@@ -6815,7 +6939,7 @@ And, ultimately, in a bad case, a person might end up having aggregated large �
 
 That said(!), one might imagine this mixing to sometimes be relatively harmless or even a useful mechanism of group cohesion. (I can imagine it being contingently harmless and useful, sometimes.) But, at least some of the time, as per an earlier section, because this process is sort of “messy,” and “confusion-based” (as claimed, here), any mixing will, over time, potentially create tangles and technical debt, as it were, for someone. So, while it might short-run be unnoticeable or positive, over time it can tend to gum up, jam up, limit positive and self-valued individual and group change, causing personal transformative arrest and group transformative arrest. Further, of course, of course, of course, additionally, individuals might prospectively, retrospectively, and god’s-eye-view, as it were, not want this mixing to occur(!!!), for any personal reason at all, including things like tangling or gumming up.
 
-***
+\*\*\*
 
 This can all be very tricky to talk about, for several reasons. (Note, when I say “talk about,” here, I mean “talk about,” in general, not about any particular concrete incident or ongoingly extended situation. Though, both sorts of discussions can be good. Importantly, any particular person might not want to talk about this sort of thing with any other particular person, for any reason at all, including the avoidance of any (additional) possible subtle (or not at all subtle) effects between those two people.)
 
@@ -6843,13 +6967,13 @@ X is bad, X is good, X doesn’t exist and X-prime does, X isn’t a monolith, i
 
 And, so, all this “emotional charge” can make it hard to talk about things like, say, “good-faith meta-cohesion” (or live-and-let-live!), let alone an exploration of ideas like individuation and identity confusion, let alone exploring those confusions over a long period of time, let alone doing so if/while problematic interpersonal effects are still happening, making it hard to interact in e.g. real time at all.
 
-***
+\*\*\*
 
 In conclusion, one could be thought of as sometimes having a scattering of “deep” understandings, and confusions, around individuation, individuality, identity, personhood, will, agency, and autonomy. These understandings and confusions ramify in ways that can sometimes have strong effects on interpersonal and group interactions, to say the least. And, over time, an individual can resolve more and more of these confusions, using tools like meditation, making it easier and safer to interact choicefully and flexibly and safely with other individuals and groups, or to avoid such interactions. A long-run meditator will have a deep, functional, enacted, integrated understanding of individuality and interconnectedness, all things being equal, though asymptotically and sometimes with abrupt reversals, along various dimensions, late in the game. And/but, over time, one might expect more and more fruitful, safe, constructive convergence around “goodness, safety, beliefs, plans, goals, agency, autonomy” between meditators, holding ideas about all such things, and all this, lightly.
 
 
 
-prenatal experiences:
+### prenatal experiences:
 
 [please read the section, “psychic” and “supernatural” stuff: what/how/how-not, before this section]
 
@@ -6875,7 +6999,7 @@ During the prenatal period is when we work out our first takes on individuality,
 
 Now, of course, prenatally, there is the mother—hormones, voice, body movements, heartbeat, and more. It seems many fetuses are aware of the mother and possibly conceptually/experientially undifferentiated with the mother. The mother, being partially separate, contributes both to successful differentiation, individuation, and conceptions of self versus other (and more), while also being a source of confusion about these things (and more).
 
-***
+\*\*\*
 
 Sort of continuing to take things in order of more and more intense and controversial, recall in a previous section about me/not-me confusions, how “mind stuff” from other people can be “in you,” with highly counterintuitive (and controversial, and seemingly even impossible or confabulatory) fidelity, bandwidth, degree, amount, etc. This happens, too, between mother and child. And, surely, much of this is healthy and possibly even essential to development. (Just like postnatal babies need touch and attention, one wonders what counterfactual children of the future would be like, if grown in artificial wombs, meters or miles away from a parent, however humane and liberating that might be along lots of dimensions.)
 
@@ -6889,7 +7013,7 @@ Further, fetuses, babies, people, everyone makes mistakes! Even if a mother is w
 
 So, I’ll just note that this stuff is hard, life is hard, this stuff is subtle and barely talked about, and everyone’s doing their best, lots of good stuff happens, and sometimes bad stuff happens, too. And, all things being equal, all the bad stuff is retroactively correctable, in principle, with meditation and other approaches. To borrow an old saying, it’s never too late [for a meditator] to have a good childhood (and prenatal experience), as it were.
 
-***
+\*\*\*
 
 Ok, so there’s one more thing to mention, in this section, and that is miscarriages, abortions, and older siblings.
 
@@ -6901,7 +7025,7 @@ My dataset is currently small, so I don’t know how many people who’ve come a
 
 (Interestingly, everyone so far in my dataset was firstborn, so I don’t know what it’s like to encounter prior patterns/traces of one’s older siblings as a fetus.)
 
-***
+\*\*\*
 
 This has been a difficult section to first-pass draft, because it could come off as mom-blame-y as well as sort of fatalistic, regarding far-reaching, possible harms in the distant past that we had no control over. And then there’s how unbelievable some of this stuff is, if one hasn’t experienced some aspect of it, firsthand. And, finally, there’s even the political/ideological and moral elements, regarding prenatal experiences and downstream effects.
 
@@ -6917,7 +7041,7 @@ And, but, so, in any case, in principle, resources permitting, as I mentioned a 
 
 
 
-direct and indirect people and group stuff:
+### direct and indirect people and group stuff:
 
 [please read the section, “psychic” and “supernatural” stuff: what/how/how-not, before this section]
 
@@ -6927,31 +7051,31 @@ In the course of meditation, one might seemingly find things from the people and
 
 “Things” that you “find,” which could be feelings, patterns, sentiments, impulses… can be abuse-related, trauma-related, violent, sexual, coercive, etc. One may well encounter positive things, too. Positive things tend to be less apparent because they’ve become more integrated, metabolized. Negative things tend to be more “coaleseced,” “object-like,” “thing-like,” which is can make it seem like there’s more negative than positive, generally, even when that’s not the case.
 
-lovers
-nuclear family
-extended family
-parents
-grandparents
-great grandparents…
-friends
-friendship group stuff
-small group activity stuff
-cohousing stuff
-workplace stuff
-community stuff
-the cultural milieu
-“great power” ideologies
-your religious or ethnic culture, belief, metaphysics, or cosmology
-other religious or ethnic culture, belief, metaphysics, or cosmology
-secular/“secular” contemporary culture, belief, metaphysics, or cosmology
-secular/“secular” contemporary subgroups’, belief, metaphysics, or cosmology
-nationalist ideologies
-global conflicts
-cultural and historical “curses”
-cultural and historical “paranoia”, fear, trauma, etc.
-generational salience, trauma, and ideology from the past 10-50 years
-salience, trauma, ideology, colonialism from the past several hundred years
-belief, religion, cosmology from different parts of the world, seemingly going back thousands of years or into prehistory
+* lovers
+* nuclear family
+* extended family
+* parents
+* grandparents
+* great grandparents…
+* friends
+* friendship group stuff
+* small group activity stuff
+* cohousing stuff
+* workplace stuff
+* community stuff
+* the cultural milieu
+* “great power” ideologies
+* your religious or ethnic culture, belief, metaphysics, or cosmology
+* other religious or ethnic culture, belief, metaphysics, or cosmology
+* secular/“secular” contemporary culture, belief, metaphysics, or cosmology
+* secular/“secular” contemporary subgroups’, belief, metaphysics, or cosmology
+* nationalist ideologies
+* global conflicts
+* cultural and historical “curses”
+* cultural and historical “paranoia”, fear, trauma, etc.
+* generational salience, trauma, and ideology from the past 10-50 years
+* salience, trauma, ideology, colonialism from the past several hundred years
+* belief, religion, cosmology from different parts of the world, seemingly going back thousands of years or into prehistory
 
 
 
@@ -6985,16 +7109,16 @@ Did I vibe well?
 
 
 
-civilizational stuff:
+### civilizational stuff:
 
 
-buddhas, anti-buddhas, civilization, and the importance of method [draft]:
+### buddhas, anti-buddhas, civilization, and the importance of method [draft]:
 
 Hopefully without detracting from the gravity of what I'm writing about, I want to note that I am not a scholar or a historian, so there will be some inadvertent cherry picking and possibly howlers or just highly questionable assertions and inferences, not to mention history-writing winners, and all that. But, here we go.
 
 Also, content warning, this starts out maybe a little dark, or at least gray, and then gets darker further in.
 
-*
+\*
 
 There is the "banality of evil"--everyday cruelty, neglect, professional sadomasochism, and "just following orders."[*]
 
@@ -7018,13 +7142,13 @@ Reasoning about equilibria also suggests that seeming utopias often have a hidde
 
 It takes (a) serendipitious or deliberate advances in abundance or (b) serendipitious or deliberate advances in coordination, to truly, positive-sum break out of bad equilibria.
 
-*
+\*
 
 An example of problematic coordination, a combination of good and bad, might be Christianity. See perhaps Girard. Christianity yielded a "universal scapegoat" and an "all-encompassing goodness out there." These may have reduced war, facilitated trade, not to mention they're a source or deep meaning and coherence. One could also argue (as I believe) that these, at least the straw versions, are partially inappropriate reifications, to the degree they've been non-incidental in violence and oppression (arguably crusades, colonialism, imperialism, prejudice, etc.).
 
 Another example of problematic coordination, could be just modernity itself, in the form of (somewhat unnecessarily comingled) reason, so-conceived mind/body dualism, and so on. To the degree that these ideas and situated behaviors are problematic, while producing extraordinary wealth and life improvements, they've arguably also contributed to the dissociation of "the big three," truth, goodness, and beauty, after Ken Wilber, and arguably contributed to atomization, ennui, anomie, and heavily falling birthrates.
 
-*
+\*
 
 I'm writing this draft in 2021 (2021-02-20). This will necessarily be written without historical perspective, in some sense, but I think the asymptotic limit of "doing good history" can be *very* good. I'm certainly not there, yet, in this draft--so this might age quite poorly or is even contemporaneously "cringe." (Again, I don't want to detract from gravity, but I want to lampshade that "cringe," in quotes, is cringe.)
 
@@ -7038,7 +7162,7 @@ Neopastoralism?
 
 How might we get there? What are the challenges?
 
-*
+\*
 
 For context (and this could be accurate or incredibly not-even-wrong or overstated, either my paraphrase or the source material [5,6]), in ancient, net-zero-sum wider environments, tribes will:
 
@@ -7048,7 +7172,7 @@ For context (and this could be accurate or incredibly not-even-wrong or overstat
 4. acquire more resources and women (rape) through war, which also kills men, and the male/female ratio improves, as well as the resource/population ratio.
 5. repeat
 
-*
+\*
 
 One could say that civilization is the de-escalation of violence [*] through positive-sum coordination. Perhaps, the more positive-sum-ness there is, the more civilization (and adequate equilibria, etc.) and abundance there is. (I am mixing math [metaphors] with synthetic a posteriori descriptions and claims, but, first-pass.)
 
@@ -7058,7 +7182,7 @@ If creativity and generativity are "circularly-causally-downstream" of (body)min
 
 But, e.g. meditation, and the sociological context that circularly-causally facilitates it, isn't good enough, yet, neither the "meditation technology" nor the "social technology." There is more to do.
 
-***
+\*\*\*
 
 Changing topics, slightly, depending on current technology and methods, the available mental/social milieu will sort of stochastically produce net-positive and net-negative "coordinators."
 
@@ -7094,7 +7218,7 @@ Part of the reason a method sort of needs to be able to eat itself is that "meth
 
 Note, this is so hard. As far as I'm aware, just by way of an aside, there was plenty of politics, violence, assassinations in native Buddhisms, throughout history. Hindu contemplatives, highly enlightened, were often warriors, for better and worse, as far as I'm aware. And, people, even with good method, with have a few "deeply hidden/entrenched issues [see the list above]" that will need many years to be addressed.
 
-*
+\*
 
 Now, an "anti-buddha" (or whatever), can be very historically problematic. I'm using the rather extreme term anti-buddha because there's a sense in which they really actually "go against" the "metaphysical (non-)truths" that are revealed through correct meditative practice, and they can spread that "perfect antispirituality."
 
@@ -7136,7 +7260,7 @@ Finally, an anti-buddha might even be "anti-bodhisatva" because of expanding and
 
 Someone applying incomplete methods is more likely to have magnified and problematic "psychic"/"siddhi" stuff going on, which can lead to contagious fantasy/reality confusion as well as increased "psychic contagion" in general. ("Reality" is generally a fluid, personal thing, modulo non-inappropriately-reified "truth," all things being equal, but there can be particularly problematic possible confusion.) Then, if that person or anyone else in the environment, also has violent ideation, which would otherwise be private and known-to-be-non-real, people might pick up on the ideation, on some level feel like it's real, and this can lead to interpersonal escalating paranoia cycles and even physical violence.
 
-*
+\*
 
 In some sense, we all sort of want to be left alone to grow and play, to acquire wider ambitions, deeper intimacies, wider vistas, at our own pace.
 
@@ -7154,19 +7278,19 @@ Additionally, anti-buddhas aside, transformative practices can directly help ind
 
 Good methods, directly and indirectly, can be used for deescalation and creation. And a fully complete method is, in some sense, perhaps, a very narrow range of things, indeed. (Though, it will include expansive reverie, long aimless walks, creatively, play, etc.)
 
-*
+\*
 
-[1] Meditations on Moloch. https://slatestarcodex.com/2014/07/30/meditations-on-moloch/ Scott Alexander. [Last accessed: 2021-02-20]
-[2] Yudkowsky, E. Inadequate Equilibria. 2017.
-[3] Bastani, Aaron. Fully automated luxury communism. Verso Books, 2019.
-[4] https://knowyourmeme.com/memes/cultures/fully-automated-luxury-gay-space-communism [Last accessed: 2021-02-20]
-[5] Gat, Azar. "The human motivational complex: Evolutionary theory and the causes of hunter-gatherer fighting. Part I. Primary somatic and reproductive causes." Anthropological Quarterly (2000): 20-34. [Note: I haven't carefully read this paper, yet.]
-[6] https://flakmaniak.tumblr.com/post/626019326990876672/polygyny-infanticide-and-conflict-in-sexually [Last accessed: 2021-02-20] "polygyny, infanticide, and conflict in sexually imbalanced hunter-gatherer populations"
-[7] Turchin, Peter, and Sergey A. Nefedov. Secular cycles. Princeton University Press, 2009.
-[8] Ray Dalio's published and not-yet-published work on credit cycles.
+* [1] Meditations on Moloch. https://slatestarcodex.com/2014/07/30/meditations-on-moloch/ Scott Alexander. [Last accessed: 2021-02-20]
+* [2] Yudkowsky, E. Inadequate Equilibria. 2017.
+* [3] Bastani, Aaron. Fully automated luxury communism. Verso Books, 2019.
+* [4] https://knowyourmeme.com/memes/cultures/fully-automated-luxury-gay-space-communism [Last accessed: 2021-02-20]
+* [5] Gat, Azar. "The human motivational complex: Evolutionary theory and the causes of hunter-gatherer fighting. Part I. Primary somatic and reproductive causes." Anthropological Quarterly (2000): 20-34. [Note: I haven't carefully read this paper, yet.]
+* [6] https://flakmaniak.tumblr.com/post/626019326990876672/polygyny-infanticide-and-conflict-in-sexually [Last accessed: 2021-02-20] "polygyny, infanticide, and conflict in sexually imbalanced hunter-gatherer populations"
+* [7] Turchin, Peter, and Sergey A. Nefedov. Secular cycles. Princeton University Press, 2009.
+* [8] Ray Dalio's published and not-yet-published work on credit cycles.
 
 
-sketching alternatives to straw realism (international and group relations) [draft!][2500 words]:
+### sketching alternatives to straw realism (international and group relations) [draft!][2500 words]:
 
 [Originally published: https://meditationstuff.wordpress.com/2020/05/03/sketching-alternatives-to-straw-realism-international-and-group-relations-draft2500-words/ Last accessed: 2021-02-20]
 
@@ -7184,14 +7308,14 @@ Again, the straw realist single mindedly seeks total power because they believe 
 
 But! What if!
 
-Sender criteria:
-	(*) a person (or group) could sufficiently competently *enact* nonviolent/peaceful/collaborative intentions
-	(*) a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+* Sender criteria:
+	* a person (or group) could sufficiently competently *enact* nonviolent/peaceful/collaborative intentions
+	* a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
 
-Receiver criteria:
-	(*) a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
-	(*) a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/peaceful/collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
-	(*) a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/peaceful/collaborative intentions
+* Receiver criteria:
+	* a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+	* a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/peaceful/collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
+	* a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/peaceful/collaborative intentions
 
 Let’s call a person (or group) that has all of both the sender criteria and the receiver criteria a “straw enlightened person” (or group).
 
@@ -7211,18 +7335,18 @@ So maybe things are “fine,” modulo continued human suffering, and getting re
 
 The straw realist might say that all the “fine” and “getting more fine” is a veneer or at least very fragile: “At the bottom is fear, threat, and selfishness or tribalism, and everything is held together, barely, by bluff or commitment to credible violence, nuclear weapons, domestic police or peace officers, or otherwise: USA/Russia/China/whoever, these visions of the world are different–goodness and especially safety LOOK DIFFERENT to different powers, and irreconcilably so. Heck, deep-down, some people think the best way to ‘save’ the world is to ‘destroy’ it, first! So trust is naive. Nuclear weapons, space weapons, and unstoppable, undetectable micro-drone assassinations, that look like naturally caused death are all there is. [non-straw-realist/editor’s note: As far as I know, the latter micro-drones don’t currently exist and maybe can’t practically exist or be worthwhile.] And global warming, pandemics, fast global travel, and globe-spanning weaponry are only making things more fragile.”
 
-***
+\*\*\*
 
 If one would like to gaze into the abyss, one can even dive into a deep well of fear and paranoia. One might even think they have only two choices, between (1) a “normal,” intimate, safe life. (A powerless life???????? An ignorant life?????????) And then (2) some sort of abyss-gazing thing that, extreme worst case, accidentally gets themselves “disappeared,” through maybe some impulse to act in the face of seeming-otherwise meaninglessness or feared-inconsequentiality.
 
 And, so…
 
-(*) What is the world?
-(*) Is the world safe or unsafe?
-(*) Is the world good or bad?
-(*) What is a life?
-(*) Are you, personally, safe or unsafe?
-(*) Is your life good or bad?
+* What is the world?
+* Is the world safe or unsafe?
+* Is the world good or bad?
+* What is a life?
+* Are you, personally, safe or unsafe?
+* Is your life good or bad?
 
 How do these questions get answered?
 
@@ -7234,7 +7358,7 @@ We practically don’t even ever know there’s ever even a there, there, unless
 
 On the other hand, through the grace of serendipity, imperfect friends and mentors, that crazy google search, the spontaneous, inherent nature of our mind and will, there’s this other sense in which we are not products of our environment; we are something discontinuously more than the products of our environment, ever always striving towards transcendence of contingency and limitation, towards safety and wellbeing, perhaps in some causally consistent sense.
 
-***
+\*\*\*
 
 The way it can kind of go, is that some people are living an actually, truly, really good (enough) life. The whole world, at the moment, breaks down without machinists, truck drivers, automators, programmers, lawyers, doctors, stockers, politicians, diplomats, soldiers, something. It’s not perfect, but, right here, right now, there are so many roles that are keeping the thing going. Sometimes it’s actually not that fragile, and sometimes it is. But all these roles are, at least in part, positively impacting other people, at least locally and partially. (And sometimes these roles are part of an actually, truly, really good (enough) life, and sometimes these roles are a part of life “led in quiet desperation.” When life is hard, it’s hard; And, it often is. It just depends.) And/but, with these roles being enacted, the world keeps going, with a chance of getting to a better thing.
 
@@ -7250,7 +7374,7 @@ Sometimes, maybe often, people mistake childhood hurt or misinterpretation as th
 
 But, through therapy, journaling, meditation, long walks in nature, friendship, intimacy–bottleneck can become process-in-context. Therapy, meditation, etc.–these are privileges, to be sure. They require just enough health, just enough money, just enough space, just enough time, if not an abundance, of all of these, and these things are unevenly distributed, and hard choices might be needed to determinedly acquire them.
 
-***
+\*\*\*
 
 Whatever the world is, what ever a life is, safe or unsafe, good or bad, desperate or secure–the heart beats, the lungs breath, gravity and oxygen and warmth and atmosphere persist and nourish, in this moment, and the next, and the next. In some sense, we will only ever know this.
 
@@ -7270,14 +7394,14 @@ Can we all be straw enlightened people or groups? Is it too late?
 
 There’s maybe a piece left out of the criteria above. I know they’re phrased awkwardly, but I chose the words pretty carefully, single pass, if you’ll look at them again. I’ve copied them again, here, exactly:
 
-Sender criteria:
-	(*) a person (or group) could sufficiently competently *enact* nonviolent/peaceful/collaborative intentions
-	(*) a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+* Sender criteria:
+	* a person (or group) could sufficiently competently *enact* nonviolent/peaceful/collaborative intentions
+	* a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
 
-Receiver criteria:
-	(*) a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
-	(*) a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/peaceful/collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
-	(*) a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/peaceful/collaborative intentions
+* Receiver criteria:
+	* a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+	* a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/peaceful/collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
+	* a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/peaceful/collaborative intentions
 
 Ok, but then, one more time, the straw realist says, “Well, I hate people, and/or I think your culture is disgusting, and/or the world must be burned to the ground to save it. Or, if I don’t think that, someone else will. So what of your ideals or beautiful aspirations? Violent power is what matters; violent power is security. And then the whole thing is just waiting to blow up.”
 
@@ -7295,17 +7419,17 @@ Some might find, through service or practice, the sense, compatible with materia
 
 One might keep asking, what does the best safely reachable world look like? And, it might look very different from this one. And the way to get there might look very strange, while maybe necessarily being a path that is humane, non-authoritarian, and non-coercive, nonviolent while still self-recognizably requiring challenging growth and change for many. All the details matter; if you’ll permit me: we’re all paranoid, indignant humans, myself included. And there are real predators among us and within all of us, though they deserve compassion and a recognition of the sense in which this is not our true nature. And/but, while the stakes are real, in any case, so much is so good, now; and, in this exact very moment you are safe; and nothing is required of you; you have no duty, there is no judge; and that best safely reachable world might look very good, indeed…
 
-[1] https://en.wikipedia.org/wiki/Realism_(international_relations)
-[2] https://en.wikipedia.org/wiki/Totalitarianism
-[3] https://en.wikipedia.org/wiki/Security_dilemma
-[4] https://en.wikipedia.org/wiki/Polarity_(international_relations)#Nonpolarity
-[5] https://en.wikipedia.org/wiki/Liberalism_(international_relations)
-[6] https://en.wikipedia.org/wiki/Proxy_war
-[7] https://meditationstuff.wordpress.com/2019/09/17/human-epistemic-dynamics-and-phenomena/
+* [1] https://en.wikipedia.org/wiki/Realism_(international_relations)
+* [2] https://en.wikipedia.org/wiki/Totalitarianism
+* [3] https://en.wikipedia.org/wiki/Security_dilemma
+* [4] https://en.wikipedia.org/wiki/Polarity_(international_relations)#Nonpolarity
+* [5] https://en.wikipedia.org/wiki/Liberalism_(international_relations)
+* [6] https://en.wikipedia.org/wiki/Proxy_war
+* [7] https://meditationstuff.wordpress.com/2019/09/17/human-epistemic-dynamics-and-phenomena/
 
 
 
-karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words):
+### karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words):
 
 [Originally published: https://meditationstuff.wordpress.com/2020/04/23/karma-losslessness-developmental-stage-models-violence-world-including-ken-wilber-and-robert-kegan-draft-6000-words/ Last accessed: 2021-02-20]
 
@@ -7379,16 +7503,16 @@ A lot of meditation teachers downplay or deny the relationship between meditatio
 
 But meditation does seem to go through stages, so it seems natural to try to line up meditative stages, somehow, with developmental stages. Meditation stages might be something like, I don’t know:
 
-(*) “figuring out what to provisionally be doing, at least to start,”
-(*) getting intimations of “emptiness”
-(*) entering the stream (deep though partial insight into emptiness)
-(*) … [intentional ellipses]
-(*) refactoring experiential-conceptual containment relations
-(*) integration of body and mind
-(*) diminishment of self-referential phenomena
-(*) sensory stream refactoring and semi-parallelization
-(*) … [intentional ellipses]
-(*) standing as awareness (and beyond)
+* “figuring out what to provisionally be doing, at least to start,”
+* getting intimations of “emptiness”
+* entering the stream (deep though partial insight into emptiness)
+* … [intentional ellipses]
+* refactoring experiential-conceptual containment relations
+* integration of body and mind
+* diminishment of self-referential phenomena
+* sensory stream refactoring and semi-parallelization
+* … [intentional ellipses]
+* standing as awareness (and beyond)
 
 (The above lines up a tiny bit, in places, with the classical stages/progress of insight, but that’s a tighter/shorter loop, as it were.)
 
@@ -7428,10 +7552,10 @@ So meditation is good(?) but meditators aren’t generally that impressive? A pa
 
 I would point to at least three things:
 
-(*) the intrinsic nonmonotonicity of meditation
-(*) the state of meditation pedagogy
-(*) cultural disprivilege of meditating
-(*) contingent life tradeoff imbalances
+* the intrinsic nonmonotonicity of meditation
+* the state of meditation pedagogy
+* cultural disprivilege of meditating
+* contingent life tradeoff imbalances
 
 To take all of these, briefly:
 
@@ -7537,15 +7661,15 @@ Ok, so how does this damn thing actually work? There are deep fundamentals, at l
 
 Things of course have changed, though:
 
-(*) monotheism
-(*) agriculture
-(*) bronze, steel
-(*) global fast travel (ship, air) [enabling rise of the great powers and global competition, according to at least one sociologist]
-(*) global fast communication (telegraph)
-(*) global information (internet)
-(*) global search (google, amazon books, google books, google scholar, scopus, web of science)
-(*) computation, biotech, etc.
-(*) intercontinental missiles, drones, satellite weapons
+* monotheism
+* agriculture
+* bronze, steel
+* global fast travel (ship, air) [enabling rise of the great powers and global competition, according to at least one sociologist]
+* global fast communication (telegraph)
+* global information (internet)
+* global search (google, amazon books, google books, google scholar, scopus, web of science)
+* computation, biotech, etc.
+* intercontinental missiles, drones, satellite weapons
 
 Any random person on the planet can craft a tweet with a nonzero chance that the most powerful people in the world will read it, seconds later. This is happening. The world is changing, more opportunities, more dangers (bioweapons, accidental pandemics, nuclear weapons are still a thing, mass authoritarian surveillance.).
 
@@ -7598,9 +7722,9 @@ And in any case, all that violence is still there. It’s still here. We’re al
 
 It seems that all violence breeds global-scale karma. It lives in the survivors, and, again, it lives in the murderers, even if there are no survivors.
 
-(*) There is direct physical violence (physical abuse, sexual abuse, deprivation, war).
-(*) There is direct psychological violence (coercion, authoritarianism).
-(*) And there is indirect “violence” desperation, poverty, etc.
+* There is direct physical violence (physical abuse, sexual abuse, deprivation, war).
+* There is direct psychological violence (coercion, authoritarianism).
+* And there is indirect “violence” desperation, poverty, etc.
 
 This violence doesn’t go away, and it breeds individual and global karma.
 
@@ -7634,10 +7758,10 @@ Under the present realities of suffering, old age, sickness, and death, perhaps 
 
 One step at a time, one mind moment at a time.
 
-[1] https://en.wikipedia.org/wiki/Tetris
-[2] https://en.wikipedia.org/wiki/Tetromino
-[3] https://en.wikipedia.org/wiki/Tetrisphere
-[4] https://en.wikipedia.org/wiki/Gas_giant
+* [1] https://en.wikipedia.org/wiki/Tetris
+* [2] https://en.wikipedia.org/wiki/Tetromino
+* [3] https://en.wikipedia.org/wiki/Tetrisphere
+* [4] https://en.wikipedia.org/wiki/Gas_giant
 
 
 
@@ -7786,17 +7910,17 @@ Unintegrated scratch pieces:
 
 
 
-technical debt, meditation, and minds:
+### technical debt, meditation, and minds:
 
 [Originally published: https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/ (Last accessed: 2020-09-05)]
 
->>>
+\>\>\>  
 Technical debt (also known as design debt or code debt) is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.
 
 Technical debt can be compared to monetary debt.[3] If technical debt is not repaid, it can accumulate ‘interest’, making it harder to implement changes later on. Unaddressed technical debt increases software entropy. Technical debt is not necessarily a bad thing, and sometimes (e.g., as a proof-of-concept) technical debt is required to move projects forward. On the other hand, some experts claim that the “technical debt” metaphor tends to minimize the impact, which results in insufficient prioritization of the necessary work to correct it.
 
-https://en.wikipedia.org/wiki/Technical_debt (Last accessed: 2020-09-05)
-<<<
+https://en.wikipedia.org/wiki/Technical_debt (Last accessed: 2020-09-05)  
+\<\<\<  
 
 People have really been liking this metaphor, so I thought it would be good to explicitly call it out in a post. It’s not even really a metaphor; it’s just what’s happening.
 
@@ -7826,7 +7950,7 @@ Are you increasing technical debt or paying it off in your practice? How can you
 
 
 
-a spectulative comment on language learning:
+### a spectulative comment on language learning:
 
 [Originally published: https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/#comment-1962 (Last accessed: 2020-09-05)]
 
@@ -7846,7 +7970,7 @@ I believe that the ways in which some subset of eighty-year-olds (or forty-year-
 
 
 
-technical debt and inverse operations:
+### technical debt and inverse operations:
 
 
 [Originally published: https://meditationstuff.wordpress.com/2020/07/10/technical-debt-and-inverse-operations/ (Last accessed: 2020-09-05)]
@@ -7860,30 +7984,30 @@ ABC
 
 One could imagine experiences of these types accumulating further:
 
-ABC
-ABC
+ABC  
+ABC  
 
 But, let’s say a person has inverse operations -A, -B, -C. Then, while meditating, or in the midst of life, that person could apply those inverse operations to pay off technical debt:
 
-ABC -A
-ABC
-
- BC
-ABC
+ABC -A  
+ABC  
+  
+ BC  
+ABC  
 
 Let’s say the set of inverse operations, -A, -B, -C are enough for most life experiences. But, every once in a while something surprising and novel happens, like Z.
 
- BCZ
-ABC
+ BCZ  
+ABC  
 
 A person doesn’t have inverse operations for some things, so, all things being equal, over time, for an untrained mind, that person’s (body)mind will slowly accumulate technical debt over time.
 
 Additionally, say a person goes on vacation or starts taking long walks, all things being equal, they will only ever be able to pay off so much technical debt, because they lack inverse operations for “deeper accumulation.”
 
-   ZQRS
-DEF
-GHI
-...
+   ZQRS  
+DEF  
+GHI  
+...  
 
 In the example above, even if a person pays off all their ABC, they’re still slowly accumulating new technical debt, and they don’t have inverse operations for older and very old technical debt D, E, F, G, H, I… (And, they’ll encounter more ABC in life, so there’s sort of a dynamic equilibrium that people find themselves in, absent meditation or other transformative practice.)
 
@@ -7901,7 +8025,7 @@ To the degree people don’t eventually get overwhelmed with all their stuff, ev
 
 It can take a long time to sort of “phenomenologically align” with “undoing as such” to sort of knowingly, directly facilitate, participate, allow it as it’s happening. It’ll of course have always already been happening, to some degree, and it comes to happen more and more, unreflectively, prereflectively, and spontaneously, too. Eventually, it’s just a seamless, costless, creative thing that’s happening a ton, along with everything else in the mind, that the mind anticipatorily and skillfully inclines towards, as needed.
 
-***
+\*\*\*
 
 So the above is sort of simplified intellectual model, that leaves out stuff about “concrete sensory impressions,” and much more.
 
@@ -7913,7 +8037,7 @@ Meditation is felt wayfinding, meditation is felt puzzle-solving.
 
 
 
-merely just having the experience itself, and, technical debt is good, actually:
+### merely just having the experience itself, and, technical debt is good, actually:
 
 [Originally published: https://meditationstuff.wordpress.com/2020/08/17/merely-just-having-the-experience-itself-and-technical-debt-is-good-actually/ (Last accessed: 2020-09-05)]
 
@@ -7928,7 +8052,8 @@ Pre-notes:
 [There is a P.S. at the bottom.]
 
 I wanted to make sure that people don’t get too afraid of “accruing technical debt.” It’s a leaky abstraction, for one thing, even though it really, really fits.
-***
+
+\*\*\*
 
 Trying out a bunch of things, having a ton of plates spinning, keeping a lot of balls in the air, being in a new job, a new relationship, a new hobby—these kinds of things will tend to accrue technical debt. Prior to having put in tons and tons of meditation time, there’s sort of just too much going on to easily “integrate” in real time (or in stolen moments, or on long walks, or in meditation), because integration, when needed, takes real time, and sometimes a lot of time.
 
@@ -7950,7 +8075,7 @@ But, when that’s not going on, maybe, then—”always be living.”
 
 It’s ok to bumble through, sometimes at max crazy complexity. Have all the experiences.
 
-***
+\*\*\*
 
 If one takes the meditation journey, which does require some time and space, during some periods, for various kinds of nonmonotonicities, including making it over various technical debt payback humps (this is is one place I sometimes equivocated-ly use the term “escape velocity”), then here’s what eventually happens:
 
@@ -7980,13 +8105,13 @@ When things are too fast, too intense, too surprising, in a bad way, or a good w
 
 It’s about having a good life, and that’s about having concrete, sensuous experiences, with other people, in all their messy contingency. And/but, one is more and more prepared for that, and it gets easier and easier, to just get lost in life in a good way.
 
-***
+\*\*\*
 
 [1] https://en.wikipedia.org/wiki/Content-addressable_memory
 
 [2] https://en.wikipedia.org/wiki/Associative_array
 
-***
+\*\*\*
 
 P.S. What of the cliche of “broken monks?”
 
@@ -8006,30 +8131,31 @@ And this is part of why there can be claims of effortless complexity, while at t
 
 
 
-epistemics:
+### epistemics:
 
 
-meditation indirectly discloses domain knowledge:
+### meditation indirectly discloses domain knowledge:
 
 [Originally published: https://meditationstuff.wordpress.com/2020/06/01/meditation-indirectly-discloses-domain-knowledge/ (Last accessed: 2020-09-06)]
 
 grateful hat-tip to an indirect collaborator for raising this issue and offering these quotes:
 
->>>
-https://www.mctb.org/mctb2/table-of-contents/part-v-awakening/37-models-of-the-stages-of-awakening/the-specific-knowledge-models/
+\>\>\>
 
-On a totally different tangent, the specific knowledge models basically state or imply that awakening will somehow magically provide hidden conceptual information about all sorts of specific things in life, such as the workings of particle physics, how to bring about world peace, who our disciples should marry, and the like. Some go further and state that enlightenment progressively brings complete omniscience, meaning the ability to know everything simultaneously about every single part and particle of the entire at least eight hundred trillion mile–wide universe.
+> https://www.mctb.org/mctb2/table-of-contents/part-v-awakening/37-models-of-the-stages-of-awakening/the-specific-knowledge-models/
 
-[…]
+> On a totally different tangent, the specific knowledge models basically state or imply that awakening will somehow magically provide hidden conceptual information about all sorts of specific things in life, such as the workings of particle physics, how to bring about world peace, who our disciples should marry, and the like. Some go further and state that enlightenment progressively brings complete omniscience, meaning the ability to know everything simultaneously about every single part and particle of the entire at least eight hundred trillion mile–wide universe.
 
-While these might seem to some people like reasonable things awakened beings should somehow know, let’s include other things it might be good to know, such as how to create safe, inexpensive lithium ion batteries for electric cars, how to consistently beat the return of an S&P 500 index fund over the long haul, how to balance the federal deficit while providing everyone with outstanding social services and not raising taxes, how to instantaneously make every blue-collar Republican realize that they are voting against their own self-interest, and how to build a fusion reactor that is safe, inexpensive, produces enough energy for everyone on the planet, and has no radioactive disposal issues. When you consider these, the concept of specific knowledge gained by merely seeing the true nature of ordinary sensations begins to seem as ridiculous as it really is.
-<<<
+> […]
 
->>>
-https://www.aft.org/sites/default/files/periodicals/Crit_Thinking.pdf
+> While these might seem to some people like reasonable things awakened beings should somehow know, let’s include other things it might be good to know, such as how to create safe, inexpensive lithium ion batteries for electric cars, how to consistently beat the return of an S&P 500 index fund over the long haul, how to balance the federal deficit while providing everyone with outstanding social services and not raising taxes, how to instantaneously make every blue-collar Republican realize that they are voting against their own self-interest, and how to build a fusion reactor that is safe, inexpensive, produces enough energy for everyone on the planet, and has no radioactive disposal issues. When you consider these, the concept of specific knowledge gained by merely seeing the true nature of ordinary sensations begins to seem as ridiculous as it really is.
 
-After more than 20 years of lamentation, exhortation, and little improvement, maybe it’s time to ask a fundamental question: Can critical thinking actually be taught? Decades of cognitive research point to a disappointing answer: not really. People who have sought to teach critical thinking have assumed that it is a skill, like riding a bicycle, and that, like other skills, once you learn it, you can apply it in any situation. Research from cognitive science shows that thinking is not that sort of skill. The processes of thinking are intertwined with the content of thought (that is, domain knowledge). Thus, if you remind a student to “look at an issue from multiple perspectives” often enough, he will learn that he ought to do so, but if he doesn’t know much about an issue, he _can’t_ think about it from multiple perspectives. You can teach students maxims about how they ought to think, but without background knowledge and practice, they probably will not be able to implement the advice they memorize. Just as it makes no sense to try to teach factual content without giving students opportunities to practice using it, it also makes no sense to try to teach critical thinking devoid of factual content.
-<<<
+
+> https://www.aft.org/sites/default/files/periodicals/Crit_Thinking.pdf
+
+> After more than 20 years of lamentation, exhortation, and little improvement, maybe it’s time to ask a fundamental question: Can critical thinking actually be taught? Decades of cognitive research point to a disappointing answer: not really. People who have sought to teach critical thinking have assumed that it is a skill, like riding a bicycle, and that, like other skills, once you learn it, you can apply it in any situation. Research from cognitive science shows that thinking is not that sort of skill. The processes of thinking are intertwined with the content of thought (that is, domain knowledge). Thus, if you remind a student to “look at an issue from multiple perspectives” often enough, he will learn that he ought to do so, but if he doesn’t know much about an issue, he _can’t_ think about it from multiple perspectives. You can teach students maxims about how they ought to think, but without background knowledge and practice, they probably will not be able to implement the advice they memorize. Just as it makes no sense to try to teach factual content without giving students opportunities to practice using it, it also makes no sense to try to teach critical thinking devoid of factual content.
+
+\<\<\<
 
 Ok. There is nuance that many meditation teachers don’t grasp, OR they DO grasp it, to a greater or lesser degree, but they are simply offering a precise, skilled, one-sided correction to people who think meditation will confer direct mystical knowledge on how to pick stocks, heal interpersonal relationships, or cure cancer.
 
@@ -8066,7 +8192,7 @@ And, one eventually runs out of absolute truths, to discover and align with.
 But, our expanding light cone retains the possibility of truly surprising us, in very mundane ways, as well as very not-mundane ways, as things disclose across the “unknown unknown boundary.” But, we can be ever-more-skillfully-poised, truly as best we know how, as best we can do, at any particular moment in our personal lifetime, or history, to facilitate and grab that possibly surprising data, the instant it appears, to wring out every last bit of de-fanged uncertainty, safety, joy, excitement, sociology, non-authoritarian governance, humane biomedical engineering, world peace, intimacy, and wellbeing it can offer. And meditation is especially suited to facilitate that poise, all things being equal.
 
 
-human epistemic dynamics and phenomena:
+### human epistemic dynamics and phenomena:
 
 [Originally published: https://meditationstuff.wordpress.com/2019/09/17/human-epistemic-dynamics-and-phenomena/ Last accessed: 2021-03-05]
 
@@ -8159,11 +8285,11 @@ But let’s say your wayfinding is really good. You may then come to get a self-
 
 *Revisitation of the Demon-Haunted World* [7]
 
-GLENDOWER
-I can call spirits from the vasty deep.
-HOTSPUR
-Why, so can I, or so can any man;
-But will they come when you do call for them?
+GLENDOWER  
+I can call spirits from the vasty deep.  
+HOTSPUR  
+Why, so can I, or so can any man;  
+But will they come when you do call for them?  
 
 And so, on the one hand, we have wayfinding that can potentially yield fundamental metaphysics, the distilled metalanguage that we use to do math and science, a sense of universal causal mechanism and law, naturalism [8], objective morality, and so forth.
 
@@ -8201,17 +8327,17 @@ It starts with method. Excellence and mastery are worthy ideals.
 
 Maybe everyone that manages to successfully look sees the same thing, and maybe some of those successful lookers figure out how to describe the view to those who can’t or haven’t yet made the journey, and maybe yet then we can all dwell together in truth and goodness and reality/actuality or at least do the absolute best we can, together.
 
-[1] https://www.facebook.com/romeostevens/posts/10214779968345433
-[2] https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
-[3] https://www.google.com/search?q=hedgehog+versus+fox&oq=hedgehog&aqs=chrome.1.69i59l2j0l4.3086j0j9&sourceid=chrome&ie=UTF-8
-[4] https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/
-[5] https://www.google.com/search?sxsrf=ACYBGNRqao0vZXUsC8nEw5MY9nX5gtppfg%3A1568726029979&ei=DdyAXeCrO4zktQWBqq2wCQ&q=turkey+problem+taleb%2C+bernard&oq=turkey+problem+taleb%2C+bernard&gs_l=psy-ab.3...4327.8220..8622...0.0..0.113.836.6j3......0....1..gws-wiz.......33i299j33i160.EXKgm4RBn90&ved=0ahUKEwig5pDu99fkAhUMcq0KHQFVC5YQ4dUDCAs&uact=5
-[6] https://www.google.com/search?q=bleen+grue&oq=bleen+grue&aqs=chrome..69i57j0l5.2793j1j7&sourceid=chrome&ie=UTF-8
-[7] https://www.amazon.com/dp/B004W0I00Q/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-[8] https://www.google.com/search?q=naturalism&oq=naturalism&aqs=chrome..69i57j0l5.1088j0j7&sourceid=chrome&ie=UTF-8
+* [1] https://www.facebook.com/romeostevens/posts/10214779968345433
+* [2] https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
+* [3] https://www.google.com/search?q=hedgehog+versus+fox&oq=hedgehog&aqs=chrome.1.69i59l2j0l4.3086j0j9&sourceid=chrome&ie=UTF-8
+* [4] https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/
+* [5] https://www.google.com/search?sxsrf=ACYBGNRqao0vZXUsC8nEw5MY9nX5gtppfg%3A1568726029979&ei=DdyAXeCrO4zktQWBqq2wCQ&q=turkey+problem+taleb%2C+bernard&oq=turkey+problem+taleb%2C+bernard&gs_l=psy-ab.3...4327.8220..8622...0.0..0.113.836.6j3......0....1..gws-wiz.......33i299j33i160.EXKgm4RBn90&ved=0ahUKEwig5pDu99fkAhUMcq0KHQFVC5YQ4dUDCAs&uact=5
+* [6] https://www.google.com/search?q=bleen+grue&oq=bleen+grue&aqs=chrome..69i57j0l5.2793j1j7&sourceid=chrome&ie=UTF-8
+* [7] https://www.amazon.com/dp/B004W0I00Q/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+* [8] https://www.google.com/search?q=naturalism&oq=naturalism&aqs=chrome..69i57j0l5.1088j0j7&sourceid=chrome&ie=UTF-8
 
 
-epistemic-aesthetic rigor [stub]:
+### epistemic-aesthetic rigor [stub]:
 
 [Originally published: https://meditationstuff.wordpress.com/2021/02/14/epistemic-aesthetic-rigor-for-postrats-and-metarats-stub-post/ Last accessed: 2021-03-05]
 
@@ -8237,19 +8363,19 @@ What might unlock that, very loosely speaking?
 
 *A toy hierarchical ontology:*
 
-(*) Say there’s normal propositions and special propositions.
-(*) Say normal propositions are built out of
-	(*) normal concepts and
-	(*) special concepts called relations.
-(*) Say special propositions are built out of
-	(*) normal propositions and
-	(*) special concepts called reason relations.
-Say reason relations are
-	(*) implication [… implies…; if… then…; …because…],
-	(*) cause […causes…; if… then…],
-	(*) mixed/nebulous [if… then…; …because…], and finally
-	(*) means/end/purpose/for-ness […is for…; …]
-(*) Finally, say arguments and explanations are built out of normal propositions and special propositions.
+* Say there’s normal propositions and special propositions.
+* Say normal propositions are built out of
+	* normal concepts and
+	* special concepts called relations.
+* Say special propositions are built out of
+	* normal propositions and
+	* special concepts called reason relations.
+* Say reason relations are
+	* implication [… implies…; if… then…; …because…],
+	* cause […causes…; if… then…],
+	* mixed/nebulous [if… then…; …because…], and finally
+	* means/end/purpose/for-ness […is for…; …]
+* Finally, say arguments and explanations are built out of normal propositions and special propositions.
 
 *Heuristic/gestural elegance, parsimony, simplicity, and more, in argument and explanation:*
 
@@ -8257,17 +8383,17 @@ Say reason relations are
 
 Now,
 
-(*) without loss of essential detail, roughly MINIMIZE counts/number of
-	(*) axioms/premises
-	(*) other normal propositions
-	(*) kinds/types/classes/abstractions (i.e. normal concepts)
-	(*) anomalies, counterexamples, “unexplainable” phenomena
-	(*) reason relations (path-length/lemmas/inferential-or-causal-depth-to-conclusion)
-(*) roughly MAXIMIZE counts/number/density of
-	(*) conclusions
-	(*) fan-out / multifinality (with respect to reason relations)
-	(*) fan-in / equifinality (with respect to reason relations)
-	(*) instances/instantiations/tokens/concrets/particulars/specifics (that fall under the kinds/types/classes/etc above)
+* without loss of essential detail, roughly MINIMIZE counts/number of
+	* axioms/premises
+	* other normal propositions
+	* kinds/types/classes/abstractions (i.e. normal concepts)
+	* anomalies, counterexamples, “unexplainable” phenomena
+	* reason relations (path-length/lemmas/inferential-or-causal-depth-to-conclusion)
+* roughly MAXIMIZE counts/number/density of
+	* conclusions
+	* fan-out / multifinality (with respect to reason relations)
+	* fan-in / equifinality (with respect to reason relations)
+	* instances/instantiations/tokens/concrets/particulars/specifics (that fall under the kinds/types/classes/etc above)
 
 *Nonequivocation:*
 
@@ -8287,41 +8413,41 @@ Now, then, you can ask, is this more or less true? More or less wrong? A more or
 
 So given all that, all that being said, how does one engage with all that? In my opinion, it’s often better, methodologically and wellbeing-wise, to engage with such forms indirectly and obliquely, generally through meditation and global wayfinding. (This is super cryptic, maybe; sorry.)
 
-***
+\*\*\*
 
 Further reading:
 
-https://en.wikipedia.org/wiki/Indicative_conditional
-https://en.wikipedia.org/wiki/Counterfactual_conditional
-https://plato.stanford.edu/entries/simplicity/
-Kripke, Saul A. “Naming and necessity.” Semantics of natural language. Springer, Dordrecht, 1972. 253-355.
-Kant, Immanuel. “Logic. Translated by Robert S. Hartman and Wolfgang Schwarz.” New York (1988).
-Organon, Aristotle.
-https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference
-https://en.wikipedia.org/wiki/Natural_transformation
-https://en.wikipedia.org/wiki/Reflective_equilibrium
-https://plato.stanford.edu/entries/reflective-equilibrium/
-https://en.wikipedia.org/wiki/Consistency
-https://github.com/meditationstuff/protocol_1/blob/master/main.txt#L3500
-https://github.com/meditationstuff/protocol_1/blob/master/appendix_p1_en-US.txt
-Principles of Philosophy, Descartes
+* https://en.wikipedia.org/wiki/Indicative_conditional
+* https://en.wikipedia.org/wiki/Counterfactual_conditional
+* https://plato.stanford.edu/entries/simplicity/
+* Kripke, Saul A. “Naming and necessity.” Semantics of natural language. Springer, Dordrecht, 1972. 253-355.
+* Kant, Immanuel. “Logic. Translated by Robert S. Hartman and Wolfgang Schwarz.” New York (1988).
+* Organon, Aristotle.
+* https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference
+* https://en.wikipedia.org/wiki/Natural_transformation
+* https://en.wikipedia.org/wiki/Reflective_equilibrium
+* https://plato.stanford.edu/entries/reflective-equilibrium/
+* https://en.wikipedia.org/wiki/Consistency
+* https://github.com/meditationstuff/protocol_1/blob/master/main.txt#L3500
+* https://github.com/meditationstuff/protocol_1/blob/master/appendix_p1_en-US.txt
+* Principles of Philosophy, Descartes
 
 
-relating:
+### relating:
 
 
 
-in-relationship foreclosing legacy of past interaction: [stub]
+### in-relationship foreclosing legacy of past interaction: [stub]
 
 Past interactions in relationship preclude and foreclose types of interactions and concrete interactions in the future, unless actions are taken to (re(?)-)open those possibilities. Meta-communication is a route, that complements other routes, to that (re(?)-)opening.
 
 
 
-creating:
+### creating:
 
 
 
-randomness/arbitrariness, unpunished, as necessary data: [not yet written]
+### randomness/arbitrariness, unpunished, as necessary data: [not yet written]
 
 An organism needs to be able to "randomly/arbitrary" experiment in order to generate data that becomes an input into learning.
 
