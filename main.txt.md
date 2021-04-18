@@ -124,7 +124,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 * canonical location of this document
 * alternative versions
 * full table of contents
-* preliminary and introductory things
+* <a href="#test">preliminary and introductory things</a>
 	* formatting and reformatting note
 	* document-level meta-warning
 	* epistemic status disclaimer
@@ -309,7 +309,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 
 
-### preliminary and introductory things:
+### <span id="1"></span> preliminary and introductory things:
 
 
 
