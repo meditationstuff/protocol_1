@@ -14,7 +14,7 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 
 
 
-# Quick Start Guide
+# Quick Start Guide:
 
 (There is also a full table of contents, if you keep scrolling for a while.)
 
@@ -113,199 +113,199 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 # Full Table of Contents:
 
-* working title
-* byline
-* credits
-* copyright
-* quick start guide
-	* who is this document for?
-* funding
-* author web presence
-* canonical location of this document
-* alternative versions
-* full table of contents
-* <a href="#test">preliminary and introductory things</a>
-	* formatting and reformatting note
-	* document-level meta-warning
-	* epistemic status disclaimer
-	* risks; maximally cautious warnings/directives (first-pass, without explanation)
-	* but what actually makes it risky?; how do risks obtain, when they do?:
-	* an exoteric doctrine v0.2
-	* introduction; getting over the hump; text interpretation
-* opinionated, telic, soteriological things
-	* goal
-	* end state
-	* no fixed conceptualized goal or end state part one ("goodness")
-	* no fixed conceptualized goal or end state part two ("better")
-	* meditation is concrete problem solving
-	* wellbeing and sacrifice
-	* ok-ness and cosmology
-	* seamless hyphenation [draft]
-	* other practices
-* culture and community
-	* an orienting model; layers and tangles; from "parts" to people to groups
-		* part X: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture
-		* part X: the blooming, buzzing confusion
-		* part X: the demon-haunted world and science as a candle in the dark (as per Carl Sagan)
-	* evil
-		* part X: introduction
-		* part X: everyday blah, hapless creeps, dark wizards, and cult leaders
-		* part X: spot the dark wizard
-		* part X: healers
-		* part X: witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation
-		* part X: timelines and stopgaps and sanity checks
-		* part X: the late-stage meditator in community
-		* part X: cult leaders
-		* part X: spotting a cult leader by overt signs
-		* part X: incomplete list of relatively succinct concepts/definitions
-		* part X: teachers and leader timelines
-		* part X: layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction
-		* part X: it’s not cool
-		* part X: the quiet interaction and beauty of subtle interpersonal effects
-		* part X: depth of horror
-		* part X: wisdom and antiwisdom
-		* part X: inappropriate reification
-	* creativity
-	* the creativity of evil
-	* joy
-	* lineages and transformative works
-* practice preliminaries
-	* timeline, mindset, trajectory, harm
-		* raw hours
-		* better to finish, and smoothly
-		* a failure mode
-		* meditation is not strength-training
-		* entrenchment and active occlusion (layering)
-		* extreme skill and extreme standards
-		* physical sequelae
-		* the end of your world: (after adyashanti, maybe?)
-		* drama
-		* error propagation, wayfinding, grace of what minds are
-		* conclusion
-* practice
-	* nuts and bolts considerations
-		* preliminaries and vacations; conceptualization as such
-		* transitioning from other practices (re "sharp cutovers")
-		* environment [and subtlety; (more) risks and rabbit holes]
-		* movement
-		* posture
-		* breath
-		* states
-		* “headyness”/“heady-ness”/“headiness”
-		* “subtle energy” and “energy work” and mental models
-		* brief draft comment on first-pass, seemingly separate magisteria
-		* body, self-trust, sensory processing, meaning
-		* but is it meditation? (a dialogue between J and Mark)
-		* practice in daily life or no?
-		* what about concrete/proximal problems?
-		* how much and how often
-		* what to do when
-	* top-level practices/categories
-		* meta practice [solo and otherwise]
-			* meta protocol
-				* collaborator formulations
-					* collaborator formulation 1
-			* meta meta protocol
-		* solo practice
-			* preliminary/auxiliary practices
-			* main practice
-				* introduction
-				* practices
-					* p0
-					* p1
-					* p2
-					* p3
-					* p4
-					* p5
-					* p6
-					* p7
-					* p8
-					* p9
-					* p10 [experimental]
-				* theory
-					* incomplete, alternative renderings
-		* creativity(/unsticking) protocol [solo and otherwise]
-			* what to do when nothing's happening/working
-			* creativity(/unsticking) protocol
-		* interpersonal practice
-			* formulation 1 (including Many Protocol)
-			* formulation 2
-			* formulation 3
-			* formulation 4
-			* formulation 5
-			* formulation 6
-* lists and more
-	* nonmonotonicity
-	* definitions
-	* undefined and explications
-	* bodymindenvironment
-	* can’t-look-yet (“avoidance”)
-	* systematicity, ontologies, phenomenological and otherwise
-	* exhaustivity and bottlenecks
-	* (mental) action and the attentional manifold
-	* the use of the will
-	* a note on force (plus a brief mention of “redo-to-undo”)
-	* more on “undo”
-	* meditating by coincidence
-	* failure and other seemingly permanent and bad things
-	* how bad does it have to get?
-	* extremity replay and creativity: panic, trauma, sexual arousal
-	* on falling asleep
-	* a gentle onramp
-	* good(ness) bad(ness)
-	* some “big” useful concepts
-	* poem of self/other confusion and interdependence
-	* states
-	* invitation of acceptance
-	* nutrition
-	* historical and contemporary difficulties and uncertainties of life [experimental section]
-	* muscle tension scratch
-	* last gasps
-	* being (not) ok tangles
-	* brief note on space and sensations
-	* brief, loosely related notes on unknotting, untwisting, untangling
-	* attention is not fundamental
-	* “inner space” and physical/social grace
-	* dark phenomenology and presence/absence conceptions
-	* brief thoughts on substances like psychedelics
-	* getting triggered, usefulness and risks
-	* a dialogue between N and Mark, on reasoning and pre-reasoning
-	* a note on "making progress," "regression," and redo-to-undo
-	* stuff stuff 1
-		* don't be here now (to start)
-		* normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]
-		* “false ends” (messy first draft)
-		* eternity, suffering, death
-	* stuff stuff 2
-		* “psychic” and “supernatural” stuff: what/how/how-not [draft]
-		* self and other; good and bad [draft]
-		* prenatal experiences
-		* direct and indirect people and group stuff
-		* on vibe(s) and vibing, briefly
-	* civilizational stuff
-		* buddhas, anti-buddhas, civilization, and the importance of method
-		* sketching alternatives to straw realism (international and group relations) [draft!][2500 words]
-		* karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)
-* teaching and learning and creating and relating (meditation and anything)
-	* teaching
-		* no one gets pixel-perfect possibilities
-		* guided on-ramp for main practice p2 [draft]
-		* pith instructions (experimental)
-		* a bare-bones, bottom-up, noting-esque practice (without labeling)
-	* embodied learning
-		* technical debt, meditation, and minds
-		* a speculative comment on language learning
-		* technical debt and inverse operations
-		* merely just having the experience itself, and, technical debt is good, actually
-	* epistemics
-		* meditation indirectly discloses domain knowledge
-		* human epistemic dynamics and phenomena
-		* epistemic-aesthetic rigor [stub]
-	* relating
-		* in-relationship foreclosing legacy of past interaction [stub]
-	* creating
-		* randomness/arbitrariness, unpunished, as necessary data [not yet written]
-* bibliography (incomplete)
+* <a href="#1">working title</a>
+* <a href="#2">byline</a>
+* <a href="#3">credits</a>
+* <a href="#4">copyright</a>
+* <a href="#5">quick start guide</a>
+	* <a href="#6">who is this document for?</a>
+* <a href="#7">funding</a>
+* <a href="#8">author web presence</a>
+* <a href="#9">canonical location of this document</a>
+* <a href="#10">alternative versions</a>
+* <a href="#11">full table of contents</a>
+* <a href="#12">preliminary and introductory things</a>
+	* <a href="#13">formatting and reformatting note</a>
+	* <a href="#14">document-level meta-warning</a>
+	* <a href="#15">epistemic status disclaimer</a>
+	* <a href="#16">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
+	* <a href="#17">but what actually makes it risky?; how do risks obtain, when they do?</a>
+	* <a href="#18">an exoteric doctrine v0.2</a>
+	* <a href="#19">introduction; getting over the hump; text interpretation</a>
+* <a href="#20">opinionated, telic, soteriological things</a>
+	* <a href="#21">goal</a>
+	* <a href="#22">end state</a>
+	* <a href="#23">no fixed conceptualized goal or end state part one ("goodness")</a>
+	* <a href="#24">no fixed conceptualized goal or end state part two ("better")</a>
+	* <a href="#25">meditation is concrete problem solving</a>
+	* <a href="#26">wellbeing and sacrifice</a>
+	* <a href="#27">ok-ness and cosmology</a>
+	* <a href="#28">seamless hyphenation [draft]</a>
+	* <a href="#29">other practices</a>
+* <a href="#30">culture and community</a>
+	* <a href="#31">an orienting model; layers and tangles; from "parts" to people to groups</a>
+		* <a href="#32">part X: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture</a>
+		* <a href="#33">part X: the blooming, buzzing confusion</a>
+		* <a href="#34">part X: the demon-haunted world and science as a candle in the dark (as per Carl Sagan)</a>
+	* <a href="#35">evil</a>
+		* <a href="#36">part X: introduction</a>
+		* <a href="#37">part X: everyday blah, hapless creeps, dark wizards, and cult leaders</a>
+		* <a href="#38">part X: spot the dark wizard</a>
+		* <a href="#39">part X: healers</a>
+		* <a href="#40">part X: witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation</a>
+		* <a href="#41">part X: timelines and stopgaps and sanity checks</a>
+		* <a href="#42">part X: the late-stage meditator in community</a>
+		* <a href="#43">part X: cult leaders</a>
+		* <a href="#44">part X: spotting a cult leader by overt signs</a>
+		* <a href="#45">part X: incomplete list of relatively succinct concepts/definitions</a>
+		* <a href="#46">part X: teachers and leader timelines</a>
+		* <a href="#47">part X: layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction</a>
+		* <a href="#48">part X: it’s not cool</a>
+		* <a href="#49">part X: the quiet interaction and beauty of subtle interpersonal effects</a>
+		* <a href="#50">part X: depth of horror</a>
+		* <a href="#51">part X: wisdom and antiwisdom</a>
+		* <a href="#52">part X: inappropriate reification</a>
+	* <a href="#53">creativity</a>
+	* <a href="#54">the creativity of evil</a>
+	* <a href="#55">joy</a>
+	* <a href="#56">lineages and transformative works</a>
+* <a href="#57">practice preliminaries</a>
+	* <a href="#58">timeline, mindset, trajectory, harm</a>
+		* <a href="#59">raw hours</a>
+		* <a href="#60">better to finish, and smoothly</a>
+		* <a href="#61">a failure mode</a>
+		* <a href="#62">meditation is not strength-training</a>
+		* <a href="#63">entrenchment and active occlusion (layering)</a>
+		* <a href="#64">extreme skill and extreme standards</a>
+		* <a href="#65">physical sequelae</a>
+		* <a href="#66">the end of your world: (after adyashanti, maybe?)</a>
+		* <a href="#67">drama</a>
+		* <a href="#68">error propagation, wayfinding, grace of what minds are</a>
+		* <a href="#69">conclusion</a>
+* <a href="#70">practice</a>
+	* <a href="#71">nuts and bolts considerations</a>
+		* <a href="#72">preliminaries and vacations; conceptualization as such</a>
+		* <a href="#73">transitioning from other practices (re "sharp cutovers")</a>
+		* <a href="#74">environment [and subtlety; (more) risks and rabbit holes]</a>
+		* <a href="#75">movement</a>
+		* <a href="#76">posture</a>
+		* <a href="#77">breath</a>
+		* <a href="#78">states</a>
+		* <a href="#79">“headyness”/“heady-ness”/“headiness”</a>
+		* <a href="#80">“subtle energy” and “energy work” and mental models</a>
+		* <a href="#81">brief draft comment on first-pass, seemingly separate magisteria</a>
+		* <a href="#82">body, self-trust, sensory processing, meaning</a>
+		* <a href="#83">but is it meditation? (a dialogue between J and Mark)</a>
+		* <a href="#84">practice in daily life or no?</a>
+		* <a href="#85">what about concrete/proximal problems?</a>
+		* <a href="#86">how much and how often</a>
+		* <a href="#87">what to do when</a>
+	* <a href="#88">top-level practices/categories</a>
+		* <a href="#89">meta practice [solo and otherwise]</a>
+			* <a href="#90">meta protocol</a>
+				* <a href="#91">collaborator formulations</a>
+					* <a href="#92">collaborator formulation 1</a>
+			* <a href="#93">meta meta protocol</a>
+		* <a href="#94">solo practice</a>
+			* <a href="#95">preliminary/auxiliary practices</a>
+			* <a href="#96">main practice</a>
+				* <a href="#97">introduction</a>
+				* <a href="#98">practices</a>
+					* <a href="#99">p0</a>
+					* <a href="#100">p1</a>
+					* <a href="#101">p2</a>
+					* <a href="#102">p3</a>
+					* <a href="#103">p4</a>
+					* <a href="#104">p5</a>
+					* <a href="#105">p6</a>
+					* <a href="#106">p7</a>
+					* <a href="#107">p8</a>
+					* <a href="#108">p9</a>
+					* <a href="#109">p10 [experimental]</a>
+				* <a href="#110">theory</a>
+					* <a href="#111">incomplete, alternative renderings</a>
+		* <a href="#112">creativity(/unsticking) protocol [solo and otherwise]</a>
+			* <a href="#113">what to do when nothing's happening/working</a>
+			* <a href="#114">creativity(/unsticking) protocol</a>
+		* <a href="#115">interpersonal practice</a>
+			* <a href="#116">formulation 1 (including Many Protocol)</a>
+			* <a href="#117">formulation 2</a>
+			* <a href="#118">formulation 3</a>
+			* <a href="#119">formulation 4</a>
+			* <a href="#120">formulation 5</a>
+			* <a href="#121">formulation 6</a>
+* <a href="#122">lists and more</a>
+	* <a href="#123">nonmonotonicity</a>
+	* <a href="#124">definitions</a>
+	* <a href="#125">undefined and explications</a>
+	* <a href="#126">bodymindenvironment</a>
+	* <a href="#127">can’t-look-yet (“avoidance”)</a>
+	* <a href="#128">systematicity, ontologies, phenomenological and otherwise</a>
+	* <a href="#129">exhaustivity and bottlenecks</a>
+	* <a href="#130">(mental) action and the attentional manifold</a>
+	* <a href="#131">the use of the will</a>
+	* <a href="#132">a note on force (plus a brief mention of “redo-to-undo”)</a>
+	* <a href="#133">more on “undo”</a>
+	* <a href="#134">meditating by coincidence</a>
+	* <a href="#135">failure and other seemingly permanent and bad things</a>
+	* <a href="#136">how bad does it have to get?</a>
+	* <a href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>
+	* <a href="#138">on falling asleep</a>
+	* <a href="#139">a gentle onramp</a>
+	* <a href="#140">good(ness) bad(ness)</a>
+	* <a href="#141">some “big” useful concepts</a>
+	* <a href="#142">poem of self/other confusion and interdependence</a>
+	* <a href="#143">states</a>
+	* <a href="#144">invitation of acceptance</a>
+	* <a href="#145">nutrition</a>
+	* <a href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
+	* <a href="#147">muscle tension scratch</a>
+	* <a href="#148">last gasps</a>
+	* <a href="#149">being (not) ok tangles</a>
+	* <a href="#150">brief note on space and sensations</a>
+	* <a href="#151">brief, loosely related notes on unknotting, untwisting, untangling</a>
+	* <a href="#152">attention is not fundamental</a>
+	* <a href="#153">“inner space” and physical/social grace</a>
+	* <a href="#154">dark phenomenology and presence/absence conceptions</a>
+	* <a href="#155">brief thoughts on substances like psychedelics</a>
+	* <a href="#156">getting triggered, usefulness and risks</a>
+	* <a href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
+	* <a href="#158">a note on "making progress," "regression," and redo-to-undo</a>
+	* <a href="#159">stuff stuff 1</a>
+		* <a href="#160">don't be here now (to start)</a>
+		* <a href="#161">normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]</a>
+		* <a href="#162">“false ends” (messy first draft)</a>
+		* <a href="#163">eternity, suffering, death</a>
+	* <a href="#164">stuff stuff 2</a>
+		* <a href="#165">“psychic” and “supernatural” stuff: what/how/how-not [draft]</a>
+		* <a href="#166">self and other; good and bad [draft]</a>
+		* <a href="#167">prenatal experiences</a>
+		* <a href="#168">direct and indirect people and group stuff</a>
+		* <a href="#169">on vibe(s) and vibing, briefly</a>
+	* <a href="#170">civilizational stuff</a>
+		* <a href="#171">buddhas, anti-buddhas, civilization, and the importance of method</a>
+		* <a href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
+		* <a href="#173">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
+* <a href="#174">teaching and learning and creating and relating (meditation and anything)</a>
+	* <a href="#175">teaching</a>
+		* <a href="#176">no one gets pixel-perfect possibilities</a>
+		* <a href="#177">guided on-ramp for main practice p2 [draft]</a>
+		* <a href="#178">pith instructions (experimental)</a>
+		* <a href="#179">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
+	* <a href="#180">embodied learning</a>
+		* <a href="#181">technical debt, meditation, and minds</a>
+		* <a href="#182">a speculative comment on language learning</a>
+		* <a href="#183">technical debt and inverse operations</a>
+		* <a href="#184">merely just having the experience itself, and, technical debt is good, actually</a>
+	* <a href="#185">epistemics</a>
+		* <a href="#186">meditation indirectly discloses domain knowledge</a>
+		* <a href="#187">human epistemic dynamics and phenomena</a>
+		* <a href="#188">epistemic-aesthetic rigor [stub]</a>
+	* <a href="#189">relating</a>
+		* <a href="#190">in-relationship foreclosing legacy of past interaction [stub]</a>
+	* <a href="#191">creating</a>
+		* <a href="#192">randomness/arbitrariness, unpunished, as necessary data [not yet written]</a>
+* <a href="#193">bibliography (incomplete)</a>
 
 
 
