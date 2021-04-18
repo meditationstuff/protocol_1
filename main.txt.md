@@ -41,50 +41,50 @@ It’s ok to noncommitally play with (or use à la carte) the practices in this 
 
 * **What's new?**
 	* *See these sections:*
-		* formatting and reformatting note
+		* <a href="#13">formatting and reformatting note</a>
 * **How can I immediately get a flavor of what *kind* of meditation this whole document is about?**
 	* *See these sections:*
-		* guided on-ramp for main practice p2 [draft]
-		* pith instructions (experimental)
-		* a bare-bones, bottom-up, noting-esque practice (without labeling)
+		* <a href="#177">guided on-ramp for main practice p2 [draft]</a>
+		* <a href="#178">pith instructions (experimental)</a>
+		* <a href="#179">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
 * **Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.**
 	* *See these sections:*
-		* risks; maximally cautious warnings/directives (first-pass, without explanation)
-		* document-level meta-warning
-		* epistemic status disclaimer
-		* but what actually makes it risky?; how do risks obtain, when they do?
+		* <a href="#16">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
+		* <a href="#14">document-level meta-warning</a>
+		* <a href="#15">epistemic status disclaimer</a>
+		* <a href="#17">but what actually makes it risky?; how do risks obtain, when they do?</a>
 		* *More sections:*
-			* environment and subtlety; (more) risks and rabbit holes
-			* “psychic” and “supernatural” stuff: what/how/how-not [draft]
-			* human epistemic dynamics and phenomena
+			* <a href="#74">environment [and subtlety; (more) risks and rabbit holes]</a>
+			* <a href="#165">“psychic” and “supernatural” stuff: what/how/how-not [draft]</a>
+			* <a href="#187">human epistemic dynamics and phenomena</a>
 * **What's the theoretical, metaphysical, ideological, sectarian, opinionated, telic, soteriological basis of this kind of meditation?**
 	* *See these sections:*
-		* introduction; getting over the hump; text interpretation [suggested below as well]
-		* an exoteric doctrine: (v0.2)
-		* goal
-		* end state
-		* no fixed conceptualized goal or end state part one ("goodness")
-		* no fixed conceptualized goal or end state part two ("better")
-		* meditation is concrete problem solving
-		* wellbeing and sacrifice
-		* ok-ness and cosmology
-		* seamless hyphenation [draft]
+		* <a href="#19">introduction; getting over the hump; text interpretation</a> [suggested below as well]
+		* <a href="#18">an exoteric doctrine v0.2</a>
+		* <a href="#21">goal</a>
+		* <a href="#22">end state</a>
+		* <a href="#23">no fixed conceptualized goal or end state part one ("goodness")</a>
+		* <a href="#24">no fixed conceptualized goal or end state part two ("better")</a>
+		* <a href="#25">meditation is concrete problem solving</a>
+		* <a href="#26">wellbeing and sacrifice</a>
+		* <a href="#27">ok-ness and cosmology</a>
+		* <a href="#28">seamless hyphenation [draft]</a>
 * **What's the "practical core" of the document? What do I actually do?**
 	* *See these sections:*
-		* practice preliminaries (11+ sections)
-		* practice nuts and bolts (17+ sections)
-			* what to do when
-		* top-level practices/categories (some structure is elided, here, for brevity)
-			* meta protocol
-			* preliminary/auxiliary practices (500+ [sic!])
-			* main practices (~10)
-			* creativity/unsticking protocol
-			* “many” protocol (interpersonal practice)
+		* <a href="#57">practice preliminaries</a> (11+ sections)
+		* <a href="#71">nuts and bolts considerations</a> (17+ sections)
+			* <a href="#87">what to do when</a>
+		* <a href="#88">top-level practices/categories</a> (some structure is elided, here, for brevity)
+			* <a href="#90">meta protocol</a>
+			* <a href="#95">preliminary/auxiliary practices</a> (500+ [sic!])
+			* <a href="#96">main practice</a> (~10)
+			* <a href="#112">creativity(/unsticking) protocol</a>
+			* <a href="#115">“many” protocol (interpersonal practice)</a>
 * **How do I use this document? Also, is the above sort of "everything"? No! This just scratches the surface!**
 	* (After you read about risks, warnings, cautions, etc., do jump around in the document as per your interest.)
 	* *See these sections:*
-		* introduction; getting over the hump; text interpretation [suggested above as well]
-		* full table of contents
+		* <a href="#19">introduction; getting over the hump; text interpretation</a> [suggested above as well]
+		* <a href="#11">Full Table of Contents</a>
 
 
 
