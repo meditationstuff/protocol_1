@@ -8586,3 +8586,5 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Deutsch, David. The beginning of infinity: Explanations that transform the world. Penguin UK, 2011. [note: see in index: inexplicit, unconscious re ideas, arguments, explanations, knowledge; compare with gendlin’s implicit]
 * Ratcliffe, Matthew. "Existential feelings." T. Szanto, & H. Landweer, The Routledge Handbook of the Phenomenology of Emotions. London: Routledge (2019).
 * Dreyfus, Hubert L., and L. Hubert. Being-in-the-world: A commentary on Heidegger's Being and Time, Division I. Mit Press, 1991.
+* https://ava.substack.com/p/long-feedback-loops [Last accessed: 2021-04-18]
+* https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/
