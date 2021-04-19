@@ -148,27 +148,27 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a href="#29">other practices</a>
 * <a href="#30">culture and community</a>
 	* <a href="#31">an orienting model; layers and tangles; from "parts" to people to groups</a>
-		* <a href="#32">part X: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture</a>
-		* <a href="#33">part X: the blooming, buzzing confusion</a>
-		* <a href="#34">part X: the demon-haunted world and science as a candle in the dark (as per Carl Sagan)</a>
+		* <a href="#32">part 1: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture</a>
+		* <a href="#33">part 2: the blooming, buzzing confusion</a>
+		* <a href="#34">part 3: the demon-haunted world and science as a candle in the dark (as per Carl Sagan)</a>
 	* <a href="#35">evil</a>
-		* <a href="#36">part X: introduction</a>
-		* <a href="#37">part X: everyday blah, hapless creeps, dark wizards, and cult leaders</a>
-		* <a href="#38">part X: spot the dark wizard</a>
-		* <a href="#39">part X: healers</a>
-		* <a href="#40">part X: witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation</a>
-		* <a href="#41">part X: timelines and stopgaps and sanity checks</a>
-		* <a href="#42">part X: the late-stage meditator in community</a>
-		* <a href="#43">part X: cult leaders</a>
-		* <a href="#44">part X: spotting a cult leader by overt signs</a>
-		* <a href="#45">part X: incomplete list of relatively succinct concepts/definitions</a>
-		* <a href="#46">part X: teachers and leader timelines</a>
-		* <a href="#47">part X: layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction</a>
-		* <a href="#48">part X: it’s not cool</a>
-		* <a href="#49">part X: the quiet interaction and beauty of subtle interpersonal effects</a>
-		* <a href="#50">part X: depth of horror</a>
-		* <a href="#51">part X: wisdom and antiwisdom</a>
-		* <a href="#52">part X: inappropriate reification</a>
+		* <a href="#36">part 4: introduction</a>
+		* <a href="#37">part 5: everyday blah, hapless creeps, dark wizards, and cult leaders</a>
+		* <a href="#38">part 6: spot the dark wizard</a>
+		* <a href="#39">part 7: healers</a>
+		* <a href="#40">part 8: witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation</a>
+		* <a href="#41">part 9: timelines and stopgaps and sanity checks</a>
+		* <a href="#42">part 10: the late-stage meditator in community</a>
+		* <a href="#43">part 11: cult leaders</a>
+		* <a href="#44">part 12: spotting a cult leader by overt signs</a>
+		* <a href="#45">part 13: incomplete list of relatively succinct concepts/definitions</a>
+		* <a href="#46">part 14: teachers and leader timelines</a>
+		* <a href="#47">part 15: layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction</a>
+		* <a href="#48">part 16: it’s not cool</a>
+		* <a href="#49">part 17: the quiet interaction and beauty of subtle interpersonal effects</a>
+		* <a href="#50">part 18: depth of horror</a>
+		* <a href="#51">part 19: wisdom and antiwisdom</a>
+		* <a href="#52">part 20: inappropriate reification</a>
 	* <a href="#53">creativity</a>
 	* <a href="#54">the creativity of evil</a>
 	* <a href="#55">joy</a>
@@ -1478,7 +1478,7 @@ Lots of solo time is needed, and sometimes solo time is the only thing available
 
 [This (super)section intentionally left blank. Scroll down for the contenful subsections!]
 
-# <span id="32"></span> part X: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture:
+# <span id="32"></span> part 1: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture:
 
 Consider the mind to be made up of a large number of parallel (information) flows, or pipes, or tubes.
 
@@ -1547,7 +1547,7 @@ Because of mimesis, love, power, and technology, compensation and layering can e
 Individual and group practice can de-layer and de-compensate, solving problems without the use of compensation, until individuals, and even communities, or larger, are relatively natural. Again, compensation is necessary and adaptive. And naturalization only guarantees a subset of good things, with opportunity costs. It is only better, all (other) things being equal.
 
 
-# <span id="33"></span> part X: the blooming, buzzing confusion:
+# <span id="33"></span> part 2: the blooming, buzzing confusion:
 
 Layering and occlusion can make it very hard to turn tubes into junctured awareness tubes. But, sensation and actuation, the inputs and outputs of tubes can’t be blocked. Sensation is always happening for all of a person’s tubes, at every layer. And actuation is always happening at the termination of every tube.
 
@@ -1562,7 +1562,7 @@ It gets worse in that everyone, at all layers have both functional ontologies as
 To explain further, when we were at our youngest, while we have genetic predisposition towards certain types of interpretations, the world doesn’t come pre-given. We have to assemble feeling, sound, light, touch, etc., into appearances, inferred objects, causal relations, and proactive management of self and environment. Prior to this, and always alongside this, there is blooming, buzzing confusion. There is “static,” “noise” limning the edges of experience and even shot through all of experience, the “feel of reality.”
 
 
-# <span id="34"></span> part X: the demon-haunted world and science as a candle in the dark (as per Carl Sagan):
+# <span id="34"></span> part 3: the demon-haunted world and science as a candle in the dark (as per Carl Sagan):
 
 And, so, this static, this noise, this blur that colors everything, and it comes in layers, there is some at every layer—this is the domain of shamans, of magick, of the siddhis, of the powers.
 
@@ -1580,7 +1580,7 @@ Consider that what the brain does is make sense of blooming, buzzing confusion, 
 
 And then is it any wonder that hapless creeps, dark wizards, cult leaders… and healers walk among us?
 
-[continues in section "part X: Everyday blah, hapless creeps, dark wizards, and cult leaders"]
+[continues in section "part 4: Everyday blah, hapless creeps, dark wizards, and cult leaders"]
 
 
 
@@ -1589,7 +1589,7 @@ And then is it any wonder that hapless creeps, dark wizards, cult leaders… and
 [This (super)section intentionally left blank. Scroll down for the contenful subsections!]
 
 
-# <span id="36"></span> part X: introduction:
+# <span id="36"></span> part 4: introduction:
 
 If you start doing work on yourself, you’ll become more sensitive to a lot of things. And that sensitivity, initially, can make you more vulnerable to bad things than you’d otherwise be. That sensitivity can also make you become a more dangerous or harmful person to be around, initially. Over time, asymptotically, nonmonotonically, what you were vulnerable to, what used to influence you or cause disendorsed changes to you, becomes just information. And this information can be used to enhance safety for self and others. And your sensitivity and responsiveness, from ongoing meditation, and the knowledge that’s easier to acquire because of that sensitivity and responsiveness, can make you safer and safer for other people.
 
@@ -1598,9 +1598,9 @@ Additionally, you may more often find yourself in communities of practice, as yo
 Reading the sections below may help to minimize risks to self and others, in relation and in community.
 
 
-# <span id="37"></span> part X: everyday blah, hapless creeps, dark wizards, and cult leaders:
+# <span id="37"></span> part 5: everyday blah, hapless creeps, dark wizards, and cult leaders:
 
-[continues from section "part X: the demon-haunted world and science as a candle in the dark (as per Carl Sagan)"]
+[continues from section "part 3: the demon-haunted world and science as a candle in the dark (as per Carl Sagan)"]
 
 The mind is vast and occlusion is a thing.
 
@@ -1635,7 +1635,7 @@ Historically, and in some places contemporaneously, each village had a shaman to
 Cult leaders will be discussed more below.
 
 
-# <span id="38"></span> part X: spot the dark wizard:
+# <span id="38"></span> part 6: spot the dark wizard:
 
 A final note is that, if you’re trying to influence people at all, if you have any perceived *need* at all with respect to other people (belonging, care, money, intimacy, sex), unless you and everyone are in a tremendously high-resourced environment, and everyone is engaged in mutually creative synergy, then you’ve likely got at least some baby dark wizard going on, or some latent dark wizarding that could get triggered.
 
@@ -1652,7 +1652,7 @@ But given that it’s possible to hurt people in the meantime, one should be lis
 You have to be ready to isolate yourself, to walk away, and sometimes you should let people excommunicate you. Sometimes, it will be the case that you were in an unhealthy environment, and you defending yourself is further hurting people around you. But “active” defenses mean you aren’t skilled enough yet. When the environment becomes “just information” as opposed to something that needs to be defended against then you can consider yourself skilled. At that point you won’t be “actively” hurting people in such an environment, but they could still experience your being there as harmful because of things in them that don’t want to be exposed, even passively via your side, to things in you. Sometimes it can take a very long time to figure out who’s doing or not doing what to whom, and it’s better to just not interact.
 
 
-# <span id="39"></span> part X: healers:
+# <span id="39"></span> part 7: healers:
 
 Healers, bodyworkers, energy healers, reiki practioners, healing touch practitioners, qigong practitioners, exorcists, shamans, etc., can be great. Keep in mind that there is a vast range of skill. Some people are completely ineffectual. Some are very effective but cause both harm and good things at the same time. The rare individual with decades of (lineage?) training and experience is excellent. (And some “healers” are dependancy-inducing predators.)
 
@@ -1664,7 +1664,7 @@ Generally speaking, for serious meditators, there are very quickly diminishing r
 
 
 
-# <span id="40"></span> part X: witch hunts, vulnerabilitiy, contagion, tragedy of transformation, community decompensation:
+# <span id="40"></span> part 8: witch hunts, vulnerabilitiy, contagion, tragedy of transformation, community decompensation:
 
 It can be hard to assign blame and decide what to do. We all can have layered material that can be vulnerable in idiosyncratic ways. Someone can have a sex or revenge fantasy that they’re barely broadcasting, that wouldn’t affect 95% of people. But, when you’re in a room with them, it does awful stuff to your system. So who’s at fault? In this case mostly nobody, but there’s still the issue that you can’t be in a room with them. It might be both people’s responsibility to change. The person with the fantasy to figure out how it’s bleeding into the world a little bit. And you to figure out why it’s affecting you. But, for one or both of you, that could be hundreds of hours of work (though which will produce all sorts of collateral positive effects along the way), and one or both of you might not currently be systematic meditators.
 
@@ -1681,7 +1681,7 @@ There is an additional phenomenon of people believing that they are protected by
 Another problematic thing that can happen is, when someone becomes a systematic meditator, they can start decompensating in ways that influence occluded material. They might have cycles of increased desperation or neediness that bleeds through in problematic or intense ways. And people who are good-faith trying to become safer to be around, or just better people, can actually become more dangerous to be around for a period of time. This extends to communities as well. For a community of self-transformers, things can get much, much, much worse until things get better—lives can be ruined and communities can get torn apart, even as people just wanted to get better together. All the bad stuff can come out in insidious and explosive ways.
 
 
-# <span id="41"></span> part X: timelines and stopgaps and sanity checks:
+# <span id="41"></span> part 9: timelines and stopgaps and sanity checks:
 
 Part of what makes this so hard is how long the timelines are. Self-transformation takes thousands of hours, and people’s patterns of vulnerability to each other are idiosyncratic. So if harm is occurring, it can take dozens, hundreds, or thousands of hours to to sort out who’s doing what to whom and to fix it. And this is superexpontential the more people that are involved.
 
@@ -1700,7 +1700,7 @@ But remember the issues with witch hunts, manufactured victimhood, and determini
 You can intend to know exactly what’s going on. And you can intend to have a solution that’s good-faith, good-will for everyone. Sometimes you’ll need to leave or have people leave. But hopefully you won’t. May the best thing happen for everyone.
 
 
-# <span id="42"></span> part X: the late-stage meditator in community
+# <span id="42"></span> part 10: the late-stage meditator in community
 
 People often become more sensitive and more vulnerable at first, possibly for months or years. But eventually…
 
@@ -1716,10 +1716,10 @@ The second dimension is that of goodness/badness inversions. Sometimes we think 
 
 So self/other confusions and good/bad inversions can be abstractly considered as the main sources or enablers of subtle interpersonal disendorsed effects.
 
-(You may wish to temporarily skip to “part X: the quiet interaction and the beauty of subtle interpersonal effects” before moving foward.)
+(You may wish to temporarily skip to “part 17: the quiet interaction and the beauty of subtle interpersonal effects” before moving foward.)
 
 
-# <span id="43"></span> part X: cult leaders:
+# <span id="43"></span> part 11: cult leaders:
 
 Cult leaders are different. Anyone, including cult leaders, can change with luck and likely thousands of hours of work. But, a cult leader that’s a cult leader, right now, is different.
 
@@ -1760,7 +1760,7 @@ A good self-transformation technique will typically endogenously generate suffic
 It’s hard to overstate how much such an individual, one who, deep down, is relentlessly determined to control you and have you be a certain way, whether they realize it or not, can fuck up your life before you’ve realized it’s happened. Ten minutes with an individual like this can, worst-case, can mean hundreds of hours, or longer, to unfuck yourself.
 
 
-# <span id="44"></span> part X: spotting a cult leader by overt signs:
+# <span id="44"></span> part 12: spotting a cult leader by overt signs:
 
 Because the subtle signs are harder to detect and sometimes can’t be detected immediately, here is an incomplete list of overt signs that you’re possibly in the presence of a cult leader:
 
@@ -1806,7 +1806,7 @@ Kramer, Joel, and Diana Alstad. The guru papers: Masks of authoritarian power. N
 \* "tool-ification" is someone else's term, and I might not be using it correctly
 
 
-# <span id="45"></span> part X: incomplete list of relatively succinct concepts/definitions
+# <span id="45"></span> part 13: incomplete list of relatively succinct concepts/definitions
 
 Of course there’s many ways to use the words below! The defintions given are partial, flawed, and idiosyncratic.
 
@@ -1878,7 +1878,7 @@ more -
 This list and the entries under each current item are very incomplete!
 
 
-# <span id="46"></span> part X: teachers and leader timelines:
+# <span id="46"></span> part 14: teachers and leader timelines:
 
 Timelines are very long. Meditative practice can take thousands of hours to make substantial progress. Real progress is “de-layering,” but many seemingly good practices and produce a combination of layering and de-layering.
 
@@ -1895,7 +1895,7 @@ But, “asymptotic perfection” is something good teachers and any serious prac
 Mistakes, blindspots, and fuckups should be expected, though. And if someone is doing something weird, that you’re vulnerable to, you might want to check back with them every few years instead of sticking with them and experiencing quite a bit of harm, before you realize it, that you ultimately have to undo to make further progress.
 
 
-# <span id="47"></span> part X: layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction:
+# <span id="47"></span> part 15: layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction:
 
 Generally but not universally, de-layering, or at least not adding layering, is good. Layering is still good as a stopgap, when things are happening too surprisingly, too fast, or in some other unhandleable way, for a particular person.
 
@@ -1934,7 +1934,7 @@ Other people’s intelligence, skill, compassion, and love keep us safe, not the
 In any case, if someone doesn’t need to layer in your presense, then they can grow in your presence. And, if this is mutual, then you can grow together.
 
 
-# <span id="48"></span> part X: it’s not cool:
+# <span id="48"></span> part 16: it’s not cool:
 
 
 It’s best to consider the powers, the siddhis, the effects as not cool. They can become a thing in communities of practice. And they can become an ugly, escalatory, ruinous thing between practitioners. One or both people can do disendorsed, yet still hate-filled, tremendous harm to the other or to people caught in the crossfire.
@@ -1952,9 +1952,9 @@ Try not to hold grudges as this can increase meditation timelines. But, so too, 
 And, you can just leave. You can find meaning elsewhere. You don’t need what they’re selling if it’s a group situation.
 
 
-# <span id="49"></span> part X: the quiet interaction and beauty of subtle interpersonal effects:
+# <span id="49"></span> part 17: the quiet interaction and beauty of subtle interpersonal effects:
 
-(You may wish to read “part X: the late-stage meditator in community” before this section if you’re skipping around.)
+(You may wish to read “part 10: the late-stage meditator in community” before this section if you’re skipping around.)
 
 Over time, interactions between two trained individuals or one highly trained individual and other untrained individuals become relatively gentle and quiet, noncoercive, barely there. Interaction effects gently and liminally enhance intimacy, connection, etc.
 
@@ -1973,12 +1973,12 @@ But if a community hasn’t been “de-layered, de-compensated, cracked open” 
 \*\*Katz, Richard. Boiling energy: Community healing among the Kalahari Kung. harvard university Press, 1982.
 
 
-# <span id="50"></span> part X: depth of horror:
+# <span id="50"></span> part 18: depth of horror:
 
 Horrible things have happened to individuals, often in childhood. Violent abuse, sexual abuse, neglect, extreme coercion. There is religious terror around hells, devils, demons. Terrible things happen to parents and grandparents, too, and that will affect the kids. There is also medical and death horror, we see relatives suffer and die in front of us or we walk in on dead bodies. Even if onself or relatives ultimately survive it can still be very tulmultuous. And there is cultural horror—slavery, extreme racism and bigotry, colonization, imperialism, genocides, holocausts, world wars, ancient curses, ancient gods, etc. All of this is rattling around in people’s minds and between minds, brought forwards through the centuries and decades. The skilled meditator will systematically work through all of this and their own stuff, over time. But there’s a lot and it takes a long time. In the meantime, one is exposed to it, in the water, as it were. And if something gets decompensated, cracked open in a group environment, then it can cause problems for multiple people.
 
 
-# <span id="51"></span> part X: wisdom and antiwisdom:
+# <span id="51"></span> part 19: wisdom and antiwisdom:
 
 * gestural taxonomy:
 	* antiwisdom
@@ -2021,7 +2021,7 @@ In any case, non-power-seeking-antiwisdom may sometimes seek wisdom and even pow
 To be sure, sometimes, often, wisdom consists of just maintaining boundaries and/or leaving a situation (or finding a way to leave the situation and doing so, if leaving isn't immediately possible). And part of wisdom is knowing or coming to know when that’s the right thing to do. And sometimes that's straightforward and sometimes that's complex. Outside perspectives, when possible, can sometimes be helpful.
 
 
-# <span id="52"></span> part X: inappropriate reification:
+# <span id="52"></span> part 20: inappropriate reification:
 
 Remember all the above is just a theory of convenience, a story. Find your own truth. Don’t inappropriately reify any of this or take my word for it. Good science is still true. Planes still fly. Government still do the thing they do. Computers compute. Stuff that’s true is simultaneously true. Give yourself time to integrate new, surprising stuff into a unified worldview. It will take some time.
 
