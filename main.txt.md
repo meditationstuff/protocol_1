@@ -3910,6 +3910,10 @@ Further notes:
 * In addition to =/equals and so forth, you can of course try using the particular word or phrase in a sentence or sentences.
 * If you write down assertions anywhere, e.g. as premises or points in an argument, you might ad hoc or systematically look for counterexamples. You might also, ad hoc or systematically, explore objections that others might raise to the/those assertion(s).
 
+Final note:
+
+This could be woven in better with the rest of the practice and likely will be in subsequent versions. As per usual, beware of inappropriate reification and inappropriate eternalisms. Do treat all this as multischematic and interschematizable language games. How you use language now, how language is "seated" for you, now, may not be how you use or seat language in the future. Hold it all lightly, playfully. If something is grindy or jammy, let it go. Private language is useful in the ways it's useful and not useful in the ways it's not useful. Plenty (*wordlessly holds up flower, here*) is tacit, implicit, inexplicit, nonsymbolic, etc. Language is what happens between people. (*another flower, here*)
+
 
 # <span id="101"></span> p2:
 
