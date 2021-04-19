@@ -1,23 +1,16 @@
-### *This is a carefully versioned, long-term work in progress, a living document. It’s very “useably complete,” and/but there are typos, rough patches, risks, and uncertainties; and, improvements, rewrites, refactorings, and additions continue to happen.*
+# <span id="1"></span> Working Title: Global Wayfinding Meditation (GWM)
 
 * <a href="#5"> Jump to Quick Start Guide</a>
 * <a href="#11">Jump to Full Table of Contents</a>
 
-
-# <span id="1"></span> Working Title(s): “Protocol Document”/"meditationstuff protocol"/"MeditationStuff Protocol"/"Wayfinding Meditation"/"Global Wayfinding Meditation"/"Wayfinding Meditation Document"/"Wayfinding Meditation Protocol Document"/“Mastery Protocol”/“Main Protocol”/“Main Protocol Document”
-
-<span id="2"></span> by Mark D Lippmann and collaborators
-
-<span id="3"></span> Credits (needs to be updated):
-
-…JD, __, __, __, __, __, __, H, A…, [...], and many more [I have to ask several of these people whether they want to be explicltly credited.]
+<span id="1a"></span> ***Work-in-progress note:** This is a carefully versioned, long-term work in progress, a living document. It’s very “useably complete,” and/but there are typos, rough patches, risks, and uncertainties; and, improvements, rewrites, refactorings, and additions continue to happen.*
 
 
+<span id="2"></span> **by** Mark D Lippmann and collaborators
 
-# <span id="4"></span> Copyright:
+<span id="3"></span> **Credits (needs to be updated):** …JD, __, __, __, __, __, __, H, A…, [...], and many more [I have to ask several of these people whether they want to be explicltly credited.]
 
-All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
-
+<span id="4"></span> **Copyright:** All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 
 
 # <span id="5"></span> Quick Start Guide:
@@ -115,6 +108,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 # <span id="11"></span> Full Table of Contents:
 
 * <a href="#1">working title</a>
+* <a href="#1a">work-in-progress note</a>
 * <a href="#2">byline</a>
 * <a href="#3">credits</a>
 * <a href="#4">copyright</a>
