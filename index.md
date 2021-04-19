@@ -22,7 +22,7 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 
 # <span id="5"></span> Quick Start Guide:
 
-* <a href="#11">Jump to Full Table of Contents</a>
+* <a href="#11">Skip to Full Table of Contents</a>
 
 <span id="6"></span> **Who is this document for?**
 
