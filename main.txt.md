@@ -3777,7 +3777,7 @@ i’ve recommended the prot to several people now, and i notice that each time i
 The current renderings of the main practices are below.
 
 
-# practices:
+# <span id="98"></span> practices:
 
 [This (super)section intentionally left blank. Scroll down for the contenful subsections!]
 
@@ -4840,10 +4840,12 @@ Q.E.D.
 
 
 
-creativity(/unsticking) protocol [solo and otherwise]:
+# <span id="112"></span> creativity(/unsticking) protocol [solo and otherwise]:
+
+[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
 
 
-what to do when nothing's happening/working:
+# <span id="113"></span> what to do when nothing's happening/working:
 
 [stub]
 
@@ -4861,41 +4863,42 @@ You might in particular explore the "do less" preliminary/auxiliary practice. It
 
 Over time, one can use patterns and meta-patterns to approximately predict aspects of the future.
 
->>>
-https://twitter.com/meditationstuff/status/1301623971323015168
+\>\>\>  
+https://twitter.com/meditationstuff/status/1301623971323015168  
 
-[...] over time, one learns patterns of subtle lead indicators allowing navigation across larger & larger nonmonotonicities, to months of hardness where you're barely 51% sure, if that, that you're doing the right thing. it's fallible but practically doable, cf. buddha nature, etc. [...]
-<<<
+[...] over time, one learns patterns of subtle lead indicators allowing navigation across larger & larger nonmonotonicities, to months of hardness where you're barely 51% sure, if that, that you're doing the right thing. it's fallible but practically doable, cf. buddha nature, etc. [...]  
+\<\<\<  
 
 An example of the the above is knowing that even though things actually feel worse, you're 51% confident that something better is on the other side.
 
 Another example is, suddenly, you seemingly know *less* about something than you did before, but you stably rest in this, you don't claw back to knowing, you rest in this new unknowing (because you're confident that it's ok to do it, safe to do it, and you can do it), for seconds, minutes, many minutes, or a day or two, and you come out the other side, better off, knowing more or knowing differently.
 
 
-creativity(/unsticking) protocol:
+# <span id="114"></span> creativity(/unsticking) protocol:
 
 Intructions:
 
-(*) Do something you’ve never done before, that you can do and seems safe enough and ok to do, as best you can currently tell.
-(*) Repeat, over and over again, as needed.
+* Do something you’ve never done before, that you can do and seems safe enough and ok to do, as best you can currently tell.
+* Repeat, over and over again, as needed.
 
 Notes:
-(*) In addition to "doing" something you've never done before, you might try bottom-up "allowing" or surrendering to something you've never allowed or surrendered to before (if it seems safe enough and ok enough). You might "participate" in something you've never participated in before...
-(*) Maybe that "something you've never done before" is wholly novel or maybe it's something deeply familiar, with a glimmer of novelty.
-(*) Maybe that "something you've never done before" is something *have* done before but you're doing it in a new way/manner, perhaps with a new implicit or explicit adverb, or, if it's transitive, you're doing it to a new thing.
-(*) If you have no "degrees of freedom," don't force. Just wait.
-(*) If you have very few "degrees of freedom," you might have to go “backwards” or “sideways” for a long time, through familiar things, to actualize the totally new thing, or it definitely might be immediately available or almost immediately available
-(*) In addition to "safe enough" and "ok," you might also choose things that are fun, interesting, tolerable, engaging, attractive, exciting, strange, weird, things that youre curious about...
-(*) If you're very at a loss, you might go through preliminary/auxilliary practices you haven't tried. Or, whether or not you have tried them all, you might take p/a practices and change words or write them in your own words, and then that's your new thing. You can keep modifying them as per your intuitive interest or sense that they might be the right thing to do.
-(*) This might expand the space of things to do so much that it might be (even more) paralyzing, if you were already paralyzed on some dimensions. Will this work/terminate/something? Yes, Buddha nature, etc. Keep mixing in preliminary/auxiliary practices, main practices, the meta protocol, other tools, etc.
+
+* In addition to "doing" something you've never done before, you might try bottom-up "allowing" or surrendering to something you've never allowed or surrendered to before (if it seems safe enough and ok enough). You might "participate" in something you've never participated in before...
+* Maybe that "something you've never done before" is wholly novel or maybe it's something deeply familiar, with a glimmer of novelty.
+* Maybe that "something you've never done before" is something *have* done before but you're doing it in a new way/manner, perhaps with a new implicit or explicit adverb, or, if it's transitive, you're doing it to a new thing.
+* If you have no "degrees of freedom," don't force. Just wait.
+* If you have very few "degrees of freedom," you might have to go “backwards” or “sideways” for a long time, through familiar things, to actualize the totally new thing, or it definitely might be immediately available or almost immediately available
+* In addition to "safe enough" and "ok," you might also choose things that are fun, interesting, tolerable, engaging, attractive, exciting, strange, weird, things that youre curious about...
+* If you're very at a loss, you might go through preliminary/auxilliary practices you haven't tried. Or, whether or not you have tried them all, you might take p/a practices and change words or write them in your own words, and then that's your new thing. You can keep modifying them as per your intuitive interest or sense that they might be the right thing to do.
+* This might expand the space of things to do so much that it might be (even more) paralyzing, if you were already paralyzed on some dimensions. Will this work/terminate/something? Yes, Buddha nature, etc. Keep mixing in preliminary/auxiliary practices, main practices, the meta protocol, other tools, etc.
 
 
 
-interpersonal practice:
+# <span id="115"></span> interpersonal practice:
 
 
 
-formulation 1 (including Many Protocol): (strategy flavored; mutual epistemics flavored)
+# <span id="116"></span> formulation 1 (including Many Protocol): (strategy flavored; mutual epistemics flavored)
 
 A move M could be in the context of conversational or other local, real time interaction. Or a move M could be composite and part of a long-term plan. So, a move could be right here and now (or soon), taking place, once initiated, in a single moment or across a small number of contiguous moments, or a move can be planned for future, as part of a global strategy, or anywhere in between. And the number of people considered can be from n=2 to n=billions.
 
@@ -4909,34 +4912,33 @@ It can be helpful, when doing the many protocol with new people, to start with j
 It can also be helpful to start very far apart! Everyone ten to thirty feet away from each other! And then move in slowly over minutes or even days.
 
 
-0. Consider at least n=2 people: A (you) and B (someone else)
-
-1. Consider a provisional move M that you can take. (Some possibly counterintuitive valid moves M could be e.g. “waiting attentively” or “hopefully being genuinely attentive and responsive while simultaneously planning a move.”)
-2. Classify M as one of the below:
-a) bad for A and bad for B
-b) bad for A and good for B
-c) good for A and bad for B
-d) good for A and good for B
-3. For the selected classification in (2), of (a)-(d), classify this classification further as one of the below:
-a) believed false by A and believed false by B and actually false
-b) believed false by A and believed false by B and actually true
-c) believed false by A and believed true by B and actually false
-d) believed false by A and believed true by B and actually true
-e) believed true by A and believed false by B and actually false
-f) believed true by A and believed false by B and actually true
-g) believed true by A and believed true by B and actually false
-h) believed true by A and believed true by B and actually true
-4. Carry out the move M or return to (1). Of course, you can return to (1) at any time as your real time interaction unfolds or other conditions change.
+* 0. Consider at least n=2 people: A (you) and B (someone else)
+* 1. Consider a provisional move M that you can take. (Some possibly counterintuitive valid moves M could be e.g. “waiting attentively” or “hopefully being genuinely attentive and responsive while simultaneously planning a move.”)
+* 2. Classify M as one of the below:
+	* a) bad for A and bad for B
+	* b) bad for A and good for B
+	* c) good for A and bad for B
+	* d) good for A and good for B
+* 3. For the selected classification in (2), of (a)-(d), classify this classification further as one of the below:
+	* a) believed false by A and believed false by B and actually false
+	* b) believed false by A and believed false by B and actually true
+	* c) believed false by A and believed true by B and actually false
+	* d) believed false by A and believed true by B and actually true
+	* e) believed true by A and believed false by B and actually false
+	* f) believed true by A and believed false by B and actually true
+	* g) believed true by A and believed true by B and actually false
+	* h) believed true by A and believed true by B and actually true
+* 4. Carry out the move M or return to (1). Of course, you can return to (1) at any time as your real time interaction unfolds or other conditions change.
 
 
 alternative presentation:
 
-Consider two or more people, A and B or A and B, C, D, E…
-Consider a potentially taken move M, under consideration.
-Consider that the status of M if taken is exactly one of the following:
-Believed good for A by A and believed good for B [, C, D, E…] by B and actually good for A and actually good for B.
+* Consider two or more people, A and B or A and B, C, D, E…
+* Consider a potentially taken move M, under consideration.
+* Consider that the status of M if taken is exactly one of the following:
+	* Believed good for A by A and believed good for B [, C, D, E…] by B and actually good for A and actually good for B.
 […]
-Believe bad for A by A and believed bad for B by B and actually bad for A and actually bad for B.
+	* Believed bad for A by A and believed bad for B by B and actually bad for A and actually bad for B.
 
 
 alternative presentation: [yay = good; bleh = bad] “Many Protocol” (Last updated: 2019-09-06; 09:19 CDT)
@@ -4956,156 +4958,156 @@ Moves can be complex, that is, moves can be made of submoves that are simultaneo
 
 6. If things are moving smoothly and slowly, then, at any particular time, with perhaps some periodic indeterminateness, there is only one A and everyone else is a B. If things are moving smoothly and more quickly, then everyone is simultaneously, at the same time, at all times, both an A and B. Now, go to (1).
 
-appendix 1:
+**appendix 1:**
 
-(1) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(2) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(3) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(4) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(5) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(6) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(7) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(8) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(9) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(10) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(11) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(12) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(13) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(14) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(15) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(16) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(17) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(18) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(19) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(20) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(21) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(22) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(23) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(24) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(25) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(26) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(27) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(28) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(29) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(30) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(31) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(32) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(33) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(34) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(35) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(36) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(37) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(38) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(39) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(40) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(41) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(42) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(43) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(44) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(45) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(46) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(47) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(48) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(49) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(50) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(51) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(52) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(53) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(54) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(55) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(56) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(57) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(58) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(59) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(60) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
-(61) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
-(62) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
-(63) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
-(64) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (1) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (2) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (3) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (4) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (5) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (6) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (7) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (8) M is believed yay for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (9) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (10) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (11) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (12) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (13) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (14) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (15) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (16) M is believed yay for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (17) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (18) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (19) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (20) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (21) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (22) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (23) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (24) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (25) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (26) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (27) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (28) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (29) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (30) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (31) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (32) M is believed yay for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (33) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (34) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (35) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (36) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (37) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (38) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (39) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (40) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (41) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (42) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (43) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (44) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (45) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (46) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (47) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (48) M is believed bleh for A by A and believed yay for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (49) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (50) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (51) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (52) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (53) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (54) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (55) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (56) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed yay for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (57) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (58) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+* (59) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (60) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed yay for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
+* (61) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly yay for (all) B(s).
+* (62) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly yay for A and actually/truly bleh for (all) B(s).
+(63) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh * for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly yay for (all) B(s).
+* (64) M is believed bleh for A by A and believed bleh for A by (all) B(s) and believed bleh for (all) B(s) by A and believed bleh for (all) B(s) by (all) B(s) and actually/truly bleh for A and actually/truly bleh for (all) B(s).
 
-appendix 2:
+**appendix 2:**
 
-yay = the true nature of yay must come to be understood over time; one’s understanding will be revised again and again, possibly calling it by many names along the way
-bleh = the true nature of bleh must come to be understood over time; one’s understanding will be revised again and again, possibly calling it by many names along the way
-sacredness = rightly or wrongly it would currently be catastrophically, critically bad if this [sacred] seemingly/apparently/expectedly extremely heartrendingly/body-rendingly good thing X were not actually good/true/real/obtaining/existing/something/etc
-illusion = for better or worse, something that is not actually true/real/obtaining/existing/something/etc
-inversion = incorrectly believing that something bad is good or that something good is bad (contextually, generally, universally, something, etc.)
-resignation = deciding (perhaps in the distant past and having forgotten) to never (try to) get some good thing, person, place, situation, context, experience
-deferral = deciding (perhaps in the distant past and having forgotten) to get a good thing (perhaps much, much, much later)
+* yay = the true nature of yay must come to be understood over time; one’s understanding will be revised again and again, possibly calling it by many names along the way
+* bleh = the true nature of bleh must come to be understood over time; one’s understanding will be revised again and again, possibly calling it by many names along the way
+* sacredness = rightly or wrongly it would currently be catastrophically, critically bad if this [sacred] seemingly/apparently/expectedly extremely heartrendingly/body-rendingly good thing X were not actually good/true/real/obtaining/existing/something/etc
+* illusion = for better or worse, something that is not actually true/real/obtaining/existing/something/etc
+* inversion = incorrectly believing that something bad is good or that something good is bad (contextually, generally, universally, something, etc.)
+* resignation = deciding (perhaps in the distant past and having forgotten) to never (try to) get some good thing, person, place, situation, context, experience
+* deferral = deciding (perhaps in the distant past and having forgotten) to get a good thing (perhaps much, much, much later)
 disgust/revulsion/hate/rejection = response to being seemingly or actually choicelessly/inevitably felt subject to past or expected, seeming or actual (felt) harm/hurt you currently lack the ability to [i.e. can’t] adequately predict, control, or repair with negligible enough opportunity cost
 atonement/reparations/restitution/redemption/apology/repair = 
-love = abstract and/or felt and/or skillful concrete actions arising from accepting a person, place, or thing exactly as they are, have been, and will be/become (it is, has been, and will be/become)
-compassion/care = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be free from suffering
-loving-kindess/kindness/care (metta) = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be happy/joyful/satisfied/satiated/complete/content
-wisdom = ability to take skillful action; ability to not have to make hard, terrible choices; ability to realize when a choice between bad and worse is an illusion
-self-transformation, cranking [like turning a crank], bootstrapping = the production of wisdom
+* love = abstract and/or felt and/or skillful concrete actions arising from accepting a person, place, or thing exactly as they are, have been, and will be/become (it is, has been, and will be/become)
+* compassion/care = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be free from suffering
+* loving-kindess/kindness/care (metta) = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be happy/joyful/satisfied/satiated/complete/content
+* wisdom = ability to take skillful action; ability to not have to make hard, terrible choices; ability to realize when a choice between bad and worse is an illusion
+* self-transformation, cranking [like turning a crank], bootstrapping = the production of wisdom
 on the path = ability and propensity to self-transform, crank, bootstrap no matter one’s current level of wisdom
-full/complete X = X that contains no inversions
-belongingness = being in a stable situation where you are able to knowingly, reflectively accept, receive, experience (relatively or completely) full/complete/non-inverted love, compassion, and kindness, etc.
-connection, mutual belongingness = you get to be completely you, you can go anywhere in yourself and come back with with anything, and so can the other people around you, and it’s ok; it's safe (and good) for you and them, all the way down (ideally)
-wise, mutual belongingness = stable community in the face of uncertainty, inversion, and resource constraints along many dimensions
+* full/complete X = X that contains no inversions
+* belongingness = being in a stable situation where you are able to knowingly, reflectively accept, receive, experience (relatively or completely) full/complete/non-inverted love, compassion, and kindness, etc.
+* connection, mutual belongingness = you get to be completely you, you can go anywhere in yourself and come back with with anything, and so can the other people around you, and it’s ok; it's safe (and good) for you and them, all the way down (ideally)
+* wise, mutual belongingness = stable community in the face of uncertainty, inversion, and resource constraints along many dimensions
 
 
-formulation 2: (persuasion flavored)
+# <span id="117"></span> formulation 2: (persuasion flavored)
 
-For (A), (B), (C) and (D) is that relevant ability of mine veridical and veridically obvious? [If not can I veridically and veridically obviously recursively gain the ability?]
-And, for (A), (B), (C) and (D) is exercising that relevant ability of mine sufficiently low-cost in itself?
-And, for (A), (B), (C) and (D) is exercising that relevant ability of mine sufficiently low-cost in terms of (external) opportunity cost, i.e. is there no better thing to do than exercising these (A), (B), (C) and (D)?
-And, for (A), (B), (C) and (D) is it actually, truly, veridical and veridically obvious no-brainer good for me to exercise these particular (A), (B), (C) and (D)?
-
-(A) Can I cause or “cause” it to be the case, through action or inaction, that for person P (doing) X (*immediately or at a definite future time or at an indefinite future time but sufficiently soon for me and inevitably) is an obvious no-brainer for them, and with recognizably obviously no better alternative, that (doing) X (*) is essentially a recognizable-to-them need? [with no false positives and no false negatives, that is they see perfectly clearly exactly what it will do for them as well as whether or not that’s net good, and, even better this is in no way distressing?]
-Is it the case that person P finds that doing X (*immediately or at a definite future time or at an indefinite future time but sufficiently soon for me and inevitably) is an obvious no-brainer for them, that doing X (*) is essentially a recognizable-to-them need?
-(B) Can I cause or “cause” it to be the case, through action or inaction, that person P’s expectations for having done X are perfectly fulfilled immediately, mediately for all mediates, and terminally?
-Is it the case that person P’s expectations for having done X are perfectly fulfilled immediately, mediately for all mediates, and terminally?
-(C) Can I cause or “cause” it to be the case, through action or inaction, that the effects of person P having done X, immediately, mediately for all mediates, and terminally, are good for person P?
-Is it the case that the effects of person P having done X, immediately, mediately for all mediates, and terminally, are good for person P?
-(D) Can I cause or “cause” it to be the case, through action or inaction, that the effects of person P having done X, immediately, mediately for all mediates, and terminally, are, immediately and retrospectively, recognizably-to-them, no-brainer, veridical and veridically seemingly obviously good for person P?
-Is it the case that the effects of person P having done X, immediately, mediately for all mediates, and terminally, are recognizably-to-them, no-brainer, veridical and verdically obviously good for person P?
-
-Finally, will this inevitably and obviously be a net benefit to everyone?
+* For (A), (B), (C) and (D) is that relevant ability of mine veridical and veridically obvious? [If not can I veridically and veridically obviously recursively gain the ability?]
+* And, for (A), (B), (C) and (D) is exercising that relevant ability of mine sufficiently low-cost in itself?
+* And, for (A), (B), (C) and (D) is exercising that relevant ability of mine sufficiently low-cost in terms of (external) opportunity cost, i.e. is there no better thing to do than exercising these (A), (B), (C) and (D)?
+* And, for (A), (B), (C) and (D) is it actually, truly, veridical and veridically obvious no-brainer good for me to exercise these particular (A), (B), (C) and (D)?
+* (A) Can I cause or “cause” it to be the case, through action or inaction, that for person P (doing) X (*immediately or at a definite future time or at an indefinite future time but sufficiently soon for me and inevitably) is an obvious no-brainer for them, and with recognizably obviously no better alternative, that (doing) X (*) is essentially a recognizable-to-them need? [with no false positives and no false negatives, that is they see perfectly clearly exactly what it will do for them as well as whether or not that’s net good, and, even better this is in no way distressing?]
+* Is it the case that person P finds that doing X (*immediately or at a definite future time or at an indefinite future time but sufficiently soon for me and inevitably) is an obvious no-brainer for them, that doing X (*) is essentially a recognizable-to-them need?
+* (B) Can I cause or “cause” it to be the case, through action or inaction, that person P’s expectations for having done X are perfectly fulfilled immediately, mediately for all mediates, and terminally?
+* Is it the case that person P’s expectations for having done X are perfectly fulfilled immediately, mediately for all mediates, and terminally?
+* (C) Can I cause or “cause” it to be the case, through action or inaction, that the effects of person P having done X, immediately, mediately for all mediates, and terminally, are good for person P?
+* Is it the case that the effects of person P having done X, immediately, mediately for all mediates, and terminally, are good for person P?
+* (D) Can I cause or “cause” it to be the case, through action or inaction, that the effects of person P having done X, immediately, mediately for all mediates, and terminally, are, immediately and retrospectively, recognizably-to-them, no-brainer, veridical and veridically seemingly obviously good for person P?
+* Is it the case that the effects of person P having done X, immediately, mediately for all mediates, and terminally, are recognizably-to-them, no-brainer, veridical and verdically obviously good for person P?
+* Finally, will this inevitably and obviously be a net benefit to everyone?
 
 Can I cause people to know what’s good for me? Can I cause people to understand the synergy of reciprocity? Can I cause people to long-term coordinate with me? Can I give people a reason to long-term coordinate with me? Actually these are all superfluous or they are abilities that follow from the original ability lay down..
 
 Good for everyone and everything. Strategically helping; recognizably good cascades…
 
 
-formulation 3: (after Leibniz)
+# <span id="118"></span> formulation 3: (after Leibniz)
 
 What is the best of all possible worlds? How do I/you know? What does this imply for my action?
 
 
-formulation 4: (after Kant’s Categorical Imperative)
+# <span id="119"></span> formulation 4: (after Kant’s Categorical Imperative)
 
 What would anyone ideally do in my exact situation?
+
 If a random person were perfectly airdropped into my exact being and situation, what is the best thing they could do?
 
-via e.g.: http://www.qcc.cuny.edu/socialsciences/ppecorino/MEDICAL_ETHICS_TEXT/Chapter_2_Ethical_Traditions/Categorical_Imperative.htm
-The Formula of the Law of Nature: "Act as if the maxim of your action were to become through your will a universal law of nature."
-The Formula of the End Itself: "Act in such a way that you always treat humanity, whether in your own person or in the person of any other, never simply as a means, but always at the same time as an end."
-The Formula of Autonomy: "So act that your will can regard itself at the same time as making universal law through its maxims."
-The Formula of the Kingdom of Ends: "So act as if you were through your maxims a law-making member of a kingdom of ends."
+* via e.g.: http://www.qcc.cuny.edu/socialsciences/ppecorino/MEDICAL_ETHICS_TEXT/Chapter_2_Ethical_Traditions/Categorical_Imperative.htm
+* The Formula of the Law of Nature: "Act as if the maxim of your action were to become through your will a universal law of nature."
+* The Formula of the End Itself: "Act in such a way that you always treat humanity, whether in your own person or in the person of any other, never simply as a means, but always at the same time as an end."
+* The Formula of Autonomy: "So act that your will can regard itself at the same time as making universal law through its maxims."
+* The Formula of the Kingdom of Ends: "So act as if you were through your maxims a law-making member of a kingdom of ends."
 
 
-formulation 5: (mutual knowledge)
+# <span id="120"></span> formulation 5: (mutual knowledge)
 
 * = know/believe/think/imagine/expect/predict/anticipate/retrospectively interpret
-You know that I know that you know that X is good.
-You know that I know that you know that Y is bad
-I know that you know that I know that that same X is good.
-I know that you know that I know that that same Y is bad.
-We have mutual understanding that X is good.
-We have mutual understanding that Y is bad.
 
+You know that I know that you know that X is good.  
+You know that I know that you know that Y is bad  
+I know that you know that I know that that same X is good.  
+I know that you know that I know that that same Y is bad.  
+We have mutual understanding that X is good.  
+We have mutual understanding that Y is bad.  
 
 Notes:
-(*) voluntary exchange, mutually beneficial exchange, atomic transactions, atomic swap, mutually beneficial noncoercive exchange
-(*) co-doing, co-moves, simultaneous complementary moves, we, separation, nonseparation, no boundary, etc.
-(*) “Be good to each other.”
-(*) “Do the best you can to do exactly the right thing for both you and the other person, simultaneously, in each moment.”
-(*) “Act compassionately.”; “Act compassionately, taking into account all time horizons and all possible futures.”
+
+* voluntary exchange, mutually beneficial exchange, atomic transactions, atomic swap, mutually beneficial noncoercive exchange
+* co-doing, co-moves, simultaneous complementary moves, we, separation, nonseparation, no boundary, etc.
+* “Be good to each other.”
+* “Do the best you can to do exactly the right thing for both you and the other person, simultaneously, in each moment.”
+* “Act compassionately.”; “Act compassionately, taking into account all time horizons and all possible futures.”
 
 
-formulation 6:
+# <span id="121"></span> formulation 6:
 
 (*) If something feels bad, then something is bad, somewhere, somehow, and it’s ok to completely stop any particular thing, or the whole thing, at any time, smoothly or abruptly, if that’s what feels right. (If something has changed for the worse, it’s ok to reverse or revert, to walk anything back, too, if you want to, that you don’t like or find you don’t like, when you find it’s time to do so, immediately or later.) If in person, you can leave the room any time. If online, you can turn off your mic, turn off your speakers, turn off your video, etc.
 
