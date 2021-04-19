@@ -22,7 +22,7 @@ All rights reserved. You may fork/publish lightly transformed (formatted, edited
 
 # <span id="5"></span> Quick Start Guide:
 
-(There is also a full table of contents, if you keep scrolling for a while.)
+* <a href="#11">Jump to Full Table of Contents</a>
 
 <span id="6"></span> **Who is this document for?**
 
@@ -4896,6 +4896,7 @@ Notes:
 
 # <span id="115"></span> interpersonal practice:
 
+[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
 
 
 # <span id="116"></span> formulation 1 (including Many Protocol): (strategy flavored; mutual epistemics flavored)
@@ -4945,18 +4946,18 @@ alternative presentation: [yay = good; bleh = bad] “Many Protocol” (Last upd
 
 [See some interesting definitions in Appendix 2]
 
-1. Let there be A and B, which comprise a group G. A is a single person. B could be a single person or multiple people.
+(1) Let there be A and B, which comprise a group G. A is a single person. B could be a single person or multiple people.
 
-2. Person A considers a move M. M can be (a) physically verbal, physical nonverbal, mental, or even (b) a “non-move that’s still a move.” Examples of (a): a verbal observation, verbal question, a verbal request, a quizzical look, a shrug, eye contact... Examples of (b): thinking about what to say, waiting patiently, waiting patiently with an open mind, leaving the vicinity temporarily…
+(2) Person A considers a move M. M can be (a) physically verbal, physical nonverbal, mental, or even (b) a “non-move that’s still a move.” Examples of (a): a verbal observation, verbal question, a verbal request, a quizzical look, a shrug, eye contact... Examples of (b): thinking about what to say, waiting patiently, waiting patiently with an open mind, leaving the vicinity temporarily…
 Moves can be complex, that is, moves can be made of submoves that are simultaneous and/or sequential in time.
 
-3. Now, say, something can be “yay” or “bleh” for someone. And, something can be *believed* to be yay or bleh for someone, *by* someone. And, two or more people, at a particular time, might disagree as to whether a particular something is yay or bleh (for someone or in general). Also, say, for our purposes, that there’s a fact of the matter or a ground truth, that that particular something is actually/truly (contextually, for a particular person at a particular time) yay or bleh, with no other possibilities. And let those possibilities be possibilities for M. That is, we can have a big list (exactly 64 items) of things that could be the case for M, where only one entry/line in the list is true at a particular time. That list is in Appendix 1.
+(3) Now, say, something can be “yay” or “bleh” for someone. And, something can be *believed* to be yay or bleh for someone, *by* someone. And, two or more people, at a particular time, might disagree as to whether a particular something is yay or bleh (for someone or in general). Also, say, for our purposes, that there’s a fact of the matter or a ground truth, that that particular something is actually/truly (contextually, for a particular person at a particular time) yay or bleh, with no other possibilities. And let those possibilities be possibilities for M. That is, we can have a big list (exactly 64 items) of things that could be the case for M, where only one entry/line in the list is true at a particular time. That list is in Appendix 1.
 
-4. Now, so, person A selects and makes the best move M they can make, in consideration of as many moves as they have time to consider, and in consideration of the 64 possible classifications of moves (in Appendix 1).
+(4) Now, so, person A selects and makes the best move M they can make, in consideration of as many moves as they have time to consider, and in consideration of the 64 possible classifications of moves (in Appendix 1).
 
-5. So, now, the move has been made, and results have obtained. And, now, everyone in G implicitly or explicitly chooses a new A and B(s). Now, go to (1) or (6).
+(5) So, now, the move has been made, and results have obtained. And, now, everyone in G implicitly or explicitly chooses a new A and B(s). Now, go to (1) or (6).
 
-6. If things are moving smoothly and slowly, then, at any particular time, with perhaps some periodic indeterminateness, there is only one A and everyone else is a B. If things are moving smoothly and more quickly, then everyone is simultaneously, at the same time, at all times, both an A and B. Now, go to (1).
+(6) If things are moving smoothly and slowly, then, at any particular time, with perhaps some periodic indeterminateness, there is only one A and everyone else is a B. If things are moving smoothly and more quickly, then everyone is simultaneously, at the same time, at all times, both an A and B. Now, go to (1).
 
 **appendix 1:**
 
@@ -5035,7 +5036,7 @@ Moves can be complex, that is, moves can be made of submoves that are simultaneo
 * resignation = deciding (perhaps in the distant past and having forgotten) to never (try to) get some good thing, person, place, situation, context, experience
 * deferral = deciding (perhaps in the distant past and having forgotten) to get a good thing (perhaps much, much, much later)
 disgust/revulsion/hate/rejection = response to being seemingly or actually choicelessly/inevitably felt subject to past or expected, seeming or actual (felt) harm/hurt you currently lack the ability to [i.e. can’t] adequately predict, control, or repair with negligible enough opportunity cost
-atonement/reparations/restitution/redemption/apology/repair = 
+* atonement/reparations/restitution/redemption/apology/repair = 
 * love = abstract and/or felt and/or skillful concrete actions arising from accepting a person, place, or thing exactly as they are, have been, and will be/become (it is, has been, and will be/become)
 * compassion/care = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be free from suffering
 * loving-kindess/kindness/care (metta) = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be happy/joyful/satisfied/satiated/complete/content
