@@ -315,6 +315,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 # <span id="12"></span> preliminary and introductory things:
 
+[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
 
 
 # <span id="13"></span> Formatting and Reformatting Note:
@@ -3788,83 +3789,95 @@ The current renderings of the main practices are below.
 
 # <span id="100"></span> p1: [old names: Elemental Analysis, Comprehensive Elemental Analysis]
 
-1. Incline towards producing one of
-(1a) a logical argument/deduction/derivation (standalone or possibly including a narrativized explanation), [What implies/entails this/X? What does X/this imply/entail? Why X? What is the reason for X? What follows from X? X=?]
-(1b) a description of a causal mechanism, [What caused this/X? What does this/X cause? X=?] [How does that work?] [(1/2) What’s going on? What’s going on, there? What’s going on, here? What’s going on, out there? What’s going on, in here?]
-(1c) a description of some spatiotemporal sensations/experience, [What is before this/X? What is after this/X? What’s next? What is adjacent to this/X?  What qualities does this/X have? X=?] [(2/2) What’s going on? What’s going on, there? What’s going on, here? What’s going on, out there? What’s going on, in here?]
-(1d) an explanation of a phenomenon and possibly alternate credible explanations of that phenomenon
-(1e) an evaluation or appraisal of something
-(1f) instructions for achieving something
-(1g) description of an ideal, endorsement
-(1h) description of a goal state
-(1i) a description of a dynamical first-person perspective/experience (your present experience, experiential memory, inferred of another, or imagined), including mental, sensory, and somatic experience
-(1j.1) a question and possibly and answer, or
-(1j.2) a topic/subject and possibly content subsumed by that topic/subject
-(1k) a problem and possibly a solution
-(1l) some (or as exhaustively as you can) of your “actual/deepest/truest” (a) beliefs and (b) expectations—good, bad, and ugly, beautiful, endorsed, disendorsement,and relevant into words, in your “heart of hearts,” “throat of throats,” “gut of guts,” “genitals of genitals,” “sacrum of sacrums,” “perineum of perineums,” etc.: the beliefs and expectations and representations of the mind and body.
-(1m) some (or as exhaustively as you can) of your plans, intentions, willing, goals
-(1n) a meaningful story
-(1o) a meaningful autobiographical detailed excerpt or lifelong summary
-(1p) a plan for achieving something
-(1q) a list of that which you desire/thirst/crave, hope for, wish for, long for, etc.
-(1r) a list of that which you fear
-(1s) a list of that which you love
-(1t) a list of that which you hate
-(1u) a story/fantasy/narrative/scenario that is (a) exciting (and/or otherwise good e.g. uplifting or psychological) and/or (b) sexually arousing and/or (c) evocative if connection/intimacy/safety
-(1v) counterfactuals: for something that went one way or could have gone a way or might go a way or will go a way, how it could that have, did, or will go/gone a different way, elaborate on that, and what changed for that to be the case
-(1w) positive examples of something (things that are examples of X) as different from each other as possible, negative examples of that something (things that are examples of not-X) as different from each other as can be and as minimally different from positive examples of X in as many different ways as can be
-(1x) actions, doings; things you’re doing right now, volitionally or nonvolitionally, as broadly conceived as possible
-(1y) an personal inability/can’t/powerlessness and possibly a believable way to acquire that ability
-(1z) a “further purpose” a “for what you are doing something”; “I am doing/striving for X for/because”; “X is good because…”
-(1z1) a memory
-(1z2) any type of writing you want for any purpose.
-(1z3) your motivations or reasons, beliefs, knowings, understandings, or expectations for or underlying the actions, doings; things you’re doing right now, volitionally or nonvolitionally, as broadly conceived as possible, as exhaustively or usefully as possible
-2. Get down (think or write down) as little or as much material as comes easily, even just a single relevant word or phrase. (And you can also patiently compose and/or revise as you go, or set up an outline structure to fill in, or do lots of messy freewriting, or a combination…)
-3. Choose, from the material you produced,
-(3a) a word,
-(3b) a phrase,
-(3c) a sentence, or
-(3d) a boundary (e.g. between two sentences; this can be stylized as the last word and punctation of a sentence and the first word of a subsequent sentence) from the material you produced.
-4. Lift it out, while remembering its context, and you might put an equals sign to the right of it.
-5. Now, on the righthand side of the equals sign, say the same thing using more words than on the left side of the equals sign. It’s ok if you produce something partial, imperfect, or nothing.
-6. Now, you might return to the original material for more content to repeat the exercise, or take something from the zoom/expansion/analysis you just did and zoom/expand/analyze  further.
-7. Feel free to refactor, revise, expand, reboot the original material as much or as little as you’d like.
-8. For anything you produce, be willing to throw it all away, plan to throw it away, be willing to forget for something better in the future. Don’t push, don’t force, don’t strain. Let the whole thing go. Let the whole thing move and flow.
-9. You can also, and this is recommended, create new wholes. For example, if X = M + R + T,  and, Y = Q + G + V, then take, say, R and G. And, do this: “Z = ? = R + G.” Now, what is “Z”, what is that “?” between Z and R+ G? In other words, instead of putting things on the left hand side of the equal sign and then putting more things on the right hand side of the equals sign—instead, first put things on the right hand side of the equals sign and then put fewer things on the left hand side of the equals sign. Find new wholes and larger contexts. You might find wholes contained in larger wholes contained in larger wholes…
-9b. You might play with this template:
+(1) Incline towards producing one of
+* (1a) a logical argument/deduction/derivation (standalone or possibly including a narrativized explanation), [What implies/entails this/X? What does X/this imply/entail? Why X? What is the reason for X? What follows from X? X=?]
+* (1b) a description of a causal mechanism, [What caused this/X? What does this/X cause? X=?] [How does that work?] [(1/2) What’s going on? What’s going on, there? What’s going on, here? What’s going on, out there? What’s going on, in here?]
+* (1c) a description of some spatiotemporal sensations/experience, [What is before this/X? What is after this/X? What’s next? What is adjacent to this/X?  What qualities does this/X have? X=?] [(2/2) What’s going on? What’s going on, there? What’s going on, here? What’s going on, out there? What’s going on, in here?]
+* (1d) an explanation of a phenomenon and possibly alternate credible explanations of that phenomenon
+* (1e) an evaluation or appraisal of something
+* (1f) instructions for achieving something
+* (1g) description of an ideal, endorsement
+* (1h) description of a goal state
+* (1i) a description of a dynamical first-person perspective/experience (your present experience, experiential memory, inferred of another, or imagined), including mental, sensory, and somatic experience
+* (1j.1) a question and possibly and answer, or
+* (1j.2) a topic/subject and possibly content subsumed by that topic/subject
+* (1k) a problem and possibly a solution
+* (1l) some (or as exhaustively as you can) of your “actual/deepest/truest” (a) beliefs and (b) expectations—good, bad, and ugly, beautiful, endorsed, disendorsement,and relevant into words, in your “heart of hearts,” “throat of throats,” “gut of guts,” “genitals of genitals,” “sacrum of sacrums,” “perineum of perineums,” etc.: the beliefs and expectations and representations of the mind and body.
+* (1m) some (or as exhaustively as you can) of your plans, intentions, willing, goals
+* (1n) a meaningful story
+* (1o) a meaningful autobiographical detailed excerpt or lifelong summary
+* (1p) a plan for achieving something
+* (1q) a list of that which you desire/thirst/crave, hope for, wish for, long for, etc.
+* (1r) a list of that which you fear
+* (1s) a list of that which you love
+* (1t) a list of that which you hate
+* (1u) a story/fantasy/narrative/scenario that is (a) exciting (and/or otherwise good e.g. uplifting or psychological) and/or (b) sexually arousing and/or (c) evocative if connection/intimacy/safety
+* (1v) counterfactuals: for something that went one way or could have gone a way or might go a way or will go a way, how it could that have, did, or will go/gone a different way, elaborate on that, and what changed for that to be the case
+* (1w) positive examples of something (things that are examples of X) as different from each other as possible, negative examples of that something (things that are examples of not-X) as different from each other as can be and as minimally different from positive examples of X in as many different ways as can be
+* (1x) actions, doings; things you’re doing right now, volitionally or nonvolitionally, as broadly conceived as possible
+* (1y) an personal inability/can’t/powerlessness and possibly a believable way to acquire that ability
+* (1z) a “further purpose” a “for what you are doing something”; “I am doing/striving for X for/because”; “X is good because…”
+* (1z1) a memory
+* (1z2) any type of writing you want for any purpose.
+* (1z3) your motivations or reasons, beliefs, knowings, understandings, or expectations for or underlying the actions, doings; things you’re doing right now, volitionally or nonvolitionally, as broadly conceived as possible, as exhaustively or usefully as possible
+
+(2) Get down (think or write down) as little or as much material as comes easily, even just a single relevant word or phrase. (And you can also patiently compose and/or revise as you go, or set up an outline structure to fill in, or do lots of messy freewriting, or a combination…)
+
+(3) Choose, from the material you produced,
+
+* (3a) a word,
+* (3b) a phrase,
+* (3c) a sentence, or
+* (3d) a boundary (e.g. between two sentences; this can be stylized as the last word and punctation of a sentence and the first word of a subsequent sentence) from the material you produced.
+
+(4) Lift it out, while remembering its context, and you might put an equals sign to the right of it.
+
+(5) Now, on the righthand side of the equals sign, say the same thing using more words than on the left side of the equals sign. It’s ok if you produce something partial, imperfect, or nothing.
+
+(6) Now, you might return to the original material for more content to repeat the exercise, or take something from the zoom/expansion/analysis you just did and zoom/expand/analyze  further.
+
+(7) Feel free to refactor, revise, expand, reboot the original material as much or as little as you’d like.
+
+(8) For anything you produce, be willing to throw it all away, plan to throw it away, be willing to forget for something better in the future. Don’t push, don’t force, don’t strain. Let the whole thing go. Let the whole thing move and flow.
+
+(9) You can also, and this is recommended just as much as the above, create new wholes. For example, if X = M + R + T,  and, Y = Q + G + V, then take, say, R and G. And, do this: “Z = ? = R + G.” Now, what is “Z”, what is that “?” between Z and R+ G? In other words, instead of putting things on the left hand side of the equal sign and then putting more things on the right hand side of the equals sign—instead, first put things on the right hand side of the equals sign and then put fewer things on the left hand side of the equals sign. Find new wholes and larger contexts. You might find wholes contained in larger wholes contained in larger wholes…
+
+(9b) You might play with this template:
 
 [this/these] whole(s) Y is/are/contain(s)/= [this/these] parts M[, F…] + “just exactly/precisely [this/these aforementioned]/and nothing else”
 
 That is, M and F are known; you have some words for them. Now, what is Y? What are some words for Y?
 
-9c. Another kind of inverse is adding a subscript to the word on the left hand side of the equals sign and then looking for definitions for the other subscript. For example, you might have “suffering =“ and maybe before you even try to fill in the right hand side, you might do:
+(9c) Another kind of inverse is adding a subscript to the word on the left hand side of the equals sign and then looking for definitions for the other subscript. For example, you might have “suffering =“ and maybe before you even try to fill in the right hand side, you might do:
 
-suffering_1 =
-suffering_2 =
-suffering_3 =
-and so on.
+suffering_1 =  
+suffering_2 =  
+suffering_3 =  
+and so on.  
 
 You might ask, what is everything I could possibly mean by this word (or phrase) “suffering”/X?
 
 In this way, the word “suffering” can become more detached and flexible from the underlying language, while at the same time making each use of the word more precise. The subscripts do not have to be numbers; they can be anything that helps to differentiate which meaning/usage/sense of the word that you mean. That might be times or durations or conditions and so forth. [See also General Semantics for more on the idea of “indexing.”]
 
-10. Also, consider intensional multischematism. For example, you might say that the same M can be referred to by single word R and single word H. That is R and H have different meanings/intensions but they refer or point to the same thing or set of things. Further, R = G + H + T and X = V + W + Q.  That is, (G + H + T) and (V + W + Y) each have different meanings, but correspond to R and X, respectively. Further, you might notice that, say, T and W, while using different words and meaning different things, in fact refer to the same thing(s), have the same extension. Another way of saying things like this is that the concept M, or that which directly represents M, or <M>, refers or applies to M using the word “M”. Or, you might say that both <M> and <K> refer or apply to the same extension; “M” and “K” refer to M and K which are actually the same. In our syntax and semantics, here, M = K.
-Example a: This M and this K are the same (thing). [not just the same type of thing. <this M> and <this K> corefer to M (which is K) and K (which is M).]
-Example b: All Gs are also Hs.
+(10) Also, consider intensional multischematism. For example, you might say that the same M can be referred to by single word R and single word H. That is R and H have different meanings/intensions but they refer or point to the same thing or set of things. Further, R = G + H + T and X = V + W + Q.  That is, (G + H + T) and (V + W + Y) each have different meanings, but correspond to R and X, respectively. Further, you might notice that, say, T and W, while using different words and meaning different things, in fact refer to the same thing(s), have the same extension. Another way of saying things like this is that the concept M, or that which directly represents M, or <M>, refers or applies to M using the word “M”. Or, you might say that both <M> and <K> refer or apply to the same extension; “M” and “K” refer to M and K which are actually the same. In our syntax and semantics, here, M = K.
+
+**Example a:** This M and this K are the same (thing). [not just the same type of thing. <this M> and <this K> corefer to M (which is K) and K (which is M).]
+
+**Example b:** All Gs are also Hs.
 
 [note that the above is ambiguous as to whether X, Y, Z, etc. are “bound” or “unbound” for any given X in the language/wrting above]
 
 
-Examples:
+**Examples:**
 
-Example 1a: X = The cat sat on the mat.
-Example 1b: Y = cat in X = furry animal + …
-Example 1c: Z = furry in Y = experientially noncontiguous nonhomogenous light nonpunctate/distributed pressure when touched gently
-Example 1d: Q = noncontiguous in Z = mediacy and absence = missing immediate relations = a proper subset of immediate relations from a particular designated/delimited closed/finite set
-Example 2a: T = rippling water = directionality backflows dappled light dark traveling shimmers twinkle flecks arc chase over under undulate
-Example 3a: R = The last thing was cheese. We find that in these cases…
-Example 3b: M = [cheese.] [We] in R = …summary signpost implication…
-Example 4: B = ? = cat + dog; B = ?; B = a partial set of quadrupedal mammals, those things that [for my purposes…]…
+* Example 1a: X = The cat sat on the mat.
+* Example 1b: Y = cat in X = furry animal + …
+* Example 1c: Z = furry in Y = experientially noncontiguous nonhomogenous light nonpunctate/distributed pressure when touched gently
+* Example 1d: Q = noncontiguous in Z = mediacy and absence = missing immediate relations = a proper subset of immediate relations from a particular designated/delimited closed/finite set
+* Example 2a: T = rippling water = directionality backflows dappled light dark traveling shimmers twinkle flecks arc chase over under undulate
+* Example 3a: R = The last thing was cheese. We find that in these cases…
+* Example 3b: M = [cheese.] [We] in R = …summary signpost implication…
+* Example 4: B = ? = cat + dog; B = ?; B = a partial set of quadrupedal mammals, those things that [for my purposes…]…
 
 
 Places likely worth investigating:
@@ -3874,26 +3887,28 @@ Places likely worth investigating:
 3. Where something is seemingly somehow X and Y at different times.
 4. Where something is seemingly somehow either X or Y conditionally.
 X, Y =
-a) true, false
-b) good, bad
-c) existent/present, nonexistent/absent
-d) necessary/unconditional/noncontingent, conditional/contingent
-e) possible/conceivable, impossible/inconceivable
-f) simple/nonpartful, complex/composite
-g) unified/whole/connected, separate/plural/multiple
-h) before or after, synchronous
-i) veridical, nonveridical
-j) beautiful, ugly
-k) that is something that has some attribute or property, that doesn’t have that same attribute or property
+
+* a) true, false
+* b) good, bad
+* c) existent/present, nonexistent/absent
+* d) necessary/unconditional/noncontingent, conditional/contingent
+* e) possible/conceivable, impossible/inconceivable
+* f) simple/nonpartful, complex/composite
+* g) unified/whole/connected, separate/plural/multiple
+* h) before or after, synchronous
+* i) veridical, nonveridical
+* j) beautiful, ugly
+* k) that is something that has some attribute or property, that doesn’t have that same attribute or property
 
 
 Further notes:
-(*) You might also write/think/say things (assertions) and then incline towards generating relevant (apparent, seeming, believed, thought, felt, wondered, imagined, suspected, endorsed, something…) counterexamples or contradictions to those things. And then use the things and the counterexamples or contradictions to improve on the original thing or to write a better thing not subject to the original counterexamples or contradictions.
-(*) Some additional good concepts, semi-separately, are “error correction,” “counterfactual,” “counterexample…”
-(*) Try also: not X = [pick things and see if they’re in or out, let this change anything]
-(*) Consider swapping out the =/equals sign above with things like: is, means, signifies, is equivalent to, ~/sort of equals; maybe equals; could equal; is; is essentially; could be conceived as; could be construed as; could be stipulated as; could be schematized as; could be conveniently stipulated as; boils down to; could have a good enough for now/here definition of; is/can be defined as; most people think of this like/as; is like…
-(*) In addition to =/equals and so forth, you can of course try using the particular word or phrase in a sentence or sentences.
-(*) If you write down assertions anywhere, e.g. as premises or points in an argument, you might ad hoc or systematically look for counterexamples. You might also, ad hoc or systematically, explore objections that others might raise to the/those assertion(s).
+
+* You might also write/think/say things (assertions) and then incline towards generating relevant (apparent, seeming, believed, thought, felt, wondered, imagined, suspected, endorsed, something…) counterexamples or contradictions to those things. And then use the things and the counterexamples or contradictions to improve on the original thing or to write a better thing not subject to the original counterexamples or contradictions.
+* Some additional good concepts, semi-separately, are “error correction,” “counterfactual,” “counterexample…”
+* Try also: not X = [pick things and see if they’re in or out, let this change anything]
+* Consider swapping out the =/equals sign above with things like: is, means, signifies, is equivalent to, ~/sort of equals; maybe equals; could equal; is; is essentially; could be conceived as; could be construed as; could be stipulated as; could be schematized as; could be conveniently stipulated as; boils down to; could have a good enough for now/here definition of; is/can be defined as; most people think of this like/as; is like…
+* In addition to =/equals and so forth, you can of course try using the particular word or phrase in a sentence or sentences.
+* If you write down assertions anywhere, e.g. as premises or points in an argument, you might ad hoc or systematically look for counterexamples. You might also, ad hoc or systematically, explore objections that others might raise to the/those assertion(s).
 
 
 # <span id="101"></span> p2:
