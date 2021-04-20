@@ -6539,6 +6539,8 @@ One sort of, as best they can, has to take into account the whole global history
 
 [See also the section: <a href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>]
 
+[See also the section: <a href="#80">“subtle energy” and “energy work” and mental models</a>]
+
 Similar to the discussion on breathing, in section “<a href="#77">breath</a>,” the muscular/glandular components of sexual arousal, orgasm, ejaculation, etc., have a volitional skeletal muscle component and (indirectly affectable) autogenic components.
 
 A lifetime of action and intent (as well as improper use of breathing, attentional, “energy,” and “tantric” practices) can layer and “convolve” volitional components with autogenic responses.
