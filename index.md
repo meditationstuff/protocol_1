@@ -265,8 +265,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a href="#156">getting triggered, usefulness and risks</a>
 	* <a href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
 	* <a href="#158">a note on "making progress," "regression," and redo-to-undo</a>
-	* <a href="#158a">sex, gender, etc. stuff</a>
-		* <a href="#158b">working with sex and gender (plus "tantra")</a>
+	* <a href="#1581">sex, gender, etc. stuff</a>
+		* <a href="#1582">working with sex and gender (plus "tantra")</a>
 	* <a href="#159">stuff stuff 1</a>
 		* <a href="#160">don't be here now (to start)</a>
 		* <a href="#161">normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]</a>
@@ -6530,11 +6530,14 @@ One sort of, as best they can, has to take into account the whole global history
 
 
 
-# <span id=“158a”></span> sex, gender, etc. stuff:
+# <span id=“1581”></span> sex, gender, etc. stuff:
 
 [This (super)section intentionally left blank. Scroll down for the contenful subsections!]
 
-# <span id=“158b”></span> working with sex and gender (plus "tantra”):
+
+# <span id=“1582”></span> working with sex and gender (plus "tantra”):
+
+[See also the section: <a href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>]
 
 Similar to the discussion on breathing, in section “<a href="#77">breath</a>,” the muscular/glandular components of sexual arousal, orgasm, ejaculation, etc., have a volitional skeletal muscle component and (indirectly affectable) autogenic components.
 
