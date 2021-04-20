@@ -265,6 +265,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a href="#156">getting triggered, usefulness and risks</a>
 	* <a href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
 	* <a href="#158">a note on "making progress," "regression," and redo-to-undo</a>
+	* <a href="#158a">sex, gender, etc. stuff</a>
+		* <a href="#158b">working with sex and gender (plus "tantra")</a>
 	* <a href="#159">stuff stuff 1</a>
 		* <a href="#160">don't be here now (to start)</a>
 		* <a href="#161">normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]</a>
@@ -6525,6 +6527,36 @@ It's important to have a model of progress that accounts for, nonarbitrarily, "a
 So, in any case, one shouldn't infer progress by what's happening in any particular session--"terrible" sessions may be extremely constructive sessions; sessions that don't feel like sessions at all (however conceived) may be extremely constructive sessions, and stuff like that could go on for months! But, actually, all things being equal, the right things had been happening, the whole time.
 
 One sort of, as best they can, has to take into account the whole global history and context, in terms of global wayfinding, to get better and better at how to relate to and participate in any particular thing that's happening at any particular time, including being ok with being swept away, when that's the right thing to be doing, or anything in between, or nuanced variations of any of this, and so on.
+
+
+
+# <span id=“158a”></span> sex, gender, etc. stuff:
+
+[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+
+# <span id=“158b”></span> working with sex and gender (plus "tantra”):
+
+Similar to the discussion on breathing, in section “<a href="#77">breath</a>,” the muscular/glandular components of sexual arousal, orgasm, ejaculation, etc., have a volitional skeletal muscle component and (indirectly affectable) autogenic components.
+
+A lifetime of action and intent (as well as improper use of breathing, attentional, “energy,” and “tantric” practices) can layer and “convolve” volitional components with autogenic responses.
+
+Eventually, as part of meditative practice, some people will want to work directly with sexual arousal. It’s a little bit different than working with breathing. Breathing is always available and somewhat gets deconvolved well mixed in with everything else. Because sexual arousal, tumesence, detumesence, is more of a state that is (fuzzily) entered and exited, there’s maybe a possibility of being a bit more deliberate and planful.
+
+(There will of course always be creative interplay/synergy between volitional [and/or effortless/spontaneous] skeletal muscle and autogenic skeletal and smooth muscle responses, and everything else. Engagement with practices/protocols can sort of unlayer and refactor so that it’s the “right,” unlayered, spontaneous, dynamic, sensitive, responsive amount [which of course also whatever it happens to be at any particular time].)
+
+So, for any sexual phenotype, male, female, etc., this can look like slow, patient, intermittent light touch, and sort of letting that reverberate. If you’re experienced with main practice p2, you may sort of quickly get sense of how to approach this. You might, say, observe how any of your diaphragm, chest, core, perineum, glutes, etc., involuntarily contract upon touch, and how, little by little, that can be disentangled, refactored, perhaps reduced or perhaps just changed in good ways. And this will alter one’s experience of intensity and pleasure.
+
+(Of course, “practice” should “eat itself” over time until it’s no longer needed, until there’s “just sex,” or anything.)
+
+Just as with one’s breathing, and of course anything and everything, mind and body, because of occlusive/compensatory layering, some things won’t change until lots of other things change, many of those things maybe seemingly “far away from sexuality,” or not.
+
+As with meditation proper, it can be good to explore different postures—sitting, kneeling, standing, laying down, because the muscle engagement profile will be so different. You can of course explore things with and without sexual partners. Another thing to vary is exploring with and without orgasm or ejaculation. I think it’s generally fine to never withold orgasm, if abstaining doesn’t feel right.
+
+(This whole section mostly refers equally to men and women. With respect to semen retention practices that involve strong muscle contractions, I’m personally not a big fan, in part because they can cause damage or at least irritate internal, tissue and sphincters, even when timed correctly, and in part because they can potential facilitate layering that can work against global detangling. If you’re interested in such practices, it might be good to wait to explore until you have a good “p2 sense” through lots of detangling and delayering, but also experimenting sooner rather than later can be good in general.)
+
+Finally, working with sexual arousal is especially an opportunity to explore, expand, disentangle, and “find your way back” to gender and sexuality that could be occluded, layered, or tangled, e.g., bottom, top, submissive, dominant, masculine, feminine embodiment/energy/stances/etc. For some people this will incidental, and for some people this will be critical.
+
+For all of this, allow for breathing, movement, vocalization, and so on.
 
 
 
