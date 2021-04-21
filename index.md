@@ -262,6 +262,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a href="#154">dark phenomenology and presence/absence conceptions</a>
 	* <a href="#155">brief thoughts on substances like psychedelics</a>
 	* <a href="#156">getting triggered, usefulness and risks</a>
+	* <a href="#156a">some narrowly conceived phenomenological investigations that may or may not be useful</a>
+	* <a href="#156b">inappropriate reification (stub)</a>
 	* <a href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
 	* <a href="#158">a note on "making progress," "regression," and redo-to-undo</a>
 	* <a href="#158a">sex, gender, etc. stuff</a>
@@ -5815,6 +5817,196 @@ informal working definitions:
 trigger ~= something that can or does cause an abrupt (negative) state change, or change to local, behavioral propensities, that doesn’t depend on the rest of the environmental context
 
 trauma ~= bodymind state/feeling/content/material that’s needs extra steps to be safe to re-experience, that in its dormant/latent state is a bottleneck/dependency on other/further valued changes
+
+
+# <span id="156a"></span> some narrowly conceived phenomenological investigations that may or may not be useful:
+
+[This material is taken from a deprecated document and isn't strictly neccessary material; the ontology isn't quite right and isn't commensurate with the ontology in the rest of this document. But there's material here that could be woven into the rest of the document, perhaps in a later version, that would possibly enhance the document, for some people. So, it's being included, here for completeness and initial convenience. Overall, what's here is not a complete method, in part because it's not a method that can "eat itself," and in part because there isn't a global wayfinding aspect, and for other reasons, too. The below has been edited from the original version. Beware inappropriate reification, anchoring, magical button pushing, etc., etc.]
+
+**(0) Some Phenomenological Methods**
+
+This section details phenomenological methods. We’ll look at techniques for what to do you when you want to investigate experiences that are challenging to investigate, for various reasons:
+
+We’ll talk about what to do when experiences go by too fast to examine.
+
+We’ll talk about what to do when experiences are too complicated, messy, or vague to examine.
+
+We’ll talk about a common mistake that’s made when investigating phenomenology.
+
+And, we’ll talk about what to do when you don’t know what you’re looking for.
+
+
+**(1) Afterimages, Replay, Interference**
+
+The first thing to point out is the process of observation more generally. When you look, see, or notice something, there’s (arguably, sometimes) a very predictable pattern that then occurs.
+
+First, there is your contact with the actual sensory experience. This is very, very brief. Almost immediately, your mind moves to phase two.
+
+In this phase, you are no longer paying attention to the actual sensory experience, but you are instead paying attention to a sort of “afterimage” of the experience. This is what your mind actually collects and takes away from the outside world, and this is what you actually think about, make sense of, and reason about.
+
+What is this afterimage like? It’s (maybe) composed of felt meaning , quasi-imagery, and often a felt model.
+
+Regarding the parts of the afterimage, the felt meaning might represent what you experienced. If there’s a felt model, one of the "icons" in the model will be the "what" that you experienced; and maybe the model will be a model of the process that you think generated the experience (for example, what made the noise).
+
+A good way to get practice at noticing afterimages is through paying attention to bodily sensations, especially proprioception. Where is your foot in space? How do you know? Can you separate the actual proprioceptive sensations from your phenomenological afterimage of the sensations? On and off, you could play with this for a few minutes, until you get bored.
+
+Another way to get a sense of afterimages is to generate a short sound or some other sensory experience and then ask how you know it happened. For example, snap your fingers. Ok. How do you know you just snapped your fingers? You remember you did, right?
+
+Unless you wait too long, part of the experience of that memory is the afterimage of you snapping your fingers. And, there’s often a special property of afterimages that you can play with: You can access the afterimage to more fully replay the experience that led to the afterimage. A replay is not available for some experiences and you might lose the replay for the experience if you wait too long before accessing it. Finally, even if a replay isn’t available, the afterimage may still contain some detail that you can inspect.
+
+So, being aware of and using afterimages is one way that you can inspect subtle phenomena, especially phenomena that goes by very fast.
+When doing so, there are some caveats to be aware of.
+
+First, it’s good to remember that the afterimage is not a perfect replica of the experience. It is a “tag” that the experience happened, that may contain or evoke some of the structure or phenomenology of the original experience. If you’re using afterimages to investigate experience, you have to make some effort to to separate out what the experience of the afterimage is versus what remains of the original experience.
+
+Second, it’s important to note that afterimages will always have some conceptual contamination. Afterimages are part top down and part bottom up. That is, afterimages are partially composed of what you expect to see. That’s why you can be positive you just saw a bug skitter across the flow but when you look closely it was just some very suggestive dust caught in a draft. The afterimage is what your reflexes and emotions actually react to, and the afterimage is not the same thing as what was actually there. The way to partially get around this is to try to not have preconceptions and to try to take lots of careful observations of the phenomena.
+
+Finally, there’s a subtler point, here. It seems to be the case that you may be able to “take” or “get” an afterimage only if you already have some inkling of what you’re looking for. That is, if you already have some hint of an idea or concept of what’s there. That doesn’t mean you have to have a name for the experience. And, it doesn’t mean that you’ve had to explicitly reflect, before, on some prior occasion, on having those sorts of experiences. I just means that somewhere in your mind there has to be some sort of... familiarity for the experience before you go looking or paying attention in general.
+
+So, how do you get that initial experience, if you can only have the experience if you’ve had the experience? It seems to “bootstrap” slowly, by simply paying attention in the vicinity of what you’re looking for. You brain eventually, faintly discerns a pattern on the edge of experience, and you gain a creeping sense of familiarity that becomes clearer and clearer, until finally you can put your finger on it, haltingly describe it with great difficulty, and maybe finally name it as a thing or break it down into further parts.
+
+In the next few subsections, we’ll give more tips that can help this process go faster. In any case, you’ll already have the capacity for afterimages for many interesting and valuable things, just by gaining tacit familiarity with them of the course of your life. For some of those things, you might immediately think to yourself, “Oh yeah, I recognize that. Maybe I should give it a name.” For other things you’ll have a faint, barely-there sense of something, and it’ll take effort and concentration to bring it into focus without scaring it away by doing the wrong thing with your mind. (We’ll talk about “scaring things away by doing the wrong thing with your mind” in a subsequent section.)
+
+Overall, when an experience is somewhat fast, contained, and almost gone before you look, afterimages are a great tool to investigate and get a clearer sense of it.
+
+**(2) Where / Spaces**
+
+[Note! Be careful about inappropriately reifying space! Let space go completely! Asking "where," narrowly conceived and mechanically executed, is a trap!]
+
+Another challenge to investigating experiences is that they can seem too fuzzy, vague, diffuse, or too complicated. Like, there’s too much going on and you don’t know where to start. In contrast to afterimages, where you might have been able to grab something relatively discrete and contained, sometimes there’s just too much going on and there’s nothing (yet) for your attention to obviously focus on. You just can’t get a sense of the whole thing that feels precise and clear.
+What you can do in this case is ask ​where you’re experiencing things. Sometimes this, all by itself will be tremendously clarifying.
+
+It seems to be the case that experience is organized into overlapping “qualia spaces.” And, I really do mean spaces, like three-dimensional spaces, though some of these spaces don’t seem to intersect with normal three-dimensional space and some of these spaces seem to be “differently dimensioned” or more than three dimensions, if you can believe it. But maybe you’ll have that experience for yourself.
+
+Some of these spaces seem to partially “interpenetrate” or “take up the same space” but each space feels slightly different and has different things in them. An example is that felt meaning and emotions sometimes seem tightly interwoven, where one spatially picks up right where the other leaves off. Other times, these two experiences don’t exist quite in the same place, like they’re coexisting but not interacting. In contrast to felt meaning and emotion, emotion is more likely to be felt “somewhere in the body” though it might not have quite the character of a bodily sensation. Emotion exists a bit more in a three-dimensional space that overlays on the more obvious proprioceptive body space, the feeling of the body that seems to live in normal three-dimensional space.
+Felt meaning and felt modeling don’t seem to exist in quite the same space, but those spaces can overlap.
+
+Felt meaning, for me, at times, seems to live in an infinite dimensional, infinitely textured space that almost doesn’t interact with “normal reality” at all. (I maintain metaphysical neutrality in this document! I believe in brains and physics.)
+
+Some things seem to be more “up and back” in my head, and, by “up and back” I mean some sort of “extra dimension,” different than our usual three dimensions.
+See if you can tell if inner imagery exists in a different space than inner talk. Where do you experience each of these? That’s the question to keep asking. Where am I experiencing that? ​Where is that happening?
+
+The point of asking ​where is that it separates out experiences that were seemingly diffusely mixed together. It clarifies them, as sort of a divide-and-conquer approach, as meditation teacher Shinzen Young might say. (I got the “where” idea from him.)
+
+You’ll find that some experiences seem to wax and wane and travel according to their own agenda. Other experiences seem to be time-locked together. That is, the waxing and waning of two or more experiences arise and fall together, somewhat synchronously. Another thing you might find is that certain experiences closely follow each other in time, one after another, or the sequentially kick off with slight delays from each other.
+
+All the above might initially seem hopelessly tangled together, but, by asking “where” it becomes possible to separate all these experiences apart and then understand and see how they fit back together in a dynamic unfolding. And, when separated out, it’s much easier to inspect each aspect of that separated experience, to better understand its composition and function.
+
+When experience is vague or complex, ask “where...”
+
+**(3) Describing**
+
+[Note! Be careful about language, conception of "raw sensations" as such (or even "pixels" or "voxels" of sensation, and the relationship between the two! They're all great, but beware of inappropriately reifying them! Let it all go! "Describing raw sensations in space and time at the pixel/voxel grain," narrowly conceived and mechanically executed, is a trap!]
+
+After you ask where, sometimes it can be helpful to incline towards "exactly verbally describing" (silently in your head) what you're experiencing, including "spatial relationships," and trying to "[locally] leave absolutely nothing out," whether what's under observation is quasi-static or dynamic, whether it's amorphous or something else.
+
+
+**(4)** Secondary Attention
+
+[Note! Be careful about inappropriately reifying "secondary attention." Exploring "secondary attention," narrowly conceived and mechanically executed, is a trap!]
+
+[Note! Beware of inappropriately reifying attention and movements of attention! "Attention" (compare with perhaps experience, awareness, and lots of other things] is a trap! Maybe see section <a href="#152">attention is not fundamental</a>]
+
+Here is an exercise you can explore that is, in some way, an analogy and in other ways points exactly to another phenomenological technique.
+
+Ideally, look at something at least twenty feet away, though it doesn’t have to be. Looking out a window is best. This something should be small enough or far away enough that you can see the whole thing clearly, that you don’t have to move your eyes around to take it all in.
+
+Now, with your foreground attention on that visual object, become aware of your entire field of peripheral vision. Notice how your eyes want to be captured by things in the periphery. Do your best to keep your eyes on the original object, and do your best to keep paying attention to it.
+
+Now, while you’re gently, firmly paying attention to the original object, let’s go back to your entire peripheral field of vision. Notice that, even if your peripheral vision is sort of flat and blurry, because your main focus of vision is gently, firmly stabilized, you can still make out peripheral objects. If you’re looking outside, notice you can even “watch” or “track” walkers, cars, bikers, or birds go by in your peripheral vision.
+
+Call your main visual object the object of foreground attention, or primary attention. Call your peripheral vision peripheral awareness or just awareness. Call your ability to track objects in awareness while foreground attention is occupied ​secondary attention. (The terminology of “attention” versus “awareness” is from the meditation teacher Culadasa. The concept of “secondary attention” is my own.)
+
+With foreground attention occupied by one visual object, you can still track other visual objects with secondary attention.
+
+Now, I will claim that you can do the same thing with any combination of visual or non-visual experiences, or “inner” objects.
+
+For example, you can pay (primary) attention to a neutral object in your visual field and then explore your emotions with secondary attention. You can pay attention to a bodily sensation while exploring inner imagery with secondary attention. You can gently rest primary attention on felt meaning and or something else.
+
+I will make the provisional claim that some experiences are only accessible via secondary attention and that secondary attention is a powerful phenomenological tool.
+
+Now, some caveats. First, secondary attention is and is not an analogy.
+
+Sometimes, secondary attention to “inner” objects and experiences feels exactly like the peripheral vision exercise. Other times, secondary attention feels more like a “flick,” a “twitch,” a nudge, more like a sidelong glance or a special gesture in “not-quite-three-dimensional space.” Please don’t be misled by the analogy of secondary attention. Explore what works for you, and when, and why.
+
+Second, some experiences seem to be on the border between being accessible by primary or secondary attention. For example, for me, experiencing felt meaning doesn’t seem to be quite primary or secondary attention for me.
+
+Third, the analogy to peripheral vision would imply that “secondary attention” for inner objects is a space where you can just look around and pick out objects or experience for examination. Sometimes, especially after a bit of time spent exploring, it really does feel this way, like you can just look around and examine stuff at your leisure, like you can just “rummage around.” Other times, the space of secondary attention seems “more than three dimensional,” like you’re a two-dimensional flatlander on a plane that exists in three dimensions, and someone says look up and you have no idea how to orient in that direction. Sometimes secondary attention is like that; you don’t know how to look in a particular direction. (Patience can reveal the correct direction, sometimes. This will be discussed in a subsequent section.)
+
+With the above caveats in mind, secondary attention can be a very useful idea to keep in mind. Whether or not there are some things you can only see with secondary attention, there’s another point to keep in mind:
+
+Foreground attention is “loud” and “disruptive.” That is, moving foreground attention around sort of “stirs the waters” or “drowns out” subtle activity. Or subtle activity changes into something else the moment you look directly at it. There are definitely times when keeping foreground attention very still or keeping its movements very delicate and slight can be very, very useful. And this is where peripheral awareness and secondary attention can really come in handy.
+Keep in mind that if you’re looking hard for a particular experience, the best way to find it might be by keeping foreground attention mostly very still and stable. This takes gentle practice, but being able to notice and gently influence the movement of attention is very worth it. This is a very important tip for being able to explore your mind.
+
+[Note: One meditation teacher makes a very similar distinction to my primary/foreground and secondary/background attention. They call them attention and awareness, respectively. They have a great suggestion, and I'm adapting it and riffing on it a bit, that attention and awareness can kind of be "overlaid," so it's not just like concentric circles: Sometimes you'll want to "look through" one or the other, to see the other one.]
+
+**(5) Snapshots**
+
+[Note! Beware of inappropriately reifying attention, movements of attention, or "mental actions"! It's a trap!]
+
+In a previous section I discussed afterimages as well as their limitation that you needed a glimmer of familiarity with an experience in order to be able to use them as a tool to investigate that experience.
+
+In this subsection, I will discuss a particular tool which can help to get around this limitation. It partially makes use of the concepts of primary and secondary attention.
+
+What you do in this technique is take a “snapshot” of a large portion of your awareness, in a relatively general and non-specific way. When in doubt, you can just “take a snapshot of everything,” and your “field of view” will sort of take care of itself. This is a little bit like getting a very large afterimage. And then you can inspect it.
+
+The way to do this is, at the moment of taking the snapshot, you keep your attention very still and incline towards gently stabilizing all of peripheral awareness, too. And in the same moment, you pay attention to exactly everything that’s there, no more, no less, without moving your awareness at all. There’s very much a sense of “catching yourself in the act.”
+
+This is hard at first, especially getting exactly the moment you want, and especially doing it without accidentally first moving your attention and messing up the landscape. It takes practice, and it can help to get good at exploring afterimages and using secondary attention, first.
+
+If you incline your mind towards the experience you want, that experience will typically be more likely to happen repeatedly, even if you don’t quite know what you’re looking or how or where to look for it, and you’ll get more opportunities for snapshots.
+
+There’s a bit of a sense of pre-deciding to take the snapshot or “instantaneously deciding,” or “habitually, spontaneously” taking snapshots, at least during the time you’re exploring. That’s because any “deliberation” or “deciding” can obscure the very experience that you were trying to take the snapshot of. So you sort of just have to set yourself up and go for it, over and over again. And then you inspect the interesting ones.
+
+This technique takes practice, but it’s very, very powerful. And it can come to feel very spontaneous and natural.
+
+**(6) Read-Off versus Inference**
+
+[Note: Beware possibly "artificial distinctions" between read-off and inference! Beware privileging one or the other! Beware mechanically executing either!]
+
+[Note: One might make the analogy that "read-off" is "appearing," and "inference" is "seeming" or "knowing." Or, "seeming" is sort of a blend of both "appearing" and "knowing," or...]
+
+In the previous subsections, we’ve discussed several techniques to aid in phenomenological exploration. Here, it’s worth emphasizing a distinction mentioned before, that between read-off and inference.
+
+It’s worth keeping in mind whether you’re thinking about something versus looking at something just as it is. When you’re using phenomenological techniques, part of the time you’re going to be doing the technique and part of the time, maybe even most of the time, you’re going to be thinking hard and trying to figure out what’s going on and possibly how to describe it. And those two things are going to be mixed together in complicated ways, as you peek at something for a moment and then think about it, then maybe have a realization, and then peek again a few times between thoughts.
+
+The mind is very, very prone to mistaking thoughts about a thing for the thing itself. (That’s not to say that thoughts about a thing aren’t very interesting in themselves, and you can directly investigate those as well!) And, the mind is very prone to get into very long chains of thinking.
+
+This is fine! This is not meditation where you sometimes want to suppress parts of your experience. Better, here, to err on the side of letting experience do what it wants and then direction attention and making distinctions within that ongoing experience.
+
+But, it’s worth checking that you’re spending enough time actually looking at what you’re investigating, and, also, that when you’re looking you’re actually looking.
+
+Actually looking is read-off. Everything else is inference. Both are important, but don’t mistake the latter for the former. This requires ongoing vigilance, though it eventually becomes somewhat habitual.
+
+If you get the answer through thinking about it, that’s inference. If you get the answer through, there it is right there, and I’m just reporting it, that’s read-off. Both are useful; know which one you want in any particular moment.
+
+**(7) Looking versus Seeing What's There**
+
+[Note! Beware of inappropriately reifying attention and movements of attention! "Attention" (compare with perhaps experience, awareness, and lots of other things] is a trap! Maybe see section <a href="#152">attention is not fundamental</a>]
+
+[Note! Beware of inappropriately reifying attention, movements of attention, "brightening," "dimming," or "mental actions"! It's a trap!]
+
+We've talked about primary versus secondary attention, and we've also talked about read-off versus inference. It's worth making one more distinction. All of these distinctions are pointing at a very particular way of exploring within yourself, and it's being emphasized because it can be very counterintuitive.
+
+It can be dangerous to write so many words and to (try) to be so specific about what you might find when you look inside yourself and also how you might do that looking. That is, it's very easy to fall into the trap of looking versus seeing what's there. Daniel Ingram makes this distinction, perhaps in different words, in his book, Mastering the Core Teachings of the Buddha.
+
+The idea is that the act of looking, the act of moving your attention around too much, will obscure the very things you're trying to see. And if you have expectations about what you're going to see, that will bias your attention to move, to try and catch in the act the fruit of those expectations. But, unless you have some familiarity with the phenomenon already, all you have to go on are words. And, words can be very misleading when don't already have at least some slight experience with the territory (which you might).
+
+One of the ways to get around this is to try to keep investigating, as closely as you can, what's actually right there in front you, what you're actually experiencing right now. I don't mean in daily life, like, when you're eating an orange, though you can do that. I mean while you're exploring the distinctions and techniques in these recent subsections.
+
+For example, find a neutral object, as in the secondary attention section, and, then, don't look for things, per se, but follow the instructions and see what happens. It's ok to take plenty of time amidst all that, to think about whether you're following the instructions right and whether you should deviate and experiment, and stuff like that. But, follow the instructions, and see what happens. Let experiences arise as opposed to going looking for them. Look at what you're experiencing right now, as opposed to going looking for more things to experience.
+
+Eventually you might notice how everything outside the primary focus of attention wants to "dim." You might start to notice when the primary focus of attention is no longer the primary focus attention, even though your eyes haven't moved and the primary focus of attention is still right in front of your eyes.
+You might start to notice gentle tugs at your attention that you don't have to fully follow through with. You might start to notice what happens between moments of attention.
+
+You might notice you non-specifically brighten “everything” in order to see these things happen. You could brighten or focus on specific things, even without moving your primary attention and obscuring phenomena. And you can non-specifically brighten, too, so as not to obscure anything with attentional movement, and, then inspect the afterimage, to get a better look.
+
+
+# <span id="156b"></span> inappropriate reification (stub):
+
+(This is a bit of a joke stub, but also it's serious and not meant to be flippant.)
+
+"Be careful not to inappropriately reify inappropriate reification."
 
 
 # <span id="157"></span> a dialogue between N and Mark, on reasoning and pre-reasoning:
