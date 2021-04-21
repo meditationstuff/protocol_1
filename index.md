@@ -5838,13 +5838,15 @@ And, we’ll talk about what to do when you don’t know what you’re looking f
 
 **(1) Afterimages, Replay, Interference**
 
+[Note: Beware of inappropriate reification (or localization) of "felt meaning," "felt models," etc.]
+
 The first thing to point out is the process of observation more generally. When you look, see, or notice something, there’s (arguably, sometimes) a very predictable pattern that then occurs.
 
 First, there is your contact with the actual sensory experience. This is very, very brief. Almost immediately, your mind moves to phase two.
 
 In this phase, you are no longer paying attention to the actual sensory experience, but you are instead paying attention to a sort of “afterimage” of the experience. This is what your mind actually collects and takes away from the outside world, and this is what you actually think about, make sense of, and reason about.
 
-What is this afterimage like? It’s (maybe) composed of felt meaning , quasi-imagery, and often a felt model.
+What is this afterimage like? It’s (maybe) composed of felt meaning, quasi-imagery, and often a felt model.
 
 Regarding the parts of the afterimage, the felt meaning might represent what you experienced. If there’s a felt model, one of the "icons" in the model will be the "what" that you experienced; and maybe the model will be a model of the process that you think generated the experience (for example, what made the noise).
 
