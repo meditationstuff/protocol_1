@@ -119,7 +119,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 * <a href="#10">alternative versions</a>
 * <a href="#11">full table of contents</a>
 * <a href="#12">preliminary and introductory things</a>
-	* <a href="#14">document-level meta-warning</a>
+	* <a id="14" href="#14">document-level meta-warning</a>
 	* <a href="#15">epistemic status disclaimer</a>
 	* <a href="#16">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
 	* <a href="#17">but what actually makes it risky?; how do risks obtain, when they do?</a>
@@ -308,8 +308,9 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 # <span id="12"></span> preliminary and introductory things:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
+<a href="#14">Back to Table of Contents</a>
 
 # <span id="14"></span> ***Document-level meta-warning:***
 
@@ -653,7 +654,7 @@ I'll finally add that this document aspires to be more and more radically comple
 
 # <span id="20"></span> opinionated, telic, soteriological things:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="21"></span> goal: (draft)
@@ -1444,11 +1445,11 @@ Lots of solo time is needed, and sometimes solo time is the only thing available
 
 # <span id="30"></span> culture and community:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 # <span id="31"></span> an orienting model; layers and tangles; from "parts" to people to groups:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 # <span id="32"></span> part 1: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture:
 
@@ -1558,7 +1559,7 @@ And then is it any wonder that hapless creeps, dark wizards, cult leaders… and
 
 # <span id="35"></span> evil:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="36"></span> part 4: introduction:
@@ -2146,7 +2147,7 @@ Me : Well, that's a good sign. The numero uno of daft moves is to open by defaul
 
 # <span id="57"></span> practice preliminaries:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="58"></span> timeline, mindset, trajectory, harm:
@@ -2437,7 +2438,7 @@ Also, some people are turned off by the "crank"/"cranking"/"turning the crank" m
 
 # <span id="71"></span> nuts and bolts considerations:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="72"></span> preliminaries and vacations; conceptualization as such:
@@ -3503,12 +3504,12 @@ Alternative note: A future draft of this should maybe include percentages for "l
 
 # <span id="88"></span> top-level practices/categories:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="89"></span> meta practice [solo and otherwise]:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="90"></span> meta protocol:
@@ -3612,7 +3613,7 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 
 # <span id="94"></span> solo practice: (“main protocol”)
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="95"></span> preliminary/auxiliary practices:
@@ -3680,7 +3681,7 @@ https://twitter.com/meditationstuff/status/1360397644498165763
 
 # <span id="96"></span> main practice(s):
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="97"></span> introduction:
@@ -3750,7 +3751,7 @@ The current renderings of the main practices are below.
 
 # <span id="98"></span> practices:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="99"></span> p0:
@@ -4347,6 +4348,8 @@ Notes:
 * doesn’t make sense/doesn’t need to make sense (at least right now)
 * ?"testosterone system"
 * ?"estrogen system"
+* broken
+* “eternal” story logic / “eternal” story emotion / “eternal” story motivation
 
 
 
@@ -4692,7 +4695,7 @@ first person concrete experiential qualities in —> first person concrete exper
 
 # <span id="110"></span> theory:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="111"></span> incomplete, alternative renderings:
@@ -4813,7 +4816,7 @@ Q.E.D.
 
 # <span id="112"></span> creativity(/unsticking) protocol [solo and otherwise]:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="113"></span> what to do when nothing's happening/working:
@@ -4867,7 +4870,7 @@ Notes:
 
 # <span id="115"></span> interpersonal practice:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="116"></span> formulation 1 (including Many Protocol): (strategy flavored; mutual epistemics flavored)
@@ -6725,7 +6728,7 @@ One sort of, as best they can, has to take into account the whole global history
 
 # <span id="158a"></span> sex, gender, etc. stuff:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="158b"></span> working with sex and gender (plus "tantra”):
@@ -6760,7 +6763,7 @@ For all of this, allow for breathing, movement, vocalization, and so on.
 
 # <span id="159"></span> stuff stuff 1:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="160"></span> don’t be here now (to start):
@@ -6955,7 +6958,7 @@ Notes:
 
 # <span id="164"></span> stuff stuff 2:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="165"></span>  “psychic” and “supernatural” stuff: what/how/how-not: [draft]
@@ -7369,7 +7372,7 @@ Did I vibe well?
 
 # <span id="170"></span> civilizational stuff:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="171"></span> buddhas, anti-buddhas, civilization, and the importance of method [draft]:
@@ -8027,12 +8030,12 @@ One step at a time, one mind moment at a time.
 
 # <span id="174"></span> teaching and learning and creating and relating (meditation and anything):
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="175"></span> teaching:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="176"></span> no one gets pixel-perfect possibilities:
@@ -8170,7 +8173,7 @@ Unintegrated scratch pieces:
 
 # <span id="180"></span> embodied learning:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="181"></span> technical debt, meditation, and minds:
@@ -8396,7 +8399,7 @@ And this is part of why there can be claims of effortless complexity, while at t
 
 # <span id="185"></span> epistemics:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="186"></span> meditation indirectly discloses domain knowledge:
@@ -8700,7 +8703,7 @@ Further reading:
 
 # <span id="189"></span> relating:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="190"></span> in-relationship foreclosing legacy of past interaction: [stub]
@@ -8711,7 +8714,7 @@ Past interactions in relationship preclude and foreclose types of interactions a
 
 # <span id="191"></span> creating:
 
-[This (super)section intentionally left blank. Scroll down for the contenful subsections!]
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 
 # <span id="192"></span> randomness/arbitrariness, unpunished, as necessary data: [not yet written]
