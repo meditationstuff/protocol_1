@@ -1,21 +1,17 @@
-This file has only the *names* of the preliminary/auxiliary practices. The file  
+# <span id="194"></span> appendix 1: preliminary/auxiliary practices (names only)
+
+[<a href="#194">Go to appendix 2: preliminary/auxiliary practices (full)</a>]
+
+[<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+This appendix has only the *names* of the preliminary/auxiliary practices. For the full contents of the preliminary/auxiliary practices, see this appendix:
   
-auxiliary.txt  
+<a id="195h" href="#195">appendix 2: preliminary/auxiliary practices (full)</a>
   
-contains the full contents of the preliminary/auxiliary practices. The section  
-  
-[...]  
-practice  
-	[...]  
-	solo practice  
-		preliminary/auxiliary practices  
-		[...]  
-	[...]  
-[...]  
-  
-contains information on what the preliminary/auxiliary practices are and how to use them.  
-  
-  
+For information on what the preliminary/auxiliary practices are and how to use them, see this section:
+
+<a id="95h" href="#95">preliminary/auxiliary practices</a>
+
   
 do less  
 sense now  
@@ -35,9 +31,9 @@ explore what you (seem to) expect
 explore what you (seem to) remember  
 put things into words, slowly, and maybe revise  
 say or think truth  
-explore *how* you’re thinking  
-explore *how* you’re believing  
-explore *how* you’re expecting  
+explore \*how\* you’re thinking  
+explore \*how\* you’re believing  
+explore \*how\* you’re expecting  
 attend to things and sensations  
 imagine  
 move grossly the “attention/thinking” muscles  
@@ -121,7 +117,7 @@ hang out with “chakras” and extremities
 attend to nonsymbolic cognition  
 attend in, on, or outside the body  
 just sit or stand, deliberately, reflectively, actively, with perfect posture  
-facilitate drive, motivation, grit; psych yourself up to *do*  
+facilitate drive, motivation, grit; psych yourself up to \*do\*  
 plan with your whole body, not just your head  
 feel your plans/intentions/goals change (or not) in your body  
 change an intention, plan, or goal  
@@ -290,10 +286,10 @@ exertion (ae)
 don’t despair (j)  
 dwell in unknowing/uncertainty/confusion (j)  
 play a character (h)  
-stream-of-consciousness writing (h*)  
-explore gratitude (h*)  
-explore courage (h*)  
-mindful pooping (h*)  
+stream-of-consciousness writing (h\*)  
+explore gratitude (h\*)  
+explore courage (h\*)  
+mindful pooping (h\*)  
 do something uncomfortable or difficult (h)  
 notice your voice (h)  
 consider death (h)  
@@ -328,8 +324,8 @@ just [actively] sit, bravely and skillfully
 let whatever happens happen  
 let you attention dance  
 be shameless(h)  
-time off (j*)  
-respond with “maybe” (j*)  
+time off (j\*)  
+respond with “maybe” (j\*)  
 notice the ways in which you are safe  
 allow yourself to be doubtful  
 endure  
@@ -360,18 +356,18 @@ write a song/poem/rock opera (h)
 study the cringe as if you were a scientist (h)  
 notice what happens when you notice (h)  
 cultivate/dwell in solitude (h)  
-take solace in the journey (j*)  
-connect with proximal ideal future concretes (aj*)  
+take solace in the journey (j\*)  
+connect with proximal ideal future concretes (aj\*)  
 improvise, or see/frame your life as improv (j)  
 ask for what you want/need (j)  
 make small, little bets (j)  
-shake, shiver, quake (aj*)  
+shake, shiver, quake (aj\*)  
 release all technique  
 release all conceptions about how the mind works or should work  
 mind doing and state release  
 no mind  
 no self  
-flat mind (j*)  
+flat mind (j\*)  
 no containment  
 no boundaries  
 no thought  
@@ -403,11 +399,11 @@ total responsibility
 strategic deferral  
 don’t overthink things (j)  
 unsurprising-surprising dissolve  
-comfort yourself (h*)  
+comfort yourself (h\*)  
 separate (don’t) want/might (to) be true (h)  
 sort out good & bad (h)  
 get comfortable (j)  
-spotting (aj*)  
+spotting (aj\*)  
 basis  
 privilege effortlessness, costlessness, and intuition  
 ask who/with/what/good/bad (h)  
@@ -434,7 +430,7 @@ keep going (j)
 where and when  
 concreteness/abstractness  
 be impulsive (j)  
-from fear or love (j*)  
+from fear or love (j\*)  
 ignoring and listening  
 how do you know  
 commit (for the purpose of potentially dissolving)  
@@ -584,8 +580,8 @@ solutioning dependency checking
 contingency  
 otherwiseness  
 need/bad to (not) believe  
-postural pull (m*)  
-gestural expansiveness (m*)  
+postural pull (m\*)  
+gestural expansiveness (m\*)  
 impartial part helping  
 assume even worse/worst  
 be a baby, be prenatal  
@@ -650,7 +646,7 @@ go see a therapist (jd)
 cross train (d)  
 practice/train (d)  
 unpractice (d)  
-be as irritated as you are, no more or less (*mo)  
+be as irritated as you are, no more or less (\*mo)  
 be no less X than you are (m)  
 be no more X than you are (m)  
 ask for help (solo) (jd)  
@@ -675,7 +671,7 @@ hakuna matata (mo)
 I still can't find a fucking problem anywhere (mo)  
 peers and nonpeers (h)  
 how are you doing? (h)  
-sit with the question "what if I'm wrong?" (*mo)  
+sit with the question "what if I'm wrong?" (\*mo)  
 too much, too little (h)  
 everything is ok (h)  
 mourn (h)  
@@ -771,7 +767,7 @@ body questions
 spacious eye relaxation  
 seek sensory wonder in the "external" world  
 intend versus will  
-need imagining (m*)  
+need imagining (m\*)  
 walk five miles  
 why not already  
 safe to know, to understand, to look, to be able to tell  
@@ -787,7 +783,7 @@ spatially localized attention conceived as such (tcs)
 "external world"  
 "take a snapshot"  
 primary and secondary attention  
-meditation *not* conceptualized as such  
+meditation \*not\* conceptualized as such  
 erroneous conception  
 counterfactual past futures  
 similarities in possible future plans  
@@ -851,7 +847,7 @@ try treating change like digital logic
 note sense of safety (aj)  
 hold self-distrust (mo)  
 manifest rage at self (mr)  
-mine not mine (mo*, jd*)  
+mine not mine (mo\*, jd\*)  
 unblocking via movement (aj)  
 hide under a blanket  
 explain yourself to a small child (mh)  
@@ -872,8 +868,8 @@ paranoia party
 24-7 paranoia party  
 horror/terror/fear party  
 24-7 horror/terror/fear party  
-would it be fun? (*)  
-have you tried enjoying it? (*)  
+would it be fun? (\*)  
+have you tried enjoying it? (\*)  
 perceive with body part X  
 what body part X wants  
 origin  
@@ -884,7 +880,7 @@ light intention
 age  
 after infinite self-care  
 subtle energy  
-really/actually/truly want (*)  
+really/actually/truly want (\*)  
 starting over  
 do them nonverbally, telepathically  
 self-trust  
@@ -894,3 +890,7 @@ follow [the feeling of] X back in time (memories, etc.)
 find your way back  
 squishy body that sloughs  
 no escape  
+
+[<a href="#194">Go to appendix 2: preliminary/auxiliary practices (full)</a>]
+
+[<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

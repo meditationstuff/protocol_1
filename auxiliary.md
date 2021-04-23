@@ -1,20 +1,16 @@
-This file has only the full contents of each the preliminary/auxiliary practices, as opposed to just their names. The file
+# <span id="194"></span> appendix 2: preliminary/auxiliary practices (full)
 
-auxiliary_names_only.txt
+[<a href="#194">Go to appendix 1: preliminary/auxiliary practices (names only)</a>]
 
-contains just the names of the preliminary/auxiliary practices. The section
+[<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-[...]
-practice
-	[...]
-	solo practice
-		preliminary/auxiliary practices
-		[...]
-	[...]
-[...]
+This appendix the full contents of the preliminary/auxiliary practices. For the names of the preliminary/auxiliary practices, only see this appendix:
+  
+[<a href="#194">appendix 1: preliminary/auxiliary practices (names only)</a>]
+  
+For information on what the preliminary/auxiliary practices are and how to use them, see this section:
 
-contains information on what the preliminary/auxiliary practices are and how to use them.
-
+<a id="95h" href="#95">preliminary/auxiliary practices</a>
 
 
 do less:
@@ -96,17 +92,17 @@ say or think truth:
 Verbalize a seemingly relevant seeming truth. [sic] Repeat.
 
 
-explore *how* you’re thinking:
+explore \*how\* you’re thinking:
 
 Thus.
 
 
-explore *how* you’re believing:
+explore \*how\* you’re believing:
 
 Thus.
 
 
-explore *how* you’re expecting:
+explore \*how\* you’re expecting:
 
 Thus.
 
@@ -143,7 +139,7 @@ Release the voluntary component of your breathing as much as possible and let in
 
 interrupt anything:
 
-Interrupt, suppress, distract from, switch from an emotion, a response, a reaction, a feeling, an urge, an impulse, a craving/thirst, a thought, inner verbalizing, reverie, automaticity, movement, an intention, a train of thought, pursuit of a particular goal, a local plan, attention to a sensation…
+Interrupt, suppress, distract from, switch from an emotion, a response, a reaction, a feeling, an urge, an impulse, a craving/thirst, a thought, inner verbalizing, reverie, automaticity, movement, an intention, a train of thought, pursuit of a particular goal, a local plan, attention to a sensation...
 
 
 concentrate perfectly on something:
@@ -298,7 +294,7 @@ Alongside what actually happened, imagine a better version of a memory. How coul
 
 counterfactual avoidance:
 
-Alongside something bad that actually happened, as best you understand it, how could you have avoided that? Or, how would that not have happened, had you only know… what?
+Alongside something bad that actually happened, as best you understand it, how could you have avoided that? Or, how would that not have happened, had you only know... what?
 
 
 imaginary conversation:
@@ -344,7 +340,7 @@ Explore the objects and experiences of current and remembered
 
 inner conflict:
 
-Explore current inner conflict, the goodness, the badness, the endorsement, the disendorsement, the good but feels bad, the bad that feels good, the bad that should feel good, the good that should feel bad, what hurts so good, what hurts so bad, what you want to want, what you want to not want…
+Explore current inner conflict, the goodness, the badness, the endorsement, the disendorsement, the good but feels bad, the bad that feels good, the bad that should feel good, the good that should feel bad, what hurts so good, what hurts so bad, what you want to want, what you want to not want...
 
 
 inner confusion:
@@ -404,7 +400,7 @@ If it’s good to do so, lean-in-to/embrace the churn/uncertainty/not-knowing/in
 
 welcome experience: (jd)
 
-Welcome, allow, accept, receive, let in, make space for, give breathing room to … whatever is happening in experience. 
+Welcome, allow, accept, receive, let in, make space for, give breathing room to ... whatever is happening in experience. 
 
 
 examine avoidance: (jd)
@@ -519,7 +515,7 @@ Thus.
 
 hang out with “chakras” and extremities:
 
-Steadily attend, for a prolonged period of time (but not too long), to your hands, your feet, or (particularly your lower) “chakras”, near the surface or in the depths of your body: root/perineum, (sacrum), genitals, tan tien/dan tien, navel/hara, solar plexus, heart…
+Steadily attend, for a prolonged period of time (but not too long), to your hands, your feet, or (particularly your lower) “chakras”, near the surface or in the depths of your body: root/perineum, (sacrum), genitals, tan tien/dan tien, navel/hara, solar plexus, heart...
 
 
 attend to nonsymbolic cognition:
@@ -537,7 +533,7 @@ just sit or stand, deliberately, reflectively, actively, with perfect posture:
 Thus.
 
 
-facilitate drive, motivation, grit; psych yourself up to *do*:
+facilitate drive, motivation, grit; psych yourself up to \*do\*:
 
 Thus.
 
@@ -599,7 +595,7 @@ Thus.
 
 desire backwards:
 
-Follow the evolution of a desire backwards in time. “Float back” using a gradient of the feeling of that desire, the feeling of those times…
+Follow the evolution of a desire backwards in time. “Float back” using a gradient of the feeling of that desire, the feeling of those times...
 
 
 counterfactual desire:
@@ -809,7 +805,7 @@ Be human; be imperfect; be flawed. (You can/could truly aspire to true perfectio
 
 counterexample:
 
-Find counterexamples to thoughts, beliefs, assertions, written content, things that other people say…
+Find counterexamples to thoughts, beliefs, assertions, written content, things that other people say...
 
 
 perspective-taking:
@@ -963,7 +959,7 @@ Ask, is X “shackles on” or “shackles off? [via Martha Beck’s Finding You
 
 feel all towardsness:
 
-Feel or allow yourself to feel your desire, wanting, longing, preferring, taste, hoping, wishing, needing, craving, thirsting, hungering, lusting…
+Feel or allow yourself to feel your desire, wanting, longing, preferring, taste, hoping, wishing, needing, craving, thirsting, hungering, lusting...
 
 
 your heart sing:
@@ -1081,7 +1077,7 @@ Feel the pain of lacking, the pain of not having.
 
 wanting versus liking:
 
-Explore the relationship between what you want (to do/have/experience) and what you, at least historically, *know* you *like* to experience. Explore the relationship between what you want to avoid and what you know you don’t like to experience.
+Explore the relationship between what you want (to do/have/experience) and what you, at least historically, \*know\* you \*like\* to experience. Explore the relationship between what you want to avoid and what you know you don’t like to experience.
 
 
 resource testing:
@@ -1416,7 +1412,7 @@ comment:
 a character whose traits are very different from the ones you typically embody; can happen either in private or in public; can be an existing character (e.g. gandalf) or an archetype (e.g. motherly woman) or something else entirely; how does your character move, think, speak, carry him-/her-/itself? what is different, when you’re this character, than when you’re not this character?
 
 
-stream-of-consciousness writing: (h*)
+stream-of-consciousness writing: (h\*)
 
 Allow yourself to transcribe your stream-of-consciousness as best you can.
 
@@ -1425,17 +1421,17 @@ comment:
 can be centered on a topic/feeling/thought/idea, or unconstrained; find a pace that works & capture on paper as much as you can that enters your awareness — don’t worry about structure or coherency; then reflect on what you wrote, or not.
 
 
-explore gratitude: (h*)
+explore gratitude: (h\*)
 
 Ask, what are you grateful for, right now? How do you know you’re grateful? What does it feel like? What don’t you feel grateful for? What is it like not to feel grateful? What causes gratitude or non-gratitude? What is different about your relationship with [thing you’re grateful for] compared to your relationship with [thing you’re not grateful for]?
 
 
-explore courage: (h*)
+explore courage: (h\*)
 
 Ask, what would the courageous thing to do be, with respect to X? How does it feel to [imagine] carry[ing] out courageous action? How does courage relate to fear? Without forming intentions to actually execute them, explore scenarios of enacting courage.
 
 
-mindful pooping: (h*)
+mindful pooping: (h\*)
 
 Poop mindfully.
 
@@ -1469,7 +1465,7 @@ catch flinching: (h)
 
 Notice when you flinch, turn away, shut down, distract yourself, change the subject, compulsively open reddit in a new tab, etc. Don’t try to do anything about the flinching, yet. 
 
-comment: (a*)
+comment: (a\*)
 
 See also: affirm nothing, flinch volitionally, explore cowardliness ...Do you really want these things? Or are you in fact too afraid to be a coward, now?
 
@@ -1624,13 +1620,13 @@ be shameless:(h)
 Thus.
 
 
-time off: (j*)
+time off: (j\*)
 
 Give yourself the day off.
 Give yourself the day/night/hour/unit-of-time off.
 
 
-respond with “maybe”: (j*)
+respond with “maybe”: (j\*)
 
 Respond to your questions, certainties, concerns, etc, with “maybe”
 “Oh my god I can’t believe X is happening. This will be terrible.” “Maybe”
@@ -1795,12 +1791,12 @@ cultivate/dwell in solitude: (h)
 Thus.
 
 
-take solace in the journey: (j*)
+take solace in the journey: (j\*)
 
 Taking solace in the exhaustiveness of the journey. Or, like, in non bypassing ways the thing you’re working towards is such a big exhaustive total something thing that a lot of things that stress you out currently are rounding errors ultimately or something or ok or something.
 
 
-connect with proximal ideal future concretes: (aj*)
+connect with proximal ideal future concretes: (aj\*)
 
 Connect with the concrete details + felt sense of your ideal experience 3 years from now.
 
@@ -1823,7 +1819,7 @@ make small, little bets: (j)
 Thus.
 
 
-shake, shiver, quake: (aj*)
+shake, shiver, quake: (aj\*)
 
 If shakes come, let them.
 
@@ -1853,7 +1849,7 @@ no self:
 Provisionally try on the idea that there is no such thing as selves and you don’t have a self and aren’t a self, but everything else is otherwise exactly same as it is right now. what now?
 
 
-flat mind: (j*)
+flat mind: (j\*)
 
 Provisionally try on the idea that the mind is “flat” or “just-in-time” or that the contents of awareness in some sense don’t exist until they’re constructed for that moment (making no metaphysical commitments about anything else).
 
@@ -2018,7 +2014,7 @@ unsurprising-surprising dissolve:
 Explore that so many things you might never ever have to solve because they’ll truly turn out to either not be a problem or that they never were actually a problem.
 
 
-comfort yourself: (h*)
+comfort yourself: (h\*)
 
 Thus, or: offer compassion to yourself] thus, as genuinely as you can [but no more genuinely than that]
 
@@ -2046,7 +2042,7 @@ get comfortable: (j)
 Make yourself comfortable. Prioritize comfort. Take actions one after the other until you feel totally and utterly comfortable, even and perhaps especially if it "doesn't feel worth it". 
 
 
-spotting: (aj*)
+spotting: (aj\*)
 
 Pay attention to how your level of activation changes as you move your eyes to different positions in xyz space.
 
@@ -2194,7 +2190,7 @@ be impulsive: (j)
 Thus.
 
 
-from fear or love: (j*)
+from fear or love: (j\*)
 
 Consider whether you are acting/deciding/doing/etc out of fear or love
 
@@ -2226,7 +2222,7 @@ Remember, it’s ok to find that you’ve “been doing it wrong.” That means 
 
 find your can’ts:
 
-Find your “can’t beliefs”: can’t do X, can’t learn Y, could never Z, could never in a million years do Q… These can be both “inability beliefs,” where you straightforwardly can’t do the thing (or so you belief, or right now but maybe not later) or “won’t beliefs,” like, you could but you won’t because of something else--too risky, too emotionally intense, too emotionally risky, etc. For all of this, it can get more subtle--can’t do X with my mind, can’t learn to program, can’t learn to factor these numbers. So, things from your past, too, say, maybe early in school or before school. It can all the way to “deep sensory processing” type things--“my mind won’t/can’t do that” or “no minds can do that.”
+Find your “can’t beliefs”: can’t do X, can’t learn Y, could never Z, could never in a million years do Q... These can be both “inability beliefs,” where you straightforwardly can’t do the thing (or so you belief, or right now but maybe not later) or “won’t beliefs,” like, you could but you won’t because of something else--too risky, too emotionally intense, too emotionally risky, etc. For all of this, it can get more subtle--can’t do X with my mind, can’t learn to program, can’t learn to factor these numbers. So, things from your past, too, say, maybe early in school or before school. It can all the way to “deep sensory processing” type things--“my mind won’t/can’t do that” or “no minds can do that.”
 
 
 deathbed:
@@ -2355,7 +2351,7 @@ Temporarily provisionally assume/act as though language doesn't exist
 
 open mind:
 
-Explore having an open mind about particular things that come up (beliefs, assertions, certainties…), as they come up,  one-by-one or otherwise: Might it actually be different than that? What might it be instead?
+Explore having an open mind about particular things that come up (beliefs, assertions, certainties...), as they come up,  one-by-one or otherwise: Might it actually be different than that? What might it be instead?
 
 
 already-ness:
@@ -2845,7 +2841,7 @@ Ask, is that a property of the map or a property of the territory?
 
 encodings:
 
-Ask, are you encodings in words or memory or being or…?
+Ask, are you encodings in words or memory or being or...?
 
 
 look for how to non-manage:
@@ -2917,7 +2913,7 @@ To the degree that it’s safe, let yourself be wretched.
 
 late-stage freakout or triggering:
 
-To the degree that it’s safe, have a late-stage freakout and even later ones. Sometimes the worst is saved for last, or second to last, or…
+To the degree that it’s safe, have a late-stage freakout and even later ones. Sometimes the worst is saved for last, or second to last, or...
 
 comment:
 
@@ -2990,15 +2986,15 @@ Ask, might it/X/this be otherwise?
 
 need/bad/motivated to (not) believe:
 
-Ask, would it be bad to not believe this/X? Ask, would it be bad to believe this/X? Ask, do I have to believe this/X? Ask, do I have to not believe this?x? Ask, would it be good to believe this/X? Ask, would it be good to not believe this/X? Ask, would it be bad to not have to believe this/X? Ask…
+Ask, would it be bad to not believe this/X? Ask, would it be bad to believe this/X? Ask, do I have to believe this/X? Ask, do I have to not believe this?x? Ask, would it be good to believe this/X? Ask, would it be good to not believe this/X? Ask, would it be bad to not have to believe this/X? Ask...
 
 
-postural pull: (m*)
+postural pull: (m\*)
 
 Does your body want to move into a particular posture, position, leaning-ness, curled-up-ness? If yes, see if you can help yourself get into that posture. Check periodically to see if there’s a new posture to move into, next.
 
 
-gestural expansiveness: (m*)
+gestural expansiveness: (m\*)
 
 Explore large body movements of the extremities.
 
@@ -3032,7 +3028,7 @@ Ask, might X be ok, instead of Y? What good things would happen if X? What bad t
 
 truths, etc.:
 
-Try resting in how things seem vs how things feel vs how things appear vs what might be true or false vs what you know vs what you believe vs what you understand vs what you think vs what god would say is true vs what’s real vs what feels right vs what things look like vs what’s going on, here vs how you’d describe things vs…
+Try resting in how things seem vs how things feel vs how things appear vs what might be true or false vs what you know vs what you believe vs what you understand vs what you think vs what god would say is true vs what’s real vs what feels right vs what things look like vs what’s going on, here vs how you’d describe things vs...
 
 
 forward vs backward:
@@ -3042,12 +3038,12 @@ Ask, is this/X forward(s) or backward(s)?
 
 desire, etc.:
 
-Ask, what do you long for, hope for, desire, want, care about, value, lust for/after, love—to do, be have, associate with, pursue, acquire, achieve…
+Ask, what do you long for, hope for, desire, want, care about, value, lust for/after, love—to do, be have, associate with, pursue, acquire, achieve...
 
 
 philosophical meta:
 
-Let your be pulled into thinking about metaphysics, philosophy, epistemology, phenomenology, agathology, cosmology, eschatology, mereology, linguistics…
+Let your be pulled into thinking about metaphysics, philosophy, epistemology, phenomenology, agathology, cosmology, eschatology, mereology, linguistics...
 
 comment:
 
@@ -3081,7 +3077,7 @@ Temporarily let yourself [come to] know (or understand) without dictating the wh
 
 counterfactual past additions:
 
-What would it have been good to experience, at any point when you were younger, in the recent or distant past? How might that have gone? What was the experience, maybe sight, sound, touch, taste, smell, feel, meaning…
+What would it have been good to experience, at any point when you were younger, in the recent or distant past? How might that have gone? What was the experience, maybe sight, sound, touch, taste, smell, feel, meaning...
 
 
 memory/imagination triggering:
@@ -3365,7 +3361,7 @@ unpractice: (d)
 do x while distracted, remember how you did it. Sit back and gently attend to yourself as you let yourself do x. Completely immerse yourself in doing x/flow/your whole being becomes the doing of x
 
 
-be as irritated as you are, no more or less: (*mo)
+be as irritated as you are, no more or less: (\*mo)
 
 thus
 
@@ -3499,7 +3495,7 @@ how are you doing?: (h)
 what’s your honest answer, the answer that you want to say, somewhere, but that you might not say to any actual person were they to ask?
 
 
-sit with the question "what if I'm wrong?": (*mo)
+sit with the question "what if I'm wrong?": (\*mo)
 
 thus
 
@@ -4000,7 +3996,7 @@ intend versus will:
 Explore whether which words feel better: "will," "willing," "intend," "intending," "intention", ...
 
 
-need imagining: (m*)
+need imagining: (m\*)
 
 Ask yourself to show you the need in full.
 
@@ -4179,7 +4175,7 @@ give it directly to yourself:
 
 See if you can give X to yourself, directly-ish, to yourself, from you to you, right now.
 
-Or, if something Y is only getting you part of the thing you want, see if you can give *the rest* to yourself, to make up the difference.
+Or, if something Y is only getting you part of the thing you want, see if you can give \*the rest\* to yourself, to make up the difference.
 
 
 what already having would be like:
@@ -4398,7 +4394,7 @@ Let your body solve the parameter/combinatorial explosion; calculate with the bo
 
 comment:
 
-…like water knowing the shape of a container as it’s poured in, or a thermose knowing whether to keep something hot or cold.
+...like water knowing the shape of a container as it’s poured in, or a thermose knowing whether to keep something hot or cold.
 
 
 body and head:
@@ -4433,7 +4429,7 @@ Seek and/or explore and/or work at a finer grain.
 
 try treating change like digital logic:
 
-Consider that some particular change won't occur until something is perfect down to the bits, every single one and zero correct. Consider that some particular change won't occur until *everything* relevant to that change is in place, neither too few things there nor too many things. So, not, overshooting or undershooting, but the right particular, specific, concrete presences and absences, fractally, recursively. So not, "generally more or less," but "this and not that."
+Consider that some particular change won't occur until something is perfect down to the bits, every single one and zero correct. Consider that some particular change won't occur until \*everything\* relevant to that change is in place, neither too few things there nor too many things. So, not, overshooting or undershooting, but the right particular, specific, concrete presences and absences, fractally, recursively. So not, "generally more or less," but "this and not that."
 
 
 note sense of safety: (aj)
@@ -4467,7 +4463,7 @@ manifest rage at self: (mr)
 if it is safe and good to do so, and only to the degree it is safe and good to do so, manifest rage at self. roar. yell obscenities at self. vocalize any relevant parts' felt rage at you.
 
 
-mine not mine: (mo*, jd*)
+mine not mine: (mo\*, jd\*)
 
 What's mine to do? What's not mine to do? What of the undone is mine to do next?
 
@@ -4511,7 +4507,7 @@ vocalize a (seeming) truth: (jd)
 Thus.
 
 
-articulate an opinion: (jd*)
+articulate an opinion: (jd\*)
 
 Thus, maybe write it down, put it into words.
 
@@ -4581,12 +4577,12 @@ Have a horror/terror/fear party.
 Have a 24-7 horror/terror/fear party.
 
 
-would it be fun?: (*)
+would it be fun?: (\*)
 
 Ask, would it/that/X be fun?
 
 
-have you tried enjoying it?: (*)
+have you tried enjoying it?: (\*)
 
 Ask, have you tried enjoying it?
 
@@ -4641,7 +4637,7 @@ subtle energy:
 Move “[subtle] energy” in and along your body (minimally and conservatively, though perhaps in a bunch of places.
 
 
-really/actually/truly want: (*)
+really/actually/truly want: (\*)
 
 Ask, what do you really/actually/truly want?
 
@@ -4661,9 +4657,9 @@ comment:
 
 You can communicate "telepathically" with other "parts" of yourself. And they can do the same, to you and to each other. https://twitter.com/meditationstuff/status/1360398764301811713
 
-Maybe, gently: Try to temporarily treat other parts of you as "completely drained of *your* volition." Disclaimed (and eventually reclaimed) volitionality. And then you can only make suggestions, requests, ask question, etc., across an "interface" presented by that "part." https://twitter.com/meditationstuff/status/1360399334068674562
+Maybe, gently: Try to temporarily treat other parts of you as "completely drained of \*your\* volition." Disclaimed (and eventually reclaimed) volitionality. And then you can only make suggestions, requests, ask question, etc., across an "interface" presented by that "part." https://twitter.com/meditationstuff/status/1360399334068674562
 
-not just images; *meaning*; feelings, etc. https://twitter.com/meditationstuff/status/1360399647823589376
+not just images; \*meaning\*; feelings, etc. https://twitter.com/meditationstuff/status/1360399647823589376
 
 
 self-trust:
@@ -4704,3 +4700,8 @@ Explore ideas of “no escape,” e.g. maybe “can’t escape the physical univ
 in (personal, custom-built, bespoke) hell:
 
 Let yourself, scenario by scenario, acknowledge the ways you’re already in personal, custom-built, made-to-order, bespoke hell.
+
+
+[<a href="#194">Go to appendix 1: preliminary/auxiliary practices (names only)</a>]
+
+[<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

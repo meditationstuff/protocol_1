@@ -1,0 +1,1088 @@
+# <span id="196"></span> appendix 3: main practice p1 appendix (usa english; "en-us"
+
+[<a href="#196h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+This section is an appendix to main practice p1.
+
+[<a href="#100">Go to Main Practice p1</a>]
+
+v3  
+p1_appendix-en-US.txt  
+https://stackoverflow.com/questions/3191664/list-of-all-locales-and-their-short-codes  
+
+prior versions:  
+n/a  
+
+===
+
+- concrete sensory description
+	- general
+		- presence
+		- absence
+		- intensity
+		- magnitude
+		- saturated
+		- maximum
+		- barely perceptible
+		- minimally perceptible
+		- nearly maximal
+		- [aspect, feature, facet, (dimension)]
+		- [glimpse, taste, flash, flicker, glimmer, peak]
+	- absence/schema
+		- bland
+		- tasteless
+		- odorless
+		- inaudible
+		- invisible
+		- dark
+		- no sight (vs darkness)
+		- no sound
+		- no odor
+		- no taste
+		- no movement
+		- no acceleration
+		- no orientation
+		- insensate
+		- absence of the sensation...
+		- absence of the consciousness for it...
+		- awareness
+		- empty awareness
+		- naked awareness
+		- space
+		- time
+		- nothingness (vs “darkness”)
+	- valence
+		- fundamentally intrinsically pleasant
+		- fundamentally intrinsically unpleasant
+		- neutral
+		- unvalenced
+		- (cf attractive, aversive, noxious...)
+		- pain
+		- itch
+		- pleasure
+		- thirst
+		- lack
+		- discomfort
+		- craving
+		- anticipation
+		- hunger
+		- confusion
+		- dullness
+	- sight
+		- hue, value, intensity, temperature, and...
+		- red, orange, yellow, green, blue, indigo, violet
+		- speckled, dappled...
+	- taste
+		- bitter, salty, sour, astringent, sweet, pungent (eg chili), and umami
+	- smell
+		- fragrant, floral, perfume-y, fruity, citrusy, woody, resinous, chemical, sweet, minty, pepperminty, toasted, nutty, pungent, decayed, musky, spicy, yeasty, bloody, sulferious, herbal
+	- touch
+		- movement/vibration (“instantaneous” vs between moment frames...)
+		- wetness/liquidity/solidity/cohesiveness
+		- rough/smooth/slippery
+		- heat/cool
+		- pressure/hard/soft
+	- sound
+		- abrupt, acoustic, airy, annoying, big, brassy, cheerful, clamorous, clean, clear, close, cold, complex, crunchy, dense, distant, dry, dull, echoey, full, gentle, gritty, hard, harsh, heavy, high, hot, light, long, low, metallic, mild, muffled, muted, nasal, open, pure, quick, reedy, resonant, rich, ringing, rough, screaming, sharp, short, small, solid, sustained, synthetic, thick, thin, warm, wet, wooden
+	- movement/orientation/acceleration
+		- acceleration, orientation, rotation, translation
+- less sensory
+	- copulae (incomplete)
+		- to be "I am green."
+		- (separator)
+		- to act "Fred is acting strangely."
+		- to play "The possum played dead."
+		- (separator)
+		- to appear "Fred appears happy."
+		- to seem "Ron seems strange."
+		- (separator)
+		- to look "Fred looks big."
+		- to feel "Fred felt nauseated."
+		- to smell "Fred smelled spicy"
+		- to sound "Fred sounded strange."
+		- to taste "The food tastes new."
+		- (separator)
+		- to become "I became green."
+		- to emerge "I emerged smoothly."
+		- to end up "It ended up empty."
+		- to equal "Two plus three equals five."
+		- to get "Tom got quiet."
+		- to keep "Fred kept quiet."
+		- to go "The man went unnoticed."
+		- to remain "Tom remained in the air."
+		- to stay "Tom stayed suspicious."
+		- to turn "Tom turned wary."
+	- epistemic, attitudinal, metaphysical
+		- to imply
+		- to cause
+		- to prove
+		- to enable
+		- to prevent
+		- to prove
+		- to entail
+		- to intuit
+		- to be the case
+		- to be true
+		- to be false
+		- to exist
+		- to critique
+		- to exemplify
+		- to contain
+		- to condition
+		- to demonstrate
+		- to deduce
+		- to point (out/at)
+		- to depend (one-way or two-way)
+		- to claim
+		- to think
+		- to compute
+		- to infer
+		- to conclude
+		- to imagine
+		- to believe
+		- to investigate
+		- to counterexample
+		- to learn
+		- to look, see, feel, touch, hear, taste...
+		- to expect
+		- to predict
+		- to anticipate
+		- to specify
+		- to be unspecified
+		- to be under conditions
+		- to be in state
+		- to be in world
+		- to be something like
+		- to be/is
+		- to have
+		- to know
+		- to understand
+		- to be about
+		- to suppose
+		- to stipulate
+		- to consider
+		- to say
+		- to claim
+		- to suggest
+		- to presuppose
+		- to conceive
+		- to let
+		- to mean
+		- to signify
+		- to refer
+		- to represent
+		- to resemble
+		- to apply
+		- to describe
+		- to co-refer
+		- to be equal
+		- to be equivalent
+		- to interpret
+		- to evaluate
+		- to judge
+		- to ascertain
+		- to =’s
+		- to contain/to be contained by
+		- to play
+		- to invent
+		- to free associate
+	- coordinative
+		- [person, place, thing, goal, action, reason, time, event, interval/duration, instant, plan, intention, good, true, beautiful, bad, false, ugly, before, after, better, worse, desire, hope, experience, awareness, knowledge, understanding, person, mind, agreement, possibility, contingency, concern, consideration]
+		- 
+			- is, exists, is located, ='s, equivalent, intensional coextension, predication/has attribute/property of, is identical to
+			- is of identity
+			- is of predication
+			- is of equivalence
+			- is of (intensional) coextension
+			- is of existence / (actual) being
+			- is of metaphor
+		- [...of, about, because...]
+	- more
+		- untitled
+			- ought, must, should [duty, responsibility, obligation...]
+			- permittted, forbidden
+			- necessarily, must
+			- possibly, could, can, may, might
+			- [will]
+			- [shall]
+		- untitled
+			- good/bad/true/false
+			- sufficiency
+			- contingency
+			- necessity
+		- untitled
+			- mediate
+			- immediate
+			- direct
+			- indirect
+			- instant/instanteity
+			- simultaneous
+			- at
+			- during
+			- while
+			- duration/interval
+			- instant/moment
+			- touching/contact (immediate contact/connection)
+			- contiguous
+			- separation
+			- gap
+			- disconnect
+			- connectedness
+			- continuity
+			- link
+			- relationship
+			- adjacency
+			- proximity
+			- mediacy
+			- containment
+			- embeddedness
+		- untitle
+			- mere
+			- only
+			- just
+		- untitled
+			- not
+		- untitled
+			- somehow
+			- somewhere
+			- somewhen
+			- ...
+		- untitled
+			- nothing
+			- something
+		- if-then
+			- if
+			- then (pure implication)
+			- then (pure causation)
+			- then (pure temporal ordering)
+			- then (unspecified, mixed)
+			- reason
+			- otherwise
+			- would
+			- were
+			- so
+			- therefore
+			- because
+		- untitled
+			- similar
+			- same
+			- repeat
+			- difference
+			- distinction
+			- delta
+			- remainder
+			- whole
+			- part
+			- piece
+			- genus
+			- species
+			- abstract
+			- concrete
+			- inside
+			- outside
+			- boundary
+			- fundamental
+			- initial
+			- terminal
+			- patch/region
+			- area
+			- body, volume, extension
+			- simple
+			- complex/composite
+			- unity
+			- plurality
+			- multiplicity
+			- collection
+			- heap
+			- aggregate
+		- untitled
+			- more
+			- less
+			- greater
+			- lesser
+			- least
+			- most
+			- higher
+			- lower
+			- highest
+			- lowest
+		- untitled
+			- before
+			- after
+			- until
+			- since
+			- yet
+			- at this time
+			- at some point
+			- eventually
+			- inevitably
+			- never
+			- sometimes/maybe
+			- synchronously
+			- contiguously
+			- always
+			- everywhere
+			- timelessly
+			- maybe
+			- may
+			- possibly
+			- probably
+			- could
+			- very unlikely
+			- almost certainly
+		- untitled
+			- who, what, where, when, why, how, which
+		- untitled
+			- to do
+			- to be
+			- to be located
+			- to exist
+			- to be able to
+			- to will (?)
+		- untitled
+			- it/something/someone/this/that/these/those/the_X/a_X/an_X/Xs/some/all/none/'s/of/point/ostention/thing/object(/concept)
+		- untitled
+			- were/would/might/could/maybe_could/may/could_possibly/can_also/must_also/necessarily_also/definitely_also/is_also
+			- contingent, conditional, counterfactual
+			- optionality, ability, choice
+	- simple
+	- conditional
+	- imperative (incomplete)
+		- to coerce
+		- to make
+		- to impel
+		- to cause
+		- to compel
+		- ...
+- 
+	- Suppose; let; given; granted; stipulating; in the case where; in the world where; in the condition that; were it true that; there is some world where; in that world; consider; so, presuming, conditional on, that
+	- if A, then, if B, then C.
+	- if not A, then, if B, then [we would know that not] C.
+	- now, [say,] [in fact,] X did/does, indeed, occur. Therefore/so/thus/thusly, indeed, [in this world,] Y
+-
+	- if it is or were the case that then it is or would be the case that
+	- a implies b
+	- a causes b
+	- a precedes b
+-
+	- soon. Just. Now. As. Yet. Beginning. End. Start. Finish. Complete. Final. Simultaneously. Synchronously. Unison. Lockstep. At. When. During. Moment. Time. Interval. Duration. Place. Adjacent. Above. Below. Sidelong. Aside. Bestride. Under. Underneath. Along. Near. Far. In front. Behind. Inside. Within. Without. At the entrance. At the opening. Boundary. Inner. Outer. Between. Across. Left. Right. Side. 
+-
+	- still, as, yet, until, since, while, during, before, after, at, when, start, end, at this time
+-
+	- axiomatics (...)
+		- It’s possible that X/Y is true/false, and, if it is so the case, then, it’s impossible that X/Y is (also) true/false.
+		- It’s possible that X/Y is true/false, and, if it is so the case, then, it must be so, too, that X/Y is (also) true/false.
+		- One of X or Y can be true/false, or neither, and/but both X and Y can’t be true/false at the same time.
+		-Given Z, if X, then Y.
+
+- address
+	- Writer
+	- Reader
+	- Viewer
+	- Listener
+	- Audience
+	- Speaker
+	- Performer
+	- Actor
+	- Narrator
+	- Author
+	- I
+	- You
+- untitled vertical list
+	- existence (presence/absence)
+	- presence
+	- absence
+	- actual
+	- real
+	- being
+	- nonbeing
+	- counterfactual
+	- veridical
+	- illusory
+	- fake
+	- appearance
+	- disappearance
+	- addition
+	- removal
+	- before
+	- after
+	- forward(s)
+	- reverse/back
+	- inside
+	- outside
+	- internal
+	- external
+	- containment
+	- causation
+	- (implication)
+	- [case: mutually exclusive exact comprehensive]
+	- [counterfactual: true/false/actual/nonactual/possible/impossible/forbidden/obligated(cf duty/responsibility)/permitted/able]
+	- actual
+	- real
+	- ability
+	- missing
+	- incomplete
+	- constraint
+- untitled cf supposition theory, reference
+	- any of conceptual, coreferential, analytic, universal, necessary (cf contingent)
+		- [the concept of] cup = 
+		- [all] cup(s) = 
+		- a cup is
+		- cups are
+	- quotational
+		= the word "cup" ...
+	- synthetic general
+		- books are heavy
+	- synthetic particular
+	- universal synthetic (cf contingent)
+		- all (huge boulders in gravity wells) are [necessarily?] heavy (with respect to humans)
+	- general (synthetic)
+		- some cups are
+	- trope/kind/type general/universal + particular/situational
+		- cupness is
+		- cupnesses are
+		- this meat is, this cheese is, that cheese there among all that is...
+	- particular, situational, transparent reference, [example, exemplar, ]
+		- that cup
+		- that cup there (among, in, within all of that, specifcally there, then [indicitive or subjunctive])
+	- ?definite prototypical
+	- metaphorical particular
+		- pass me that thingy
+	- metaphorical, functional, effectual usage; ?general [cf coining, nonce, neologism]
+		- men are cups.
+	- contingent general synthetic vs contingent particular or situational synthetic
+		- [...]
+	- cf gendlin instance of itself
+	- cf instance, class
+	- cf meaning
+- untitled serial list
+	- vagueness imprecision lack of clarity lack of detail abstraction ambiguity equivocation unspecific general indefiniteness
+- untitled serial list
+	- X = don’t care, doesn’t matter, requirment not to matter, forced
+- untitled serial list
+	- we = individuation (cf. boundary), identity, selfhood, my-/mine-ness, [optional?] I-ness, personhood, grouphood/collectivehood, empathy (cognitive, emotional, etc.), sympathy (including sympathetic joy), conspiracy (in the sense of breathing together but wider), compassion, love, kindness[/?care], else?
+- untitled serial list
+	- agreement, union, unanimity, consent, consensus, conspiracy
+- untitle serial list
+	- time, space/spatial_distance/spatial_proximity/spatial_nonproximity, identity, personhood, grouphood/collectivehood/personcollectivehood, sensation (inc. perception vs generation), herenow/therethen, knowing [implying, causing, understanding, inferring, explaining..., being...][individuation][self(-identity), self-reference, I am this one, being this one][cf selfhood or not be “I” or not vs personhood]
+	eternia [cf timeless, eternal, sempiternal, etc.]
+	subversion of identity, subversion of X
+- untitled serial list
+	- Always never sometimes often infrequently continuously continuously since until forever timelessly eternally sempiternally
+- untitled serial list
+	- This, these, that, those, all, some, none, a/one, the/exactly_one, any, -ness, -nesses, ??-type/??-kind
+- untitled mixed serial/vertical list
+	- property, attribute, hrm quality, form, mode, hrm...
+	- ??inherence, subsistence, dependence
+	- intrinsic, inherent, essential, substantial
+	- extrinsic...
+	- form, mode
+	- attribute, mode
+- untitle serial list
+	- somehow
+- 
+	- correct, right, true, properly
+-
+	- absence, presence, contact/touch(ing), separation
+- untitled serial list
+	- And, plus, and nothing else
+	- Or
+	- XOR, case, mutual exclusivity, and nothing else
+	- Here there at then scope/bound/context cf. extension and duration/interval
+	- but
+	- nor
+	- coordinating conjunctions
+		- for, and, nor, but, or, yet, so
+	- correlative conjunctions
+		- either...or
+		- not only...but (also)
+		- neither...nor
+		- both...and
+		- whether...or
+		- just as...so
+		- the...the
+		- as...as
+		- as much...as
+		- no sooner...than
+		- rather...than
+		- not...but rather
+		- if...then, ...
+	- conjunctions of time	
+		- after
+		- as long as
+		- as soon as
+		- by the time
+		- long before
+		- now that
+		- once
+		- since
+		- till
+		- until
+		- when
+		- whenever
+		- while
+	- subordinating conjunctions
+		- after, although, as, as far as, as if, as long as, as soon as, as though, because, before, even if, even though, every time, if, in order that, since, so, so that, than, that, though, unless, until, when, whenever, where, whereas, wherever, and while
+	-
+		- at least
+		- at most
+		- not too only
+		- another
+		- yet another
+		- finally
+		- even while
+		- while
+		- withstanding
+		- notwithstanding
+		- besides
+		- recall
+- to resume, resumption
+- call, name, dub, label
+- untitled serial list
+	- concept, meaning, sense, intension, extension, referent, refer, apply
+- untitled serial list
+	- directness, immediacy, instanteity, mediacy, indirectness
+- untitled serial list
+	- necessary and sufficient, necessary but not sufficient, sufficient but not necessary, neither necessary nor sufficient
+- untitled serial list
+	- necessary contingent overdetermined constrained arbitrary incidental accidental sufficient covarying invariant, related, could-be-otherwise-ness, excludes, apodictic, counterfactual, local, proximal, distal, otherwise, not otherwise
+- untitled serial list
+	- duty permission allowed permitted forbidden responsibility obligation should suppose to
+- untitled serial list “even”
+	- except, even though, even while, even as, even if, even yet while
+	- only
+	- like
+	- same
+	- similar
+	- except that
+	- except when
+	- difference
+	- pattern
+	- repitition
+	- repeat
+	- distinction
+- untitled mixed vertical/serial list
+	- what it’s like to [do X, be X, etc.]
+	- vs?? how it feels to
+	- what-it-is-like-ness
+- untitled mixed vertical/serial list
+	- self (cf me, not-me)
+	- other (cf me, not-me)
+	- persistence (of existence in time)
+	- self-testing/self-checking
+	- other-testing/other-checking
+	- [cf active inference and/but wrt self too]
+	- violation
+	- existence
+	- causation (time)
+	- synchrony (time)
+	- possession
+	- containment (boundary)
+	- identity
+	- action/doing
+	- confusion (one-for-the-other)
+	- duration
+	- ping
+	- recognition
+	- spoof/spoofing
+	- self-shibboleth
+	- identifier
+	- [meanness vs coercion vs violation vs harm vs malevolence vs badness vs evil vs benevolence vs goodness; altruism, self-abnegation, self-interest, selfishness, enlightened-self-interest; persuasion, convincing, influencing, informing]
+	- autocorrelation
+	- cross-correlation
+	- lag-correlation
+	- zero-lag
+	- zero-lag synchrony
+	- frequency
+	- duration
+	- period
+	- [concept, referent, sign, signifier,implication, inference, entailment, explanation, parsimony, simplicity, elegance, truth, actuality, obtaining, existing, world, moment, time, space, cause, before, after, at, same, different, distinction, difference...]
+	- conflation
+	- equivocation
+	- separability
+	- independence
+	- composability
+	- path-length, return-trip-length, round-trip-length
+	- delta (timing)
+	- lagging, pacing, leading
+	- misdirection, sincerity, insincerity, deception
+	- value, utility, goodness, uniqueness, rarity, necessity, criticality, “belief”/belief, instantiation, identity
+	- separation/separateness; individuality
+	- nonrelation
+- [untitled]
+	- if then unless
+	- since until
+	- while
+	- when except
+	- at the start of, at the end of, at (the) instant (of), during/while (the) interval/duration (of)
+	- before after then next
+	- even yet, even while, even still, even yet while, but, and, with expectation, against expectation
+	- instead
+	- same like similar different distinct
+	- but however though
+	- therefore, in conclusion
+	- with, without, absent, present, less
+-	
+	- elsewhere
+	- [...]
+-	argument, argumentation, persuasion, evidence, deduction, explanation, reasoning
+	- suppose OR let OR grant OR presume OR presuppose OR assume if OR when was OR were did OR didn't OR not had OR have been and OR but then would OR will OR might OR maybe OR could OR should OR shall OR notwithstanding OR nevertheless therefore OR thus OR conclude OR conclusion
+	- suppose OR let OR grant OR presume OR presuppose OR assume if OR when was OR were did OR didn't OR not had OR have been and OR but then would OR will OR might OR maybe OR could OR should OR shall OR notwithstanding OR nevertheless therefore OR thus OR conclude OR conclusion "good" OR "bad" OR "better" OR "worse" OR "mora"l OR "ethical" OR "righteous" OR "kind" OR "right" OR "wrong" OR "just" OR "unjust" OR "should" OR "shouldn't" OR immoral in the sense relative to if then
+	- Abridgement of the Debates of Congress, from 1789 to 1856, Vol. I (of 16) by Thomas Hart Benton
+	- "if" "were" "then, if" "were" "then" "would" -math -programming -logic -computer -theory
+- [untitled]
+	- vagueness
+	- specificity
+	- precision
+	- grain
+-	
+	- X as X, X qua X, X as such, X conceived (of) as such
+-
+	- "neither separate nor identical" [dc]
+	- "neither separable nor the same" [dc]
+	- 
+	- 
+	- 
+	- 
+	-
+	- 
+		- emptiness
+		- fullness
+		- separateness
+		- seamlessness
+		- completeness
+		- nonreferentialness
+		- sponteneity
+		- fluidity
+		- sovereignty
+		- costlessness
+		- effortlessness
+		- continuity
+- [untitled]
+	- lemma trivial corollary	
+- [untitled]
+	- reference
+	- simile
+	- metaphor
+	- description
+	- allusion
+	- circumlocution
+	- antonomasia
+	- metonymy
+	- synecdoche
+	- coreference
+	- meaning
+	- extension
+	- intension
+	- concept
+	- noun
+	- proposition
+	- statement
+	- assertion
+	- equivocation
+	- nonequivocation
+	- relation
+- [untitled]
+	- identity
+	- difference
+	- distinction
+	- discernible
+	- indiscernible
+	- same
+	- sameness
+	- identical
+	- equivalent
+	- equal
+	- similarity
+	- likeness
+	- pattern
+	- repetition
+	- repeat
+	- instance
+	- token
+	- type
+	- trope
+	- kind
+- [untitled]
+	- [aspect, feature, facet, (dimension)]
+	- [glimpse, taste, flash, flicker, glimmer, peak]
+	- fact, event, situation, occurrence, happening...
+-	
+	- necessary, contingent, arbitrary, (incidental)
+-	
+	- [moreover, notwithstanding, withstanding, nevertheless, therefore]
+-
+	- to index
+	- to depic
+	- to symbolize
+	- to recognize
+	- to conflate
+	- to overlook
+	- to present
+	- to repeat
+	- to correlate
+- [untitled]
+	- quality
+	- property
+	- attribute
+	- substance
+	- form
+	- mode
+- [untitled]
+	- change
+	- continuation
+	- continuity
+	- continuousness
+	- immediate adjacency
+	- contact
+	- touch
+	- seamlessness
+	- boundary
+	- gap
+	- discontinuity
+	- jog
+	- jump
+	- separation
+	- separateness
+-
+	- equivocation, deconflation, distinction, difference, conflation
+- genus, species, definition, higher, lower, abstract, concrete, identity...
+	- Species
+		- X = ?
+		- Y = ?
+		- Z = ?
+		- X = Y + Z
+		- X is a species of Y.
+		- X is a species of Z.
+		- X is more concrete than Y.
+		- X is more concrete than Z.
+		- If Z is a positive/real attribute then X has more being than Y.
+		- If Z is a positive/real attribute then X has more reality than Y.
+		- If Z is a positive/real attribute then X is more perfect than Y.
+	- Genus
+		- X = ?
+		- Y = ?
+		- Z = ?
+		- X = Y - Z
+		- X is a genus of Y
+		- X is more abstract than Y.
+		- If Z is a positive attribute then X has less being than Y.
+		- If Z is a positive attribute then X has less reality than Y.
+		- If Z is a positive attribute than X is less perfect than Y.
+	- definition
+		- X is Y.
+		- X is Z.
+		- X is a Y.
+		- X is a Z
+		- Y is (analytically or synthetically conceptually contained) in X.
+		- Z is (analytically or synthetically conceptually contained) in X.
+		- e.g.
+			- being X = being Y plus being Z
+			- purple human = being purple and being human
+			- A purple human is (being) a human.
+			- A purple human is (being) purple.
+		- [this/these] whole(s) W is/are/contain(s)/= [this/these] parts X[, R...] + “just exactly/precisely [this/these aforementioned]/and nothing else”
+		- [this/these] whole(s) X is/are/contain(s)/= [this/these] parts Y[, Z...] + “just exactly/precisely [this/these aforementioned]/and nothing else”
+		- [this/these] whole(s) Y is/are/contain(s)/= [this/these] parts M[, F...] + “just exactly/precisely [this/these aforementioned]/and nothing else”
+	- identify vs equivalence vs predication vs equality...
+		- [X is Y] = [X = Y + possibly some other things]
+		- [X = Y] = [X = Y = W [ + Q + R...] + nothing else]
+- textual self-reference
+	- word
+	- phrase
+	- sentence
+	- paragraph
+	- concept
+	- proposition
+	- noun
+	- verb
+	- adjective
+	- adverb
+	- preposition
+	- nominalization
+- conversational epistemic/valence markers
+	- (what are some more, including non-anglo?)
+	- (corresponding emoji?)
+	- (could add what each one means; some mean multiple things)
+	- markers
+		- oh
+		- huh
+		- uh
+		- uhh
+		- heh
+		- whoa
+		- eh
+		- erm
+		- er
+		- hrm
+		- mm
+		- ohh
+		- oh!
+		- wha
+		- whuh
+		- ah
+		- ok
+		- got it
+		- uh huh
+		- uh-uh
+		- hm
+		- hmm
+		- ahh
+		- right
+		- what
+		- no
+		- noo
+		- kk
+		- okok
+- bibliography (partial)
+	- https://en.wikipedia.org/wiki/Skandha
+	- https://en.wikipedia.org/wiki/List_of_English_copulae
+	- https://philosophy.stackexchange.com/questions/56091/what-is-the-difference-between-the-is-of-predication-and-the-is-of-identity
+	- https://en.wikipedia.org/wiki/Irrealis_mood
+	- https://en.wikipedia.org/wiki/Tense%E2%80%93aspect%E2%80%93mood
+	- https://en.wikipedia.org/wiki/English_conditional_sentences
+	- https://en.wikipedia.org/wiki/Counterfactual_conditional
+	- https://en.wikipedia.org/wiki/Law_of_thought
+	- https://en.wikipedia.org/wiki/Principle_of_sufficient_reason
+	- https://en.wikipedia.org/wiki/Pro-form
+	- https://en.wikipedia.org/wiki/Adverb
+	- https://en.wikipedia.org/wiki/List_of_English_prepositions
+	- https://en.wikipedia.org/wiki/Buddhist_logico-epistemology
+	- http://www.rickmor.x10.mx/lexical_semantics.html
+	- https://en.wikipedia.org/wiki/Use%E2%80%93mention_distinction
+	- https://plato.stanford.edu/entries/quotation/
+	- https://en.wikipedia.org/wiki/Supposition_theory
+	- (Critique of Pure Reason) (and lots more)
+	- https://en.wikipedia.org/wiki/Conjunction_(grammar)
+	- https://en.wikipedia.org/wiki/Conjunctive_adverb
+	- https://en.wikipedia.org/wiki/Transition_(linguistics)
+		- Transition_Words_and_Phrases_7ESL.jpg
+	- https://en.wikipedia.org/wiki/Most_common_words_in_English#Parts_of_speech
+- ============
+- https://en.wikipedia.org/wiki/Extensional_definition
+- https://en.wikipedia.org/wiki/Intensional_definition
+- https://en.wikipedia.org/wiki/Ostensive_definition
+- https://en.wikipedia.org/wiki/Concept_image_and_concept_definition
+- https://en.wikipedia.org/wiki/Coordinative_definition
+- https://en.wikipedia.org/wiki/Lexical_definition
+- https://en.wikipedia.org/wiki/Precising_definition
+- https://en.wikipedia.org/wiki/Stipulative_definition
+- https://en.wikipedia.org/wiki/Operational_definition
+- https://en.wikipedia.org/wiki/Persuasive_definition
+- https://en.wikipedia.org/wiki/Recursive_definition
+- https://en.wikipedia.org/wiki/Theoretical_definition
+- https://en.wikipedia.org/wiki/Construct_(philosophy)
+- https://en.wikipedia.org/wiki/Definition
+- https://en.wikipedia.org/wiki/Genus%E2%80%93differentia_definition
+- (\*) Duží, Marie, Bjorn Jespersen, and Pavel Materna. Procedural semantics for hyperintensional logic: foundations and applications of transparent intensional logic. Vol. 17. Springer Science & Business Media, 2010.
+- (\*) Naming and Necessity Kripke
+- (\*) Reference and Existence Kripke
+- (\*) General Semantics Korzybski Kayakawa
+- (\*) Philosophical Investigations Wittgenstein
+- (\*) Word Order in English Sentences 2nd Edition 2016 Phil Williams
+- (\*) The English Tenses Practical Grammar Guide 2014 Phil Williams
+- (\*) Critique of Pure Reason Kant
+- (\*) Friedrich Nicolovius, Königsberg. 1800. Immanuel Kants Logik: Ein Handbuch zu Vorlesungen (“Immanuel Kant’s Logic: A Manual for Lectures”). Library of Congress Cataloging-in-Publication Data Kant, Immanuel, 1724—1804. Logic. Translation of: Logik, 1800. Reprint. Originally published: Indianapolis : Bobbs-Merrill, 1974. Includes bibliographical references. 1. Logic. I. Title. B2794.L62E5 1988 160 88-3734 9780486117430 ## Copyright © 1974 by Robert S. Hartman and Wolfgang Schwarz. ## - - https://www.amazon.com/Logic-Immanuel-Kant/dp/0486256502/
+- (\*) de re, de dicto, de se
+- (\*) The Lexical Semantics of a Machine Translation Interlingua by Rick Morneau http://www.rickmor.x10.mx/lexical_semantics.html last accessed 20201021
+- ============
+- (\*) https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem
+- (\*) https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction
+- ============
+- tenses/aspects/modes/etc
+	- tense/aspect
+		- past complete
+		- past ongoing
+		- past prior
+		- past ongoing prior
+		- [separator]
+		- present complete
+		- present ongoing
+		- present prior
+		- present ongoing prior
+		- [separator]
+		- future complete
+		- future ongoing
+		- future prior
+		- future ongoing prior
+		- [separator]
+		- (timeless/eternal)
+		- (sempiternal)
+		- (in some worlds)
+		- (at all times)
+		- (in all worlds)
+		- (sometimes, always, never)
+		- (universally)
+	- mode/mood
+		- affirmative indicative
+		- affirmative subjunctive
+		- negative indicative
+		- negative subjunctive
+		- [affirmative apodictic; negative apodictic]
+		- [indicative = contingent or apodictic]
+	- grab bag
+		- usually X, but when Y, Z. in this case, Y, so Z.
+	- enumeration setup
+		- 48 + 48 \* 4 \* 48 = 9264
+		- (separator)
+		- then affirmative indicative
+		- then negative indicative
+		- then affirmative subjunctive
+		- then negative subjunctive
+		- (separator)
+		- affirmative indicative past complete
+		- affirmative indicative past ongoing
+		- affirmative indicative past prior
+		- affirmative indicative past ongoing prior
+		- affirmative indicative present complete
+		- affirmative indicative present ongoing
+		- affirmative indicative present prior
+		- affirmative indicative present ongoing prior
+		- affirmative indicative future complete
+		- affirmative indicative future ongoing
+		- affirmative indicative future prior
+		- affirmative indicative future ongoing prior
+		- (separator)
+		- affirmative subjunctive past complete
+		- affirmative subjunctive past ongoing
+		- affirmative subjunctive past prior
+		- affirmative subjunctive past ongoing prior
+		- affirmative subjunctive present complete
+		- affirmative subjunctive present ongoing
+		- affirmative subjunctive present prior
+		- affirmative subjunctive present ongoing prior
+		- affirmative subjunctive future complete
+		- affirmative subjunctive future ongoing
+		- affirmative subjunctive future prior
+		- affirmative subjunctive future ongoing prior
+		- (separator)
+		- negative indicative past complete
+		- negative indicative past ongoing
+		- negative indicative past prior
+		- negative indicative past ongoing prior
+		- negative indicative present complete
+		- negative indicative present ongoing
+		- negative indicative present prior
+		- negative indicative present ongoing prior
+		- negative indicative future complete
+		- negative indicative future ongoing
+		- negative indicative future prior
+		- negative indicative future ongoing prior
+		- (separator)
+		- negative subjunctive past complete
+		- negative subjunctive past ongoing
+		- negative subjunctive past prior
+		- negative subjunctive past ongoing prior
+		- negative subjunctive present complete
+		- negative subjunctive present ongoing
+		- negative subjunctive present prior
+		- negative subjunctive present ongoing prior
+		- negative subjunctive future complete
+		- negative subjunctive future ongoing
+		- negative subjunctive future prior
+		- negative subjunctive future ongoing prior
+	- enumeration
+		- simple
+			- affirmative indicative past complete
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative past ongoing
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative past prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative past ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative present complete
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative present ongoing
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative present prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative present ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative future complete
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative future ongoing
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative future prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative indicative future ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive past complete
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive past ongoing
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive past prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive past ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive present complete
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive present ongoing
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive present prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive present ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive future complete
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive future ongoing
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive future prior
+				- [see compound antecedents of consequents for examples]
+			- affirmative subjunctive future ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- negative indicative past complete
+				- [see compound antecedents of consequents for examples]
+			- negative indicative past ongoing
+				- [see compound antecedents of consequents for examples]
+			- negative indicative past prior
+				- [see compound antecedents of consequents for examples]
+			- negative indicative past ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- negative indicative present complete
+				- [see compound antecedents of consequents for examples]
+			- negative indicative present ongoing
+				- [see compound antecedents of consequents for examples]
+			- negative indicative present prior
+				- [see compound antecedents of consequents for examples]
+			- negative indicative present ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- negative indicative future complete
+				- [see compound antecedents of consequents for examples]
+			- negative indicative future ongoing
+				- [see compound antecedents of consequents for examples]
+			- negative indicative future prior
+				- [see compound antecedents of consequents for examples]
+			- negative indicative future ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive past complete
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive past ongoing
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive past prior
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive past ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive present complete
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive present ongoing
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive present prior
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive present ongoing prior
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive future complete
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive future ongoing
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive future prior
+				- [see compound antecedents of consequents for examples]
+			- negative subjunctive future ongoing prior
+				- [see compound antecedents of consequents for examples]
+		- compound
+			- affirmative indicative past complete # then affirmative indicative # affirmative indicative past complete
+			- affirmative indicative past complete # then affirmative indicative # affirmative indicative past ongoing
+			- affirmative indicative past complete # then affirmative indicative # affirmative indicative past prior
+			- [...]
+
+[<a href="#196h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
