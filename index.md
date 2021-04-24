@@ -1,8 +1,12 @@
+
 <head>
+<!--(visible in *.md, "Hi, GitHub!" but for html conversion only)-->
 <style>
   body {max-width: 650px;
-    	margin: 0 auto;}
+    	margin: 0 auto;
+	font-size: 1.2em;}
 </style>
+<!--/>
 </head>
 
 # <span id="1"></span> Meditation from Cold Start to Complete Mastery (MCSCM) : *A Manual of **Global Wayfinding Meditation*** (GWM)
@@ -14,7 +18,7 @@
 
 <span id="2"></span> **by** Mark D Lippmann and collaborators
 
-<span id="3"></span> **Credits (needs to be updated):** ...JD, __, __, __, __, __, __, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicltly credited.]
+<span id="3"></span> **Credits (needs to be updated):** ...JD, __, __, __, __, __, __, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.]
 
 <span id="4"></span> **Copyright:** All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 
