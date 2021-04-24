@@ -6,7 +6,7 @@
     	margin: 0 auto;
 	font-size: 1.2em;}
 </style>
-<!--/>
+<!--/-->
 </head>
 
 # <span id="1"></span> Meditation from Cold Start to Complete Mastery (MCSCM) : *A Manual of **Global Wayfinding Meditation*** (GWM)
