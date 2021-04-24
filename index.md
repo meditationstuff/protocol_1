@@ -6,8 +6,6 @@
 </style>
 </head>
 
-(end styling front matter)
-
 # <span id="1"></span> Meditation from Cold Start to Complete Mastery (MCSCM) : *A Manual of **Global Wayfinding Meditation*** (GWM)
 
 <span id="1a"></span> ***Work-in-progress note:** This is a carefully versioned, long-term work in progress, a living document. It’s very “useably complete,” and/but there are typos, rough patches, risks, and uncertainties; and, improvements, rewrites, refactorings, and additions continue to happen.*
