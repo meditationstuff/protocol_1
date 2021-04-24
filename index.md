@@ -1,4 +1,3 @@
-<!--"Hi, GitHub!" This is an unavoidable kludge.-->
 <head>
 <style>
   body {max-width: 650px;
@@ -6,7 +5,8 @@
 		font-size: 1.2em;}
 </style>
 </head>
-<!--(end kludge)-->
+
+(end styling front matter)
 
 # <span id="1"></span> Meditation from Cold Start to Complete Mastery (MCSCM) : *A Manual of **Global Wayfinding Meditation*** (GWM)
 
