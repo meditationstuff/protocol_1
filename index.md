@@ -1,12 +1,10 @@
 
 <head>
-<!--(visible in *.md, "Hi, GitHub!" but for html conversion only)-->
 <style>
   body {max-width: 650px;
     	margin: 0 auto;
-	font-size: 1.2em;}
+		font-size: 1.2em;}
 </style>
-<!--/-->
 </head>
 
 # <span id="1"></span> Meditation from Cold Start to Complete Mastery (MCSCM) : *A Manual of **Global Wayfinding Meditation*** (GWM)
