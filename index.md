@@ -4440,6 +4440,7 @@ Notes:
 * broken
 * "eternal" story logic / "eternal" story emotion / "eternal" story motivation
 * impermanence
+* story
 
 [<a href="#102h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
