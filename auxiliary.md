@@ -4710,6 +4710,11 @@ Explore ideas of “no escape,” e.g. maybe “can’t escape the physical univ
 Let yourself, scenario by scenario, acknowledge the ways you’re already in personal, custom-built, made-to-order, bespoke hell.
 
 
+# no!:
+
+No! (Thus.)
+
+
 [<a href="#194">Go to appendix 1: preliminary/auxiliary practices (names only)</a>]
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

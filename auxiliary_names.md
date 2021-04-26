@@ -890,6 +890,8 @@ follow [the feeling of] X back in time (memories, etc.)
 find your way back  
 squishy body that sloughs  
 no escape  
+no!  
+
 
 [<a href="#194">Go to appendix 2: preliminary/auxiliary practices (full)</a>]
 
