@@ -3713,13 +3713,13 @@ Because the preliminary/auxiliary practices are an ad hoc, open-ended list, the 
 
 See
 
-auxiliary_names_only.txt
+* <a href="#194">appendix 1: preliminary/auxiliary practices (names only)</a>
 
 for a bare list of the current names of the preliminary/auxiliary practices. You can skim this list quickly for ones that look interesting.
 
 See
 
-auxiliary.txt
+* <a href="#195">appendix 2: preliminary/auxiliary practices (full)</a>
 
 for the actual preliminary/auxiliary practices.
 
@@ -3972,7 +3972,7 @@ Final final note:
 
 Main practice p1 has an appendix in this document.
 
-[<a href="#194">Go to appendix 3: main practice p1 appendix (usa english; "en-us"</a>]
+[<a href="#196">Go to appendix 3: main practice p1 appendix (usa english; "en-us"</a>]
 
 [<a href="#100h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
