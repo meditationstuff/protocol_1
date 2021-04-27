@@ -9006,5 +9006,8 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/
 * On the Gradual Construction of Thoughts During Speech by Heinrich von Kleis
 * https://scholars-stage.blogspot.com/2021/04/for-god-and-progress-notes-on-liberal.html [Last accessed 2021-04-25]
+* https://en.m.wikipedia.org/wiki/Beer_distribution_game
+* Dorner, Dietrich. The logic of failure: Recognizing and avoiding error in complex situations. Basic Books, 1997.
+
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
