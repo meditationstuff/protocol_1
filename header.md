@@ -5,4 +5,6 @@
 		font-size: 1.2em;
 	</style>
 </head>
-<br/><br/>
+<br/>
+<em><a href="https://github.com/meditationstuff/protocol_1/commits/master">Click here to see what's recently changed!</a></em>
+<br/>
