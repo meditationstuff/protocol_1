@@ -4747,6 +4747,7 @@ Notes:
 1. Just this or not just this?
 1. Can you do it without coercive dominance?
 1. What are your "behavioral anomalies", historical ways in which you surprised yourself by what you did, how you acted?
+1. How could anyone give that to you except for your own true self?
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
