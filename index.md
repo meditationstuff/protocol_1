@@ -1,6 +1,6 @@
 <center>
 
-# <span id="1"></span> Meditation from Cold Start to Complete Mastery (MCSCM) <br/> : <br/> *A Manual of **Global Wayfinding Meditation*** (GWM)
+# <span id="1"></span> Meditation from Cold Start to Complete Mastery (MCSCM) <br/> : <br/> *a Manual of **Global Wayfinding Meditation*** (GWM)
 
 </center>
 
