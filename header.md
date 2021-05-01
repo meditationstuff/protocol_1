@@ -2,11 +2,14 @@
 <html lang="en">
 
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta
+name="viewport" content="width=device-width, initial-scale=1">
 	<style>
-		body {	width: 65ch;
-			padding-left: 10ch;
-			font-size: 1.2em;}
+		body {
+			margin:40px auto;
+			max-width: 600px;
+			padding:0 10px;
+		}
 	</style>
 	<title>
 		Meditation from Cold Start to Complete Mastery
