@@ -9,6 +9,7 @@ name="viewport" content="width=device-width, initial-scale=1">
 			margin:40px auto;
 			max-width: 600px;
 			padding:0 10px;
+			font-size: 1.2em;
 		}
 	</style>
 	<title>
