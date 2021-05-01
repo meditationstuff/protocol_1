@@ -3,9 +3,15 @@
 
 <head>
 	<style>
-		body {max-width: 600px;
-		margin: 0 auto;
-		font-size: 1.2em;
+		body {
+			max-width: 600px;
+			<!--max-width: 650px;-->
+			margin: 0 auto;
+			font-size: 1.2em;
+			<!--font-size: 18px;-->
+			<!--line-height: 1.6;-->
+		}
+		<!--h1,h2,h3{line-height:1.2}-->
 	</style>
 	<title>
 		Meditation from Cold Start to Complete Mastery
