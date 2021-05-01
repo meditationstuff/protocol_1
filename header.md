@@ -2,12 +2,11 @@
 <html lang="en">
 
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style>
-		body {	max-width: 600px;
-			margin: 40px auto;
-			font-size: 1.2em;
-			padding:0}
+		body {	width: 65ch;
+			padding-left: 10ch;
+			font-size: 1.2em;}
 	</style>
 	<title>
 		Meditation from Cold Start to Complete Mastery
@@ -23,7 +22,7 @@
 
 <em><a href="https://github.com/meditationstuff/protocol_1/commits/master">Note: Click here to see what's recently changed!</a></em>
 
-<em>Note: This whole book is a single, static webpage, with no external resources, which you're reading right now. Save a local copy with a single command-/ctrl-s!</em>
+<em>Note: This whole book is a single, static webpage, with no external resources, which you're reading right now. Save a local copy with a single command&#8209;/ctrl&#8209;s!</em>
 
 <span id="1a"></span> <em>Note: This book is a versioned, long-term work-in-progress, a living document. It’s very "useably complete," and/but there are typos, rough patches, risks, and uncertainties; and, improvements, rewrites, refactorings, and additions continue to happen.</em>
 
