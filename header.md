@@ -4,8 +4,9 @@
 <head>
 	<style>
 		body {	max-width: 600px;
-			margin: 0 auto;
-			font-size: 1.2em;}
+			margin: 40px auto;
+			font-size: 1.2em;
+			padding:0}
 	</style>
 	<title>
 		Meditation from Cold Start to Complete Mastery
