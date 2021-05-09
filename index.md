@@ -9004,6 +9004,9 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * https://scholars-stage.blogspot.com/2021/04/for-god-and-progress-notes-on-liberal.html [Last accessed 2021-04-25]
 * https://en.m.wikipedia.org/wiki/Beer_distribution_game
 * Dorner, Dietrich. The logic of failure: Recognizing and avoiding error in complex situations. Basic Books, 1997.
-
+* https://vividness.live/ritual-vs-mentalism [Last accessed: 2021-05-09]
+* https://meaningness.com/illuminatus-voegelin-sbnr-monism-politics [Last accessed: 2021-05-09]
+* https://vividness.live/passionate-connections [Last accessed: 2021-05-09]
+* https://meaningness.com/boundaries-objects-connections [Last accessed: 2021-05-09]
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
