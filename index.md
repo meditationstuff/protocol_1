@@ -9008,5 +9008,5 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * https://meaningness.com/illuminatus-voegelin-sbnr-monism-politics [Last accessed: 2021-05-09]
 * https://vividness.live/passionate-connections [Last accessed: 2021-05-09]
 * https://meaningness.com/boundaries-objects-connections [Last accessed: 2021-05-09]
-
+* https://en.wikipedia.org/wiki/Neopragmatism [Last accessed: 2021-05-11; ht (d)]
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
