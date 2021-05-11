@@ -554,7 +554,7 @@ For the record, the blowing stuff up approach was really fine for me for a long 
 
 # <span id="18"></span> an exoteric doctrine: (v0.2)
 
-[Note, immediately below, it might seems like "nebulosity" or "emptiness" isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase.]
+[Note, immediately below, it might seems like "nebulosity" or "emptiness" (or "noneternalism") isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase.]
 
 Objective and singular truth exists (and/or objective reality exists and objective truth corresponds to it).
 
