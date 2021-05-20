@@ -9009,4 +9009,10 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * https://vividness.live/passionate-connections [Last accessed: 2021-05-09]
 * https://meaningness.com/boundaries-objects-connections [Last accessed: 2021-05-09]
 * https://en.wikipedia.org/wiki/Neopragmatism [Last accessed: 2021-05-11; ht (d)]
+* https://metarationality.com/reasonable-reference [Last accessed: 2021-05-11]
+* https://breakingsmart.substack.com/p/good-people-and-wicked-problems [Last accessed: 2021-05-20]
+* Siff, Jason. Unlearning meditation: What to do when the instructions get in the way. Shambhala Publications, 2010.
+* Siff, Jason. Thoughts are not the enemy: An innovative approach to meditation practice. Shambhala Publications, 2014. [Note: I haven't looked at this one, yet]
+
+
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

@@ -531,6 +531,7 @@ n/a
 		- yet another
 		- finally
 		- even while
+		- even so
 		- while
 		- withstanding
 		- notwithstanding
