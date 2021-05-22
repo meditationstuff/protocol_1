@@ -613,13 +613,13 @@ Let go...
 
 There is no thing, nothing, that can perfectly, eternally last. Also, there are no gods; no god’s-eye-views; there is no heaven, no hell. 
 
-You’re probably going to die, sooner or later, and at uncertain time. This is even with the possibility of life extension, "health extension," though, at the time of this writing, everyone is, in some sense, dying of a terminal illness (aging). In any case, the sun’s going to go out, proteins are going to decay, and eventually everything’s going to get cold and/or entropically isotropic. Or the universe is going to big crunch, or whatever. That’s a long ways away, but in any case, we probably can’t escape the universe. It’s just this, nowhere to go. It’s just us.
+You’re probably going to die, sooner or later, and at uncertain time. This is even with the possibility of life extension, "health extension," though, at the time of this writing, everyone is, in some sense, dying of a terminal illness (aging). In any case, the sun’s going to go out, protons are going to decay, and eventually everything’s going to get cold and/or entropically isotropic. Or the universe is going to big crunch, or whatever. That’s a long ways away, but in any case, we probably can’t escape the universe. It’s just this, nowhere to go. It’s just us.
 
 You probably can’t take anything with you, when you die, including memories, achievements, anything. It’s probably just nothingness. 
 
 Life generally involves a lot of uncontrollable and sometimes abruptly surprising suffering.
 
-Nevertheless, excepting suicide, violence, accident, health misfortune, aging, we just keep spontaneously happening, we just keep living, we prefer some things to other tings, we act: we seek wellbeing, satisfaction, intimacy, belonging, sex, procreation, interestingness, fun.
+Nevertheless, excepting suicide, violence, accident, health misfortune, aging, we just keep spontaneously happening, we just keep living, we prefer some things to other things, we act: we seek wellbeing, satisfaction, intimacy, belonging, sex, procreation, interestingness, fun.
 
 So, we want things; we care; it matters. And, also, you can relax! No one gets out alive, in the end. Ah, but you can’t relax! There are still hard problems of living right now and of wanting to keep living. 
 
