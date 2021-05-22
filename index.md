@@ -280,6 +280,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="167h" href="#167">prenatal experiences</a>
 		* <a id="168h" href="#168">direct and indirect people and group stuff</a>
 		* <a id="169h" href="#169">on vibe(s) and vibing, briefly</a>
+		* <a id="169ah" href="169a">distinctions</a>
 	* <a id="170h" href="#170">civilizational stuff</a>
 		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method</a>
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
@@ -7543,6 +7544,30 @@ Did I vibe well?
 --someone  
 
 [<a href="#169h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="169a"></span> distinctions:
+
+Loosely and vaguely speaking, you’re not "done," (in the, also very loosely speaking, "necessary but not sufficient sense") until you, the system, something, at some level, somehow, explicitly or implicitly, reflectively or unreflectively, can tell the difference between:
+
+* You listening or being aware of the world
+* You listening/talking to yourself
+* You listening/talking to other-in-you
+* You listening/talking to other-in-world
+
+and, also, the ways these are all both different/distinct and the ways in which these are all similar or the same, nondual, nonnonnondual, etc.
+
+Importantly, "listening/talking" doesn't have quite the right connotations: So, also, again loosely and vaguely speaking, you’re not "done," (in the, also again very loosely speaking, "necessary but not sufficient sense") until you, the system, something, at some level, somehow, explicitly or implicitly, reflectively or unreflectively, can tell the difference between:
+
+* "influence"/"indiscriminately running the code"
+* "information"/"string escaping"
+
+This borrows an analogy from software engineering, where (potentially malicious, externally supplied) data can be confused for safe, native code and then accidentally run as code (worst case without sandboxing or at least further downstream processing). If the data (strings) are escaped properly, nontrivially performed by the receiving software, then generally this can't happen. (Oh, another important distinction then is "sandboxing" versus "processing." Only the latter is really a viable strategy in the limit; it's ultimately more efficient and effective and safe,long-run.) To be clear, "information" is also "influence," in some sense, and that's good, cf. sensitivity/responsivity to self, others, and world! But these chosen terms are still pointing to an important distinction.
+
+
+[<a href="#169ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="170"></span> civilizational stuff:
 
