@@ -53,7 +53,7 @@ It’s ok to noncommitally play with (or use à la carte) the practices in this 
 	* *See these sections:*
 		* <a id="19q" href="#19">introduction; getting over the hump; text interpretation</a> [suggested below as well]
 		* <a id="18q" href="#18">an exoteric doctrine v0.2</a>
-		* <a id="18aq" href="18a">an esoteric doctrine ("Going full Buddhist?" / "Is this full Buddhist?" / "Is this even Buddhist?" / "Never go full Buddhist"\*)</a>
+		* <a id="18aq" href="#18a">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "Is this even buddhist?" / "never go full buddhist"\*)</a>
 		* <a id="21q" href="#21">goal</a>
 		* <a id="22q" href="#22">end state</a>
 		* <a id="23q" href="#23">no fixed conceptualized goal or end state part one ("goodness")</a>
@@ -124,7 +124,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="16h" href="#16">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
 	* <a id="17h" href="#17">but what actually makes it risky?; how do risks obtain, when they do?</a>
 	* <a id="18h" href="#18">an exoteric doctrine v0.2</a>
-	* <a id="18ah" href="18a">an esoteric doctrine ("Going full Buddhist?" / "Is this full Buddhist?" / "Is this even Buddhist?" / "Never go full Buddhist"\*)</a>
+	* <a id="18ah" href="#18a">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "Is this even buddhist?" / "never go full buddhist"\*)</a>
 	* <a id="19h" href="#19">introduction; getting over the hump; text interpretation</a>
 * <a id="20h" href="#20">opinionated, telic, soteriological things</a>
 	* <a id="21h" href="#21">goal</a>
@@ -605,7 +605,7 @@ Let go...
 
 
 
-# <span id="18a"></span> an esoteric doctrine ("Going full Buddhist?" / "Is this full Buddhist?" / "Is this even Buddhist?" / "Never go full Buddhist"\*):
+# <span id="18a"></span> an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "Is this even buddhist?" / "never go full buddhist"\*):
 
 Content warning: Fuckin' random beautiful brutalist shit (in my opinion) written by some random person at some snapshot instant in time, about metaphysics, existentialism, (non-)eternalism, (non-)nihilism, cosmology, mortality
 
