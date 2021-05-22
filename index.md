@@ -53,6 +53,7 @@ It’s ok to noncommitally play with (or use à la carte) the practices in this 
 	* *See these sections:*
 		* <a id="19q" href="#19">introduction; getting over the hump; text interpretation</a> [suggested below as well]
 		* <a id="18q" href="#18">an exoteric doctrine v0.2</a>
+		* <a id="18aq" href="18a">an esoteric doctrine ("Going full Buddhist?" / "Is this full Buddhist?" / "Is this even Buddhist?" / "Never go full Buddhist"\*)</a>
 		* <a id="21q" href="#21">goal</a>
 		* <a id="22q" href="#22">end state</a>
 		* <a id="23q" href="#23">no fixed conceptualized goal or end state part one ("goodness")</a>
@@ -123,6 +124,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="16h" href="#16">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
 	* <a id="17h" href="#17">but what actually makes it risky?; how do risks obtain, when they do?</a>
 	* <a id="18h" href="#18">an exoteric doctrine v0.2</a>
+	* <a id="18ah" href="18a">an esoteric doctrine ("Going full Buddhist?" / "Is this full Buddhist?" / "Is this even Buddhist?" / "Never go full Buddhist"\*)</a>
 	* <a id="19h" href="#19">introduction; getting over the hump; text interpretation</a>
 * <a id="20h" href="#20">opinionated, telic, soteriological things</a>
 	* <a id="21h" href="#21">goal</a>
@@ -600,6 +602,44 @@ Sometimes, an edgy joke should go here.
 Let go...  
 
 [<a href="#18h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="18a"></span> an esoteric doctrine ("Going full Buddhist?" / "Is this full Buddhist?" / "Is this even Buddhist?" / "Never go full Buddhist"\*):
+
+Content warning: Fuckin' random beautiful brutalist shit (in my opinion) written by some random person at some snapshot instant in time, about metaphysics, existentialism, (non-)eternalism, (non-)nihilism, cosmology, mortality
+
+There is no thing, nothing, that can perfectly, eternally last. Also, there are no gods; no god’s-eye-views; there is no heaven, no hell. 
+
+You’re probably going to die, sooner or later, and at uncertain time. This is even with the possibility of life extension, "health extension," though, at the time of this writing, everyone is, in some sense, dying of a terminal illness (aging). In any case, the sun’s going to go out, proteins are going to decay, and eventually everything’s going to get cold and/or entropically isotropic. Or the universe is going to big crunch, or whatever. That’s a long ways away, but in any case, we probably can’t escape the universe. It’s just this, nowhere to go. It’s just us.
+
+You probably can’t take anything with you, when you die, including memories, achievements, anything. It’s probably just nothingness. 
+
+Life generally involves a lot of uncontrollable and sometimes abruptly surprising suffering.
+
+Nevertheless, excepting suicide, violence, accident, health misfortune, aging, we just keep spontaneously happening, we just keep living, we prefer some things to other tings, we act: we seek wellbeing, satisfaction, intimacy, belonging, sex, procreation, interestingness, fun.
+
+So, we want things; we care; it matters. And, also, you can relax! No one gets out alive, in the end. Ah, but you can’t relax! There are still hard problems of living right now and of wanting to keep living. 
+
+We’re sort of all in our own nebulous virtual reality bubbles. We make it real because that’s all we know. It’s both real and it isn’t real, like the stakes are real, as far as they go, which makes some things ghastly, horrifying, macabre, hellish. And also it’s possible to see through all that, though in some senses it doesn’t change anything, and/but, at the same time it does--any or all of that can be heaven, at least in principle, with time.
+
+Nebulous virtual reality bubbles, or not, we ever reach across the gap, for each other, and arguably touch, alone and together…
+
+Life is sort of about living in the light of all that, letting everything settle around all of that. Meditation helps everything loosen up, so everything can sort of settle around all of that. Better not to start; if you start, better to finish. Lots of people reading this will have already started. None of this has to be taken as sort of a premise, and none of this is something to hold onto. If any of this is a thing, you’ll find your way there through practice, bottom up, nothing special to be done.
+
+It’s sometimes possible to love and be loved, and to be happy, in hell. And it’s sometimes possible to alight on wellbeing and beauty, for a time, together. Wellbeing and wisdom. Time, space, matter, energy, consciousness, computation, life itself. 
+
+Anyway, all of this might be partially or totally wrong! Don’t take my word for it!
+
+\*
+
+\*Re “Never go full Buddhist”: https://knowyourmeme.com/memes/full-retard \*\* [Last accessed 2021-05-21]
+
+\*\*This is not politically correct.
+
+[<a href="#18ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="19"></span> introduction; getting over the hump; text interpretation:
 
