@@ -607,7 +607,9 @@ Let go...
 
 # <span id="18a"></span> an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*):
 
-*Content warning: Fuckin' random beautiful brutalist shit (in my opinion) written by some random person at some snapshot instant in time, about metaphysics, existentialism, (non-)eternalism, (non-)nihilism, cosmology, mortality*
+*Content warning: Maybe don't read this if you're in an existential dread spiral. Or do. Not sure. It's incomplete, ragged edges. Anyway, this is fuckin' random beautiful brutalist shit (in my opinion) written by some random person at some snapshot instant in time, about metaphysics, existentialism, (non-)eternalism, (non-)nihilism, cosmology, mortality*
+
+See also: <a href="#163">eternity, suffering, death</a>
 
 \*
 
