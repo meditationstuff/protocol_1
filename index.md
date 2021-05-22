@@ -31,6 +31,13 @@ If meditating "full time" or "full time plus," ~10,000 hours takes something lik
 
 It’s ok to noncommitally play with (or use à la carte) the practices in this document, or to circle back to this document, on and off, or to use this document as an intermittent touchstone/umbrella/index, while exploring lots of other things. (In any case, there's many ways "up the mountain," and there's no obligation to climb the mountain, and sometimes it happens all by itself, or with the tiniest of nudges.) Just know that this still carries risks! There’s an apocryphal saying, "Better not to start; if you start, better to finish." If one is dabbling, experimenting, tinkering (and there’s nothing wrong with that), one has to be careful, as best they can, to not "start" if one doesn’t intend to start, or one isn’t yet ready to start. (Of course, some people have aleady "started," long ago, etc., etc.)
 
+\*
+
+Note:
+
+* (You can find more on "better not start; if you start, better to finish" <a href="#136a">in this linked section</a>).
+
+
 
 <span id="qq"></span> **Partial Guided Tour**
 
@@ -243,6 +250,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="134h" href="#134">meditating by coincidence</a>
 	* <a id="135h" href="#135">failure and other seemingly permanent and bad things</a>
 	* <a id="136h" href="#136">how bad does it have to get?</a>
+	* <a id="136ah" href="#136a">regarding "better not to start; if you start better to finish" (draft)</a>
 	* <a id="137h" href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>
 	* <a id="138h" href="#138">on falling asleep</a>
 	* <a id="139h" href="#139">a gentle onramp</a>
@@ -5636,6 +5644,42 @@ One way to resolve possible contradictions somehow involving badness being good 
 The deeper thing, here, is something like "goodness" and "badness" are words and a person’s concepts of goodness and badness will contextually, contingently, and idosyncratically apply to, and in the context of, complex phenomenology and knowing that will be a complex mixture of valenced and unvalenced experience. And those concepts and that phenomenology and the relationship between the two will change as life and meditation progresses.
 
 [<a href="#136h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="136a"></span> regarding "better not to start; if you start better to finish" (draft):
+
+[ht MO for pushing on this]
+
+The phrase: "better not to start; if you start better to finish"
+
+The phrase unpacked:
+
+Some people have the option to not start or to stop. "Starting" is something like entering a regime where "bad things" (in some loose sense) are more likely to (spontaneously) happen.
+
+If someone chooses to keep going or has no choice, it’s important that one prioritizes sort of acquiring the tools to "go all the way," or "to finish."
+
+"Finishing" is something like entering a regime where "bad things" (in some loose sense) are less likely to (spontaneously) happen. Things chill out, eventually, even though there can still be big swings very late in the game. Even so, things get safer, more stable, more predictable, in general, especially in the limit.
+
+The reason that it’s important to prioritize sort of acquiring the tools to "go all the way," or "to finish" is that, if something bad happens (speaking loosely and generally), then getting through that is more likely to be shorter and safer, if someone has previously made that prioritization.
+
+That is, sometimes it’s better to acquire tools and commitment to get through bad things before those bad things happen, because it’s harder to do that during the bad thing. And, that’s sort of the hedging implicit in the "better not to start" part of the phrase.
+
+"Better to finish" is sort of shorthand for "sort of make the commitment to keep going so as to frontload acquiring the ability to keep going, when things get hard, because then the hard things will be more likely to be shorter and safer."
+
+And then "better not to start" is sort of saying "that frontloading above is a lot of commitment, so if you don’t have to make that commitment, yet, consider retaining the option of not making that commitment as long as you can, as best you can, if you still have that option."
+
+\*
+
+Note: 
+
+"Bad things" is loosely pointing at real possible stuff, for some people, but "bad things," as such isn’t pointing at some real thing, *de re*.
+
+\*https://en.wikipedia.org/wiki/De_dicto_and_de_re [Last accessed: 2021-05-22]
+
+
+
+[<a href="#136ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="137"></span> extremity replay and creativity: panic, trauma, sexual arousal:
 
