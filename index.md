@@ -7564,6 +7564,8 @@ Importantly, "listening/talking" doesn't have quite the right connotations: So, 
 
 This borrows an analogy from software engineering, where (potentially malicious, externally supplied) data can be confused for safe, native code and then accidentally run as code (worst case without sandboxing or at least further downstream processing). If the data (strings) are escaped properly, nontrivially performed by the receiving software, then generally this can't happen. (Oh, another important distinction then is "sandboxing" versus "processing." Only the latter is really a viable strategy in the limit; it's ultimately more efficient and effective and safe,long-run.) To be clear, "information" is also "influence," in some sense, and that's good, cf. sensitivity/responsivity to self, others, and world! But these chosen terms are still pointing to an important distinction.
 
+If not already, or if temporarily not, all of this can be more costless, effortless, automatic, mostly background, safe, seamless, not other than just being human, just being a person-in-relation, over time.
+
 
 [<a href="#169ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
