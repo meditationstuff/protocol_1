@@ -280,7 +280,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="167h" href="#167">prenatal experiences</a>
 		* <a id="168h" href="#168">direct and indirect people and group stuff</a>
 		* <a id="169h" href="#169">on vibe(s) and vibing, briefly</a>
-		* <a id="169ah" href="169a">distinctions</a>
+		* <a id="169ah" href="#169a">distinctions</a>
 	* <a id="170h" href="#170">civilizational stuff</a>
 		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method</a>
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
