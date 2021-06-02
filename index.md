@@ -274,6 +274,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="156ah" href="#156a">some narrowly conceived phenomenological investigations that may or may not be useful</a>
 	* <a id="156bh" href="#156b">inappropriate reification (stub)</a>
 	* <a id="157h" href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
+	* <a id="157ah" href="#157a">open informal response on social media to someone in a contemporary practice scene</a>
 	* <a id="158h" href="#158">a note on "making progress," "regression," and redo-to-undo</a>
 	* <a id="158ah" href="#158a">sex, gender, etc. stuff</a>
 		* <a id="158bh" href="#158b">working with sex and gender (plus "tantra")</a>
@@ -6934,6 +6935,38 @@ Thanks for doing this conversation!
 you’re very welcome. thank you for your questions
 
 [<a href="#157h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="157a”></span> open informal response on social media to someone in a contemporary practice scene:
+
+[Some of the style and word choice in this are callbacks to earlier in the interaction.]
+
+> “not about to engage with disagreements from people who can’t demonstrate that they’re anywhere close to my peers”
+
+I didn’t have this ready-at-hand, yesterday, but I woke up with a bit more, a hopefully charitable and constructive critique, though still “twitter-superficial.”
+
+On the plus side, I think partly what’s going on, here, is “elitist gatekeeping,” and/but I do mean this in the most positive sense. To try to take your perspective, “there’s something precise and precious, here, too easily diluted by newcomers and clueless ‘teachers,’ who inject noise into a wider community of practice, making it harder to find the real thing and to teach the real thing. There are times when it makes sense to manage the ‘noise level’ proactively and aggressively.”
+
+And, trying to take the perspective of a strawman subset of the pragmatic dharma space (not your teachings, specifically):
+
+“There’s a concentration gold standard, an insight gold standard, a ‘done’ gold standard, a ‘morality/integration versus nonduality gold standard,’ and so on. And, if someone isn’t operating from something like this collection of ‘gold standard practices,’ ‘gold standard attainments,’ ‘gold standard distinctions,’ then chances are they are missing one or more of the most important things.”
+
+Ok, explicit perspective-taking over. (I’ll just use forceful language, now, to be expedient and concise. And, I’m going to refer to pretend “you guys.”) As far as I can tell, you guys are shit at working with sankhara/samskara/formations. To be fair, you sometimes organize things by Wilber’s “Four Ups” to be less shit about this [which is a huge and amazing achievement], and most systems don’t even have something like that.
+
+(Again I’ll be strawman and forceful.) But, again, you guys are shit with formations, and therefore your teachings around morality and integration are tragically incomplete and inadequate. As much as people are being *protected* by your adherence and promotion of your highest standards, people are also being *hurt* by your blindspots and methodological inadequacies around formations, conditioning, etc..
+
+Noting-/noticing-heavy, three-characteristics-focused methods treat formations incidentally and haphazardly, but there is a *highest rigor, precision, and relative finitude,* available, for what you sort of dismiss as “pimping samsara.” In fact, your methods, as elegant as they are, are full of errors and artifacts that often lead to integration sickness, unnecessary suffering, muscle tension, etc., even after “fourth path,” however defined with the highest standard. That’s weird and tragic, but fixable.
+
+In conclusion (short first pass, because twitter), I’ve tried to communicate above with a bit of a different style. Surely, I could have done so much better. And, of course you are busy and have responsibilities, and there’s no obligation to respond. But, I hope so much for something that feels less like rigidity, dogma, credentialism, triumphalism, around the edges. 
+
+*Come on,* bruh.
+
+Again, I get the priors, but less rigidity, credentialism, triumphalism, please. From a distance, I think you might be missing something vast and critical, from within your own standards.
+
+[<a href="#157ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="158"></span> a note on "making progress," "regression," and redo-to-undo:
 
