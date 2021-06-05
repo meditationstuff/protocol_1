@@ -9164,6 +9164,7 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * https://breakingsmart.substack.com/p/good-people-and-wicked-problems [Last accessed: 2021-05-20]
 * Siff, Jason. Unlearning meditation: What to do when the instructions get in the way. Shambhala Publications, 2010.
 * Siff, Jason. Thoughts are not the enemy: An innovative approach to meditation practice. Shambhala Publications, 2014. [Note: I haven't looked at this one, yet]
-
+* Willpower Doesn't Work: Discover the Hidden Keys to Success. Benjamin P. Hardy. 2018.
+* Stove, David. "What Is Wrong with Our Thoughts? A Neo-Positivist Credo." The Plato Cult and Other Philosophical Follies (1991): 179-205.
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
