@@ -290,6 +290,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="168h" href="#168">direct and indirect people and group stuff</a>
 		* <a id="169h" href="#169">on vibe(s) and vibing, briefly</a>
 		* <a id="169ah" href="#169a">distinctions</a>
+		* <a id="169bh" href="#169b">on parts, demons, egregores</a>
 	* <a id="170h" href="#170">civilizational stuff</a>
 		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method</a>
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
@@ -7650,6 +7651,20 @@ If not already, or if temporarily not, all of this can be more costless, effortl
 [<a href="#169ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+* <a id="169bh" href="#169b">on parts, demons, egregores</a>
+
+# <span id="169b"></span> on parts, demons, egregores:
+
+https://twitter.com/meditationstuff/status/1405870618751406081
+
+"If one does IFS and parts work correctly then one be becomes less part-ful over time—parts integrate[, merge], fuzz, and blur, slip through your fingers, less each time you come back. When truly fully heard they are you and you are them and that more integrated self simply feels and acts~"
+
+https://twitter.com/chaosprime/status/1150259062719811584
+
+"a demon (or tulpa) is a semi-autonomous cognitive process running on one compute substrate and a god (or egregore) is a semi-autonomous cognitive process distributed across multiple compute substrates"
+
+[<a href="#169bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="170"></span> civilizational stuff:
 
@@ -9166,5 +9181,7 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Siff, Jason. Thoughts are not the enemy: An innovative approach to meditation practice. Shambhala Publications, 2014. [Note: I haven't looked at this one, yet]
 * Willpower Doesn't Work: Discover the Hidden Keys to Success. Benjamin P. Hardy. 2018.
 * Stove, David. "What Is Wrong with Our Thoughts? A Neo-Positivist Credo." The Plato Cult and Other Philosophical Follies (1991): 179-205.
+
+
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
