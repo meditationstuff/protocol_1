@@ -182,6 +182,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="66h" href="#66">the end of your world: (after adyashanti, maybe?)</a>
 		* <a id="67h" href="#67">drama</a>
 		* <a id="68h" href="#68">error propagation, wayfinding, grace of what minds are</a>
+		* <a id="68ah" href="#68a">on good and bad [draft]</a>
 		* <a id="69h" href="#69">conclusion</a>
 * <a id="70h" href="#70">practice</a>
 	* <a id="71h" href="#71">nuts and bolts considerations</a>
@@ -2507,6 +2508,65 @@ Meditation is global wayfinding.
 Meditation is wayfinding.
 
 [<a href="#68h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="68a"></span> on good and bad [draft]:
+
+The words “good” and “bad” are used a lot throughout this document. In some sense, the entire document is built around these words--and, of course, not just the words, but what they might *mean*, loosely held.
+
+But what *do* they mean, in this context? And why words with such baggage, such laden connotations (sometimes religious, moral, parental, self-policing, etc.)?
+
+The words "good" and "bad" were chosen, because, even though their *connotations* are problematic, most all other words that were considered didn’t have quite the right *denotations*.
+
+A few words that were considered for “good”: valued, useful, wholesome, skillful, wise... You could probably come up with a few much better ones, but, for my part at least, none of them really captured the sense that I was looking for. I even considered using (nonce? neologism? slang?) words like “yay” and “bleh” in place of “good” and “bad.”
+
+But, ultimately, by “good” I just mean good. And by “bad” I just mean bad. By dropping the quotes in that previous sentence, I just did a particularly language-y thing, like I'm pointing to one specific there, *there*. Am I? Is there?
+
+So, yeah, by dropping the quotes, that’s not to essentialize or eternalize good and bad, to fix and crystalize their meanings, to point at something enduringly real or existing, to point to them as something outside of you, or something eternal and authoritative. But that’s not to say that they don’t mean *anything* either, that it’s all *meaningless* or nothing or nihilism, that there isn't *anything* there. No no, on the contrary, "goodness"/goodness in particular can be an incredibly powerful concept (not to inappropriately reify *concepts* as such, either--and it's less: "concepts"--and more: "the very transparently, seamlessly appearing being and seeming of the world, through and through, without remainder). And, regarding that "power," not the least of which because of the perhaps singular way it can keep pace with a person's untwisting and untangling. Wrestling with "goodness" ("true goodness," "actual goodness," "really real goodness"--not to inappropriately reify "true" and "actual" and "really real" is perhaps singularly productive. Maybe. Another way to put it, and this is problematic too, is "what do I actually really truly all the way down wholeheartedly, heartfelty want just because I want it? Kind of, sort of.
+
+What I’m pointing at, too, here, is something like,
+
+“nth-order consequentialism across all time horizons, immediate, imminent, proximal, distal, and everything between, before, during, and after” (not to inappropriately reify TIME, eternity, sempiternity, now, anything--this is just a schema, just words)
+
+That was a messy mouthful. Slightly shorter is "nth-order consequentialism across all time horizons." This is just my gloss, my handle.
+
+To say more, it's something like, just, given *this*, in front of me, what’s *going* to happen, "*exactly*" what's going to happen (holding that loosely, not clenching around that or fixating on "exactly," it's just words) and is *that* good or bad, all of it, the whole of it, local-in-the-context-of-global? (not to inappropriately reify "global")
+
+Again: just, relative to these different choices, or, loosely speaking, possible worlds, what's now/then *going* to happen, and is that outcome, or those outcomes, plural, or this/that unfolding future good? (not to inappropriately reify "future")
+
+Good and bad are sort of only meaningful relative to local choices and short- and long-run outcomes, and what-could-have-happened-otherwise's, sort of. 
+
+And, then, in light of all of that, "good" and "bad" is a *HARD* thing to judge, to discern, to evaluate, to predict, to intuit! You could tie yourself in knots, trying! Though, at the same time, we’re doing it all the time, reflectively and unreflectively, through and through. Arguably, it's a thing you're not doing at all, or is it, or isn't it?
+
+To make the point in a different way, there’s a daoist story, where seeming good and bad get reversed, over and over again:
+
+I don’t remember exactly how the story goes, but maybe a farmer loses his most valued horse (bad?), but then the horse comes back, followed by more horses (good?), and maybe the farmer’s son breaks his leg training one of the new horses (bad?), but then the son doesn’t have go fight in a horrific war being waged for questionable reasons (good?), and perhaps the son is still crushingly, devastatingly ashamed for not fighting (bad?), but it engenders in him a thoughtfulness and sensitivity that puts him on the road to wisdom, which is valued by his peers, community, and potential intimate partners (good?)... And then maybe more seeming good and bad follows from that? And so then were all the prior events good or bad? Or both? Or neither? Maybe the story goes something like that.
+
+Anyway, good and bad is sort of blurry, relative, conditional, dependent, interdependent, nebulous, provisional, uncertain. So, not eternal. But also not meaningless: good and bad might still be wholehearted and heartfelt, it’s ok to *care*, it’s ok for it to *matter*. But the use of these words isn’t intended to be moralizing and you aren’t being god’s-eye-view judged.
+
+So, yeah, good or bad? It's hard to know, to tell. I've said in other places, sometimes good doesn't feel (completely) good (or feel good at all) and sometimes bad doesn't feel (completely) bad (or feel bad at all), or what's going on is mixed, or uncertain, and so on. (In any case, with respect to "X doesn't necessarily feel X," you should still trust yourself, as best you can! This isn't meant to be undermining! One can only just do their best, as best they can! And it's enough!)
+
+But, again, you sort of have to judge, discern, evaluate (or you don't have to at all, truly, just let go, just surrender, too, over and over again). At first this might be a little too “head-y,” a little too intellectual, but it’s really meant to be intuitive, too, whole body, whole everything, felt, the global context of bodymindworldpastpresentfuture [sic]. That is, you sort of have to take into account what happened before, what’s going to happen after, what’s all going on now. The local sort of only makes sense in a global context. "Is/was 'this' good or bad or etc.," is not, generally, a (successfully) myopic question, though sometimes (often?), temporarily, you are just doing the best you can in a locally myopic and narrow vacuum, and that's ok. That's part of the process.
+
+Anyway, all that said, sometimes, it’s just sort of too much, at too fine a grain, sometimes too fast (or at least ever-changing, ever-shifting). Like, say you’re doing something, or something happened, or there aren't any "things" that you can currently pick out of anything, or things keep changing, and then, in all that, of all that... is/was that good or bad?? It's ok, especially and first, and any time, if you sort of feel like you're playing continual catch-up, like the river is flowing too fast or slipping through your fingers. It's ok, any time, to float, to just go with the flow. Things will become clearer and "temporally appropriate bottom-up action" will "rise to meet the right things at the right times", more and more over time.
+
+And, it’s ok, especially at first, and often, even late-stage, to just not know, over and over again, to be uncertain or to even have no idea whether “something” (perhaps blurry, fuzzy, shimmery, nebulous as it is) is “good” or “bad.” There can be pockets of "reconsidering," "not knowing," "unknowing," sometime really distinctly, sometimes brief and small, sometimes big and lasting for seconds, minutes, hours or days, in the beginning, middle, and lates stages of practice. When you find these pockets, that's gold--if safe, if it's the right time, if it's good to do... hang out with them, keep them company. You may find you're pressed up against them. And through all that...
+
+Part of it all, is eventually getting to the point of having a real sense of what to do (not to inapproriately reify "real" or "sense")--and this is through experimenting, learning, watching, waiting, again—letting go, letting things happen. It's a process. And, the knowledge (loosely speaking, not to inapproriately reify knowledge) that grows, the wisdom, the discernment is local and global, object and meta, specific and general, precise and heuristic, always provisional.
+
+Over time, bit of pieces of the (what's good and bad [to do, start, stop, maintain, facilitate, gently temporarily prevent, gently temporarily block] sensemaking, can explicated, verbally articulated, sometimes, sometimes even in abstract, general, architechtonic ways--rules, methods, theories, procedures, protocols.
+
+But the real thing-behind-the-thing is implicit, inexplicit, nebulous *procedural knowledge*, implicit *how* knowledge. Meditation is more like riding a bike (or driving a car or jogging) than writing an essay or giving a speech. (It's a very complex, multidimensional bike, to be sure, though ultimately simple on the far side of complexity.) In the end, deep down, you don't quite know how you're doing what you're doing, even as you gently ease towards mastery. Somehow, somehow, the experimenting, the trying, the noticing, the letting go, yes even the thinking!, the figuring!, becomes skill and confidence, over time. In that unknowing and provisionality is simultaneously an unshakeable faith (in the positive sense), an unshakeable trust, in grace, in something, perhaps.
+
+Anyway, especially, what "good" and "bad" mean or don't mean, to you, will and "should" evolve, over time, as you engage in the practices in this document. Sometimes they will semantically saturate, sometimes, you will realize your conception of something was too narrow, to head-y, not embodied, not em-world-ed, was leaving something out, was maybe not wholehearted and heartfelt and complete and something, as you thought (not that those words or anything have to resonate with you, personally). You  will find errors and misconceptions and mistakes, on your terms, and the meaning of good and bad will change. And sometimes, of course, you'll go by how things feel and not even be thinking about good and bad, as such, at all, even unreflectively.
+
+*
+
+P.S. As far as I can tell, the very immediate and local and situated "doing" of meditation does ultimately harmonize pretty well with explicit ethics, steelmanned golden rules, categorical imperatives, subjunctive and counterfactual coordinative simulations of other agents, timeless decision theories... even if the "joins" are sometimes implicit and nebulous. It's pretty cool. And, I don't even really see a contradiction between consequentialism and virtue ethics, either... And so on...
+
+[<a href="#68ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="69"></span> conclusion:
 
