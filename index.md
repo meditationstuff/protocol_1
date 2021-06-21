@@ -2561,7 +2561,9 @@ But the real thing-behind-the-thing is implicit, inexplicit, nebulous *procedura
 
 Anyway, especially, what "good" and "bad" mean or don't mean, to you, will and "should" evolve, over time, as you engage in the practices in this document. Sometimes they will semantically saturate, sometimes, you will realize your conception of something was too narrow, to head-y, not embodied, not em-world-ed, was leaving something out, was maybe not wholehearted and heartfelt and complete and something, as you thought (not that those words or anything have to resonate with you, personally). You  will find errors and misconceptions and mistakes, on your terms, and the meaning of good and bad will change. And sometimes, of course, you'll go by how things feel and not even be thinking about good and bad, as such, at all, even unreflectively.
 
-*
+In any case, then, good is sort of every-always "seemingly maybe "good," in the appropriate sense, as far/best as you can currently tell, provisionally, maybe, at least right now," and bad is sort of ever-always "seemingly maybe "bad," in the appropriate sense, as far/best as you can currently tell, provisionally, maybe, at least right now," and/or/also you can reject the ontology, such as: "there is no good and/or bad, there is (just) X [and Y]," where X [and Y] is what works for you.
+
+\*
 
 P.S. As far as I can tell, the very immediate and local and situated "doing" of meditation does ultimately harmonize pretty well with explicit ethics, steelmanned golden rules, categorical imperatives, subjunctive and counterfactual coordinative simulations of other agents, timeless decision theories... even if the "joins" are sometimes implicit and nebulous. It's pretty cool. And, I don't even really see a contradiction between consequentialism and virtue ethics, either... And so on...
 
