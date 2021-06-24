@@ -4556,6 +4556,8 @@ Notes:
 * [sensitization of liminality with respect to true absence/nothingness/?nibbana; cf. optionally "sweetness"]
 * stability, stable knowing
 * "expectation of stably winning"
+* eternal
+* impermanence/noneternal
 * effort
 * (effortlessness)
 * volition
