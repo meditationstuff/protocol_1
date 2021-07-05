@@ -292,6 +292,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="169h" href="#169">on vibe(s) and vibing, briefly</a>
 		* <a id="169ah" href="#169a">distinctions</a>
 		* <a id="169bh" href="#169b">on parts, demons, egregores</a>
+		* <a id="169ch" href="#169c">axes of individuation with relation to value judgments (transcript)</a>
 	* <a id="170h" href="#170">civilizational stuff</a>
 		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method</a>
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
@@ -7721,8 +7722,6 @@ If not already, or if temporarily not, all of this can be more costless, effortl
 [<a href="#169ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-* <a id="169bh" href="#169b">on parts, demons, egregores</a>
-
 # <span id="169b"></span> on parts, demons, egregores:
 
 https://twitter.com/meditationstuff/status/1405870618751406081
@@ -7733,7 +7732,89 @@ https://twitter.com/chaosprime/status/1150259062719811584
 
 "a demon (or tulpa) is a semi-autonomous cognitive process running on one compute substrate and a god (or egregore) is a semi-autonomous cognitive process distributed across multiple compute substrates"
 
+
+Addendum on parts: There's also the issue where "parts work" can be too "heavyweight," too "over-reifying," "karma generating, on net," depending on how it's done. A method, to be fully generally, needs to sort of be able to eat itself, at the finest grain, without remainder. And, arguably, parts work can't do that, depending on how it's defined. But, many people find it an extremely valuable entry point, at the very least, and it's also very powerful in a dyad, with a skilled facilitator. As per above, the details matter, how a part is conceived or experienced, how loosely the idea of a part is held, and how it appears, feels, experiences, and a many other things. Part language is used in the auxiliary/preliminary practices, after all. Things like IFS are very smart, if high-level abstract, about constraint/constraining/structural factors, like very few other things are. Anyway, as mentioned in a previous section, "partness" is on a spectrum from shimmery, pattern-y, liminal to more discrete and agentic (again, loosely held, and a one-dimensional spectrum is very over-simplifying, of course).
+
+
 [<a href="#169bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="169c"></span> axes of individuation with relation to value judgments (transcript):
+
+[automated transcript with "uh, ", "um, ", "you know, " and "like" removed]
+
+Okay. So I want to talk about sort of two, two axes of kind of individuation versus blending. And I think that these two axes sort of get connected. but they can be distinguished. And I think that that can be very, profitable because there's some stuff that is sort of,  emotionally charged around these sorts of things.
+
+so the first axis is sort of cultural slash ideological. and there's this idea that, different cultures are sort of. the, the individuals in those cultures are sort of more or less, ,  blended or sinked. actually there might be three dimensions and I think I can break out all three without messing up the flow of this video too much.
+
+but first, so some concrete examples, at least from  ethno, methodological descriptions, I don't know how accurate these are, or how sort of colonialist imperialist colored they are. But there's descriptions of, let's say ,  young men, while they're hunting or something, I've read descriptions of, how,  the group of men.
+
+Almost  moving together as  a single organism or a single entity, where, without, without , verbal coordination. and maybe, and without maybe even necessarily necessarily  looking at each other, one person is  gently pulling back the branches while the other person  draws the bow.
+
+And they're  walking and being still at the same time. And then  somehow imperceptibly,  pointing out various speeches of the landscape to each other. and, and there's some  palpable sense apparently about how. There's sort of almost, almost  a romanticizing this a bit and maybe blending different accounts, but almost  a perpetual trance state or something, where, the, the, the boundaries between different individuals is , in some sense, ,  muted or something  that.
+
+and so, people are quick to point out things , perhaps,  Western, or, or modern kind of individualism or individuation. Uh isn't isn't  a foregone conclusion and isn't necessarily , the best way for people to be. we, sociologically, we talk about, , uh atomism or an atomized society, which is, arguably facilitated by, by, by money and, capitalism and et cetera, speaking loosely.
+
+so ,  this, this spectrum between kind of blended versus individuated, people sometimes feel  emotionally charged about that. and. And so , I sort of want to take this and bracket it and kind of set it aside as, this is  a spectrcan be modeled as a spectrum. And, when I don't want to put  a value judgment on it, sort of at this time, and then we'll talk about the other dimensions and then sort of talk about kind of how these can be  related to each other.
+
+and so another, another dimension, and this is the new dimension that I'm adding for clarity. is something , how do the individuals actually think or feel about this from the inside?  we can sort of observe  the behaviors and note,  the synchrony or blendedness or, we're sort of looking for,  differentiation and kind of  tasks and stuff.
+
+where  there may be doing different things, but all kind of working together.  we can look at that from the house. and note it sort of seamlessness or unity. but, it could imagine on the inside people thinking and feeling about that and  very different ways, , you can, you can be working as a team, but they still feel  an individual where you can be working as a team and sort of feel  your identity is  blended with it.
+
+and you can have different, beliefs about what's happening. You can believe that you're  an individual person or you can , believe that, you're  an,  an appendage of  a group mind, or you can believe that, there's a single consciousness, looking out from  everyone's eyes and that sort of behind everyone's eyes,  it's the same, primal consciousness or something  that.
+
+Yeah. And again, , this is very, ideological or religious or, just very emotionally Laden.  people, people feel very strongly about, about, sometimes  how other people, think or feel or believe about believe these things. And also , how people feel about, other people's judgements about people with bleeding or not bleeding or feeling these different.
+
+so it's just sort of very intense,  what's kind of what is kind of going on inside of people. because for some people, some of these positions are  very, profound and meaningful and et cetera. okay. And so again, not yet placing  value judgements or whatever, put that kind of spectrum aside, or though that kind of access of distinction.
+
+okay. And so there's another dimension. This is the final one of the three. and this is something , kind of what the body and mind brain system is kind of doing at the bare metal, in terms of  the pre reflective low level of sensory processing. self and other of  incoming, incoming sensory phenomenon, phenomena, and that kind of thing.
+
+so, the, the spectrum here I will claim is something about, how well, and I'll, I'll do a value I'm sort of a value judgment here, or at least  an objective, scaler, fake measure here of , how well,  any individual kind of brain mind system is, identifying the origin of where  various signals are coming from.
+
+So, I think it's pretty uncontroversial in, in neuroscience. I forget  the technical terms and stuff, but, it's, it's a very big deal to the brain, whether, whether  the person's body initiated the action or , whether something  outside the person and pretend this is another person  initiated the action, or whether, whether a sound was because the person made the sound or whether the sound was because,  a tweak snapped, 30 feet away in the forest.
+
+Or whether a person is touching themselves,  this gets sort of factored out and ignored usually. or it's , an aunt or  a poisonous insect or a snake is  crawling on the person. So there's a huge, huge difference to the brain. whether the person generated a sensation, or, something that was not the volitional will of the person who generated the sensation, And this goes  all the way back to, did, did  the twigs snap, ,  milliseconds before after the person put their foot down.
+
+and this goes into  why people sort of can't tickle themselves and , just  a whole slew of  really low level sensory processing stuff. and so, I have. Where, loosely speaking, analogously kind of, the brain is  1% hardware and 99% software. So I'll make the claim that, not only do people greatly vary kind of in, how they're making sense of how well they're making sense of , whether incoming stimuli or sort of self for other, or self or invited.
+
+but, through training meditation, et cetera, over long periods of time, thousands and thousands of hours of , sort of really sort of, skillful meditation or whatever people can become, , massively, massively better at  an incredibly deep, pretty effective way of sort of determining ,  signals and stuff.
+
+So let's see. Okay. Lost train of thought. Hang on a second. so the, the malleability is important. The fact that people vary it, this is important. there was one other piece that was important here. Okay. Well, well, I can, I think this might've been at, when we say that someone. Someone feels  their  identity is kind of shaky or  they have a weak identity, or,  a person that's  bad boundaries or something, or , or they wish they wish they had better boundaries.
+
+I will, I will claim that, with any individual exception, this tends to be correlated. with, confusions at  a very low level,  of sensory processing, when a person has  a strong sense of identity, or  they have very good boundaries. I will claim with any individual being the exception, that this tends to be correlated with  really decent kind of self other signal processing, at  a very, very low  sensory level.
+
+And, and again, , , this, this is  very  physical, very fundamental.  the system is  relying on, transmission times  between, different path lengths of ,  neural activity in the brand's incredibly low level. But, even so it's  extremely, extremely malleable.
+
+yeah, so I just, just wanna, I just want to make that point. okay. So, so now, all  these three axes can, are, are interrelated, but they can vary somewhat independently. so , a person can feel  they're sort of, blended with the group. and, but have  really good, low level sensory processing,  really good boundaries in some sense, a really good sense of identity in some sense.
+
+yet at the same time, , feel  there's some kind of supermind, a person can, have, , so-so , the,  the question of , what's good for a person, can be somewhat separable for. In some objective sense,  how well is their body, mind, brain,  sorting and processing,  various signals from other people from the environment and that sort of thing.
+
+so, yeah, so, so, so the point here is something , people, people sometimes get  sort of emotional or upset when, well, w w when, when I, when I  talk about it, how,  there's this  positive access of individuation that can be trained. but, I'm not sort of commenting on , kind of what's good for a person or something  that.
+
+because I think  that, that those different axes  that spectrum can, can be sort of good or bad and can also be chosen, and  sort of training along, along  the third act. can actually help a person be more choiceful about how they want to experience  the other axes basically.
+
+I think that sort of training on the third axis, will influence  a person's  preferences and behaviors and beliefs about how they feel about the other two axes. but, but I don't, I, I don't necessarily sort of personally  place judgment on, on  the first two axes.
+
+so let's see if there's anything else I want to say here. Um,
+
+yeah, I guess, I guess just something ,  training on the third axis, Yeah. I mean, I mean, it will have a strong influence on the previous two axes and okay. And also, sometimes  the first two axes can sort of be exploited. So , cults or whatever, or the course of situations, can rely on, self other confusion.
+
+sort of through charismatic, , or, or kind of whatever, self other confusions in a person can be exploited to create experiences of blending, to create experiences of this individuation, to, to sort of  reach for, to manufacture evidence of particular, metaphysical position.
+
+Or of particular sort of, pluses and minuses or various , blended or not more atomized states or whatever. So  a person who trains on the third axis will be able to be more resilient and choiceful and, and will be less exploitable, on sort of  problematic usage. or problematic intimations on the first two axes.
+
+So I think that's  a really important, that, that is a really important point to make. let's see if there's anything else.
+
+Yeah. Okay. There's probably  other stuff around the edges, but, yeah, so resilience, choice. , training on the third axis can sort of reveal insightful things about the other two. and people probably find  ways in which, the romanticized  pastor romanticize indigenous experience, has some really, really good stuff and also bad.
+
+And how the west, the stereotype , Western or modern,  atomized individuated experience, has some , really, really bad and really, really good aspects to it. and so, a person who, I'm repeating myself a lot of trans and third access, . sort of be able to find ,  a middle way, the best of all worlds,  on sort of the other two axes, basically.
+
+okay. So, so, and this, so  I've, I've kind of made  a value judgment,  I'm, advocating for training on the third access. and I, and I personally have positions about the other two axes. Again, these are huge simplification. but, but yeah, but a person having trained on the third axis, it will be able to  arrive at their own conclusions about kind of the other two axes and, be able to choice for the, it's, move through and explore and learn about the other, the other ones.
+
+and, and that can lead to more perspective on  the whole thing. okay. Yeah. All right.
+
+[<a href="#169ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 
 # <span id="170"></span> civilizational stuff:
