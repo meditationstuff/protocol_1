@@ -49,6 +49,8 @@ name="viewport" content="width=device-width, initial-scale=1">
 
 <hr>
 
+<em>Note: This website is a single, very long page, and it can take a few seconds to load. If you arrived via a URL that has an anchor link on the end, like /#132c, then make sure you wait and/or refresh, to make sure that you get jumped to the beginning of the intended section of the document. </em>
+
 <em><a href="https://github.com/meditationstuff/protocol_1/commits/master">Note: Click here to see what's recently changed!</a></em>
 
 <em>Note: This whole book is a single, static webpage, with no external resources, which you're reading right now. Save a local copy with a single command&#8209;/ctrl&#8209;s!</em>
