@@ -5967,7 +5967,7 @@ Once essentially ALL relevance is gathered, with respect to some nebulous someth
 
 Regathering, untwisting, etc., nonmonotonically releases/relaxes muscle tension. Sometimes completed or near-completed gathering-into-relevance is accompanied by immersive flashbacks and/or insight.
 
-The above is somewhat simplified, and doesn’t go into “safe to look then look,” contextual equanimity, “inner space,” or lack thereof, and more.
+The above is somewhat simplified, and doesn’t go into “safe to look then look,” contextual equanimity, “inner space,” or lack thereof, "motor output contention," "immediate/mediate/long-range contradiction," and more.
 
 
 [<a href="#147h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
