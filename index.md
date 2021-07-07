@@ -262,7 +262,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="144h" href="#144">invitation of acceptance</a>
 	* <a id="145h" href="#145">nutrition</a>
 	* <a id="146h" href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
-	* <a id="147h" href="#147">muscle tension scratch</a>
+	* <a id="147h" href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
 	* <a id="148h" href="#148">last gasps</a>
 	* <a id="149h" href="#149">being (not) ok tangles</a>
 	* <a id="150h" href="#150">brief note on space and sensations</a>
@@ -5941,11 +5941,38 @@ In no particular order: deaths of parents, significant others, children, other f
 
 [<a href="#146h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="147"></span> muscle tension scratch:
+# <span id="147"></span> a brief and incomplete theory of muscle tension risk in meditation:
 
-This is a placeholder for a relatively comprehensive and relatively unified treatment of the possibility of muscle tension in meditative practice. For now, search for "muscle tension" in the document (without the quotes).
+Untrained operation of the mind is relatively more Spreading, than Gathering, of Relevance.
+
+(Trained operation of the mind is relatively more Gathering, than Spreading, or, perhaps, rather, there’s a nuanced, sensitive, responsive, situated, contextual balance.)
+
+Relevance is original sensory impressions.
+
+Spreading is sort of, loosely speaking, following implications to reach conclusions, increasing transitive closure.
+
+Gathering is sort of, loosely speaking, regathering spreading, reevaluating relevance, and refactoring (relative or deep) premises and presuppositions.
+
+One property of a mind is unresponsive (occluded, inaccessible, layered) Momentum, with respect to spreading.
+
+Sometimes relevance-to-be-gathered is arranged relatively nearby. Sometimes relevance-to-be-gathered has Outliers, that is far away, long-range relevance. This can be things like, say, an early childhood experience, or, say, a traumatic experience from any time in one’s life, that was somehow unique or isolated, and, so far, seemingly irrelevant to most things.
+
+Momentum, in long-range interaction with not-yet-gathered outlier relevance, causes tangling, twisting, or even iterative wrapping. (It's almost like one's current "location," at one "pole," and the long-range relevance, at another "pole," creates a bar, an axis, a line segment, through the system. And then, unfortunately/unluckily, things can twist and wrap along/around that axis.)
+
+Eventually, momentum is bled off, integrated, metabolized, harmonized. And, eventually, long-range relevance is finally gathered.
+
+Once essentially ALL relevance is gathered, with respect to some nebulous something, the system can, (loosely, relatively speaking) somewhat sharply, re-conceptualize, re-preference, re-plan, re-expect--that is complexly (perhaps) lock-and-key Pivot to new, niche-fit intentionality around that relevance, and sort of now re-spread, anew, from that relevance. (Premature pivoting attempts, perhaps via momentum, are sources of twisting.)
+
+(Twisting, tangling, wrapping eventually accumulates into noticeable muscle tension.)
+
+Regathering, untwisting, etc., nonmonotonically releases/relaxes muscle tension. Sometimes completed or near-completed gathering-into-relevance is accompanied by immersive flashbacks and/or insight.
+
+The above is somewhat simplified, and doesn’t go into “safe to look then look,” contextual equanimity, “inner space,” or lack thereof, and more.
+
 
 [<a href="#147h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="148"></span> last gasps:
 
@@ -5956,6 +5983,15 @@ But there’s another thing that’s more problematic: If a person was crushing 
 Behavior, belief or the very seeming of the world, and its attendant justification, will become live again, seem like the right thing to think/see/do.
 
 And then they’ll/you’ll be in old destructive patterns, transiently, as bad or even worse than when those initial patterns were getting laid down. And then it’s maybe doubly regretful because this "last gasp" can go by fast. It can be embarrassing, especially if one is a self-styled advanced meditator. And if only you’d gotten to that old stuff, metabolized it, before being triggered. One just has to be as careful and meta-careful and meta-meta-careful and responsible with and around other people as one can be, and to make amends and reparations, if warranted, in a way that actually delivers, that takes into account all this. Not your fault, yet no excuse, all at once; it’ll be ok, but you can’t morally rely on that, etc.
+
+Last gasps can be discouraging ("I thought I had made progress on this, but it seems like I've made no progress on this! It's been ready to blow all along!"). But, actually, you have been making progress all along: The mind can be very digital and all-or-nothing, sometimes. That is, "15%" progress can still be "100% problematic reaction." "85% progress" can still be "100% problematic reaction." "99% progress" can still be "100% problematic reaction."
+
+And, but, finally, "100% progress" yields, sort of suddenly, almost digitally, "0% problematic reaction."
+
+Sometimes "99% progress" can mean, unfortunately, "120% [sic] problematic reaction," because all "compensatory layering" or "counteractive layering" has been removed, in preparation for integration, metabolization, harmonization (i.e. the drop to 0% problematic reaction). Thus, "last gasp," "worse than ever."
+
+But if one realizes that this can be a thing, one can be more careful about the possibility of last gasps (though usually one shouldn't avoid triggering contexts entirely/completely--they help with processing), and one can be less discouraged (or not discouraged) if a last gasp still unfortunately occurs, in a problematic way.
+
 
 [<a href="#148h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
