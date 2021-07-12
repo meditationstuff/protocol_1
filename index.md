@@ -5612,7 +5612,7 @@ Some traditions, as almost the whole of their entire instructions, say something
 
 And, that's it, that's the instruction. There's ways in which this sort of cuts to the heart of everything. The connection between this and main practice p2 is something loosely like:
 
-effort ~= will + do
+effort ~= will + do  
 effortlessness ~= surrender + undo
 
 And, indeed, long-term practice of p2 looks like more and more of the latter and less of the former.
