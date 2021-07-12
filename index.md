@@ -247,6 +247,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="130h" href="#130">(mental) action and the attentional manifold</a>
 	* <a id="131h" href="#131">the use of the will</a>
 	* <a id="132h" href="#132">a note on force (plus a brief mention of "redo-to-undo")</a>
+	* <a id="132ah" href="#132a">a brief note on effort</a>
 	* <a id="133h" href="#133">more on "undo"</a>
 	* <a id="134h" href="#134">meditating by coincidence</a>
 	* <a id="135h" href="#135">failure and other seemingly permanent and bad things</a>
@@ -5602,6 +5603,31 @@ So this is nuancing on top of the general but not universal principle of avoidin
 Note on needle-threading or threading the needle: One can use needle-threading as sort of a neutral term, and there can be good versions and bad versions. Neutrally, the term is intended to invoke a sense of "‘correctly’ navigating a narrow path forward." Good versions might be careful, gentle, precise that lead to ultimately stably expanded optionality. Bad versions are sort of "carefully, precisely making a globally-net-negative tradeoff, making seeming local progress but also ultimately making more work than if had done something different." This latter version might sometimes feel like "doing something that’s alongside or causing joint-grinding muscle tension, somewhere." Use of the meta protocol can help to determine whether a good version or bad version is happening or if it might be better to be doing something else entirely. [The opposite of needle-threading might be "breadth-first-ing" [cf. depth-first-ing, too]. Both/all can be good, for various reasons, at different times.]
 
 [<a href="#132h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="132a"></span>a brief note on effort:
+
+Some traditions, as almost the whole of their entire instructions, say something like "incline towards non-effort, effortlessness, even including this inclining."
+
+And, that's it, that's the instruction. There's ways in which this sort of cuts to the heart of everything. The connection between this and main practice p2 is something loosely like:
+
+effort ~= will + do
+effortlessness ~= surrender + undo
+
+And, indeed, long-term practice of p2 looks like more and more of the latter and less of the former.
+
+So can you just tell someone "incline towards non-effort [...]" and leave it at that? Instead of, say, handing someone a huge document, like the one that this section is a part of? Sometimes!
+
+It's not quite that simple, in that simple instructions usually come with a community and teacher. And, simple instructions can sometimes get lost in the whirlwind, or it's hard to remember to use them, or it's hard to maintain legitimate credence in their usefulness. And it can get experientially/intellectually tangly--it can be hard to align the simplicity of such instructions with frothy, reactive experience, that "actively responds" to one's interpretation of instructions. Hence, this entire document, as one possible practice framework.
+
+Effort as such isn't much seen elsewhere in this document, though it's there in some places, so it seemed like a good idea to include an explicit topical section on it. Some people will find effort to be a clean and elegant experiential concept, and may put it to use at some time or another.
+
+One last connection to other parts of the document: "Force" might perhaps be "effort + effort" or "effort on top of effort" or "effortful effort."
+
+[<a href="#132ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="133"></span> more on "undo":
 
