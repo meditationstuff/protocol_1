@@ -278,6 +278,10 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="157h" href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
 	* <a id="157ah" href="#157a">open informal response on social media to someone in a contemporary practice scene</a>
 	* <a id="158h" href="#158">a note on "making progress," "regression," and redo-to-undo</a>
+	* <a id="158aah" href="#158aa">suffering placeholder</a>
+	* <a id="158bah" href="#158ba">inner peace placeholder</a>
+	* <a id="158cah" href="#158ca">love placeholder</a>
+	* <a id="158dah" href="#158da">wellbeing placeholder</a>
 	* <a id="158ah" href="#158a">sex, gender, etc. stuff</a>
 		* <a id="158bh" href="#158b">working with sex and gender (plus "tantra")</a>
 	* <a id="159h" href="#159">stuff stuff 1</a>
@@ -320,7 +324,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 * <a id="193h" href="#193">bibliography (incomplete)</a>
 * <a id="194h" href="#194">appendix 1: preliminary/auxiliary practices (names only)</a>
 * <a id="195h" href="#195">appendix 2: preliminary/auxiliary practices (full)</a>
-* <a id="196h" href="#196">appendix 3: main practice p1 appendix (usa english; "en-us"</a>
+* <a id="196h" href="#196">appendix 3: main practice p1 appendix (usa english; "en-us")</a>
 
 
 # <span id="12"></span> preliminary and introductory things:
@@ -7111,6 +7115,44 @@ So, in any case, one shouldn't infer progress by what's happening in any particu
 One sort of, as best they can, has to take into account the whole global history and context, in terms of global wayfinding, to get better and better at how to relate to and participate in any particular thing that's happening at any particular time, including being ok with being swept away, when that's the right thing to be doing, or anything in between, or nuanced variations of any of this, and so on.
 
 [<a href="#158h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="158aa"></span> suffering placeholder:
+
+This section is currently a placeholder/stub.
+
+
+[<a href="#158aah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158ba"></span> inner peace placeholder:
+
+This section is currently a placeholder/stub.
+
+
+[<a href="#158bah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="158ca"></span> love placeholder:
+
+This section is currently a placeholder/stub.
+
+
+[<a href="#158cah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="158da"></span> wellbeing placeholder:
+
+This section is currently a placeholder/stub.
+
+
+[<a href="#158dah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
 
 # <span id="158a"></span> sex, gender, etc. stuff:
 
