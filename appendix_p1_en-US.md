@@ -835,6 +835,44 @@ n/a
 		- noo
 		- kk
 		- okok
+		- [from (h)]
+			- woah (as distinct from whoa)
+			- wow
+			- wowww
+			- ha
+			- hah
+			- aha
+			- k
+			- o
+			- oo
+			- oOOoOOOoo
+			- yeah
+			- yea
+			- yep
+			- oho
+			- ?
+			- ??
+			- ??????
+			- !
+			- !!
+			- !!!!!!!!!
+			- ..
+			- ...
+			- ............
+			- ++
+			- +++
+			- oy
+		- [from (b)]
+			- oof
+			- yikes
+			- eep
+			- ugh
+			- yeesh
+			- <gasps/inhalations/sss/clicks/tuts>
+		- [from (mo)]
+			- fff
+			- pfft
+			- psh
 - bibliography (partial)
 	- https://en.wikipedia.org/wiki/Skandha
 	- https://en.wikipedia.org/wiki/List_of_English_copulae
