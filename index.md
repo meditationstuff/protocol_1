@@ -278,7 +278,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="157h" href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
 	* <a id="157ah" href="#157a">open informal response on social media to someone in a contemporary practice scene</a>
 	* <a id="158h" href="#158">a note on "making progress," "regression," and redo-to-undo</a>
-	* <a id="158aah" href="#158aa">suffering placeholder</a>
+	* <a id="158aah" href="#158aa">on suffering</a>
 	* <a id="158bah" href="#158ba">inner peace placeholder</a>
 	* <a id="158cah" href="#158ca">love placeholder</a>
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
@@ -7118,9 +7118,23 @@ One sort of, as best they can, has to take into account the whole global history
 
 
 
-# <span id="158aa"></span> suffering placeholder:
+# <span id="158aa"></span> on suffering:
 
-This section is currently a placeholder/stub.
+I’m not finished with this yet, but, as far as I can tell, so far, suffering is, always, 100% of the time, all of it, a malleable contingency. We have specialized pain circuitry. But pain and suffering are different, etc., etc.. And, as far as I can tell, we have a initial propensity to suffer, but suffering is not hardwired, at all.
+
+That is, at some point, in the very first few moments of conscious, the bodymind system somehow makes the choice to suffer, because that’s the best option available, to keep things going.
+
+We could call the result of each choice a (reversible) commitment.
+
+And those (reversible) commitments to suffer, thousands, or hundreds of thousands, or millions of little commitments to suffer, get “locked in,” layered in, by millions of not-necessarily-sufferint commitments, on top of that. This is just all the rest of the karma of life, and/or the technical debt of life, non-meaning-laden, meaning-laden, and so on. Commits to suffer beget commitments to suffer, and so on. Maybe it reaches and equilibrium or continues to accumulate. Sometimes these commitments are latent, and sometimes they’re triggered, activated, by internal undoings/rewinds, or internal or external events.
+
+So, in any moment, if there’s suffering, that suffering is the result of hundreds of thousands, or even millions of pre-reflective commitments, by the time we’re finally conscious of that suffering. So, certainly there might be stopgap, self-care preemptive or management or mitigation strategies. But, if the suffering is happening, then there’s a sense in which it was inevitable. (I say this not to demotivate self-care but motivate self-compassion.)
+
+Part of meditation is finding one’s way back to those first several million commitments to suffer. And that requires millions upon millions upon millions of undoings or structure-preserving-transformations, to solve, dissolve, and “move things out of the way,” to continue to live one’s life, while finding one’s way back to all that original suffering.
+
+And when one gets there, one has the optionality, maturity, reflectiveness to choose something different. And it’s not wireheading, or ignoring life, or running away from life, or lobotimizing oneself. Because, the bodymind will only give up a particular commitment to suffer, if the mind has truly found something better to do instead, something as or more safe, as or more a sure thing, as or more effective, as or more vigilant, self-protective, proactive, self-caring, self-motivated, vital, alive, and so on. So when one gives up a little bit of suffering, one can be sure it’s really, truly safe to give up that particular little bit of suffering. And eventually it starts happening a lot. And perhaps it’s possible to find all of it, even accounting for the possibility of extremely dire health events, heart attacks, stabbings, whatever, and personal and intimate misfortune. Perhaps there is just courage, love, compassion, empathy, self-care, other-care, and so on. But no suffering. And if there hasn’t been suffering for awhile, but more is uncovered, there is no suffering in response to that suffering, and soon that suffering is no longer there, either. And so on.
+
+(Importantly, someone might be moved to express anguish, pain, sympathy, something, from the very bottom of their soul. They might cry, they might display and experience(!) strong, contextually appropriate and ego-syntonic emotion, the felt right emotion for self or occasion. Not a zombie. Sensuous, feeling, alive, self-aware. But that’s not the same as suffering. Is anguish without suffering still anguish? Eh, details/words. Probably straightforward to work out when one gets there.)
 
 
 [<a href="#158aah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
