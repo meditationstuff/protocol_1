@@ -9430,7 +9430,14 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Siff, Jason. Thoughts are not the enemy: An innovative approach to meditation practice. Shambhala Publications, 2014. [Note: I haven't looked at this one, yet]
 * Willpower Doesn't Work: Discover the Hidden Keys to Success. Benjamin P. Hardy. 2018.
 * Stove, David. "What Is Wrong with Our Thoughts? A Neo-Positivist Credo." The Plato Cult and Other Philosophical Follies (1991): 179-205.
-
+* Smith, Brian Cantwell. "God, Approximately”  Science and the spiritual quest: new essays by leading scientists. Psychology Press, 2002.
+* Kegan, Robert. The evolving self. Harvard University Press, 1982. page 18-19
+* Dreyfus, Hubert L., and L. Hubert. Being-in-the-world: A commentary on Heidegger's Being and Time, Division I. Mit Press, 1991.
+* Ciaunica, Anna, et al. "The first prior: From co-embodiment to co-homeostasis in early life." Consciousness and Cognition 91 (2021): 103117.
+* Shinzen Young. The Icky-Sticky Creepy-Crawly It-Doesn'tReally-Hurt-But-I-Can't-Stand-It Feeling. [ https://www.shinzen.org/wp-content/uploads/2016/12/art_ickysticky.pdf Last accessed: 2021-07-17]
+* Marletto, Chiara. The Science of Can and Can’t: A Physicist’s Journey through the Land of Counterfactuals. Viking. 2021. 
+* Lane, Richard D., et al. "Memory reconsolidation, emotional arousal, and the process of change in psychotherapy: New insights from brain science." Behavioral and brain sciences 38 (2015).
+* Chapman, Alan. Magia. Barbarous Words. 2021
 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
