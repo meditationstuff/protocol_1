@@ -1533,6 +1533,8 @@ Countless numbers of these tubes all happening, all at once, is you.
 
 Sensory information goes in one end of a tube (sensation) and immune system, hormonal, glandular, smooth muscle, and skeletal muscle activity goes out the other end of a tube (actuation).
 
+(Sensory information flowing through the tubes spontaneously sculpts the tubes, spontaneously sculpts what’s happening in the tubes, spontaneously sculpts the length of the tubes, and spontaneously sculpts how the tubes are connected to other tubes. (There’s a way/sense in which the tubes, and interconnections, *are* all the sensory information that’s ever flowed through them.)
+
 Tubes can be short and long.
 
 A short tube goes from input to output, sensation to actuation, in a small number of milliseconds.
