@@ -7172,7 +7172,7 @@ This section is currently a placeholder/stub.
 
 # <span id="158ea"></span> on meaning, goodness, badness, aboutness, intentionality, secondary properties:
 
-[This is a hasty sketch to index/get down something in this space, because eventually, finally, maybe after a long time, this sort of thing starts to *really* sort itself out, perhaps partly like the below.]
+[This is a hasty sketch to index/get down something in this space, because eventually, finally, maybe after a long time, this sort of thing starts to *really* sort itself out, perhaps partly like the below. In other words, meditation is eventually decisively revelatory about the sorts of things, below.]
 
 Non-meaning-laden experience (which is still accompanied by knowing) is prior and constitutive of meaning-laden-experience. Meaning lives in between self and other/world. Meaning is entanglement between self and other/world. (Goodness and badness live between, as well.)
 
