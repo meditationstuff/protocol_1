@@ -282,6 +282,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158bah" href="#158ba">inner peace placeholder</a>
 	* <a id="158cah" href="#158ca">love placeholder</a>
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
+	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158ah" href="#158a">sex, gender, etc. stuff</a>
 		* <a id="158bh" href="#158b">working with sex and gender (plus "tantra")</a>
 	* <a id="159h" href="#159">stuff stuff 1</a>
@@ -7165,6 +7166,45 @@ This section is currently a placeholder/stub.
 
 [<a href="#158dah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+
+# <span id="158ea"></span> on meaning, goodness, badness, aboutness, intentionality, secondary properties:
+
+[This is a hasty sketch to index/get down something in this space, because eventually, finally, maybe after a long time, this sort of thing starts to *really* sort itself out, perhaps partly like the below.]
+
+Non-meaning-laden experience (which is still accompanied by knowing) is prior and constitutive of meaning-laden-experience. Meaning lives in between self and other/world. Meaning is entanglement between self and other/world. (Goodness and badness live between, as well.)
+
+Preconceptual, luminous/vivid knowing “just is”; there’s a sense in which it’s utterly stark and clear and self-revealing. And/but retrospective apprehensive of this type of knowing is inherently ontologically nebulous, arguably in a slightly different way than the knowing of meaning-laden-experience is inherently nebulous. Ontological nebulosity “lives in” meaning which “lives in” the spaceless space, the relationship, the interaction between self and other/world. [Aboutness/intentionality...]
+
+The ways the world is afforded to us, the way the world shows up to us, our ability to speak about the world, our spontaneous actions and intentions, and our reflective actions and intentions, are all downstream and ultimately constituted/provisioned (out) of our entire sensory/experiential history.
+
+Our sensory/experiential history determines/constrains language, speech acts, the creation of texts, social relations (in some senses), social mechanisms, and so forth.
+
+Meditation begets structural fluidity, and, through meditation, one can refactor the “arrangement” of their causal history, in a generally structure-preserving, (in some sense lossless), way to change the set of prereflective and reflective affordances and possibilities for meaning and action.
+
+\*
+
+See also:
+
+“a dialogue between N and Mark, on reasoning and pre-reasoning”
+
+https://meditationbook.page/#157
+
+"part 1: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture"
+
+(and part 2)
+
+https://meditationbook.page/#32
+
+\*
+
+The above is goaded (in a good way) by:
+
+https://twitter.com/JakeOrthwein/status/1412275263740682247
+
+Me: “Man, I should have *something* like this in my document.” [in language commensurate with the rest of the document, even if usual equivocation, etc.]
+
+[<a href="#158eah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 
