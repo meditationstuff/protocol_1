@@ -264,6 +264,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="145h" href="#145">nutrition</a>
 	* <a id="146h" href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
 	* <a id="147h" href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
+	* <a id="147ah" href="#147a">when things get worse again--burn-off, integration, suppression, unsuppression</a>
 	* <a id="148h" href="#148">last gasps</a>
 	* <a id="149h" href="#149">being (not) ok tangles</a>
 	* <a id="150h" href="#150">brief note on space and sensations</a>
@@ -3563,6 +3564,9 @@ There becomes just one seamless thing, with context dependent, manifold evolving
 
 So/but, anyway, here, in this practice system, we're sort of coming at this blurring/mixing, indirectly, from the practice side, rather than top-down trying to mix practice and daily life directly.
 
+Importantly, doing any of the practices is X% finding new things to do and/but Y% finding ways you're already doing these things, and, of course, eventually it's X+Y% the practice doing you, or finding yourself naturally slipping into the practices, or participating in the practices, or participating in life and the practices, all at once, and/or simply, eventually, perhaps thousands and thousands of hours in, there's just life, just this.
+
+
 [<a href="#84h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="85"></span> what about concrete/proximal problems?:
@@ -6004,6 +6008,50 @@ The above is somewhat simplified, and doesn’t go into “safe to look then loo
 
 
 [<a href="#147h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="147a"></span> when things get worse again--burn-off, integration, suppression, unsuppression:
+
+**"burn off" and "integration"**
+
+The phenomenology can be a bit different for each of these, but they are both loosely equivalent.
+
+The gist of these is something like:
+
+burn-off/integration ~= "activity that (previously) needs to be conscious, then instead becomes appropriately automatized (and 'unconscious')"
+
+An example is when one is reminding oneself to do something later in the day, over and over, in one's head. This reminding is "pre-integration." But, if the mind figures out how to "automatically be sure that you will do the thing, later in the day," then the reminding stops. So, pre-integration, the mind is loud, for some thing. Post integration, the mind is quiet, for that thing, because the mind is sure enough that it will be automatically handled. "Burn off" is like integration but there's nothing further in the future. It's just a thing that's no longer needed, and the mind figures out how to no longer need it.
+
+**suppression**
+
+The opposite of burn off and integration is something like "suppression." This is where something is sort of made unconscious, *but without resolving the underlying thing*, so it's *still there* kind of potentially gumming things up.
+
+With integration/burn-off, it's sort of like what was conscious has been positively transformed into something that no longer needs to be conscious. With suppression, something is no longer conscious, but, sort of, no transformation has occurred; that something has just been sort of papered over.
+
+Usually, when someone first learns to meditate, they're doing maybe 50% burn-off/integration and 50% suppression (or even much more of the latter than the former). When someone becomes very skilled at meditation, they're doing, long-run, 100% burn-off/integration and 0% suppression. Doing a lot of suppression, at first, for even thousands of hours, is very normal, and part of the process of learning to meditate. Some people will naturally do more or less, when starting out, and anyone may have intermittent periods of heightened suppression. Suppression isn't bad, per se. Sometimes it's intermediately helpful. It's only "bad" if that's the only thing one is doing.
+
+All that said, that way it *can be* problematic, is that there's sort of only a finite amount of "room" for suppression, only so much "slack" for suppression. After too much suppression, things will ultimately lose steam and meditative progress will potentially get stuck and slow down. (Worst case is behavioral rigidity, muscle tension, and potentially even more extreme things.) On the other hand, integration and burn-off, actually make more space--integration and burn-off let meditative progress continue and continue.
+
+(By the way, suppression is a form of "technical debt.")
+
+**unsuppression**
+
+If something got much better during meditation (like e.g. "self attacking" was very frequent but became infrequent or nonexistent), but then it starts to get worse again, this can actually be a good sign.
+
+Because, it can mean that previously suppressed things are becoming unsuppressed.
+
+If something is suppressed, unsuppression is necessary for burn off or integration to ultimately occur: the mind can't go directly from suppressed to integrated--there has to be an intermediate step of things being unsuppressed and conscious. And then, from consciousness, integration or burn off can (eventually!!) occur.
+
+It's hard to tell, at least at first--sometimes despair, fragmentation, etc., can mean one is doing something wrong.
+
+But, especially if what's coming up is reminiscent of things previously experienced, and especially if there was a previous period of not too much happening, and especially if one isn't pushing/forcing, and especially if there isn't any muscle tension, then things "getting worse" can actually be positive signals. It's unsuppression. And, tentatively, cautiously, one should keep doing whatever it is that they were doing (sensitively, responsively).
+
+Note that brain fog, lack of focus, distraction, moods, impulsive states--ANYTHING that can be consciously experienced!--can be the kinds of things that get suppressed and unsuppressed.
+
+Integration, burn-off, suppression, unsuppression, etc., are very general dynamics.
+
+[<a href="#147ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 

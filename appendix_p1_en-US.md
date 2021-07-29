@@ -603,6 +603,8 @@ n/a
 	- separability
 	- independence
 	- composability
+	- distinction
+	- differentiation
 	- path-length, return-trip-length, round-trip-length
 	- delta (timing)
 	- lagging, pacing, leading
