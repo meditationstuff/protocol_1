@@ -6051,6 +6051,13 @@ Note that brain fog, lack of focus, distraction, moods, impulsive states--ANYTHI
 
 Integration, burn-off, suppression, unsuppression, etc., are very general dynamics.
 
+\*
+
+**Note:** Not all "getting worse" is due to unsuppression, though, often (though not always--see next note), "getting worse '*again*'" is due to unsuppression. "Getting worse" can also be due to, in some sense, "error propagation," uncovering old trauma (this is kinda unsuppression and kinda not, cf. "undo" and "gathering" and "finding one's way back," phenomenological shearing, realizing/inferring things on the basis of what one already knows, subtle (or overt) accumulation of evidence, planned/strategic or unplanned/unpredicted nonmonotonicity, and more. (Some of these overlap; and a few of these, including suppression, sometimes, coudl fall under "error propagation.")
+
+**Note:** Sometimes seeming "getting worse *again*" actually isn't that, actually isn't suppression+unsuppression. There can be "copies" of stuff (or nearly the same or distantly similar) strewn/spread/sprinkled through the (body)mind. (These copies get made for all sorts of practical and problematic reasons.) So sometimes encountering something similar, at a later time, is not unsuppression but encountering a copy or a "spread." (In either/any case, it doesn't mean you've done anything wrong. Copies are sometimes error propagation but are often made for good reasons at the time or their creation. It's not necessarily good to "collect all the copies" into one thing, or to refactor near similarities and differences into more distinct ontologies. Suppression may have been a good idea at the time, etc.)
+
+
 [<a href="#147ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
