@@ -4579,7 +4579,7 @@ Notes:
 
 Notes:
 
-* There doesn't have to be any labeling when doing p3. There can just be noticing or recognizing.
+* There doesn't have to be any labeling when doing p3. There can just be noticing or recognizing or knowing, including shading into aconceptuality and sensation.
 * The gist or pith of p3 is "leave it alone as best you can," or "drop all voltionality with respect to it as best you can," and maybe it'll usefully self-stabilize a little, or self-change, or self-transform, or self-interact with the things around it.
 * Sometimes p3 can have a top-down flavor, and as much, or more often, or sometimes even almost exclusively, p3 is or can have more of a "self-gathering" or self-offering” type of thing, happening almost entirely bottom-up. The flavor can be very similar to "having insights."
 
