@@ -265,6 +265,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="146h" href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
 	* <a id="147h" href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
 	* <a id="147ah" href="#147a">when things get worse again--burn-off, integration, suppression, unsuppression</a>
+	* <a id="147bh" href="#147b">integration, settling, unsettling, resettling, locality, globality, unity (draft)</a>
 	* <a id="148h" href="#148">last gasps</a>
 	* <a id="149h" href="#149">being (not) ok tangles</a>
 	* <a id="150h" href="#150">brief note on space and sensations</a>
@@ -6065,6 +6066,46 @@ Integration, burn-off, suppression, unsuppression, etc., are very general dynami
 
 
 [<a href="#147ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="147b"></span> integration, settling, unsettling, resettling, locality, globality, unity (draft):
+
+[This section was meant to be a brief contrast and addendum to a previous section, but it turned into a bit of kitchen sink, not quite hanging together, even though it's still short.]
+
+In another section, integration was contrasted with suppression. If something is integrated, it's "samskaras" are (relatively) fully worked through. That little, integrated "patch" of "stuff" (very, very loosely speaking) is deconditioned, fine-grain structurally fluid, and "settled." It remains sensitive, responsive, alive, nebulously interconnected with everything else, but there's nothing more to be done (with it), right now.
+
+(I use the word "deconditioned," in the above paragraph, and that's a bit of misnomer--deconditioning, in some sense, is always also reconditioning, though potentially *very* qualitatively different in grain, possibility, valence, everything. And reconditioning [sic] can continue for one's entire life, long after it no longer makes sense to talk about deconditioning [sic]. that is reconditioning continues long after deconditioning is relatively complete, loosely speaking.)
+
+So, in any case, we can speak of (a) *suppression* and *unsuppression*, and we can analogously speak of (b) the *settling* of integration, as well as *unsettling* (and resettling).
+
+As noted in a previous section, if something that was suppressed is then unsuppressed, dispositional propensities come back with it (and some subset of those propensities don't even go away, and, worse, they get stuck as long as there is the related suppression.
+
+If something that was integrated/settled then unsettles, at worst there can be some nonmonotonicity, very generally speaking. At best, things are just perhaps limned a bit more with subtly shimmering potentiality, sometimes with attendant original sensory impressions and evolving insight.
+
+(And it barely makes sense to speak of or reify all this as "it"s, "somethings", "things"--all this "stuff" shades into nebulous, inchoate, aconceptual, etc., in a good way. The language is just easier, when speaking of "something" or "patches,", etc. One must be careful to avoid inappriopriate reification, including inappropriate reification of inappropriate reification, etc..)
+
+Why would "settled" things need to unsettle and resettle? When settling first starts to occur, its "done for now-ness" is very local. The system doesn't have much of a sense yet of "how it all fits together," doesn't have even the beginnings of a costless, effortless, implicit, embodied, felt sort of "map" of the global landscape. And, there are sort of mediate or latent contradictions, inconsistencies, tensions, paradoxes, contentions sort of spread throughout the "landscape of bodymind." (Also, settling that is merely local will always have subtle "flaws"--gossamer threads, tangled through, or molecule-thin sheets, overlaid, that prevent settling from fully completing.)
+
+As progress continues, "patches of settling" start to grow and sort of eventually encounter "disharmonies" or "impedance mismatches" in relation to "adjacent" "encroaching" patches. These might be disharmonies in plans, strategies, solutions, compensations, intentions, skeletal muscle motor plans, interpretations, hormonal regulation, energy metabolism calculations and plans, nebulous interleaved and multithreaded means-ends chains (and loops!), metaphysical incompatibilities, and so on.
+
+Globally resolving all these disharmonies, asymptotically and nonmonotonically, over time, is astonishingly and recursively (and nebulously) combinatorial. It's an NP-complete problem. And it's also astonishing that it's asymptotically solvable!
+
+This is intimately related to so-called buddha nature--everything in/of bodymind is interconnected, and constituted, through life experience, in such a way that its all harmonizable in principle, in some sense no matter what. For any bodymind, in principle, there is necessarily an existing sequence of constrained and nonarbitrary operations that yields enlightenment, or whatever.
+
+Also related to all this is *finitude*--the extent/expanse/structure of (body)mind is *finite*, in a good way, which affords strategies such as process of elimination, and making "all" the recoverable mistakes, as a really, really big part of all of this.
+
+In addition to process of elimination, the other thing that starts to happen is "precomputation." For reasons really, actually, interestingly related to the halting problem, in computer science (really), the (body)mind can't know exactly what's going to happen next, based on operations with respect to itself. But, it can imperfectly approximate this knowledge, and it can get asymptotically better and better approximations of what's going to happen next. (These ideas were developed with a collaborator, with some critical pieces originating with them, and all mistakes with respect to those pieces are mine.)
+
+Over times, local settling instead becomes more and more global settling, as local wayfinding becomes more and more *global* wayfinding, over thousands and thousands of hours. And, in that process, there's a tremendous amount of unsettling and resettling.
+
+Importantly, you don't (and can't) sort of "hold the globality in your head"--you are the globality, as it were. All you need to ever do, as make local operations as best you can (doing, undoing, "nondoing," top-down, bottom-up, surrender, etc.), and those local operations become more and more appropriately global situated, sequenced, etc. You can only ever make local operations, as it were. You can only do whatever you can locally do. And that is enough. It just gets more and more surefooted, over time, with plenty of not knowing, sometimes for days or weeks or months, and including fundamentally.
+
+I hestitate to say that everything ends up in a "harmonious unity," "one thing going in one direction." These descriptions can be very "heady," very intellectual, very abstract. Wayfinding, settling, unsettling, resettling is ultimately nonverbal, ultimately proceeds on the basis of procedural knowledge (sometimes interleaved with explicit knowledge). And milestones related to wellbeing, locuslessness, "sensational/'out there' computation," and potentially "centerlessness" and "agencylessness" (depending on your personal experience of how everything shakes out), not to mention knowing what to do even when you don't know what to do, inner peace, handledness, love, no inside/outside, one taste, nonduality, wisdom, etc., not to mention plenty of pain and sorrow, are maybe better ways to think about this, outside of these schemas and toy models.
+
+In any case, in addition to the long-run, less optimal dynamics of suppression and unsuppression, there is also long-run integratin/settling, unsettling, resettling.
+
+[<a href="#147bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 
