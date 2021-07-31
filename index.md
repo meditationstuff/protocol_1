@@ -6020,6 +6020,8 @@ The above is somewhat simplified, and doesn’t go into “safe to look then loo
 
 # <span id="147a"></span> when things get worse again--burn-off, integration, suppression, unsuppression:
 
+[Note: This section has, relatively, a bit more of a not-quite-right, "toy model" feel than other sections, on average. Some nuance and exceptions are dropped around the edges. Some statements could be better hedged/qualified. The model down't quite hew to the territory, and so on.]
+
 **"burn off" and "integration"**
 
 The phenomenology can be a bit different for each of these, but they are both loosely equivalent.
@@ -6036,7 +6038,7 @@ The opposite of burn off and integration is something like "suppression." This i
 
 With integration/burn-off, it's sort of like what was conscious has been positively transformed into something that no longer needs to be conscious. With suppression, something is no longer conscious, but, sort of, no transformation has occurred; that something has just been sort of papered over.
 
-Usually, when someone first learns to meditate, they're doing maybe 50% burn-off/integration and 50% suppression (or even much more of the latter than the former). When someone becomes very skilled at meditation, they're doing, long-run, 100% burn-off/integration and 0% suppression. Doing a lot of suppression, at first, for even thousands of hours, is very normal, and part of the process of learning to meditate. Some people will naturally do more or less, when starting out, and anyone may have intermittent periods of heightened suppression. Suppression isn't bad, per se. Sometimes it's intermediately helpful. It's only "bad" if that's the only thing one is doing.
+Usually, when someone first learns to meditate, they're doing maybe 50% burn-off/integration and 50% suppression (or even much more of the latter than the former). When someone becomes very skilled at meditation, they're doing, long-run, with some qualifying, 100% burn-off/integration and 0% suppression. Doing a lot of suppression, at first, for even thousands of hours, is very normal, and part of the process of learning to meditate. Some people will naturally do more or less, when starting out, and anyone may have intermittent periods of heightened suppression. Suppression isn't bad, per se. Sometimes it's intermediately helpful. It's only "bad" if that's the only thing one is doing.
 
 All that said, that way it *can be* problematic, is that there's sort of only a finite amount of "room" for suppression, only so much "slack" for suppression. After too much suppression, things will ultimately lose steam and meditative progress will potentially get stuck and slow down. (Worst case is behavioral rigidity, muscle tension, and potentially even more extreme things.) On the other hand, integration and burn-off, actually make more space--integration and burn-off let meditative progress continue and continue.
 
@@ -6073,6 +6075,8 @@ Integration, burn-off, suppression, unsuppression, etc., are very general dynami
 
 [This section was meant to be a brief contrast and addendum to a previous section, but it turned into a bit of kitchen sink, not quite hanging together, even though it's still short.]
 
+[Note: This section has, relatively, a bit more of a not-quite-right, "toy model" feel than other sections, on average. Some nuance and exceptions are dropped around the edges. Some statements could be better hedged/qualified. The model down't quite hew to the territory, and so on.]
+
 In another section, integration was contrasted with suppression. If something is integrated, it's "samskaras" are (relatively) fully worked through. That little, integrated "patch" of "stuff" (very, very loosely speaking) is deconditioned, fine-grain structurally fluid, and "settled." It remains sensitive, responsive, alive, nebulously interconnected with everything else, but there's nothing more to be done (with it), right now.
 
 (I use the word "deconditioned," in the above paragraph, and that's a bit of misnomer--deconditioning, in some sense, is always also reconditioning, though potentially *very* qualitatively different in grain, possibility, valence, everything. And reconditioning [sic] can continue for one's entire life, long after it no longer makes sense to talk about deconditioning [sic]. that is reconditioning continues long after deconditioning is relatively complete, loosely speaking.)
@@ -6085,7 +6089,7 @@ If something that was integrated/settled then unsettles, at worst there can be s
 
 (And it barely makes sense to speak of or reify all this as "it"s, "somethings", "things"--all this "stuff" shades into nebulous, inchoate, aconceptual, etc., in a good way. The language is just easier, when speaking of "something" or "patches,", etc. One must be careful to avoid inappriopriate reification, including inappropriate reification of inappropriate reification, etc..)
 
-Why would "settled" things need to unsettle and resettle? When settling first starts to occur, its "done for now-ness" is very local. The system doesn't have much of a sense yet of "how it all fits together," doesn't have even the beginnings of a costless, effortless, implicit, embodied, felt sort of "map" of the global landscape. And, there are sort of mediate or latent contradictions, inconsistencies, tensions, paradoxes, contentions sort of spread throughout the "landscape of bodymind." (Also, settling that is merely local will always have subtle "flaws"--gossamer threads, tangled through, or molecule-thin sheets, overlaid, that prevent settling from fully completing.)
+Why would "settled" things need to unsettle and resettle? When settling first starts to occur, its "done for now-ness" is very local. The system doesn't have much of a sense yet of "how it all fits together," doesn't have even the beginnings of a costless, effortless, implicit, embodied, felt sort of "map" of the global landscape. And, there are sort of mediate or latent contradictions, inconsistencies, tensions, paradoxes, contentions sort of spread throughout the "landscape of bodymind." (Also, settling that is merely local will always have subtle "flaws"--gossamer threads, tangled through, or molecule-thin sheets, overlaid, that prevent settling from fully completing. [Note: This parenthetical isn't quite right.])
 
 As progress continues, "patches of settling" start to grow and sort of eventually encounter "disharmonies" or "impedance mismatches" in relation to "adjacent" "encroaching" patches. These might be disharmonies in plans, strategies, solutions, compensations, intentions, skeletal muscle motor plans, interpretations, hormonal regulation, energy metabolism calculations and plans, nebulous interleaved and multithreaded means-ends chains (and loops!), metaphysical incompatibilities, and so on.
 
