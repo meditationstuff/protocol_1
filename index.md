@@ -290,6 +290,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158bah" href="#158ba">inner peace placeholder</a>
 	* <a id="158cah" href="#158ca">love placeholder</a>
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
+	* <a id="158da1h" href="#158da1">far reaches of meditation</a>
 	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158ah" href="#158a">sex, gender, etc. stuff</a>
 		* <a id="158bh" href="#158b">working with sex and gender (plus "tantra")</a>
@@ -7435,6 +7436,82 @@ This section is currently a placeholder/stub.
 
 
 
+# <span id="158da1"></span> far reaches of meditation:
+
+A thread that's kind of trying to articulate the long run, far reaches of meditation (and, inseparably, a life interleaved with meditation, and other transformative practice, & just living, hurting, enjoying, life itself), & why anyone might care to explore those far reaches.
+
+Say there's "feeling," "form" & "function."
+
+Feeling is how things are, subjectively/aconceptually/preconceptually, experienced "from the inside."
+
+Form is the (felt) "conceptual structure" of thought & action.
+
+And function is "action/motor output," actual human doing/happening.
+
+Feeling is sort of prior to form and function, sort of the ground of those latter two. Form and function can sort of only be known as feeling, or, their being known *is* not-other-than feeling. Yet form "structures" *in* feeling." And function is structurally conditioned on form.
+
+If feeling and form change, function *must* change. Yet very similar function(s) can have *extremely* different feeling/form. If feeling changes, form *must* change, yet very similar form(s) can have *extremely* different feeling.
+
+So, you can have menches and sociopaths, and everyone in between, with lots of nearly the same "function"--walking, talking, eating, sleeping. They might all hammer in a nail in kind of the same way, but the inner "feeling" is *extremely* different. 
+
+And, of course so is function! Menches and sociopaths, will diverge in behavior in subtle and overt ways, which is why those labels juxtapose. But, the point is sort of that function is heavily constrained by environment/homeostasis/etc.
+
+And feeling and form much, much less so.
+
+(Though, the long-run "mutual perfection" (not to inappropriately reify "perfection") of feeling, form, and function ultimately mutually, positively constrain each other.)
+
+(Saints and Psychopaths is a title of a book, by the way, cf. my riff of menches and sociopaths)
+
+Here is a more concrete example of all this: (next tweet)
+
+Water feels "wet," to a baby, a teenager, a plumber, a physicist, an installation artist.
+
+But, that wetness is *different* for each of them.
+
+Say, for the physicist, the form of hydrogen bonds, quarks, etc., *inhere in the immediate feeling of wetness*, its very being & seeming.
+
+And, *function* inheres especially differently in wetness, for the baby, the plumber, the installation artist. They each have different affordances, different possibilities.
+
+So, wetness, in embodied totally, and even in "raw sensation" feels differently, to each & any of them.
+
+Meditation progress kind of goes (very, very roughly) in the order of:
+
+* weird sensory stuff
+* intense psychological stuff
+* metaphysical weirdness (emptiness, luminosity, impermanence/non-eternity, non-specialness/ordinariness/naturalness, etc.)
+* compassion, love, friendliness, wisdom, inner peace, wellbeing, effortlessness (by degrees)
+* continued changes in feeling, form, and function
+
+And, this latter one is the most interesting to me.
+
+Over years and decades, the very X of the world continues to change, where X =
+
+appearing, seeming, being, knowing, feeling...
+
+self, other, world; body, mind, environment...
+
+life, death, goals, history, meaning, morality...
+
+This radical and ongoing "refoundationing" of feeling, form, and function is what continues to interest me about meditation.
+
+Anyway, I'll kind of peter out, here. These quotes seem relevant:
+
+"The real voyage of discovery consists, not in
+seeking new landscapes, but in having new eyes."  
+— Proust
+
+“Everything will be okay in the end. If it's not okay, it's not the end.”  
+— John Lennon
+
+\*
+
+See also maybe: https://metarationality.com/bongard-meta-rationality
+
+
+[<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
 # <span id="158ea"></span> on meaning, goodness, badness, aboutness, intentionality, secondary properties:
 
 [This is a hasty sketch to index/get down something in this space, because eventually, finally, maybe after a long time, this sort of thing starts to *really* sort itself out, perhaps partly like the below. In other words, meditation is eventually decisively revelatory about the sorts of things, below.]
@@ -9745,6 +9822,7 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Marletto, Chiara. The Science of Can and Can’t: A Physicist’s Journey through the Land of Counterfactuals. Viking. 2021. 
 * Lane, Richard D., et al. "Memory reconsolidation, emotional arousal, and the process of change in psychotherapy: New insights from brain science." Behavioral and brain sciences 38 (2015).
 * Chapman, Alan. Magia. Barbarous Words. 2021
+* Chapman, David. A first lesson in meta-rationality [https://metarationality.com/bongard-meta-rationality Last accessed: 2021-08-10]
 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
