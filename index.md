@@ -278,7 +278,13 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="156ah" href="#156a">some narrowly conceived phenomenological investigations that may or may not be useful</a>
 	* <a id="156bh" href="#156b">inappropriate reification (stub)</a>
 	* <a id="157h" href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
-	* <a id="157ah" href="#157a">open informal response on social media to someone in a contemporary practice scene</a>
+	* <a id="157a1h" href="#157a1">bridge building and dialogue</a>
+		* <a id="157a2h" href="#157a2">bridge building</a>
+			* <a id="157a3h" href="#157a3">making connections between my stuff and lineage traditions, in three parts (draft!)</a>
+				* <a id="157a4h" href="#157a4">part 1: "same playing field"</a>
+				* <a id="157a5h" href="#157a5">part 2: continuity between "mundane" and "supramundane"; breadth-first vs depth-first</a>
+				* <a id="157a6h" href="#157a6">part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need)</a>
+		* <a id="157ah" href="#157a">open informal response on social media to someone in a contemporary practice scene</a>
 	* <a id="158h" href="#158">a note on "making progress," "regression," and redo-to-undo</a>
 	* <a id="158aah" href="#158aa">on suffering</a>
 	* <a id="158bah" href="#158ba">inner peace placeholder</a>
@@ -7182,6 +7188,159 @@ Thanks for doing this conversation!
 you’re very welcome. thank you for your questions
 
 [<a href="#157h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+
+# <span id="157a1"></span> bridge building and dialogue:
+
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+[<a href="#157a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="157a2"></span> bridge building:
+
+
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+
+[<a href="#157a2h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+
+# <span id="157a3"></span> making connections between my stuff and lineage traditions, in three parts (draft!):
+
+
+This post/section comes in a three parts, and, as a whole, it’s meant to explain and demonstrate similarities and especially overlap between practices that I write/teach about, as well as commonalities and overlap between all self-care, self-transformative, and spiritual or meditative practices and traditions.
+
+It’s still in a draft/unfinished state–re-reading, it’s just really really dense with technical terminology, so it might seem convoluted (and it is a little convoluted), but I think it’s all sort of schematically there, for those who spend some time with it. And future drafts will unpack and explain and clarify and de-convolute.
+
+I’m also unhappy that there’s still a bit of a “bite” in some places, and I want to soften that, too.
+
+
+[<a href="#157a3h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+
+# <span id="157a4"></span> part 1: "same playing field":
+
+
+This post/section depends on a few premises, so I’ll list them now:
+
+(The below starts off very abruptly and densely, in the first premise, but if you kind of let your eyes glaze over on the first read, and just skim, it quickly gets easier to follow after a few paragraphs.)
+
+The first premise is something like the “redo-to-undo” principle. The the redo-to-undo principle is something like, for a particular latent (high-dimensional, distributed) “patch” or “area” of bodymind “state,” i.e. the way the bodymind (latently) is–for that area of bodymind to change or transform, that area must be “redone” or “replayed” or “reactivated” or “re-evoked” or “activated.” After being re-evoked, it is labile, changeable, and it can participate in mutual transformation with other “bodymind” that is also concurrently activated. (And this implies that there is “doing” (and redoing) and “undoing.”)
+
+The second premise is something like liberated mind, natural mind, ordinary mind is the same thing as “settled” mind. (“Settled” shouldn’t have a connotation of static or fixed. It’s still open, sensitive, responsive, (structurally) fluid. But just like water in a container, it can be at rest until stirred, and it can smoothly resettle if left alone).
+
+The third premise is something like “connectedness of mind.” What this means is something like, if the mind is changed somewhere, then it’s like, from that change point, there are tendrils all throughout the mind, that either ever so slightly tug a little bit or every so slightly become more slack. And so, after ANY change in the mind, either through meditation (prior to “enlightenment”) or spontaneously (after “enlightenment”) [both very loosely speaking], a “global settling process” is kicked off, a perturbation, a reverberation, that ultimately touches at least some of the mind, and, in principle, in the most general case, needs/does touch ALL of the rest of the mind, sometimes many times, to reach global settledness.
+
+The fourth premise extends the second premise and is something like, in addition to premise 2–a “liberated mind, natural mind, ordinary mind is the same thing as ‘settled’ mind”–such a mind is also a “fully untangled mind.” (And this implies that there’s such a thing as “tangling” and “untangling.” And, so, some “doing” is tangling and some “doing” is untangling (and some is neutral). And let’s say any/all “undoing” is net or mostly, if not entirely, untangling.)
+
+The fifth premise is something like, explicit meditation instructions can only ever be incomplete, and can only ever partially specify what needs to be done for “complete untangling.” That is, they can’t fully specify all the things that need to be *done* in the technical sense. (In parallel, a teacher cannot fully specify all the things that need to be done, either. Of course, for explicit instructions, or teacher interaction, it can be a long, patient, extended text interpretation, or interaction, with multiple texts or teachers, to finally get all the pieces that one needs, to get all the rest of the pieces that one needs, through individual practice.)
+
+Therefore, a *personally adequately liberatory practice* must implicitly contain the seeds that, through practice, self-generate all the things that need to be done, *for that person*, in order to be fully liberated, settled, etc.
+
+And, a *universally adequately liberatory practice* (which doesn’t exist except empirically by degrees) must implicitly contain the seeds that, through practice, self-generate *all* the things that need to be done, *for any person*, to complete full liberation, settledness, etc. (Note, for completeness, that I think this is only asymptotically possible and also environmentally contingent.)
+
+Note that *anything* that can be *done*, including nuances, shades, modulations of any particular “doable thing,” must be something either explicitly specified or “self-generate-able” by a universally adequately liberatory practice (UALP). Because, some person, somewhere, in imaginable principle, will need that particular thing, and it won’t necessarily be in their starting repertoire.
+
+What the above means is that *anything* doable is potentially a part of practice, either as seeking out similar experiences one has had in one’s past (“environmental redo-to-undo”), or finding one’s way internally to original sense impressions (“memory redo-to-undo” [successful environmental redo are also memory redos]), or internally recreating missing experiences, when adequate, that one can’t have out in the world (because impossible, dangerous, unethical) and also never had in the past (“imaginal non-tangling ‘do'”)
+
+And so anything non-tangling or untangling (and even things that locally tangle in the service of future untangling, cf. technical debt), is partial spiritual practice, including things that aren’t normally thought of as “spiritual” practice (by some people), like focusing or therapy, etc. (Some people will say, of course focusing and therapy are spiritual practice, and so on.)
+
+And so the conclusion or punchline of all of this is that, I don’t think most lineage/wisdom traditions will claim that their path will work for “everybody,” so they’re not claiming universality or near universality. But, they might claim something like “generality,” as in “kinda completely works for some relatively large-ish reference class of people, and at least does some good things for an even larger-ish additional set of people.”
+
+But, to the degree that a tradition says, “X isn’t a part of our path, we don’t do that, that’s not buddhadharma,” they are leaving out anyone who needs any of that doing or redoing, and are sort of “removing all doubt” that their path is not universal. Because, any path that leaves something out will then not work for all bodyminds/people, as it were, because of connectedness and other premises.
+
+And, all of this is why I sometimes say “same playing field,” whether it’s vipassana, yoga, focusing, tantra, therapy, etc. None of those, narrowly specified, are complete and adequately universal spiritual practices, but they must necessarily “inhere” in any truly universal spiritual practice or path.
+
+
+
+[<a href="#157a4h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="157a5"></span> part 2: continuity between "mundane" and "supramundane"; breadth-first vs depth-first:
+
+
+So there’s sort of a “continuity” or “contiguity” between “mundane” beliefs and “supramundane” beliefs.
+
+Before getting to that I want to just note that the idea of “belief” is problematic in a lot of ways, so maybe swap that out for anticipation, expectation, or perhaps “the very being and seeming of the world,” like how it appears, the prereflectively felt affordances and possibilities one has, and so on. And you can also swap out “beliefs” for “insights” or knowing, understanding, etc. (We can stop before adding “thoughts” to this; one can have knowing or understanding without thoughts, per se, verbal or otherwise. Even non-symbolic cognition, felt senses, and perhaps arguably even knowing, might be potentially left out or at least unnecessary, to backpedal a little bit. All of this has to interface with aconceptuality as well, which is beyond the scope of this section.)
+
+So the claim that I’m making is something like “mundane” beliefs, or whatever, and “supramundane” beliefs, or whatever, are qualitatively and functionally the “same kind of thing,” and the only difference is sort of of a matter of degree along some particular axes that I’ll talk about in a moment. (Also, when I say the “same kind of *thing*,” this is all being written in a toy linguistic schema, and, in another sense, of course beliefs, knowing, etc., isn’t/aren’t thing-like, to the same degree nothing is thing-like and especially phenomenal stuff isn’t thing-like. But it’s just easier to talk about “things” and “somethings” when that’s good enough for local purposes.)
+
+So mundane beliefs or stuff are things like your recollection or remembering of what you ate for breakfast, or the color of your car or your friend’s painted fingernails, or what someone said earlier, or what you think is going to happen tomorrow. This is sort of the relatively contemporaneous stuff that you use to navigate the world, and also semi-episodic (or not) childhood stuff and beliefs or guesses about the future, and so on.
+
+And then supramundane stuff are the things that are “really deep” (and we’ll actually talk about “deep” in a moment) or “really phenomenological” or existential or metaphysical. Where there’s a sense that these things are qualitatively different because, when they change, something big or small changes about “the very being and seeming” of self, world, everything.
+
+And, so, in a nutshell, I’ll claim that even “mundane” stuff is changing the very being and seeming of the world, just ever so slightly and barely noticeably, more “locally.”
+
+Ok but why does the supramundane stuff sort of take *so long* (sometimes) to change and why does it sometimes feel so “big,” what *is* different about it.
+
+We’ll need some conceptual pieces:
+
+The first is something like “durational time attention bottlenecked updating,” and so the idea is that the whole body mind can’t change all at once (though any “single” change can be really high dimensional and touch many little things, all at once, but it’s still only the tiniest of a fraction of the “whole thing). So there’s a constraint on how much can change at once, and that sort of implies a “real time” constraint or that changes happen over real time. We can encapsulate this as something like change only occurs where “attention” goes, and “attention” is in scare quotes because I’m referring here to neither quite what we sort of phenomenally think of as our “attention” (for which many aspects of which sort of evaporate over long-term meditative practice) nor do I mean a pretty theoretical construct like in abstract cognitive science (and the neuroscience is outside the scope of this section). But, close enough for now, ok, anyway, you could think of like a spotlight of attention sweeping around, and stuff changes under the spotlight.
+
+This metaphor of a spotlight is helpful, because sometimes changes that occur happen in a way that “goes on top of” other changes, and occludes whatever’s beneath. So the “light of the spotlight” can’t reach what’s underneath, and so what’s underneath can’t change, until the spotlight and surrounding stuff interacts with what *is* on top in a way that gets it out of the way. In summary, though, some changes can (reversibly) lock in other changes. And the thing underneath can’t be labile, can’t be changeable, malleable until “unlocked.”
+
+Ok, and this “on-top-ness” or “locking” can be in layers. Like, whatever locks something underneath, can then have something go on top of that, which then locks that in place, and so on. So there can be these sort of very tall “microcolumns” or vast sheets of layers on top of layers on top of layers, like heuristically, hundreds of thousands of layers deep, and so on.
+
+So this gives us the idea of “depth” (which is loosely correlated with a feeling of “inwardsness” or “inner space-ness” or “lower chakras” [cf. neural cord development], but don’t get hung up that! It’s a very loose and loopy correlation, that goes all over and within the body and beyond, and lower and inner unwind and untwist and evaporate into a positive phenomenal flatness and just-this-ness and isotropy over thousands of hours of meditative or spiritual practice).
+
+Now, we’re sort of at least shallowly layering and delayering all the time, learning and unlearning, revising beliefs. Layering is fast and dirty and easy for the mind to reach for (but sort of takes slack out of the system and “uses up” “mind space” faster). And we do unlayer shallow stuff fairly easily, like if, ok, the color of our friend’s car or someone’s nail color, we realize, is more of an off-white (instead of gray, for the car) and a pink (instead of an orange; for our friend’s nails). But unlayering deep stuff takes a long time. Some of it is sort of working through no-longer-needed upper layers. And some of it is “structure preserving transformations,” that functionally keep the same beliefs/stuff but move it “off to the side” to expose deeper layers. This latter requires “slack,” and so the system has to figure out how to work through at least some things before doing structure preserving transformations. (It’s all a bit like tetris, metaphorically speaking, with the modification that you can sometimes move  the topmost pieces upwards and re-place them, with fewer “holes” and also the right placements (“oh i really truly don’t need any of this, right here, anymore”) can make more space. And you can temporarily stack existing placements higher to get access to deeper placements.)
+
+In any case, supramundane stuff tends to be at deeper layers.
+
+Now, in addition to the dimension of depth, there is also the dimension of “tangledness.” Recall we can pretend attention sort of moves around like a spotlight, but also let’s say attention “strobes” or blinks. And each time attention is “on,” say that’s a “mind moment” or even a “snapshot” a photography picture (though not quite so static, of course). So attention is a series of mind moments. And let’s say, for an untrained mind, mind moments are *tangled.* That is, each snapshot has sense doors, “self-ness”/witnessing, motivational aspects like suffering, ontology, belief, relevance, all sort of tangled together.
+
+And, say, some things are pretty “non-fundamental,” like they tangle into, say, 2% of mind moments. But, some things are “relatively fundamental” and they tangle into 80%-95% of mind moments. And, say, to have an insight about something, it has to be relatively more detangled or even completely detangled from everything else. When fully detangled, gathered, deconvolved, disembedded it can sort of be taken as object as such, can come into contact with other stuff in the mind as such, and get spontaneously transformed, metabolized, all sorts of things.
+
+Untrained mind and non-meditating mind moments (pre enlightenment, or whatever) is at least lightly tangled or tangling, like at least 51% tangling. And during meditation (or post enlightenment, or whatever) mind moments are at least 51% to 99% untangling or untangled.
+
+Now, stuff corresponding to the three characteristics (as well as other stuff, to be sure) are relatively much more deep and much more tangled than other stuff in the mind. Self, suffering, permanence/eternalism, perhaps at least one of them are found tangled into almost every mind moment–other stuff, too, not just these. And early childhood conceptual stuff can be even deeper, and childhood trauma can come pretty close to just as deep, too. (And, also, do they even EX-ist (exist) prior to detangling, gathering, etc.? Or might they latently SUB-sist (subsist)? There’s something conditioned-ly universal or quasi-universal going on, here. But this parenthetical is a suggestion to not overly reify the three characteristics or anything else in the mind as different or more special than anything else. But something cool is going on, here. Something can sort of starkly and conceptually “pop out,” in a way that might be really similar across people. And perhaps that has a particularly genetic/developmental basis or its a near-universal “psychological stopgap solution.”)
+
+Some traditions are sort of “supramundane first” or “depth-first,” which still involves a great deal of mundane, slack-increasing, structure preserving transformations. A tremendous amount of mundane-involved delayering still needs to occur for “depth-first” practices. But, even given that, a tremendous amount of mundane work is still needed after things related to the three characteristics unravel (and other related stuff, cf. luminosity, and so on). And sometimes this can involve a lot of destabilization, integration sickness, and so on. And so someone might benefit from conventional therapy (or plenty of other stuff) after “going depth-first” because a lot of things will be left still unfinished, as it were. And some things will be easier, because so much will be untangled, and some things will be harder because lots layering might have happened, to move things out of the way, in order to go deep.
+
+An alternative to depth-first is breadth-first. Breadth-first might spend a lot more time near the surface, at first, might sometimes look more introspective and navel-gaze-y, but inexorably, more and more on the surface will be dissolved or profitably settled and off to the side. And “descent” might be slower, but there will be much less to do after descent, and possibly less time will have been needed, overall, because, as mentioned above, depth-first can involve a lot of layering that eventually need to be delayered. And breadth-first tends to be relatively more unlayery, all the way through, and insights tend to be more fleeting in salience because they don’t have a lot of “integration debt” arriving in their wake, as it were. Notably, breadth-first can still be a really rough ride, maybe often almost as rough as depth-first, it’s hard to get around that. And I could see breadth-first sometimes being slower, for some people, depending on the ordering of some things around fine-grain-ness of action and perception as well as steady stick-to-it-ive-ness. But breadth-first *might* sometimes involve a bit less behavioral/psychological rigidity, which can sometimes come with a lot of excess practice-related layering. Breadth-first can be harder to get traction or good feedback loops, up front, though, because there’s initially so much optionality. And depth-first can sort of profitably “bunch up in time” or stereotype-ify some things, which can make some kinds of patterns of territory and meditative action easier to see. (Issues with breadth-first can be somewhat mitigated by instructions that have explicit global wayfinding as mentioned in part three.)
+
+In any case, both breadth-first and depth-first are just two alternative ways to engage with the same territory, same playing field, as it were. But either are sort of an attentional “space filling curve” that sort of has to touch everything anyway, for complete untangling, complete deconditioning and reconditioning. And so there are plenty of paths/curves that are a MIX of breadth-first and depth-first, and since breadth-first and depth-first are just schematic abstractions, any persons particular concrete path will look like a nebulous, personalized mix of both, with maybe some overarching features or one or the other, or not at all.
+
+
+[<a href="#157a5h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="157a6"></span> part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need):
+
+
+“Global wayfinding” is sort of how one finds just the right mix of breadth-inclined and depth-inclined in their own practice, really just concrete engagement with the territory that leaves behind and transcends any particular set of heuristic abstractions.
+
+Very briefly, if one considers the bodymind to be in a particular “state,” at some point in time, call it state A. And there are future maybe possible better states like B, C, D.
+
+Wayfinding is finding one’s way to those future states, not knowing, in advance, exactly what they are or how to get to them.
+
+And *global* wayfinding is looking for future better states that have fewer and fewer tradeoffs, overall, compared to all other states, and sometimes necessarily passing through worse states to get there.
+
+The relationship to main practice p2 is that doing or maintaining good things and stopping or preventing bad things (loosely and briefly speaking), cashes out as one way to directly *do* global wayfinding.
+
+Each doing/maintaining/stopping/preventing slightly alters the system, moving from A, to A-prime, and so on. And one could replace p2 with an ever shifting constellation of practices from various traditions or the preliminary/auxiliary practices, and so on. In those latter cases, even those will probably give way to something ever-more sensitive and nuanced and personalized, beyond any sort of conceptualization.
+
+Another reason it’s called “wayfinding” is because often the route is not direct. It’s twisty, with backtracking, “can’t get there from here,” and one must use care and sensitivity to gently avoid messiness or tangliness (long run) over time.
+
+Most traditions have implicit or particularly informal global wayfinding. For the latter, "what to do when" happens as the meditator moves between practices out of interest or practicality, or through discussions with peers or a teacher. For the former, the meditator gets better and better at "finding their way," during practice; they are less attached to particular instructions or the *how* of particular instructions, and are more and more nuanced, situated, specific, concrete, intuitive, spontaneous. And/but it can sometimes help to lightly, non-reified-ly, explicitly call out global wayfinding as a "thing."
+
+
+
+[<a href="#157a6h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+
 
 
 
