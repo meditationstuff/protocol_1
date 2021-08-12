@@ -7333,7 +7333,49 @@ Each doing/maintaining/stopping/preventing slightly alters the system, moving fr
 
 Another reason it’s called “wayfinding” is because often the route is not direct. It’s twisty, with backtracking, “can’t get there from here,” and one must use care and sensitivity to gently avoid messiness or tangliness (long run) over time.
 
-Most traditions have implicit or particularly informal global wayfinding. For the latter, "what to do when" happens as the meditator moves between practices out of interest or practicality, or through discussions with peers or a teacher. For the former, the meditator gets better and better at "finding their way," during practice; they are less attached to particular instructions or the *how* of particular instructions, and are more and more nuanced, situated, specific, concrete, intuitive, spontaneous. And/but it can sometimes help to lightly, non-reified-ly, explicitly call out global wayfinding as a "thing."
+Many traditions/practices ***do*** have implicit or informal global wayfinding. For the latter, "what to do when" happens as the meditator moves between practices out of interest or practicality, or through discussions with peers or a teacher. For the former, the meditator gets better and better at "finding their way," during practice; they are less attached to particular instructions or the *how* of particular instructions, and are more and more nuanced, situated, specific, concrete, intuitive, spontaneous. And/but it can sometimes help to lightly, non-reified-ly, explicitly call out global wayfinding as a "thing."
+
+**q&a about global wayfinding**
+
+(Below, questions are indented and in italics, and my answers are in normal font.)
+
+**questions:**
+
+> *This was helpful for me to better contextualize with the protocol doc, but have some q's. It makes sense that each doing/maintaining/stopping/etc. will alter the system, but isn't that true for /any/ action regardless of whether you are "actively meditating" or not? Why is it that those specific actions (maintaining good or stopping bad) imply better wayfinding -- couldn't those also seem locally good, but actually be globally detrimental? (and vice versa, couldn't doing something seemingly "bad" be the best thing for you globally?).*
+> 
+> *If P2 is working because of cultivating goodness (and preventing badness, loosely speaking), then why would replacing that practice with other traditions (that seemingly(?) have nothing to do with goodness) work in the same way?*
+> 
+> *I get that in global wayfinding (in this context, or any context really), you can only act on the information you have, so it is obviously difficult to make the "perfect" decision from such a vast input space. So is "goodness" just the chosen heuristic here because its better/less disruptive than alternatives? Take a more rigid practice like noting for example, could you argue that noting is also global wayfinding where the heuristic you are optimizing for is sensory clarity as opposed to goodness (and therefore vastly limiting your input space for next steps)?*
+
+**answers:**
+
+> *but isn’t that true for /any/ action regardless of whether you are “actively meditating” or not?*
+
+yes!
+
+> *couldn’t those also seem locally good, but actually be globally detrimental? (and vice versa, couldn’t doing something seemingly “bad” be the best thing for you globally?).*
+
+yes! so they counterfactually would really [in some sense] be (globally) good and bad. there would be some mediate error propagation.
+
+> *then why would replacing that practice with other traditions (that seemingly(?) have nothing to do with goodness) work in the same way?*
+
+things can be good and bad while not being directly conceptualized as such
+
+> *So is “goodness” just the chosen heuristic here because its better/less disruptive than alternatives?*
+
+it starts out a heuristic but becomes more and precise and concrete (if imperfect) over time
+
+it won’t “linguistically/phenomenologically/conceptually “seat well” [sic] with everyone, at first or ever, which is why there should be a lot of practices out there.
+
+but goodness, held loosely in way that allows it to evolve as understanding grows, is a pretty special concept. it can be tangly at first though because of how metaphysically/ethically connotation-laden it is.
+
+> *could you argue that noting is also global wayfinding*
+
+noting has implicit global wayfinding, or is general and fine grain enough to support implicit global wayfinding, which may be why it’s seemingly, empirically one of the more empirically effective practices.
+
+> *heuristic you are optimizing for is sensory clarity as opposed to goodness*
+
+as a thought experiment, to the degree someone hewed rigidly to a sensory clarity feedback loop and only this feedback loop, they would eventually get stuck, because it’s an incomplete measure of progress. eventually error propagation and layering would dominate, imo.
 
 
 
