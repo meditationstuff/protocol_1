@@ -870,7 +870,7 @@ n/a
 			- eep
 			- ugh
 			- yeesh
-			- <gasps/inhalations/sss/clicks/tuts>
+			- <gasps/&#8203;inhalations/&#8203;sss/&#8203;clicks/&#8203;tuts>
 		- [from (mo)]
 			- fff
 			- pfft
