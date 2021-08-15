@@ -226,6 +226,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 					* <a id="107h" href="#107">p8</a>
 					* <a id="108h" href="#108">p9</a>
 					* <a id="109h" href="#109">p10 [experimental]</a>
+					* <a id="109ah" href="#109a">p11</a>
 				* <a id="110h" href="#110">theory</a>
 					* <a id="111h" href="#111">incomplete, alternative renderings</a>
 		* <a id="112h" href="#112">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -3824,7 +3825,10 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 
 # <span id="94"></span> solo practice: ("main protocol")
 
-[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+[This (super)section intentionally left (almost) blank. Scroll down for the contentful subsections!]
+
+Note: No practice is intended to assert/&#8203;hide/&#8203;entrench/&#8203;embed ontological presuppositions. Assume all practices, as explicitly written, are metaphysically//&#8203;existentially//&#8203;pedagogically//&#8203;phenomenologicaly/&#8203;linguistically flawed, incomplete, broken, and ultimately in need of discarding, going beyond, or dropping completely.
+
 
 [<a href="#94h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -4586,6 +4590,7 @@ Notes:
 * volition
 * (nonvolition)
 * "depth"
+* local microextinguishments "in wider emptiness", local micronibannas "in wider emptiness"
 
 Notes:
 
@@ -4940,6 +4945,17 @@ Explore what you want and what you might do by imagining/generating immersive, c
 first person concrete experiential qualities in —> first person concrete experiential qualities out
 
 [<a href="#109h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="109a"></span> p11:
+
+[p11 gloss: "Stop meditating."]
+
+Gently stop(/&#8203;block/&#8203;prevent) meditating, completely, either immediately, if you can, or durationally incline towards this (if it seems good enough, safe enough, etc., to do this). And, see what spontaneously, ongoingly remains, even so. That is, see how/if meditation (or anything) continues, if/&#8203;when you've completely stopped meditating, any/&#8203;all of which might be good or beyond goodness.
+
+[<a href="#109ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="110"></span> theory:
 
