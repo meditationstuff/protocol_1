@@ -109,6 +109,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 * https://rothos.github.io/protocol_1/
 
+**Note:** Separately, to get a readable plaintext version of the page you're reading, now, you can do a search replace of the source on "/&amp;#8203;" to "/", without the quotes, to clean up all the zero-width space character encodings without affecting anything else.
+
 
 
 # <span id="11"></span> Full Table of Contents:
