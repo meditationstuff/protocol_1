@@ -78,13 +78,13 @@ n/a
 		- fragrant, floral, perfume-y, fruity, citrusy, woody, resinous, chemical, sweet, minty, pepperminty, toasted, nutty, pungent, decayed, musky, spicy, yeasty, bloody, sulferious, herbal
 	- touch
 		- movement/vibration (“instantaneous” vs between moment frames...)
-		- wetness/liquidity/solidity/cohesiveness
+		- wetness/&#8203;liquidity/&#8203;solidity/&#8203;cohesiveness
 		- rough/smooth/slippery
 		- heat/cool
 		- pressure/hard/soft
 	- sound
 		- abrupt, acoustic, airy, annoying, big, brassy, cheerful, clamorous, clean, clear, close, cold, complex, crunchy, dense, distant, dry, dull, echoey, full, gentle, gritty, hard, harsh, heavy, high, hot, light, long, low, metallic, mild, muffled, muted, nasal, open, pure, quick, reedy, resonant, rich, ringing, rough, screaming, sharp, short, small, solid, sustained, synthetic, thick, thin, warm, wet, wooden
-	- movement/orientation/acceleration
+	- movement/&#8203;orientation/&#8203;acceleration
 		- acceleration, orientation, rotation, translation
 - less sensory
 	- copulae (incomplete)
@@ -288,7 +288,7 @@ n/a
 			- area
 			- body, volume, extension
 			- simple
-			- complex/composite
+			- complex/&#8203;composite
 			- unity
 			- plurality
 			- multiplicity
@@ -340,9 +340,9 @@ n/a
 			- to be able to
 			- to will (?)
 		- untitled
-			- it/something/someone/this/that/these/those/the_X/a_X/an_X/Xs/some/all/none/'s/of/point/ostention/thing/object(/concept)
+			- it/&#8203;something/&#8203;someone/&#8203;this/&#8203;that/&#8203;these/&#8203;those/&#8203;the_X/&#8203;a_X/&#8203;an_X/&#8203;Xs/&#8203;some/&#8203;all/&#8203;none/&#8203;'s/&#8203;of/&#8203;point/&#8203;ostention/&#8203;thing/&#8203;object&#8203;(/concept)
 		- untitled
-			- were/would/might/could/maybe_could/may/could_possibly/can_also/must_also/necessarily_also/definitely_also/is_also
+			- were/&#8203;would/&#8203;might/&#8203;could/&#8203;maybe_could/&#8203;may/&#8203;could_possibly/&#8203;can_also/&#8203;must_also/&#8203;necessarily_also/&#8203;definitely_also/&#8203;is_also
 			- contingent, conditional, counterfactual
 			- optionality, ability, choice
 	- simple
@@ -416,7 +416,7 @@ n/a
 	- causation
 	- (implication)
 	- [case: mutually exclusive exact comprehensive]
-	- [counterfactual: true/false/actual/nonactual/possible/impossible/forbidden/obligated(cf duty/responsibility)/permitted/able]
+	- [counterfactual: true/&#8203;false/&#8203;actual/&#8203;nonactual/&#8203;possible/&#8203;impossible/&#8203;forbidden/&#8203;obligated(cf duty/&#8203;responsibility)/&#8203;permitted/&#8203;able]
 	- actual
 	- real
 	- ability
@@ -464,7 +464,7 @@ n/a
 - untitled serial list
 	- agreement, union, unanimity, consent, consensus, conspiracy
 - untitle serial list
-	- time, space/spatial_distance/spatial_proximity/spatial_nonproximity, identity, personhood, grouphood/collectivehood/personcollectivehood, sensation (inc. perception vs generation), herenow/therethen, knowing [implying, causing, understanding, inferring, explaining..., being...][individuation][self(-identity), self-reference, I am this one, being this one][cf selfhood or not be “I” or not vs personhood]
+	- time, space/&#8203;spatial_distance/&#8203;spatial_proximity/&#8203;spatial_nonproximity, identity, personhood, grouphood/&#8203;collectivehood/&#8203;personcollectivehood, sensation (inc. perception vs generation), herenow/therethen, knowing [implying, causing, understanding, inferring, explaining..., being...][individuation][self(-identity), self-reference, I am this one, being this one][cf selfhood or not be “I” or not vs personhood]
 	eternia [cf timeless, eternal, sempiternal, etc.]
 	subversion of identity, subversion of X
 - untitled serial list

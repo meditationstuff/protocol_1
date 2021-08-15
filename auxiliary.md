@@ -1,4 +1,4 @@
-# <span id="195"></span> appendix 2: preliminary/auxiliary practices (full)
+# <span id="195"></span> appendix 2: preliminary/&#8203;auxiliary practices (full)
 
 This appendix the full contents of the preliminary/auxiliary practices. For the names of the preliminary/auxiliary practices, only, see this appendix:
   
@@ -174,7 +174,7 @@ Imagine or simulate something, involving the use of visual imagery, if possible.
 
 [<a href="#20auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="21auxiliary"></span> move grossly the “attention/thinking” muscles:
+# <span id="21auxiliary"></span> move grossly the “attention/&#8203;thinking” muscles:
 
 Deliberately move your eyes, jaw, tongue, head/neck, glottis, lips, palate.
 
@@ -182,7 +182,7 @@ Deliberately move your eyes, jaw, tongue, head/neck, glottis, lips, palate.
 
 [<a href="#21auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="22auxiliary"></span> notice and light move/influence the subtle “attention/thinking” muscles:
+# <span id="22auxiliary"></span> notice and light move/influence the subtle “attention/&#8203;thinking” muscles:
 
 Notice, and possibly lightly influence subtle muscle activity and subtle sensation of the eyes, jaw, tongue, back of the neck, back of the head, glottis, lips, palate.
 
@@ -312,7 +312,7 @@ Notice yourself talking to yourself, the reminding, convincing, suggesting, deny
 
 # <span id="38auxiliary"></span> notice the experience of other-ness:
 
-Notice other/alien/foreign/friend/enemy/parental/sibling/group/communal/cultural/global voices and impulses in you.
+Notice other/&#8203;alien/&#8203;foreign/&#8203;friend/&#8203;enemy/&#8203;parental/&#8203;sibling/&#8203;group/&#8203;communal/&#8203;cultural/&#8203;global voices and impulses in you.
 
 
 
@@ -692,7 +692,7 @@ Thus.
 
 [<a href="#84auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="85auxiliary"></span> explore the experience of feminine gendered intimacy/connection/compassion/warmth/love:
+# <span id="85auxiliary"></span> explore the experience of feminine gendered intimacy/&#8203;connection/&#8203;compassion/&#8203;warmth/&#8203;love:
 
 Thus.
 
@@ -700,7 +700,7 @@ Thus.
 
 [<a href="#85auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="86auxiliary"></span> explore the experience of masculine gendered intimacy/connection/compassion/warmth/love:
+# <span id="86auxiliary"></span> explore the experience of masculine gendered intimacy/&#8203;connection/&#8203;compassion/&#8203;warmth/&#8203;love:
 
 Thus.
 
@@ -772,7 +772,7 @@ Thus.
 
 [<a href="#94auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="95auxiliary"></span> explore not orgasming; explore magnifying sexual desire/arousal/motivation:
+# <span id="95auxiliary"></span> explore not orgasming; explore magnifying sexual desire/&#8203;arousal/&#8203;motivation:
 
 Thus.
 
@@ -852,7 +852,7 @@ Thus.
 
 [<a href="#104auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="105auxiliary"></span> feel your plans/intentions/goals change (or not) in your body:
+# <span id="105auxiliary"></span> feel your plans/&#8203;intentions/&#8203;goals change (or not) in your body:
 
 Thus.
 
@@ -1076,7 +1076,7 @@ Thus.
 
 [<a href="#132auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="133auxiliary"></span> watch for changes (in knowing/seeming/expecting):
+# <span id="133auxiliary"></span> watch for changes (in knowing/&#8203;seeming/&#8203;expecting):
 
 Thus.
 
@@ -1092,7 +1092,7 @@ Thus.
 
 [<a href="#134auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="135auxiliary"></span> watch for “real reasons (for doing/being/feeling)” (that were “previously just out of view”):
+# <span id="135auxiliary"></span> watch for “real reasons (for doing/&#8203;being/&#8203;feeling)” (that were “previously just out of view”):
 
 Thus.
 
@@ -1316,7 +1316,7 @@ Thus.
 
 [<a href="#162auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="163auxiliary"></span> temporarily and briefly block resist refuse some impulse/urge/inclination/reflex/action/doing:
+# <span id="163auxiliary"></span> temporarily and briefly block resist refuse some impulse/&#8203;urge/&#8203;inclination/&#8203;reflex/&#8203;action/&#8203;doing:
 
 Thus.
 
@@ -1396,7 +1396,7 @@ describe what’s happening, describe what seems to be the case, describe what�
 
 [<a href="#172auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="173auxiliary"></span> explicate/articulate:
+# <span id="173auxiliary"></span> explicate/&#8203;articulate:
 
 Put knowing into words; what is relevantly coming up that you know right now, that you might not have known that you know?
 
@@ -1539,7 +1539,7 @@ Remember/imagine (concretely) something that did/does/would make your heart sing
 
 [<a href="#190auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="191auxiliary"></span> exhaustivity/comprehensiveness/systematicity:
+# <span id="191auxiliary"></span> exhaustivity/&#8203;comprehensiveness/&#8203;systematicity:
 
 Ask, is that it? Is there more? Anything else? What is the next thing? And the next? How do I know that I’m done? How will I know I’m done? How do I know there’s more?
 
@@ -1678,7 +1678,7 @@ Listen for something faint and distant.
 
 [<a href="#207auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="208auxiliary"></span> imagine/hallucinate:
+# <span id="208auxiliary"></span> imagine/&#8203;hallucinate:
 
 Try to hallucinate life-sized, three-dimensional people, appearing/existing around you in your present physical space, as a problem-solving tool, a general exploratory tool, for fun, for sexual fantasy.
 
@@ -1830,7 +1830,7 @@ Like a cat that just woke up from a long nap. Try while standing, lying down, or
 
 [<a href="#226auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="227auxiliary"></span> connect deeply with purpose/value/meaning/goodness: (h)
+# <span id="227auxiliary"></span> connect deeply with purpose/&#8203;value/&#8203;meaning/&#8203;goodness: (h)
 
 Notice your current situation/trajectory, and connect as deeply as you can with how this situation/trajectory is (now & ongoingly) meaningful & valuable, what purpose it serves, what broader good(ness) it relates to, etc. In what ways is today good/meaningful/valuable? How does the goodness/meaningfulness/value of today connect to the goodness/meaningfulness/value of your entire life?
 
@@ -1950,7 +1950,7 @@ Move attention slowly through microcosmic orbit (loop around front and back of b
 
 [<a href="#241auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="242auxiliary"></span> bad to know/understand/see/be-able-to-tell:
+# <span id="242auxiliary"></span> bad to know/&#8203;understand/&#8203;see/&#8203;be-able-to-tell:
 
 Ask, is it bad to know [about] X, bad to understand [something about] X, bad to be able to see [something about X], bad to be able to tell something about X? If so, how did that come to be? Why? How do you know? How did you come to know?
 
@@ -2134,7 +2134,7 @@ Feel your “‘broken’ phenomenology”; rest in it, all of yourself with it,
 
 [<a href="#264auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="265auxiliary"></span> inability/can’t/ability/can:
+# <span id="265auxiliary"></span> inability/&#8203;can’t/&#8203;ability/&#8203;can:
 
 If you find you can’t do something, explore how to phrase it conditionally:
 
@@ -2206,9 +2206,9 @@ Thus.
 
 [<a href="#270auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="271auxiliary"></span> dwell in unknowing/uncertainty/confusion: (j)
+# <span id="271auxiliary"></span> dwell in unknowing/&#8203;uncertainty/&#8203;confusion: (j)
 
-(Allow/let yourself) dwell in unknowing/uncertainty/confusion.
+(Allow/let yourself) dwell in unknowing/&#8203;uncertainty/&#8203;confusion.
 
 comment:
 
@@ -2375,7 +2375,7 @@ Thus.
 
 [<a href="#289auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="290auxiliary"></span> devise new/better/relevant auxiliary practices: (h ht j)
+# <span id="290auxiliary"></span> devise new/&#8203;better/&#8203;relevant auxiliary practices: (h ht j)
 
 Thus.
 
@@ -2663,7 +2663,7 @@ Thus.
 
 [<a href="#323auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="324auxiliary"></span> locate the tragedy/mystery/joy/etc in X: (h)
+# <span id="324auxiliary"></span> locate the tragedy/&#8203;mystery/&#8203;joy/&#8203;etc in X: (h)
 
 Thus.
 
@@ -2719,7 +2719,7 @@ Thus.
 
 [<a href="#330auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="331auxiliary"></span> notice feeling connected to or disconnected from others & self & nature/world/environment: (h)
+# <span id="331auxiliary"></span> notice feeling connected to or disconnected from others & self & nature/&#8203;world/&#8203;environment: (h)
 
 Thus.
 
@@ -2745,7 +2745,7 @@ Thus.
 
 # <span id="334auxiliary"></span> pay attention to the X content of communication: (h)
 
-Pay attention to the emotional/intention/timing/sensitivity/feeling content of communication.
+Pay attention to the emotional/&#8203;intention/&#8203;timing/&#8203;sensitivity/&#8203;feeling content of communication.
 
 
 
@@ -2753,7 +2753,7 @@ Pay attention to the emotional/intention/timing/sensitivity/feeling content of c
 
 # <span id="335auxiliary"></span> pay attention to the Y content of communication: (h)
 
-Pay attention to the words/phrasing/conceptual/structural/thought content of communication.
+Pay attention to the words/&#8203;phrasing/&#8203;conceptual/&#8203;structural/&#8203;thought content of communication.
 
 
 
@@ -2775,7 +2775,7 @@ Thus.
 
 [<a href="#337auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="338auxiliary"></span> notice that you’re already enlightened/perfect/fine/good/good enough: (h)
+# <span id="338auxiliary"></span> notice that you’re already enlightened/&#8203;perfect/&#8203;fine/&#8203;good/&#8203;good enough: (h)
 
 Thus.
 
@@ -3246,7 +3246,7 @@ Thus.
 
 [<a href="#393auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="394auxiliary"></span> ask who/with/what/good/bad: (h)
+# <span id="394auxiliary"></span> ask who/&#8203;with/&#8203;what/&#8203;good/&#8203;bad: (h)
 
 Ask, “who or what is calling X bad[/good]?“, or “X is bad[/good] according to whom/what?”  
 Ask, “with what is X’s badness[/goodness] in contradiction with?”  
@@ -3275,7 +3275,7 @@ Thus.
 
 # <span id="397auxiliary"></span> embrace “analog”:
 
-Embrace analog/aconceptual/preconceptual/transconceptual/nondigital experiencing. 
+Embrace analog/&#8203;aconceptual/&#8203;preconceptual/&#8203;transconceptual/&#8203;nondigital experiencing. 
 
 
 
@@ -3339,7 +3339,7 @@ Feel the ground underneath you. Notice how little you have to do to be held, and
 
 # <span id="405auxiliary"></span> abandon reason: (j)
 
-Act/say/do/want/request/believe/assert/head-in-the-direction-of... just because you feel like it, even if you don’t have reasons, even if it doesn’t make sense, even if you don’t understand.
+Act/&#8203;say/&#8203;do/&#8203;want/&#8203;request/&#8203;believe/&#8203;assert/&#8203;head-in-the-direction-of... just because you feel like it, even if you don’t have reasons, even if it doesn’t make sense, even if you don’t understand.
 
 Don’t feel a need to justify or provide reason (to yourself or others). That which doesn’t make sense. That which you don’t understand.
 
@@ -3432,7 +3432,7 @@ Realize that you are here, now, not there, then.
 
 [<a href="#415auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="416auxiliary"></span> concreteness/abstractness:
+# <span id="416auxiliary"></span> concreteness/&#8203;abstractness:
 
 Realize it’s concretely this, not abstractly that.
 
@@ -3554,7 +3554,7 @@ Ask, for a there a way to come for it to be safe to look?
 
 # <span id="431auxiliary"></span> better than this:
 
-Ask, is there a way to come to something more good/better/nourishing/correct/I/me/myself than this?
+Ask, is there a way to come to something more good/&#8203;better/&#8203;nourishing/&#8203;correct/&#8203;I/&#8203;me/&#8203;myself than this?
 
 
 
@@ -3576,7 +3576,7 @@ Ask, is this younger or older?
 
 [<a href="#433auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="434auxiliary"></span> good/bad forwards/backwards:
+# <span id="434auxiliary"></span> good/&#8203;bad forwards/&#8203;backwards:
 
 Ask, is this good-forwards, good-backwards, bad-forwards, bad-backwards?
 
@@ -3634,7 +3634,7 @@ Consider the unintended consequences of the things you do and don't do. Consider
 
 # <span id="441auxiliary"></span> safe anger:
 
-Explore how to make it safe to feel (extreme, white hot, perseverative, repetitive) anger, rage, hate/hatred, outrage, disgust, fury (fear, envy, jealousy, horror) at specific/particular/concrete people in general or for specific/particular/concrete behaviors/actions/inactions/commissions/omissions, for seconds, minutes, hours, days, weeks. Deem them as horrible and bad as they are, to you or in the absolute. Explore how to make it safe to not suppress this, to not talk yourself out of this, to not try to (prematurely or otherwise) forgive them, to not try to (prematurely or otherwise) understand them or walk in their shoes so as to humanize, empathize, etc. (You can surely do all those things, but also explore the former things, too.
+Explore how to make it safe to feel (extreme, white hot, perseverative, repetitive) anger, rage, hate/hatred, outrage, disgust, fury (fear, envy, jealousy, horror) at specific/&#8203;particular/&#8203;concrete people in general or for specific/&#8203;particular/&#8203;concrete behaviors/&#8203;actions/&#8203;inactions/&#8203;commissions/&#8203;omissions, for seconds, minutes, hours, days, weeks. Deem them as horrible and bad as they are, to you or in the absolute. Explore how to make it safe to not suppress this, to not talk yourself out of this, to not try to (prematurely or otherwise) forgive them, to not try to (prematurely or otherwise) understand them or walk in their shoes so as to humanize, empathize, etc. (You can surely do all those things, but also explore the former things, too.
 
 comment:
 
@@ -4376,7 +4376,7 @@ collect past resolutions, declarations, promises you made to yourself about beha
 
 [<a href="#529auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="530auxiliary"></span> selectively embrace the dark side and feel/enjoy/appreciate its power:
+# <span id="530auxiliary"></span> selectively embrace the dark side and feel/&#8203;enjoy/&#8203;appreciate its power:
 
 Thus.
 
@@ -4609,7 +4609,7 @@ One might add “inhabit,” or “dwell in,” but those seem to connote or imp
 
 [<a href="#556auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="557auxiliary"></span> notice grasping/accumulating versus suffering:
+# <span id="557auxiliary"></span> notice grasping/&#8203;accumulating versus suffering:
 
 Thus.
 
@@ -4694,7 +4694,7 @@ Ask, might it/X/this be otherwise?
 
 [<a href="#566auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="567auxiliary"></span> need/bad/motivated to (not) believe:
+# <span id="567auxiliary"></span> need/&#8203;bad/&#8203;motivated to (not) believe:
 
 Ask, would it be bad to not believe this/X? Ask, would it be bad to believe this/X? Ask, do I have to believe this/X? Ask, do I have to not believe this?x? Ask, would it be good to believe this/X? Ask, would it be good to not believe this/X? Ask, would it be bad to not have to believe this/X? Ask...
 
@@ -4844,7 +4844,7 @@ What would it have been good to experience, at any point when you were younger, 
 
 [<a href="#584auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="585auxiliary"></span> memory/imagination triggering:
+# <span id="585auxiliary"></span> memory/&#8203;imagination triggering:
 
 Through memory, imagination, or imaginative riffs, trigger yourself, distress yourself.
 
@@ -5743,7 +5743,7 @@ Let your mind wander in whatever direction it wants to.
 
 [<a href="#690auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="691auxiliary"></span> focus on what feels best/worst/neutrally good/bad: (h; gpt-3)
+# <span id="691auxiliary"></span> focus on what feels best/&#8203;worst/&#8203;neutrally good/&#8203;bad: (h; gpt-3)
 
 Thus.
 
@@ -6030,9 +6030,9 @@ Incline toward noticing whether thoughts are “actively thought” or “passiv
 
 [<a href="#725auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="726auxiliary"></span> implications/inferences:
+# <span id="726auxiliary"></span> implications/&#8203;inferences:
 
-Ask, what are the implications/inferences?
+Ask, what are the implications/&#8203;inferences?
 
 
 
@@ -6062,7 +6062,7 @@ Ask, what's the conclusion? What are the conclusions?
 
 [<a href="#729auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="730auxiliary"></span> upstream implicatoins/inferences:
+# <span id="730auxiliary"></span> upstream implications/&#8203;inferences:
 
 Ask, what implies this?
 
@@ -6570,7 +6570,7 @@ Ask, where does the causal history of these two things join in the past?
 
 [<a href="#787auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="788auxiliary"></span> intellectual/immersive recollection:
+# <span id="788auxiliary"></span> intellectual/&#8203;immersive recollection:
 
 If you're "top-down, intellectually recalling" something. See if you might find a "bottom-up, immersive feel" for that same memory/event/situation/etc.
 
@@ -7120,17 +7120,17 @@ Have a 24-7 uncertainty party.
 
 [<a href="#851auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="852auxiliary"></span> (no escape from) actually/really/truly caring/wanting/desiring party:
+# <span id="852auxiliary"></span> (no escape from) actually/&#8203;really/&#8203;truly caring/&#8203;wanting/&#8203;desiring party:
 
-Have a (no escape from) actually/really/truly caring/wanting/desiring party.
+Have a (no escape from) actually/&#8203;really/&#8203;truly caring/&#8203;wanting/&#8203;desiring party.
 
 
 
 [<a href="#852auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="853auxiliary"></span> 24-7 (no escape from) actually/really/truly caring/wanting/desiring party:
+# <span id="853auxiliary"></span> 24-7 (no escape from) actually/&#8203;really/&#8203;truly caring/&#8203;wanting/&#8203;desiring party:
 
-Have a 24-7 (no escape from) actually/really/truly caring/wanting/desiring party.
+Have a 24-7 (no escape from) actually/&#8203;really/&#8203;truly caring/&#8203;wanting/&#8203;desiring party.
 
 
 
@@ -7264,7 +7264,7 @@ Move “[subtle] energy” in and along your body (minimally and conservatively,
 
 [<a href="#869auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="870auxiliary"></span> really/actually/truly want: (\*)
+# <span id="870auxiliary"></span> really/&#8203;actually/&#8203;truly want: (\*)
 
 Ask, what do you really/actually/truly want?
 
@@ -7316,7 +7316,7 @@ Check in with parts of yourself. How are they? How do the feel about it/X/this? 
 
 # <span id="875auxiliary"></span> make space for the original argument:
 
-Allow an answer to a question you pose to yourself to come up. Allow a counterargument/rationalization/anything to that answer to (spontaneously) form. Gently make space for the original answer, even so, and keep it company.
+Allow an answer to a question you pose to yourself to come up. Allow a counterargument/&#8203;rationalization/&#8203;anything to that answer to (spontaneously) form. Gently make space for the original answer, even so, and keep it company.
 
 
 

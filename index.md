@@ -409,7 +409,7 @@ I make many bold assertions in this document, and sometimes I use words like usu
 
 [<a href="#15h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="16"></span> risks; maximally cautious warnings/directives (first-pass, without explanation):
+# <span id="16"></span> risks; maximally cautious warnings/&#8203;directives (first-pass, without explanation):
 
 1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
 1. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
@@ -3134,7 +3134,7 @@ Deliberate engagement with concentration and tranquility practices can sometimes
 
 [<a href="#78h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="79"></span> "headyness"/"heady-ness"/"headiness":
+# <span id="79"></span> "headyness"/&#8203;"heady-ness"/&#8203;"headiness":
 
 [This section refers to main practice p2, which is discussed in detail at a later time. One can still get a lot out of this section before encountering a full description of p2.]
 
@@ -3705,7 +3705,7 @@ Alternative note: A future draft of this should maybe include percentages for "l
 
 [<a href="#87h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="88"></span> top-level practices/categories:
+# <span id="88"></span> top-level practices/&#8203;categories:
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
@@ -3726,39 +3726,39 @@ Alternative note: A future draft of this should maybe include percentages for "l
 
 **(0) Notes**
 
-* Note that you can also interleave/weave these questions (or the spirit of these questions) with[/into] a main meditation practice as you're doing it.
+* Note that you can also interleave/&#8203;weave these questions (or the spirit of these questions) with[/&#8203;into] a main meditation practice as you're doing it.
 * Don't force the questions below. If you're mind doesn't want to answer them, then don't make your mind answer them.
-* You don't need to get complete answers or verbal answers to the questions. Just good-faith try/intend to answer, being willing to release the *how* of how you're getting the answer or answering. When in doubt, let go and start over or let go completely. Let you mind have time and space to answer the questions however it wants. The mind might answer by doing something rather than answering the question, specifically.
-* You don't need to ask the questions below verbally or discretely, though it's good to experiment with that first. You can also cast your mind over the questions or the memory of the questions, sequentially, semi-sequentially, or all together, all at once. Try to vary how you're accessing the questions, verbally/sequentially versus all at once, and the degrees in between.
+* You don't need to get complete answers or verbal answers to the questions. Just good-faith try/&#8203;intend to answer, being willing to release the *how* of how you're getting the answer or answering. When in doubt, let go and start over or let go completely. Let you mind have time and space to answer the questions however it wants. The mind might answer by doing something rather than answering the question, specifically.
+* You don't need to ask the questions below verbally or discretely, though it's good to experiment with that first. You can also cast your mind over the questions or the memory of the questions, sequentially, semi-sequentially, or all together, all at once. Try to vary how you're accessing the questions, verbally/&#8203;sequentially versus all at once, and the degrees in between.
 * There is a "meta meta protocol" [sic] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
 * Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
 * Lots of things have the "flavor" or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re "not doing the meta protocol" but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s "going meta." It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly.
-* You might simply ask, what are all the options/affordances, here, and which might be good right now to pick?
-* Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/feel for answers with the body, the mind, or the bodymind, or anything, or everything.
+* You might simply ask, what are all the options/&#8203;affordances, here, and which might be good right now to pick?
+* Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/&#8203;feel for answers with the body, the mind, or the bodymind, or anything, or everything.
 
 
 **(1) Interleaved or Retrospective Evaluation of Happening and Doing**
 
-* **Happening/Experiencing**
+* **Happening/&#8203;Experiencing**
 	* What is currently generally *happening* when you meditate? What are you currently generally *experiencing* when you meditate?
-	* What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	* What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	* What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
+	* What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
 	* What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
 * **Doing**
 	* What do you currently generally *do* when you meditate?
-	* What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	* What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
+	* What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
+	* What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
 	* What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
 
 
 **(2) Solo or Dyadic Tight Feedback Loop**
 
-* **Online Data Collection, Alone or with an Observer/Coach/Consultant/Friend:**
-	* As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? Start now. [If talking/articulating/explicating/sharing is grindy, jammy, force-y, unsafe, bad feeling, don't! It's not the right time or context to be doing it, then! If alone, you might try doing the spirit of this but completely nonverbally.]
+* **Online Data Collection, Alone or with an Observer/&#8203;Coach/&#8203;Consultant/&#8203;Friend:**
+	* As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? Start now. [If talking/&#8203;articulating/&#8203;explicating/&#8203;sharing is grindy, jammy, force-y, unsafe, bad feeling, don't! It's not the right time or context to be doing it, then! If alone, you might try doing the spirit of this but completely nonverbally.]
 * **Interleaved or Offline Analysis (While Taking a Break from Meditating):**
-	* What of that was in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	* What of that was in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/these impression(s)[/sense(s)/intuition(s)/feeling(s)], as far as you can currently tell?
-	* What of that are you currently unsure of whether it might have been contextually good or bad? How might you come to know better what of that was/is contextually good or bad?
+	* What of that was in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
+	* What of that was in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
+	* What of that are you currently unsure of whether it might have been contextually good or bad? How might you come to know better what of that was/&#8203;is contextually good or bad?
 	* For what’s seemingly contextually good, as far as you can currently tell, how might or will you keep doing it? And under what conditions might it or might it not be good to stop, if ever?
 	* For what’s seemingly contextually bad, as far as you can currently tell, what might or might not be good to do about that, and when or under what conditions, as far as you can currently tell?
 Offline Generative, While Taking a Break from Meditating:
@@ -3826,7 +3826,7 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 
 [<a href="#94h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="95"></span> preliminary/auxiliary practices:
+# <span id="95"></span> preliminary/&#8203;auxiliary practices:
 
 The preliminary/auxiliary practices are sometimes useful to explore before and concurrently with the main practices, especially main practice p2.
 
@@ -3977,38 +3977,38 @@ The current renderings of the main practices are below.
 # <span id="100"></span> p1: [old names: Elemental Analysis, Comprehensive Elemental Analysis]
 
 (1) Incline towards producing one of
-* (1a) a logical argument/deduction/derivation (standalone or possibly including a narrativized explanation), [What implies/entails this/X? What does X/this imply/entail? Why X? What is the reason for X? What follows from X? X=?]
-* (1b) a description of a causal mechanism, [What caused this/X? What does this/X cause? X=?] [How does that work?] [(1/2) What’s going on? What’s going on, there? What’s going on, here? What’s going on, out there? What’s going on, in here?]
-* (1c) a description of some spatiotemporal sensations/experience, [What is before this/X? What is after this/X? What’s next? What is adjacent to this/X?  What qualities does this/X have? X=?] [(2/2) What’s going on? What’s going on, there? What’s going on, here? What’s going on, out there? What’s going on, in here?]
+* (1a) a logical argument/&#8203;deduction/&#8203;derivation (standalone or possibly including a narrativized explanation), [What implies/&#8203;entails this/&#8203;X? What does X/&#8203;this imply/&#8203;entail? Why X? What is the reason for X? What follows from X? X=?]
+* (1b) a description of a causal mechanism, [What caused this/&#8203;X? What does this/&#8203;X cause? X=?] [How does that work?] [(1/&#8203;2) What’s going on? What’s going on, there? What’s going on, here? What’s going on, out there? What’s going on, in here?]
+* (1c) a description of some spatiotemporal sensations/&#8203;experience, [What is before this/&#8203;X? What is after this/&#8203;X? What’s next? What is adjacent to this/&#8203;X?  What qualities does this/&#8203;X have? X=?] [(2/&#8203;2) What’s going on? What’s going on, there? What’s going on, here? What’s going on, out there? What’s going on, in here?]
 * (1d) an explanation of a phenomenon and possibly alternate credible explanations of that phenomenon
 * (1e) an evaluation or appraisal of something
 * (1f) instructions for achieving something
 * (1g) description of an ideal, endorsement
 * (1h) description of a goal state
-* (1i) a description of a dynamical first-person perspective/experience (your present experience, experiential memory, inferred of another, or imagined), including mental, sensory, and somatic experience
+* (1i) a description of a dynamical first-person perspective/&#8203;experience (your present experience, experiential memory, inferred of another, or imagined), including mental, sensory, and somatic experience
 * (1j.1) a question and possibly and answer, or
-* (1j.2) a topic/subject and possibly content subsumed by that topic/subject
+* (1j.2) a topic/&#8203;subject and possibly content subsumed by that topic/&#8203;subject
 * (1k) a problem and possibly a solution
-* (1l) some (or as exhaustively as you can) of your "actual/deepest/truest" (a) beliefs and (b) expectations—good, bad, and ugly, beautiful, endorsed, disendorsement,and relevant into words, in your "heart of hearts," "throat of throats," "gut of guts," "genitals of genitals," "sacrum of sacrums," "perineum of perineums," etc.: the beliefs and expectations and representations of the mind and body.
+* (1l) some (or as exhaustively as you can) of your "actual/&#8203;deepest/&#8203;truest" (a) beliefs and (b) expectations—good, bad, and ugly, beautiful, endorsed, disendorsement,and relevant into words, in your "heart of hearts," "throat of throats," "gut of guts," "genitals of genitals," "sacrum of sacrums," "perineum of perineums," etc.: the beliefs and expectations and representations of the mind and body.
 * (1m) some (or as exhaustively as you can) of your plans, intentions, willing, goals
 * (1n) a meaningful story
 * (1o) a meaningful autobiographical detailed excerpt or lifelong summary
 * (1p) a plan for achieving something
-* (1q) a list of that which you desire/thirst/crave, hope for, wish for, long for, etc.
+* (1q) a list of that which you desire/&#8203;thirst/&#8203;crave, hope for, wish for, long for, etc.
 * (1r) a list of that which you fear
 * (1s) a list of that which you love
 * (1t) a list of that which you hate
-* (1u) a story/fantasy/narrative/scenario that is (a) exciting (and/or otherwise good e.g. uplifting or psychological) and/or (b) sexually arousing and/or (c) evocative if connection/intimacy/safety
-* (1v) counterfactuals: for something that went one way or could have gone a way or might go a way or will go a way, how it could that have, did, or will go/gone a different way, elaborate on that, and what changed for that to be the case
+* (1u) a story/&#8203;fantasy/&#8203;narrative/&#8203;scenario that is (a) exciting (and/&#8203;or otherwise good e.g. uplifting or psychological) and/&#8203;or (b) sexually arousing and/&#8203;or (c) evocative if connection/&#8203;intimacy/&#8203;safety
+* (1v) counterfactuals: for something that went one way or could have gone a way or might go a way or will go a way, how it could that have, did, or will go/&#8203;gone a different way, elaborate on that, and what changed for that to be the case
 * (1w) positive examples of something (things that are examples of X) as different from each other as possible, negative examples of that something (things that are examples of not-X) as different from each other as can be and as minimally different from positive examples of X in as many different ways as can be
 * (1x) actions, doings; things you’re doing right now, volitionally or nonvolitionally, as broadly conceived as possible
-* (1y) an personal inability/can’t/powerlessness and possibly a believable way to acquire that ability
-* (1z) a "further purpose" a "for what you are doing something"; "I am doing/striving for X for/because"; "X is good because..."
+* (1y) an personal inability/&#8203;can’t/&#8203;powerlessness and possibly a believable way to acquire that ability
+* (1z) a "further purpose" a "for what you are doing something"; "I am doing/&#8203;striving for X for/&#8203;because"; "X is good because..."
 * (1z1) a memory
 * (1z2) any type of writing you want for any purpose.
 * (1z3) your motivations or reasons, beliefs, knowings, understandings, or expectations for or underlying the actions, doings; things you’re doing right now, volitionally or nonvolitionally, as broadly conceived as possible, as exhaustively or usefully as possible
 
-(2) Get down (think or write down) as little or as much material as comes easily, even just a single relevant word or phrase. (And you can also patiently compose and/or revise as you go, or set up an outline structure to fill in, or do lots of messy freewriting, or a combination...)
+(2) Get down (think or write down) as little or as much material as comes easily, even just a single relevant word or phrase. (And you can also patiently compose and/&#8203;or revise as you go, or set up an outline structure to fill in, or do lots of messy freewriting, or a combination...)
 
 (3) Choose, from the material you produced,
 
@@ -4021,7 +4021,7 @@ The current renderings of the main practices are below.
 
 (5) Now, on the righthand side of the equals sign, say the same thing using more words than on the left side of the equals sign. It’s ok if you produce something partial, imperfect, or nothing.
 
-(6) Now, you might return to the original material for more content to repeat the exercise, or take something from the zoom/expansion/analysis you just did and zoom/expand/analyze  further.
+(6) Now, you might return to the original material for more content to repeat the exercise, or take something from the zoom/&#8203;expansion/&#8203;analysis you just did and zoom/&#8203;expand/&#8203;analyze  further.
 
 (7) Feel free to refactor, revise, expand, reboot the original material as much or as little as you’d like.
 
@@ -4031,7 +4031,7 @@ The current renderings of the main practices are below.
 
 (9b) You might play with this template:
 
-[this/these] whole(s) Y is/are/contain(s)/= [this/these] parts M[, F...] + "just exactly/precisely [this/these aforementioned]/and nothing else"
+[this/&#8203;these] whole(s) Y is/&#8203;are/&#8203;contain(s)/&#8203;= [this/&#8203;these] parts M[, F...] + "just exactly/&#8203;precisely [this/&#8203;these aforementioned]/&#8203;and nothing else"
 
 That is, M and F are known; you have some words for them. Now, what is Y? What are some words for Y?
 
@@ -4042,25 +4042,25 @@ suffering_2 =
 suffering_3 =  
 and so on.  
 
-You might ask, what is everything I could possibly mean by this word (or phrase) "suffering"/X?
+You might ask, what is everything I could possibly mean by this word (or phrase) "suffering"/&#8203;X?
 
-In this way, the word "suffering" can become more detached and flexible from the underlying language, while at the same time making each use of the word more precise. The subscripts do not have to be numbers; they can be anything that helps to differentiate which meaning/usage/sense of the word that you mean. That might be times or durations or conditions and so forth. [See also General Semantics for more on the idea of "indexing."]
+In this way, the word "suffering" can become more detached and flexible from the underlying language, while at the same time making each use of the word more precise. The subscripts do not have to be numbers; they can be anything that helps to differentiate which meaning/&#8203;usage/&#8203;sense of the word that you mean. That might be times or durations or conditions and so forth. [See also General Semantics for more on the idea of "indexing."]
 
-(10) Also, consider intensional multischematism. For example, you might say that the same M can be referred to by single word R and single word H. That is R and H have different meanings/intensions but they refer or point to the same thing or set of things. Further, R = G + H + T and X = V + W + Q.  That is, (G + H + T) and (V + W + Y) each have different meanings, but correspond to R and X, respectively. Further, you might notice that, say, T and W, while using different words and meaning different things, in fact refer to the same thing(s), have the same extension. Another way of saying things like this is that the concept M, or that which directly represents M, or <M>, refers or applies to M using the word "M". Or, you might say that both <M> and <K> refer or apply to the same extension; "M" and "K" refer to M and K which are actually the same. In our syntax and semantics, here, M = K.
+(10) Also, consider intensional multischematism. For example, you might say that the same M can be referred to by single word R and single word H. That is R and H have different meanings/&#8203;intensions but they refer or point to the same thing or set of things. Further, R = G + H + T and X = V + W + Q.  That is, (G + H + T) and (V + W + Y) each have different meanings, but correspond to R and X, respectively. Further, you might notice that, say, T and W, while using different words and meaning different things, in fact refer to the same thing(s), have the same extension. Another way of saying things like this is that the concept M, or that which directly represents M, or <M>, refers or applies to M using the word "M". Or, you might say that both <M> and <K> refer or apply to the same extension; "M" and "K" refer to M and K which are actually the same. In our syntax and semantics, here, M = K.
 
 **Example a:** This M and this K are the same (thing). [not just the same type of thing. <this M> and <this K> corefer to M (which is K) and K (which is M).]
 
 **Example b:** All Gs are also Hs.
 
-[note that the above is ambiguous as to whether X, Y, Z, etc. are "bound" or "unbound" for any given X in the language/wrting above]
+[note that the above is ambiguous as to whether X, Y, Z, etc. are "bound" or "unbound" for any given X in the language/&#8203;wrting above]
 
 
 **Examples:**
 
 * Example 1a: X = The cat sat on the mat.
 * Example 1b: Y = cat in X = furry animal + ...
-* Example 1c: Z = furry in Y = experientially noncontiguous nonhomogenous light nonpunctate/distributed pressure when touched gently
-* Example 1d: Q = noncontiguous in Z = mediacy and absence = missing immediate relations = a proper subset of immediate relations from a particular designated/delimited closed/finite set
+* Example 1c: Z = furry in Y = experientially noncontiguous nonhomogenous light nonpunctate/&#8203;distributed pressure when touched gently
+* Example 1d: Q = noncontiguous in Z = mediacy and absence = missing immediate relations = a proper subset of immediate relations from a particular designated/&#8203;delimited closed/&#8203;finite set
 * Example 2a: T = rippling water = directionality backflows dappled light dark traveling shimmers twinkle flecks arc chase over under undulate
 * Example 3a: R = The last thing was cheese. We find that in these cases...
 * Example 3b: M = [cheese.] [We] in R = ...summary signpost implication...
@@ -4077,11 +4077,11 @@ X, Y =
 
 * a) true, false
 * b) good, bad
-* c) existent/present, nonexistent/absent
-* d) necessary/unconditional/noncontingent, conditional/contingent
-* e) possible/conceivable, impossible/inconceivable
-* f) simple/nonpartful, complex/composite
-* g) unified/whole/connected, separate/plural/multiple
+* c) existent/&#8203;present, nonexistent/&#8203;absent
+* d) necessary/&#8203;unconditional/&#8203;noncontingent, conditional/&#8203;contingent
+* e) possible/&#8203;conceivable, impossible/&#8203;inconceivable
+* f) simple/&#8203;nonpartful, complex/&#8203;composite
+* g) unified/&#8203;whole/&#8203;connected, separate/&#8203;plural/&#8203;multiple
 * h) before or after, synchronous
 * i) veridical, nonveridical
 * j) beautiful, ugly
@@ -4090,12 +4090,12 @@ X, Y =
 
 Further notes:
 
-* You might also write/think/say things (assertions) and then incline towards generating relevant (apparent, seeming, believed, thought, felt, wondered, imagined, suspected, endorsed, something...) counterexamples or contradictions to those things. And then use the things and the counterexamples or contradictions to improve on the original thing or to write a better thing not subject to the original counterexamples or contradictions.
+* You might also write/&#8203;think/&#8203;say things (assertions) and then incline towards generating relevant (apparent, seeming, believed, thought, felt, wondered, imagined, suspected, endorsed, something...) counterexamples or contradictions to those things. And then use the things and the counterexamples or contradictions to improve on the original thing or to write a better thing not subject to the original counterexamples or contradictions.
 * Some additional good concepts, semi-separately, are "error correction," "counterfactual," "counterexample..."
 * Try also: not X = [pick things and see if they’re in or out, let this change anything]
-* Consider swapping out the =/equals sign above with things like: is, means, signifies, is equivalent to, ~/sort of equals; maybe equals; could equal; is; is essentially; could be conceived as; could be construed as; could be stipulated as; could be schematized as; could be conveniently stipulated as; boils down to; could have a good enough for now/here definition of; is/can be defined as; most people think of this like/as; is like...
-* In addition to =/equals and so forth, you can of course try using the particular word or phrase in a sentence or sentences.
-* If you write down assertions anywhere, e.g. as premises or points in an argument, you might ad hoc or systematically look for counterexamples. You might also, ad hoc or systematically, explore objections that others might raise to the/those assertion(s).
+* Consider swapping out the =/&#8203;equals sign above with things like: is, means, signifies, is equivalent to, ~/&#8203;sort of equals; maybe equals; could equal; is; is essentially; could be conceived as; could be construed as; could be stipulated as; could be schematized as; could be conveniently stipulated as; boils down to; could have a good enough for now/&#8203;here definition of; is/&#8203;can be defined as; most people think of this like/&#8203;as; is like...
+* In addition to =/&#8203;equals and so forth, you can of course try using the particular word or phrase in a sentence or sentences.
+* If you write down assertions anywhere, e.g. as premises or points in an argument, you might ad hoc or systematically look for counterexamples. You might also, ad hoc or systematically, explore objections that others might raise to the/&#8203;those assertion(s).
 
 Final note:
 
@@ -4111,35 +4111,35 @@ Main practice p1 has an appendix in this document.
 
 # <span id="101"></span> p2:
 
-* will = will(/intend/plan) [that P]; do something volitional that alters expectations for future in a specific way; willing[/intending/planning/expecting/intent [to produce (an) effect (that)]; goal, purpose, for-what-purpose, for-what-further-good(ness)-If-any, for-ness, in-the-service-of
-* acting/doing/do = do/act/cause/maintain/enable/incept/start/prevent/block/stop/end/facilitate/retard/stabilize/change/think/know/sense/judge/evaluate/ compare/differentiate/hear/see/smell/taste/look/listen/appreciate/enjoy/contemplate/imagine/grasp/accumulate/suffer/think/feel/have part in/querying/asking/wondering/imagining/storytelling/narrating/what-if-ing/solving/solutioning/what-would-they-do-ing/questioning/assessing/judging/evaluating/participate in/push/pull/raise/lower/attend/image/envision/visualize/interrupt/preempt/interleave/substitute/switch/meaning-making/meaning-dissolving, [language-ing, say-ing, word-ing, verbalizing, phrase-ing, sentence-ing, meaning-ing,] experimenting, waiting, observing, interrupting, moving, stabilizing, tuning, sounding, querying, testing, assessing, aligning, rearrangeing, ideating, simulating, gesturing, projecting, anticipating, predicting, expecting [A]/A
+* will = will(/&#8203;intend/&#8203;plan) [that P]; do something volitional that alters expectations for future in a specific way; willing[/&#8203;intending/&#8203;planning/&#8203;expecting/&#8203;intent [to produce (an) effect (that)]; goal, purpose, for-what-purpose, for-what-further-good(ness)-If-any, for-ness, in-the-service-of
+* acting/&#8203;doing/&#8203;do = do/&#8203;act/&#8203;cause/&#8203;maintain/&#8203;enable/&#8203;incept/&#8203;start/&#8203;prevent/&#8203;block/&#8203;stop/&#8203;end/&#8203;facilitate/&#8203;retard/&#8203;stabilize/&#8203;change/&#8203;think/&#8203;know/&#8203;sense/&#8203;judge/&#8203;evaluate/&#8203; compare/&#8203;differentiate/&#8203;hear/&#8203;see/&#8203;smell/&#8203;taste/&#8203;look/&#8203;listen/&#8203;appreciate/&#8203;enjoy/&#8203;contemplate/&#8203;imagine/&#8203;grasp/&#8203;accumulate/&#8203;suffer/&#8203;think/&#8203;feel/&#8203;have part in/&#8203;querying/&#8203;asking/&#8203;wondering/&#8203;imagining/&#8203;storytelling/&#8203;narrating/&#8203;what-if-ing/&#8203;solving/&#8203;solutioning/&#8203;what-would-they-do-ing/&#8203;questioning/&#8203;assessing/&#8203;judging/&#8203;evaluating/&#8203;participate in/&#8203;push/&#8203;pull/&#8203;raise/&#8203;lower/&#8203;attend/&#8203;image/&#8203;envision/&#8203;visualize/&#8203;interrupt/&#8203;preempt/&#8203;interleave/&#8203;substitute/&#8203;switch/&#8203;meaning-making/&#8203;meaning-dissolving, [language-ing, say-ing, word-ing, verbalizing, phrase-ing, sentence-ing, meaning-ing,] experimenting, waiting, observing, interrupting, moving, stabilizing, tuning, sounding, querying, testing, assessing, aligning, rearrangeing, ideating, simulating, gesturing, projecting, anticipating, predicting, expecting [A]/&#8203;A
 
 **Background intention:**
 
-* For which it’s good to do so and you can do so, will that you become aware of potential and actual willing, doing, faith/forbearance, and release that is or will be currently good to become aware of. And, simultaneously, for which it’s good to do so and you can do so, will that you do not become aware of potential and actual willing that is or will be currently bad to become aware of.
+* For which it’s good to do so and you can do so, will that you become aware of potential and actual willing, doing, faith/&#8203;forbearance, and release that is or will be currently good to become aware of. And, simultaneously, for which it’s good to do so and you can do so, will that you do not become aware of potential and actual willing that is or will be currently bad to become aware of.
 
 **Will Instructions Part 1:**
 
-* If you become aware that it would be good to directly and immediately will [in such or such and thus a manner/sense/way] that or something like or in the neighborhood of [proposition] P at or during a particular time/moment/instant or interval/duration, and, at or during that particular time/moment/instant or interval/duration, you can do so, and it’s still good to do so, then do so; allow or participate in that happening.
-* If you become aware that it would be bad to directly and immediately will [in such or such and thus a manner/sense/way] that or something like or in the neighborhood of [proposition] P at or during a particular time/moment/instant or interval/duration, and, at or during that particular time/moment/instant or interval/duration, you can do so, and it’s still good to do so, then don't do so (don't start doing so or stop doing so); have the [minimal] absence of that willing; allow or participate in that happening.
-* If you become aware that it would in some sense have been good to do so but you can’t (a) will or can’t (b) have the absence of willing that or something like or in the neighborhood of some particular [proposition] P, at or during a particular time/moment/instant or interval/duration, then stop trying completely, will that you have the absence of willing that P and ultimately release even that; allow or participate in that happening.
+* If you become aware that it would be good to directly and immediately will [in such or such and thus a manner/&#8203;sense/&#8203;way] that or something like or in the neighborhood of [proposition] P at or during a particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, and, at or during that particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, you can do so, and it’s still good to do so, then do so; allow or participate in that happening.
+* If you become aware that it would be bad to directly and immediately will [in such or such and thus a manner/&#8203;sense/&#8203;way] that or something like or in the neighborhood of [proposition] P at or during a particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, and, at or during that particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, you can do so, and it’s still good to do so, then don't do so (don't start doing so or stop doing so); have the [minimal] absence of that willing; allow or participate in that happening.
+* If you become aware that it would in some sense have been good to do so but you can’t (a) will or can’t (b) have the absence of willing that or something like or in the neighborhood of some particular [proposition] P, at or during a particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, then stop trying completely, will that you have the absence of willing that P and ultimately release even that; allow or participate in that happening.
 
-**Will Instructions Part 2 (the "opposite" or "absence" or "antidote" of/to will):**
+**Will Instructions Part 2 (the "opposite" or "absence" or "antidote" of/&#8203;to will):**
 
-* If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as "volitional-you-proper" is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/destiny/inevitability/choicelessness/expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, daydream, fantasize, reverie, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, let [it] relax, let [it] recede, let it undo itself, dream, get lost, be lost, forget, allow, surrender, suffer, free-associate, be confused, be uncertain, be out of control, let go, ‘controlled/channelized "falling backwards [into]")’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.  
-* If you become aware that it would be bad to have faith or forbearance or resignation or surrender or giving up, etc. about something relative to your fate/destiny/inevitability/choicelessness/expectation[e.g.][(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality], to forget, dream, hypnogogia, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, ‘controlled/channelized "falling backwards [into]", fall-backwards-into, fall-forwards-backwards-into)’ [...], etc.,  and you can (not) do so, do not surrender to that, don’t do that. [e.g./for example maybe: fight, resist, will, try everything, try different things, go back to the drawing board, exhaust every possibility, give it everything you have, try more things, etc., or not, or don’t]
+* If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as "volitional-you-proper" is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/&#8203;destiny/&#8203;inevitability/&#8203;choicelessness/&#8203;expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, daydream, fantasize, reverie, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, let [it] relax, let [it] recede, let it undo itself, dream, get lost, be lost, forget, allow, surrender, suffer, free-associate, be confused, be uncertain, be out of control, let go, ‘controlled/&#8203;channelized "falling backwards [into]")’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.  
+* If you become aware that it would be bad to have faith or forbearance or resignation or surrender or giving up, etc. about something relative to your fate/&#8203;destiny/&#8203;inevitability/&#8203;choicelessness/&#8203;expectation[e.g.][(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality], to forget, dream, hypnogogia, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, ‘controlled/&#8203;channelized "falling backwards [into]", fall-backwards-into, fall-forwards-backwards-into)’ [...], etc.,  and you can (not) do so, do not surrender to that, don’t do that. [e.g./&#8203;for example maybe: fight, resist, will, try everything, try different things, go back to the drawing board, exhaust every possibility, give it everything you have, try more things, etc., or not, or don’t]
 * If you find you can’t do one of the two above, then stop trying completely, will that you have the absence of trying and ultimately release even that; allow or participate in that happening.
 
 **Action Instructions Part 1:**
 
-* If you become aware that it would be good to directly and immediately do [in such or such and thus a manner/sense/way] that or something like or in the neighborhood of [action/behavior/doing/self-happening—do/act/cause/maintain/enable/incept/start/prevent/block/stop/end/facilitate/retard/stabilize/change/think/know/sense/judge/evaluate/ compare/differentiate/hear/see/smell/taste/look/listen/appreciate/enjoy/contemplate/imagine/grasp/accumulate/suffer/feel/check/test/try/experiment/have-part-in/querying/asking/wondering/imagining/storytelling/narrating/what-if-ing/solving/solutioning/what-would-they-do-ing/questioning/assessing/judging/evaluating ... participating in/push/pull/raise/lower/attend/image/envision/visualize/interrupt/preempt/interleave/substitute/switch/meaning-making/meaning-dissolving, [language-ing, say-ing, word-ing, verbalizing, phrase-ing, sentence-ing, meaning-ing,] experimenting, waiting, observing, interrupting, moving, stabilizing, tuning, sounding, querying, testing, assessing, aligning, rearrangeing, ideating, simulating, gesturing, projecting, anticipating, predicting, expecting] [A]/A at or during a particular time/moment/instant or interval/duration, and, at or during that particular time/moment/instant or interval/duration, you can do so, and it’s still good to do so, then do so; allow or participate in that happening. [Selecting from space of all possible actions...]
-* If you become aware that it would be bad to directly and immediately do [in such or such and thus a manner/sense/way] that or something like or in the neighborhood of [action/behavior/doing/self-happening/etc.] A at or during a particular time/moment/instant or interval/duration, and, at or during that particular time/moment/instant or interval/duration, you can (not) do so, and it’s still good to (not) do so, then don't do so (don't start doing so or stop doing so); have the [minimal] absence of that doing [A]; allow or participate in that happening.
-* If you become aware that it would have in some sense been good to do so but you can’t (a) do or can’t (b) have the absence of doing that or something like or in the neighborhood of some particular [action/behavior/doing/self-happening] A, at or during a particular time/moment/instant or interval/duration, then stop trying completely, will that you have the absence of doing A and ultimately release even that; allow or participate in that happening.
+* If you become aware that it would be good to directly and immediately do [in such or such and thus a manner/&#8203;sense/&#8203;way] that or something like or in the neighborhood of [action/&#8203;behavior/&#8203;doing/&#8203;self-happening—do/&#8203;act/&#8203;cause/&#8203;maintain/&#8203;enable/&#8203;incept/&#8203;start/&#8203;prevent/&#8203;block/&#8203;stop/&#8203;end/&#8203;facilitate/&#8203;retard/&#8203;stabilize/&#8203;change/&#8203;think/&#8203;know/&#8203;sense/&#8203;judge/&#8203;evaluate/&#8203; compare/&#8203;differentiate/&#8203;hear/&#8203;see/&#8203;smell/&#8203;taste/&#8203;look/&#8203;listen/&#8203;appreciate/&#8203;enjoy/&#8203;contemplate/&#8203;imagine/&#8203;grasp/&#8203;accumulate/&#8203;suffer/&#8203;feel/&#8203;check/&#8203;test/&#8203;try/&#8203;experiment/&#8203;have-part-in/&#8203;querying/&#8203;asking/&#8203;wondering/&#8203;imagining/&#8203;storytelling/&#8203;narrating/&#8203;what-if-ing/&#8203;solving/&#8203;solutioning/&#8203;what-would-they-do-ing/&#8203;questioning/&#8203;assessing/&#8203;judging/&#8203;evaluating ... participating in/&#8203;push/&#8203;pull/&#8203;raise/&#8203;lower/&#8203;attend/&#8203;image/&#8203;envision/&#8203;visualize/&#8203;interrupt/&#8203;preempt/&#8203;interleave/&#8203;substitute/&#8203;switch/&#8203;meaning-making/&#8203;meaning-dissolving, [language-ing, say-ing, word-ing, verbalizing, phrase-ing, sentence-ing, meaning-ing,] experimenting, waiting, observing, interrupting, moving, stabilizing, tuning, sounding, querying, testing, assessing, aligning, rearrangeing, ideating, simulating, gesturing, projecting, anticipating, predicting, expecting] [A]/&#8203;A at or during a particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, and, at or during that particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, you can do so, and it’s still good to do so, then do so; allow or participate in that happening. [Selecting from space of all possible actions...]
+* If you become aware that it would be bad to directly and immediately do [in such or such and thus a manner/&#8203;sense/&#8203;way] that or something like or in the neighborhood of [action/&#8203;behavior/&#8203;doing/&#8203;self-happening/&#8203;etc.] A at or during a particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, and, at or during that particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, you can (not) do so, and it’s still good to (not) do so, then don't do so (don't start doing so or stop doing so); have the [minimal] absence of that doing [A]; allow or participate in that happening.
+* If you become aware that it would have in some sense been good to do so but you can’t (a) do or can’t (b) have the absence of doing that or something like or in the neighborhood of some particular [action/&#8203;behavior/&#8203;doing/&#8203;self-happening] A, at or during a particular time/&#8203;moment/&#8203;instant or interval/&#8203;duration, then stop trying completely, will that you have the absence of doing A and ultimately release even that; allow or participate in that happening.
 
-**Action Instructions Part 2 (the "opposite" or "absence" or "antidote" of/to action):**
+**Action Instructions Part 2 (the "opposite" or "absence" or "antidote" of/&#8203;to action):**
 
-* If you become aware that it would be good to (instead) revert/have become labile/undo/invert/reverse/inverse [operation]/release/"incomplete"/let go of/redo-to-undo/replay-to-undo/revisit-to-undo/return-to-to-undo/juxtapose-to-undo/allow-to-undo/dream-to-undo/reverie-to-undo/do-to-undo/go-true-backwards/go-perfect-backwards/‘controlled/channelized "falling backwards [into]"; fall-backwards-into, fall-forwards-backwards-into)’ the immediate effects of some particular acting/doing A, and you can do so, then do so; allow or participate in that happening.
-* If you become aware that it would be bad to revert/have-become-labile/undo/invert/reverse/inverse-[operation]/release/"incomplete"/let-go-of/de-reify/un-reify/‘controlled/channelized "falling backwards [into]")’ the immediate effects of some particular acting/doing A, and you can (not) do so, then don't do so (don't start doing so or stop doing so); allow or participate in that (not) happening.
+* If you become aware that it would be good to (instead) revert/&#8203;have become labile/&#8203;undo/&#8203;invert/&#8203;reverse/&#8203;inverse [operation]/&#8203;release/&#8203;"incomplete"/&#8203;let go of/&#8203;redo-to-undo/&#8203;replay-to-undo/&#8203;revisit-to-undo/&#8203;return-to-to-undo/&#8203;juxtapose-to-undo/&#8203;allow-to-undo/&#8203;dream-to-undo/&#8203;reverie-to-undo/&#8203;do-to-undo/&#8203;go-true-backwards/&#8203;go-perfect-backwards/&#8203;‘controlled/&#8203;channelized "falling backwards [into]"; fall-backwards-into, fall-forwards-backwards-into)’ the immediate effects of some particular acting/&#8203;doing A, and you can do so, then do so; allow or participate in that happening.
+* If you become aware that it would be bad to revert/&#8203;have-become-labile/&#8203;undo/&#8203;invert/&#8203;reverse/&#8203;inverse-[operation]/&#8203;release/&#8203;"incomplete"/&#8203;let-go-of/&#8203;de-reify/&#8203;un-reify/&#8203;‘controlled/&#8203;channelized "falling backwards [into]")’ the immediate effects of some particular acting/&#8203;doing A, and you can (not) do so, then don't do so (don't start doing so or stop doing so); allow or participate in that (not) happening.
 * If you become aware that it would have in some sense been good to revert or have something become labile (or not) but you can’t, then stop trying completely, will that you have the absence of such and ultimately release even that; allow or participate in that happening.
 
 Notes:
@@ -4147,73 +4147,73 @@ Notes:
 * good; cf. ok, good, better, best
 * bad; cf. bad, worse, worst
 * The order in which you do things matters. Some things will be bad to do now but good to do later and vice versa.
-* A "doing" or "willing" can be any of atomic/punctate, a discrete/bounded interval/duration, or a semi-indefinite/ongoing modulated continuity/continuousness ["modulated continuous/unbroken application"].
+* A "doing" or "willing" can be any of atomic/&#8203;punctate, a discrete/&#8203;bounded interval/&#8203;duration, or a semi-indefinite/&#8203;ongoing modulated continuity/&#8203;continuousness ["modulated continuous/&#8203;unbroken application"].
 * Sometimes, rather than stopping (or not doing) a bad thing and starting a good thing, it can be good to make changes to improve the bad thing, to make it better.
 * Sometimes a composite "doing" or "willing" will be bad or good, e.g. a willing that has one or more part 1’s and one or more part 2’s all happening simultaneously (in different "places" or "locations"). [e.g. "controlled or channelized falling backwards", "surrender or have faith in the midst of stuck-forwards-ness"]
 * Sometimes a complex combination of willing and not willing and acting and not acting all together at the same time will be good or bad. (e.g. "deliberately don’t do X [e.g. everything that hasn’t worked or has stopped working or has had mixed results] or actively refrain from doing X plus have faith")
-* Summary outline: good/can presence of will do; bad/can presence of will don’t; can’t then stop; good/can absence of will do; bad/can absence of will don’t; can’t then stop; good/can presence of action do; bad/can presence of action don’t; can’t then stop; good/can absence/undo action do; bad/can absence/undo action don’t; can’t then stop.
+* Summary outline: good/&#8203;can presence of will do; bad/&#8203;can presence of will don’t; can’t then stop; good/&#8203;can absence of will do; bad/&#8203;can absence of will don’t; can’t then stop; good/&#8203;can presence of action do; bad/&#8203;can presence of action don’t; can’t then stop; good/&#8203;can absence/&#8203;undo action do; bad/&#8203;can absence/&#8203;undo action don’t; can’t then stop.
 * Active willing and doing can be a continuous, experimental molding of propositions and actions or will and acting as such, rather than stopping and starting bad and good willing and doing. Stopping and starting good and bad willing and doing, and so forth, as specified above, is good, too.
-* Will and doing can be as simple or complex as is good and can have qualifiers or "guards," e.g. "will that P via(/by way of first Q[, then E then H), and including that no bad second-order effects happen, including but not limited to these T, V, F..." and that complexity (and simplicity) can be explicit/verbal, liminally verbal, "hidden" in the "implicit" part of an explicit proposition, as it were (making no ontological commitments about minds the existence of propositions), or fully nonverbal/implicit/felt/etc. One can specify the "how," more or less concretely or abstractly, or one can leave out the how, depending on what happens to be good.
-* Willing and doing can contain problematic metaphysical, ontological, or mechanistic/causal errors, explicitly or implicitly, in presuppositions, premises, implications, or other ramifications. Willing and doing can be part of strategic errors, of course—timing and ordering errors as well as other suboptimalities.
+* Will and doing can be as simple or complex as is good and can have qualifiers or "guards," e.g. "will that P via(/&#8203;by way of first Q[, then E then H), and including that no bad second-order effects happen, including but not limited to these T, V, F..." and that complexity (and simplicity) can be explicit/&#8203;verbal, liminally verbal, "hidden" in the "implicit" part of an explicit proposition, as it were (making no ontological commitments about minds the existence of propositions), or fully nonverbal/&#8203;implicit/&#8203;felt/&#8203;etc. One can specify the "how," more or less concretely or abstractly, or one can leave out the how, depending on what happens to be good.
+* Willing and doing can contain problematic metaphysical, ontological, or mechanistic/&#8203;causal errors, explicitly or implicitly, in presuppositions, premises, implications, or other ramifications. Willing and doing can be part of strategic errors, of course—timing and ordering errors as well as other suboptimalities.
 * An example P = [I will that] I am able to make sure that I’m safe for self and others in a way that is costless and unreflective and becoming this way itself didn’t cause undue or irreparable harm to self and others... [do your best to have a maximally wide conception of what a valid P could be, aspects both verbalizable and very difficult or impossible to fully verbalize]
 * An example A = carefully make sure that I’m aware that I can be aware of the skin over my bicep while attending to my posture as a whole while making sure that... [do your best to have a maximally wide conception of what a valid A could be, aspects both verbalizable and very difficult or impossible to fully verbalize]
 * "do so" can mean both start doing so and keep doing so (allow, participate, etc.); "don’t do so" can mean both stop doing so and deliberately refrain from doing so (allow, participate, etc.)
-* "good/bad to (not) do/will X" can possibly be read as "good/bad to (not) do/will X contextually for me in this case"; there are other readings.
+* "good/&#8203;bad to (not) do/&#8203;will X" can possibly be read as "good/&#8203;bad to (not) do/&#8203;will X contextually for me in this case"; there are other readings.
 * One might will a conditionally; e.g. I will that X (only) if Y; e.g. I will that (it the case that) X (only) if (it is the case that) Y.
-* [...is/be/become/is-already/... the case that...]
-* [... I will that I believe/expect/predict/anticipate/feel/stand/live/stance/hold-myself/etc./... in such or thus way/sense/manner that it is the case that X if it is true that it is the the case that X in such or thus way/sense/manner; I will that I appropriately either believe/expect/predict/anticipate/feel/stand/live/stance/hold-myself/etc./... in such or thus way/sense/manner that it is not the case that X in such or thus way/sense/manner or that I have the absence of a belief/expecting/expectation/prediction/anticipation/feeling/standing/living/stance/holding-myself/etc./... in such or thus way/sense/manner that it is the case that X if it is false that it is the the case that X in such or thus way/sense/manner; ...]
+* [...is/&#8203;be/&#8203;become/&#8203;is-already/&#8203;... the case that...]
+* [... I will that I believe/&#8203;expect/&#8203;predict/&#8203;anticipate/&#8203;feel/&#8203;stand/&#8203;live/&#8203;stance/&#8203;hold-myself/&#8203;etc./&#8203;... in such or thus way/&#8203;sense/&#8203;manner that it is the case that X if it is true that it is the the case that X in such or thus way/&#8203;sense/&#8203;manner; I will that I appropriately either believe/&#8203;expect/&#8203;predict/&#8203;anticipate/&#8203;feel/&#8203;stand/&#8203;live/&#8203;stance/&#8203;hold-myself/&#8203;etc./&#8203;... in such or thus way/&#8203;sense/&#8203;manner that it is not the case that X in such or thus way/&#8203;sense/&#8203;manner or that I have the absence of a belief/&#8203;expecting/&#8203;expectation/&#8203;prediction/&#8203;anticipation/&#8203;feeling/&#8203;standing/&#8203;living/&#8203;stance/&#8203;holding-myself/&#8203;etc./&#8203;... in such or thus way/&#8203;sense/&#8203;manner that it is the case that X if it is false that it is the the case that X in such or thus way/&#8203;sense/&#8203;manner; ...]
 * Sometimes willing and doing will have good parts and bad parts. And if you decompose them you can leave out the bad and do just the good.
 * If some willing or doing is or would be good to do except for some bad thing about it, then, if you can, take apart the willing or doing so only the good part remains and do that. Or, find a way to compensate for the bad thing, that you can do and is good to do, and also do that.
-* p2 ~= willing/absence, surrender/absence, doing/absence, undoing/absence
+* p2 ~= willing/&#8203;absence, surrender/&#8203;absence, doing/&#8203;absence, undoing/&#8203;absence
 * ex: will that I know what’s good to will through a sequence of self-states that are not too bad
 * ex: will that I know what’s good to do through a sequence of self-states that are not too bad
 * (1) If good to will and can will (or keep willing) do so. If bad to will and can stop or prevent, do so. If good to do one of those but can’t, then make sure you’ve stopped trying completely. (2) If good to surrender and can surrender (or keep surrendering) do so. If bad to surrender and can stop or prevent, do so. If good to do one of those but can’t, then make sure you’ve stopped trying completely. (3) If good to do and can do (or keep doing) do so. If bad to do and can stop or prevent, do so. If good to do one of those but can’t, then make sure you’ve stopped trying completely. (4) If good to undo and can undo, do so. If bad to undo and can stop or prevent, do so. If good to do one of those but can’t, then make sure you’ve stopped trying completely.
-* Sometimes a doing or willing will be both good and bad, that is one or more (sub-)parts of the willing  will be good and one or more other (sub-)parts will be bad. This can be fractal as (sub-)parts can have (sub-)parts that can be good and bad. One can use doing and willing (if good and possible) to break apart willings and doings into (contextually) good and bad parts or "neutral" parts that can potentially be done by themselves or recombined into larger units and done as a whole. [How to do the actual "breaking apart" is hard to specify generally; it will be contextual, contingent, and idiosyncratic. See p8 for evocative possibilities. Briefly, you might ask what’s good or bad in or about things. Again, please note that none of this is intended to presuppose or make ontological (or even/including methodological) commitments about how to do this or the nature or essence of such parts. Remember to not  inappropriately reify anything, including notes like this.]
-* There is a "special" class of doing, the doing that precedes/enables/causes/facilitates not doing or the absence of doing. X might = suppress, dispel, dissolve, prevent, block, have the absence of, do-to-not-do, do-in-order-to-not-do, hold-back, allow-something-else-to-happen, etc. [Remember to not inappropriately reify any of this.][cf. pleasant distraction or pull-away is not always good to follow or surrender to. See distraction/diversion/displacement in p3.]
+* Sometimes a doing or willing will be both good and bad, that is one or more (sub-)parts of the willing  will be good and one or more other (sub-)parts will be bad. This can be fractal as (sub-)parts can have (sub-)parts that can be good and bad. One can use doing and willing (if good and possible) to break apart willings and doings into (contextually) good and bad parts or "neutral" parts that can potentially be done by themselves or recombined into larger units and done as a whole. [How to do the actual "breaking apart" is hard to specify generally; it will be contextual, contingent, and idiosyncratic. See p8 for evocative possibilities. Briefly, you might ask what’s good or bad in or about things. Again, please note that none of this is intended to presuppose or make ontological (or even/&#8203;including methodological) commitments about how to do this or the nature or essence of such parts. Remember to not  inappropriately reify anything, including notes like this.]
+* There is a "special" class of doing, the doing that precedes/&#8203;enables/&#8203;causes/&#8203;facilitates not doing or the absence of doing. X might = suppress, dispel, dissolve, prevent, block, have the absence of, do-to-not-do, do-in-order-to-not-do, hold-back, allow-something-else-to-happen, etc. [Remember to not inappropriately reify any of this.][cf. pleasant distraction or pull-away is not always good to follow or surrender to. See distraction/&#8203;diversion/&#8203;displacement in p3.]
 * Don’t improperly reify "proposition," don’t take that too seriously. "Propositions" might have an "implicit component" not fully accounted for by the words.
-* All the above applies to willing/doing you’re already willing/doing—if become aware you’re willing/doing it, you can keep doing it or stop/have the absence of it, as per the rest of the instructions.
+* All the above applies to willing/&#8203;doing you’re already willing/&#8203;doing—if become aware you’re willing/&#8203;doing it, you can keep doing it or stop/&#8203;have the absence of it, as per the rest of the instructions.
 * good [to do] = contextually good [to do], now, at the very least
 * compare "good" with "good (enough)"—when same; when different?
-* Example: "have been good to do so" ~= Like, you try to (a) do/will X or (b) have the absence of Q, because it seemed like that would have been good. But you find you can't. And then you explore whether there's still a part of you, something, somewhere, that's still trying to have (a) or (b) happen.
-* Your generally available set of actions/doing should expand over time, more fine-grain, more differentiated, lighter, omni-directional, multifarious, start-on-dime, stop-on-dime, interleave rapidly. They should also ideally become applicable in more and more contexts, more body locations, more phenomenologies, more senses/meanings/etc. Sometimes your available actions will shrink to a point, and that’s ok. But generally you want more and more, and more and more subtle, sometimes fast, barely nameable, barely effable, beyond language, and so forth. You might sometimes have mental tags or phenomenological tags or verbal tags or "knowing contexts" for them, and that’s great. And, there will be times when you’re taking relatively more new and/or unique/one-off/instance-of-themselves/unclassifiable actions/doings. (In some sense they’re all unique by virtue of their preconceptual referent and context.)
+* Example: "have been good to do so" ~= Like, you try to (a) do/&#8203;will X or (b) have the absence of Q, because it seemed like that would have been good. But you find you can't. And then you explore whether there's still a part of you, something, somewhere, that's still trying to have (a) or (b) happen.
+* Your generally available set of actions/&#8203;doing should expand over time, more fine-grain, more differentiated, lighter, omni-directional, multifarious, start-on-dime, stop-on-dime, interleave rapidly. They should also ideally become applicable in more and more contexts, more body locations, more phenomenologies, more senses/&#8203;meanings/&#8203;etc. Sometimes your available actions will shrink to a point, and that’s ok. But generally you want more and more, and more and more subtle, sometimes fast, barely nameable, barely effable, beyond language, and so forth. You might sometimes have mental tags or phenomenological tags or verbal tags or "knowing contexts" for them, and that’s great. And, there will be times when you’re taking relatively more new and/&#8203;or unique/&#8203;one-off/&#8203;instance-of-themselves/&#8203;unclassifiable actions/&#8203;doings. (In some sense they’re all unique by virtue of their preconceptual referent and context.)
 * There can be doing on the border between surrender and doing or vice versa, where are you sort of doing but you also surrendered, or vice versa. Liminal doing; liminal surrender.
 * Regarding "undo," this can sometimes apply to things that "just happened" and can also apply to very old, localized or pervasive aspects of the system. It can be helpful to note that "undo" or "inverse operations" are happening all the time, like when a person learns something that contradicts an old "belief"--there will be some "layering," all things being equal, at least early in on meditation, but, mixed in with that, even at the beginning, will be some "undoing," too. Ditto for changes in behavioral propensities, preferences, etc., etc. etc. "Undoing" is very general and won't necessarily feel like "anything in particular"; it's almost a "contentless concept" or "empty concept" (perhaps concretely, phenomenologically speaking) that's directly-indirectly [sic] inferred. Eventually, there will be a tremendous amount of undoing (alongside all sorts of other things), during meditation.
 * A collaboration comments, "The first half of Awareness Through Movement [see bibliography] clarified a lot of p2 and p3 for me at a technical level."
-* One way to "bootstrap" p2 could be to think about it as "tinkering," that is, directed, minimalist, iterative, and *experimental*--the tiniest intervention, the barest twitch of "body" or "mind," almost nothing at all, from nothing, with no windup (not always possible!), and then wait and see, then surrender/learn, then something different or something similar--with (very qualifiedly!!!) decisiveness, continuity, confidence, and conviction increasing over time (though, so, still, overall, something like--extraordinary patience, provisionality, humility, contextuality, even caution)
+* One way to "bootstrap" p2 could be to think about it as "tinkering," that is, directed, minimalist, iterative, and *experimental*--the tiniest intervention, the barest twitch of "body" or "mind," almost nothing at all, from nothing, with no windup (not always possible!), and then wait and see, then surrender/&#8203;learn, then something different or something similar--with (very qualifiedly!!!) decisiveness, continuity, confidence, and conviction increasing over time (though, so, still, overall, something like--extraordinary patience, provisionality, humility, contextuality, even caution)
 
 [<a href="#101h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="102"></span> p3:
 
-* For which it’s good to do so and you can do do, will that you become aware of willing, acting/doing, expecting, seeming, appearing, convincing and denying that is or will be currently good to become aware of. And, simultaneously, for which it’s good to do so and you can do so, will that you do not become aware of willing, expecting, seeming, and appearing that is or will be currently bad to become aware of.
-* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (\~for yourself\~)]] [~~] willing W that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that willing W during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (\~for yourself\~)]] [\~provisionally\~] expecting that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that expecting during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (\~for yourself\~)]] [\~indirectly\~] seeming that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that seeming during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (\~for yourself\~)]] [\~directly\~] appearing(/looking) (?/it is apparent, ?/apparently) that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that appearing during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (\~for yourself\~)]] [\~directly and immediately\~] acting/doing[do/act/cause/maintain/enable/incept/start/prevent/block/stop/end/have part in/querying/asking/wondering/imagining/storytelling/narrating/what-if-ing/solving/solutioning/questioning/partcipating/pushing/pulling/attending/image/envision/visualize/interrupt/preempt/interleave/substitute/switch/meaning-make/meaning-dissolve...] that or (something) like or (something) in the neighborhood of [] X then, if you can and it’s good to do so, will that you have the absence of willing to change that doing/happening/something during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (\~for yourself\~)]] [~~] denying that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that denying during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
-* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/sense/ways in which there is (\~for yourself\~)]] [~~] convincing that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that convincing during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* For which it’s good to do so and you can do do, will that you become aware of willing, acting/&#8203;doing, expecting, seeming, appearing, convincing and denying that is or will be currently good to become aware of. And, simultaneously, for which it’s good to do so and you can do so, will that you do not become aware of willing, expecting, seeming, and appearing that is or will be currently bad to become aware of.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/&#8203;sense/&#8203;ways in which there is (\~for yourself\~)]] [~~] willing W that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that willing W during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/&#8203;sense/&#8203;ways in which there is (\~for yourself\~)]] [\~provisionally\~] expecting that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that expecting during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/&#8203;sense/&#8203;ways in which there is (\~for yourself\~)]] [\~indirectly\~] seeming that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that seeming during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/&#8203;sense/&#8203;ways in which there is (\~for yourself\~)]] [\~directly\~] appearing(/&#8203;looking) (?/&#8203;it is apparent, ?/&#8203;apparently) that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that appearing during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/&#8203;sense/&#8203;ways in which there is (\~for yourself\~)]] [\~directly and immediately\~] acting/&#8203;doing[do/&#8203;act/&#8203;cause/&#8203;maintain/&#8203;enable/&#8203;incept/&#8203;start/&#8203;prevent/&#8203;block/&#8203;stop/&#8203;end/&#8203;have part in/&#8203;querying/&#8203;asking/&#8203;wondering/&#8203;imagining/&#8203;storytelling/&#8203;narrating/&#8203;what-if-ing/&#8203;solving/&#8203;solutioning/&#8203;questioning/&#8203;partcipating/&#8203;pushing/&#8203;pulling/&#8203;attending/&#8203;image/&#8203;envision/&#8203;visualize/&#8203;interrupt/&#8203;preempt/&#8203;interleave/&#8203;substitute/&#8203;switch/&#8203;meaning-make/&#8203;meaning-dissolve...] that or (something) like or (something) in the neighborhood of [] X then, if you can and it’s good to do so, will that you have the absence of willing to change that doing/&#8203;happening/&#8203;something during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/&#8203;sense/&#8203;ways in which there is (\~for yourself\~)]] [~~] denying that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that denying during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
+* If you become aware of (presently and directly) [experiencing] [in such or such and thus manner[/&#8203;sense/&#8203;ways in which there is (\~for yourself\~)]] [~~] convincing that or (something) like or (something) in the neighborhood of [proposition] P then, if you can and it’s good to do so, will that you have the absence of willing to change that convincing during this particular interval of awareness but possibly willing to change it imminently or during other intervals.
 * (This list is a work in progress:)
 * seeming (that [proposition] P)
 * expecting (that [proposition] P)
 * willing (that [proposition] P)
 * appearing (that [proposition] P)
-* explicating/articulating/enwordening/verbalizing  (of [proposition] P)
+* explicating/&#8203;articulating/&#8203;enwordening/&#8203;verbalizing  (of [proposition] P)
 * clarifying/separating/deconfusing  (of [proposition] P)
-* assessing/judging/evaluating (whether X is good or bad...)
+* assessing/&#8203;judging/&#8203;evaluating (whether X is good or bad...)
 * awareness of knowledge of inability
 * awareness of knowledge of ignorance (of not knowing [something])
 * awareness of knowledge of insufficiency or inadequacy
 * ?awareness of knowledge of impossibility
 * awareness of knowledge of possiblity/necessity/contingency/duty/obligation/responsibility...
-* being (identity) [I/me/self/]person/group/mixture] X [cf. Who (all) am I/is this being?]
-* being (nature; causal/historical/telic nature) [] X [cf. What am I being?]
+* being (identity) [I/me/self/&#8203;]person/&#8203;group/&#8203;mixture] X [cf. Who (all) am I/is this being?]
+* being (nature; causal/&#8203;historical/&#8203;telic nature) [] X [cf. What am I being?]
 * being history
 * being current state
 * being current dynamics
 * being causal laws
 * being telos
-* doing/acting/behaving/[/thinking]causing/enabling/maintaining/starting/stopping/ending/preventing/blocking [] X
+* doing/&#8203;acting/&#8203;behaving/&#8203;[/thinking]&#8203;causing/&#8203;enabling/&#8203;maintaining/&#8203;starting/&#8203;stopping/&#8203;ending/&#8203;preventing/&#8203;blocking [] X
 * assessing/judging/evaluating X to be Y; assessing/judging/evaluating (whether X is good or bad...)
 * immersive childhood or any past feel
 * awareness of knowledge of lack of safety for being aware of the knowledge of a particular thing (cf bad to know)
@@ -4250,9 +4250,9 @@ Notes:
 * considering (that [proposition] P)
 * representing (that [proposition] P)
 * ?asserting (that [proposition] P)
-* wanting/desiring/hoping/longing/needing/requiring/wishing/craving/thirsting/?grasping  (that [proposition] P)
+* wanting/&#8203;desiring/&#8203;hoping/&#8203;longing/&#8203;needing/&#8203;requiring/wishing/&#8203;craving/&#8203;thirsting/&#8203;?grasping  (that [proposition] P)
 * planning  (that [proposition] P)
-* demanding/extorting/??foreclosing/insisting  (that [proposition] P)
+* demanding/&#8203;extorting/&#8203;??foreclosing/&#8203;insisting  (that [proposition] P)
 * excusing (like making excuses, rationalizing, self-justifying)  (that [proposition] P)
 * remembering
 * blaming
@@ -4283,10 +4283,10 @@ Notes:
 * knowledge of what things are "outside/external" (if anything)
 * awareness of something "inside/internal"
 * awareness of something "outside/external"
-* knowledge of "insideness/internalness" (if any)
-* knowledge of "outsideness/externalness" (if any)
-* awareness of "insideness/internalness" (if any)
-* awareness of "outsideness/externalness" (if any)
+* knowledge of "insideness/&#8203;internalness" (if any)
+* knowledge of "outsideness/&#8203;externalness" (if any)
+* awareness of "insideness/&#8203;internalness" (if any)
+* awareness of "outsideness/&#8203;externalness" (if any)
 * knowledge of borders or boundaries or lack thereof
 * awareness of borders or boundaries or lack thereof
 * knowledge of distance between you and something else or lack thereof
@@ -4300,8 +4300,8 @@ Notes:
 * awareness of particular sense(meaning) or representational content as such
 * awareness of coherent meaning
 * awareness of noncommital, neither endorsed-nor-disendorsed discoherence (discoherent "meaning")
-* knowledge of haste/rushing/bypass/corner-cutting/force/forcing/smashing/crushing/hammering
-* awareness of force/forcing/haste
+* knowledge of haste/&#8203;rushing/&#8203;bypass/&#8203;corner-cutting/&#8203;force/&#8203;forcing/&#8203;smashing/&#8203;crushing/&#8203;hammering
+* awareness of force/&#8203;forcing/&#8203;haste
 * knowledge of seeming unsolvabliity
 * knowledge of care
 * knowledge of immaturity
@@ -4315,7 +4315,7 @@ Notes:
 * knowledge of attending
 * awareness of "attending"
 * awareness of "the sensations of attending"
-* knowledge/awareness/experience of belief/believing/"belief"/"believing"/etc.... [sic]
+* knowledge/awareness/&#8203;experience of belief/&#8203;believing/&#8203;"belief"/&#8203;"believing"/&#8203;etc.... [sic]
 * knowledge of sensations of believing
 * awareness of sensations of believing
 * knowledge of sensations of expecting
@@ -4335,7 +4335,7 @@ Notes:
 * knowledge/awareness of pain/suffering
 * knowledge/awareness of goodness of X
 * knowledge/awareness of intolerability
-* knowledge/awareness urgency/haste/rushing/hurry
+* knowledge/awareness urgency/&#8203;haste/&#8203;rushing/&#8203;hurry
 * knowledge/awareness of "X feels so good"
 * awareness of the current felt goodness of something endorsed (or not) as being bad
 * knowledge/awareness of "road to nowhere-ness"
@@ -4344,19 +4344,19 @@ Notes:
 * knowledge/awareness of "extreme badness"
 * knowledge/awareness of "critical badness"
 * knowledge/awareness of "too good-ness"
-* knowledge/awareness of seeming "[I have] no ability/know-how/models/knowledge of how to handle that and [I] never will
-* knowledge/awareness of possibility/potentiality
-* knowledge of coalescing/gathering
-* knowledge of dispersing/spreading
+* knowledge/awareness of seeming "[I have] no ability/&#8203;know-how/&#8203;models/&#8203;knowledge of how to handle that and [I] never will
+* knowledge/awareness of possibility/&#8203;potentiality
+* knowledge of coalescing/&#8203;gathering
+* knowledge of dispersing/&#8203;spreading
 * knowledge/awareness of credulity/credulousness
 * knowledge/awareness of seeming local fallibility
-* knowledge/awareness of immersive childhood feel/immersive prenatal feel/immersive otherworldly feel/ another time feel/foreign iintention/alien intention
+* knowledge/awareness of immersive childhood feel/immersive prenatal feel/immersive otherworldly feel/ another time feel/&#8203;foreign iintention/alien intention
 * knowledge/awareness of observer plus dynamics as such
 * knowledge/awareness of sensory memory
 * knowledge of counterintuitiveness
-* knowledge/awareness of "dark"/nonsalient sensations
+* knowledge/awareness of "dark"/&#8203;nonsalient sensations
 * knowledge/awareness of seeming "nothing" that is actually the presence of "dark"/"black"/nonsalient sensations
-* awareness of subtle/quiet/low-intensity/low-magnitude/barely-there sensations
+* awareness of subtle/&#8203;quiet/&#8203;low-intensity/&#8203;low-magnitude/&#8203;barely-there sensations
 * knowledge of awareness of the currently felt goodness of something
 * knowledge/awareness of "nowhere to go nonexistence dysregulation Intolerability uhandleability
 * knowledge of not having any idea what’s going on knowledge of having no idea whats going on
@@ -4366,11 +4366,11 @@ Notes:
 * knowledge/awareness of [(countering) good thing X] even though [(corresponding) bad thing Y]
 * knowledge/awareness of [(countering) good thing X] even while [(corresponding) bad thing Y]
 * knowledge/awareness of X would be bad if true/false even for a second/instant
-* knowledge/awareness of don’t know [if X is existing/obtaining/actual/nonactual/true/false/good/bad] for sure/in certainty
-* knowledge/awareness of acceptance [of current belief or actuality [that] X [is/isn’t/might/may be existing/obtaining/true/false/unknown/unknowable/good/bad]] (or ok to look)
-* even if don’t know [how (to do/get/have/be/achieve/solve/start/stop/fix/do/undo (X)] now, might know in future
+* knowledge/awareness of don’t know [if X is existing/&#8203;obtaining/&#8203;actual/&#8203;nonactual/&#8203;true/&#8203;false/&#8203;good/&#8203;bad] for sure/in certainty
+* knowledge/awareness of acceptance [of current belief or actuality [that] X [is/&#8203;isn’t/&#8203;might/&#8203;may be existing/&#8203;obtaining/&#8203;true/&#8203;false/&#8203;unknown/&#8203;unknowable/&#8203;good/&#8203;bad]] (or ok to look)
+* even if don’t know [how (to do/&#8203;get/&#8203;have/&#8203;be/&#8203;achieve/&#8203;solve/&#8203;start/&#8203;stop/&#8203;fix/&#8203;do/&#8203;undo (X)] now, might know in future
 * knowledge/awareness of "no big deal"/"that’s not a big deal"/"that’s not important"/"that doesn’t mean anything"/"that’s meaningless"/push-away/minimization
-* knowledge/awareness of "feels like dying/dissolution/loss-of-will/loss-of-self/soul-damage/soul-corruption/insanity"
+* knowledge/awareness of "feels like dying/&#8203;dissolution/&#8203;loss-of-will/&#8203;loss-of-self/&#8203;soul-damage/&#8203;soul-corruption/&#8203;insanity"
 * knowledge/awareness of "[effortless] [almost-already-there] stability in/as all of that"
 * knowledge/awareness of seeming "it-was-over-before-it-even-began-and/but-I-just-didn’t-even-know-it-yet-until-just-right-now" trauma
 * knowledge/awareness of immersive dream
@@ -4386,9 +4386,9 @@ Notes:
 * knowledge of misattribution; awareness of that which has been misattributed
 * knowledge/awareness of "what needs to be real or not-real in order to meditate"
 * knowledge/awareness of "don’t want that" [but you actually might]
-* knowledge/awareness of "that would have been so good or that at least would have (temporarily) felt so good, had it happened [given that/time/place/age/degree-of-experience-and-knowledge]
+* knowledge/awareness of "that would have been so good or that at least would have (temporarily) felt so good, had it happened [given that/&#8203;time/&#8203;place/&#8203;age/&#8203;degree-of-experience-and-knowledge]
 * knowledge/awareness of (seeming/chosen) "[that’s] not for me"/"not going to have that, choose that, go after that; will give away, relinquish, refuse, dismiss that"
-* knowledge/awareness of too good/bad to be true/false/real/existing/obtaining/factual/counterfactual/present/absent
+* knowledge/awareness of too good/bad to be true/&#8203;false/&#8203;real/&#8203;existing/&#8203;obtaining/&#8203;factual/&#8203;counterfactual/&#8203;present/&#8203;absent
 * knowledge/awareness of how I would have solved X in a vacuum, with no cultural input
 * knowledge/awareness of an inability to think, plan, or do anything as such
 * knowledge/awareness of continuous [(subtle)] prevention
@@ -4398,13 +4398,13 @@ Notes:
 * knowledge/awareness of turning towards inside instead of outside for stabilization
 * knowledge/awareness of inclination towards indirect/mediated/symbolic control
 * knowledge/awareness of "had I only known X"
-* knowledge/awareness/experience of "is-ness"
-* [knowledge/awareness/experience of thinking, believing, etc.]
-* knowledge/awareness/experience of "mode of being as such"
+* knowledge/awareness/&#8203;experience of "is-ness"
+* [knowledge/awareness/&#8203;experience of thinking, believing, etc.]
+* knowledge/awareness/&#8203;experience of "mode of being as such"
 * knowledge/awareness/experience of being "mode of being as such" [sic]
 * knowledge/awareness of inner conflict
 * knowledge/awareness of "not me"
-* awareness of gappiness/gappyness/distraction/experiential-temporal-discontinuity/jump/jog/gap/discontinuity/reconfiguration/distraction/diversion/displacement [might feel good or bad and could be either good or bad]
+* awareness of gappiness/&#8203;gappyness/&#8203;distraction/&#8203;experiential-temporal-discontinuity/&#8203;jump/&#8203;jog/&#8203;gap/&#8203;discontinuity/&#8203;reconfiguration/&#8203;distraction/&#8203;diversion/&#8203;displacement [might feel good or bad and could be either good or bad]
 * awareness of doubling
 * knowledge/awareness of a lack/deficit/sparsity of understanding
 * knowledge/awareness of an absence of understanding
@@ -4413,12 +4413,12 @@ Notes:
 * knowledge of seeming occluded resolve
 * knowledge of insecurity
 * knowledge of "temptation", insecurity, credulity/credulousness
-* knowledge/awareness of "moral reality"; causal/moral/reality
+* knowledge/awareness of "moral reality"; causal/&#8203;moral/&#8203;reality
 * knowledge/awareness of desire or intention to make [X] actual
 * knowledge/awareness of juxtaposition
 * knowledge/awareness of [directly] "having no idea how to do that/X"
 * knowledge/awareness of "don’t know how to do that/X"
-* awareness of [a] "bounded nothing/absence pocket/bubble"
+* awareness of [a] "bounded nothing/absence pocket/&#8203;bubble"
 * awareness of "that which would consume all [resources] [because of intrinsic interestingness/pleasure/goodness; would want to do it all the time to exclusion of []]
 * awareness of "that which would consume all [resources] [because of impossible/infinite ‘problematicness’]
 * awareness of [a] "knowing/[being able to ]tell[ing] thread/bridge"
@@ -4432,16 +4432,16 @@ Notes:
 * knowledge/awareness of counterfactuality
 * knowledge/awareness of permanence
 * [knowledge/awareness of "It’s just what happened"]
-* knowledge/awareness of "unrecoverabiity/"unrecoverable; can’t recover from that"
+* knowledge/awareness of "unrecoverabiity/&#8203;"unrecoverable; can’t recover from that"
 * knowledge/awareness of "not in a million/billion years"/never
 * knowledge/awareness of "right in reality"
 * knowledge/awareness of "weaves reality together"
-* knowledge/awareness of "how the world/everything/reality works"
-* knowledge/awareness of "how the world/everything/reality must work"
+* knowledge/awareness of "how the world/&#8203;everything/&#8203;reality works"
+* knowledge/awareness of "how the world/&#8203;everything/&#8203;reality must work"
 * knowledge/awareness of "it would be critical bad if X"
 * knowledge/awareness of "new or renewed optionality [to stop/start X]"
 * knowledge/awareness of "bypass" or "pre-bypass"/"should just be able to[ X[, full stop]]"
-* knowledge/awareness of ["attempted"/"attempting"]"lock-in"/"stability"
+* knowledge/awareness of ["attempted"/&#8203;"attempting"]"lock-in"/&#8203;"stability"
 * knowledge/awareness of "agency, errors in" [sic]
 * knowledge/awareness of "doing, errors in" [sic]
 * knowledge/awareness of self-conceptualization
@@ -4455,7 +4455,7 @@ Notes:
 * knowledge/awareness of "this is my life, now" [~transient]
 * knowledge/awareness of an ‘instance of itself" (after Eugene Gendlin)
 * knowledge/awareness of "belief in punctate updates" [though not necessarily conceptualized or named exactly as such]
-* knowledge/awareness of [an instance of] [a/an] intellectual-grasping/update/thought
+* knowledge/awareness of [an instance of] [a/an] intellectual-grasping/&#8203;update/&#8203;thought
 * knowledge/awareness of limit(s)/edge(s) of its world
 * knowledge/awareness of instance-exemplification [sic] of the attention paradigm as such
 * knowledge/awareness of "I am *that* which attends [pays/places attention]"
@@ -4493,7 +4493,7 @@ Notes:
 * knowledge/awareness of "selfing"/"self-ing"
 * knowledge/awareness of "permanence-ing"
 * knowledge/awareness of "independent existence-ing"
-* knowledge/awareness of "[attempted] ’solution-ing’ for a particular thing that affirms/enhances/strengthens/facilitates the very thing that is the problem"
+* knowledge/awareness of "[attempted] ’solution-ing’ for a particular thing that affirms/&#8203;enhances/&#8203;strengthens/&#8203;facilitates the very thing that is the problem"
 * knowledge/awareness of transparently-take-for-granted
 * knowledge/awareness of opposite-masquerading-as-forward
 * knowledge/awareness of liminally blocked/surfacing urge and/or impulse and/or "dysregulation"
@@ -4505,14 +4505,14 @@ Notes:
 * awareness of suffering
 * awareness of grasping/accumulating
 * awareness of anxiety
-* knowledge/awareness of has-to-work-ness/must-work-ness/has-to-succeed-ness/must-succeed-ness
+* knowledge/awareness of has-to-work-ness/&#8203;must-work-ness/&#8203;has-to-succeed-ness/&#8203;must-succeed-ness
 * knowledge/awareness of [body] [felt] anticipations/ing
 * knowledge/awareness of [bodymind] commitments
 * knowledge/awareness of disbelief/"disbelief"
 * knowledge/awareness of disbelief-as-such/"disbelief as such"
 * knowledge/awareness of ["particularly active"] disbelief-as-such/"disbelief as such"
 * knowledge/awareness of disbelief that X
-* knowledge/awareness of disbelief that X is real/true/obtaining
+* knowledge/awareness of disbelief that X is real/&#8203;true/&#8203;obtaining
 * knowledge/awareness of seeming-darkness
 * knowledge/awareness of almost-darkness
 * knowledge/awareness of "blackness"
@@ -4520,7 +4520,7 @@ Notes:
 * knowledge/awareness of low-intensity-ness (sensation)
 * knowledge/awareness of truth/"truth"
 * knowledge/awareness of existence/"existence"
-* knowledge/awareness of reason/reasoning/"reason"/"reasoning"/"Reason"
+* knowledge/awareness of reason/&#8203;reasoning/&#8203;"reason"/&#8203;"reasoning"/&#8203;"Reason"
 * knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
 * knowledge/awareness of credulity+naivete+{having no idea what's going on}
 * knowledge/awareness of "reality pocket"
@@ -4529,7 +4529,7 @@ Notes:
 * knowledge/awareness of world pockets
 * knowledge/awareness of latent, above-threshold-if-triggered, self-/other-dangerous behavioral impulses
 * knowledge/awareness of indeterminacy
-* knowledge/awareness of rushing/haste/hurry/bypass/override/force/pressure/pushing
+* knowledge/awareness of rushing/&#8203;haste/&#8203;hurry/&#8203;bypass/&#8203;override/&#8203;force/&#8203;pressure/&#8203;pushing
 * knowledge/awareness of nebulosity and constraint
 * knowledge/awareness of anxiety
 * knowledge/awareness of the (felt) goodness/gift of anxiety
@@ -4574,7 +4574,7 @@ Notes:
 * "eternal" story logic / "eternal" story emotion / "eternal" story motivation
 * impermanence
 * story
-* [sensitization of liminality with respect to true absence/nothingness/?nibbana; cf. optionally "sweetness"]
+* [sensitization of liminality with respect to true absence/&#8203;nothingness/&#8203;?nibbana; cf. optionally "sweetness"]
 * stability, stable knowing
 * "expectation of stably winning"
 * eternal
@@ -4596,35 +4596,35 @@ Notes:
 
 # <span id="103"></span> p4:
 
-* In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily will that you’re temporarily globally/totally/wholly/unifiedly aware of nothing, or the complete/total absence or anything,  or the absence of any something-ness or appearance, expecting, seeming, willing, etc.
+* In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily will that you’re temporarily globally/&#8203;totally/&#8203;wholly/&#8203;unifiedly aware of nothing, or the complete/&#8203;total absence or anything,  or the absence of any something-ness or appearance, expecting, seeming, willing, etc.
 * When you are finished with the above, in the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you completely stop willing that you’re aware of nothing.
 
 [<a href="#103h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="104"></span> p5:
 
-* In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily will, intend. incline (lightly, minimally) that everything you’re experiencing in awareness/aware of, globally/totally/wholly/unifiedly remains stable/stably just as it is without changing in any particular moment, and don’t stabilize what would be bad to stabilize or that you can’t stabilize. (So of course, it’s likely that things will be changing. So, for any change, in that moment, in any particular moment, [for what’s good to and can and not bad to] you want that state to stably persist. So, whatever is, you’re willing that that stably persists [for what’s good to and can and not bad to]. The effect will be to have some things slow down or become more salient/apparent. Also on assumption that everything you are is cycling through consciousness/awareness, so that this will ultimately be exhaustive...) ["In the exact way you’re having exactly these sensations(??+knowing/understanding/meaning/thinking/believing/feeling/imagining/expecting/sensing/perceiving...??)/total experiential state, total/everything in awareness/aware of, totally/globally/unifiedly in this exact instant/moment, exactly as they currently are in this exact instant/moment [no brighter, no dimmer, no more vivid, no less vivid, no changes in foreground/background/salience/focus/surround/ground, no following/seeking/avoiding/preference/agenda, commentary, meta-commentary unless it’s already exactly happening/expectation/inclination/presupposition], in the ways in which you can and it’s good to do so, be willing to have exactly these sensations exactly forever."]["be willing to work/operate from inside of this [as it is]] forever"][capture your exact global awareness/being/experiencing/imagining/expecting/feeling/knowing/understanding/believing state in any particular moment and perpetuate as long as you can without adding anything, adding nothing to that state itself][cf. the "soaking" instruction from standard noting practice, though that’s a local operation, as it were][perfectly willing to stably have this while simultaneously perfectly letting go][cf the facilitation of vividness and clarity][cf mindfulness; "but"][any particular moment, exactly as it is, last forever]["perfectly holding on to everything without adding anything ["further"] to that"]
-* When you are finished with the above, in the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you completely stop willing that everything you’re experiencing in awareness/aware of remains stably just as it is.
+* In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily will, intend. incline (lightly, minimally) that everything you’re experiencing in awareness/&#8203;aware of, globally/&#8203;totally/&#8203;wholly/&#8203;unifiedly remains stable/&#8203;stably just as it is without changing in any particular moment, and don’t stabilize what would be bad to stabilize or that you can’t stabilize. (So of course, it’s likely that things will be changing. So, for any change, in that moment, in any particular moment, [for what’s good to and can and not bad to] you want that state to stably persist. So, whatever is, you’re willing that that stably persists [for what’s good to and can and not bad to]. The effect will be to have some things slow down or become more salient/&#8203;apparent. Also on assumption that everything you are is cycling through consciousness/&#8203;awareness, so that this will ultimately be exhaustive...) ["In the exact way you’re having exactly these sensations(??+knowing/&#8203;understanding/&#8203;meaning/&#8203;thinking/&#8203;believing/&#8203;feeling/&#8203;imagining/&#8203;expecting/&#8203;sensing/&#8203;perceiving...??)/&#8203;total experiential state, total/&#8203;everything in awareness/&#8203;aware of, totally/&#8203;globally/&#8203;unifiedly in this exact instant/&#8203;moment, exactly as they currently are in this exact instant/&#8203;moment [no brighter, no dimmer, no more vivid, no less vivid, no changes in foreground/&#8203;background/&#8203;salience/&#8203;focus/&#8203;surround/&#8203;ground, no following/&#8203;seeking/&#8203;avoiding/&#8203;preference/&#8203;agenda, commentary, meta-commentary unless it’s already exactly happening/&#8203;expectation/&#8203;inclination/&#8203;presupposition], in the ways in which you can and it’s good to do so, be willing to have exactly these sensations exactly forever."]["be willing to work/&#8203;operate from inside of this [as it is]] forever"][capture your exact global awareness/&#8203;being/&#8203;experiencing/&#8203;imagining/&#8203;expecting/&#8203;feeling/&#8203;knowing/&#8203;understanding/&#8203;believing state in any particular moment and perpetuate as long as you can without adding anything, adding nothing to that state itself][cf. the "soaking" instruction from standard noting practice, though that’s a local operation, as it were][perfectly willing to stably have this while simultaneously perfectly letting go][cf the facilitation of vividness and clarity][cf mindfulness; "but"][any particular moment, exactly as it is, last forever]["perfectly holding on to everything without adding anything ["further"] to that"]
+* When you are finished with the above, in the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you completely stop willing that everything you’re experiencing in awareness/&#8203;aware of remains stably just as it is.
 
 [<a href="#104h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="105"></span> p6:
 
-* In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily (be) will(ing) that (a) everything you’re experiencing in awareness/aware of, globally/totally/wholly/unifiedly and (b) your relationship to everything (not just your experience in awareness; but also plans, goals, intentions, ontology, everything, everything, everything), improves, becomes better, becomes more good. This is possibly or likely with global nonmonotonicity, local nonmonotonicity and local tradeoffs.
+* In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily (be) will(ing) that (a) everything you’re experiencing in awareness/&#8203;aware of, globally/&#8203;totally/&#8203;wholly/&#8203;unifiedly and (b) your relationship to everything (not just your experience in awareness; but also plans, goals, intentions, ontology, everything, everything, everything), improves, becomes better, becomes more good. This is possibly or likely with global nonmonotonicity, local nonmonotonicity and local tradeoffs.
 * When you’re finished with the above as such, in the ways in which it’s good to do so and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you stop willing the above as such in the ways that make sense.
 
 [<a href="#105h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="106"></span> p7:
 
-* In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily surrender, allow to be any which way, release, let go of (a) everything you’re experiencing in awareness/aware of, globally/totally/wholly/unifiedly and (b) your relationship to absolutely everything (not just your experience in awareness; but also plans, goals, intentions, ontology, everything, everything, everything) to be any which way, no particular way or another, allow everything to change freely as it wants or does. Not needing anything at all to be any particular way, not expecting anything at all to be any particular way, and allowing anything and everything (at all) to be any particular way. Release from preconception, presupposition... unnecessary contingent particularity... Release from partiality or locality...
+* In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily surrender, allow to be any which way, release, let go of (a) everything you’re experiencing in awareness/&#8203;aware of, globally/&#8203;totally/&#8203;wholly/&#8203;unifiedly and (b) your relationship to absolutely everything (not just your experience in awareness; but also plans, goals, intentions, ontology, everything, everything, everything) to be any which way, no particular way or another, allow everything to change freely as it wants or does. Not needing anything at all to be any particular way, not expecting anything at all to be any particular way, and allowing anything and everything (at all) to be any particular way. Release from preconception, presupposition... unnecessary contingent particularity... Release from partiality or locality...
 * When you’re finished with the above as such, in the ways in which it’s good to do so and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you stop willing the above as such in the ways that make sense.
 
 [<a href="#106h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="107"></span> p8:
 
-(There will be a right way and a wrong way and a right time and a wrong time to incline towards answering any of these questions.) If can ask in a way/manner/sense that’s good, and it is good to ask at/during the time of asking through the interval of (possibly) answering or partially or fully answering:
+(There will be a right way and a wrong way and a right time and a wrong time to incline towards answering any of these questions.) If can ask in a way/&#8203;manner/&#8203;sense that’s good, and it is good to ask at/&#8203;during the time of asking through the interval of (possibly) answering or partially or fully answering:
 
 1. Who am I being (right now)?
 1. What/which is me and/or mine? What/which is you and/or yours? What/which is his/her/it and/or theirs?
@@ -4689,7 +4689,7 @@ Notes:
 1. Where does the past live? Where does history live? Do history or the past exist outside of interpersonal interaction/"social reality"?
 1. "Where"/"how" does death live? Can that "location" be otherwise?
 1. "Where"/"how" does the future live? Can that "location" be otherwise?
-1. "Where"/"how" does forever/immortality/deathlessness[ or not]/sempiternity/eternity/timelessness/"end-of-time-ness" live? Can that/those "location"(s) be otherwise?
+1. "Where"/"how" does forever/&#8203;immortality/&#8203;deathlessness[ or not]/&#8203;sempiternity/&#8203;eternity/&#8203;timelessness/&#8203;"end-of-time-ness" live? Can that/those "location"(s) be otherwise?
 1. Where/how does pain and/or suffering live?
 1. What is the only thing that’s real?
 1. Where does truth and the transitivity of truth preservation live?
@@ -4834,7 +4834,7 @@ Notes:
 1. What is the difference between any and every "two" "sensations"?
 1. What are you trying to maximize? Why not sufficiency? What will never be enough? Why or how do you know?
 1. Do you want it all to just stop/end/finish/cease?
-1. Are you trying to directly/immediate/instantly/something control (change, precent, block, cause) sensations?
+1. Are you trying to directly/&#8203;immediate/&#8203;instantly/&#8203;something control (change, precent, block, cause) sensations?
 1. How are you beyond beyond [sic] fucked?
 1. What can you not accept?
 1. What present limitations of yours can you not accept?
@@ -5061,13 +5061,13 @@ Q.E.D.
 
 [<a href="#111h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="112"></span> creativity(/unsticking) protocol [solo and otherwise]:
+# <span id="112"></span> creativity(/&#8203;unsticking) protocol [solo and otherwise]:
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 [<a href="#112h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="113"></span> what to do when nothing's happening/working:
+# <span id="113"></span> what to do when nothing's happening/&#8203;working:
 
 [stub]
 
@@ -5097,7 +5097,7 @@ Another example is, suddenly, you seemingly know *less* about something than you
 
 [<a href="#113h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="114"></span> creativity(/unsticking) protocol:
+# <span id="114"></span> creativity(/&#8203;unsticking) protocol:
 
 Intructions:
 
@@ -5254,16 +5254,16 @@ Moves can be complex, that is, moves can be made of submoves that are simultaneo
 
 * yay = the true nature of yay must come to be understood over time; one’s understanding will be revised again and again, possibly calling it by many names along the way
 * bleh = the true nature of bleh must come to be understood over time; one’s understanding will be revised again and again, possibly calling it by many names along the way
-* sacredness = rightly or wrongly it would currently be catastrophically, critically bad if this [sacred] seemingly/apparently/expectedly extremely heartrendingly/body-rendingly good thing X were not actually good/true/real/obtaining/existing/something/etc
+* sacredness = rightly or wrongly it would currently be catastrophically, critically bad if this [sacred] seemingly/apparently/expectedly extremely heartrendingly/body-rendingly good thing X were not actually good/&#8203;true/&#8203;real/&#8203;obtaining/&#8203;existing/&#8203;something/&#8203;etc
 * illusion = for better or worse, something that is not actually true/real/obtaining/existing/something/etc
 * inversion = incorrectly believing that something bad is good or that something good is bad (contextually, generally, universally, something, etc.)
 * resignation = deciding (perhaps in the distant past and having forgotten) to never (try to) get some good thing, person, place, situation, context, experience
 * deferral = deciding (perhaps in the distant past and having forgotten) to get a good thing (perhaps much, much, much later)
 disgust/revulsion/hate/rejection = response to being seemingly or actually choicelessly/inevitably felt subject to past or expected, seeming or actual (felt) harm/hurt you currently lack the ability to [i.e. can’t] adequately predict, control, or repair with negligible enough opportunity cost
-* atonement/reparations/restitution/redemption/apology/repair = 
+* atonement/&#8203;reparations/&#8203;restitution/&#8203;redemption/&#8203;apology/&#8203;repair = 
 * love = abstract and/or felt and/or skillful concrete actions arising from accepting a person, place, or thing exactly as they are, have been, and will be/become (it is, has been, and will be/become)
 * compassion/care = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be free from suffering
-* loving-kindess/kindness/care (metta) = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be happy/joyful/satisfied/satiated/complete/content
+* loving-kindess/kindness/care (metta) = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be happy/&#8203;joyful/&#8203;satisfied/&#8203;satiated/&#8203;complete/&#8203;content
 * wisdom = ability to take skillful action; ability to not have to make hard, terrible choices; ability to realize when a choice between bad and worse is an illusion
 * self-transformation, cranking [like turning a crank], bootstrapping = the production of wisdom
 on the path = ability and propensity to self-transform, crank, bootstrap no matter one’s current level of wisdom
@@ -5558,11 +5558,11 @@ Finally, here are some ways that people systematically leave things out; as best
 
 don’t skip anything, don’t bypass anything, don’t force anything. don’t double-down, you’re probably missing something somewhere else. if you accidentally force, reverse it as soon as you possibly can. rare, weird, unusual, surprising, or uncommon stuff matters. it could be a clue to a systematic avoidance or a bottleneck. eventually you have to touch everything in every way, think "everything," believe "everything," do "everything", remember everything, often from multiple angles, over and over again, in the right global order, though with plenty of room for backtracking and mistakes. every good thing, every bad thing, every trauma, every childhood terror. it’s finite. don’t do so any session indiscrimately; and catching small details can save dozens or hundreds of hours, tiny (or large) unexpected body locations or depths from particular angles or along particular paths, far removed from each other in partially repeating, complex orders; the right turn or surrender to memory or thought or reverie—spending hours painstakingly untangling (local or distributed) X is worth it and necessary, interleaving doing that with large excursions to elsewhere in body and mind may help you find what’s "secretly" blocking that untanglng. sleeping, watching tv, conversing, throwing yourself into experience may offer clues to what to do next. it’s finite.
 
-* a too-clean sample pattern of attention: 1212121212121212121212...
-* a too-clean sample pattern of attention: 11111121111111211111121111112...
-* a too-clean sample pattern of attention: 1111111111111121111111111111113111111111111111211111111111113111111111...
-* a too-clean sample pattern of attention: 11111111111111211111111111111131111111188575351111111211111111111113111111111...
-* a too-clean sample pattern of attention: 023987aliurnnga5098126943098fkkdan5691694704958637lkrjnanf0912360989sdf7basf3g7avf...
+* a too-clean sample pattern of attention: 12121&#8203;21212&#8203;121212121212...
+* a too-clean sample pattern of attention: 111111&#8203;21111&#8203;1112&#8203;11111&#8203;121111112...
+* a too-clean sample pattern of attention: 1111111111&#8203;111121&#8203;111111111&#8203;111113111&#8203;111111111&#8203;111211&#8203;111111111113111111&#8203;111...
+* a too-clean sample pattern of attention: 1&#8203;11111&#8203;11111111211&#8203;1111111111111&#8203;31111111188&#8203;5753511111&#8203;11211111111111113111111111...
+* a too-clean sample pattern of attention: 023&#8203;987aliu&#8203;rnnga5098&#8203;126943098f&#8203;kkdan56916&#8203;94704958&#8203;637lkrj&#8203;nanf09123&#8203;60989sdf7&#8203;basf&#8203;3g7avf...
 
 "slow is smooth: smooth is fast", blah blah
 
@@ -5939,7 +5939,7 @@ And, we can be we.
 * Normal waking ommiarousal; questing emotions
 * Rest/digest laze around low vigilance low arousal
 * Sexual arousal; (horny, full plateau arousal, orgasm; post orgasm extended afterglow
-* Compassion/care/love/teach/help/protect/serve/defend arousal
+* Compassion/&#8203;care/&#8203;love/&#8203;teach/&#8203;help/&#8203;protect/&#8203;serve/&#8203;defend arousal
 * Syntonic stress arousal—perform, flow; achieve
 * Dystopia stress arousal (or vasocagal response)—fight flight/flee freeze faint
 * Positive and negative past/future:counterfactual updating/processing emotions (surprise fear happiness
@@ -6781,7 +6781,7 @@ yeah
 
 could you see if this existing section kind of says it:
 
-"headyness"/"heady-ness"/"headiness"
+"headyness"/&#8203;"heady-ness"/&#8203;"headiness"
 
 
 **N**
@@ -7365,7 +7365,7 @@ things can be good and bad while not being directly conceptualized as such
 
 it starts out a heuristic but becomes more and precise and concrete (if imperfect) over time
 
-it won’t “linguistically/phenomenologically/conceptually “seat well” [sic] with everyone, at first or ever, which is why there should be a lot of practices out there.
+it won’t “linguistically/&#8203;phenomenologically/&#8203;conceptually “seat well” [sic] with everyone, at first or ever, which is why there should be a lot of practices out there.
 
 but goodness, held loosely in way that allows it to evolve as understanding grows, is a pretty special concept. it can be tangly at first though because of how metaphysically/ethically connotation-laden it is.
 
@@ -7756,7 +7756,7 @@ All of the below assumes lots and lots of meditation (or luck/fortune/grace/etc.
 
 Some of the things that can happen over time are the following, and these are all sort of somewhat entangled together:
 
-Sempiternity and especially eternity can come to be sort of deeply recognized as phenomenologically/pragmatically/epistemically inconsistent. It’s not that one can no longer work/think/model with conceptual and cosmological and mathematical infinity or plan for far futures, but some "literal or functional seating" of these ideas, in the bodymind, can be judged and rejected.
+Sempiternity and especially eternity can come to be sort of deeply recognized as phenomenologically/&#8203;pragmatically/&#8203;epistemically inconsistent. It’s not that one can no longer work/think/model with conceptual and cosmological and mathematical infinity or plan for far futures, but some "literal or functional seating" of these ideas, in the bodymind, can be judged and rejected.
 
 This is partly underpinned by insight into impermanence and/or/rather lack of essence and/or/rather interdependence, as in nebulous, empty, or provisional causes (laws), conditions ("starting" conditions), and spontaneity, through and through. Say it’s all just shimmering stuff or forces and fields or whatever, phenomena or noumena, on the border of differentiation and lack of differentiation. What perhaps follows is sort of a way in which anything like eternity or its implications becomes (literally?) ungraspable. (I might lose some physical or scientific or mathematical realists, here. See below for a tiny bit more on maps and territories and more.)
 
@@ -8149,7 +8149,7 @@ So, I’ll just note that this stuff is hard, life is hard, this stuff is subtle
 
 Ok, so there’s one more thing to mention, in this section, and that is miscarriages, abortions, and older siblings.
 
-It seems to be the case that prior fetuses leave a "pattern," as it were, "in" the mother, that are conceptually/spatiotemporally/experientially localized to the womb. And, this pattern is durable/stable/lasting and can "picked up" and (mis)interpreted by subsequent fetuses.
+It seems to be the case that prior fetuses leave a "pattern," as it were, "in" the mother, that are conceptually/&#8203;spatiotemporally/&#8203;experientially localized to the womb. And, this pattern is durable/&#8203;stable/&#8203;lasting and can "picked up" and (mis)interpreted by subsequent fetuses.
 
 Leading to the above, I (and other collaborators, who first made this phenomenon salient to me) have encountered multiple, first-hand reports of people, while in the womb, [proto-]fearing that they would have the same fate as a miscarried or aborted fetus, or, say, believing, confusedly, that they were an aborted fetus (and so were a sort of living dead zombie person), and so on.
 
@@ -8545,19 +8545,19 @@ Again, the straw realist single mindedly seeks total power because they believe 
 But! What if!
 
 * Sender criteria:
-	* a person (or group) could sufficiently competently *enact* nonviolent/peaceful/collaborative intentions
-	* a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+	* a person (or group) could sufficiently competently *enact* nonviolent/&#8203;peaceful/&#8203;collaborative intentions
+	* a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/&#8203;peaceful/&#8203;collaborative intentions
 
 * Receiver criteria:
-	* a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
-	* a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/peaceful/collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
-	* a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/peaceful/collaborative intentions
+	* a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/&#8203;peaceful/&#8203;collaborative intentions
+	* a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/&#8203;peaceful/&#8203;collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
+	* a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/&#8203;peaceful/&#8203;collaborative intentions
 
 Let’s call a person (or group) that has all of both the sender criteria and the receiver criteria a "straw enlightened person" (or group).
 
 So! What if!
 
-What if all people and thus all groups were straw enlightened? Then there would be nonviolent/peaceful/collaborative synergy! We could then solve suffering, health, coercion, energy, mortality, and existential risk! (Oops, circularities abound!)
+What if all people and thus all groups were straw enlightened? Then there would be nonviolent/&#8203;peaceful/&#8203;collaborative synergy! We could then solve suffering, health, coercion, energy, mortality, and existential risk! (Oops, circularities abound!)
 
 "Ah ha!" says the straw realist! "But there is no button to push to have that! One way or another, we ended up with warlords and tribes, and then we ended up with global competition and great powers! Anarchy yields global competition and great powers! And I, the straw realist, will even admit that no one necessarily wants this! I might even admit that our very actions cause it! [3] But, there is no other way, because people are not naturally altruistic beyond family or tribe. Even ‘self-interested altruism,’ strategic generosity, grace, magnanimousness, isn’t really ‘intrinsic,’ isn’t really ‘sincere,’ and is unstable. And so we have the world today. At the bottom of everything is threat of violence and fear of suffering and death. That is what power is, threat or actualization of violent coercion, and it’s the only thing that matters."
 
@@ -8631,13 +8631,13 @@ Can we all be straw enlightened people or groups? Is it too late?
 There’s maybe a piece left out of the criteria above. I know they’re phrased awkwardly, but I chose the words pretty carefully, single pass, if you’ll look at them again. I’ve copied them again, here, exactly:
 
 * Sender criteria:
-	* a person (or group) could sufficiently competently *enact* nonviolent/peaceful/collaborative intentions
-	* a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
+	* a person (or group) could sufficiently competently *enact* nonviolent/&#8203;peaceful/&#8203;collaborative intentions
+	* a person (or group) could sufficiently credibly, sincerely *signal* ability, willingness, and desire to sufficiently competently enact nonviolent/&#8203;peaceful/&#8203;collaborative intentions
 
 * Receiver criteria:
-	* a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/peaceful/collaborative intentions
-	* a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/peaceful/collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
-	* a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/peaceful/collaborative intentions
+	* a person (or group) could sufficiently *recognize* signs and signals of ability, willingness, and desire to sufficiently competently enact nonviolent/&#8203;peaceful/&#8203;collaborative intentions
+	* a person (or group) could sufficiently accurately, confidently *evaluate* whether sufficient sincerity and competence underlie apparent signs and signals of ability, willingness, and desire to enact nonviolent/&#8203;peaceful/&#8203;collaborative intentions (including accounting for coincidental or disendorsed apparent countersigns and countersignals)
+	* a person (or group) could sufficiently metabolize or recover from imperfect or partially harmful nonviolent/&#8203;peaceful/&#8203;collaborative intentions
 
 Ok, but then, one more time, the straw realist says, "Well, I hate people, and/or I think your culture is disgusting, and/or the world must be burned to the ground to save it. Or, if I don’t think that, someone else will. So what of your ideals or beautiful aspirations? Violent power is what matters; violent power is security. And then the whole thing is just waiting to blow up."
 
@@ -9104,7 +9104,7 @@ Notes:
 
 * "logical closure: if good maintain or start; if bad stop or prevent"
 * note that it's "bad" not bad (without the quotes)
-* future-proofing: "take your foot off the gas" refers to the automobile gas pedal, an analog intensity/degree/aggregate/recruitment/flux control... [it's an imperfect metaphor]
+* future-proofing: "take your foot off the gas" refers to the automobile gas pedal, an analog intensity/&#8203;degree/&#8203;aggregate/&#8203;recruitment/&#8203;flux control... [it's an imperfect metaphor]
 
 [<a href="#177h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -9579,9 +9579,9 @@ Maybe everyone that manages to successfully look sees the same thing, and maybe 
 * [3] https://www.google.com/search?q=hedgehog+versus+fox
 * [4] https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/
 * [5] https://www.google.com/search?q=turkey+problem+taleb%2C+bernard
-* [6] https://www.google.com/search?q=bleen+grue&oq=bleen+grue&aqs=chrome..69i57j0l5.2793j1j7&sourceid=chrome&ie=UTF-8
+* [6] https://www.google.com/search?q=bleen+grue
 * [7] https://www.amazon.com/dp/B004W0I00Q/
-* [8] https://www.google.com/search?q=naturalism&oq=naturalism
+* [8] https://www.google.com/search?q=naturalism
 
 [<a href="#187h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -9634,14 +9634,14 @@ Now,
 * without loss of essential detail, roughly MINIMIZE counts/number of
 	* axioms/premises
 	* other normal propositions
-	* kinds/types/classes/abstractions (i.e. normal concepts)
+	* kinds/&#8203;types/&#8203;classes/&#8203;abstractions (i.e. normal concepts)
 	* anomalies, counterexamples, "unexplainable" phenomena
 	* reason relations (path-length/lemmas/inferential-or-causal-depth-to-conclusion)
 * roughly MAXIMIZE counts/number/density of
 	* conclusions
 	* fan-out / multifinality (with respect to reason relations)
 	* fan-in / equifinality (with respect to reason relations)
-	* instances/instantiations/tokens/concrets/particulars/specifics (that fall under the kinds/types/classes/etc above)
+	* instances/&#8203;instantiations/&#8203;tokens/&#8203;concrets/&#8203;particulars/&#8203;specifics (that fall under the kinds/types/classes/etc above)
 
 *Nonequivocation:*
 
@@ -9822,7 +9822,7 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Existential Kink: Unmask Your Shadow and Embrace Your Power (A method for getting what you want by getting off on what you don't) by Carolyn Elliott
 * Feldenkrais, Moshe. Awareness through movement. Vol. 1977. New York: Harper and Row, 1972.
 * You Are the One You've Been Waiting For (Internal Family Systems). January 1, 2008. by Richard C. Schwartz
-* Sociological/Institutional/Market/Monetary Interlude:
+* Sociological/&#8203;Institutional/&#8203;Market/&#8203;Monetary Interlude:
 * Money’s Mutation of the Modern Moral Mind: The Simmel Hypothesis and the Cultural Evolution of WEIRDness. Cameron Harwick. Revised April 3, 2021.
 * Zelizer, Viviana A. "The purchase of intimacy." Law & Social Inquiry 25.3 (2000): 817-848.
 * Zelizer, Viviana A. The social meaning of money: Pin money, paychecks, poor relief, and other currencies. Princeton University Press, 2017.
