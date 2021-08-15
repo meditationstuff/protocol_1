@@ -9576,12 +9576,12 @@ Maybe everyone that manages to successfully look sees the same thing, and maybe 
 
 * [1] https://www.facebook.com/romeostevens/posts/10214779968345433
 * [2] https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
-* [3] https://www.google.com/search?q=hedgehog+versus+fox&oq=hedgehog&aqs=chrome.1.69i59l2j0l4.3086j0j9&sourceid=chrome&ie=UTF-8
+* [3] https://www.google.com/search?q=hedgehog+versus+fox
 * [4] https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/
-* [5] https://www.google.com/search?sxsrf=ACYBGNRqao0vZXUsC8nEw5MY9nX5gtppfg%3A1568726029979&ei=DdyAXeCrO4zktQWBqq2wCQ&q=turkey+problem+taleb%2C+bernard&oq=turkey+problem+taleb%2C+bernard&gs_l=psy-ab.3...4327.8220..8622...0.0..0.113.836.6j3......0....1..gws-wiz.......33i299j33i160.EXKgm4RBn90&ved=0ahUKEwig5pDu99fkAhUMcq0KHQFVC5YQ4dUDCAs&uact=5
+* [5] https://www.google.com/search?q=turkey+problem+taleb%2C+bernard
 * [6] https://www.google.com/search?q=bleen+grue&oq=bleen+grue&aqs=chrome..69i57j0l5.2793j1j7&sourceid=chrome&ie=UTF-8
-* [7] https://www.amazon.com/dp/B004W0I00Q/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-* [8] https://www.google.com/search?q=naturalism&oq=naturalism&aqs=chrome..69i57j0l5.1088j0j7&sourceid=chrome&ie=UTF-8
+* [7] https://www.amazon.com/dp/B004W0I00Q/
+* [8] https://www.google.com/search?q=naturalism&oq=naturalism
 
 [<a href="#187h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
