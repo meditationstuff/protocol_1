@@ -4951,7 +4951,7 @@ first person concrete experiential qualities in —> first person concrete exper
 
 [p11 gloss: "Stop meditating."]
 
-Gently stop(/&#8203;block/&#8203;prevent) meditating, completely, either immediately, if you can, or durationally incline towards this (if it seems good enough, safe enough, etc., to do this). And, see what spontaneously, ongoingly remains, even so. That is, see how/if meditation (or anything) continues, if/&#8203;when you've completely stopped meditating, any/&#8203;all of which might be good or beyond goodness.
+Gently stop(/&#8203;block/&#8203;prevent) meditating, completely, either immediately, if you can, or durationally incline towards this (if it seems good enough, safe enough, etc., to do this). And/&#8203;or/&#8203;rather, continuously "don't meditate." And, then, see what spontaneously, ongoingly remains, even so. That is, see how/if meditation (or anything) continues, if/&#8203;when you've completely stopped meditating, any/&#8203;all of which might be good or beyond goodness.
 
 [<a href="#109ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
