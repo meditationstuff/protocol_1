@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#"make" the document from *.md to a single index.html
+
 # run as so:
 # ./m.sh
 
