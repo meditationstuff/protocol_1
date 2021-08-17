@@ -6,7 +6,7 @@
 
 <span id="2"></span> **by** Mark D Lippmann and collaborators
 
-<span id="3"></span> **Credits (needs to be updated):** Content: ...JD, __, __, __, __, __, __, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] Colophon: H, KQ, MO.
+<span id="3"></span> **Collaborators and Credits (needs to be updated):** ...JD, __, __, __, __, __, __, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, KQ, MO.)
 
 <span id="4"></span> **Copyright:** All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 
@@ -118,7 +118,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 * <a id="1h" href="#1">working title</a>
 * <a id="1ah" href="#1a">work-in-progress note</a>
 * <a id="2h" href="#2">byline</a>
-* <a id="3h" href="#3">credits</a>
+* <a id="3h" href="#3">collaborators and credits</a>
 * <a id="4h" href="#4">copyright</a>
 * <a id="5h" href="#5">quick start guide</a>
 	* <a id="6h" href="#6">who is this document for?</a>
