@@ -6,7 +6,7 @@
 
 <span id="2"></span> **by** Mark D Lippmann and collaborators
 
-<span id="3"></span> **Credits (needs to be updated):** ...JD, __, __, __, __, __, __, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.]
+<span id="3"></span> **Credits (needs to be updated):** Content: ...JD, __, __, __, __, __, __, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] Colophon: H, KQ, MO.
 
 <span id="4"></span> **Copyright:** All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 

@@ -5,4 +5,8 @@
 # run as so:
 # ./m.sh
 
-./pandoc -f commonmark+autolink_bare_uris header.md index.md auxiliary_names.md auxiliary.md appendix_p1_en-US.md footer.md -o index.html
+./pandoc -f commonmark+autolink_bare_uris index.md auxiliary_names.md auxiliary.md appendix_p1_en-US.md footer.md -o intermediate.html
+
+cat header.html intermediate.html > index.html
+
+rm ./intermediate.html

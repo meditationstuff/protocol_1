@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta
+name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+
+        body {
+            margin: 40px auto;
+            max-width: 50vw;
+            font-size: 1.2em;
+            color: #121212;
+            
+            /* These are technically the same, but use both */
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+
+            -ms-word-break: break-all;
+            /* This is the dangerous one in WebKit, as it breaks things wherever */
+            word-break: break-all;
+            /* Instead use this non-standard one: */
+            word-break: break-word;
+        }
+
+        p {
+            margin-bottom: 1.2em;
+            line-height: 1.4;
+        }
+
+        li {
+           line-height: 1.4;
+           margin-bottom: .1em;
+        }
+
+        h1 {
+            margin-top: 1em;
+        }
+
+        a:link {
+            color: #3a4fd3;
+        }
+
+        a:visited, a:hover {
+            color: #0a0068;
+        }
+
+        .darkmode {
+            background-color: #121212;
+            color: white;
+            opacity: 87%;
+        }
+
+        a.darkmode:link {
+            color: #5d6edf;
+        }
+
+        a.darkmode:visited, a.darkmode:hover {
+            color: rgb(129, 140, 216);
+        }
+
+        #darkmode {
+            position: fixed;
+            top: 2%;
+            right: 2%;
+        }
+
+         /* When the browser is at least 600px and above */
+         @media screen and (max-width: 1024px) {
+            body {
+                max-width: 90vw;
+            }
+        }
+
+    </style>
+
+<title>
+	Meditation from Cold Start to Complete Mastery
+</title>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BG76EDKSMD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BG76EDKSMD');
+</script>
+
+<!-- Hotjar Tracking Code for https://meditationbook.page/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2449937,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+</head>
+
+<body>
+
+<button id="darkmode">dark</button>
+<script>
+    document.querySelector("#darkmode").onclick = function(e) {
+        document.querySelector('body').classList.toggle('darkmode');
+        document.querySelectorAll("a").forEach((el) => {
+            el.classList.toggle('darkmode');
+        });    
+        document.querySelector('#darkmode').text(function(i, text) {
+        return text === "dark" ? "light" : "dark";
+    });
+    }
+    
+</script>
+
+<ul>
+<li> <a href="#5"> Jump to Quick Start Guide</a> </li>
+<li> <a href="#11">Jump to Full Table of Contents</a> </li>
+</ul>
+
+<hr>
+
+(scroll down past the notes for the book title and front matter)
+
+<em><strong>Note:</strong> This website is a single, very long page, and it can take a few seconds to load. If you arrived via a URL that has an anchor link on the end, like "<strong>/#132c</strong>", then make sure you wait and/or refresh, to make sure that you get jumped to the beginning of the intended section of the document. </em>
+
+<em><strong>Note:</strong> <a href="https://github.com/meditationstuff/protocol_1/commits/master">Click here to see what's recently changed!</a></em>
+
+<em><strong>Note:</strong> This whole book is a single, static webpage, with no external resources, which you're reading right now. Save a local copy with a single command&#8209;/ctrl&#8209;s!</em>
+
+<span id="1a"></span> <em><strong>Note:</strong> This book is a versioned, long-term work-in-progress, a living document. It’s very "useably complete," and/but there are typos, rough patches, risks, and uncertainties; and, improvements, rewrites, refactorings, and additions continue to happen.</em>
+
+<hr>
