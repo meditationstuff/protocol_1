@@ -7567,6 +7567,10 @@ seeking new landscapes, but in having new eyes."
 
 See also maybe: https://metarationality.com/bongard-meta-rationality
 
+\*
+
+Emptiness very withstanding, it’s very hippocampal--more and more, less fragmentedly, more unfragmentedly, you know who you are (which one; this one; not that one or those ones), what you are (previously mistaken), where/when you are, with respect to the state of the world, the distant past, the far future. Again, this can only wholly happen, in emptiness, under nonduality/luminosity/etc., all of that affords settling, affords seeing (body)mind for what it actually is, and in that, or of that, or under that, all of that can reshape itself so as to “know where you are,” yet still, “not two, not one,” empty, nebulous, provisional, light, and so on.
+
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

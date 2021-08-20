@@ -347,6 +347,7 @@ n/a
 			- optionality, ability, choice
 		- untitled
 			- additionally alongside instead furthermore moreover besides than too also plus in-addition, similarly, still albeit despite nevertheless withstanding notwithstanding even-so regardless although accordingly but not also as well too indeed
+			- however, while, despite, although, albeit, nevertheless
 	- simple
 	- conditional
 	- imperative (incomplete)
