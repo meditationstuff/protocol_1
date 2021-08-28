@@ -7443,6 +7443,16 @@ So, in any case, one shouldn't infer progress by what's happening in any particu
 
 One sort of, as best they can, has to take into account the whole global history and context, in terms of global wayfinding, to get better and better at how to relate to and participate in any particular thing that's happening at any particular time, including being ok with being swept away, when that's the right thing to be doing, or anything in between, or nuanced variations of any of this, and so on.
 
+\*
+
+It can be really discouraging when progress seems state dependent (“if only I were in that other state!“), but taking correct actions, as best one can, in any state, is the thing that metabolizes, over a long time, whatever state one happens to be in (and part of that is fully accepting being in the state, if/eventually/when it’s safe to do so).
+
+Like, the state IS the very stuff of practice, not a thing in the background that conditions practice.
+
+\*
+
+I sometimes say something like, “after hundreds, thousands, or tens of thousands of micro-experiments, little bets, something, as best you can, eventually you hit a wall, then you travel along the wall until you end up in a corner, and then in the corner there are no degrees of freedom, and then there’s only one way out, so you know what to do, and then you spontaneously do that, and this repeats.”
+
 [<a href="#158h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
