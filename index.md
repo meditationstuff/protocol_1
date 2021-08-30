@@ -7856,9 +7856,46 @@ And it can dialogue with other people’s things/deals, too, in comfort, love, i
 
 \* Whoops, also, I didn't mean to imply that anyone *has* to sort any of this out, whether by meditation or anything. And, also, nothing special has to happen in meditation or etc.. This sort of stuff "just pops out", all things being equal, in the course of correct practice.
 
-Notes:
+Notes for above:
 
 * An unintegrated fragment from an edit of an older section, that had different goals, that I want to re-work in a way that's seamless with this section: "Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts."
+
+**journal entry during one of my retreats, where people are optionally keeping public journals, written months after the above**
+
+[This kind of becomes self-aware like somewhere in the middle. Like I knew I was going to post it more publicly.]
+
+Mark L Today at 7:42 PM
+
+It’s been a normal-weird couple months of practice, just kind of carefully, patiently, satisfyingly, and often quite unpleasantly doing the thing. Not much going on except body unpleasantness that keeps winding up and working itself out. And just in the last couple of days, as these things do, things have tipped over into “whoa things”
+
+The past few months have been a lot of slow sort of impermanence/non-eternity kind of slowly infusing more and more of everything.
+
+And then, just this morning, there’s been some FINALLY really extra deep no really extra extra especially deep psychosexual stuff that’s FINALLY come into view. FINALLY, /shakes fist at sky/, lol, etc., ugh
+
+[content warning, death stuff, in thread]
+
+Thread:
+
+Mark L  7 minutes ago
+
+And also last night and this morning sort of more glimpses, alignment with “oblivion,” nothingness, nibanna-esque/cessation-y adjacent type stuff. Why is it so sweet/refreshing/good? What the heck?
+
+ramble I typed earlier:
+
+There’s this whole fucking world and physics and shit and tens of thousands of years of human history and the universe and the stars and life extension.
+
+And like kind of modulo suffering and horror I don’t want to fucking die, man, that seems really bad. So then like what the heck is this positive forgetting, oblivion, nirvana, why is it so good, refreshing, why is it such a relief? Why is it making everything better, making living more fun?????????????
+
+I think it’s sort of like one can intellectually know that “nothing” isn’t scary, it’s just nothing. But we viscerally recoil from death and just, like, want to LIVE, man. I wanna have grand adventures and beautiful relationships and see the stars go out.
+
+There’s also like this weird tension, too, with “acausal, steelmanned reincarnation,” or whatever. Like, life in a meaningfully transpersonal sense life DOES go on, even if you’re not there except you kind of are but aren’t but you are.
+
+But still, quote by problematic person:
+
+“I don’t want to achieve immortality through my work; I want to achieve immortality through not dying. I don’t want to live on in the hearts of my countrymen; I want to live on in my apartment.” —Woody Allen
+
+But then like meditation lets you (sooner or later) systematically systematically engage with nothingness. And, like, in a way that completely honors that visceral recoil, that completely honors wanting to LIVE (the incredible, incredible sorrow, sometimes, often, of life on earth completely withstanding), nothingness just really isn’t that bad, or something? There’s this visceral knowledge of that, too. It maybe can just make so much ok. Everything becomes lighter. (And this isn’t even the only thing that happens, in relation to suffering as such. That’s a whole other thing, even.)
+
 
 [<a href="#163h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
