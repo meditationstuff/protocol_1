@@ -346,7 +346,7 @@ n/a
 			- contingent, conditional, counterfactual
 			- optionality, ability, choice
 		- untitled
-			- additionally alongside instead furthermore moreover besides than too also plus in-addition, similarly, still albeit despite nevertheless withstanding notwithstanding even-so regardless although accordingly but not also as well too indeed
+			- additionally alongside instead furthermore moreover besides than too also plus in-addition, similarly, still albeit despite nevertheless withstanding notwithstanding even-so regardless although though accordingly but not also as well too indeed
 			- however, while, despite, although, albeit, nevertheless
 	- simple
 	- conditional
@@ -717,6 +717,7 @@ n/a
 	- necessary, contingent, arbitrary, (incidental)
 -	
 	- [moreover, notwithstanding, withstanding, nevertheless, therefore]
+	- "given all of that", "all that being said","in other words","to rephrase"
 -
 	- to index
 	- to depic
