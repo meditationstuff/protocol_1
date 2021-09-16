@@ -295,6 +295,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
 	* <a id="158da1h" href="#158da1">far reaches of meditation</a>
 	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
+	* <a id="158fah" href="#158fa">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
+	* <a id="158gah" href="#158ga">a brief dialogue on locality and concreteness</a>
 	* <a id="158ah" href="#158a">sex, gender, etc. stuff</a>
 		* <a id="158bh" href="#158b">working with sex and gender (plus "tantra")</a>
 	* <a id="159h" href="#159">stuff stuff 1</a>
@@ -7588,6 +7590,22 @@ See also maybe: https://metarationality.com/bongard-meta-rationality
 
 Emptiness very withstanding, it’s very hippocampal--more and more, less fragmentedly, more unfragmentedly, you know who you are (which one; this one; not that one or those ones), what you are (previously mistaken), where/when you are, with respect to the state of the world, the distant past, the far future. Again, this can only wholly happen, in emptiness, under nonduality/luminosity/etc., all of that affords settling, affords seeing (body)mind for what it actually is, and in that, or of that, or under that, all of that can reshape itself so as to “know where you are,” yet still, “not two, not one,” empty, nebulous, provisional, light, and so on.
 
+\*
+
+More (and these could be the subjects of entire books (though they don't have to be; it's an implicit, self-dawning understanding, that takes care of itself; it's just "really deep and important" vis-a-vis all of this re sort of "global restructuring of mind" but that's a potentially misleading phrase (see "locality and concreteness" dialogue, elsewhere in document. also concepts in the pedagogical/bridge-building distinction breadth-first vs depth-first discussions, re "depth" and "tangledness"/"diffuseness"). See David Chapman's Meaningness stuff, too, again re the immediately below):
+
+(Note: ***a sense***)
+
+[in only the faintest of any particular order]
+
+a sense in which there's no such thing as language, never has been
+
+a sense in which there are no abstractions, never have been
+
+a sense in which there's no people, never has been
+
+a sense in which there is no ultimate, omni-commensurable ground truth/ontology, never has been
+
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7630,6 +7648,290 @@ https://twitter.com/JakeOrthwein/status/1412275263740682247
 Me: “Man, I should have *something* like this in my document.” [in language commensurate with the rest of the document, even if usual equivocation, etc.]
 
 [<a href="#158eah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158fa"></span> a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence:
+
+[Edited and elided and mangled for clarity.]
+
+**PK**
+
+Hey, Mark and I were talking about the "absolute agency" pattern in his work, and I thought you (DX) might have some things to add
+
+**DX**
+
+Oh yummy what’s that
+
+**PK**
+
+i had just written a kind of summary of the convo from my pov, so i'll paste that here:
+
+> **PK**
+> 
+> Okay. Maybe I can try and summarize / re-state the issues here
+> 
+> [4:46 PM] I'm making a few claims
+> 
+> [4:47 PM] (1) There is some kind of "absolute agency" pattern present in the protocol doc
+> 
+> [4:47 PM] (2) This pattern is a distortion, a samskara (I think of those as roughly referentially equivalent, though I'm perceiving more the "distortion" aspect here, i.e. the way this pattern is warping the rest of the fabric)
+> 
+> [4:47 PM] (3) This pattern is part of the "transmission" of the protocol doc (by "transmission", I mean roughly the same kind of transmission as you get face-to-face)
+> 
+> [4:47 PM] It seems like we're at least sort of on the same page on (1)? Like you agree that there's something there?
+> 
+> [4:47 PM] I'm not sure if you agree with me on (2)
+> 
+> [4:47 PM] (3) seems like a big point of disagreement. It seems like there you think that (a) to whatever extent this pattern is there, it's caveated enough (e.g., "all these descriptions are just words, you need to find their true meanings yourself") that the reader can have some choice around it. And (b) even if they pick it up, it's actually fine, bc as a practice it'll eat itself eventually anyway.
+> 
+> [4:48 PM] I kind of agree with (b) but I still think it's problematic to be transmitting not-ultimately-true patterns. And with (a), I do think the caveats help a lot to create the right overall frame and create agency / freedom there; but that they don't really change the transmission of the pattern.
+
+**DX**
+
+Ya this matches my first impression before reading mark's responses.
+The thing that feels specifically funny about it to me is assuming some singular locus of "what is good", eg for all the practices that are like "Do X if it feels good". Whereas for me the concept of a singular locus like that doesn't even make sense metaphysically - rather something more like a maybe-scale-free network of interlocking locii of good.
+
+A funny thing is that it seems like there's basically two meditative paths I see professed a lot:
+
+* one that unifies will as I see yours doing - increasing the scaling factor of the network so there really is one huge locus that basically subsumes the rest (in a not necessarily violent way)
+
+* One that causes all the locii to be closer in scale to minimize ("coercive") power dynamics but such that they step on eachother minimally
+
+If you're a fan of anime metaphors it feels very much like the difference between life fiber override and life fiber synchronization.
+
+Multicenteredness is about recognizing multiscaledness of agency, existence of inner optimizers and other-optimizers in light of fuzzy boundaries, etc.
+
+Eventually it becomes finer and finer until agency is a fine haze of microcenters all in distributed* alignment (edited) 
+
+I'm not sure what this means in terms of practice but there's definitely some implicit effect in assuming "good" has a referent in the traditional sense
+
+traditional = logical denotation rather than dynamic mind-blob ecosystem
+
+so maybe there's this thing where all the parts identify as "me" and it's fine to be inconsistent but then what do you do with the conflict? I've always found that to be a non-starter for p2 meta protocol which has made it hard for me lol (edited) 
+
+or like I do it playfully but feel like I'm missing some joke
+
+**PK**
+
+Like, if we take the wayfinding metaphor literally, the homunculus is like a little hiker looking around all the time and carefully picking his route
+
+**PK**
+
+and in my experience, sometimes that's just not possible
+
+like sometimes things are just already so much in motion, that it's impossible to stop and get perspective (like a homunculus would like to)
+
+**Mark**
+
+Yeah and I just don’t disagree! Huge part of practice, cf a whole quarter of p2. And/but/though it feels like the weight of the document implies otherwise? A confusing/misleading tacit “should”, “you should always be able to do this”?
+
+(I’m like, after all, any homunculus, watcher, the practice itself should eventually get, in some sense, eaten by itself with no remainder. But that’s fruit not path/practice. Should only happen if/when/how a person is ready, in/on their terms and concepts, from the inside. And trying to directly do that could get tangly. But over-reifying or over-homunculifying the practice could get tangly too. And to the degree that that’s not called out, to the degree it needs to be, that’s potentially on me.)
+
+**PK**
+
+hmm okay. yeah, somehow what i picked up from reading it was indeed, "you should always be able to do this". That may be partly just about language, hard for me to tell.
+
+I do see now that p2 as written has a lot on allowing, as opposed to willing. But in my reading, what happens there is that the homunculus gets pushed up a meta level.
+
+**PK**
+
+Ah, perhaps if there's a homunculus, then it needs a goal or direction or something, and that's the role that "good" plays
+
+**DX**
+
+could you say more? Is it like: this is a useful strategy if you're already shaped like a mostly single big homunculus and it's fine because eventually it eats itself?
+
+(but then what then?)
+
+**Mark**
+
+more like any parts that are looking for something to do, the protocol is something to do
+
+and that something to do teaches those parts how to harmoniously interface with everything else, which sort of then teaches everything to harmoniously interface with everything else
+
+**PK**
+
+> more like any parts that are looking for something to do, the protocol is something to do
+
+huh actually i tried it on more, and honestly I can't see how this could work in a way that didn't feel like fabrication
+
+may be a me thing though. like, at the relevant level, i don't think that any of me is "looking for something to do"
+
+**Mark**
+
+something to do / meditate / know thyself / experiment / try stuff / change / get something / become something / surrender to something / align with something / participate in something
+
+I don’t mean it as anything more than if thirsty, and safe to drink, and harmonious enough to drink, then drink, for literal thirst. Basically same.
+
+Or, also, “one is thirsty and just drinks” without conceptualizing as such, but then it’s still possible to profitably play with that, or nearby that, if there’s something dissatisfying, somewhere.
+
+**DX**
+
+If I frame it as looking for what's dissatisfying and remembering to allow stuff if I don't find it that feels a lot better. Something about how if something is dissatisfying for one part, it's a dissatisfaction for the whole system, which is not true of "good"
+
+[**Ed.** but one could incorporate dissatisfaction into one's understanding of "good"!]
+
+**Mark**
+
+Part of it is that the ways in which one can’t do the things, at particular object-level times, in particular object-level contexts or regimes, is intended to demonstrate the ways in which things like willing (and other things) fail—locally, generally, and sometimes universally. And this gives potentially to certain senses of positive determinism, interdependence, groundlessness, etc., while still retaining (spontaneous) complementary agency which affords those insights.
+
+but that could be explicitly called out better
+
+
+[<a href="#158fah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158ga"></span> a brief dialogue on locality and concreteness:
+
+[Edited and elided and mangled for clarity.]
+
+**JD**
+
+from a friend (i thought is/was genius)
+
+> local is effective. effective is global
+
+[...]
+
+i think for me, there’s a way that concrete action feels separate from “abstract” results
+
+like constantly this question of how i’ll do big things in my life
+
+
+and it seems like the only action you can take
+
+is kind of, on “atoms”
+
+and is somewhat ordinary
+
+so there’s like a seeming disconnect between the small (the playing feel)
+
+and the big (what i seem to care about?)
+
+i kind of feel this when i’m cleaning a room
+
+desired outcome/vision: clean room
+
+but, you can’t just like
+
+wave a magic wand for that to happen
+
+you have to, like, actually move things around
+
+one by one
+
+and there’s kind of a disconnect there
+
+slow is smooth, smooth is fast
+
+**Mark**
+
+> local is effective. effective is global
+
+ok yeah, kind of a pithy expansion [or even pithier compression] of the global wayfinding ethos? or do you feel like it’s something different than that and cool?
+
+**JD**
+
+feels relevant to wayfinding too
+
+exactly!
+
+**Mark**
+
+right yeah
+
+**Mark**
+
+more tho too?
+
+**JD**
+
+like, the only playing field you have
+
+is “local”
+
+the only playing field you can act on
+
+and somehow somehow connects to a more global thing
+
+im not sure if more
+
+maybe less??
+
+**Mark**
+
+> the only playing field you can act on
+
+no yes exactly this
+
+**Mark**
+
+i think people get tripped up trying to take “global” actions but you can’t
+
+sort of
+
+**JD**
+
+> i think people get tripped up trying to take “global” actions but you can’t
+
+rightt, yeah!
+
+this was kind of the original insight for me
+
+like, there’s kind of an abstract goal
+
+happiness
+
+a clean room
+
+\~ belonging \~
+
+and so there’s kind of that abstract level
+
+and trying to act in, perhaps like wanting to flip magic switches to get everything in those good abstract states
+
+but all you have are local (time-bound?) moves
+
+you have to have that phone call, move that object from place a to b
+
+and like all the medtation stuff too
+
+
+**Mark**
+
+yup
+
+**JD**
+
+anyway
+
+feels therepuetically equiv to the slow is fast line
+
+it’s like a chill pill
+
+but in a slightly different/space dimension
+
+**Mark**
+
+a deep/broad/multifaceted insight (but can only be locally/concretedly applied, heh)
+
+**JD**
+
+righttt, lol
+
+[...]
+
+**JD**
+
+[...] i don’t think effective is necessarily the best verb
+
+small adds up, adding up is (eventually) big
+
+---
+
+[Ed. final note: re "ordinary actions", yes! maybe "extraordinary" actions, too, in the sense of sometimes "subtle and/or high dimensional", but they'll still in some sense be *local* (speaking only about the current, relevant sense of "local"), finite, iterated (very loosely speaking). (And/or/also "concrete" ("no abstractions anywhere," or "abstractions have to be concretely engaged, if engaged as such"..."))
+
+[<a href="#158gah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 

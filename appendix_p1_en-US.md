@@ -1130,4 +1130,45 @@ n/a
 			- affirmative indicative past complete # then affirmative indicative # affirmative indicative past prior
 			- [...]
 
+---
+Non-exhaustive, not entirely systematic, playing with compact argument forms:
+
+Given or assuming A, if [it were the case that] X [had been Y], then [it would have been the case that] Q [would have been R]; but, since, instead, [it was the case that] X [was W], then, Q [was instead S].
+
+Given or assuming A, If [it were the case that] X hadn’t been Y, then [it would have been the case that] Q would have been R; but, since X (in fact, basically, more or less) was Y, then, Q was instead S.
+
+Given or assuming A, If [it were the case that] X hadn’t been Y, then [it would have been the case that] Q wouldn’t/would not have been R; but, since X (in fact, basically, more or less) was Y, then, Q was (in fact, basically, more or less) R.
+
+Given or assuming A, if X were Y (full stop; or, instead of X currently being Z), then Q would have been R; but, instead, since, X wasn’t Y, then Q wasn’t R, and Q is (in fact, basically, more or less) S, instead.
+
+Given or assuming A, If X weren’t Y, then Q would have been R. 
+
+Given or assuming A, if X had been Y, then Q can’t/couldn’t have been R (because M); and, since Q can (could have) only been R or S (not both; nor neither; again given or assuming A), then Q must be (have been) S.
+
+Given or assuming A, if X had been Y, then Q can’t/couldn’t have been R (because M); and, since Q can (could have) only been R or S (not both; nor neither; again given or assuming A), then Q must be (have been) S.
+
+Given or assuming A, if X had been Y, then Q can’t/couldn’t have been R, nor S, (because M); and, since Q can (could have) only been exactly one of R, S, and T (again given or assuming A), then Q must be (have been) T.
+
+Given or assuming A, if it is [the case that] A (and it might not be), then it is (universally, necessarily, must be) [the case that] B.
+
+Given or assuming A, if it is [the case that] A (and it might not be), then it is (generally) [the case that] B, except when [it is the case that] C.
+
+Given or assuming A, If [it is the case that] X [does or did obtain; and it maybe doesn’t or didn’t], then [it is or will be the case that] Q.
+
+Given or assuming A, If [it is the case that] X doesn’t or didn’t obtain, then [it is or will be the case that] Q.
+
+Given or assuming A, if [it is the case that] X, then Q implies R; and, if Q implies R, we can say that, if Q, then R.
+
+Given or assuming A, if [it is the case that] Q implies R, then P.
+
+Given or assuming A, if [it is the case that] Q implies R, then S implies P.
+
+modus ponens, modus tollens
+
+If an A is P, then that A is Q.
+
+https://en.wikipedia.org/wiki/Counterfactual_conditional
+
+---
+
 [<a href="#196h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
