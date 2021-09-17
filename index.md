@@ -7606,6 +7606,8 @@ a sense in which there's no people, never has been
 
 a sense in which there is no ultimate, omni-commensurable ground truth/ontology, never has been
 
+a sense in which sensations can't directly control or interact with other sensations
+
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
