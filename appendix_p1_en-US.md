@@ -236,10 +236,11 @@ n/a
 			- mediacy
 			- containment
 			- embeddedness
-		- untitle
+		- untitled
 			- mere
 			- only
 			- just
+			- especially
 		- untitled
 			- not
 		- untitled
@@ -1129,6 +1130,26 @@ n/a
 			- affirmative indicative past complete # then affirmative indicative # affirmative indicative past ongoing
 			- affirmative indicative past complete # then affirmative indicative # affirmative indicative past prior
 			- [...]
+
+---
+
+- Meanwhile
+- Earlier (a bit, moments, seconds, [had])
+- Later ([did], [would])
+- Now (and then now)
+- Then
+- Next, and then, after that, finally [Immediately[/mediately] next]
+- In response
+- Relevantly (also, additionally, [all conjunctive adverbs) [Incidentally, somewhat incidentally]
+- Relatedly
+- [had, would, will]
+- before that (a bit) [had]
+- after that (a bit) [would]
+- during that
+- at the moment, when
+- since, until
+- while
+- begun, started, stopped, paused, continued, finished, ended, completed
 
 ---
 Non-exhaustive, not entirely systematic, playing with compact argument forms:

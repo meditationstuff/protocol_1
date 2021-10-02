@@ -4597,6 +4597,7 @@ Notes:
 * local microextinguishments "in wider emptiness", local micronibannas "in wider emptiness"
 * oblivion
 * "positive forgetting" [compare with “losslessness”]
+* internalization/coping (non-“armored”, non-essentially-layery, per se/as such
 
 
 Notes:
@@ -4958,9 +4959,25 @@ first person concrete experiential qualities in —> first person concrete exper
 
 # <span id="109a"></span> p11:
 
-[p11 gloss: "Stop meditating."]
+[p11 gloss: "Stop meditating. / Stop X"]
 
 Gently stop(/&#8203;block/&#8203;prevent) meditating, completely, either immediately, if you can, or durationally incline towards this (if it seems good enough, safe enough, etc., to do this). And/&#8203;or/&#8203;rather, continuously "don't meditate." And, then, see what spontaneously, ongoingly remains, even so. That is, see how/if meditation (or anything) continues, if/&#8203;when you've completely stopped meditating, any/&#8203;all of which might be good or beyond goodness.
+
+Other options and formulations (one at a time! not all at once!):
+
+* [try to] not meditate, [try to do something other than meditate] and/&#8203;but also “try to not try” to do that not meditating. Gently, temporarily block meditation of all kinds.
+* [try to] do nothing, [try to not do anything] and/&#8203;but also “try to not try” to do that doing nothing or that not doing anything. Gently, temporarily block doing of all kinds.
+* [try to] not think, [try to not think anything] and/&#8203;but also “try to not try” to do that not thinking or that not thinking anything. Gently, temporarily block thinking of all kinds. (And/&#8203;or let go of thought, maybe over and over again.) Colloquially, from one Zen master: “open the hand of thought” 
+* [try to] not do/&#8203;take “mental actions” of any kind, and/&#8203;but also “try to not try” to do that not doing/taking any “mental actions”. Gently, temporarily block “mental actions” of all kinds. (e.g. including imagining, etc.) (And/&#8203;or let go of “mental actions,” maybe over and over again.)
+* [try to] just be, to just physically exist [to do/&#8203;take no actions except] (sitting, standing, kneeling, laying, etc.) and/&#8203;or [to] just sit, stand, kneel, lay, etc., and/&#8203;but also “try to not try”
+
+Notes:
+
+* replace “not do X” with “non-X” or “non-doing X,” depending on how labeled and conceived and “what works”
+* key concept, here: “conceptualization as such,” and also: “as so labeled and conceived,” and the way they limit/&#8203;narrow/&#8203;etc. (That’s not bad, per se, just functional, and part of, like “being,” even when functioning sort of aconceptually, in a sense.
+* At the time of writing this, this is currently the last numbered main practice, but that no way is intended to imply that these are the “ultimate practices,” or anything like that, just to be clear. This main practice is just to highlight another empirical and/&#8203;or conceptual/theoretical “basis dimension” of “stickiness,” that some people will run into. It’s partially my bias of self-unsticking, that this didn’t come to my attention sooner. Everyone sort of needs to learn how to omni-self-unstick mid-to-late “on the path,” but this and all the main practices (and all the other practices) are intended to help facilitate that, generally and object-level.
+
+
 
 [<a href="#109ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7598,15 +7615,15 @@ More (and these could be the subjects of entire books (though they don't have to
 
 [in only the faintest of any particular order]
 
-a sense in which there's no such thing as language, never has been
+at least one sense in which there's no such thing as language, never has been
 
-a sense in which there are no abstractions, never have been
+at least one sense in which there are no abstractions, never have been
 
-a sense in which there's no people, never has been
+at least one sense in which there's no people, never has been
 
-a sense in which there is no ultimate, omni-commensurable ground truth/ontology, never has been
+at least one sense in which there is no ultimate, omni-commensurable ground truth/ontology, never has been
 
-a sense in which sensations can't directly control or interact with other sensations
+at least one sense in which sensations can't directly control or interact with other sensations
 
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -10192,7 +10209,7 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * https://vividness.live/unclogging [Last accessed: 2021-02-24]
 * Ecker, Bruce, Robin Ticic, and Laurel Hulley. Unlocking the emotional brain: Eliminating symptoms at their roots using memory reconsolidation. Routledge, 2012.
 * Coherence Therapy Practice Manual
-* A COMPILATION OF DANIEL'S POSTS AT DHARMAOVERGROUND.ORG https://danielpostscompilation.blogspot.com/p/blog-page.html [Last accessed: 2021-03-06]
+* A COMPILATION OF DANIEL'S POSTS AT DHARMAOVERGROUND.ORG https://danielpostscompilation.blogspot.com/p/blog-page.html [Ingram; Last accessed: 2021-03-06]
 * Slingerland, Edward. Effortless action: Wu-wei as conceptual metaphor and spiritual ideal in early China. Oxford University Press, 2007.
 * Frantzis, Bruce Kumar. Opening the Energy Gates of Your Body: Qigong for Lifelong Health. Blue Snake Books, 2006.
 * Lam, Kam Chuen, and Master Lam Kam-Chuen. The Way of Energy: A Gaia Original. Simon and Schuster, 1991.
