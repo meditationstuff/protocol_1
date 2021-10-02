@@ -4965,10 +4965,10 @@ Gently stop(/&#8203;block/&#8203;prevent) meditating, completely, either immedia
 
 Other options and formulations (one at a time! not all at once!):
 
-* [try to] not meditate, [try to do something other than meditate] and/&#8203;but also “try to not try” to do that not meditating. Gently, temporarily block meditation of all kinds.
-* [try to] do nothing, [try to not do anything] and/&#8203;but also “try to not try” to do that doing nothing or that not doing anything. Gently, temporarily block doing of all kinds.
-* [try to] not think, [try to not think anything] and/&#8203;but also “try to not try” to do that not thinking or that not thinking anything. Gently, temporarily block thinking of all kinds. (And/&#8203;or let go of thought, maybe over and over again.) Colloquially, from one Zen master: “open the hand of thought” 
-* [try to] not do/&#8203;take “mental actions” of any kind, and/&#8203;but also “try to not try” to do that not doing/taking any “mental actions”. Gently, temporarily block “mental actions” of all kinds. (e.g. including imagining, etc.) (And/&#8203;or let go of “mental actions,” maybe over and over again.)
+* [try to] not meditate, [try to do something other than meditate] and/&#8203;but also “try to not try” to do that not meditating. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block meditation of all kinds.
+* [try to] do nothing, [try to not do anything] and/&#8203;but also “try to not try” to do that doing nothing or that not doing anything. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block doing of all kinds.
+* [try to] not think, [try to not think anything] and/&#8203;but also “try to not try” to do that not thinking or that not thinking anything. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block thinking of all kinds. (And/&#8203;or let go of thought, maybe over and over again.) Colloquially, from one Zen master: “open the hand of thought” 
+* [try to] not do/&#8203;take “mental actions” of any kind, and/&#8203;but also “try to not try” to do that not doing/taking any “mental actions”. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block “mental actions” of all kinds. (e.g. including imagining, etc.) (And/&#8203;or let go of “mental actions,” maybe over and over again.)
 * [try to] just be, to just physically exist [to do/&#8203;take no actions except] (sitting, standing, kneeling, laying, etc.) and/&#8203;or [to] just sit, stand, kneel, lay, etc., and/&#8203;but also “try to not try”
 
 Notes:
