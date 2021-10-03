@@ -4973,7 +4973,7 @@ Other options and formulations (one at a time! not all at once!):
 
 Notes:
 
-* replace “not do X” with “non-X” or “non-doing X,” depending on how labeled and conceived and “what works”
+* replace “not do X” with “non-X” or “non-doing X,” depending on how labeled and conceived and “what works”. Sub-note: There is a positive and paradoxical equivocation between “anything but this” and “this but spontaneously, without effort” [bottom-up] or maybe “self-less” (or maybe not)
 * key concept, here: “conceptualization as such,” and also: “as so labeled and conceived,” and the way they limit/&#8203;narrow/&#8203;etc. (That’s not bad, per se, just functional, and part of, like “being,” even when functioning sort of aconceptually, in a sense.
 * At the time of writing this, this is currently the last numbered main practice, but that no way is intended to imply that these are the “ultimate practices,” or anything like that, just to be clear. This main practice is just to highlight another empirical and/&#8203;or conceptual/theoretical “basis dimension” of “stickiness,” that some people will run into. It’s partially my bias of self-unsticking, that this didn’t come to my attention sooner. Everyone sort of needs to learn how to omni-self-unstick mid-to-late “on the path,” but this and all the main practices (and all the other practices) are intended to help facilitate that, generally and object-level.
 
