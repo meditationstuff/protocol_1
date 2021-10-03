@@ -4970,6 +4970,8 @@ Other options and formulations (one at a time! not all at once!):
 * [try to] not think, [try to not think anything] and/&#8203;but also “try to not try” to do that not thinking or that not thinking anything. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block thinking of all kinds. (And/&#8203;or let go of thought, maybe over and over again.) Colloquially, from one Zen master: “open the hand of thought” 
 * [try to] not do/&#8203;take “mental actions” of any kind, and/&#8203;but also “try to not try” to do that not doing/taking any “mental actions”. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block “mental actions” of all kinds. (e.g. including imagining, etc.) (And/&#8203;or let go of “mental actions,” maybe over and over again.)
 * [try to] just be, to just physically exist [to do/&#8203;take no actions except] (sitting, standing, kneeling, laying, etc.) and/&#8203;or [to] just sit, stand, kneel, lay, etc., and/&#8203;but also “try to not try”
+* Temporarily, gently, [do, don’t do, non-do, anything/everything but, try not to try to, release anything like, quell, still, block/&#8203;prevent] “attention,” “movement of attention,” “narrowing of attention,” “open focus/&#8203;awareness,” “one-pointed” attention[/&#8203;awareness], moving attention / evolving awareness
+* Temporarily, gently, [do, don’t do, non-do, anything/&#8203;everything but, try not to try to, release anything like, quell, still, block/&#8203;prevent] pushing, forcing, advancing, progressing, gaining, accumulating, making progress, meditative progress, problem-solving progress, life-handledness progress, having insights, accumulating insights, having/ experiencing purifications
 
 Notes:
 
