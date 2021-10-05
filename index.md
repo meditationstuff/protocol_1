@@ -7627,7 +7627,9 @@ at least one sense in which there is no ultimate, omni-commensurable ground trut
 
 at least one sense in which sensations can't directly control or interact with other sensations
 
-at least one sense in which each moment, each momentary [self-]constitution / [self-]re-constitution is “separate” [big air quotes around “separate”]
+at least one sense in which [there's] "no escape" / [there's] "just this"
+
+at least one sense in which each moment (~self;~self+world), each momentary [self-]constitution / [self-]re-constitution is “separate” [big air quotes around “separate”]
 
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
