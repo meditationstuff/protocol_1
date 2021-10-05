@@ -4310,7 +4310,7 @@ Notes:
 * awareness of particular sense(meaning) or representational content as such
 * awareness of coherent meaning
 * awareness of noncommital, neither endorsed-nor-disendorsed discoherence (discoherent "meaning")
-* knowledge of haste/&#8203;rushing/&#8203;bypass/&#8203;corner-cutting/&#8203;force/&#8203;forcing/&#8203;smashing/&#8203;crushing/&#8203;hammering
+* knowledge of haste/&#8203;rushing/&#8203;bypass/&#8203;corner-cutting/&#8203;force/&#8203;forcing/&#8203;smashing/&#8203;crushing/&#8203;hammering/&#8203;impatience
 * awareness of force/&#8203;forcing/&#8203;haste
 * knowledge of seeming unsolvabliity
 * knowledge of care
@@ -4971,7 +4971,7 @@ Other options and formulations (one at a time! not all at once!):
 * [try to] not do/&#8203;take “mental actions” of any kind, and/&#8203;but also “try to not try” to do that not doing/taking any “mental actions”. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block “mental actions” of all kinds. (e.g. including imagining, etc.) (And/&#8203;or let go of “mental actions,” maybe over and over again.)
 * [try to] just be, to just physically exist [to do/&#8203;take no actions except] (sitting, standing, kneeling, laying, etc.) and/&#8203;or [to] just sit, stand, kneel, lay, etc., and/&#8203;but also “try to not try”
 * Temporarily, gently, [do, don’t do, non-do, anything/everything but, try not to try to, release anything like, quell, still, block/&#8203;prevent] “attention,” “movement of attention,” “narrowing of attention,” “open focus/&#8203;awareness,” “one-pointed” attention[/&#8203;awareness], moving attention / evolving awareness
-* Temporarily, gently, [do, don’t do, non-do, anything/&#8203;everything but, try not to try to, release anything like, quell, still, block/&#8203;prevent] pushing, forcing, advancing, progressing, gaining, accumulating, making progress, meditative progress, problem-solving progress, life-handledness progress, having insights, accumulating insights, having/ experiencing purifications
+* Temporarily, gently, [do, don’t do, non-do, anything/&#8203;everything but, try not to try to, release anything like, quell, still, block/&#8203;prevent] pushing, forcing, advancing, progressing, gaining, accumulating, making progress, meditative progress, problem-solving progress, life-handledness progress, having insights, accumulating insights, having/ experiencing purifications, impatience
 
 Notes:
 
