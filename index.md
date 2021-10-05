@@ -7623,6 +7623,9 @@ at least one sense in which there are no abstractions, never have been
 
 at least one sense in which there's no people, never has been
 
+at least one sense in which the boundary or separation between all of "body" and "mind", 
+"inside" and "outside," "self" and "world" are illusory (and other important senses in which they are not illusory)
+
 at least one sense in which there is no ultimate, omni-commensurable ground truth/ontology, never has been
 
 at least one sense in which sensations can't directly control or interact with other sensations
