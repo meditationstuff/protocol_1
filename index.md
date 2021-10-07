@@ -4965,12 +4965,12 @@ Gently stop(/&#8203;block/&#8203;prevent) meditating, completely, either immedia
 
 Other options and formulations (one at a time! not all at once!):
 
-* [try to] not meditate, [try to do something other than meditate] and/&#8203;but also “try to not try” to do that not meditating. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block meditation of all kinds.
-* [try to] do nothing, [try to not do anything] and/&#8203;but also “try to not try” to do that doing nothing or that not doing anything. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block doing of all kinds.
+* [try to] not meditate, [try to do something other than meditate] and/&#8203;but also “try to not try” to do that not meditating. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block, set aside meditation of all kinds.
+* [try to] do nothing, [try to not do anything] and/&#8203;but also “try to not try” to do that doing nothing or that not doing anything. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block, set aside doing of all kinds.
 * [try to] not think, [try to not think anything] and/&#8203;but also “try to not try” to do that not thinking or that not thinking anything. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block thinking of all kinds. (And/&#8203;or let go of thought, maybe over and over again.) Colloquially, from one Zen master: “open the hand of thought” 
-* [try to] not do/&#8203;take “mental actions” of any kind, and/&#8203;but also “try to not try” to do that not doing/taking any “mental actions”. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block “mental actions” of all kinds. (e.g. including imagining, etc.) (And/&#8203;or let go of “mental actions,” maybe over and over again.)
+* [try to] not do/&#8203;take “mental actions” of any kind, and/&#8203;but also “try to not try” to do that not doing/taking any “mental actions”. Gently, temporarily (iteratedly, imperfectly and/&#8203;or/&#8203;even selectively) block, set aside “mental actions” of all kinds. (e.g. including imagining, etc.) (And/&#8203;or let go of “mental actions,” maybe over and over again.)
 * [try to] just be, to just physically exist [to do/&#8203;take no actions except] (sitting, standing, kneeling, laying, etc.) and/&#8203;or [to] just sit, stand, kneel, lay, etc., and/&#8203;but also “try to not try”
-* Temporarily, gently, [do, don’t do, non-do, anything/everything but, try not to try to, release anything like, quell, still, block/&#8203;prevent] “attention,” “movement of attention,” “narrowing of attention,” “open focus/&#8203;awareness,” “one-pointed” attention[/&#8203;awareness], moving attention / evolving awareness
+* Temporarily, gently, [do, don’t do, non-do, anything/everything but, try not to try to, release anything like, quell, still, block/&#8203;prevent, set aside] “attention,” “movement of attention,” “narrowing of attention,” “open focus/&#8203;awareness,” “one-pointed” attention[/&#8203;awareness], moving attention / evolving awareness
 * Temporarily, gently, [do, don’t do, non-do, anything/&#8203;everything but, try not to try to, release anything like, quell, still, block/&#8203;prevent] pushing, forcing, advancing, progressing, gaining, accumulating, making progress, meditative progress, problem-solving progress, life-handledness progress, having insights, accumulating insights, having/ experiencing purifications, impatience
 
 Notes:
@@ -7615,7 +7615,7 @@ More (and these could be the subjects of entire books (though they don't have to
 
 (Note: ***a sense***)
 
-[in only the faintest of any particular order]
+[in no particular order]
 
 at least one sense in which there's no such thing as language, never has been
 
@@ -7626,13 +7626,27 @@ at least one sense in which there's no people, never has been
 at least one sense in which the boundary or separation between all of "body" and "mind", 
 "inside" and "outside," "self" and "world" are illusory (and other important senses in which they are not illusory)
 
-at least one sense in which there is no ultimate, omni-commensurable ground truth/ontology, never has been
+at least one sense in which there is no ultimate, omni-commensurable ground truth/&#8203;ontology/&#8203;actuality/&#8203;basis/&#8203;reality, never has been ("groundlessness")
 
 at least one sense in which sensations can't directly control or interact with other sensations
 
 at least one sense in which [there's] "no escape" / [there's] "just this"
 
 at least one sense in which each moment (~self;~self+world), each momentary [self-]constitution / [self-]re-constitution is “separate” [big air quotes around “separate”]
+
+at least one sense in which "ought"/&#8203;"goodness" is prior to, upstream of, "is", "ontology", "truth" (no conflation, here, re correspondance theory, nor any [necessary] commitment to that)
+
+at least one sense in which nothing (no “thing”) is eternal, everything (every “thing”, “everywhere) (cf. “no objects anywhere”), is impermanent, non-eternal
+
+at least one sense in which meaning, goodness, and badness only/exclusively lay *between” (and so while nothing is eternal, cf. above, neither is anything meaningless [cf. nihilism]) [also symbols, also reference ]
+
+at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, nothingness, separateness, everything…)
+
+at least one sense in which all sensations (and/or objects or perception, appearances, seemingness…) are interpreted and there is no “given” perception whatsoever
+
+at least one sense in which there is "phenomenal isotropy, non-particularity" (not exactly the same thing as Ingram's centerlessness (or agencylessness))
+
+(see also: David Chapman's meaningness work)
 
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

@@ -719,6 +719,7 @@ n/a
 -	
 	- [moreover, notwithstanding, withstanding, nevertheless, therefore]
 	- "given all of that", "all that being said","in other words","to rephrase"
+	- for some reason, for whatever reason, and so on, etc.
 -
 	- to index
 	- to depic
