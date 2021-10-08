@@ -5536,6 +5536,7 @@ Nevertheless, it can sometimes be helpful to make a list of the classes of thing
 * Can’t believe this is happening
 * Remembered can’t believe this is happening
 * Haste/imminence_pressure/rushing/corner-cutting/force-it-through-ing cf (judged_)too_slow(_ness)
+* advancing, progressing, gaining, accumulating, accomplishing, achieving, making progress
 * Wrongness/doing-the-wring-thing-ness/this-isn’t-working-ness/(judged_)too_slow(_ness)
 * ?????doubt-in-method-ness
 * Frantic-ness
