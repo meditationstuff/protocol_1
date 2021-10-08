@@ -7643,9 +7643,14 @@ at least one sense in which meaning, goodness, and badness only/exclusively lay 
 
 at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, nothingness, separateness, everything…)
 
+at least one sense in which we only experience representations
+
 at least one sense in which all sensations (and/or objects or perception, appearances, seemingness…) are interpreted and there is no “given” perception whatsoever
 
 at least one sense in which there is "phenomenal isotropy, non-particularity" (not exactly the same thing as Ingram's centerlessness (or agencylessness))
+
+
+
 
 (see also: David Chapman's meaningness work)
 
