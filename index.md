@@ -9431,6 +9431,8 @@ One step at a time, one mind moment at a time.
 
 # <span id="192a"></span> mark's approximate practice summary highlights
 
+(when I say "less than X hours," below (e.g. <20 hours) it's probably wayyyyyy less. I tried to do like a 90-90% confidence absolute ceiling)
+
 * qigong (Spring Forest Qigong) [~<80 hours] (1998?)
 * robert bruce's new energy ways [~250 hours????] (1998-2002?)
 * working visualizing the letter aleph with perfect clarity [~<40 hours]
@@ -9476,7 +9478,7 @@ Strategic claiming and disclaiming of volitionality. Like giving over an area to
 
 Mark L  7:50 PM  
 So I’m going to call the muscle tension done**, at least there’s no big twists/pressures left in the system, muscle-y or otherwise. **What’s left is sort of fractal cleanup.  
-There’s alllllmost nothing “meditation-y” left to do, in general (phenomenologically, metaphysically…). More and more things feel like “post-meditation,” which is maybe “embodied thinking.”  
+There’s alllllmost nothing “meditation-y” left to do, in general (phenomenologically, metaphysically[, deep childhood/prenatal refactoring]…). More and more things feel like “post-meditation,” which is maybe “embodied thinking.”  
 That said, I’m guessing probably a couple more small-medium size “shifts” at some point (like more Ingram-style centerlessness or agencylessness or smthg).  
 What’s next I guess is continued improvements in physical/social grace and like “life planning”/“embodied action” stuff. Post-meditation is meditation, no end in sight! But more interleaved with everything else (noodling, de-stressing, planning, writing, learning, integrating, “thinking”).  (edited)  
 
