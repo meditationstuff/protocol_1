@@ -317,6 +317,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method</a>
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
 		* <a id="173h" href="#173">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
+	* <a id="192ah" href="#192a">mark's approximate practice summary highlights</a>
 * <a id="174h" href="#174">teaching and learning and creating and relating (meditation and anything)</a>
 	* <a id="175h" href="#175">teaching</a>
 		* <a id="176h" href="#176">no one gets pixel-perfect possibilities</a>
@@ -9427,6 +9428,66 @@ One step at a time, one mind moment at a time.
 
 [<a href="#173h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="192a"></span> mark's approximate practice summary highlights
+
+* qigong (Spring Forest Qigong) [~<80 hours] (1998?)
+* robert bruce's new energy ways [~250 hours????] (1998-2002?)
+* working visualizing the letter aleph with perfect clarity [~<40 hours]
+* mindfulness in plain english [<20 hours] (2002?)
+* select practices from the lover within julie henderson (<10 hours) (2003?)
+* breath counting zen-ish stuff [<50 hours] (2003?)
+* "just sitting" [~150 hours] (2003?)
+* "opening the hand of thought [<30 hours] (2004?)
+* ken wilber stuff (theory, shadow work, "unclenching", a tiny big of Genpo Big Mind stuff) (1999-2007?)
+* shinzen young (2006-2008) (<80 hours)
+* focusing, internal family systems therapy, shinzen young's stuff (<150 hours) (lots and lots of engineering, computer science, and neuroscience) (2008-2013)
+* coherence therapy (<50 hours) (2014)
+* (I read many qigong, tai chi, yoga, stretching, meditation, "energy work", eastern philosophy, western phenomenology books, ken wilber books, 1998-2015)
+* started blogging July 2013
+* western philosophy 2015
+* folding 2015 or 2016
+* dangerous, broken stuff kind of similar to main practice p1 and core transformation (2016-2017)
+* extremely dangerous thing involving language, application of the will, and a tally counter (IIED) (~200-600 hours?) (2017 or 2018?) [stream-entry-esque experience]
+* extremely dangerous thing involving continuous application of the will; beginning of terrible muscle tension (<200 hours?) (2018 or 2019)
+* main protocol v0 describing "pixels and voxels" [stream-entry-esque experience] (2018)
+* stuff stuff 2017?-ongoing
+* main protocol v1 devolitioning, first main protocol document (2018)
+
+First written protocol description:  
+[...]  
+Pure pixel-ish counterfactual queryable tower of Hanoi backchaining problem where can propose arbitrary x to see if work  
+Click-click; tinkering vs large-scale, make-it-so propagation..  
+Volitional-nonvolitional boundary, which can move  
+Whole-system; nay, whole-minvolitional-person(-to-me-right-now) dialoguing  
+Strategic claiming and disclaiming of volitionality. Like giving over an area to nonvolotiomality and then running volitional queries and requests in/on it vs trying volitional make-it-so  
+
+* met JD, suggested perfect parent/paragon practice; Jhana Jenny (2019?)
+* main protocol v2 ???
+* main protocol v3 "taking a break"
+* main protocol somewher v4-v20?? first experience of clean solves of pretty much anything
+* initial github commit Nov 10, 2019 https://github.com/meditationstuff/protocol_1
+* started compiling collaborator contributed preliminary/auxiliary practices Dec 9, 2019
+* v20-v100+ had to do massive cleanup of robert bruce's stuff and everything else. no prior practice particularly recommended
+* 2020 switched from version numbers (v106 to just using github commit hashes)
+* May 2021 https://meditationbook.page/
+* 2021 pith instructions and quick start
+* 20211009 (somewhere 5000-10000 hours [7000 hours? 8000 hours?] of main protocol / global wayfinding:
+
+Mark L  7:50 PM  
+So I’m going to call the muscle tension done**, at least there’s no big twists/pressures left in the system, muscle-y or otherwise. **What’s left is sort of fractal cleanup.  
+There’s alllllmost nothing “meditation-y” left to do, in general (phenomenologically, metaphysically…). More and more things feel like “post-meditation,” which is maybe “embodied thinking.”  
+That said, I’m guessing probably a couple more small-medium size “shifts” at some point (like more Ingram-style centerlessness or agencylessness or smthg).  
+What’s next I guess is continued improvements in physical/social grace and like “life planning”/“embodied action” stuff. Post-meditation is meditation, no end in sight! But more interleaved with everything else (noodling, de-stressing, planning, writing, learning, integrating, “thinking”).  (edited)  
+
+
+Mark L  8:01 PM  
+in addition the the “life niche proactive settling” stuff nearer the beginning, i’ve been poking at this, recently, the single lines “at least once sense in which” at the bottom https://meditationbook.page/#158da1  
+
+[<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
 # <span id="174"></span> teaching and learning and creating and relating (meditation and anything):
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
@@ -10131,6 +10192,7 @@ Past interactions in relationship preclude and foreclose types of interactions a
 An organism needs to be able to "randomly/arbitrary" experiment in order to generate data that becomes an input into learning.
 
 [<a href="#192h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="193"></span> bibliography (incomplete):
 
