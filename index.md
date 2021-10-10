@@ -9447,13 +9447,14 @@ One step at a time, one mind moment at a time.
 * coherence therapy (<50 hours) (2014)
 * (I read many qigong, tai chi, yoga, stretching, meditation, "energy work", eastern philosophy, western phenomenology books, ken wilber books, 1998-2015)
 * started blogging July 2013
+* super disillusioned with meditation, somewhere in here. it wasn't getting anywhere or "solving things cleanly". didn't really think of what I was doing as "meditation" until "re-double-down," a few bullet points below
 * western philosophy 2015
 * folding 2015 or 2016
 * dangerous, broken stuff kind of similar to main practice p1 and core transformation (2016-2017)
-* extremely dangerous thing involving language, application of the will, and a tally counter (IIED) (~200-600 hours?) (2017 or 2018?) [stream-entry-esque experience]
-* extremely dangerous thing involving continuous application of the will; beginning of terrible muscle tension (<200 hours?) (2018 or 2019)
-* main protocol v0 describing "pixels and voxels" [stream-entry-esque experience] (2018)
-* stuff stuff 2017?-ongoing
+* extremely dangerous (not worth it or necessary, in retrospect) thing involving language, application of the will, and a tally counter (IIED) (~200-600 hours?) (2017?) [stream-entry-esque experience]
+* extremely dangerous thing (not worth it or necessary, in retrospect) involving continuous long-running application of the will; beginning of terrible muscle tension (<200 hours?) (2018?)
+* main protocol v0 describing "pixels and voxels" [stream-entry-esque experience] [briefly obviously "cycling" on the progress of insight map, ty Daniel Ingram. re-doubled-down on "figuring out meditation"] (anything that was obviously cycling [as far as I could tell] completely and abruptly stopped as soon as I started doing the faintest hint of "global wayfinding" (somewhere v4-v20?) (2018)
+* stuff stuff (2)? 2017?-ongoing
 * main protocol v1 devolitioning, first main protocol document (2018)
 
 First written protocol description:  
@@ -9468,6 +9469,7 @@ Strategic claiming and disclaiming of volitionality. Like giving over an area to
 * main protocol v2 ???
 * main protocol v3 "taking a break"
 * main protocol somewher v4-v20?? first experience of clean solves of pretty much anything
+* "Alright things seem just about done, so on the order of 2000 hours is doable." Whoops. 2019-04-07 https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/
 * initial github commit Nov 10, 2019 https://github.com/meditationstuff/protocol_1
 * started compiling collaborator contributed preliminary/auxiliary practices Dec 9, 2019
 * v20-v100+ had to do massive cleanup of robert bruce's stuff and everything else. no prior practice particularly recommended
@@ -9488,6 +9490,15 @@ in addition the the “life niche proactive settling” stuff nearer the beginni
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+\*
+
+Some things that don't come through in the above, probably:
+
+Before I was doing "global wayfinding" type things, it looks like I didn't put in that many raw hours meditating, and that's true. And/but, during that time, I did a ridiculous amount of reading and thinking. And I meditated or tried stuff very, very "surgically." That is, I would read like a 200-600 page book, and then try stuff for five minutes, based on that book. During that, I'd learn some things. And then I moved on to the next 500-page book, and repeat. When I say surgical, I sort of mean nuanced or high-dimensional, like testing a very, very, very precise (implicit) hypothesis.
+
+Like, not an 3-bit hypothesis "010", or something (so a selection out of an 8-option universe). But a hypothesis like "0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;0&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;1&#8203;1&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0" (this is just an analogy).
+
+Sometimes, when I felt like was really on to something (which could be fifteen minutes, instead of five minutes, or up to a few months), I would "travel in a straight line." That is, I would sketch a sentence or two of practice instructions (with maybe a bit of if-then structure, rarely a full-on diagram) and I would try to do just/exactly *that*. And/but, to do that, I would try it for a bit, then amend the instructions a bit, and so on. So it was sort of a local "funneling" feedback loop that would eventually stabilize into an "anchored" (by the iteratively edited writing or diagramming) practice. And again, I might still set it aside after minutes or days but sometimes (rarely) I'd play with a specific thing for months. These slowly become more nuanced and general, discontinuously, with big leaps in insight into what to do and how to schematize it. This is how I put it to myself (which I disendorse, now, and which I don't think is necessary or safe or desirable, but, for posterity:) "I create something and use it to travel in a straight line, until it breaks or I break. And then I revise the direction of that line based on what I learned." This was eventually too un-nuanced and too unsafe. It ultimately wasn't an effective way to navigate the territory, as it were. But to be fair, I did explore a pretty large space of practices, doing this. Over time, global wayfinding is sort of doing this, but safely, and with fractally nuanced curved lines.
 
 
 # <span id="174"></span> teaching and learning and creating and relating (meditation and anything):
