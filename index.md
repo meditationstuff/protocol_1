@@ -9488,8 +9488,6 @@ What’s next I guess is continued improvements in physical/social grace and lik
 Mark L  8:01 PM  
 in addition the the “life niche proactive settling” stuff nearer the beginning, i’ve been poking at this, recently, the single lines “at least once sense in which” at the bottom https://meditationbook.page/#158da1  
 
-[<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
-
 \*
 
 Some things that don't come through in the above, probably:
@@ -9499,6 +9497,8 @@ Before I was doing "global wayfinding" type things, it looks like I didn't put i
 Like, not an 3-bit hypothesis "010", or something (so a selection out of an 8-option universe). But a hypothesis like "0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;0&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;1&#8203;1&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0&#8203;1&#8203;0" (this is just an analogy).
 
 Sometimes, when I felt like was really on to something (which could be fifteen minutes, instead of five minutes, or up to a few months), I would "travel in a straight line." That is, I would sketch a sentence or two of practice instructions (with maybe a bit of if-then structure, rarely a full-on diagram) and I would try to do just/exactly *that*. And/but, to do that, I would try it for a bit, then amend the instructions a bit, and so on. So it was sort of a local "funneling" feedback loop that would eventually stabilize into an "anchored" (by the iteratively edited writing or diagramming) practice. And again, I might still set it aside after minutes or days but sometimes (rarely) I'd play with a specific thing for months. These slowly become more nuanced and general, discontinuously, with big leaps in insight into what to do and how to schematize it. This is how I put it to myself (which I disendorse, now, and which I don't think is necessary or safe or desirable, but, for posterity:) "I create something and use it to travel in a straight line, until it breaks or I break. And then I revise the direction of that line based on what I learned." This was eventually too un-nuanced and too unsafe. It ultimately wasn't an effective way to navigate the territory, as it were. But to be fair, I did explore a pretty large space of practices, doing this. Over time, global wayfinding is sort of doing this, but safely, and with fractally nuanced curved lines.
+
+[<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="174"></span> teaching and learning and creating and relating (meditation and anything):
