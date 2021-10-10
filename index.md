@@ -9469,7 +9469,7 @@ Strategic claiming and disclaiming of volitionality. Like giving over an area to
 * main protocol v2 ???
 * main protocol v3 "taking a break"
 * main protocol somewher v4-v20?? first experience of clean solves of pretty much anything
-* "Alright things seem just about done, so on the order of 2000 hours is doable." Whoops. 2019-04-07 https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/
+* "Alright things seem just about done, so on the order of 2000 hours is doable." Whoops. I thought I was "almost done" for like two years, before I shook off "thinking I was almost done." 2019-04-07 https://meditationstuff.wordpress.com/2019/04/07/2000-hours-to-full-classical-enlightenment-plus-risks/
 * initial github commit Nov 10, 2019 https://github.com/meditationstuff/protocol_1
 * started compiling collaborator contributed preliminary/auxiliary practices Dec 9, 2019
 * v20-v100+ had to do massive cleanup of robert bruce's stuff and everything else. no prior practice particularly recommended
