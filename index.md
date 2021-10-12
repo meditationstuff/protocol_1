@@ -9944,6 +9944,10 @@ But, for a meditator, all their "scales" will be relatively fractally more towar
 
 P.S. I think there are ambiguities, equivocations, and inconsistencies in these analogies, but, on net, I think they're more illuminating than confusing.
 
+See also:
+
+* https://en.wikipedia.org/wiki/Self-organized_criticality
+
 [<a href="#184ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
