@@ -304,7 +304,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="161h" href="#161">normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]</a>
 		* <a id="162h" href="#162">"false ends" (messy first draft)</a>
 		* <a id="163h" href="#163">eternity, suffering, death</a>
-	* <a id="164h" href="#164">stuff stuff 2</a>
+	* <a id="164h" href="#164">subtle interaction</a>
 		* <a id="165h" href="#165">"psychic" and "supernatural" stuff: what/how/how-not [draft]</a>
 		* <a id="166h" href="#166">self and other; good and bad [draft]</a>
 		* <a id="167h" href="#167">prenatal experiences</a>
@@ -8255,7 +8255,7 @@ But then like meditation lets you (sooner or later) systematically systematicall
 
 [<a href="#163h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="164"></span> stuff stuff 2:
+# <span id="164"></span> subtle interaction:
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
