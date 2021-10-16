@@ -7644,7 +7644,7 @@ at least one sense in which nothing (no “thing”) is eternal, everything (eve
 
 at least one sense in which meaning, goodness, and badness only/exclusively lay *between” (and so while nothing is eternal, cf. above, neither is anything meaningless [cf. nihilism]) [also symbols, also reference ]
 
-at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, wholeness, nothingness, separateness, truth, reality, god's-eye-views, facts of the matter, everything…)
+at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, wholeness, nothingness, separateness, truth, reality, god's-eye-views, facts of the matter, beginnings, endings, everything…)
 
 at least one sense in which we only experience representations
 
