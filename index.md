@@ -7644,7 +7644,7 @@ at least one sense in which nothing (no “thing”) is eternal, everything (eve
 
 at least one sense in which meaning, goodness, and badness only/exclusively lay *between” (and so while nothing is eternal, cf. above, neither is anything meaningless [cf. nihilism]) [also symbols, also reference ]
 
-at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, nothingness, separateness, everything…)
+at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, wholeness, nothingness, separateness, truth, reality, god's-eye-views, facts of the matter, everything…)
 
 at least one sense in which we only experience representations
 
@@ -7652,8 +7652,11 @@ at least one sense in which all sensations (and/or objects or perception, appear
 
 at least one sense in which there is "phenomenal isotropy, non-particularity" (not exactly the same thing as Ingram's centerlessness (or agencylessness))
 
+at least one sense in which any “[deliberate] action,” anything besides spontaneous, “pure” “listening” is, a “cope,” in the most gentle sense, is not-listening to oneself, is not taking into account “ALL” “parts” of oneself 
 
+at least one sense in which love and service are the “ultimate” answer to the “reality” of personal suffering (in no way not implying fallibility, learning in part through unfortunate mistakes, uncertainties, nonmonotonicity, and potentially causing harm through “ignorance in the guise of competent or wise benevolence,” etc.)
 
+at least one sense in which selfishness and self-servingness "all the way down" is ok and good
 
 (see also: David Chapman's meaningness work)
 
