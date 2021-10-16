@@ -7654,7 +7654,7 @@ at least one sense in which there is "phenomenal isotropy, non-particularity" (n
 
 at least one sense in which any “[deliberate] action”--anything besides spontaneous, “pure” self-caringly “listening”--is a “cope,” in the most gentle sense, is not-listening to oneself, is not taking into account “ALL” “parts” of oneself 
 
-at least one sense in which love and service are the “ultimate” answer to the “reality” of personal suffering (in no way not implying possible fallibility, learning in part through unfortunate mistakes, uncertainties, impulsiveness, nonmonotonicity, and potentially causing harm through “ignorance in the guise of competent or wise benevolence,” etc.)
+at least one sense in which love and service are the “ultimate” answer to the “reality” of personal suffering (in no way precluding possible fallibility, ongoing learning in part through unfortunate mistakes, uncertainties, impulsiveness, nonmonotonicity, and potentially causing harm through “ignorance in the guise of competent or wise benevolence,” etc.)
 
 at least one sense in which selfishness and self-servingness "all the way down" is ok and good
 
