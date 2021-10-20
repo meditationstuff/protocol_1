@@ -259,6 +259,7 @@ n/a
 			- then (unspecified, mixed)
 			- reason
 			- otherwise
+			- instead
 			- would
 			- were
 			- so
@@ -340,6 +341,11 @@ n/a
 			- to exist
 			- to be able to
 			- to will (?)
+		- untitled
+			- explicable
+			- inexplicable
+			- explicably
+			- inexplicably
 		- untitled
 			- it/&#8203;something/&#8203;someone/&#8203;this/&#8203;that/&#8203;these/&#8203;those/&#8203;the_X/&#8203;a_X/&#8203;an_X/&#8203;Xs/&#8203;some/&#8203;all/&#8203;none/&#8203;'s/&#8203;of/&#8203;point/&#8203;ostention/&#8203;thing/&#8203;object&#8203;(/concept)
 		- untitled
