@@ -353,8 +353,9 @@ n/a
 			- contingent, conditional, counterfactual
 			- optionality, ability, choice
 		- untitled
-			- additionally alongside instead furthermore moreover besides than too also plus in-addition, similarly, still albeit despite nevertheless withstanding notwithstanding even-so regardless although though accordingly but not also as well too indeed
+			- additionally alongside instead furthermore moreover besides than too also plus in-addition, similarly, still albeit despite nevertheless withstanding notwithstanding even-so regardless although though accordingly but not also as well too indeed, despite the fact that, regardless of the fact that
 			- however, while, despite, although, albeit, nevertheless
+			- instead, even so, and, but, implying, causing, implied by, caused by, even while
 	- simple
 	- conditional
 	- imperative (incomplete)
@@ -499,14 +500,18 @@ n/a
 	- Or
 	- XOR, case, mutual exclusivity, and nothing else
 	- Here there at then scope/bound/context cf. extension and duration/interval
-	- but, however, [and,] unexpectedly[,]
+	- but, however, [and,] unexpectedly[,], [[on the contrary]]
 	- nor
 	- except
+	- else
 	- both, either, neither, instead, rather, together
+	- both / and, neither / nor, all of / except[ing], either / or, not only / but also, not / but, whether / or
 	- anyway, even, even so, even while, even when
 	- anyway, besides, also, furthermore, finally
 	- thus, consequently, hence, therefore, accordingly, so, consequentially, in conclusion, concludingly, since, because
 	- thereby, hereby
+	- and/&#8203;or/&#8203;else/&#8203;alternatively/&#8203;additionally
+	- of course, obviously, recognizably / apparently, seemingly, knowably
 	- coordinating conjunctions
 		- for, and, nor, but, or, yet, so
 	- correlative conjunctions
@@ -529,6 +534,8 @@ n/a
 		- as soon as
 		- by the time
 		- long before
+		- not too long ago
+		- immediately before/after
 		- now that
 		- once
 		- since
@@ -537,6 +544,7 @@ n/a
 		- when
 		- whenever
 		- while
+		- no sooner than
 	- subordinating conjunctions
 		- after, although, as, as far as, as if, as long as, as soon as, as though, because, before, even if, even though, every time, if, in order that, since, so, so that, than, that, though, unless, until, when, whenever, where, whereas, wherever, and while
 	-

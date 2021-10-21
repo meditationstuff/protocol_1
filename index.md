@@ -591,7 +591,7 @@ For the record, the blowing stuff up approach was really fine for me for a long 
 
 # <span id="18"></span> an exoteric doctrine: (v0.2)
 
-[Note, immediately below, it might seems like "nebulosity" or "emptiness" (or "noneternalism") isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase.]
+[Note, immediately below, it might seems like "nebulosity" or "emptiness" (or "noneternalism") isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase. Also see section: <a href="#158da1">far reaches of meditation</a>]
 
 Objective and singular truth exists (and/or objective reality exists and objective truth corresponds to it).
 
@@ -7657,6 +7657,20 @@ at least one sense in which any “[deliberate] action”--anything besides spon
 at least one sense in which love and service are the “ultimate” answer to the “reality” of personal suffering (in no way precluding possible fallibility, ongoing learning in part through unfortunate mistakes, uncertainties, impulsiveness, nonmonotonicity, and potentially causing harm through “ignorance in the guise of competent or wise benevolence,” etc.)
 
 at least one sense in which selfishness and self-servingness "all the way down" is ok and good
+
+at least one sense in which experience, apparentness, seemingness, and more, is “empty,” like this: “what you ‘see’ is all there is; there’s nothing behind it” and “and even *that* too is empty”
+
+at least one sense in which there are no things, as such; there’s nothing thing-like 
+
+at least one sense in which there are no generalities or (let alone) universals [/—nor universals]; there is only radically concrete and situated particulars (and of course at least one sense in which there are also no particulars)
+
+at least one sense in which all there is now, is what’s now
+
+at least one sense in which all this is is “just this.”
+
+at least one sense in which everything ends. At least one sense in which nothing ends, including the sense in which “you will always have happened.” At least on sense in which “endings” (and lots of other things) are “negated without further implication” [See Mipham’s Beacon of Certainty]
+
+at least one sense in which everything is determined and couldn’t be otherwise
 
 (see also: David Chapman's meaningness work)
 
