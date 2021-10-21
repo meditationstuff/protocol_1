@@ -501,7 +501,8 @@ n/a
 	- Here there at then scope/bound/context cf. extension and duration/interval
 	- but, however, [and,] unexpectedly[,]
 	- nor
-	- both, either, neither, instead, rather
+	- except
+	- both, either, neither, instead, rather, together
 	- anyway, even, even so, even while, even when
 	- anyway, besides, also, furthermore, finally
 	- thus, consequently, hence, therefore, accordingly, so, consequentially, in conclusion, concludingly, since, because
@@ -920,6 +921,7 @@ n/a
 	- https://en.wikipedia.org/wiki/Conjunction_(grammar)#Conjunctions_of_time
 	- https://en.wikipedia.org/wiki/Complementizer
 	- https://en.wikipedia.org/wiki/Transition_(linguistics)
+	- https://en.wikipedia.org/wiki/Coordination_(linguistics)
 		- Transition_Words_and_Phrases_7ESL.jpg
 	- https://en.wikipedia.org/wiki/Most_common_words_in_English#Parts_of_speech
 - ============
