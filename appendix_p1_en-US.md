@@ -499,8 +499,13 @@ n/a
 	- Or
 	- XOR, case, mutual exclusivity, and nothing else
 	- Here there at then scope/bound/context cf. extension and duration/interval
-	- but
+	- but, however, [and,] unexpectedly[,]
 	- nor
+	- both, either, neither, instead, rather
+	- anyway, even, even so, even while, even when
+	- anyway, besides, also, furthermore, finally
+	- thus, consequently, hence, therefore, accordingly, so, consequentially, in conclusion, concludingly, since, because
+	- thereby, hereby
 	- coordinating conjunctions
 		- for, and, nor, but, or, yet, so
 	- correlative conjunctions
@@ -906,8 +911,14 @@ n/a
 	- https://plato.stanford.edu/entries/quotation/
 	- https://en.wikipedia.org/wiki/Supposition_theory
 	- (Critique of Pure Reason) (and lots more)
+	- [/]
 	- https://en.wikipedia.org/wiki/Conjunction_(grammar)
 	- https://en.wikipedia.org/wiki/Conjunctive_adverb
+	- https://en.wikipedia.org/wiki/Conjunction_(grammar)#Coordinating_conjunctions
+	- https://en.wikipedia.org/wiki/Conjunction_(grammar)#Correlative_conjunctions
+	- https://en.wikipedia.org/wiki/Conjunction_(grammar)#Subordinating_conjunctions
+	- https://en.wikipedia.org/wiki/Conjunction_(grammar)#Conjunctions_of_time
+	- https://en.wikipedia.org/wiki/Complementizer
 	- https://en.wikipedia.org/wiki/Transition_(linguistics)
 		- Transition_Words_and_Phrases_7ESL.jpg
 	- https://en.wikipedia.org/wiki/Most_common_words_in_English#Parts_of_speech
