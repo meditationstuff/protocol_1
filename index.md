@@ -4918,6 +4918,7 @@ Notes:
 1. How could anyone give that to you except for your own true self?
 1. What can you keep?
 1. Who are you [liminally verbally] narrating for? (Who’s your audience? Who’s observing?)
+1. If not permanence, then what?
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
