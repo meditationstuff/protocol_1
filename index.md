@@ -4601,7 +4601,7 @@ Notes:
 * oblivion
 * "positive forgetting" [compare with “losslessness”]
 * internalization/coping (non-“armored”, non-essentially-layery, per se/as such
-* shoring / shoring up / making stable / [trying to make stable] / pressing in / [trying to make timelessly permanently permanet ongoingly stably durational]
+* shoring / shoring up / making stable / [trying to make stable] / pressing in / [trying to make timelessly permanently permanent ongoingly stably durational]
 
 
 Notes:
@@ -7676,11 +7676,15 @@ at least one sense in which everything ends / at least one sense in which this e
 
 at least one sense in which everything is determined and couldn’t be otherwise
 
-at least one sense in which everything is interconnected
+at least one sense in which everything is interconnected / *at least* one at least [sic] narrow sense in which there is no separation
 
 at least one sense in which "being good," any of someone "being good" can only be ultimately effortless, costless, and, critically, spontaneous / "it's just happening" / "it just happens" / "that's just the way it is"
 
 at least one sense in which there is no single, one most good and correct way to a express a particular truth
+
+at least one sense in which there's no difference between an enlightened and unenlightened mind; at least once sense in which being enlightened changes nothing (and other senses in which lots of things change); and at least two senses in which there's no such thing as enlightenment (or meditation)
+
+[there should be an entry somewhere in here that teases out something about when something in the space of locality does [a lot] and doesn't apply]
 
 (see also: David Chapman's meaningness work)
 
