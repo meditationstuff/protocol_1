@@ -7673,6 +7673,12 @@ at least one sense in which everything ends. At least one sense in which nothing
 
 at least one sense in which everything is determined and couldn’t be otherwise
 
+at least one sense in which everything ends
+
+at least one sense in which everything is interconnected
+
+at least one sense in which "being good," any of someone "being good" can only be ultimately effortless, costless, and, critically, spontaneous / "it's just happening" / "it just happens" / "that's just the way it is"
+
 (see also: David Chapman's meaningness work)
 
 
