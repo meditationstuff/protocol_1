@@ -7669,11 +7669,11 @@ at least one sense in which all there is now, is what’s now
 
 at least one sense in which all this is is “just this.”
 
-at least one sense in which everything ends. At least one sense in which nothing ends, including the sense in which “you will always have happened.” At least on sense in which “endings” (and lots of other things) are “negated without further implication” [See Mipham’s Beacon of Certainty]
+at least one sense in which nothing ends, including the sense in which “you will always have happened.” At least on sense in which “endings” (and lots of other things) are “negated without further implication” [See Mipham’s Beacon of Certainty]
+
+at least one sense in which everything ends / at least one sense in which this ends
 
 at least one sense in which everything is determined and couldn’t be otherwise
-
-at least one sense in which everything ends
 
 at least one sense in which everything is interconnected
 
