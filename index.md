@@ -4601,6 +4601,7 @@ Notes:
 * oblivion
 * "positive forgetting" [compare with “losslessness”]
 * internalization/coping (non-“armored”, non-essentially-layery, per se/as such
+* shoring / shoring up / making stable / [trying to make stable] / pressing in / [trying to make timelessly permanently permanet ongoingly stably durational]
 
 
 Notes:
@@ -7671,13 +7672,15 @@ at least one sense in which all this is is “just this.”
 
 at least one sense in which nothing ends, including the sense in which “you will always have happened.” At least on sense in which “endings” (and lots of other things) are “negated without further implication” [See Mipham’s Beacon of Certainty]
 
-at least one sense in which everything ends / at least one sense in which this ends
+at least one sense in which everything ends / at least one sense in which this ends [/ it's ending in each moment]
 
 at least one sense in which everything is determined and couldn’t be otherwise
 
 at least one sense in which everything is interconnected
 
 at least one sense in which "being good," any of someone "being good" can only be ultimately effortless, costless, and, critically, spontaneous / "it's just happening" / "it just happens" / "that's just the way it is"
+
+at least one sense in which there is no single, one most good and correct way to a express a particular truth
 
 (see also: David Chapman's meaningness work)
 
