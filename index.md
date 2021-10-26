@@ -299,11 +299,12 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158gah" href="#158ga">a brief dialogue on locality and concreteness</a>
 	* <a id="158ah" href="#158a">sex, gender, etc. stuff</a>
 		* <a id="158bh" href="#158b">working with sex and gender (plus "tantra")</a>
-	* <a id="159h" href="#159">stuff stuff 1</a>
+	* <a id="159h" href="#159">stuff stuff</a>
 		* <a id="160h" href="#160">don't be here now (to start)</a>
 		* <a id="161h" href="#161">normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]</a>
 		* <a id="162h" href="#162">"false ends" (messy first draft)</a>
 		* <a id="163h" href="#163">eternity, suffering, death</a>
+		* <a id="163ah" href="#163a">surface areas and the radically personal (draft)</a>
 	* <a id="164h" href="#164">subtle interaction</a>
 		* <a id="165h" href="#165">"psychic" and "supernatural" stuff: what/how/how-not [draft]</a>
 		* <a id="166h" href="#166">self and other; good and bad [draft]</a>
@@ -8053,7 +8054,7 @@ For all of this, allow for breathing, movement, vocalization, and so on.
 
 [<a href="#158bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="159"></span> stuff stuff 1:
+# <span id="159"></span> stuff stuff:
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
@@ -8285,6 +8286,43 @@ But then like meditation lets you (sooner or later) systematically systematicall
 
 
 [<a href="#163h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="163a"></span> surface areas and the radically personal (draft):
+
+I'm using "surface areas" here as sort of "exposed sensory surface areas that are the entryway to sensory processing." These "surface areas" are high-dimensional, they sort of have ontologies that they can accept or not accept, like they only accept sensory experiences of particular "very" complex shapes, which are multimodal. Or like they can only see some "objects" in the landscape and not others.
+
+From the first moments of consciousness, we are sculpting our surfaces areas, spontaneously, in accordance with homeostasis and eventually, say, valence and psychological factors. We learn to completely hide surface areas, too, to twist them off, have the recede, bury them. We do this to self-regulate, to avoid pain, to shut away nascent outrage at coercion and injustice and powerlessness, to behave a certain way with respect to the outside world, to stay safe, to get needed things. The reverse of this is sort of just an effortless, costless, non-disregulating, "just this-ness," "ah, this is the outside, and it's safe to experience the outside".
+
+This is, in part, at root, the domain of "attachment," vulnerability, care. Downstream of this is fetishes, kink, paraphilias, sexual fantasies, the ways we can and can't make money, the life choices we are and aren't willing to make, our choices around fiction books, tv, videos, movies, our aesthetics, the stories we tell or write, our relationships with parents, siblings, extended family, friends, intimate encounters and partners, ways we socialize (parties versus gatherings versus classes versus structured relating), whether we make friends at work, and so on, the ways we spend our time or are compelled to spend our time, even if inside or outside view it feels self-defeating or not constructive ("if only I didn't mind working at a high-paying job!").
+
+Some of the above is gender-related and hormonal (though with tremendous malleability and possibility for harmony on top of and with respect to that), and even beyond what's in that previous parenthetical, there's even more malleability on top of that. One could say this is the domain of the incidental, accidental, arbitrary, contingent (of upbringing, of early experience, of being parented and socialized, prenatally and postnatally, and beyond).
+
+Of course it's arbitrary in one sense and "couldn't have been otherwise" (and, so, "necessary" or "determined" in another sense--so more contingent/accidental than arbitrary (in the ways that contingency can stll have embedded necessity to sort of glue it all together; like, radical arbitrariness would have have neither contingency nor necessity; and contingency is sort of necessarily mixed with some necessity, sort of). "Many degrees of freedom, many different ways it could have been, in some counterfactual sense," is better than "arbitrary." And it's incidental in one sense and "downstream, massively compoundingly affected the entire course of one's life" in another sense: compounding self-direction and self-regulation and self-fulfilling life prophecies.
+
+There's a delicate thing, here--there's nothing wrong with a bunch of these things (sex stuff, creative expression stuff), in a vacuum! And some hobbies or compulsions turn into careers or scenes, which result in money, friendship, learning, care. And other times, dimensions of these things, distort or warp, or narrow possiblities. They are rigidities. 
+
+And so sometimes, for some things, sussing all this out, making sense of it, telling the story, gathering and unraveling contingency, non-arbitarily, structure-preservingly, into something better that honors, and, critically, makes use of the past, is not discontinuous with the past--it can't be--is "long range"--it might take literally eight-thousand hours of meditation to understand why you can't have a normal job, or why you HAVE to write a novel, or you like the weird sex thing that's messing up all your relationships or why you can't not get angry with intimate partners for dumb things. And, in the meantime, the weird sex thing, or whatever, is critical, or writing the novel is necessary, for self-expression, for anything, which itself is a lifeline, soul nourishing, and so on. Incline towards writing the novel; you'll either be doing skillful redo-to-undo, or you'll end up with a novel, or both. Indulging, ongoingly, right up to the bleeding edge of safety and opportunity cost, is as efficient or more efficient than meditation, when combined with a little bit or a lot of meditation.
+
+Perhaps the most important thing is that all of this goes all the way back to deep, deep, deep, deep vulnerability and care. It's like the small child who hides their eyes, and slowly, slowly, slowly, slowly, haltingly, warily, fearfully, finally, they slowly open their eyes and look, and it's ok. And for an adult, they have twenty to five hundred things like that, small child selves like that, and it can sometimes take six-thousand hours before even one "small child within" is able to truly, patiently, non-pushily, safely look (which is the only way it ultimately works).
+
+We seek out stories, media, aesthetics, scenes, creative projects, friendships that (hopefully) allow us to untwist and untangle. We seek out contexts where we can "unlayer" where we can expose parts of ourselves to experience and to be be seen, to experimentally allow ourselves to be touched. This is critical work, sometimes deep-down desperate work, that sometimes looks like it's doing nothing useful in the world. 
+
+It's unfortunate that some traumas (and lack of traumas) make us "more effective" in the world, at making money or acquiring power, and some don't. We can't all be Lady Gaga, both compelled and successful, nor would we necessarily want to be. It sometimes comes with tremendous suffering and uncertainty. It's not fair, too, sometimes compoundingly so, when someone can make a lot of money and *then* go find their inner child.
+
+((((It's not always accidental, either, in that sometimes society will socialize certain traumatic things--it's less about the details than the "normative coordination." If everyone has the right lock-and-key traumas then society can function in a certain way.))))
+
+((((There's an even worse thing that can happen, too--when we can't look at things, can't expose ourself to things, like a child hiding their eyes or the proverbial ostrich with its head in the sand, this eventually leads to "high-level blindspots"--things about people or the world that we just can't see. It starts out as early unfortunate attachment stuff (prenatally) and sensory stuff, leading to unfortunate interpretations and self-strategies.) And blindspots can make people narrowly more effective, until things blow up, because those people aren't paying attention to some considerations, making what they do seemingly more efficient and effective, until that lack of attention to considerations causes things to blow up. Sometimes it can take an entire lifetime, though--life isn't fair. They might never realize they have blindspots. Things might never blow up for them, or they never realize their pattern of ongoing blow ups and damage control for the spreading harm that it is. Blindspots tend to downstream involve inhumanity (lack of compassion) because the person with the blindspot doesn't see suffering or hid that suffering in themselves and so can't see it in others or even fosters it because "that's the way it should be" (because it leads to less net suffering, overall, as far as they can tell). And/or they don't recognize other people's personhood or identity or all sorts of things (not to inappropriately reify those concepts except to the degree that there's a pattern there. It gets worse in that blindspots can lead to actually seeing some things more seemingly "accurately," or at least a persuasive confidence about those things, but these things will also be ultimately shot through with distortion, can never be quite right, quite humane, because of the mediate all-to-all nature of the mind. Distortion somewhere will have distorting effects elswhere. There's a double-down, self-reinforcing, self-righteous nature to all of this--otherwise it would have unraveled itself in the person, long ago, all things being equal. Some bad behavior is damage control and other-gaslighting, but also self-gaslighting, too, or just plain fragmentation.))))
+
+Anyway, much of this document, overall, sort of focuses in generalities and quasi-universals (not to inappropriately reify "universals"), principles, patterns, rules, laws (gesturingly), the existential, the metaphysical, the phenomenological, the autonomic, the muscular, the sensory, the cognitive, the subtle, personhood, "worldhood", the conceptual.
+
+We might then call this section "psychological" and "emotional" and "especially deeply personal."
+
+There's a way in which I feel like this section could be expanded to a length the size of the entire rest of the document. It's sort being written about closer to the end of first draft writing than the beginning because it's so hard to write about in a general way, because the very "true essence" of it is utterly radically personal. But this is a beginning of that.
+
+
+[<a href="#163ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="164"></span> subtle interaction:
 
