@@ -8320,6 +8320,14 @@ We might then call this section "psychological" and "emotional" and "especially 
 
 There's a way in which I feel like this section could be expanded to a length the size of the entire rest of the document. It's sort being written about closer to the end of first draft writing than the beginning because it's so hard to write about in a general way, because the very "true essence" of it is utterly radically personal. But this is a beginning of that.
 
+\*
+
+Actually, a better and more accurate way to put this is that, from the beginning, I wanted to direct people towards the psychological and the emotional, I wanted people to know that they could reach those deepest, darkest, most self-intimate and vulnerable places. But, I also had the inkling of the many thousands of hours thing, for some things, for some people, and the patience and (naturally building) skill that would sometimes be needed. And so it's maybe more accurate to say that everything else in the document is meant to guide a person to psychologically and emotional stuff naturally and cleanly falling out of practice. And some people realize this right away, and/or they do so but it's still sort of patchy and incomplete, and maybe other people realize it much later. But in any case, the goal is sort of systematic and universal engagement with "everything in the bodymind," radically intimately and personally, on its own terms, maximally skillfully, i.e. wholesomely, self-compassionately, patiently, brilliantly.
+
+Oh yeah, and I had the worry that focusing on emotional/psychologically stuff too early or directly would recapitulate all the usual problems of meditation, self-suppression and self-forcing in accordance with existing preconceptions, which is maybe almost inevitable, for some people, without the idea of global-wayfinding and thus the risk of behavioral and emotional rigidity and really bad, weird stuff, forestalled and incomplete progress, stuck in some weird, partially better, partially worse place, indefinitely.
+
+And, so, anyway, in a cautious and roundabout way, the psychological and emotional (and many other things, too, for sure), the wholehearted, the heartfelt, the radically vulnerable and self-intimate, the deepest, darkest, most desperate places, yet with the most excitement, the most love, the most care, the most fulfillment, the most humanity, the most self-authorship, in potential; and that was always the point.
+
 
 [<a href="#163ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
