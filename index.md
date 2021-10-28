@@ -6332,7 +6332,7 @@ Patience over days, and meta protocoling, can help sort out the differences, and
 
 While it's not critical, one may eventually start getting a sense of this, and it has some bearing on long-range efficiency over thousands of hours. And again, running up against this too soon, with too much "momentum"/pushing/forcing, before that's long-run relatively untangled and integrated, relatively mostly out of practice, can be a thing.
 
-What is this phenomenon, neurologically speaking? I think it has something to do with local (high-dimensional) synaptic potentiation and depotentiation getting maxed out. And then sleep (I forget which phase of sleep) does global synaptic renormalization [1], which makes those synapses available again. Sometimes it feels like it's "the same" synapses getting maxed out, over and over again, each day, over several days or even weeks, before things shift around to a new bottleneck. And sometimes it feels like sleep can only do so much renormalization, if there is sort of a bottleneck, so those same synapses get maxed out again in like five to twenty minutes of meditation, sometimes in the early morning, if one starts meditating soon after waking up, while still in bed. And that's ok! Mediate bottlenecks happen.
+What is this phenomenon, neurologically speaking? I think it has something to do with local (high-dimensional) synaptic potentiation and depotentiation getting maxed out. And then sleep (I forget which phase of sleep) does global synaptic renormalization [1], which makes those synapses available again. Sometimes it feels like it's "the same"\* synapses getting maxed out, over and over again, each day, over several days or even weeks, before things shift around to a new bottleneck. And sometimes it feels like sleep can only do so much renormalization, if there is sort of a bottleneck, so those same synapses get maxed out again in like five to twenty minutes of meditation, sometimes in the early morning, if one starts meditating soon after waking up, while still in bed. And that's ok! Mediate bottlenecks happen.
 
 What's particuarly interesting is how this phenomenon can be a thing while, when it obtains, it's still possible to go about one's day and do various routine and important things. This says something about brains, and "load distribution," and "network"/"operational" dimensionality, and multi-network neuronal participation, and "content addressable memory," and malleability and ongoing spontaneous remodeling and didactic organisation [2], and structural fluidity, and all sorts of other things. (The previous list mixes scientific terms of art and my idiosyncratic usages particular to this document.)
 
@@ -6342,7 +6342,12 @@ In any case, bumping up against this "fundamental slack" starts to be a thing, a
 
 So this is one thing to keep an eye out for, in terms of meditative rhythms and day-to-day or week-to-week planning, of weaving meditation with other valued and "that's the whole point" sorts of things.
 
+\*
+
 [1], [2] These terms, and others, are worth googling, on wikipedia, google scholar, and in other places. Quanta magazine has decent popular articles exploring some of the above, too. [Poke me and I'll get some more references, here, sooner or later.]
+
+\*"The same" is in quotes above because maybe it is indeed the same physical synapses, maybe it's different synapses but the same pattern, as transferred through didactic organisation, and so on.
+
 
 [<a href="#154ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
