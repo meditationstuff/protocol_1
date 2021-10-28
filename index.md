@@ -276,6 +276,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="152h" href="#152">attention is not fundamental</a>
 	* <a id="153h" href="#153">"inner space" and physical/social grace</a>
 	* <a id="154h" href="#154">dark phenomenology and presence/absence conceptions</a>
+	* <a id="154ah" href="#154a">daily limits</a>
 	* <a id="155h" href="#155">brief thoughts on substances like psychedelics</a>
 	* <a id="156h" href="#156">getting triggered, usefulness and risks</a>
 	* <a id="156ah" href="#156a">some narrowly conceived phenomenological investigations that may or may not be useful</a>
@@ -6301,6 +6302,51 @@ Note:
 There are parallels, here, to "unvalenced" phenomenology and memories. (vs "valenced" as in phenomenology/sensations that is/are directly positive/pleasurable/good or negative/noxious/bad/etc or, more loosely, sensations or experiences that are associated with such.)
 
 [<a href="#154h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="154a"></span> daily limits:
+
+When weightlifting, there's only so much training one can do in a single day (and there are also weekly to fourteen day limits and even longer periodicity supercycles). One can't lift weights one hundred hours, in a row, and then eat and sleep for seven hundred hours, in a row, gain a ton of muscle, and then repeat. There are daily-ish limits after which one needs sleep (and food).
+
+Brains (and the nervous system) aren't muscles, but there's something kind of similar going on, with meditation.
+
+When one first starts meditating, one won't know what to do to produce efficient change, or even much change at all. (And, just to be clear/emphasize, producing efficient change involves a lot of non-effort and patience and surrender.) And then one gets better at producing change. (This is still not great wording.) And/but, at first, that change will lead to grinding or jamming sort of before even more fundamental limits get hit. Eventually, one learns to sort of max out at least local change, that's available, until the next time one sleeps. One is sort of locally  brushing up against a sort of "fundamental slack."
+
+Eventually, one learns to max out change, in a bunch of different areas, instead of just one or two, almost in a widespread global sense, sort of sussing that out maybe over hours, until the next time one sleeps.
+
+It's like there's "fundamental slack" and meditation eventually uses this up. And then sleep provides new fundamental slack for the next day. The more 90-minute cycles of sleep, the more new fundamental slack is available.
+
+At first, this can sometimes be a little fraught. Like it can lead to at least a little destabilization and/or almost narcolepsy. But eventually the system learns how to sort of max out this available change, while still apportioning exactly enough slack for doing, learning, interacting, in general, for other daily things.
+
+There's a variable amount of meditation slack available, each day, it depends on day-to-day, in-flight structural features, as things unwind, move around, and settle. Sometimes it's a ton, even like twenty hours worth, but it's generally finite. Maybe every frew months, some days, for maybe many days in a row, there will only be five to twenty minutes of meditation slack available, and that's normal.
+
+It may take quite a while to get a sense of this--for several years, one might not have the deftness, degree of fine-grain-ness / structural fluidity, something, to regularly bump up against this limit. And that's ok. It's a gradual process to kind of start bumping up against this limit (and to sort of suss out all available nooks and crannies that have remaining daily slack), and that's ok.
+
+While global wayfinding prowess is still developing, over thousands of hours (of including meta protocol-ing), it's a bit of a mixed blessing to be able to really use up daily slack, because it's not a guarantee that one won't be doing a mix of both undoing/untangling and tangling/entrenching. And it's ok if one is. It's a gradual process of moving the mixed ratio to more and more untangling/undoing.
+
+So it's not even critical that one finds comes to get a sense for and regularly find their way to this limit. And again, it's not exactly the same thing as "having no moves to make that aren't grinding or jamming, though it's related--grinding or jamming is usually the next thing that happens once all "fundamental slack" is used up, though grinding or jamming can definitely happen long before that, too (and is typically the thing that happens before one starts reaching and getting a sense of this other limit). 
+
+Grinding and jamming is sort of just running out of local available "software moves" or not having some degrees of freedom or structural fluidity, yet, speaking abstractly and too generally. And this "fundamental slack" thing is sort of running out of available daily "hardware moves" or "hardware capacity."
+
+Patience over days, and meta protocoling, can help sort out the differences, and having a sense of the difference is definitely a useful input into global wayfinding (and global wayfinding applies both during and outside of "meditation," however that's narrowly, widely, or very widely defined, with lost in life, as an option, very withstanding.)
+
+While it's not critical, one may eventually start getting a sense of this, and it has some bearing on long-range efficiency over thousands of hours. And again, running up against this too soon, with too much "momentum"/pushing/forcing, before that's long-run relatively untangled and integrated, relatively mostly out of practice, can be a thing.
+
+What is this phenomenon, neurologically speaking? I think it has something to do with local (high-dimensional) synaptic potentiation and depotentiation getting maxed out. And then sleep (I forget which phase of sleep) does global synaptic renormalization [1], which makes those synapses available again. Sometimes it feels like it's "the same" synapses getting maxed out, over and over again, each day, over several days or even weeks, before things shift around to a new bottleneck. And sometimes it feels like sleep can only do so much renormalization, if there is sort of a bottleneck, so those same synapses get maxed out again in like five to twenty minutes of meditation, sometimes in the early morning, if one starts meditating soon after waking up, while still in bed. And that's ok! Mediate bottlenecks happen.
+
+What's particuarly interesting is how this phenomenon can be a thing while, when it obtains, it's still possible to go about one's day and do various routine and important things. This says something about brains, and "load distribution," and "network"/"operational" dimensionality, and multi-network neuronal participation, and "content addressable memory," and malleability and ongoing spontaneous remodeling and didactic organisation [2], and structural fluidity, and all sorts of other things. (The previous list mixes scientific terms of art and my idiosyncratic usages particular to this document.)
+
+And, sometimes it's too hard to have a "functional throughline," i.e. there's functional nonmonotonicity and one does need to stay in bed or only do light tasks, especially privilege withstanding.
+
+In any case, bumping up against this "fundamental slack" starts to be a thing, and it's something one can kind of start planning around. If one bumps into meditation limits in just twenty minutes, a couple days in a row, then one might expect meditation will only be possible for twenty minutes the next day or two, after that, and so nonmonotonicity notwithstanding, one might plan more ambitious things in those next few days, to allow for more shifting and settling, more accumulation of fundmental slack (and non-meditative spontaneous reorganization!!!!!!!!!!!!), facilitated by novel, enjoyable, useful experiences, out in the world.
+
+So this is one thing to keep an eye out for, in terms of meditative rhythms and day-to-day or week-to-week planning, of weaving meditation with other valued and "that's the whole point" sorts of things.
+
+[1], [2] These terms, and others, are worth googling, on wikipedia, google scholar, and in other places. Quanta magazine has decent popular articles exploring some of the above, too. [Poke me and I'll get some more references, here, sooner or later.]
+
+[<a href="#154ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="155"></span> brief thoughts on substances like psychedelics:
 
