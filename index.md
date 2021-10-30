@@ -7738,6 +7738,11 @@ at least one sense in which there's no difference between an enlightened and une
 
 [there should be an entry somewhere in here that teases out something about when something in the space of locality does [a lot] and doesn't apply]
 
+at least one sense in which no difference / no boundary, between "inside" and "outside"
+
+at least one sense in which everything is inside you, and/or/rather at least all experience
+
+
 (see also: David Chapman's meaningness work)
 
 
