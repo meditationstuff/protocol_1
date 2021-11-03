@@ -4603,7 +4603,7 @@ Notes:
 * oblivion
 * "positive forgetting" [compare with “losslessness”]
 * internalization/coping (non-“armored”, non-essentially-layery, per se/as such
-* shoring / shoring up / making stable / [trying to make stable] / pressing in / [trying to make timelessly permanently permanent ongoingly stably durational]
+* shoring / shoring up / making stable / [trying to make stable] / pressing in / [trying to make timelessly permanently permanent ongoingly stably durational] / fortication / [trying to] hold[~ing] in place
 
 
 Notes:
