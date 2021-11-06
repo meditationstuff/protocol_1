@@ -7736,6 +7736,8 @@ at least one sense in which there is no single, one most good and correct way to
 
 at least one sense in which there's no difference between an enlightened and unenlightened mind; at least once sense in which being enlightened changes nothing (and other senses in which lots of things change); and at least two senses in which there's no such thing as enlightenment (or meditation)
 
+at least one sense in which there's no perfection. at least one sense in which perfect control, understanding, or certainty doesn't exist [adapted from David Chapman, mistakes mine]
+
 [there should be an entry somewhere in here that teases out something about when something in the space of locality does [a lot] and doesn't apply]
 
 at least one sense in which no difference / no boundary, between "inside" and "outside"
