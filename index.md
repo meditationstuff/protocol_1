@@ -3754,7 +3754,7 @@ Alternative note: A future draft of this should maybe include percentages for "l
 	* What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
 	* What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
 * **Doing**
-	* What do you currently generally *do* when you meditate?
+	* What do you currently generally *do* when you meditate? (And *how* do you do it, this, that, or all of that, or all of those things??)
 	* What of that is in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
 	* What of that is in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
 	* What of that are you currently unsure of whether it might be contextually good or bad? How might you come to know better what of that is contextually good or bad?
@@ -3763,7 +3763,7 @@ Alternative note: A future draft of this should maybe include percentages for "l
 **(2) Solo or Dyadic Tight Feedback Loop**
 
 * **Online Data Collection, Alone or with an Observer/&#8203;Coach/&#8203;Consultant/&#8203;Friend:**
-	* As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? Start now. [If talking/&#8203;articulating/&#8203;explicating/&#8203;sharing is grindy, jammy, force-y, unsafe, bad feeling, don't! It's not the right time or context to be doing it, then! If alone, you might try doing the spirit of this but completely nonverbally.]
+	* As you’re meditating, simultaneously interleave verbal reporting of (a) what’s happening and (b) what you’re doing, all of this just as best you can and makes sense. So, as best you can and makes sense, don’t force anything, you can’t do it wrong, what’s happening and what are you doing? (And how are you doing it, this, that, or all of that, or all of those things?) Start now. [If talking/&#8203;articulating/&#8203;explicating/&#8203;sharing is grindy, jammy, force-y, unsafe, bad feeling, don't! It's not the right time or context to be doing it, then! If alone, you might try doing the spirit of this but completely nonverbally.]
 * **Interleaved or Offline Analysis (While Taking a Break from Meditating):**
 	* What of that was in some sense seemingly contextually good, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
 	* What of that was in some sense seemingly contextually bad, as far as you can currently tell? How did you come to have this/&#8203;these impression(s)[/&#8203;sense(s)/&#8203;intuition(s)/&#8203;feeling(s)], as far as you can currently tell?
@@ -3772,6 +3772,11 @@ Alternative note: A future draft of this should maybe include percentages for "l
 	* For what’s seemingly contextually bad, as far as you can currently tell, what might or might not be good to do about that, and when or under what conditions, as far as you can currently tell?
 Offline Generative, While Taking a Break from Meditating:
 	* How are you currently coming to know, or, how might you come to know, about additional possibly contextually good things to do, that you’re not currently doing, or not doing at all the times they might be good to do, or have never done before, as far as you can currently tell? What are some things you’ve never done before that might be good to do, as far as you can currently tell? How might you come to do those possibly good things at possibly good times, as far as you can currently tell?
+	* How are you currently coming to know, or, how might you come to know, about additional possibly contextually good *ways* of doing (good) things to do, that you’re not currently doing, or not doing at all the times they might be good to do, or have never done before, as far as you can currently tell? What are some ways (of doing) you’ve never done before that might be good to do, as far as you can currently tell? How might you come to do things in those ways, at possibly good times, as far as you can currently tell?
+
+\*
+
+Notes: how/&#8203;manner/&#8203;way
 
 [<a href="#90h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
