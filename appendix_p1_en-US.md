@@ -241,6 +241,7 @@ n/a
 			- only
 			- just
 			- especially
+			- let alone
 		- untitled
 			- not
 		- untitled
