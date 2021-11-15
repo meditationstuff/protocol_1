@@ -7762,6 +7762,8 @@ at least one sense in which no difference / no boundary, between "inside" and "o
 
 at least one sense in which everything is inside you, and/or/rather at least all experience
 
+at least one sense in which the "the future", or one's experience of the future, is ultimately empty, groundless, and "liquid," at least for a time, in the sense in which it phenomenologically and functionally "re-seats" itself, where it lives, how it works..
+
 
 (see also: David Chapman's meaningness work)
 
