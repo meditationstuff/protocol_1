@@ -5660,12 +5660,12 @@ I mean something like if there’s “meditation moves” A, B, C…:
 * E = notice a shimmering sensation in your right elbow
 * (All the preliminary/auxilliary practices! All the main practices! The meta protocol! Anything that feels/&#8203;seems right to you!)
 
-(A, B, C, etc., are actually pretty good first-pass "moves," out of a large space of mix-and-match, combinatorial possibilities, but, over time, "moves" will become more and more "shimmery," high-dimensional, maybe local/&#8203;small/&#8203;isolated (or not), pixel/&#8203;voxel precise (not that pixels/&#8203;voxels are "real" or useful, of course), and radically personal. And of course there's the surrender-y, bottom-up, spontaneous, it's-just-happening-to-you component.)
+(A, B, C, etc., are actually pretty good first-pass "moves," out of a large space of mix-and-match, combinatorial possibilities, but, over time, "moves" will become more and more "shimmery," high-dimensional, maybe local/&#8203;small/&#8203;isolated (or not), pixel/&#8203;voxel precise (not that pixels/&#8203;voxels are "real" or necessarily useful, of course--nebulous all the way down!), and radically personal. And of course there's the surrender-y, bottom-up, spontaneous, it's-just-happening-to-you component.)
 
 
 For someone, they should do AEDCCGFGF…. But someone else should do EEEABCJJE…., and so on. But if the first or second person did DDEDDEFQ…, that wouldn’t be as good, and so on. Each person's "evolving personal move" list, and the order in which they apply those moves, matters.
 
-Like each person has a god’s-eye-view perfect ordering, million-moves long, ten thousand hour, combination lock, and it matters, for meditating efficiently and not getting horribly tangled up. Because of buddha nature, there’s in some sense no mistakes and/or all mistakes are recoverable, and making a gazillion “mistakes” is fully accounted for in 10k hours, or whatever. But the exact radically concrete thing a person is doing in any moment, and the order that they’re doing those things in, “perfectly structurally matters.”
+Like each person has a god’s-eye-view perfect ordering, million-moves long, ten thousand hour combination lock, and it matters, for meditating efficiently and not getting horribly tangled up. Because of buddha nature, there’s in some sense no mistakes and/or all mistakes are recoverable, and making a gazillion “mistakes” is fully accounted for in 10k hours, or whatever. But the exact radically concrete thing a person is doing in any moment, and the order that they’re doing those things in, “perfectly structurally matters.”
 
 If someone should do ABABABABA…, then if they do AAAABBBB, instead… that won’t work. It’ll eventually tangle them up.
 
