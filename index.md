@@ -246,7 +246,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="126h" href="#126">bodymindenvironment</a>
 	* <a id="127h" href="#127">can’t-look-yet ("avoidance")</a>
 	* <a id="128h" href="#128">systematicity, ontologies, phenomenological and otherwise</a>
-	* <a id="129h" href="#129">exhaustivity and bottlenecks</a>
+	* <a id="129h" href="#129">exhaustivity and bottlenecks</a> 
+	* <a id="129ah" href="#129a">ordering matters / order matters</a>
 	* <a id="130h" href="#130">(mental) action and the attentional manifold</a>
 	* <a id="131h" href="#131">the use of the will</a>
 	* <a id="132h" href="#132">a note on force (plus a brief mention of "redo-to-undo")</a>
@@ -5647,6 +5648,38 @@ So sometimes things can look a lot like "contemporary classical noting practice.
 
 
 [<a href="#129h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <span id="129a"></span> ordering matters / order matters:
+
+I mean something like if there’s “meditation moves” A, B, C…:
+
+* A = pay attention to your hands
+* B = let your feet come to you
+* C = be moved by the body
+* D = be moved by your left pinky finger
+* E = notice a shimmering sensation in your right elbow
+* (All the preliminary/auxilliary practices! All the main practices! The meta protocol! Anything that feels/&#8203;seems right to you!)
+
+(A, B, C, etc., are actually pretty good first-pass "moves," out of a large space of mix-and-match, combinatorial possibilities, but, over time, "moves" will become more and more "shimmery," high-dimensional, maybe local/&#8203;small/&#8203;isolated (or not), pixel/&#8203;voxel precise (not that pixels/&#8203;voxels are "real" or useful, of course), and radically personal. And of course there's the surrender-y, bottom-up, spontaneous, it's-just-happening-to-you component.)
+
+
+For someone, they should do AEDCCGFGF…. But someone else should do EEEABCJJE…., and so on. But if the first or second person did DDEDDEFQ…, that wouldn’t be as good, and so on. Each person's "evolving personal move" list, and the order in which they apply those moves, matters.
+
+Like each person has a god’s-eye-view perfect ordering, million-moves long, ten thousand hour, combination lock, and it matters, for meditating efficiently and not getting horribly tangled up. Because of buddha nature, there’s in some sense no mistakes and/or all mistakes are recoverable, and making a gazillion “mistakes” is fully accounted for in 10k hours, or whatever. But the exact radically concrete thing a person is doing in any moment, and the order that they’re doing those things in, “perfectly structurally matters.”
+
+If someone should do ABABABABA…, then if they do AAAABBBB, instead… that won’t work. It’ll eventually tangle them up.
+
+Like there’s plenty of slack, all things being equal, but no magic. It’s mechanism, almost like gears, bits, steel cables, all the way down, and those steel cables can’t magically pass through each other. There’s only one way to unwind the machine. (Eventually more and more and completely it spontaneously self-unwinds.)
+
+(And also nebulosity and emptiness and groundlessness, and there is no god’s eye view, and there are no bits or steel cables or A, B, C, D, and this is a model and the “real” A, B, C, D are intimate and concrete and fine grain and etc.)
+
+So when someone is “doing a practice,” like investigation, noting, concentration, anything, the first thing I ask to myself is, short run, is it doing more good than harm, for them? And second, is it, over time, going to self-bootstrap into a practice that self-modifies itself and ultimately eats itself, that can clean up every last prior misconception and mistake, recursively, and work itself out of the most entrenched and gnarly tangle at the finest grain?
+
+(Not to inappropriately reify harm, self-bootstrapping, self-modification, “eat itself,” “clean up”, mistake, recursively, entrenched, gnarly, tangle, and grain..)
+
+
+[<a href="#129ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="130"></span> (mental action) and the attentional manifold:
 
