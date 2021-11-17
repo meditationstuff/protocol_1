@@ -5677,6 +5677,10 @@ So when someone is “doing a practice,” like investigation, noting, concentra
 
 (Not to inappropriately reify harm, self-bootstrapping, self-modification, “eat itself,” “clean up”, mistake, recursively, entrenched, gnarly, tangle, and grain..)
 
+\*
+
+Note: The above may seem super top-down, but it's sort of a corrective on other pespectives on meditation. Main practice p2, loosely speaking, is 25-50% "surrender," "let it happen," etc. For more qualifiers, search elsewhere in this document for "homunculi" (without the quotes).
+
 
 [<a href="#129ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
