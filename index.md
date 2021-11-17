@@ -9701,6 +9701,42 @@ Which is all to say, there's a way in which this document doesn't well reflect/&
 
 Ah and one concern I have about rendering things as above is that it makes seem like there's this vast puzzle where changing one thing has all these ripple effects and everything has to be juuussst right. In some sense that's true in an intellectual and abstract sense, and some conceptions like that can potentially help with global wayfinding, but like the lived, "done" thing (or nonmonotonically in the right direction) is when ever more of the thing, you and all of it, takes care of itself, costlessly, effortlessly, and also ever more of the *process itself* takes care of itself, costlessly, effortlessly. So like anything that sort has to be maintained or "made to stick" is not the thing and not the way to get to the thing and the "done condition" is the exact opposite or high maintenence, high-touch. (But, to be fair, importantly(!) en route might demand a tremendous amount of resources/bandwidth/cognition/attention/unstructured time. For some people when all of this is "unpacked," "in flight," "in progress," it'll be sometimes hard to have a job/career/business/investing/anything, relationship, take care of kids, etc., where you need to be "on."
 
+\*
+
+**Someone close to me asked, Why do you meditate? Is it spiritual? Is it a job or a hobby? ...**
+
+(Nearer to the end is material that I didn't actually send to them as an answer, but most of the beginning I did.)
+
+>>>  
+[...]  
+
+For me, meditation is deeply, deeply, deeply instrumental. It's always been meditation /for/. There are things that are intrinsically interesting about it, and it has become incidentally professional, and part of my engagement with it has been because I want to share the value with other people, and be around other people who have partaken in that value, and I would like that value to be disseminated more widely; but, yeah, it's instrumental.
+
+What I mean by instrumental, or /for/, is that, all things being equal, I'd rather be doing other things, at least in a vacuum. (I mean I could see myself continuing to teach meditation, main-line or in a way ancillary to other goals, but it's never been my main goal.)
+
+I originally got into meditation because I was (a) trying to heal/fix things and (b) to run away from things. But, once I saw the value (or I thought I did--it took a long time to unlock the "real" value), I set my sights higher, and it became a way to go towards things, a way to add things to my life.
+
+And then I got really hurt, so it's sort of half to fix things and half to get things. I think of meditation as maximally oblique, concrete problem solving, or the thing one might do when nothing else works. There's also an issue of very high opportunity cost, because it's physically and psychologically risky, relatively unpredictable, sometimes involuntariliy requires prioritization, and is time consuming. So one might reach for it when solving problems in relatively direct ways fails.
+
+This is sort of where some of the spiritual stuff does come in--meditation does eventually deeply touch metaphysical, existential, and cosmological issues. So meditation is sufficiently-as-oblique-as-needed, problem solving and problem dissolving. And that is why I do it.
+
+It's, over a long period of time, made me more emotionally resilient, a better problem solver, increased my wellbeing, reduced my allergies, improved my sleep, improved my digestion, genuinely definitively answers many existential and philosophical questions, improved my writing ability, and it's sort of given me a long-run unshakeable... something--faith? certainty? but strange kinds that continuously eat themselves.
+
+[...]
+
+Importantly, there's a very high chance it takes over one's life for a while. Sometimes one can do stuff in the cracks, but it sort of uncontrollably makes itself first priority. And, sometimes one can't do stuff in the cracks, so there needs to be sufficient resources to cash in during those times. And, because of how the mindbody untangles itself, it's not unusual to feel like all is lost, at various points. There's a sense in which it undoes everything, in which one loses everything, though there's also senses in which that's not true at all.
+
+In some ways, at least one of the following has to make sense for someone to engage in meditation, in the sense that I use the word, in no particular order:
+
+(Please note, the below is off the top of my head, and I haven't thought it through very carefully.)
+
+* you are well-resourced, patient, and already relatively self-compassionate--and optionally maybe you're curious, risk-tolerant, and somehow (at least a little) hungry
+* you're at rock bottom and/or have exhausted all other options
+* you've started, and crossed some threshold, and the only way to be free of meditation is to ride it all the way to end (sometimes relatively front-loaded and efficiently, and sometimes as much in the cracks as possible
+
+[...]  
+<<<
+
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
