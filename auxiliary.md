@@ -7366,4 +7366,31 @@ Let yourself, scenario by scenario, acknowledge the ways you’re already in per
 
 No! (Thus.)
 
+[<a href="#881auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="882auxiliary"></span> do/block with a feather:
+
+Do something (try to do something) or (try to) block/&#8203;prevent something from happening, or stop something that’s already happening, with the lightest and most minimal possible “touch,” “with a feather.”
+
+comment:
+
+You might say something like, ok, I could do X if I really made myself, or overrode myself, or with 10/10 effort. But how about 8/10 effort? (Explore or refactor around that, for a bit.) How about 6/10? … How about 3/10? … How about 1/10? ( = “with a feather”) … How about 0.01/10? 
+
+[<a href="#882auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="883auxiliary"></span> keep company, hang out with: (restatement)
+
+Keep something company, hang out with it, spend patient time with it, without trying to change it, without trying to enhance it, without trying to make it go away. You might “surf” with, lightly ride any undulations, waxing and waning, ebb and flow, while doing this. (Compare with Ingram’s analogy: touch the surface of the [not necessarily still water], maintain contact with that surface; without letting the back of the hand get wet.)
+
+[<a href="#883auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="884auxiliary"></span> align with it: (restatement)
+
+Try to get on the problematic thing’s side, in (maybe slight) part, as much as you can and is safe. This can on net make the bodymind “more whole,” and free up more slack, in a way that allows the problematic thing to become less problematic, on its own terms while self-respecting its own needs, in a way that is immediately or long-run better, but or integrative, for the whole. (Not to inappropriately reign any of these “things.”)
+
+comment: "loop back rotate around inside"
+
+[<a href="#884auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
