@@ -299,6 +299,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#158fa">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#158ga">a brief dialogue on locality and concreteness</a>
+	* <a id="158gbh" href="#158gb">clockworks metaphor (tweezers, scale, emptiness, locality)</a>
 	* <a id="158ah" href="#158a">sex, gender, etc. stuff</a>
 		* <a id="158bh" href="#158b">working with sex and gender (plus "tantra")</a>
 	* <a id="159h" href="#159">stuff stuff</a>
@@ -8138,6 +8139,19 @@ small adds up, adding up is (eventually) big
 
 [<a href="#158gah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <span id="158gb"></span> clockworks metaphor (tweezers, scale, emptiness, locality):
+
+if space is empty, and if time is empty, and "the phenomenological grain of experience" is empty, and complex/composite vs simple is empty, one might still play around with something like locality.
+
+i want to say like “high-dimensional and distributed,” but still local in a sense?
+
+maybe, say the bodymind is the size of planet earth, and made of like clockworks and gears, of many sizes, and sometimes someone is working on a very tiny part of the whole thing, like the gears inside a true-to-sized pocket watch. and sometimes that pocket watch is mostly inside it’s metal housing, which is seamlessly embedded in the planet-sized clockworks, but sometimes that pocket watch is somehow diffusely/thinly spread through the entire planet, though it’s still basically the same sort of pocket watch. in both cases, somehow, it’s still somehow local operations; all that’s available is local operations; you can only do what you can do, right there and then, with that small patch in front of you (which might be coalesced or diffuse; which might just look like surrender, letting go).
+
+also, the pocket watch is precise little gears, pixel perfect precision, tweezers and tiny tools. but at the same time it’s shimmery, flickery, buzzy, nebulous, no such thing as gears, no such thing as pixels (of course).
+
+and sometimes/often it’s coalesced or diffuse pocket watches, and sometimes it’s undulating waves or whooshes through the whole bodymind. (edited) 
+
+[<a href="#158gbh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158a"></span> sex, gender, etc. stuff:
