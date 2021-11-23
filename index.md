@@ -168,9 +168,9 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="50h" href="#50">part 18: depth of horror</a>
 		* <a id="51h" href="#51">part 19: wisdom and antiwisdom</a>
 		* <a id="52h" href="#52">part 20: inappropriate reification</a>
-	* <a id="53h" href="#53">creativity</a>
-	* <a id="54h" href="#54">the creativity of evil</a>
-	* <a id="55h" href="#55">joy</a>
+		* <a id="53h" href="#53">creativity</a>
+		* <a id="54h" href="#54">the creativity of evil (plus sequence commentary)</a>
+		* <a id="55h" href="#55">joy (stub)</a>
 	* <a id="56h" href="#56">lineages and transformative works</a>
 * <a id="57h" href="#57">practice preliminaries</a>
 	* <a id="58h" href="#58">timeline, mindset, trajectory, harm</a>
@@ -2122,7 +2122,7 @@ What might we do together that’s better than what we’ll do apart?
 
 [<a href="#53h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="54"></span> the creativity of evil:
+# <span id="54"></span> the creativity of evil (plus sequence commentary):
 
 * Unfortunate sequences of events produce ignorance, inability, fear, and (perceived or actual) resource contsraints.
 * Ignorance, inability, fear and (perceived or actual) resource contsraints produce myopic, selfish desperation (that can skillfully hide for a long time from itself and from others).
@@ -2136,9 +2136,20 @@ What might we do together that’s better than what we’ll do apart?
 * Evil is illusory; In its place is myopic, selfish desperation that would be (safe and) good, instantly, if it knew how.
 * It will ok in the end. If it’s not ok, then it’s not the end.
 
+\*
+
+auto-commentary from an online forum / email list:
+
+> Re “myopic, selfish desperation” and the whole “the creativity of evil” section. I’m not saying evil is good because it’s creative. That section was me, first-pass, trying to personally wrestle with how some (at least initially seeming) good, valuable, useful things can come from “evil” people and situations, and how does one make sense of that, and act with respect to that. If someone who’s caused a lot of harm also produces value, like, duh, that happens, but it was surprisingly jarring, to me, to finally see up-close, concrete examples, and then when is it ok to make use of that value, how do we recognize the value without de facto endorsing the harm, and how do we act towards people who produce some combination of harm and (at least seeming) value. (Maybe all the seeming value is illusory or is too laced with poison to be long-run useful, though, and so on.) I think now I would maybe say this discussion was too abstract to be useful, and articulated along the wrong joints, and one instead has to look at the concrete particulars and nth-order effects of those concrete particulars. All of this writing is due for an update.
+> 
+> Generally, a lot of that whole sequence was intended to be a bit of an exoteric stopgap, for harm reduction. Ditto for other earlier sections that talk about objective truth or goodness.
+> 
+> But every few sections, in the earlier sections, I try to mention at least some of emptiness, groundlessness, non-eternalism, and how all of that is supposed to ultimately come out of practice, over time. (I’ve been going back and adding more of those qualifiers.) The document sort of has a deliberate gradient from (a) [hopefully qualified] exoteric to (b) “explicit esoteric,” running from beginning to end.
+
+
 [<a href="#54h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="55"></span> joy:
+# <span id="55"></span> joy: (stub)
 
 safety = resolution of problems + mind autonomy  
 safety + creativity = joy  

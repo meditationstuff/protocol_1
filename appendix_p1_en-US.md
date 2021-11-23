@@ -1162,15 +1162,15 @@ n/a
 
 ---
 
-- Meanwhile
-- Earlier (a bit, moments, seconds, [had])
-- Later ([did], [would])
-- Now (and then now)
-- Then
-- Next, and then, after that, finally [Immediately[/mediately] next]
+- meanwhile
+- earlier (a bit, moments, seconds, [had])
+- later ([did], [would])
+- now (and then now)
+- then
+- next, and then, after that, finally [immediately[/mediately] next]
 - In response
-- Relevantly (also, additionally, [all conjunctive adverbs) [Incidentally, somewhat incidentally]
-- Relatedly
+- relevantly (also, additionally, [all conjunctive adverbs) [incidentally, somewhat incidentally]
+- relatedly
 - [had, would, will]
 - before that (a bit) [had]
 - after that (a bit) [would]
@@ -1179,6 +1179,57 @@ n/a
 - since, until
 - while
 - begun, started, stopped, paused, continued, finished, ended, completed
+- presently
+- previously
+- subsequently
+- afterwards
+- beforehand
+- just now
+- months ago, cycles ago
+- unrelatedly, I then
+- somewhat unrelatedly,
+- resultantly / as a result [/accordingly]
+- long since / eventually / inevitably / long after / would/had
+- —-
+- maybe, might, may, possibly, probably, surely, would, will, would have
+- --
+
+Meanwhile,
+During that,
+Earlier,
+A bit earlier,
+Moments earlier,
+Seconds earlier,
+Months ago,
+Seconds ago,
+Now,
+And, then, now
+Just now,
+Then,
+Next,
+After that,
+Finally,
+Relevantly, also,
+Relevantly, additionally
+Relevantly, somewhat incidentally
+Unrelatedly,
+Before that,
+A bit before that,
+After that,
+A bit after that,
+Long before that,
+Long after that,
+since
+until
+while
+Presently,
+Previously,
+Subsequently,
+Afterwards,
+Beforehand,
+Resultantly,
+As a result,
+Accordingly,
 
 ---
 Non-exhaustive, not entirely systematic, playing with compact argument forms:
