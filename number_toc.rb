@@ -1,3 +1,5 @@
+# experimental, not yet in use
+
 # adds deep hierarchical numbering to table of contents
 # and section headers.
 # (kludgy, inelegant first pass, possibly not operating at
@@ -108,7 +110,6 @@ File.open("index2.html", "w") do |file_to_write|
       full_prefix = prefix + "." + counter.to_s + ". "
       prefix_hash[hash_title(title)] = full_prefix
       idx = chomped_line.index("<a")
-      puts full_prefix
       chomped_line.insert(idx,full_prefix[2..-1])
       file_to_write.write(chomped_line)
     end
@@ -117,7 +118,6 @@ File.open("index2.html", "w") do |file_to_write|
       if chomped_line.include?("<h1>")
         title = chomped_line.string_between_markers("</span> ",":</h1>")
         idx = chomped_line.index('</span> ') #assumes a space after tag!
-        puts prefix_hash[hash_title(title)]
         chomped_line.insert(idx+8,prefix_hash[hash_title(title)][2..-1])
         file_to_write.write(chomped_line)
       else
