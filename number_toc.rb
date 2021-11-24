@@ -1,7 +1,8 @@
-# adds numbering to table of contents and section headers
+# adds deep hierarchical numbering to table of contents
+# and section headers.
 # (kludgy, inelegant first pass, possibly not operating at
 # right stage of the pipeline. there might be a better thing,
-# such as a provided option in a tool or a library)
+# such as a provided option in a tool or a library).
 
 # if this were used, index2.html should be substituted for
 # index.html in m.sh, making sure that all enclosing scripts
