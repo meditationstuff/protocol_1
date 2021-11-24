@@ -48,7 +48,7 @@ Note:
 		* <a id="179q" href="#179">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
 * **Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.**
 	* *See these sections:*
-		* <a id="16q" href="#16">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
+		* <a id="16q" href="#16">risks; maximally cautious warnings/&#8203;directives (first-pass, without explanation)</a>
 		* <a id="14q" href="#14">document-level meta-warning</a>
 		* <a id="15q" href="#15">epistemic status disclaimer</a>
 		* <a id="17q" href="#17">but what actually makes it risky?; how do risks obtain, when they do?</a>
@@ -61,7 +61,7 @@ Note:
 		* <a id="19q" href="#19">introduction; getting over the hump; text interpretation</a> [suggested below as well]
 		* <a id="18q" href="#18">an exoteric doctrine v0.2</a>
 		* <a id="18aq" href="#18a">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
-		* <a id="21q" href="#21">goal</a>
+		* <a id="21q" href="#21">goal (draft)</a>
 		* <a id="22q" href="#22">end state</a>
 		* <a id="23q" href="#23">no fixed conceptualized goal or end state part one ("goodness")</a>
 		* <a id="24q" href="#24">no fixed conceptualized goal or end state part two ("better")</a>
@@ -136,15 +136,15 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="18ah" href="#18a">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
 	* <a id="19h" href="#19">introduction; getting over the hump; text interpretation</a>
 * <a id="20h" href="#20">opinionated, telic, soteriological things</a>
-	* <a id="21h" href="#21">goal</a>
-	* <a id="22h" href="#22">end state</a>
+	* <a id="21h" href="#21">goal (draft)</a>
+	* <a id="22h" href="#22">end state (draft!)</a>
 	* <a id="23h" href="#23">no fixed conceptualized goal or end state part one ("goodness")</a>
 	* <a id="24h" href="#24">no fixed conceptualized goal or end state part two ("better")</a>
 	* <a id="25h" href="#25">meditation is concrete problem solving</a>
 	* <a id="26h" href="#26">wellbeing and sacrifice</a>
 	* <a id="27h" href="#27">ok-ness and cosmology</a>
 	* <a id="28h" href="#28">seamless hyphenation [draft]</a>
-	* <a id="29h" href="#29">other practices</a>
+	* <a id="29h" href="#29">other practices (draft)</a>
 * <a id="30h" href="#30">culture and community</a>
 	* <a id="31h" href="#31">an orienting model; layers and tangles; from "parts" to people to groups</a>
 		* <a id="32h" href="#32">part 1: a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture</a>
@@ -181,7 +181,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="63h" href="#63">entrenchment and active occlusion (layering)</a>
 		* <a id="64h" href="#64">extreme skill and extreme standards</a>
 		* <a id="65h" href="#65">physical sequelae</a>
-		* <a id="66h" href="#66">the end of your world: (after adyashanti, maybe?)</a>
+		* <a id="66h" href="#66">the end of your world (after adyashanti, maybe?)</a>
 		* <a id="67h" href="#67">drama</a>
 		* <a id="68h" href="#68">error propagation, wayfinding, grace of what minds are</a>
 		* <a id="68ah" href="#68a">on good and bad [draft]</a>
@@ -192,9 +192,9 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="73h" href="#73">transitioning from other practices (re "sharp cutovers")</a>
 		* <a id="74h" href="#74">environment [and subtlety; (more) risks and rabbit holes]</a>
 		* <a id="75h" href="#75">movement</a>
-		* <a id="76h" href="#76">posture</a>
+		* <a id="76h" href="#76">posture (section needs editing)</a>
 		* <a id="77h" href="#77">breath</a>
-		* <a id="78h" href="#78">states</a>
+		* <a id="78h" href="#78">states (draft)</a>
 		* <a id="79h" href="#79">"headyness"/"heady-ness"/"headiness"</a>
 		* <a id="80h" href="#80">"subtle energy" and "energy work" and mental models</a>
 		* <a id="81h" href="#81">brief draft comment on first-pass, seemingly separate magisteria</a>
@@ -208,11 +208,11 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="89h" href="#89">meta practice [solo and otherwise]</a>
 			* <a id="90h" href="#90">meta protocol</a>
 				* <a id="91h" href="#91">collaborator formulations</a>
-					* <a id="92h" href="#92">collaborator formulation 1</a>
+					* <a id="92h" href="#92">collaborator formulation 1 (mh)</a>
 			* <a id="93h" href="#93">meta meta protocol</a>
-		* <a id="94h" href="#94">solo practice</a>
+		* <a id="94h" href="#94">solo practice ("main protocol")</a>
 			* <a id="95h" href="#95">preliminary/auxiliary practices</a>
-			* <a id="96h" href="#96">main practice</a>
+			* <a id="96h" href="#96">main practice(s)</a>
 				* <a id="97h" href="#97">introduction</a>
 				* <a id="98h" href="#98">practices</a>
 					* <a id="99h" href="#99">p0</a>
@@ -309,7 +309,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="163h" href="#163">eternity, suffering, death</a>
 		* <a id="163ah" href="#163a">surface areas and the radically personal (draft)</a>
 	* <a id="164h" href="#164">subtle interaction</a>
-		* <a id="165h" href="#165">"psychic" and "supernatural" stuff: what/how/how-not [draft]</a>
+		* <a id="165h" href="#165">"psychic" and "supernatural" stuff; what/how/how-not [draft]</a>
 		* <a id="166h" href="#166">self and other; good and bad [draft]</a>
 		* <a id="167h" href="#167">prenatal experiences</a>
 		* <a id="168h" href="#168">direct and indirect people and group stuff</a>
@@ -318,7 +318,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="169bh" href="#169b">on parts, demons, egregores</a>
 		* <a id="169ch" href="#169c">axes of individuation with relation to value judgments (transcript)</a>
 	* <a id="170h" href="#170">civilizational stuff</a>
-		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method</a>
+		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method [draft]</a>
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
 		* <a id="173h" href="#173">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
 	* <a id="192ah" href="#192a">mark's approximate practice summary highlights</a>
@@ -354,7 +354,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 [<a href="#12h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="14"></span> ***Document-level meta-warning:***
+# <span id="14"></span> document-level meta-warning:
 
 [meta-meta note: I want to acknowledge that this document is sort of accumulating warning after warning, which are sort of epicycles on epicycles on epicycles at this point. They’re responding to a twist in the document. And that twist needs to be eventually be untwisted. There’s like (a) an absence or a "not" that needs to be rotated around into (b) a "presence"--from "not this" to "yes that." From FUD to concretes.]
 
@@ -414,7 +414,7 @@ The verbose nuance, and many qualifiers, and qualifiers on qualifiers, and long 
 
 [<a href="#14h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="15"></span> ***Epistemic status disclaimer:***
+# <span id="15"></span> epistemic status disclaimer:
 
 I make many bold assertions in this document, and sometimes I use words like usually, often, etc., that may seem to imply I’m working from a large dataset. Please understand that the protocol has been most heavily tested by me, with a small [though steadily growing, now] additional number of people who are using the protocol either heavily or at least semi-consistently. More and more people are trying this thing out as it becomes more widely known. But, we don’t have a lot of data, and, when I make bold claims, I’m extrapolating from everything I know, which will at minimum be many, many things adjacent to the protocol but not necessarily derived from empirical use of the protocol by other people, and in a small number of cases, even myself. But, for what it’s worth, I eat my own dog food as it were. The protocol has been my sole transformative practice for thousands of hours, and I’ve tried extensively to suss out all former prerequisites and to incorporate them into the practice. And I’m tracking some of the users very carefully. I currently believe other people besides myself can use this thing to take themselves all the way.
 
@@ -593,7 +593,7 @@ For the record, the blowing stuff up approach was really fine for me for a long 
 
 [<a href="#17h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="18"></span> an exoteric doctrine: (v0.2)
+# <span id="18"></span> an exoteric doctrine (v0.2):
 
 [Note, immediately below, it might seems like "nebulosity" or "emptiness" (or "noneternalism") isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase. Also see section: <a href="#158da1">far reaches of meditation</a>]
 
@@ -742,7 +742,7 @@ I'll finally add that this document aspires to be more and more radically comple
 
 [<a href="#20h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="21"></span> goal: (draft)
+# <span id="21"></span> goal (draft):
 
 The goal of the practice is to have a good life, in the most broad and ordinary sense, on your terms, in your words, in your frame, or in no frame. That might look still, quiet, and intimate. That might look big and beautiful. (That might or might not include a good death.) That might look superficially normative and be quite nonnormative under the hood and in the cracks. Or that might quite normative in lots of ways. But the important thing is that it is good for and everyone you care about (which might be no one, everyone, etc.). It might end too soon or go on too long or who knows. In some sense you might fail: Maybe you or people you care about will get hit by a bus, a heart attack, a meteor, or a nuclear war. But the goal is to have a good (peaceful, interesting, exciting, fun, intimate, quiet, safe, stable, normal, extraordinary) life. That’s the point of all of this. (Asymptotically, nonmonotonically approaching self-perfection might be an interesting, fun, mediately traumatizing, opportunity-costly, incidental side effect.)
 
@@ -835,7 +835,7 @@ And/but, I/we could be wrong about risks and rewards, which I why I’m engaging
 
 [<a href="#21h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="22"></span> end state: (draft!)
+# <span id="22"></span> end state (draft!):
 
 The end state is arrived at asymptotically. There’s always room for improvement because the world keeps changing. The journey will often be nonmonotonic, too.
 
@@ -893,7 +893,7 @@ There is no end-state, though. Eventually you perhaps become the practice and it
 
 [<a href="#22h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="23"></span>no fixed conceptualized goal or end state part one ("goodness"):
+# <span id="23"></span> no fixed conceptualized goal or end state part one ("goodness"):
 
 [Originally published as: "Post-conceptual meta-goodness and changing in the deepest of ways"]
 
@@ -1515,7 +1515,7 @@ But you may end up with a seamlessly satisfying life.
 
 [<a href="#28h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="29"></span> other practices: (draft)
+# <span id="29"></span> other practices (draft):
 
 If you have the time and money, I don’t know, maybe find a good therapist (one in 1000-10,000), go get therapy or psychoanalysis.
 
@@ -1739,7 +1739,7 @@ Generally speaking, for serious meditators, there are very quickly diminishing r
 
 [<a href="#39h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="40"></span> part 8: witch hunts, vulnerabilitiy, contagion, tragedy of transformation, community decompensation:
+# <span id="40"></span> part 8: witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation:
 
 It can be hard to assign blame and decide what to do. We all can have layered material that can be vulnerable in idiosyncratic ways. Someone can have a sex or revenge fantasy that they’re barely broadcasting, that wouldn’t affect 95% of people. But, when you’re in a room with them, it does awful stuff to your system. So who’s at fault? In this case mostly nobody, but there’s still the issue that you can’t be in a room with them. It might be both people’s responsibility to change. The person with the fantasy to figure out how it’s bleeding into the world a little bit. And you to figure out why it’s affecting you. But, for one or both of you, that could be hundreds of hours of work (though which will produce all sorts of collateral positive effects along the way), and one or both of you might not currently be systematic meditators.
 
@@ -1777,7 +1777,7 @@ You can intend to know exactly what’s going on. And you can intend to have a s
 
 [<a href="#41h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="42"></span> part 10: the late-stage meditator in community
+# <span id="42"></span> part 10: the late-stage meditator in community:
 
 People often become more sensitive and more vulnerable at first, possibly for months or years. But eventually...
 
@@ -1886,7 +1886,7 @@ Kramer, Joel, and Diana Alstad. The guru papers: Masks of authoritarian power. N
 
 [<a href="#44h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="45"></span> part 13: incomplete list of relatively succinct concepts/definitions
+# <span id="45"></span> part 13: incomplete list of relatively succinct concepts/definitions:
 
 Of course there’s many ways to use the words below! The defintions given are partial, flawed, and idiosyncratic.
 
@@ -2149,7 +2149,7 @@ auto-commentary from an online forum / email list:
 
 [<a href="#54h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="55"></span> joy: (stub)
+# <span id="55"></span> joy (stub):
 
 safety = resolution of problems + mind autonomy  
 safety + creativity = joy  
@@ -2505,7 +2505,7 @@ If you start inclining towards the very faintest beginnings of crippling muscle 
 
 [<a href="#65h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="66"></span> the end of your world: (after adyashanti, maybe?)
+# <span id="66"></span> the end of your world (after adyashanti, maybe?):
 
 Along with that extreme skill and extreme standards, there’s also something needed like courage or bravery.
 
@@ -3052,7 +3052,7 @@ If it’s hard to "sit down to meditate" or meditation has lately been "immediat
 
 [<a href="#75h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="76"></span> posture: (section needs editing)
+# <span id="76"></span> posture (section needs editing):
 
 You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for "progress." It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking (while "meditating-meditating," but see below) and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket(s) or no blanket(s), sleep mask or pitch black room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
 
@@ -3799,7 +3799,7 @@ Notes: how/&#8203;manner/&#8203;way
 
 [<a href="#91h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="92"></span> **collaborator formulation 1: (mh)**
+# <span id="92"></span> collaborator formulation 1 (mh):
 
 so, a quick rephrase of the meta protocol:
 
@@ -3847,7 +3847,7 @@ As with the main practice, let go, hold it loosely, experiment; don’t prematur
 
 [<a href="#93h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="94"></span> solo practice: ("main protocol")
+# <span id="94"></span> solo practice ("main protocol"):
 
 [This (super)section intentionally left (almost) blank. Scroll down for the contentful subsections!]
 
@@ -4004,7 +4004,9 @@ The current renderings of the main practices are below.
 
 [<a href="#99h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="100"></span> p1: [old names: Elemental Analysis, Comprehensive Elemental Analysis]
+# <span id="100"></span> p1:
+
+[old names: Elemental Analysis, Comprehensive Elemental Analysis]
 
 (1) Incline towards producing one of
 * (1a) a logical argument/&#8203;deduction/&#8203;derivation (standalone or possibly including a narrativized explanation), [What implies/&#8203;entails this/&#8203;X? What does X/&#8203;this imply/&#8203;entail? Why X? What is the reason for X? What follows from X? X=?]
@@ -4991,7 +4993,7 @@ Finally, all the above is the canonical, main practice. And/but, you can also tr
 
 [<a href="#108h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="109"></span> p10: [experimental]
+# <span id="109"></span> p10 [experimental]:
 
 This practice might be called "minimal unit partially ordered imaginative/generative concrete planning." That is, in some sense, it is a planning practice.
 
@@ -5214,7 +5216,9 @@ Notes:
 
 [<a href="#115h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="116"></span> formulation 1 (including Many Protocol): (strategy flavored; mutual epistemics flavored)
+# <span id="116"></span> formulation 1 (including Many Protocol):
+
+[(strategy flavored; mutual epistemics flavored):]
 
 A move M could be in the context of conversational or other local, real time interaction. Or a move M could be composite and part of a long-term plan. So, a move could be right here and now (or soon), taking place, once initiated, in a single moment or across a small number of contiguous moments, or a move can be planned for future, as part of a global strategy, or anywhere in between. And the number of people considered can be from n=2 to n=billions.
 
@@ -5365,7 +5369,9 @@ on the path = ability and propensity to self-transform, crank, bootstrap no matt
 
 [<a href="#116h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="117"></span> formulation 2: (persuasion flavored)
+# <span id="117"></span> formulation 2:
+
+[(persuasion flavored)]
 
 * For (A), (B), (C) and (D) is that relevant ability of mine veridical and veridically obvious? [If not can I veridically and veridically obviously recursively gain the ability?]
 * And, for (A), (B), (C) and (D) is exercising that relevant ability of mine sufficiently low-cost in itself?
@@ -5387,13 +5393,17 @@ Good for everyone and everything. Strategically helping; recognizably good casca
 
 [<a href="#117h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="118"></span> formulation 3: (after Leibniz)
+# <span id="118"></span> formulation 3:
+
+[(after Leibniz)]
 
 What is the best of all possible worlds? How do I/you know? What does this imply for my action?
 
 [<a href="#118h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="119"></span> formulation 4: (after Kant’s Categorical Imperative)
+# <span id="119"></span> formulation 4:
+
+[(after Kant’s Categorical Imperative)]
 
 What would anyone ideally do in my exact situation?
 
@@ -5407,7 +5417,9 @@ If a random person were perfectly airdropped into my exact being and situation, 
 
 [<a href="#119h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="120"></span> formulation 5: (mutual knowledge)
+# <span id="120"></span> formulation 5:
+
+[(mutual knowledge)]
 
 * = know/believe/think/imagine/expect/predict/anticipate/retrospectively interpret
 
@@ -5759,7 +5771,7 @@ Note on needle-threading or threading the needle: One can use needle-threading a
 
 
 
-# <span id="132a"></span>a brief note on effort:
+# <span id="132a"></span> a brief note on effort:
 
 Some traditions, as almost the whole of their entire instructions, say something like "incline towards non-effort, effortlessness, even including this inclining."
 
@@ -6062,7 +6074,7 @@ And, we can be we.
 
 [<a href="#142h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="143"></span> states: (draft)
+# <span id="143"></span> states (draft):
 
 * Normal waking ommiarousal; questing emotions
 * Rest/digest laze around low vigilance low arousal
@@ -6078,7 +6090,9 @@ And, we can be we.
 
 [<a href="#143h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="144"></span> invitation of acceptance: (so-called "Litany of Gendlin")
+# <span id="144"></span> invitation of acceptance:
+
+[(so-called "Litany of Gendlin")]
 
 What is true is already so.  
 Owning up to it doesn't make it worse.  
@@ -6112,7 +6126,7 @@ Consider a multivitamin in powder form or in many pills per day, so you can titr
 
 [<a href="#145h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="146"></span> historical and contemporary difficulties and uncertainties of life: [experimental section]
+# <span id="146"></span> historical and contemporary difficulties and uncertainties of life [experimental section]:
 
 Warning: This section is experimental and should be approached with caution if you have live existential/cosmological/eschatological/metaphysical issues or live mania, paranoia, or possibly other things.
 
@@ -8485,7 +8499,7 @@ And, so, anyway, in a cautious and roundabout way, the psychological and emotion
 
 [<a href="#164h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="165"></span>  "psychic" and "supernatural" stuff: what/how/how-not: [draft]
+# <span id="165"></span>  "psychic" and "supernatural" stuff; what/how/how-not [draft]:
 
 This is a section about:
 
@@ -8690,7 +8704,7 @@ https://en.wikipedia.org/wiki/Distributed_cognition
 
 [<a href="#165h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="166"></span> self and other; good and bad:
+# <span id="166"></span> self and other; good and bad [draft]:
 
 [please read the section, "psychic" and "supernatural" stuff: what/how/how-not, before this section]
 
@@ -9655,7 +9669,7 @@ One step at a time, one mind moment at a time.
 [<a href="#173h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="192a"></span> mark's approximate practice summary highlights
+# <span id="192a"></span> mark's approximate practice summary highlights:
 
 (when I say "less than X hours," below (e.g. <20 hours) it's probably wayyyyyy less. I tried to do like a 90-90% confidence absolute ceiling)
 
@@ -9850,7 +9864,7 @@ Finally, to emphasize, "pixel perfect" is an analogy for something that’s stil
 
 [<a href="#176h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="177"></span> guided on-ramp for main practice p2: [draft]
+# <span id="177"></span> guided on-ramp for main practice p2 [draft]:
 
 (a) let bodymind wander [baseline, glue that can hold it all together] 30s-5 min
 
@@ -9964,7 +9978,7 @@ Are you increasing technical debt or paying it off in your practice? How can you
 
 [<a href="#181h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="182"></span> a spectulative comment on language learning:
+# <span id="182"></span> a speculative comment on language learning:
 
 [Originally published: https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/#comment-1962 (Last accessed: 2020-09-05)]
 
@@ -10146,7 +10160,7 @@ And this is part of why there can be claims of effortless complexity, while at t
 [<a href="#184h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="184a"></span> the scale analogy: [draft]
+# <span id="184a"></span> the scale analogy [draft]:
 
 There's a way in which the bodymind is like a "scale," or a "balance," an old-timey or ancient one, like the one Lady Justice is holding (lustitia, Justitia, Dike). There's two plates or trays, and you put something (or a bunch of somethings) with an unknown weight/&#8203;mass/&#8203;density/&#8203;something, on one side, and you put something known, on the other side. And you manipulate one or both sides until the scales balance. Then you know something about the previously unknown side.
 
@@ -10526,7 +10540,7 @@ Further reading:
 
 [<a href="#189h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="190"></span> in-relationship foreclosing legacy of past interaction: [stub]
+# <span id="190"></span> in-relationship foreclosing legacy of past interaction [stub]:
 
 Past interactions in relationship preclude and foreclose types of interactions and concrete interactions in the future, unless actions are taken to (re(?)-)open those possibilities. Meta-communication is a route, that complements other routes, to that (re(?)-)opening.
 
@@ -10538,7 +10552,7 @@ Past interactions in relationship preclude and foreclose types of interactions a
 
 [<a href="#191h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="192"></span> randomness/arbitrariness, unpunished, as necessary data: [not yet written]
+# <span id="192"></span> randomness/arbitrariness, unpunished, as necessary data [not yet written]:
 
 An organism needs to be able to "randomly/arbitrary" experiment in order to generate data that becomes an input into learning.
 
