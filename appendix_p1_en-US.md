@@ -279,6 +279,9 @@ n/a
 			- once
 			- once before
 			- one more time
+			- especially
+			- withstanding
+			- notwithstanding
 		- untitled
 			- similar
 			- same

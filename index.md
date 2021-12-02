@@ -258,6 +258,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="136h" href="#136">how bad does it have to get?</a>
 	* <a id="136ah" href="#136a">regarding "better not to start; if you start better to finish" (draft)</a>
 	* <a id="137h" href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>
+	* <a id="137ah" href="#137a">x-desires, fulfillment, transformation, discussion (stub)</a>
 	* <a id="138h" href="#138">on falling asleep</a>
 	* <a id="139h" href="#139">a gentle onramp</a>
 	* <a id="140h" href="#140">good(ness) bad(ness)</a>
@@ -295,6 +296,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158bah" href="#158ba">inner peace placeholder</a>
 	* <a id="158cah" href="#158ca">love placeholder</a>
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
+	* <a id="158da1ah" href="#158da1a">naturalization</a>
 	* <a id="158da1h" href="#158da1">far reaches of meditation</a>
 	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#158fa">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
@@ -5976,6 +5978,14 @@ If there is an impulse/urge to act out something sexual, to actualize something,
 
 [<a href="#137h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="137a"></span> x-desires, fulfillment, transformation, discussion (stub):
+
+This is the only sentence in this stub section.
+
+[<a href="#137ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 # <span id="138"></span> on falling asleep:
 
 Sometimes it’s good to use postures such as sitting without back support or standing, in order to avoid falling asleep (see the posture section for more postures and thoughts on postures). But, it can be extremely profitable to meditate while curled up comfortably in bed both while falling asleep for the night, right upon waking up (without even opening one’s eyes), and also during the day. One can drift in and out of meditation, sleep, and reverie (sleep and reverie could be conceived as falling under the surrender portion of p2 but don’t have to be.).
@@ -7678,6 +7688,47 @@ This section is currently a placeholder/stub.
 
 [<a href="#158dah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="158da1a"></span> naturalization:
+
+[some of these distinctions and some of these terms have some partial basis in conversations with other people]
+
+Not to overly or inapproriately reify beliefs, "models," or "representations," but one could make distinctions between multiple levels of "belief":
+
+* conversational/&#8203;/social/&#8203;discourse models
+* "thought models"
+* "action models"
+
+At least the first two both have implicit and explicit components, toy-model-wise.
+
+Conversational models are some mixture of what we believe/&#8203;know (or believe we believe) and what we say, the language games that allow us to befriend, relate, work, play, etc., the entire social world. These are arguably not really 'beliefs", but importantly, there is overlap with all of this and our "deep-down sense" of what's really going to happen and what we'll "really do" when faced with various circumstances and challenges (cf. "action models"). But our conversational models and "action models" aren't the same thing, at least in the relevant pragmatic sense we're using, here. (And also there's ways in which social reality isn't other than just "physical" reality and reality-reality, to the extent that it's all empty and groundless and nondual, as you'll likely have direct and palpable knowledge of, at some point: "Nothing outside of this!" as sort of distinct from but related to "just this!".)
+
+Thought models are sort of "what we believe we believe," what we tell ourselves, and so on. This is sort of an undermining frame. It's important to recognize that, in some non-trivial and non-facile way, we're doing our best and it's ok to believe what we currently and already believe at any given time. It's ok to just go with that, including our second guessing and anything. Anyway, there a sense in which there can be layers and layers of thought models all interacting though we're sort of only aware of the top level at any given time, but that top level is sort of constituted out of the levels below it. (There can also be different aspects of a person that sort of come to the fore at different times and in different contexts, sometimes subtly and sometimes to the point of being "fragmented" or dissociated or just manifold. Sometimes this is adaptive or it used to be.) Thought models will have some relation to conversational models; there will be overlap, but they aren't the same thing and they are also different from "action models."
+
+Finally, there are action models. These are sort of in some ways only known through "revelation," what we "actually do" in a given situation at a given time. And they can be explored through the use of counterfactuals--what *would* you really do, given such and such situation. That counterfactual exploration can be yield more and less accurate insights, all things depending. Action models shade into the very being and seeming of the world, so of course there's some sense in which we sort of rest in our action models, *as* our action models, and/&#8203;but/&#8203;also they are almost or entirely coextensive with the ways in which we're already in action, already acting, already responding, before we even realize we're in motion. So there's both a sense of "of course we can know ourselves" (at least ever better and better, astonishingly so), in terms of self-legible, coherent, cumulative behavior, and also a sense in which action emerges as profitable surrender to spontaneous, holy mystery. "Acting directly from action models," loosely speaking, isn't always accompanied by effortlessness, to be sure, but when action is effortless and decisive and spontaneous then "these" are from where we're most deeply acting, what we're acting *as*, at that time, as it were.
+
+It isn't necessarily the case, but because it's utlimately more elegant and efficient (all things being equal, in a vacuum), meditation, over thousands of hours, tends to bring action models, thought models, and conversational models into alignment, to reduce any separation or contradiction or hypocrisy or etc. between them. (And any contradictions within each level tend to become more and more reduced as well, reduced synchronous contention and increased intertemporal-consistency.) Additionally, all things being equal, a person will tend to proactively rearrange life and world to afford and reward the alignment between all these different levels of thought and "belief." That is, we may seek a life that allows us to act with integrity, in part because of it's non-trivial relationship with physical health and the experience of wellbeing.
+
+There's a sense in which discourse and thought models sort of, over time, ultimately, get "reformatted" or "rewritten" in the "language" of action models. We still speak, write, and think, but there's a sense in which all these actions and "mental" actions and behaviors more directly come directly [sic] from a deeper place, more directly out of the seeming and being and (provisional/&#8203;empty/&#8203;groundless/&#8203;inchoate) "just is-ness" of the "action" level.
+
+This reformatting or rewriting could be called "naturalization." There's *data* in those action and thought models, there learning and enactment is correlated with reality, and it's like that data gets drained out, error-checked, rewritten, and fed into more direct action models. Sometimes one can almost feel it literally moving from the head, down the neck, and down into the spine. (That's not the only route, though, and there's neurophysiological reasons why it can sometimes feel like this. Also, the head is part of the body, too! Rebalancing, evenly redistributing, more than everything traveling downward.)
+
+If someone is having trouble "acting," or is vascillating or stuck in their heads or etc., it may mean some knowledge is stuck in the unnaturalized state, as it were. Just because something is head-y or concept-y doesn't necessarily mean it's not naturalized--concepts can be "aligned all the way down" into action models--but it's a bit more likely that something is not naturalized.
+
+I don't want to reify any of this too much. There's a sense in which these distinctions are artificial and can be misleading, but there's also senses in which there's a there, there, a palpable process, a real thing, as one processes more and more "technical debt."
+
+Early or late in the meditation game one might be experiencing an expanse of phenomenology that's somehow meaning-laden and purports to represent the world, but you might (suddenly) have a visceral sense that "I can't act from that, there's no there, there, it doesn't connect," something. There's many different ways that you might have a sense like that.
+
+There might be a loose dependency ordering:
+
+* fully naturalized models
+* fully paid off technical debt
+* unified will, free of contradiction
+* bodymind fully deconditioned (and reconditioned)
+
+Each former sort of needs to happen before the latter, and/&#8203;but all of them are sort of asymptotic and shade into each other and are artificial distinctions. And also they are all sort of toy models that don't perfectly hew to the territory, as it were, and will in some ways be misleading with respect to doing the thing. 
+
+[<a href="#158da1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158da1"></span> far reaches of meditation:
