@@ -258,7 +258,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="136h" href="#136">how bad does it have to get?</a>
 	* <a id="136ah" href="#136a">regarding "better not to start; if you start better to finish" (draft)</a>
 	* <a id="137h" href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>
-	* <a id="137ah" href="#137a">x-desires, fulfillment, transformation, discussion (stub)</a>
+	* <a id="137ah" href="#137a">x-desires, fulfillment, transformation, discussion</a>
 	* <a id="138h" href="#138">on falling asleep</a>
 	* <a id="139h" href="#139">a gentle onramp</a>
 	* <a id="140h" href="#140">good(ness) bad(ness)</a>
@@ -5979,9 +5979,65 @@ If there is an impulse/urge to act out something sexual, to actualize something,
 [<a href="#137h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="137a"></span> x-desires, fulfillment, transformation, discussion (stub):
+# <span id="137a"></span> x-desires, fulfillment, transformation, discussion:
 
-This is the only sentence in this stub section.
+Elsewhere, I say that "indulgence plus meditation," when possible, is the fastest way to transform desire. (This is pre-supposing that there's something "bad"(?!) about some particular desire. More on that later.)
+
+I say that indulgence makes sense when doing so isn't prohibitively (or even a little, depending) too dangerous, too financially costly, too opportunity costly.
+
+But what about desires for things that are (endorsedly or dangerously) illegal, non-reifiedly unethical/&#8203;immoral, or otherwise physically or emotionally violent or coercive?
+
+(Let's call such desires, for lack of a better term, "X-desires.")
+
+Is there still something that can be done, somehow, with respect to indulgence?
+
+Let's say there's "levels of fulfillability":
+
+* (fulfillability level/&#8203;type 1) Some X-desires can be temporarily satisfied (or even stably fulfilled or transformed) by just fantasizing, writing, or talking about them (when someone won't mistakenly believe that someone is at risk of harm). Note: This doesn't necessarily mean that it's easy! just, that it's possible, in principle)
+* (fulfillability level/&#8203;type 2) Some X-desires can be temporarily satisfied (or even stably fulfilled or transformed) by indulging in explicit fantasy/simulated scenarios with other informed and consenting adults (when possible--it sometimes might be prohibitively difficult to set up such scenarios).
+* ([non-]fulfillability level/&#8203;type 3) Some X-desires cannot be directly satisfied by talking or in-person fantasy, etc. You or a part of you just wants the real thing, no matter how illegal, immoral, "soul-corrosive," etc.
+
+Often, a desire is "composite" and is composed partially of, say, non-X-desires and sometimes also X-desires. Also, often a desire can be partially satisfied by a mixture of fulfillment types 1 and 2.
+
+So, if a person:
+
+(a1) indulges the non-X parts of their desires, and (a2) indulges only available fulfilability of type 1 and type 2, for the relevant X parts of their desires, and (a3) refrains from fulfilability type 3 of X-desires, and
+(b) gently inclines towards total self-acceptance and generally works their preferred meditation system (and all other resources that are available to them)
+
+then (a) and (b), working together, possibly taking years, will lead to the transformation and evaporation of X-desires--or, rather, desires that one chooses to never actualize--sort of semi-indirectly and from the outside.
+
+That is, eventually, all things being equal, a person will no longer have those X-desires.
+
+Stated a different way, even if you have a seeming unshakeable and hardline desire, whether pretty innocent (but problematic) or a full-blown X-desire, you can come to no longer have that desire even without ever having directly fulfilled it, even with the principle of "redo-to-undo," withstanding (and even when you've previously "done," in the redo-to-undo sense. There will ultimately be enough "replay" even if you never directly re-actualize a past behavior).
+
+Now, four important points:
+
+**First**, it's ok to scenario-craft and "lawyer" it out, in your head! (This sort of heavily mixes with fulfilability types 1 and 2.) And so this can be both for fantasy indulgence, which may yield considerable satisfaction, but also to try mixing fantasy and real-life considerations, in various combinations, as a problem-solving strategy, to see if you can find your way to something being not actually an "X-desire" at all (as we've defined it, here). Maybe you're wrong about it being an X-desire--maybe it's actually safe, ethical, legal, whatever, as you globally understand such things, not to reify "globally".
+
+**Second** (and really this is one of the most important points and maybe should have gone last) you may (likely for lots of things) find that having or fulfilling a particular desire just ok, or that it's been ok all along, or that you can arrange self, life, and/or world for it to be truly, stably good. Maybe it's ok to write that novel, or the weird sex thing is both fine and even wholesome, and you'd been looking at everything completely wrong. Maybe writing that novel and doing that weird sex thing aren't hurting anyone and, not only that, but will save the world, or whatever, etc., etc.
+
+**Third**, for completeness, as I've mentioned elsewhere in the document, it's possible for even unrealized wants, desires, urges, impulses, etc. to somehow hurt people around you. This is sort of the "subtle interaction" domain. It's possible. It's something to keep in mind. But it's an edge case; it's unlikely, all things being equal.
+
+**Fourth**, you might in fact be concerned that you'll hurt someone through actualization of an X-desire, and that thinking or feeling about X-desires might increase the likelihood of that. In these cases, one thing you might try to do is make distinctions between all of these:
+
+* (a) wants and desires
+* (b) urges and impulses
+* (c) intentions, plans
+* (d) behavior/acts (past and future)
+
+Modulo "subtle interaction," only (d) is the problematic one--except to the degre that exploring (a), (b), (c) might make (d) more likely. So you might then carefully meta-explore the degree to which exploring (a),(b), and (c) does or don't actually make (d) more likely. And then only do any of what is both helpful while erring on the side of not increasing the chance of (d).
+
+Of course, talk to someone if your credence of risk of harm to self or others, absent that talking, crosses a generously cautious threshold. And of course you can talk to someone long before then, if it seems like it might be helpful. (But, be scrupulously careful that someone doesn't mistakenly think you're a risk to self or others in the case that you're definitely not. This could be expanded on, a lot.)
+
+With some interlocutors, it's possible to choose different levels of detail and abstraction, for ease and comfort with discussion. You might ultimately talk straightforwardly, concretely, and plainly with someone, but you can also often talk abstractly or vaguely, or even metaphorically, but potentially still very productively, while maintaining select privacy. You can sort of meta work that out with some people, on the fly.
+
+In conclusion, X-desires aren't the end of the world or a meditation or self-transformation showstopper.
+
+The reason for all this odd lawyering, hairsplitting, and even any brinksmanship (erring on side of safety) is because it's so important to be able to think and feel within oneself, if and when it's safe to do so, which it usually is. And sometimes it's really, really helpful to talk with other people, too, though it's not critically necessary, in principle.
+
+And sometimes distinctions like all the above can facilitate all this.
+
+In any case, too, it's also very possible that "safe-to-look, then look," etc., can nebulously, fluidly happen just fine without anything like all the stuff above. This is just one optional way to optionally schema it all out. [sic]
 
 [<a href="#137ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
