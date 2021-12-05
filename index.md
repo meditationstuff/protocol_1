@@ -273,6 +273,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="147bh" href="#147b">integration, settling, unsettling, resettling, locality, globality, unity (draft)</a>
 	* <a id="148h" href="#148">last gasps</a>
 	* <a id="148ah" href="#148a">involuntary movement, semi-involuntary movement, kriyas</a>
+	* <a id="148bh" href="#148b">kundalini</a>
 	* <a id="149h" href="#149">being (not) ok tangles</a>
 	* <a id="150h" href="#150">brief note on space and sensations</a>
 	* <a id="151h" href="#151">brief, loosely related notes on unknotting, untwisting, untangling</a>
@@ -6401,6 +6402,29 @@ breath
 https://meditationbook.page/#77
 
 [<a href="#148ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <span id="148b"></span> kundalini:
+
+Through movement, postures, pressure points, vocalization, and/&#8203;or breathing, it can be possible to cause the experience of strong sensations in any or all of the perineum, lower abdomen, spine, crown of the head, and brow. Different people might experience this in partial or more complete and stereotyped ways. I personally haven't experienced this, and I tend to think it's a pretty extreme out-of-ordering. In some practice systems and supportive contexts it might be fine, though. I would loosely model it as placing a lot of "pressure" on the system to change, or as creativng a very strong sensational feedback loop. Though, if this had accidentally occurred, for me, I would have used it as feedback loop in the sense that I would heuristically treated a reduction of sensation as more likely to be on the right track, all things being equal. As with muscle tension (described elsewhere in this document) or anything, taking possibly stereotyped action, to narrowly increase the sign of any particular sensation or set of sensations, or as part of any single narrow feedback loop, can potentially take slack out the system in a way that can make it harder to experimentally navigate or backtrack and thereby potentially significantly increase meditation timelines rather than shortening them.
+
+See also: 
+
+ordering matters / order matters  
+https://meditationbook.page/#129a
+
+"subtle energy" and "energy work" and mental models  
+https://meditationbook.page/#80
+
+a brief and incomplete theory of muscle tension risk in meditation
+https://meditationbook.page/#147
+
+breath  
+https://meditationbook.page/#77
+
+involuntary movement, semi-involuntary movement, kriyas  
+https://meditationbook.page/#148a
+
+[<a href="#148bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="149"></span> being (not) ok tangles:
