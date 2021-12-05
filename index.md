@@ -272,6 +272,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="147ah" href="#147a">when things get worse again--burn-off, integration, suppression, unsuppression</a>
 	* <a id="147bh" href="#147b">integration, settling, unsettling, resettling, locality, globality, unity (draft)</a>
 	* <a id="148h" href="#148">last gasps</a>
+	* <a id="148ah" href="#148a">involuntary movement, semi-involuntary movement, kriyas</a>
 	* <a id="149h" href="#149">being (not) ok tangles</a>
 	* <a id="150h" href="#150">brief note on space and sensations</a>
 	* <a id="151h" href="#151">brief, loosely related notes on unknotting, untwisting, untangling</a>
@@ -6346,8 +6347,61 @@ Sometimes "99% progress" can mean, unfortunately, "120% [sic] problematic reacti
 
 But if one realizes that this can be a thing, one can be more careful about the possibility of last gasps (though usually one shouldn't avoid triggering contexts entirely/completely--they help with processing), and one can be less discouraged (or not discouraged) if a last gasp still unfortunately occurs, in a problematic way.
 
-
 [<a href="#148h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="148a"></span> involuntary movement, semi-involuntary movement, kriyas:
+
+In meditation, sometimes one might go through periods of having involuntary movements (as distinct from sort of finding oneself sort of involuntarily inclining into different postures or body positions, and also as distinct from muscle tension, but all of which having pretty similar deep causes).
+
+Involuntary movement can be arm movements, hand movements, head movements, shoulder movements, full body movements like arching of the back, eye movements, pretty much anything. Sometimes vocalization is a thing. Sometimes it's repetitive rocking or turning, sometimes it's more isolated twitching or jerking.
+
+Sometimes it can catch one by surprise and so be quite involuntary. Other times, because it's more rhythmic, one can incline towards gently suppressing it, but as soon as one sort of semi-forgets about it, and attention goes a bit elsewhere, the movement will start up again.
+
+As with lots of phenomena, questions that come up a lot with involuntary movement are, (a) is this a thing (for other people or in general), (b) what's causing this, and (c) is it good or bad? (or, is it an indicator of progress?).
+
+We'll mostly only focus on the latter question, here, though the other questions may be partially answered somewhat incidentally.
+
+As an answer to "is it good or bad," as a general theme in this book, the answer, here, too, is, it depends.
+
+(a) Sometimes movement is part of "redo to undo," and so it's "good." This can include some repetitive-seeming movements.
+
+(b) Sometimes movement that is sort of repetitive means something is stuck, like the body is trying to "compute out" something with movement but it can't quite complete the calculation. In this case one might consider this "neutral" or "bad." (As per usual, big scare quotes on "bad.")
+
+(c) Sometimes movement, repetative or otherwise is because other parts of the system are getting "squeezed" and so the movement is sort of "pressure release." I think in these cases, this is more likely to indicate entrenchment/burn-in either locally or elsewhere, and so this is "bad."
+
+(d) Sometimes movement that looks a lot like (previous) (b) or (c) is actually (a). That is, one starts out with movement that's stuck or entrenching, but, in seconds, minutes, hours, or months, the system figures out how that previous movement was counterproductive, and so repeats it to undo whatever the suboptimality was.
+
+But, as per usual, it can be hard to tell which of these is going on at any given time, in part because it can often be a mixture of one or more, including all four, going on at once.
+
+Do note, not all suboptimal movement needs to overtly redone as per redo to unto. There can be "liminal redo to undo" even when movements were very large and overt. That said, some overt movement, for some people, will eventually need to repeat itself, intermittently over weeks or months, at some point during the three to five to seven to ten to twenty to thirty years of the path (depending on how much time or resources a person has to meditate and how amenable one's system is to high temporal density practice, on average, etc.).
+
+So, in general, if someone is experiencing a tiny bit of movement, fairly regularly, then this is a weak positive lead indicator.
+
+If someone is experiencing a lot of movement early-to-intermediate, I consider this a weak indicator that someone might benefit from exploration of their models of practice.
+
+If someone is experiencing a lot of "high-amplitude" movement "late" in their practice, in a meditation system that doesn't have something vaguely like global wayfinding, I consider this maybe a medium indicator that their practice took a wrong turn somewhere and they would have a decently long way to go, still.
+
+If someone is experiencing a lot of low-amplitude movement (and maybe a tiny bit of high-amplitude movement); (especially that maybe keeps coming back but is interleaved with lots of other things), medium-to-late in practice, in a meditation system that has something vaguely or explicitly like global wayfinding, I would consider that a neutral-to-positive indicator, and first-pass assume that their practice was going fine, and I wouldn't be especially worried or find it remarkable or even notice, at all, if they reported no movement.
+
+In any case, there are exceptions to all of this. It'll depend very much on the contingencies of that person's system.
+
+In general, over time, nonmonotonically, movement becomes less and lower amplitude, more shimmery, people general become more still when not overtly moving, though not in a suppress-y way (and, for what it's worth, late stage, at the time of this writing, I change positions all the time, for comfort and self-care, and I jiggle a leg a little bit, or whatever, if I'm a bit too much in caloric surplus).
+
+
+See also: 
+
+"subtle energy" and "energy work" and mental models  
+https://meditationbook.page/#80
+
+a brief and incomplete theory of muscle tension risk in meditation
+https://meditationbook.page/#147
+
+breath  
+https://meditationbook.page/#77
+
+[<a href="#148ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="149"></span> being (not) ok tangles:
 
@@ -6380,6 +6434,9 @@ There are maybe subtle traps in "trying to make space real," "treating space as 
 "Space" and "working with space" can be an excellent metaphor but is maybe not a good basis of practice. But for some people, some of the time, it might be a metaphor that very cleanly gives way to emptiness. It just depends.
 
 And of course try to not to "reify" "reification," "inappropriate reification".....
+
+(All of this pretty much applies to "time", as well.)
+
 
 [See also: https://twitter.com/quotidiania/status/1367900435013644290 [Last accessed: 2021-03-05]]
 
