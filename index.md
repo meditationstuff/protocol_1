@@ -6353,13 +6353,13 @@ But if one realizes that this can be a thing, one can be more careful about the 
 
 # <span id="148a"></span> involuntary movement, semi-involuntary movement, kriyas:
 
-In meditation, sometimes one might go through periods of having involuntary movements (as distinct from sort of finding oneself sort of involuntarily inclining into different postures or body positions, and also as distinct from muscle tension, but all of which having pretty similar deep causes).
+In meditation, sometimes one might go through periods of having involuntary movements (as distinct from sort of finding oneself sort of involuntarily inclining into different postures or body positions, and also as distinct from muscle tension, but/though all of which have pretty similar deep causes).
 
-Involuntary movement can be arm movements, hand movements, head movements, shoulder movements, full body movements like arching of the back, eye movements, pretty much anything. Sometimes vocalization is a thing. Sometimes it's repetitive rocking or turning, sometimes it's more isolated twitching or jerking.
+Involuntary movement can be arm movements, hand movements, head movements, shoulder movements, full body movements like arching of the back, eye movements, pretty much anything. Sometimes vocalization is a thing. Sometimes it's repetitive rocking or turning, sometimes it's more isolated and intermittent twitching or jerking.
 
-Sometimes it can catch one by surprise and so be quite involuntary. Other times, because it's more rhythmic, one can incline towards gently suppressing it, but as soon as one sort of semi-forgets about it, and attention goes a bit elsewhere, the movement will start up again.
+Sometimes it can catch one by surprise and so be quite involuntary. Other times, because it's more rhythmic, one can incline towards gently, experimentally suppressing or quelling it, but as soon as one sort of semi-forgets about it, and attention goes a bit elsewhere, the movement will start up again, for a time.
 
-As with lots of phenomena, questions that come up a lot with involuntary movement are, (a) is this a thing (for other people or in general), (b) what's causing this, and (c) is it good or bad? (or, is it an indicator of progress?).
+As with lots of phenomena, questions that come up a lot with involuntary movement are, (a) is this a thing (for other people or in general)?, (b) what's causing this?, and (c) is it good or bad? (or, is it an indicator of progress?).
 
 We'll mostly only focus on the latter question, here, though the other questions may be partially answered somewhat incidentally.
 
@@ -6367,25 +6367,27 @@ As an answer to "is it good or bad," as a general theme in this book, the answer
 
 (a) Sometimes movement is part of "redo to undo," and so it's "good." This can include some repetitive-seeming movements.
 
-(b) Sometimes movement that is sort of repetitive means something is stuck, like the body is trying to "compute out" something with movement but it can't quite complete the calculation. In this case one might consider this "neutral" or "bad." (As per usual, big scare quotes on "bad.")
+(b) Sometimes movement that is sort of repetitive means something is "stuck," like the body is trying to "compute out" something with movement but it can't quite complete the calculation. In this case one might consider this "neutral" or "bad." (As per usual, big scare quotes on "bad.")
 
-(c) Sometimes movement, repetative or otherwise is because other parts of the system are getting "squeezed" and so the movement is sort of "pressure release." I think in these cases, this is more likely to indicate entrenchment/burn-in either locally or elsewhere, and so this is "bad."
+(c) Sometimes movement, repetitive or otherwise is because other parts of the system are getting "squeezed" and so the movement is sort of "pressure release." I think in these cases, this is more likely to indicate entrenchment/burn-in, or at least loss of slack elsewhere but with a twist still remaining, and so this is "bad."
 
-(d) Sometimes movement that looks a lot like (previous) (b) or (c) is actually (a). That is, one starts out with movement that's stuck or entrenching, but, in seconds, minutes, hours, or months, the system figures out how that previous movement was counterproductive, and so repeats it to undo whatever the suboptimality was.
+(d) Sometimes movement that looks a lot like (previous) (b) or (c) is actually (a). That is, one starts out with movement that's stuck or entrenching, but, in seconds, minutes, hours, or months, the system figures out how that that prior movement was counterproductive, and so repeats it to undo whatever the suboptimality was.
 
 But, as per usual, it can be hard to tell which of these is going on at any given time, in part because it can often be a mixture of one or more, including all four, going on at once.
 
-Do note, not all suboptimal movement needs to overtly redone as per redo to unto. There can be "liminal redo to undo" even when movements were very large and overt. That said, some overt movement, for some people, will eventually need to repeat itself, intermittently over weeks or months, at some point during the three to five to seven to ten to twenty to thirty years of the path (depending on how much time or resources a person has to meditate and how amenable one's system is to high temporal density practice, on average, etc.).
+Do note, not all suboptimal movement needs to overtly redone as per redo to unto. There can be "liminal redo to undo" even when movements were very large and overt. That said, some overt movement, for some people, will eventually need to repeat itself, intermittently over weeks or months, at some point during the three to five to seven to ten to twenty to thirty years of the path (depending on how much time or resources a person has to meditate and how amenable one's system is to high temporal density practice, on average, etc.). Sometimes this is just a little bit and sometimes it's an almost "exhaustive" replay, though not necessarily all at once. It might come and go over months or even years.
 
-So, in general, if someone is experiencing a tiny bit of movement, fairly regularly, then this is a weak positive lead indicator.
+In terms of generalities:
+
+So, in general, maybe, if someone is experiencing a tiny bit of movement, fairly regularly, then this is a weak positive lead indicator.
 
 If someone is experiencing a lot of movement early-to-intermediate, I consider this a weak indicator that someone might benefit from exploration of their models of practice.
 
-If someone is experiencing a lot of "high-amplitude" movement "late" in their practice, in a meditation system that doesn't have something vaguely like global wayfinding, I consider this maybe a medium indicator that their practice took a wrong turn somewhere and they would have a decently long way to go, still.
+If someone is experiencing a lot of "high-amplitude" movement "late" in their practice, in a meditation system that doesn't have something vaguely like global wayfinding, I consider this maybe a medium indicator that their practice took a wrong turn somewhere and they would have a decently long way to go, still (and maybe still  heading partially in the wrong direction with a lot of momentum, as it were--and I'd then also be on the lookout (especially but not assuming it's necessarily definitely there, or anything, and it might not outside-view/&#8203;observationally useful, in any case) for possible behavioral/&#8203;cognitive/&#8203;emotional rigidity or suppression and other issues such as lots of reduced slack). And not to reify or pass judgment on on of this, in a vacuum, all of this subject to outside-view provisionality and the limitations of anemic, vague, or abstract concepts, and, etc.)
 
-If someone is experiencing a lot of low-amplitude movement (and maybe a tiny bit of high-amplitude movement); (especially that maybe keeps coming back but is interleaved with lots of other things), medium-to-late in practice, in a meditation system that has something vaguely or explicitly like global wayfinding, I would consider that a neutral-to-positive indicator, and first-pass assume that their practice was going fine, and I wouldn't be especially worried or find it remarkable or even notice, at all, if they reported no movement.
+If someone is experiencing a lot of low-amplitude movement (and maybe a tiny bit of high-amplitude movement); (especially that maybe keeps coming back but is interleaved with lots of other things), medium-to-late in practice, in a meditation system that has something vaguely or explicitly like global wayfinding, I would consider that a neutral-to-positive indicator, and first-pass assume that their practice was going fine, and I wouldn't be especially worried or find it remarkable or even notice, at all, if they had counterfactually reported no movement.
 
-In any case, there are exceptions to all of this. It'll depend very much on the contingencies of that person's system.
+In any case, there are exceptions to all of this. It'll depend very much on the contingencies of that person's system, including earlier life experiences and the types of practices they might have previously engaged in.
 
 In general, over time, nonmonotonically, movement becomes less and lower amplitude, more shimmery, people general become more still when not overtly moving, though not in a suppress-y way (and, for what it's worth, late stage, at the time of this writing, I change positions all the time, for comfort and self-care, and I jiggle a leg a little bit, or whatever, if I'm a bit too much in caloric surplus).
 
@@ -6406,6 +6408,10 @@ https://meditationbook.page/#77
 # <span id="148b"></span> kundalini:
 
 Through movement, postures, pressure points, vocalization, and/&#8203;or breathing, it can be possible to cause the experience of strong sensations in any or all of the perineum, lower abdomen, spine, crown of the head, and brow. Different people might experience this in partial or more complete and stereotyped ways. I personally haven't experienced this, and I tend to think it's a pretty extreme out-of-ordering. In some practice systems and supportive contexts it might be fine, though. I would loosely model it as placing a lot of "pressure" on the system to change, or as creativng a very strong sensational feedback loop. Though, if this had accidentally occurred, for me, I would have used it as feedback loop in the sense that I would heuristically treated a reduction of sensation as more likely to be on the right track, all things being equal. As with muscle tension (described elsewhere in this document) or anything, taking possibly stereotyped action, to narrowly increase the sign of any particular sensation or set of sensations, or as part of any single narrow feedback loop, can potentially take slack out the system in a way that can make it harder to experimentally navigate or backtrack and thereby potentially significantly increase meditation timelines rather than shortening them.
+
+There's nothing super special about sensations in any of these areas, all things being equal, versus sensations anywhere else. They're meaningful, there's certainly correlative structure with respect to body and mind, it's not arbitrary, but, still, they're only meaningful, only generally so, insofar as sensations anywhere else are meaningful.
+
+To be fair, the perineum is a bit special in that it loosely tends to correlate with early in life "stuff," and so on, and later in life tends to go up the spine, and so on, but these "top down" models should be treated cautiously, and the important thing is exquisitely sensitive personal global wayfinding at the finest sensational and temporal grain (speaking loosely, without reifying sensation, temporality, grain, etc.). And the perineum and spine and brow and etc. will intermittently be involved and/lor liminally involved all the time, as much as anything, etc.
 
 See also: 
 
