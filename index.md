@@ -274,6 +274,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="148h" href="#148">last gasps</a>
 	* <a id="148ah" href="#148a">involuntary movement, semi-involuntary movement, kriyas</a>
 	* <a id="148bh" href="#148b">kundalini</a>
+	* <a id="148ch" href="#148c">can't talk</a>
 	* <a id="149h" href="#149">being (not) ok tangles</a>
 	* <a id="150h" href="#150">brief note on space and sensations</a>
 	* <a id="151h" href="#151">brief, loosely related notes on unknotting, untwisting, untangling</a>
@@ -6431,6 +6432,32 @@ involuntary movement, semi-involuntary movement, kriyas
 https://meditationbook.page/#148a
 
 [<a href="#148bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="148c"></span> can't talk:
+
+The use of language is relatively "full stack," it's a more total "bodymind act" than lots of other things, with real-time speaking even more so. There's a bit of a hierarchy from:
+
+* handwritten note
+* writing an email
+* sending a brief chat or text message
+* speaking to somewhere right there
+
+Because of this full stack-ness and how meditation is multidimensionally nonmonotonic, as in lots of a least little things are at least a little "broken" at any given time, midway through the journey, it's not uncommon for meditator language use to be "disrupted" or temporarily unavailable (except in an extreme emergency and sometimes even then(. This might be for minutes or hours or even days, on and off.
+
+Sometimes this is a pretty blanket thing and other times it's more localized to particular topics, situations, or people.
+
+Note that this isn't an agoraphobia type thing, though of course that can be a thing, too, but literally a physically can't form words (though often they're still thinkable, though very not always). Sometimes it's a can't or sometimes it's somewhere between "can't and won't though still often wanting to or at least feeling like it'd be locally expeditious".
+
+In particularly sucky fashion, this can include a meta component of "not being able to talk about not being able to talk."
+
+If this is too often or goes one for too long or it hasn't been flagged in advance to intimate partners and etc., it can be as bad as catastrophic for relationships. (Just reiterating that not everyone will experience this "can't talk" thing.)
+
+It seemed important to note this phenomenon here. It might be good to warn friends, family, intimate partners, etc., well in advance before you've ever remotely experienced such a thing, to help them understand what it (doesn't) mean(s) and so on. It might be helpful to write out post-its before hand though sometimes even pointing counts as "talking" and so is unavailable to the system.
+
+More to be said, here.
+
+[<a href="#148ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="149"></span> being (not) ok tangles:
