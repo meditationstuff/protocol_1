@@ -293,6 +293,11 @@ Sometimes individuals publish lightly transformed versions of this document to f
 				* <a id="157a4h" href="#157a4">part 1: "same playing field"</a>
 				* <a id="157a5h" href="#157a5">part 2: continuity between "mundane" and "supramundane"; breadth-first vs depth-first</a>
 				* <a id="157a6h" href="#157a6">part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need)</a>
+			* <a id="157a7h" href="#157a7">making (sometimes straw) distinctions between my stuff and other stuff</a>
+				* <a id="157a8h" href="#157a8">many enlightenments? (a nonrigorous position) (old post)</a>
+				* <a id="176h" href="#176">no one gets pixel-perfect possibilities</a>
+				* <a id="157a9h" href="#157a9">non-arbitrariness contra renunciation</a>
+				* <a id="157a10h" href="#157a10">polemics</a>
 		* <a id="157ah" href="#157a">open informal response on social media to someone in a contemporary practice scene</a>
 	* <a id="158h" href="#158">a note on "making progress," "regression," and redo-to-undo</a>
 	* <a id="158aah" href="#158aa">on suffering</a>
@@ -329,7 +334,6 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="192ah" href="#192a">mark's approximate practice summary highlights</a>
 * <a id="174h" href="#174">teaching and learning and creating and relating (meditation and anything)</a>
 	* <a id="175h" href="#175">teaching</a>
-		* <a id="176h" href="#176">no one gets pixel-perfect possibilities</a>
 		* <a id="177h" href="#177">guided on-ramp for main practice p2 [draft]</a>
 		* <a id="178h" href="#178">pith instructions (experimental)</a>
 		* <a id="179h" href="#179">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
@@ -1018,9 +1022,13 @@ See also:
 
 [Last accessed: 20200824 https://meditationstuff.wordpress.com/2020/07/14/better/]
 
+**Better**
+
 Sometimes, I sort of want to throw in the garbage concepts like arhatship and other milestones. I’d just like to replace it with the concept "better." I like "better" because it doesn’t assume any particular goal. There’s just better than the last thing. (The reason I use "good" so much in the protocol document and not "better" or even "best" is for local methodological, pedagogical, and philosophical reasons: better can sometimes be problematic for local, in the trenches wayfinding. And best is pedagogically misleading and philosophically twisty.)
 
 \*
+
+**Not, No Goal / Yes, No Particular Fixed Goal**
 
 I like better not only because it doesn’t assume any particular goal, and one could clarify that as "no particular *fixed* goal." Better doesn’t make a *thing* out of an end state; it doesn’t necessary connote, assume, or imply an end state at all.
 
@@ -1032,11 +1040,17 @@ Ah, but that’s not exactly right.
 
 \*
 
+**Nonmonotonicity**
+
 There is another piece that needs to be added to "better" and that’s "nonmonotonicity." That is, sometimes, to get to something better, sometimes things need to temporarily get worse. That *dip* is nonmonotonicity. (Monotonicity [as opposed to nonmonotonicity] is never going down [nor sideways??], only going up, but sometimes there’s going up slower, sometimes there’s going up faster.)
 
 \*
 
+**Wayfinding**
+
 Ok, so with "better" and "nonmonotonicity," there’s still directions/directionality, there’s still *wayfinding,* in terms of (a) what to *do* next, and so (b) where to [hopefully or experimentally] *go* next, for (c) to eventually *get* somewhere (maybe unknown). And that somewhere, the sort of intuitive/implicit/inexplicit/felt *planning horizon* gets longer and longer, farther and farther out, the more skilled and experienced one gets; one navigates deeper and longer nonmonotonicity, as sometimes needed, over time.
+
+**Nonfinality *(((/ \~Thresholds and \~Asymptotes)))***
 
 And there’s always a next somewhere, and the "final" (not final) somewhere (no fixed somewhere) is always over the horizon. And sometimes one needs to massively backtrack, and that’s ok. There’s time. It’s built in.
 
@@ -1046,11 +1060,17 @@ And, so, you can just keep going. States, stages, gateless gates, stateless stat
 
 You can just keep going—better and better.
 
+**Multidimensionality**
+
 Above, I haven’t talked about how all this is sort of "multidimensional." Things can be multidimensionally getting nonmonotonically better (and so also worse) at the same time, along a vast number of dimensions. There’s local and large-scale tradeoffs, at first. But the sort of "average" of the whole thing keeps getting better and better. And sometimes there’s big dips, even "late stage" big dips. But some biggest dips eventually just never happen ever again.
+
+**Globality**
 
 And eventually one starts exploring something like globality, optimizing the whole thing all at once (via mostly little, local operations), while, challengingly, somehow, everything is mediately/indirectly or immediately/directly connected to everything else. Things deconvolve and de-intertwingle over time, what’s weakly separable becomes weakly separate, gloriously non-interacting, to some degree, and to greater and greater degrees, when it wouldn’t be helpful if those things interacted, but it’s still all connected, somehow. It’s the ultimate puzzle, in part because the final goal is over the horizon and one is learning (and unlearning) better and better goals over time until the idea of a goal itself gets replaced with something better, too.
 
 \*
+
+(**Without Remainder / "Remainderlessness" *(((/ \~Thresholds and \~Asymptotes)))***)
 
 You can just keep going and going. Eventually meditation blurs and blends with life, being lost in life is the same as being in the meditative state, effortless, costless, engaged, nothing to maintain; it’s just what you are. You get to keep all your tools, they become you, they are you, and also you get to just live, to get lost in life, you can just let go, all the way down, and do what you want because what you want is the right thing to do. (Really right—wellbeing, self-aligned, nonartificial...)
 
@@ -7755,13 +7775,173 @@ as a thought experiment, to the degree someone hewed rigidly to a sensory clarit
 
 
 
+# <span id="157a7"></span> making (sometimes straw) distinctions between my stuff and other stuff:
+
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+[<a href="#157a7h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+# <span id="157a8"></span> many enlightenments? (a nonrigorous position) (old post):
 
+[
+Draft self-forward (it's pompous and has other issues, to say the least):
+
+This is an old blog post that is sort of the beginning of my thinking about a "unified theory of enlightenment" (which also has to harmonious with neuroscience, among other things, even if in a very different ontology). Overall, I've wanted a response to someone saying "there's different kinds of enlightenment in different lineage traditions, wisdom traditions, contemporary communities of practice, and so on." In contradiction, I would say something like, "There's only incomplete enlightenment and complete enlightenment." Of course, I'm certainly not the first person to say "my enlightenment is better than all these other enlightenments." And I'm certainly not the first person to, not just say that, but to also (try to) construct careful arguments that somehow refute other conceptions or enlightenment or show how they are imperfect or lacking something important. (I don't even have a careful argument, in one place, yet, as I'm writing this, though I hint at it in a bunch of places.) I think the stakes are pretty high, for a few reasons. First, one wants practioners to have an appropriate level of confidence and focus in/on a particular system--I say appropriate because different systems work better and worse for different people, loosely speaking, and one wants to only put the amount of time into a single system that makes sense, for them. And a good system should disclose when it's not the right system for a particular practioner (erring in some right direction of minimizing false positives and false negatives). Second, flaws in systems produce individual suffering and also damage communities. To the degree that a system can point out issues in individual practice, and point out issues in other paths or conceptions of enlightenment, presuming (challengingly!) tact, grace, and humility, then multiple communities of practice are elevated, and so on.
+
+In all his, my general critique (and of course this critique is leveled by like every meditation system at every other meditation system) is that most other meditation systems "don't go far enough." For their "center of mass" of practioners, "people tend to get stuck" and/&#8203;or the tradition becomes anemic and vague about far reaches and thus potentially fails at transmission to the next generation.
+
+A meditation system or bodymind practioner should be able to operate on itself/&#8203;themself and apply to itself and critique and meta-critique itself, comprehensively/&#8203;exhaustively, and without remainder, thus transcending itself and pointing at groundlessness and like any and all of any other things behind the thing, unceasingly.
+
+My conception of "better" doesn't guarantee the above (see that section in the document, noting nonmontonicity, multidimensionality, globality, etc.). But, the argument tht I haven't made yet is supposed to go something like, "tacking towards 'better' will produce 'subjective convergence'." That is, people pursuing their own aims/&#8203;goals, on their own terms, in their own words, "correctly" will produce subjective convergence or similar high-level features to other correctly practicing practitioners, "from the inside,' along with, of course, optimized contingency perfectly-fit to the individual practioner, as well, that itself will still be imbued, infused with that high-level convergence. Rather, this is the claim, and then I still need to work out a good argument, or, rather, just an explanation for this claim, that isn't too circular. But analytic circularity (or something; someone slant-called this "platonicity") might be all that's needed, here, or all that's possible, in any case. (There can also be an appeal to latest and greatest neuroscience and physics, cf. very-high-dimensional energy landscapes, attractive basins, stable attractors, global minima/&#8203;maxima, entropic dissipation, "teleodynamics", the relationship between telos and mechanism, and so on, and plenty more, over the next three hundred years, and beyond.)
+
+(I just want to note, as I'll also note, in parallel, below, that words like "globality", "correctness", "convergence", "optmized", "perfectly-fit,"--let alone "platonicity," contra impermanence, non-eternality, groundlessness, etc., heh--are sort of problematically self-reifying, and I hope the reader will hold all this very loosely in their intrepretation and how these words do or don't affect practice. In some sense this is just toy schemas, just pedagogy, just [sometimes] skillful means, just etc.)
+
+Some general qualifying and hedging:
+
+* Above, I use words like "incomplete," "complete," "perfect," "imperfection," "enlightenment," etc. I'm sort of using all these words in the "relative sense," and "speaking relatively," noting of course that the "real thing" is ultimately groundless, nebulous, empty, etc. (And all those words are groundless, nebulous, empty, too, etc.)
+* Also, especially when I say "complete" or "perfection," I'm speaking loosely. Like, yes, in one sense, there is "one relevant thing" that feels like that, sort of (sort of the phenomenological field and the moment-by-moment relationship to it) but also in another sense something asymptotes, never completes, and that's something like wisdom or the combination of (a) non-reactivity-with-no-suppression-and-no-remainder (plus fluidity, flexibility, non-fixed-ness, non-constraint, structural liquidity) and (b1) proactive constructiveness with respect to life's challenges, and (b2) which is sort of concommitent with metabolization, integration, processing of samskaras, karma, impressions, imprints, etc.. But, there's extraordinary subtlety and possibility for incompleteness, here--failure modes of self-suppression, non-constructiveness, process errors. I am calling for a superlative standard that is itself nuanced and unfortunately prone to misinterpretation (leading to e.g. subtle self-suppression, errors, over-reification) This can't be overstated. Perhaps all contemporary meditation teachers fail on this, in my opinion. I could of course be wrong or missing something big!!!! And there are still contingencies of (mis)fortune and (dis)privilege!!! Or it could look like that if I get a neurological disease or whatever (as can happen to anyone), as the proof is partly(!) in the lived actualization/&#8203;exemplification. Search elsewhere in this document for "purification" for further critique on (my understanding) or other conceptual schemas for this sort of thing. (Mainly-ish near the bottom of this section: <a href="#192a">mark's approximate practice summary highlights</a>
+* While I disagree with lots of details of what I think the buddha may or may not have said, noting I am not a careful reader of buddhist materials let alone a scholar, nor do I mean to especially privilege buddhism over several other esoteric traditions that I think do a bunch of things better, I just wanted to mention that, every few years, I'm struck anew by how much of a genius the buddha was, and I generally expect that to keep happening, as my practice continues to progress. And/&#8203;also, most of my disagreements with "what the buddha actually said," as best I perhaps vaguely understand them, have seemed to remain stable, for whatever that's worth.
+* I strongly suspect some existing meditation systems will implicitly (or explicitly) perfectly or nearly perfectly dovetail with my thinking, here, in path and fruit.
+* Some systems work better and worse in different historical periods and sociocultural/&#8203;socio-financial milieus. They are products of their time and place in history, and sometimes "explicit flaws" are corrected by implicit features of community and environment. And, of course, things that look like "flaws" to outsiders, from a distance, may be not be flaws at all, etc., etc. etc.
+
+The old blog post is immediately below.
+
+---
+
+[First posted: https://meditationstuff.wordpress.com/2019/04/20/many-enlightenments-a-nonrigorous-position/ Last accessed: 2021-12-08]
+
+[This is a heavily edited transcript. It’s not as organized or nuanced as it could be. It’s more like a position than an argument, for sure.]
+
+[by enlightenment I mean a state or property of a mind versus an social/cultural/intensional [sic] construction. I think there are many of the latter, of course.]
+
+Lots of people think that there are a bunch of different enlightenments. I actually strongly disagree with this. I think there are intermediate things that can be cultivated, and certainly different people will have a preference at least mediately for different things that they want based on what they think is out there, what they think they can get, and what they think is good/useful.
+
+But, I tend to think that the mind is only trying to do one thing. I don’t know exactly what that is, but it’s probably something like predicting what’s going to happen next as elegantly and correctly as possible. Something in that space.
+
+I think it used to be popular to model the brain as a heinous kludge, but I think that neuroscience is going to go in the direction of there being one fundamental operating principle for how the mind works. After all, in some sense animals or say especially humans have a fragmented telos, but in another sense the telos of a humans (and animals) is quite unified.
+
+And that unity increases with training, etc. Importantly, people have different goals. But people’s goals can change, and there’s a question of how deeply those goals can change. And arguably, meditation or enlightenment are tools for changing desires/preferences/goals in a very deep way. So, what are the fundamental principles, neuroscientifically or phenomenologically, that underly the transformation of telos?
+
+One way to look at this is using the concepts of goodness and “betterness.”
+
+I think that, nonmonotonically, people can tack towards goodness or betterness in sort of a global way. Like, with dips and valleys and mistakes and backtracking, just aim for things being better and better.
+
+Like someone might want to experience things as empty or someone might want to have less life problems, or realize that there’s no goal or one goal or lots of other things…
+
+But, imagining people who’ve been doing the thing for forty years… I think that there’s a way in which people who don’t asymptote or who don’t paint themselves into a corner, or don’t get stuck, I strongly suspect that in the limit they will agree more and more about what the right thing to do is and what it looks like when it’s more and more “done”.
+
+Like, the metaphor, there’s many paths up the mountain, but only one peak.
+
+So, for the people who say there’s multiple enlightenments or multiple axes of development, I would imagine that, yes, that’s the case when one is say 5/7’s up the mountain. But 6/7’s, 7/7’s…
+
+There will still be contingency in life situation, personal experience, and use of mind.
+
+But, I think there’s this globally significant invariant or isomorphism at some level of abstraction, that does have a concrete referent, that is converged on at the highest levels of skill and attainment.
+
+[Update: A part of this thread: https://twitter.com/Malcolm_Ocean/status/1119037981501853697 ]
+
+
+[<a href="#157a8h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="176"></span> no one gets pixel-perfect possibilities:
+
+[Originally published: https://meditationstuff.wordpress.com/2020/09/03/no-one-gets-pixel-perfect-possibilities/ (Last accessed: 2020-09-05)]
+
+There’s an intuition I’m working on conveying, which I think applies to [all transformative practices, including the preliminary/auxiliary practices], everything.
+
+For those interested, maybe consider this color sorter:
+
+http://jackxmorris.com/posts/color-sort
+
+I would click on bubble sort. (I think this sorter doesn’t quite finish, but the analogy holds).
+
+[If the website dies or the images get lost: There’s this big square, still image image that looks mostly an ugly gray, with faint heterogeneity in its pixel colors, little glimmers of color. You can click buttons that say e.g. "bubble sort." And, when one of the buttons is clicked, the pixels start to get sorted by an algorithm, and a columnwise rainbow starts to appear, filling the whole image, made up of only pixels that were already present, yet in an order that hid the potential rainbow. Finally, buggy-javascript-dependent, there’s a "perfect rainbow."]
+
+There’s a low-key, leaky-abstraction sense in which there’s a real, true, final "pixel perfect" state of (body)mind, at the end of meditation. The abstraction leaks, in a bunch of ways, maybe, in that the mind doesn’t know or need to know, at the beginning what rainbows are, that they exist, that pixels exist, all sorts of stuff. And, there’s no perfect, no final end, no fixed goal, etc. And, from the inside, the process needs exploration, experimentation, creativity, and self-authority, not rote/mechanical color sorting.
+
+But, sort of, in some sense, (a) pixel-perfect precision, and (b) something like really-there, absolute, objective patterning/ordering (like a rainbow)— analogously, analogously, analogously—are a thing.
+
+My concern with circling, somatic experiencing, nedera, etc., is that they’re seductive in the ways that THEY PRODUCE EFFECTS unlike just about everything else that’s out there. They are true advances. I’m so grateful they exist.
+
+And/but, long-run, they sort of trade off on local versus global. Like, they can make little rainbows (highly valued breakthroughs, changes, something) in some local area, while fucking up a bunch of shit outside that local area, sometimes, in ways that are hard to detect and realize.
+
+(And it’s all fixable! It’s fine! Lossless rewind, long run. And, for any particular person, doing nedera or etc., is, for sure, the right strategic move for them, in terms of life situation or total path length, or whatever.)
+
+But, almost no system seems to get this "pixel-perfect" thing.
+
+(This is for sure not a denial of nebulosity, emptiness, etc. The "pixel-perfect" thing accounts for these. It’s just an analogy. It’s also beyond arhatship, though; it’s the deconditioning that continues, through proper practice, after arhatship.)
+
+There’s sort of this belief, maybe, with all these systems, that "if I just keep going," either in a straight line or picking off issues, one by one, as they come up, then "that’s enough, that will get me what I’m looking for."
+
+And there’s a sense in which that’s true:
+
+The mind IS always working on heading in the right direction, unwinding, unknotting, etc. The mind is ALWAYS working on doing the pixel-perfect thing. That’s what the mind naturally, spontaneously does.
+
+But.
+
+I can’t speak well to other systems, except for local interactions I have with practitioners in them, small-n impressions. But, I think with respect to those systems, and certainly with "meditation" we see side-effects, muscle tension, distress, plus sometimes a belief that "it’s part of the process," or even "it’s somehow my own fault." To be sure, even when meditation goes perfectly, it’s usually a rough ride. But when things get rough, people often start mashing buttons harder, because of the intermittent really good stuff that happens in the roughness. But the roughness isn’t long-run costless, depending on what the person is trying to ultimately do.
+
+In any case, there’s a loose mechanism, here, that I can point to, that’s one of the problematic things:
+
+When someone does (a) any sort of reaching, pushing, forcing, scraping the bottom, and then (b) sort of pivots to doing something else, in the next moment, without "cleaning up," without "taking one’s foot off the gas"—that reaching, pushing, forcing, scraping tends to still be operative, in the "place that the person just was, e.g. attentionally.
+
+It’s like a pushy/reachy/grabby/scrape-y process gets left behind, that’s sort of operating mindlessly and autonomously, in the background, underneath stuff, and it’s dragging stuff around, in weird directions, kind of warping the whole system over time, if left long enough.
+
+And we all start out with "knots" and "slack" and/but these techniques, used unreflectively or not meta-systematically, eventually can start pulling those knots tight, which makes them long-run harder to unknot, and it leads to distress, behavioral rigidity, emotional suppression, and sometimes impulsive behavior or a diminished behavioral repertoire.
+
+Often, especially in the beginning ALL SORTS of good stuff will happen, because the bodymind is exercising new degrees of freedom and really smart about grabbing value, and these techniques are cool and brilliant.
+
+But, there’s also a sense in which they can and do make a mess, a mess that can keep getting worse autonomously, and they all have large tail risk, in my opinion. (So does my stuff, to be fair).
+
+There’s still all sorts of reasons to do these things–to learn new degrees of freedom for the bodymind, to meet cool people, to learn from people with lots of experience. And, the benefit/risk often comes down to the actual person leading, facilitating, mentoring, as well as the actual other people attending the event, because of interpersonal vibe and nonverbal stuff.
+
+And, when engaged reflectively, sensitively, responsively, meta-systematically, all of these tools, and/or the fine-grain best parts of them, have a place in personal practice, of course.
+
+But so few people seem to really get this "pixel perfect rainbow" thing, and so I see SO FEW mentors or teachers who are, in my opinion, correctly balancing local with global, short-run with long-run, when interacting with clients, students, workshop attendees, etc. Frankly, I think it’s because they haven’t gotten far enough to realize that this "pixel-perfect rainbow thing" is even a thing. But they absolutely could. And I could be wrong about something, etc.
+
+\*\*\*
+
+Addendum:
+
+"Pixel-perfect" is pointing at a "real," nonmonotonic, asymptotic ideal, but it’s an abstract analogy that’s not necessarily pointing at what it *feels like* from the inside, including heading in that direction, at any particular time. One has to be careful not to pursue an unexamined, rigid sense of an abstract idea--one sort has to find oneself in the right places, almost accidentally, or, rather, bottom-up, indirectly, through correct practice, on one’s own terms, in one’s own concepts, as it were. And, regarding indirect and bottom-up (cf. "redo-to-undo"), one has to allow themselves to be anything--flawed, ridiculous, crazy, embarrassing, wretched, a failure, fantastical, childish, detached from reality, always more until/unless there isn't, radically patiently, anything--however oneself and others happen to be, right now, and now.
+
+Finally, to emphasize, "pixel perfect" is an analogy for something that’s still structurally fluid, sensitive, responsive, creative, dynamic, vibrant, alert, proactive, anything...
+
+[<a href="#176h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="157a9"></span> non-arbitrariness contra renunciation:
+
+This is a temporary stub section.
+
+[<a href="#157a9h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="157a10"></span> polemics:
+
+There are a few of my old blog posts that have some really good stuff in them, but they have a few thiings wrong with them, so I can't just paste them into this document/&#8203;book. There's some ontology shear and I think some slight misleadingness in how they're written. Also there's lots of stuff in them I no longer endorse or I just think it's the wrong focus. Finally, I say things about other teachers and individuals, by name, and some of that's ok and some of that's not ok. So, until I figure out how to extract the good stuff, I'm going to link out to that material, here:
+
+As I say at the beginning of each blog post:
+
+**(General content note: A lot of my thinking has really changed since the old days of this blog. There’s some weird, mean, and polemic stuff in there.)**
+
+* https://meditationstuff.wordpress.com/2015/06/05/mindfulness-in-daily-life-culadasa-the-dangers-of-keeping-stuff-out-of-consciousness-7000-words/
+* https://meditationstuff.wordpress.com/2014/09/29/deeply-valuable-experiences-meditation-zombies-and-planning-preview-2700-words/
+* https://meditationstuff.wordpress.com/2013/07/14/spiritual-stuff/
+
+(Titles only:)
+
+* Mindfulness in Daily Life, Culadasa, the Dangers of Keeping Stuff Out of Consciousness (7000 words)
+* deeply valuable experiences, meditation zombies, and planning preview (2700 words)
+* “spiritual” stuff
+
+[<a href="#157a10h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="157a"></span> open informal response on social media to someone in a contemporary practice scene:
 
-[Some of the style and word choice in this are callbacks to earlier in the interaction.]
+[Some of the style and word choice in this are callbacks to earlier in the interaction. At the time, I wrote this I thought it was sort of precisely calibrated to the situation, and net-constructive, but I'd do something different, today.]
 
 > "not about to engage with disagreements from people who can’t demonstrate that they’re anywhere close to my peers"
 
@@ -10019,71 +10199,7 @@ In some ways, at least one of the following has to make sense for someone to eng
 
 [<a href="#175h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="176"></span> no one gets pixel-perfect possibilities:
 
-[Originally published: https://meditationstuff.wordpress.com/2020/09/03/no-one-gets-pixel-perfect-possibilities/ (Last accessed: 2020-09-05)]
-
-There’s an intuition I’m working on conveying, which I think applies to [all transformative practices, including the preliminary/auxiliary practices], everything.
-
-For those interested, maybe consider this color sorter:
-
-http://jackxmorris.com/posts/color-sort
-
-I would click on bubble sort. (I think this sorter doesn’t quite finish, but the analogy holds).
-
-[If the website dies or the images get lost: There’s this big square, still image image that looks mostly an ugly gray, with faint heterogeneity in its pixel colors, little glimmers of color. You can click buttons that say e.g. "bubble sort." And, when one of the buttons is clicked, the pixels start to get sorted by an algorithm, and a columnwise rainbow starts to appear, filling the whole image, made up of only pixels that were already present, yet in an order that hid the potential rainbow. Finally, buggy-javascript-dependent, there’s a "perfect rainbow."]
-
-There’s a low-key, leaky-abstraction sense in which there’s a real, true, final "pixel perfect" state of (body)mind, at the end of meditation. The abstraction leaks, in a bunch of ways, maybe, in that the mind doesn’t know or need to know, at the beginning what rainbows are, that they exist, that pixels exist, all sorts of stuff. And, there’s no perfect, no final end, no fixed goal, etc. And, from the inside, the process needs exploration, experimentation, creativity, and self-authority, not rote/mechanical color sorting.
-
-But, sort of, in some sense, (a) pixel-perfect precision, and (b) something like really-there, absolute, objective patterning/ordering (like a rainbow)— analogously, analogously, analogously—are a thing.
-
-My concern with circling, somatic experiencing, nedera, etc., is that they’re seductive in the ways that THEY PRODUCE EFFECTS unlike just about everything else that’s out there. They are true advances. I’m so grateful they exist.
-
-And/but, long-run, they sort of trade off on local versus global. Like, they can make little rainbows (highly valued breakthroughs, changes, something) in some local area, while fucking up a bunch of shit outside that local area, sometimes, in ways that are hard to detect and realize.
-
-(And it’s all fixable! It’s fine! Lossless rewind, long run. And, for any particular person, doing nedera or etc., is, for sure, the right strategic move for them, in terms of life situation or total path length, or whatever.)
-
-But, almost no system seems to get this "pixel-perfect" thing.
-
-(This is for sure not a denial of nebulosity, emptiness, etc. The "pixel-perfect" thing accounts for these. It’s just an analogy. It’s also beyond arhatship, though; it’s the deconditioning that continues, through proper practice, after arhatship.)
-
-There’s sort of this belief, maybe, with all these systems, that "if I just keep going," either in a straight line or picking off issues, one by one, as they come up, then "that’s enough, that will get me what I’m looking for."
-
-And there’s a sense in which that’s true:
-
-The mind IS always working on heading in the right direction, unwinding, unknotting, etc. The mind is ALWAYS working on doing the pixel-perfect thing. That’s what the mind naturally, spontaneously does.
-
-But.
-
-I can’t speak well to other systems, except for local interactions I have with practitioners in them, small-n impressions. But, I think with respect to those systems, and certainly with "meditation" we see side-effects, muscle tension, distress, plus sometimes a belief that "it’s part of the process," or even "it’s somehow my own fault." To be sure, even when meditation goes perfectly, it’s usually a rough ride. But when things get rough, people often start mashing buttons harder, because of the intermittent really good stuff that happens in the roughness. But the roughness isn’t long-run costless, depending on what the person is trying to ultimately do.
-
-In any case, there’s a loose mechanism, here, that I can point to, that’s one of the problematic things:
-
-When someone does (a) any sort of reaching, pushing, forcing, scraping the bottom, and then (b) sort of pivots to doing something else, in the next moment, without "cleaning up," without "taking one’s foot off the gas"—that reaching, pushing, forcing, scraping tends to still be operative, in the "place that the person just was, e.g. attentionally.
-
-It’s like a pushy/reachy/grabby/scrape-y process gets left behind, that’s sort of operating mindlessly and autonomously, in the background, underneath stuff, and it’s dragging stuff around, in weird directions, kind of warping the whole system over time, if left long enough.
-
-And we all start out with "knots" and "slack" and/but these techniques, used unreflectively or not meta-systematically, eventually can start pulling those knots tight, which makes them long-run harder to unknot, and it leads to distress, behavioral rigidity, emotional suppression, and sometimes impulsive behavior or a diminished behavioral repertoire.
-
-Often, especially in the beginning ALL SORTS of good stuff will happen, because the bodymind is exercising new degrees of freedom and really smart about grabbing value, and these techniques are cool and brilliant.
-
-But, there’s also a sense in which they can and do make a mess, a mess that can keep getting worse autonomously, and they all have large tail risk, in my opinion. (So does my stuff, to be fair).
-
-There’s still all sorts of reasons to do these things–to learn new degrees of freedom for the bodymind, to meet cool people, to learn from people with lots of experience. And, the benefit/risk often comes down to the actual person leading, facilitating, mentoring, as well as the actual other people attending the event, because of interpersonal vibe and nonverbal stuff.
-
-And, when engaged reflectively, sensitively, responsively, meta-systematically, all of these tools, and/or the fine-grain best parts of them, have a place in personal practice, of course.
-
-But so few people seem to really get this "pixel perfect rainbow" thing, and so I see SO FEW mentors or teachers who are, in my opinion, correctly balancing local with global, short-run with long-run, when interacting with clients, students, workshop attendees, etc. Frankly, I think it’s because they haven’t gotten far enough to realize that this "pixel-perfect rainbow thing" is even a thing. But they absolutely could. And I could be wrong about something, etc.
-
-\*\*\*
-
-Addendum:
-
-"Pixel-perfect" is pointing at a "real," nonmonotonic, asymptotic ideal, but it’s an abstract analogy that’s not necessarily pointing at what it *feels like* from the inside, including heading in that direction, at any particular time. One has to be careful not to pursue an unexamined, rigid sense of an abstract idea--one sort has to find oneself in the right places, almost accidentally, or, rather, bottom-up, indirectly, through correct practice, on one’s own terms, in one’s own concepts, as it were. And, regarding indirect and bottom-up (cf. "redo-to-undo"), one has to allow themselves to be anything--flawed, ridiculous, crazy, embarrassing, wretched, a failure, fantastical, childish, detached from reality, always more until/unless there isn't, radically patiently, anything--however oneself and others happen to be, right now, and now.
-
-Finally, to emphasize, "pixel perfect" is an analogy for something that’s still structurally fluid, sensitive, responsive, creative, dynamic, vibrant, alert, proactive, anything...
-
-[<a href="#176h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="177"></span> guided on-ramp for main practice p2 [draft]:
 
