@@ -3087,6 +3087,8 @@ Ah, also like "erect kneeling", knees on something padded, and otherwise "standi
 
 Others: leaning with back (butt) against low things like countertops where everything above the lean is unsupported/erect. Leaning back against walls. Finally, sometimes facing wall bracing with hands.
 
+In additional to variations on normal standing, one might also alternate one foot on the floor while simultaneously one foot on a stool or chair. One could also add chairbacks, broomhandles, or canes. So one could get many of the benefits of standing but with a lot of extra help for stamina or taking the pressure off the lower back or particular joints or anything, depending on one's current biomechanics. Sometimes anti-fatigue mats are good for joints and feet and other times bad. It can be good to alternate different floor surfaces. But sensitivity and internal self-correction is/&#8203;should be the main feedback loop. For example, even if one usually wears shoe orthotics and has poor circulation, unless against doctors orders, one should likely explore meditating barefoot on rock hard surface, for at least tens of seconds to a few minutes, at a time. Unforgiving surfaces are extremely instructive, in their feedback, for the subtle modulation of muscle and posture, over time. Maximizing comfort, for sometimes extending meditation time or for freeing up attention for other things, is also important. All the postures, for accessing different types of feedback and affordances.
+
 more distinctions: sitting without back support, sitting with back support (still erect), and hella slumped in some comfortable couch or chair in some long-term comfortable way. always mix with erect/unsupported sitting and standing!
 
 more distinctions: sitting on a hard, very flat (parallel to ground, no tilting) surface; sitting on a very firm but nevertheless soft surface (like a big memory foam block)...
@@ -7987,6 +7989,14 @@ Like, the state IS the very stuff of practice, not a thing in the background tha
 
 I sometimes say something like, “after hundreds, thousands, or tens of thousands of micro-experiments, little bets, something, as best you can, eventually you hit a wall, then you travel along the wall until you end up in a corner, and then in the corner there are no degrees of freedom, and then there’s only one way out, so you know what to do, and then you spontaneously do that, and this repeats.”
 
+\*
+
+Finally, a sort of corollary to all this is that, since sometimes (heuristic or provisional) understanding precedes karmic burnoff, you might find yourself compulsively doing "miles and miles" of "knowingly the wrong thing," and that's ok! Burnoff/&#8203;burn-off/&#8203;metabolization/&#8203;integration is happening. Miles and miles. Sometimes wrong turns and backtracking can be avoided, but, modulo that, there's no shortcuts, no skipping, no corner-cutting: ultimately the *entire* territory needs to be walked, and the territory spontaneously does what it does, until it doesn't. So if you're doing something "bad" (or multiple things) for like five hundred hours, each, that's redo-to-undo, that's just what needs to happen.
+
+(And part of that will be doing meta-protocol-esque things to decide whether/&#8203;which/&#8203;where those miles and miles are entrenchment vs burn-off. That's ok, too, that's part of it. A seed of something in the spirit of the meta protocol, a seed of, hmm is this right, is enough for the at least 50.0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;1% [sic] burn-off versus entrenchment that will ultimately, cumulatively, do the thing.)
+
+So miles and miles of "I'm doing it wrong" might exactly be miles and miles of precisely optimal progress.
+
 [<a href="#158h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
@@ -11055,6 +11065,8 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 * Lane, Richard D., et al. "Memory reconsolidation, emotional arousal, and the process of change in psychotherapy: New insights from brain science." Behavioral and brain sciences 38 (2015).
 * Chapman, Alan. Magia. Barbarous Words. 2021
 * Chapman, David. A first lesson in meta-rationality [https://metarationality.com/bongard-meta-rationality Last accessed: 2021-08-10]
+* Tillich, Paul. Dynamics of faith. Zondervan, 2001.
+* Lewis, C. S. The great divorce. Good Press.
 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
