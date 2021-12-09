@@ -296,7 +296,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 			* <a id="157a7h" href="#157a7">making (sometimes straw) distinctions between my stuff and other stuff</a>
 				* <a id="157a8h" href="#157a8">many enlightenments? (a nonrigorous position) (old post)</a>
 				* <a id="176h" href="#176">no one gets pixel-perfect possibilities</a>
-				* <a id="157a9h" href="#157a9">non-arbitrariness contra renunciation</a>
+				* <a id="157a9h" href="#157a9">renunciation quibbles and other things (draft; needs an even first editing pass)</a>
 				* <a id="157a10h" href="#157a10">polemics</a>
 		* <a id="157ah" href="#157a">open informal response on social media to someone in a contemporary practice scene</a>
 	* <a id="158h" href="#158">a note on "making progress," "regression," and redo-to-undo</a>
@@ -7914,9 +7914,143 @@ Finally, to emphasize, "pixel perfect" is an analogy for something that’s stil
 [<a href="#176h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="157a9"></span> non-arbitrariness contra renunciation:
+# <span id="157a9"></span> renuncation quibbles and other things (draft; needs an even first editing pass):
 
-This is a temporary stub section.
+So, gosh, I'm not sure if I'm ready to write a nuanced treatment of critiquing a steelman of "renunciation." But maybe we'll see where it goes.
+
+The specific topic of "renunciation" isn't the most important thing, here. I was looking to find an example where I could show the differences between its native framing and how I would critique and frame it from within my system.
+
+But, in order to try to be fair, things get a little murky.
+
+And, then I was going to use such a critique as a springboard to make a few other specific points.
+
+Anyway, let's see where this goes.
+
+So wikipedia defines renunciation like this:
+
+[https://en.wikipedia.org/wiki/Renunciation last accessed: 2021-12-08]
+
+>>>
+Renunciation (or renouncing) is the act of rejecting something, especially if it is something that the renunciant has previously enjoyed or endorsed.
+
+In religion, renunciation often indicates an abandonment of pursuit of material comforts, in the interests of achieving spiritual enlightenment.
+
+[...]
+
+in Buddhism, the Pali word for "renunciation" is nekkhamma, conveying more specifically "giving up the world and leading a holy life" or "freedom from lust, craving and desires".
+<<<
+
+On the nekkhama wikipedia web page, quoting verbatim from the Nissaraniya Sutta (AN 5.200), via (Thanissaro, 2000):
+
+>>>
+There is the case where the mind of a monk, when attending to sensual pleasures, doesn't leap up at sensual pleasures, doesn't grow confident, steadfast, or released in sensual pleasures. But when attending to renunciation, his mind leaps up at renunciation, grows confident, steadfast, & released in renunciation. When his mind is rightly-gone, rightly developed, has rightly risen above, gained release, and become disjoined from sensual pleasures, then whatever fermentations, torments, & fevers there are that arise in dependence on sensuality, he is released from them. He does not experience that feeling. This is expounded as the escape from sensual pleasures.
+<<<
+
+(Importantly, even though I'm quoting a sutta, I am not a buddhist scholar, and I've skimmed maybe five suttas total in my lifetime. I'm not even completely clear on what a sutta is. I kind of get it. This is just to be clear where I'm coming from.)
+
+I'll note that these are teachings from a particular time and place. And maybe something is lost in the translation. And maybe this isn't something the buddha actually said or something that he'd actually agree with. And I don't mean to particularly single out buddhism or early buddhism. And I'll note that, as far as I'm aware, some tantric buddhism advocates for sensory indulgence (and I do as well).
+
+Anyway, from all this, I gather that a renunciate is supposed to:
+
+* not involve oneself in usual commercial and social affairs
+* not especially interact with convenient or comfortable tools, possessions, appliances, bedding, furniture, clothing, etc.
+* avoid paying attention to "external" things that are intrinsically pleasant to attend to, and to avoid paying attention to "external" things that indirectly generate pleasurable sensations or imaginative fantasy or memory
+* to somehow suppress or quiet feelings, thought, imagining, or behaviors that lead to indulgence in "external" things that are directly or indirectly pleasant 
+* generally not do things that interfere with spiritual pursuit or self-transformative practice
+
+(I'm assuming sensual pleasure is somehow either "external" or sexual, because I gather that things like jhana are supposed to feel good. So maybe is only supposd to avoid pleasure, or things that lead to pleasure that aren't "self-generated" or "self-fulfillable," that involve external dependencies or lead to increased dependence on external things, for fulfillment, satisifaction, happiness, etc.)
+
+First, to try to give the above its due, I do think that meditative practioner, all things being equal, usually, needs to be ready to be alone a lot, possibly for hours, weeks, or months, at a time, at least. And a meditative practioner needs to potentially be ready to pay a lot of opportunity cost, both predictable and unpredictable.
+
+Additionally, we don't always realize the effect of things on us, things we indulge in, or visual clutter, auditory clutter, electronic notifications, etc., until we temporarily remove them. And, sometimes, we feel much better, after we do. Or it's just surprising and we can make better, more informed tradeoffs, in the future, around when to forebear and when to invest time in decluttering or refining notification settings.
+
+Additionally, sometimes we don't realize how insane or crazy-making an environment or social milieu is, or how bad an environment or social milieu is making us feel, until we at least take a break from that environment or social milieu.
+
+Additionally, I think it's important and valuable to experiment with new behaviors, including simplfiying or altogether eliminating behaviors. There's a lot of good in reducing dependencies.
+
+All in all, it can be extremely empowering, feel really good, to realize one doesn't need things that one was previously dependent on, especially if painful and often even if pleasurable or partially pleasurable.
+
+By experimentally avoiding comfort or gently inclining towards pain (at least emotional pain and some kinds of physical pain that's indicative of non-transient damage) we can find experiences that directly or indirectly are sort of overall constructive and overall satisfying, in part because they imply a better personal future. Shinzen Young talks about the (acquired?) "taste of purification," which is sort of a combination of unpleasant and pleasant in a good and constructive way. (I think there are issues with this frame, which I'll indirectly address below, but there's something important, here, and I *think* this is an ok steelman, on its own terms.)
+
+Ok, now, some things that bug me--
+
+(1)
+
+These are maybe instructions only for monks or nuns, who have separation built into their lifestyle, versus householders, parents, and other laypeople, in general. Also, some types of buddhism have an eventual "return to the marketplace." 
+
+I guess my point in here is something like people maybe sometimes overgeneralize or misapply renunciation instructions, suggestions, or heuristics outside their intended domain of application. I feel like there's a stronger point, but I'm not able to put my finger on it, quite yet.
+
+(2)
+
+We could make a distinction between first-order desires, which are maybe like, "I want X," and second-order desires, which are maybe like, "I want to want X," or, "I want to not want X."
+
+(I'll note here that it might be good to have a more nuanced discussion that takes into account possible differences between wants/&#8203;desires, preferences, goals, intentions, plans, impulses/&#8203;urges, hopes/&#8203;wishes/&#8203;dreams/&#8203;fantasies, actions, and possibly more, but I'm not sure, yet, if that would add to the discussion.)
+
+(There is also grasping, craving, "thirst," which might be same thing or just related. There's certainly a there, there, at a fine phenomenological grain. One might say that desire minus craving is bare preference and that preference is good even if desire isn't, and that if one is alive then one must at least have preferences. But then if those preferences somehow motivate action then aren't those desires, whether that motivation and attendant doing is effortful/&#8203;willful or spontaneous/&#8203;effortless/&#8203;in-some-sense-selfless-or-nondual? Or we could say the doing/&#8203;action arises spontaneously in some sense without motivation, or, rather, the motivation is concurrent or coextensive with the spontaneous action/&#8203;behavior and there's no (experience of) suffering, no separation, no division, and no acting against oneself, anywhere. Anyway, none of this is intended to be formal. I'm just playing with different schemas, with a nod to different phenomenological referents. Note that I think one can get pretty precise with those phenomenological referents--"that's *got* to be what that technical term means"--yes! often! but also I think those referents are ultimately nebulous and empty, and can be unprofitably fixated upon.)
+
+Now, lots of claims. These claims may have no argument or only a sketch of an argument behind them, in this section. They at least rest, in part, on longer theoretical (and experiential) sections elsewhere in the document.
+
+So I would claim something like, if you have a second-order desire, you still have the first-order desire, until you don't. And, I would also claim that, in the case of having a second-order desire of the "I want to not want" variety (and vice versa), the fastest way to change the first-order desire, when that change is immediately or mediately available, is to at least fully accept if not fully indulge the first-order desire.
+
+The above pull-quotes doesn't necessarily conflate "renunciation" and "rejection." But, I'm going to strawman-assume that they do. And I would offer that, instead of renunciation as a mediate (means) or terminal goal (end), why not something like "transformation" as a mediate goal, and "no fixed goal" as a terminal "goal." And I would claim that the way to get "transformation" is through "acceptance" as opposed to "rejection." (There's more nuance, here, in that "acceptance" is "only when you're ready; only when it's safe, proceeding safe step by safe step, and that will be sufficient.)
+
+Some reasons for these claims are something like, "we want what we want until or if we don't (even if we don't want to want it). And depending on how one, loosely speaking, deep-down experiences personhood, and how one believes one should relate to persons, both the first-order and second-order want are "you," all things being equal. (There are edges cases in the case of "not-me" type phenomena, described elsewhere in this document.)
+
+And maybe the best way to relate to you is to somehow simultaneously honor all the "parts" of you, all at once. To do otherwise might result in "twists" or "tangles" or "rigidities" that preclude or retard further transformation, in general, in a compounding way. So, paradoxically, if one doesn't like something about oneself, the best way to change it might be to fully accept it, to gently explore how to be willing to have it, to be ok having it, forever.
+
+There might be at least two reasons for suffering. The first might be something like acting against oneself. The second might be something like realizing that there are alternatives to suffering that work just as well or better, for getting what we want. (So this presupposes that suffering is an optional strategy, though at first in a deeply layered and karmically ingrained way.)
+
+To a bunch of the above, one might argue that "there's no self to begin with" and that accepting the parts of ourselves that we don't like might entrench them. Not a direct answer to this, but I would claim that the self is another strategy, just like suffering, and that the best way to transform the self, possibly without remainder, is to accept the self, too. So one could think of disavowal, or self-disavowel, as a special kind of rejection, specifically a rejection of (parts of) the self. Additionally, in any case, one might (and likely does) have a first-order desire of wanting to have a self! All in all, the argument here is only sketchy, but once again I'll affirm the claim that acceptance is the way to go.
+
+Acceptance is sort of a high-level idea. The details will be fine-grain, phenomenological, nebulous, personal.
+
+But, it sort of entails *indulgence.* That is, acceptance of desire might be something like a combination of avowal ("this is me"--when that is in fact the case, subject to error or nebulosity) plus an intention to *indulge* when possible and safe, plus an intention to plan to indulge, when appropriate. ("Possible" and "safe" and "appropriate" are doing a lot of work, here, to be fair.)
+
+Let's say that meditation teaches a person how to do non-layering indulgence. (This is coming out of nowhere and not a great formalism.)
+
+Let's say something like the opposite of indulgence is (self-)suppression, and let's say that indulgence plus meditation leads to burn-off or integration.
+
+And let's say burn-off and integration lead to unification (of self and will) and fludity. And let's say unification and fludity leads to burn-off (or circularly, integration) of will, which leads to effortlessness and lack of grasping, craving, and thirst. This is a draft. And it's gesturing vaguely and the phenomenological experience of all of this, as and how it happens.
+
+A key piece of all of this is are the principles of "redo-to-undo" and "layering."
+
+So "layering" is when one takes an action that adds something on top of that action, such that the propensity to take that action, in the manner that it's taken, in the related contexts in which it is "triggered" to be taken, becomes fixed. So layering is "layering over," "papering over," an action propensity with "something else." This usually puts the "trigger" of the action out of awareness, as well as the knowledge that it has been triggered out of awareness, except until after it's already been triggered, is already unfolding, and finally, in a way that prevents future changes (until delayering occurs). So there's some sense in which something can only change when its "mechanism" or "root" or "original sense impressions" are in awareness, and that can only happen when those original sense impressions are both "fully gathered" and "fully delayered." When something is fully delayered it is generally positively labile, changeable.
+
+Layering can happen on top of layering, massive sheets and towers of layering, within the bodymind, that starts to look like twisting or tangling or wrapping around and through the bodymind.
+
+Layering, in fact, is itself is a strategy, when we need to protect or hold in place a behavioral pattern. Layering comes at the cost of rigidity, narrowed action affordances, and a sometimes huge delay in changing those action patterns in the case one learns new information or one's circumstances change. One might have to do a great deal of delayering, over months, or years (10,000 hours!), in order to change habits of mind and action that have become contextually counterproductive.
+
+A long-term alternative to layering is structural fluidity. Instead of layering to preserve action patterns, one sort of "melts all the ice" of layering, until there's just "water." The analogy doesn't quite hold because water is sort of structureless, but in partially or fully delayered bodymind the "fluid" has structure. And/&#8203;but just like water (in gravity) can spontaneously and effortlessly take the shape of whatever container its in, a structurally fluid bodymind can spontaneously take the shape of whatever life situation its in (with attendant wellbeing) and inclusive of spontaneous proactive action to shape that life situation in accordance with desires and preferences.
+
+Now, delayering only happens when trigger, mechanism, original sense impressions are finally in awareness (after above layers are delayered), and finally what also has to happen is a "redo" as part of that "exercised lability." Sometimes that's very overt and other times its liminal.
+
+In any case, rejection prevents redo! This is why I think rejection and renunciation can lead to constraint, twists, tangles, fixedness, non-unification, fragmentation, self-deception, rigidity, a self-battle, and so on. 
+
+Some buddhist tantric traditions recommend indulgence and investment in life, along with meditation. This I think aligns with my view.
+
+Renunciation maybe also doesn't really say what to do when, at a fine-enough grain. Sleep and micronutrients, at the right times, might make someone a better renunciate. With indulgence we might learn things, just as much as with some of the positive aspects of (temporary or experimental) renunciation l concede above. So renunciation is maybe one-sided, and a better thing might be a more balanced practice system of when to indulgence and when to gently, temporarily refrain from indulging (and what to do when indulging would be unsafe).
+
+Back to first- and second-order desires, this mediately implies that a sort of desire tetris might be possible, even while fully accepting all of one's desires, at any given time, as best one can.
+
+If there's acceptance then there can be juxtaposition, prior to burn-off or integration/&#8203;unification. And juxtaposition allows the system to harmonize and compare things. (And rejection prevents juxtaposition from taking place. Note: It's ok to reject until or unless one doesn't! One accepts even rejection in order to eventually make acceptance instead of rejection safe. If we reject rejection that will cause fixation in the rejection! One might explore how it can be ok to reject something forever, and in eventual safe acceptance of that rejection then rejection potentially becomes labile towards acceptance.)
+
+So we want what we want until or unless we don't. And we can come to trust that at some deep level we won't let go of things until we fully believe doing so is in our best interest. And, regarding a tetris of desire, in juxtaposition we can see that we only replace things anyway when they are as good or better than the thing we previously had. So all transformation sort of precedes by replacement that is "as good or better" at the finest phenomenological grain, and thus transformation is or can be safe and good, all the way down. I do think that one does ultimately let go of a lot of things because one sees that they turn out not to matter or to not be real. But that's part and parcel of "as good or better," rather "as good or better or didnt need it, didn't matter anyway, and here's why that's really ok." (There may be long experiences of pointlessness, and meaninglessness, and suffering in all of this, as part of transitions. But also generally, the system tries not to enter into those sorts of things, either, unless its safe and there's a good reason.) And all of this goes very well with indulgence--one of the best ways to realize one doesn't need something or it doesn't matter is to indulge it, and, to be fair, to try going with out, but the final burn-off will usually involve indulgence, so conceived, because of redo-to-undo (though redo-to-undo can happen via original sense impressions, as well).
+
+Ok, but maybe some people really like the idea of renuncation. That's just what they want to do. They prefer a simple life.
+
+I think that's fine as an end. We want what we want until or unless we don't. But I think some people confuse ends with means.
+
+And a bodymind can't arbitrarily self-modify without limit (or much at all) in the sense that when one goes "against the grain" one can only do that by layering. And each bit of layering removes some slack from the system where slack is sort of the fluid tetris workspace. The less slack the harder/&#8203;slower it is to change, and the harder it is to come up with local solutions and the less globally situated those solutions will be.
+
+So somewhat circularly, this would imply sort of a natural grain of change towards something non-special, ordinary, natural, a groundless, structurally fluid ground state.
+
+And I would argue that while all ends/&#8203;goals are in some sense valid, and we shouldn't judge people for their ends/&#8203;goals, there is some sense in which someone's ends can be more or less unified, integrated, groundless, structurally fluid, etc. (One reason to not judge is because the path can be very long and that usually there is a thread of extraordinary wisdom in the outside-view seemingly strangest and most convoluted of ends. They have local information that you do not, whether or someone seems to be acting in a destructive or stuck-in-the-past sort of way.)
+
+So if there is something like an high-dimensional envelope of all possible bodymind states, where the surface of the envelope is bounded by running out of slack in that particular direction, except for the point on the envelope, that's a sort of attractive basin, that is a natural ground state, for that person, given that person's contingent life history and life situation (noting that there's no eternal god's-eye-view and that all this is groundless, empty, impermanent). And then we have a gradient and a way to have trajectories. And then we can look at the space of all trajectories through that envelope, and neither the envelope, nor the trajectories are arbitrary. And we can sort of look at where any particular senses of renunciation-as-end kind of fall inside or on the surface of that envelope. And we can also have a "space of all possible operations on bodymind" where successive application of available operations, at given points, move a bodymind through that state space. And we might have some idea of "counterfactual retrospective desire," like what someone would choose in some counterfactual world. Now there's a sense in which counterfactuals aren't real and that envelopes, etc., are a frame and possibly a coercive one. And all of this sort of depends on something like metaphysical or physical/&#8203;genetic buddha nature. Anyway, there are other ways to look at this and this could be importantly wrong however interpreted, experienced, or conceived. But this is *a* frame.
+
+And one might come to agree or quibble with something like at the bottom of everything i think is just sort of “spontaneous living, spontaneous life” that just is, as it is, nothing more to add or take away, but still always learning and growing, the bodymind in the deepest place is springs forward in wanting and patience and compassion and it’s clean and raw and sometimes painful but a wanting that’s in some sense utterly free of suffering and exists for itself as itself. so like ennui, despair, depression, catatonia, desperation, horror is always ultimately unnatural (yet fully acceptable when safe) and the natural thing is costlessly, effortlessly vivacious, [sometimes any of simple, noble, dignified, crazy, haggard, carefree, joyous, loving, peaceful, completely at peace, already dying, already dead, completely alive] hungry and fulfilled and curious and satisfied all at the same time, sort of, kind of. always asking, what if, maybe this is wrong, what’s fascinating around the next corner, what if..
+
+Anyway there's lots of only-so-far-experientially motivated stuff, here, and lots of claims, and a bit sparse on arguments and explanations, but that may be just fine, depending on what this section is for and trying to do.
 
 [<a href="#157a9h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
