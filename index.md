@@ -2156,7 +2156,7 @@ A superdeceiver might make use of any or all of pretense, lying (including lies 
 
 In any case, I think a superdeceiver is especially someone who has the following traits:
 
-**(a)** They are someone who has a relatively increased degree of fragmentation, compartmentalization, separation between any “modes”/&#8203;“personalities”/&#8203;“states”/&#8203;"parts"/&#8203;"selves"/&#8203;"ways of being" And this allows such a person to lie/&#8203;“lie” more smoothly and with greatly reduced “tells” or "leakage," sometimes down to effectively, (non-)detectably zero, during any particular instance. They can sometimes appear "completely" sincere, confident, contrite, emotionally injured, and so on.
+**(a)** They are someone who has a relatively increased degree of fragmentation, compartmentalization, separation between any “modes”/&#8203;“personalities”/&#8203;“states”/&#8203;"parts"/&#8203;"selves"/&#8203;"ways of being" And this allows such a person to lie/&#8203;“lie” more smoothly and with greatly reduced “tells” or "leakage," sometimes down to effectively, (non-)detectably zero, during any particular instance. They can sometimes appear "completely" sincere, confident, contrite, emotionally injured, and so on. [Note: Philosophy and psychology have written about self-deception and "leakage," as other places to look for more on this.]
 
 **(b)** They are someone who makes use of something like, other individuals' beliefs of the form, “if they were lying they would never do X, let alone Y”, in that the superdeceiver privately expends extraordinary resources in order to then in fact do/&#8203;perform/&#8203;display at least one Y, or two, and to maybe throw in a sprinkling of X's, to boot.
 
