@@ -8052,6 +8052,10 @@ And one might come to agree or quibble with something like at the bottom of ever
 
 Anyway there's lots of only-so-far-experientially motivated stuff, here, and lots of claims, and a bit sparse on arguments and explanations, but that may be just fine, depending on what this section is for and trying to do.
 
+\*
+
+Note: So things are most "stable" when a person is mostly "ice" or mostly "water" ("fluidly ground state stable") but when things are half-melted and big chunks of ice are breaking and falling, worst case, then that's sort of where nonmonotonicity comes in. Ideally "melting" is smooth and proceeds via surfaces from top to bottom, as it were. But this isn't always contigently practically possible.
+
 [<a href="#157a9h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
