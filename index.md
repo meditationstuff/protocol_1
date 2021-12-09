@@ -168,6 +168,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="50h" href="#50">part 18: depth of horror</a>
 		* <a id="51h" href="#51">part 19: wisdom and antiwisdom</a>
 		* <a id="52h" href="#52">part 20: inappropriate reification</a>
+		* <a id="52ah" href="#52a">(super)deception, etc. (draft) (needs an initial editing pass)</a>
+		* <a id="52bh" href="#52b">framing / frame management / frame control (stub)</a>
 		* <a id="53h" href="#53">creativity</a>
 		* <a id="54h" href="#54">the creativity of evil (plus sequence commentary)</a>
 		* <a id="55h" href="#55">joy (stub)</a>
@@ -2138,6 +2140,93 @@ To be sure, sometimes, often, wisdom consists of just maintaining boundaries and
 Remember all the above is just a theory of convenience, a story. Find your own truth. Don’t inappropriately reify any of this or take my word for it. Good science is still true. Planes still fly. Government still do the thing they do. Computers compute. Stuff that’s true is simultaneously true. Give yourself time to integrate new, surprising stuff into a unified worldview. It will take some time.
 
 [<a href="#52h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+
+
+# <span id="52a"></span> (super)deception, etc. (draft) (needs an initial editing pass):
+
+I am workshopping an idea of “superdeception” and "superdeceivers." It's not a great name; it's a little cringy. I might pick a different name later.
+
+A superdeceiver might make use of any or all of pretense, lying (including lies of comission and lights of omission), deception, misleadingness, misdirection, equivocation, prevarication, reframing, paltering [1], and bullshit [2]. Some of the previous are of course vague or overlapping, while some are pretty specific. And some of these can be used for neutral or even constructive purposes, and inadvertent use of some them doesn't necessarily mean someone is causing harm or is a "bad person."
+
+* [1] https://en.wikipedia.org/wiki/Paltering [Last accessed: 2021-12-09]
+* [2] (as in, without regard to its truthfulness or falsity; Frankfurt, Harry G. On bullshit. Princeton University Press, 2009.; https://en.wikipedia.org/wiki/On_Bullshit [Last accessed: 2021-12-09]
+
+In any case, I think a superdeceiver is especially someone who has the following traits:
+
+**(a)** They are someone who has a relatively increased degree of fragmentation, compartmentalization, separation between any “modes”/&#8203;“personalities”/&#8203;“states”/&#8203;"parts"/&#8203;"selves"/&#8203;"ways of being" And this allows such a person to lie/&#8203;“lie” more smoothly and with greatly reduced “tells” or "leakage," sometimes down to effectively, (non-)detectably zero, during any particular instance. They can sometimes appear "completely" sincere, confident, contrite, emotionally injured, and so on.
+
+**(b)** They are someone who makes use of something like, other individuals' beliefs of the form, “if they were lying they would never do X, let alone Y”, in that the superdeceiver privately expends extraordinary resources in order to then in fact do/&#8203;perform/&#8203;display at least one Y, or two, and to maybe throw in a sprinkling of X's, to boot.
+
+A superdeceiver comes in two main types, though any superdeceiver can be a mix of both, and there is a necessary relationship between the two. These types are "unknowing, natural" and "knowing, synthetic, reflective":
+
+* The **unknowing, natural** superdeceiver might experience themselves as charming, persuasive, charismatic. They are "naturally" chameleonlike, changeable, smooth. They are more likely to "really deep down believe" the things that they're saying and to "really deep down feel" the things they seem to be experiencing--for both, at least in the moment that they're saying them or feeling them. They are relatively unaware of their other parts or states, or their current one, "as such,"" or of their contextual "activation" and "deactivation." They are relatively unaware of thought, believed, or spoken contradictions, hypocrisy, apparent self-deception. And/&#8203;or, these are ignored or rationalized away, from their current vantage point or state. Further, if other's press the issue, they may intensify misdirection, with lying, paltering, or belligerence or tacit threat. They are perhaps fractionally relatively more likely to experience paranoia or have a persecution complex, to have the experience of being a victim or being treated harshly or unfairly, while they're self-believed to be "well-intentioned," "just doing their best," "having perhaps taken regrettable and unintentional but not-too-bad harmful actions." (Regarding the experience of unfair persecution, this is especially when the weight of their caused harms eventually incites others to publicize perceived harm or to pursue remedies and reparations). (This can be exacerbated because people who've been harmed may focus on relatively more legible harms, or desperately or inadvertently round off harm to something more legible, in a way that isn't quite accurate, because of the ambiguous, vague, or nebulous nature of how they've been harmed, at least as they experienced it. So a superdeceiver might rightly point out that they never committed some specific harm, intentionally or unintentionally; but, first-pass, it's equally likely that the superdeceiver is, in their own mind, reframing, reconceiving, ignoring details, forgetting, or simply deceiving themselves about what actually happened, with possibly no awareness that this is happening.)
+
+
+* The **knowing, synthetic, reflective** superdeceiver sets aside deliberate time to reflect on and plan how to persuade and influence. They are perhaps fractionally more likely to be malicious, vindictive, malevolent, vengeful, hateful. They might self-style themselves as a planner, a strategist, and might even idolize fictional supervillains (but ironically or only partially, of course). Contradictions and hypocrisy are relatively more likely to be somewhat reflected upon and tolerated, though outwardly denied and minimized, for their utility in getting out of situations where they're accused of harm or for the purposes of securing trust. They'll both partially, sometimes kind of know, and kind of not know, that they're doing what they're doing, in different contexts, relative to contexts in which they're "being a different part" or "in a different mode."
+
+* Importantly, a superdeceiver may have a **mixture of multiple unknowing parts**, showing different sides in diffrent contexts, with perhaps at least one **knowing part**. Importantly, if there is at least one knowing part, then perhaps by definition, there **"must"** be at least one unknowing part, spontaneously or reflectively deployed, for damage control and influence.
+
+Most people are just not prepared to encounter superdeceivers, to encounter traits (a), (b), or (a)+(b), in the wild. And, when it happens, perhaps one or two things will happen:
+
+(1a) A person will be influenced by a superdeceiver in a way that's up to extremely "reality distorting" or "[experience of] reality damaging." Someone might be quick to point out that people experience "reality" in different ways or that their can be multiple conceptual schemas or lens/&#8203;frames to interpret the world. What a superdeceiver is doing is distinct from merely offering different lenses in that those lenses will usually be "shaped" so that they don't admit anomalies or edge cases into those lenses, and those lenses will contain some fractional or large percentage of outright fabrication. And then this is doubled-down upon, when questioned, or questioning is headed-off. So the cumulative effect is a kalleidescope of distortion and self-distrust on the part of the person being influenced, which might cause suffering and take a long time to untangle.
+
+(1b) Additionally, there may be a mismatch between what a superdeceiver is saying and what they're doing or vibing, including a mixture of requests, bid, warnings, invitations, refusals, and so on. And this can be confusing, crazy-making, or jamming, or can elicit compliance or curbing that can last for a long time into the future.
+
+(2) A person might also be very hurt on the meta-level. Some people don't have any expectation of such a level of reflective or unreflective deception, so it can be shockign and destabilizing when it they finally realize it's happening (which can take a very long time to come to terms with), and while it's happening, and during the period of coming to terms, there can be a lot of subtle or overt suffering, in the tacit and perhaps eventually explicit sensemaking. Even when a person believes or is aware of ("bad-faith") adversariality or competition in the world, or even malevolence or hatefulness, or callousness, inhumaneness, or disregard, that can sometimes be only abstract, and a concrete encounter can be just as destabilizing as in the naive case, and potentially more so because they believed themselves inoculated against being susceptible, or more resilient to harm than they happened to be, or it simply "wasn't the way they thought it was going to be," in the concrete particulars. It might take a while for it to be recognized as an instance of what it was. This can be existentially, metaphysically, morally destabilizing in the "human nature", "personhood", and "how the world works" senses.
+
+(3) Finally, beyond emotional harms (and, maybe less frequently, physical harm), there is possible financial impact or other resource impact, a sudden or creeping betrayal or unfairness/&#8203;"unfairness" or dashed expectation, that produces a highly asymmetric or even opposite-sign payoff for the superdeceiver, or at least an absence of consequences (at least for a time, or ongoingly), at the expense of the person being deceived or misled.
+
+All-in-all, it's usually a mixed bag or a net negative, for the person being influenced or deceived.
+
+So, what are some things to watch out for? (And how should one take this phenomenon or schema/&#8203;lens? I'll only discuss the first thing, here, though all of these are important.)
+
+If someone checks off a lot of trust boxes or gives of a lot of seemingly costly or hard-to-take trust signals or signs ("X's and Y's"), perhaps in a short period of time, this is sort of a yellow flag, ironically or paradoxically. The shortness of time might or might not especially be a tell, in that someone who didn't have a perhaps short-term end or goal, for another person, might more naturally or incidentally space out spontaneous or situationally appropriate trust signals, in a truly semi-incidental way. A shorter timeframe will be preferred by a superdeceiver, because there's less opportunity for others to witness "tells," "leakage", or anomalies. 
+
+Additionally, if a person seems particularly smooth or charismatic, this can be a yellow flag, as well. Sometimes the "seamlessness" of the smoothness or their complete lack of vulnerability (maybe only realized in retrospect) is a tell. But smoothness seamlessly combined with vulnerability can also be a tell, perhaps in the seamlessness.
+
+All in all, their are no perfectly reliable patterns. One might suggest watching the pattern of a person's behavior, over time, as eventually a pattern of leakage, tells, or anomalies will eventually start to surface. But this can also be dangerous because sometimes being close enough to eventually observe such a pattern can also cause cumulative harm to the observer, during that time. There will be something attractive about the superdeceiver, real or apparent value, so it can be a hard call, sometimes, as to whether to approach or avoid, and how much. If the individual creates time pressure (to commit or go away) or there are subtle or overt behavioral requirements for being in their presence or to get things from them, either enforced by them or a group, tacitly or overtly, then that can be a yellow or potential red flag.
+
+
+**The "Superethicist"**
+
+
+In addition to a superdeceiver, one could also talk about a **"superethicist"**, with both a "synthetic" type and a "natural" type.
+
+The synthetic superethicist will have a preoccupation with ethics, morals, consent, and they might police the behavior or those around them. The synthetic aspect sort of also means semi-"explicit" or semi-"articulated", so a lot of this will be in words and discrete actions. And this actually has a similar effect to offered lenses/&#8203;frames of a superdeceiver--anomalies might be hard to account for, important details might get ignored. There might be a mismatch between saying, doing, and vibing, with, say, some destructive obliviousness and/&#8203;or self-serving-ness, somewhere. So even a well-intentioned superethicist might have a destabilizing effect on other people.
+
+And, so a synethetic superethicist is almost synonymous with a **flawed superethicist**.
+
+The other type, the **"natural"** type, is a bit closer to "just human-ing", "just being human with other people" but since most people have hangups and blindspots, even someone who's extraordinarily non-self-abnegatingly compassionate, self-aware, other-aware, will of course likely have blindspots and limitations. That is, they'll have some "fragmentation", some lack of integrity, something, at least in some contexts or under some pressures, and that's ok.
+
+Finally, it's not uncommon for there to be a **superdeceiver in the guise of a superethicist**.
+
+
+**Conclusion, Community, and Shadow**
+
+We are all like the above categorizations, at least little bit. Through self-transformative practice and non-coercive community, we can become less fragmented, more integrated, more consistent in a good way, have more integrity.
+
+Something to keep in mind is that people who are particularly fragmented, may be particular drawn to self-transformative practice, because of how such practice can help, whether they realize that that's the (partial) reason, or not. But because meditation timelines are long, meditation communities are sometimes home to a higher proportion of self-deception, fragmented, hypocritical people than in other contexts. Sometimes this is partially quite reflected upon and sometimes not. Sometimes the reflected upon portion makes it harder to see the remaining shadow. Sometimes talking about shadow as such drives actual shadow even further into hiding. 
+
+
+[<a href="#52ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="52b"></span> framing / frame management / frame control (stub):
+
+This section is a stub.
+
+\*
+
+Notes:
+
+* https://knowingless.com/2021/11/27/frame-control/ [Last accessed: 2021-12-09]
+
+
+[<a href="#52bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="53"></span> creativity:
 
