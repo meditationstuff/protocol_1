@@ -10793,6 +10793,12 @@ But, for a meditator, all their "scales" will be relatively fractally more towar
 
 P.S. I think there are ambiguities, equivocations, and inconsistencies in these analogies, but, on net, I think they're more illuminating than confusing.
 
+\*
+
+Balancing isn't just bilateral. There's also non-headyness/&#8203;non-headiness (which is not no-head, except in the nondual sense of "having no head"). That is it's like the body is a dense or superficial lacework of potential rivulets and trickles, with an activation energy hump, and meditation, successfullly, iteratively gets things over that hump (non-forcily; it's its own path of least resistance, all things being equal, in the end), and then fractal rivulets or trickles follow gravity, in a little-by-little iterated partwise round robin, or in parallel, and the end result is sort of a "settled evenness" or "even settledness", like water in a container (while still sensitive, dynamic, alive) throughout the body(mind), all across the surface of the body(mind), where "everything" is distributed evenly, leveled, so no lumpiness, no clumpiness, no sharpness, etc. Late stage, when experiences are had, sprinkled in on exposed surface areas, when things are changed or added, there is matching up to zero-lag synced non-local accounting, balanced redistribution, elsewhere in the body(mind), or at least a quick iterated, durational reaccounting or redistribution, if anything even starts to get "lumped" or "sharp" or "unevenly loaded" or "unevenly distributed" (perhaps throughout the available "substrate", as it were, emptiness and groundlessness and nebulosity and provisionality, withstanding). Fully evened out, as it were, may be the same as no remaining technical debt [cf. also luminosity, vividness, centerlessness, etc.]
+
+\*
+
 See also:
 
 * https://en.wikipedia.org/wiki/Self-organized_criticality
