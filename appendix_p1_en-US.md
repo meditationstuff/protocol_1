@@ -1284,6 +1284,10 @@ modus ponens, modus tollens
 
 If an A is P, then that A is Q.
 
+It could have been the case [that X]; but it/that was not so/not the case. Had it been the case [that X]/so…
+
+It could have been the case [that X]; but it/that was not so/not the case. Had it been the case [that X]/so…
+
 https://en.wikipedia.org/wiki/Counterfactual_conditional
 
 ---
