@@ -7388,9 +7388,23 @@ Keep something company, hang out with it, spend patient time with it, without tr
 
 Try to get on the problematic thing’s side, in (maybe slight) part, as much as you can and is safe. This can on net make the bodymind “more whole,” and free up more slack, in a way that allows the problematic thing to become less problematic, on its own terms while self-respecting its own needs, in a way that is immediately or long-run better, but or integrative, for the whole. (Not to inappropriately reign any of these “things.”)
 
-comment: "loop back rotate around inside"
+comment:
+
+"loop back rotate around inside"
 
 [<a href="#884auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="885auxiliary"></span> best could have gone: (restatement)
+
+Ask, what’s the best it could have gone? How’s the best it could have gone?
+
+comment:
+
+Alternatives: What’s/how’s the best (counterfactually, magically, all-things-being-equally) it [that past thing, etc.] could have otherwise gone?
+
+Related: How can you complement all you can to yourself? How can you give all you can to yourself?
+
+
+[<a href="#885auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

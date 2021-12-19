@@ -5078,6 +5078,7 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. What can you keep?
 1. Who are you [liminally verbally] narrating for? (Who’s your audience? Who’s observing?)
 1. If not permanence, then what?
+1. What’s the best it could have gone? How’s the best it could have gone? Alternatives: What’s/how’s the best (counterfactually, magically, all-things-being-equally) it [that past thing, etc.] could have otherwise gone? Related: How can you complement all you can to yourself? How can you give all you can to yourself?
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

@@ -894,5 +894,6 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="882auxiliary_names" href="#882auxiliary">do/block with a feather</a>
 * <a id="883auxiliary_names" href="#883auxiliary">keep company, hang out with (restatement)</a>
 * <a id="884auxiliary_names" href="#884auxiliary">align with it (restatement)</a>
+* <a id="885auxiliary_names" href="#885auxiliary">best could have gone</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
