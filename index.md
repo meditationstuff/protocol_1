@@ -8498,7 +8498,7 @@ narrow sense in which (mere) understanding is all you need to do
 
 at least one sense in which things which you thought were just “the world,” “how things are” actually turn out to be “you, also”, “map” (versus “territory”), “representation” (in some sense), not-arbitrary, still-dependent but non-arbitrarily malleable, changeable, something that flows according to ultimately spontaneous causes and conditions // self, goals, world co-arise together
 
-at least one sense in which meditation, wayfinding, etc., whave to undergo deep corrections which involves de-entrenching of deep concepts/ideas of meditation, wayfinding (which can happen during the process of doing these), and sort of have to correct out of the concept or idea of these entirely, with no remainder
+at least one sense in which meditation, wayfinding, etc., have to undergo deep corrections, which involve de-entrenching, of deep concepts/ideas of meditation, wayfinding (which happens / can happen during the process of doing these), and one sort of has to correct out of the concepts or ideas of these entirely, with no remainder, long-run
 
 at least one sense in which, long-run, there is "flatness," “no depth” / ?perfect-stillness / perfect determinism / like a reversible, liquid state machine that is driven by external inputs, driven by the "world," "the whole thing all at once", no need for "self-ing", in a good way
 
