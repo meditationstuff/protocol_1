@@ -4748,6 +4748,7 @@ Notes:
 * internalization/coping (non-“armored”, non-essentially-layery, per se/as such
 * shoring / shoring up / making stable / [trying to make stable] / pressing in / [trying to make timelessly permanently permanent ongoingly stably durational] / fortication / [trying to] hold[~ing] in place
 * top-down-ness, overhang-ness[, "de-synch" (between something like "perception" and "action"]
+* tucking, folding
 
 
 Notes:
@@ -8437,6 +8438,14 @@ at least one sense in which any “[deliberate] action”--anything besides spon
 
 at least one sense in which love and service are the “ultimate” answer to the “reality” of personal suffering (in no way precluding possible fallibility, ongoing learning in part through unfortunate mistakes, uncertainties, impulsiveness, nonmonotonicity, and potentially causing harm through “ignorance in the guise of competent or wise benevolence,” etc.)
 
+at least once sense in which there's no (long-run) need for suffering (and/but there's a way it's doing it's very best for you, possibly confused-ly, until it's no longer needed)
+
+at least once sense in which there's no (long-run) need for self-ing (and/but there's a way it's doing it's very best for you, possibly confused-ly, until it's no longer needed)
+
+at least one sense in which nothing matters, including there being no ultimate judgment or consequences, no duty, no responsibility, no necessity no obligation, can just do what want (which is then paradoxically, constructively spontaneously meaningful, mattering enough, precisely and sufficiently)
+
+at least one sense in which you are not an extensional body moving through a three-dimensional cartesian-esque space
+
 at least one sense in which selfishness and self-servingness "all the way down" is ok and good
 
 at least one sense in which experience, apparentness, seemingness, and more, is “empty,” like this: “what you ‘see’ is all there is; there’s nothing behind it” and “and even *that* too is empty”
@@ -8444,6 +8453,8 @@ at least one sense in which experience, apparentness, seemingness, and more, is 
 at least one sense in which there are no things, as such; there’s nothing thing-like 
 
 at least one sense in which there are no generalities or (let alone) universals [/—nor universals]; there is only radically concrete and situated particulars (and of course at least one sense in which there are also no particulars)
+
+at least one sense in which there are no infinities
 
 at least one sense in which all there is now, is what’s now
 
@@ -8463,7 +8474,7 @@ at least one sense in which there is no single, one most good and correct way to
 
 at least one sense in which there's no difference between an enlightened and unenlightened mind; at least once sense in which being enlightened changes nothing (and other senses in which lots of things change); and at least two senses in which there's no such thing as enlightenment (or meditation)
 
-at least one sense in which there's no perfection. at least one sense in which perfect control, understanding, or certainty doesn't exist [adapted from David Chapman, mistakes mine]
+at least one sense in which there's no perfection. at least one sense in which perfect control, understanding, or certainty don't exist [adapted from David Chapman, mistakes mine]
 
 [there should be an entry somewhere in here that teases out something about when something in the space of locality does [a lot] and doesn't apply]
 
@@ -8472,6 +8483,32 @@ at least one sense in which no difference / no boundary, between "inside" and "o
 at least one sense in which everything is inside you, and/or/rather at least all experience
 
 at least one sense in which the "the future", or one's experience of the future, is ultimately empty, groundless, and "liquid," at least for a time, in the sense in which it phenomenologically and functionally "re-seats" itself, where it lives, how it works..
+
+at least one sense in which the past and future are "now"
+
+at least one sense in which experience, sensations, perceptions, any experiencing self-illuminate, belong to themselves, are self-evident (see also luminosity and vividness)
+
+at least one sense, long-run, letting sensations be just they are is assures the best possible outcome and can trustingly rest into that (cf. self-liberating)
+
+at least one sense in which "there is nothing outside of it" (cf. emptiness, nonduality, etc.)
+
+at least one sense in which self and world are themselves interrelated, constructed interpretations “all” the way down
+
+narrow sense in which (mere) understanding is all you need to do
+
+at least one sense in which things which you thought were just “the world,” “how things are” actually turn out to be “you, also”, “map” (versus “territory”), “representation” (in some sense), not-arbitrary, still-dependent but non-arbitrarily malleable, changeable, something that flows according to ultimately spontaneous causes and conditions // self, goals, world co-arise together
+
+at least one sense in which meditation, wayfinding, etc., whave to undergo deep corrections which involves de-entrenching of deep concepts/ideas of meditation, wayfinding (which can happen during the process of doing these), and sort of have to correct out of the concept or idea of these entirely, with no remainder
+
+at least one sense in which, long-run, there is "flatness," “no depth” / ?perfect-stillness / perfect determinism / like a reversible, liquid state machine that is driven by external inputs, driven by the "world," "the whole thing all at once", no need for "self-ing", in a good way
+
+at least one sense in which there's no need for a particular kind of self-ing, self-reference, or a particular sense if “internality” (though interoception is still a thing)
+
+at least one sense in which you are the (your representation of) the world, without remainder
+
+at least one sense in which safety → surrender → “control”(+surrender) →/= alignment/participation
+
+at least one sense in which, for those with, or who had, gender/&#8203;orientation/&#8203;presentation/&#8203;role stuff, it’s self-"sorted", aligned, untangled, all the way down, beyond labels and concepts and "you know what to do," through and through, up to unknown unknowns, and so on (draft)
 
 
 (see also: David Chapman's meaningness work)
