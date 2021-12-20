@@ -8486,7 +8486,7 @@ at least one sense in which the "the future", or one's experience of the future,
 
 at least one sense in which the past and future are "now"
 
-at least one sense in which experience, sensations, perceptions, any experiencing self-illuminate, belong to themselves, are self-evident (see also luminosity and vividness)
+at least one sense in which experience, sensations, perceptions, any experiencing self-illuminate, belong to themselves, are self-evident (see also luminosity and vividness) [Ingram: "The field lights up itself totally, without division, without restraint, without any barrier or gap, so disconnection is impossible."]
 
 at least one sense, long-run, letting sensations be just they are is assures the best possible outcome and can trustingly rest into that (cf. self-liberating)
 
@@ -8510,6 +8510,9 @@ at least one sense in which safety → surrender → “control”(+surrender) �
 
 at least one sense in which, for those with, or who had, gender/&#8203;orientation/&#8203;presentation/&#8203;role stuff, it’s self-"sorted", aligned, untangled, all the way down, beyond labels and concepts and "you know what to do," through and through, up to unknown unknowns, and so on (draft)
 
+at least one sense in which (long-run) there's no watcher (cf. centerlessness; no observer, no center point) and no doer (cf. agencylessness; no controller, no-will-er) (Daniel Ingram formulation, mistakes mine; I also like "no particularity".)
+
+at least one sense in which (long-run) there's a lining up, a synchrony, an in-phase-ness, a non-overhang, a non-folding or tucking, in the having of experience
 
 (see also: David Chapman's meaningness work)
 
