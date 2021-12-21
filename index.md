@@ -8514,7 +8514,9 @@ at least one sense in which (long-run) there's no watcher (cf. centerlessness; n
 
 at least one sense in which (long-run) there's a lining up, a synchrony, an in-phase-ness, a non-overhang, a non-folding or tucking, in the having of experience
 
-(see also: David Chapman's meaningness work)
+at least one sense in which consciousness becomes non-choppy, non-discontinuous, non-jumpy, non-joggy, non-wrinkly/&#8203;non-fold-y, non-depthy-y, and so-then "liquid" and zero-lag-phase-synced/&#8203;paced parallel and reversibly (to some degree) most especially (in some sense) *serialized* (both experience and action, in some sense, at least in part, up to surprise and unknown unknowns)
+
+(see also: David Chapman's meaningness work; Daniel Ingram's work)
 
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
