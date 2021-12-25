@@ -334,6 +334,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
 		* <a id="173h" href="#173">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
 	* <a id="192ah" href="#192a">mark's approximate practice summary highlights</a>
+	* <a id="192bh" href="#192b">miscellaneous pith notes</a>
 * <a id="174h" href="#174">teaching and learning and creating and relating (meditation and anything)</a>
 	* <a id="175h" href="#175">teaching</a>
 		* <a id="177h" href="#177">guided on-ramp for main practice p2 [draft]</a>
@@ -10349,7 +10350,6 @@ One step at a time, one mind moment at a time.
 
 [<a href="#173h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-
 # <span id="192a"></span> mark's approximate practice summary highlights:
 
 (when I say "less than X hours," below (e.g. <20 hours) it's probably wayyyyyy less. I tried to do like a 90-90% confidence absolute ceiling)
@@ -10466,6 +10466,14 @@ In some ways, at least one of the following has to make sense for someone to eng
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="192b"></span> miscellaneous pith notes:
+
+* In the spirit of Daniel Ingram's (and others', of course) noting/&#8203;noticing, or Shinzen Young's "subtle is significant", leave out nothing, including nothing (or is that misleading?!). Anything and everything is fair game, but even this can lead to inappropriate reification or ontological fixation.
+
+* You can't leave anything out and you can't speed-run it. There is/&#8203; no corner-cutting, shortcuts. Haste, hurrying, rushing are illusory. (And momentum is problematic.) For both/&#8203;all of these, if they are there, you eventually have to go back and "clean up," and do so "perfectly." Nothing can be left out. (But also nothing *is* left out--and correct practice is enough to find it all. Something vaguely in the spirit of the meta protocol helps but also the system, as it were, wants to find everything, as it were, will spontaneously reach for everything, as it were; it always/&#8203;already knows what to do, and you can long-run trust/&#8203;rest into that.) All that said, as per usual, there might still be miles and miles of all these, (in part) because they were already previously there, latent in the sysem. So if there is ongoing attempted corner-cutting, ongoing haste, hurrying, rushing, etc., they doesn't mean you're doing anything wrong, and that doesn't mean you aren't proceeeding even optimally.
+
+[<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="174"></span> teaching and learning and creating and relating (meditation and anything):
 
