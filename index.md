@@ -274,6 +274,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="147ah" href="#147a">when things get worse again--burn-off, integration, suppression, unsuppression</a>
 	* <a id="147bh" href="#147b">integration, settling, unsettling, resettling, locality, globality, unity (draft)</a>
 	* <a id="148h" href="#148">last gasps</a>
+	* <a id="148a1h" href="#148a1">worse for no reason, more X in general, and wisdom</a>
 	* <a id="148ah" href="#148a">involuntary movement, semi-involuntary movement, kriyas</a>
 	* <a id="148bh" href="#148b">kundalini</a>
 	* <a id="148ch" href="#148c">can't talk</a>
@@ -6443,8 +6444,6 @@ In any case, in addition to the long-run, less optimal dynamics of suppression a
 
 [<a href="#147bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-
-
 # <span id="148"></span> last gasps:
 
 One is sort of making it safe to re-experience things, as part of how meditation works—eventually a re-experiencing is sort of the "final burning off of the (conditioning of the) thing." So often a person will re-experience at least a shadow of old, bad things, over and over again, until not again—things that they thought were long resolved, in the course of a great deal of meditation. (One trap is thinking that one is not making progress, because this thing has come up more than one time. It is progress! That’s just how the mind works.)
@@ -6465,6 +6464,58 @@ But if one realizes that this can be a thing, one can be more careful about the 
 
 [<a href="#148h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id=""148a1"></span> worse for no reason, more X in general, and wisdom:
+
+So there's some finer-grain distinctions that can be made, that maybe fall under the umbrella of nonmonotonicity, or not even.
+
+So can be sort of "pure 'negative' redo-to-undo" where old, unpleasant or problematic stuff, is just coming up as it's integrating, metabolizing, juxtaposing, burning-off, etc. (Sometimes it's yours, sometimes it's from other people, as it were, and so on.)
+
+And there can be the usual "triggering" after delayering and decompensating (see the "last gasps") section, where surface areas get exposed, and where compensatory behavior, temporarily, or stably, as part of a larger improvement, got removed first, and so a person can get "triggered" in ways that they long ago used to, maybe a long time ago, or even in new combinatorial ways that they've never experienced before.
+
+And there can be fractally and high dimensionally "heading in the wrong direction" (which technically, widened perspective, is the right direction, etc., etc.)
+
+And there can be sort of "pure nonmonotonicity" (this is a catchall, cop-out bucket--there are additional better distinctions to be made, here) where stuff is just moving around and sort of transiently, complexly suboptimal, along the way, and that can show up in a myriad of ways.
+
+So, finally, the main topic of this section, there's at least one more other thing that sort of has to do with something like "inferential transitive closure", or "epistemic closure."
+
+Even though there is no real corner-cutting, haste, rushing, etc., etc., there's still that sense in which one is paying off "technical debt" faster than the overage, random person (who might be net-accumulating technical debt, quickly, or very very slowly). That paying off faster than average is, loosely speaking, is what meditation is, in some sense.
+
+And part of that paying off, which is also *constructive*, is reaching *new conclusions* (not to inappropriately reify "new" or "conclusion(s)"--"a conclusion" can ring like a bell, sometimes, at least a first, but it is a nebulous non-entity, etc., etc.) about self and world, and so on. (See also the section: "meditation indirectly discloses domain knowledge".) These new conclusions are usually temporary waystations for something even better, and then even better, though eventually (thousands of hours), there will be nebulous, shimmery settling, more and more, sometimes with big changes, always ready to be awash in change, whether from within or without.
+
+And, these "new conclusions" include insight into *new risks and threats, new unhandledness*!--
+
+--sometimes you did kind of had an inkling before, but you just didn't have the bandwidth to deal with it; or, rather, it was obviously better to deal with what was in front of you, first, instead of this inkling, maybe for years. But, because of meditation (and etc.), over time, you now have more spaciousness and bandwidth because more things are handled, in general, or the ordering of things to do is rejiggering, in general, so stuff that was filed away for "later" is now getting reconsidered as possibly a thing that needs to be dealt with sooner, maybe; or, it really is something that really wasn't on your radar, yet, at all, but, through meditation (etc.) you "put two and two together," and now it is; or, now, the gory details of it, or the "threat surface area," is hitting you in much greater detail: spaciousness means that inkling has gone from inkling to vivid or just big. Sometimes this will creep up on you just after you've done "something," in relation to it, maybe something that you've done multiple times before, but *now* it belatedly gets tagged as "risky," "bad," something, and it's too late! You're already done it!
+
+And so maybe you freak out, modulo available equanimity (which can be very context-specific, so isn't always a great abstraction).
+
+And this can happen all over the place, these new and newly considered "threats," problems--it might seem to yourself or to the people around you, that, over time, you're getting steadily MORE neurotic, anxious, something, rather than less. Or there's bursts of extremity that maybe weren't happening before, or are now happening with greater frequency. (Now, it can mean that practice is proceeding in an unbalanced way, or it is just this phenomenon, being discussed here in this section.
+
+All in all, you're finding/&#8203;/realizing, even compulsively sussing out, more problems (and maybe knock-on causing even more problems, in reaction to all that) faster than you're solving them.
+
+Maybe it goes without saying, or it's important to note that seeming new (or old but more salient) risks or threats or problems might not be "real"! (Of course.) You, of course(!), can be super wrong about a thing being a thing or at least being a thing that locally or relevantly obtains. Intimations of threat can kinda coalesce, creep up on you--you just don't know yet, whether it's a problem, but a yellow light on the dashboard is going off or a red alert is sounding, because there's at least a provisional chance of "really bad." It can be stuff where it can make sense, be "reasonable," first-pass, sometimes, maybe, depending, or not at all, to be anxious or scrupulous about, like air quality, are the schools good, cooking food thoroughly, safety while driving, where your kid is at, inflation, lead paint chips, your future happiness, getting fired, race relations where you live, natural disaster preparedness, intimate relationship things, etc. In these cases, such things might be utterly, reasonably handle-able or sometimes, often, non-issues, but you just had never personally accounted for it, in some deep down way, that can then lead to feeling of anxiety or urgency, and potentially lead to impulsiveness or haphazard plans. It might not be a problem at all, never was, as partly evidenced by other people around you not freaking out about it, but sometimes other people can be wrong (or they are in fact behaving quite rationally or reasonably, even if they don't have good explicit reasons, as it were).
+
+Some things can be or feel especially hard before insighs, refactions, realizations, whatever, around emptiness, groundlessness, impermanence, non-externality, and a decent amount of fluidity and confidence that somewhere somehow this is going to solve or dissolve or at least the absolute best thing to do is to roll with it. (Of course, as you have seen or will see, extreme problem after extreme problem, each practically maximally different than the last one, eventually, will start to solve and dissolve, or something, as meditative progress continues (even as some things are worse than ever, or getting even worse, until they're not, all things being equal)).
+
+You'll be sorting through what you can and can't control, what's reasonable to do, based on expected value and risks and costs, and relatively to sort of your whole current cosmology and value system. Some people might "collapse" into temporary helplessness or hopelessness. Some people might incline a bit towards "heroic responsibility" (for better or misguidedly) or just plain megalomania and/&#8203;or meddling/&#8203;busybodying, including, via some route or another, entitledness, melodrama, and/&#8203;or demandingness, for a time.
+
+It can take months or a lifetime for some of this stuff to play out, with maybe a lot of initial flip-flopping in the first ten thousand hours, especially, etc., etc. Of course there is emptiness, groundlessness, fluidity, etc. Many of these "new problems" will be solved or dissolved, because of concrete solutions, because of metaphysics (as it were, dissolution thereof), because of the "Human Handledness is Already Success Principle" (the name is tongue-in-check; see elsewhere in the document)--that is, you've really, truly, all-the-way-down done everything you can about this, right here, right now, and so on.
+
+So, anyway, all in all, there can be this period where you might feel kind of alone, as you're newly sorting out new-to-you considerations about the world, deciding what to do about them, if anything, where it maybe feels pretty urgent and salient to you, but those problems are just not top-of-mind for the people around you. And this can lead to friction if other people had expectations of you, for your time, attention, behavior, work, intimacy, something, or they're just generally in a different headspace, for better and/&#8203;or worse.
+
+And so, in the meantime, as with general nonmonotonicity and anything, you sort of have to manage as best you can. That can include timing meditation strategically, which sometimes (often) isn't possible, being extra careful about "problematic momentum" (which is maybe usually problematic) talking to people in your life, as best you can, about why your headspace seems to change for now external reason or why you're having disproportionate reactions to things, keeping these sorts of dynamics in mind as best you can, and so on.
+
+And, over time, as per in part the whole point, you'll become more and more chill. Just like with "last gasps," these sorts of super-long-range inferences, plus regular input of the bleeding edge of true unknown unknowns, sometimes there can be big "unhandledness spikes" very late in the game.
+
+And/&#8203;but, all things being equal, over time, they will be met with more and more grace and equanimity.
+
+And the flip-side of all of this is *wisdom*. You become more constructively anticipatory, more poised, more proactive, your time horizon extends and extends, you do more little things now that have maybe big effects later (and ignore a gazillion other little things that don't matter, and you don't beat yourself up when you're not sure), and this is all gentle, costless, effortless, fluid, compassionate, non-inappropriately-reifying, careful, socially graceful, harmonious with others.
+
+(And sometimes a life like that will look like activism, politics, megaprojects, and sometimes it'll look like mentorship or being a good parent or playing videogames in a quiet part of the world, or something. Lots of important things happen with a generational lag, and family generations (and values) can be dynastic and exponential, so sometimes full-time teaching and parenting is maximal leverage, for world and/&#8203;or just self, even when large technological changes are sweeping the world, etc., etc., etc.)
+
+So, in conclusion, sometimes, freaking out about weird shit and being wrong about a bunch of stuff, and being kind of out of synch, in a bunch of ways, with people around you (until a long-run dynamic harmony, all things being equal, though not guaranteed, or context switch), means you're chewing through things, and extrapolating, maybe clumsily and especially error-ridden, especially at first, and you manage it as best you can, and this is the road to wisdom (and wellbeing and lots of stuff)...
+
+[<a href="#148a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="148a"></span> involuntary movement, semi-involuntary movement, kriyas:
 
@@ -8221,7 +8272,7 @@ I sometimes say something like, “after hundreds, thousands, or tens of thousan
 
 \*
 
-Finally, a sort of corollary to all this is that, since sometimes (heuristic or provisional) understanding precedes karmic burnoff, you might find yourself compulsively doing "miles and miles" of "knowingly the wrong thing," and that's ok! Burnoff/&#8203;burn-off/&#8203;metabolization/&#8203;integration is happening. Miles and miles. Sometimes wrong turns and backtracking can be avoided, but, modulo that, there's no shortcuts, no skipping, no corner-cutting: ultimately the *entire* territory needs to be walked, and the territory spontaneously does what it does, until it doesn't. So if you're doing something "bad" (or multiple things) for like five hundred hours, each, that's redo-to-undo, that's just what needs to happen.
+Finally, a sort of corollary to all this is that, since sometimes (heuristic or provisional) understanding precedes karmic burnoff, you might find yourself compulsively doing "miles and miles" of "knowingly the wrong thing," and that's ok! Burnoff/&#8203;burn-off/&#8203;metabolization/&#8203;integration is happening. Miles and miles. Sometimes wrong turns and backtracking can be avoided, but, modulo that, there's no shortcuts, no skipping, no corner-cutting: ultimately the *entire* territory needs to be walked, and the territory spontaneously does what it does, until it doesn't. So if you're doing something "bad" (or multiple things) for like five hundred hours, each, that's redo-to-undo, that's just what needs to happen. (Wrong turns and backtracking are included in the "10,000 hours" thing.)
 
 (And part of that will be doing meta-protocol-esque things to decide whether/&#8203;which/&#8203;where those miles and miles are entrenchment vs burn-off. That's ok, too, that's part of it. A seed of something in the spirit of the meta protocol, a seed of, hmm is this right, is enough for the at least 50.0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;0&#8203;1% [sic] burn-off versus entrenchment that will ultimately, cumulatively, do the thing.)
 
@@ -10471,7 +10522,7 @@ In some ways, at least one of the following has to make sense for someone to eng
 
 * In the spirit of Daniel Ingram's (and others', of course) noting/&#8203;noticing, or Shinzen Young's "subtle is significant", leave out nothing, including nothing (or is that misleading?!). Anything and everything is fair game, but even this can lead to inappropriate reification or ontological fixation.
 
-* You can't leave anything out and you can't speed-run it. There is/&#8203; no corner-cutting, shortcuts. Haste, hurrying, rushing are illusory. (And momentum is problematic.) For both/&#8203;all of these, if they are there, you eventually have to go back and "clean up," and do so "perfectly." Nothing can be left out. (But also nothing *is* left out--and correct practice is enough to find it all. Something vaguely in the spirit of the meta protocol helps but also the system, as it were, wants to find everything, as it were, will spontaneously reach for everything, as it were; it always/&#8203;already knows what to do, and you can long-run trust/&#8203;rest into that.) All that said, as per usual, there might still be miles and miles of all these, (in part) because they were already previously there, latent in the sysem. So if there is ongoing attempted corner-cutting, ongoing haste, hurrying, rushing, etc., they doesn't mean you're doing anything wrong, and that doesn't mean you aren't proceeeding even optimally.
+* You can't leave anything out and you can't speed-run it. There is/&#8203; no corner-cutting, shortcuts. Haste, hurrying, rushing are illusory. (And momentum is problematic.) For both/&#8203;all of these, if they are there, you eventually have to go back and "clean up," and do so "perfectly." Nothing can be left out. (But also nothing *is* left out--and correct practice is enough to find it all. Something vaguely in the spirit of the meta protocol helps but also the system, as it were, wants to find everything, as it were, will spontaneously reach for everything, as it were; it always/&#8203;already knows what to do, and you can long-run trust/&#8203;rest into that.) All that said, as per usual, there might still be miles and miles of all these, (in part) because they were already previously there, latent in the sysem. So if there is ongoing attempted corner-cutting, ongoing haste, hurrying, rushing, etc., they doesn't mean you're doing anything wrong, and that doesn't mean you aren't proceeeding even optimally. Finally, there is one sense in which things can be a bit faster, which is, sometimes, things vaguely in the spirit of the meta protocol, good teaching material, and useful interactions can mean less wrong turns and backtracking. That's sort of the only thing can "speed things up," long term. But, I think those sorts of improvements will be potentially dwarfed by sort of just the raw practice time, as it were, that's needed. And those sorts of things can overtly or subtly send people in the wrong direction, too. And, also, ultimately, it sort of has to come from you, you have to ultimately be omni-self-generative. But, that is, deep-down, a spontaneously intrinsic property of the system, so that's ok. (Wrong turns and backtracking are included in the "10,000 hours" thing.)
 
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
