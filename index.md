@@ -6465,7 +6465,7 @@ But if one realizes that this can be a thing, one can be more careful about the 
 [<a href="#148h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id=""148a1"></span> worse for no reason, more X in general, and wisdom:
+# <span id="148a1"></span> worse for no reason, more X in general, and wisdom:
 
 So there's some finer-grain distinctions that can be made, that maybe fall under the umbrella of nonmonotonicity, or not even.
 
