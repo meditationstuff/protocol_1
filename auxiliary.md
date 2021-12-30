@@ -7407,4 +7407,15 @@ Related: How can you complement all you can to yourself? How can you give all yo
 
 [<a href="#885auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+
+# <span id="886auxiliary"></span> cause the bad thing:
+
+Enhance it, facilitate it, cause it, invoke it, provoke it, turn towards it.
+
+comment:
+
+Even if there's a dash of forciness, or tiny bit of out-of-order-ness, sometimes, maybe one of the last things you reach for, is directly causing the bad thing. This is in part because we can get in a rut, can be entrenching the avoiding some bad thing, and trying to directly (or semi-directly, or indirectly) cause the bad thing can illuminate entrenched and/&#8203;or active "avoidance" that's preventing integration, burn-off--redo-to-undo. Probably previously, the avoiding, protecting, turning away was adaptive, necessary, that's the only option you had. But maybe you kept layering, entrenching, momentum-ing on top of that, even when it was good enough. And then, when it became safe to actually go into the thing, it is/&#8203;was/&#8203;will be necessary to work through all that layering that ended up on top. And sometimes, right near the end of that, to help you find the last of that layering, trying to somehow directly invoke the bad thing (remember it, cause it [e.g. muscle tension]) can be helpful.
+
+[<a href="#886auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
