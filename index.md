@@ -318,6 +318,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="183h" href="#183">technical debt and inverse operations</a>
 		* <a id="184h" href="#184">merely just having the experience itself, and, technical debt is good, actually</a>
 		* <a id="184ah" href="#184a">the scale analogy [draft]</a>
+		* <a id="184bh" href="#184b">karma, samskaras, technical debt dialogue with PK</a>
 	* <a id="185h" href="#185">epistemics</a>
 		* <a id="186h" href="#186">meditation indirectly discloses domain knowledge</a>
 		* <a id="187h" href="#187">human epistemic dynamics and phenomena</a>
@@ -10065,6 +10066,49 @@ See also:
 
 [<a href="#184ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="184b"></span> karma, samskaras, technical debt dialogue with PK:
+
+[My (Mark's) responses are sort of messy and perfunctory and foreclosing. There's more nuance...]
+
+**PK**
+
+there's something i've been wondering about with karma, sort of about whether it should be understood as relative vs. absolute. So like, there are many hidden flows of causality, at least some of which can be discovered eventually. There are things we understand now as a society that we didn't in the buddha's day, for example how certain diseases spread. So say you're the buddha, and you feel like you've resolved all your karma. And then someone discovers germs, and tells you: "hey, remember that one time you had the flu? you didn't realize it, but you actually infected a bunch of other people too."
+
+It seems like now there is something new to resolve / integrate for you. 
+
+**Mark** [replying later, single comment in thread]
+
+yes things are only paid off up to the bleeding edge of unknown unknowns, at the limit, so big/sharp surprises can like fractionally un-enlighten you, sort of, though you pay it back of relatively optimally, modulo how world/system structure is impacted.
+
+(See also the section "meditation indirectly discloses domain knowledge")
+
+**PK**
+
+Could we say that new karma has been created for you? even though it didn't result from any choice of yours per se, and it's not something you could have known about beforehand? (ETA: versus, you had karma but you just didn't realize it) 
+
+**Mark** [replying later, single comment in thread]
+
+yeah. can’ t control everything. the more enlightened you are (as it were) harder it is to create karma, or “the less karma you have.” (some equivocation, here; or, just, karma begets karma and like an enlightened person still has “hawking radiation karma,” or something. so the world still has a chance of generating karma in an enlightened person if the world does something really surprising/“perverse” that couldn’t be predicted via like “transitive epistemic closure” from paying of “all” technical debt.
+
+**PK**
+
+(though maybe part of integrating this new information is investigating whether you could actually have figured it out beforehand)
+
+so should we understand karma as relative to the information a person has (which bounds their resolving power)?
+
+but then even with a bounded amount of information, you can often discover things by chewing on them more. so for a full karmic accounting, you should also include your choice to do so or not -- like maybe you were busy with other things 
+
+this is the part that makes me hesitant to talk straightforwardly about the "transitive epistemic closure" of all the stuff you know
+
+**Mark** [postscript]
+
+> this is the part that makes me hesitant to talk straightforwardly about the "transitive epistemic closure" of all the stuff you know
+
+Yes, exactly--chewing on stuff happens in real time, so everything is limited by tradeoffs and opportunity cost under uncertainty in finite time. You don't know exactly what you'll find out, if you chew on things, more, so there's sort of "predictive pre-computation" like an attempt to imperfectly get around the halting problem or to be one's own oracle. (Some of the previous credited to a collaborator; mistakes mine) And it can't be perfect in part because of the halting problem as well as unknown unknowns, knightian uncertainty, etc., etc. (speaking sloppily). So one sort of has to decide (the system spontaneously decides for itself), as best it can, about sort of whether to (embodied-ly) think some more [about X; nebulously speaking, with all sorts of other stuff nebulously interleaved], or to go collect more information, or to do something else (and maybe sort of be sifting through stuff in stolen moments or no the back burner or with other things mixed in, in reverie). And all of this is nebulous and a toy model. There are no beliefs, no "belief storage," no final ontology for those beliefs, there's no thinking, there's no epistemic closure, as it were. It's hard to talk about or to gesture, even vaguely, without being too reifying. Like there's a there, there, but no objective, same-for-each-person, "there," and it won't make sense for everyone to even remotely frame it this way, etc. And/&#8203;but, over time, meditation, all things being equal, will cause people to "realize" things (hopefully embodied, "naturalized," eventually "all the way down," if that makes sense, that they hadn't realized before (and anything can be returned to and revised; realizations aren't ever the final word), that they had sort of "already had all the pieces," and no new "pieces" had recently become known. (And/&#8203;but, since everything is sort of connected to everything else, loosely speaking, even seemingly unrelated things, like the warmth of sunlight or a light breeze or a "random" conversation or a bug bite, could have non-trivially [truly] contributed to that realization--even if said "realization" seemed wildly unrelated to all of that. (((In some sense, there are "no brain farts," there's no noise in the system, although there can be diffuse error and confusion, and that can be gathered, shipped around, integrated, error checked, consolidated (through being, breath, gesture, movment, meditation, just living)--and again these are all sort of toy conceptions of something that's shimmery, embodied, spontaneous, groundless, empty, and beyond conception.) And this thing can keep going and going, for a time...
+
+
+[<a href="#184bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="185"></span> epistemics:
 
