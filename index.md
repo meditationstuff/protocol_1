@@ -608,7 +608,7 @@ Perhaps evil or malevolence is objective but things are only bad relative to you
 
 You might not feel good and safe all the time, but it’s good to want to feel good and safe, and it’s good to seek to stably feel good and safe or to feel good and safe as much as possible.
 
-Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to Inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
+Without exception, and no matter how subtle the feeling, there’s always a valid sense in which, if it feels wrong it is wrong. [i.e. if X makes you feel wrong, then X is somehow wrong.\*] People often will systematically and relentlessly deny the relevant sense in order to try to immorally coerce and control you. Senses other than the relevant sense can be used to inappropriately destroy institutions. People trying to control you will try to convince you the former is the latter (among an unlimited number of other tactics that don’t refer to groups or institutions.) Of course, you could be mistaken about something or both could be happening. But that’s what the controlling people will do.
 
 You might get hit by a bus or meteor or your cryo chamber might run out of geopolitics or something. But, it’s possible to have a good life, anyway, and it’s possible to impeccably work to reduce the chances of such bad things while having a good, complete, rich, full, life.
 
@@ -624,6 +624,14 @@ These are just words. This is just your interpretation of these words. Are there
 More and more and more of everyone may come together to do good things that we couldn’t do alone.  
 Sometimes, an edgy joke should go here.  
 Let go...  
+
+Notes:
+
+\* Restatements:
+
+* "If something feels wrong then something is wrong somehow, somewhere, maybe it itself, somehow, or maybe something else."
+* "[...] sure, could be you, or "part of you [could be confused or lost in the past]; or acutely sensitive to a really real and important thing, even if not handled super constructively, or it's fine]" or multiple things, or nebulously some of or all the things or 'no things,' but something is wrong, somewhere, and if you're not ok with that then you're not ok with that [that's the sense of "wrongness," here--something, somehow, somewhere, is nebulously unacceptable, at least currently; and that's just that--self-evident--modulo fluidity and flux, but it's not not until it is/&#8203;not.]"
+* "If it feels wrong in any way then it is wrong in some way" https://twitter.com/captain_mrs/status/1476478905838149633
 
 [<a href="#18h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
