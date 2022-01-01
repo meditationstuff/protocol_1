@@ -7418,4 +7418,16 @@ Even if there's a dash of forciness, or tiny bit of out-of-order-ness, sometimes
 
 [<a href="#886auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+
+# <span id="887auxiliary"></span> make it worse:
+
+Make it worse; facilitate it to be worse; cause it to be worse; provoke it to be worse; turn towards it in order to make it worse.
+
+comment:
+
+See comments for "cause the bad thing."
+
+[<a href="#887auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

@@ -895,6 +895,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="883auxiliary_names" href="#883auxiliary">keep company, hang out with (restatement)</a>
 * <a id="884auxiliary_names" href="#884auxiliary">align with it (restatement)</a>
 * <a id="885auxiliary_names" href="#885auxiliary">best could have gone</a>
-* <a id="886auxiliary_names" href="#885auxiliary">cause the bad thing</a>
+* <a id="886auxiliary_names" href="#886auxiliary">cause the bad thing</a>
+* <a id="887auxiliary_names" href="#887auxiliary">make it worse</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
