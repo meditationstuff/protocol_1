@@ -3870,8 +3870,8 @@ Notes:
 * awareness of "can I just get on with X now" impulse
 * knowledge/awareness of [seemingly] inviolates, iron laws
 * knowledge/awareness of fakeness
-* knowledge/awareness of corruption [*]
-* knowledge/awareness of insanity [*]
+* knowledge/awareness of corruption [\*]
+* knowledge/awareness of insanity [\*]
 * knowledge/awareness of expectation/"expectationing" [sic]
 * knowledge/awareness of railroading
 * knowledge/awareness of [~~sending\*]
@@ -3908,6 +3908,9 @@ Notes:
 * shoring / shoring up / making stable / [trying to make stable] / pressing in / [trying to make timelessly permanently permanent ongoingly stably durational] / fortication / [trying to] hold[~ing] in place
 * top-down-ness, overhang-ness[, "de-synch" (between something like "perception" and "action"]
 * tucking, folding
+* pushing away
+* holding at bay
+* preconceiving
 
 
 Notes:
