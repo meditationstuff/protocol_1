@@ -256,6 +256,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="153h" href="#153">"inner space" and physical/social grace</a>
 	* <a id="154h" href="#154">dark phenomenology and presence/absence conceptions</a>
 	* <a id="154ah" href="#154a">daily limits</a>
+	* <a id="154bh" href="#154b">pushing away, holding at bay, preconceiving, direct-reifying</a>
 	* <a id="155h" href="#155">brief thoughts on substances like psychedelics</a>
 	* <a id="156h" href="#156">getting triggered, usefulness and risks</a>
 	* <a id="156ah" href="#156a">some narrowly conceived phenomenological investigations that may or may not be useful</a>
@@ -5944,6 +5945,50 @@ So this is one thing to keep an eye out for, in terms of meditative rhythms and 
 
 [<a href="#154ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="154b"></span> pushing away, holding at bay, preconceiving, direct-reifying:
+
+There’s a thing that people come to almost universally do, both spontaneously, in development, and often as a deliberate behavior.
+
+It has sort of two forms. One of them looks maybe like a “pushing away,” and other maybe a “holding at bay.” Both of these occur “in the phenomenological field,” either through gross/&#8203;overt muscular action or through more subtle mental/&#8203;muscular action.
+
+This is sort of experiential management or experience management.
+
+I really, really, really don’t like the words “avoidance” or “resistance” because of their moral and self-coercive connotations and intimations, as well as the knock-on effects from that. I think this is partly the reason I haven’t written about this for so long. Another reason is that, because it sort of goes so “deep,” I wanted to have a better sense of those “deep contours,” or something.
+
+Anyway, there’s good reasons to spontaneously “push away” or “hold at bay.” This is about self-safety, self-regulation, and proactive ordering of what to deal with, when.
+
+It’s particularly useful as a baby--scared? Close your eyes, put your hands of your eyes, bury you face. This can be a really good strategy. It can be useful as a child or adult, too—hopefully just a little, tense your body, tighten your jaw, tighten your fists, get through the thing, reap the rewards. Sometimes this is just how it has to be. And, honestly, no matter how “enlightened” someone is, if they’re caught off guard enough, surprised enough, because they’re still proactively working through their backlog of the world, or because of unknown unknowns, they’re going to do something like this, too, though perhaps more superficially and it’ll dissipate more quickly with no remainder, all things being equal. This sort of thing is especially useful when subtle interaction goes awry--suddenly there’s foreign stuff that didn’t get comprehended, metabolized, filtered, “string escaped.” And it’s unfortunately not just passive but “active”; you don’t yet have immediate inverse operations that spontaneously unfold, also you’re in the midst of some real time, unfolding situation. If you have enough bandwidth, enough spaciousness, you’re already pretty untangled, you might do or find yourself doing something like what’s described further below. But it might just make sense to not just “hold at bay” but to “push away.”
+
+This strategy, when prenatally, as a baby, or as an adult, while critically useful, has its downsides. First, it introduces a “double microtangle.” First, the “content,” the “sense impressions” or “inner experience,” gets a little bit “frozen in time” and “frozen in mindspace.” Maybe better, for the latter, is “embedded in mindspace.” If mindspace moves, it “moves with it,” but it’s a bit of a knot, a whorl, a wrinkle, a little reduction in slack and spaciousness that gets moved around. Second, the local “pushing away action,” itself, can get frozen along with or alongside the “content.” So, then, not only is the “content” kind of moving around in a slightly “coagulated” way [this word is kinda a gross; I don’t mean the gross connotations], but, so, too, somehow, is the “pushing itself.” For both of these, somehow, perhaps because of how the mind preferentially organizes “information,” like with like, compressiblity, “content addressable memory,” both of these microtangles tend to accumulate more microtangles. And, overtime, microtangles can become fractal macrotangles, experiential, perceptual, emotional, behavior rigidity, personality, and so on. This is just another way of looking at so-called “layering” (and samskaras). All of this, whether tangled or very “structurally fluid,” layered or “flat”-ish, this sort of is the very being and seeming of the world, and your experiential/&#8203;behavioral propensity in it.
+
+Additionally, these sort of a “variable reinforcement” thing going on. Pushing away, holding at bay, they don’t always work. It’s not stochastic but it’s sort of causally mediated and moderated, steel cables, and all that. Ultimately, “sensations can’t directly control other sensations,” so, all in all, this pushing away strategy sort of reifies a fundamental confusion about the phenomenological field, which has a tons of ripple effects throughout contingent (and malleable, and reversible) development of bodymind.
+
+Again, it’s really important to be able to have this pushing away strategy. It’s protective against overwhelm, disregulation, something. To not do it, sometimes, would be disastrous.
+
+But also, it can go from “normal problematic but medium-run ok” self-regulation to something very problematic if it becomes a deliberate part of a meditative strategy. You feel more stable, less emotional, less tossed about. Is this equanimity? Eventually, because the mind is finite, you sort of run out of slack, but it doesn’t feel bad or disastrous yet--now things are really stable; things are sort of coagulating against a wall. Now you’re building on bedrock; this is great. But then, eventually comes the multidimensional rigidity, and potential confusion (because so much is so far from conscious experience), and perhaps then aggression, paranoia, who knows. One can get really, really, really good at pushing things out of awareness. And it can seem like a good thing for a long time.
+
+The opposite direction is sort of “making it safe to real time experience more and more, as it’s happening.” This is eventual self-liberation or experiences, sensations known as they are, as they happen, and so on. There are a lot of technical terms for this with various shades of technical distinctions, I think. This is connected to where I write the below:
+
+“And, so, over time, more and more, MERELY JUST HAVING THE SENSORY EXPERIENCE ITSELF completely replaces "cognition." [ https://meditationbook.page/#184 ]
+
+(I’d say it a little differently, now, qualify it a little differently, now. I’ll come back to these in an edit.)
+
+\*
+
+**preconceiving or direct reifying**
+
+Ok. But there is a danger, here, of unintentional gaslighting or self-gaslighting, not that different from self-moralizing or being open to shaming, about “avoidance” or “resistance.”
+
+Whether you think you did it to yourself or it’s coming from outside (as it were), or both, it can be scary to think that “there’s stuff deep within you,” nebulously, that’s potentially affecting your behavior and causing you harm, and that, sooner or later, or RIGHT NOW, you have to do something about it.
+
+And, it can be worse when one sort of tries to “make real” a theoretical description like this section. You might try to “directly find these tangles as such,” or something like that.
+
+But remember, however your experience appears to you, that’s how your experience appears to you. If this section resonates with you and seems useful, great! If it’s concerning but you don’t know how to “operationalize it,” that’s ok--probably just kinda keep doing what you’re doing. And if you just keep doing what you’re doing, period, that’s probably the best thing, just kind of lightly keeping this sort of thing in mind.
+
+The correct revelatory thing, is to just keep “practicing correctly,” as best you can, and sort of larger-scale personal and generalizable insights should sort of just fall out of that, in their own time. And so, as per usual, trust yourself, don’t reify practice instructions, as best you can. Write your own or just intuitively do your thing. And the sorts of things described above will take care of themselves, over time. And reading this might be fractionally useful, personally or coordinatively, in a community of practice, if held lightly.
+
+[<a href="#154bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="155"></span> brief thoughts on substances like psychedelics:
