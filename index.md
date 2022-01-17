@@ -3962,6 +3962,7 @@ Notes:
 * pushing away
 * holding at bay
 * preconceiving
+* I am (X), I did (X), I was (X), ...
 
 
 Notes:
@@ -7733,7 +7734,7 @@ at least one sense in which "ought"/&#8203;"goodness" is prior to, upstream of, 
 
 at least one sense in which nothing (no “thing”) is eternal, everything (every “thing”, “everywhere) (cf. “no objects anywhere”), is impermanent, non-eternal
 
-at least one sense in which meaning, goodness, and badness only/exclusively lay *between” (and so while nothing is eternal, cf. above, neither is anything meaningless [cf. nihilism]) [also symbols, also reference ]
+at least one sense in which meaning, goodness, and badness only/exclusively lay *between* (and so while nothing is eternal, cf. above, neither is anything meaningless [cf. nihilism]) [also symbols, also reference ]
 
 at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, wholeness, nothingness, separateness, truth, reality, god's-eye-views, facts of the matter, beginnings, endings, everything…)
 
@@ -7824,6 +7825,8 @@ at least one sense in which (long-run) there's no watcher (cf. centerlessness; n
 at least one sense in which (long-run) there's a lining up, a synchrony, an in-phase-ness, a non-overhang, a non-folding or tucking, in the having of experience
 
 at least one sense in which consciousness becomes non-choppy, non-discontinuous, non-jumpy, non-joggy, non-wrinkly/&#8203;non-fold-y, non-depthy-y, and so-then "liquid" and zero-lag-phase-synced/&#8203;paced parallel and reversibly (to some degree) most especially (in some sense) *serialized* (both experience and action, in some sense, at least in part, up to surprise and unknown unknowns)
+
+at least one sense in which all stories (about the self or otherwise) are untrue/&#8203;false
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work)
 
