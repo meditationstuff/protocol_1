@@ -6,7 +6,7 @@
 
 <span id="2"></span> **by** Mark D Lippmann and collaborators
 
-<span id="3"></span> **Collaborators and Credits (needs to be updated):** ...JD, __, __, __, __, __, __, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, KQ, MO.)
+<span id="3"></span> **Collaborators and Credits (needs to be updated):** ...JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, KQ, MO.)
 
 <span id="4"></span> **Copyright:** All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 
@@ -7827,6 +7827,8 @@ at least one sense in which (long-run) there's a lining up, a synchrony, an in-p
 at least one sense in which consciousness becomes non-choppy, non-discontinuous, non-jumpy, non-joggy, non-wrinkly/&#8203;non-fold-y, non-depthy-y, and so-then "liquid" and zero-lag-phase-synced/&#8203;paced parallel and reversibly (to some degree) most especially (in some sense) *serialized* (both experience and action, in some sense, at least in part, up to surprise and unknown unknowns)
 
 at least one sense in which all stories (about the self or otherwise) are untrue/&#8203;false
+
+at least one sense in which awareness, experiencing is effortless, spontaneous, requires nothing to be done, just happens, is already happening
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work)
 
