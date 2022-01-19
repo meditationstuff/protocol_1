@@ -10829,6 +10829,7 @@ Me : Well, that's a good sign. The numero uno of daft moves is to open by defaul
 * Chapman, David. A first lesson in meta-rationality [https://metarationality.com/bongard-meta-rationality Last accessed: 2021-08-10]
 * Tillich, Paul. Dynamics of faith. Zondervan, 2001.
 * Lewis, C. S. The great divorce. Good Press.
+* https://en.wikipedia.org/wiki/The_Doorway_Effect [Last accessed: 2022-01-18]
 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
