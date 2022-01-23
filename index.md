@@ -7834,6 +7834,52 @@ at least one sense in which at least once sense [sic] of the idea of "truth," ac
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work)
 
+---
+
+https://twitter.com/meditationstuff/status/1485372260621946883
+
+Mark @meditationstuff Jan 23, 2022
+
+I'm now starting to strongly suspect that maybe the real enlightenment along the way is being able to have deep friendships with other men and to get married to the woman of my dreams and be best friends with her too (important: can your meditation system do that, if not, etc.)
+
+https://twitter.com/meditationstuff/status/1156923033023582208
+
+Quote Tweet Mark @meditationstuff Aug 1, 2019
+
+I am starting to strongly suspect that a good meditation system ultimately turns you into a horny extrovert with a lot of optionality around “need for cognition.” If your meditation system does not turn you into a horny extrovert possibly return it to the store and get a new one.
+
+https://twitter.com/meditationstuff/status/1485372439869722628
+
+Mark @meditationstuff Jan 23, 2022 Replying to  @meditationstuff 
+
+still works
+
+https://twitter.com/meditationstuff/status/1270733573151248384
+
+Quote Tweet Mark @meditationstuff Jun 10, 2020
+
+peepee poopoo
+
+poopooo
+
+https://twitter.com/meditationstuff/status/1485375866167300099
+
+Mark @meditationstuff Jan 23, 2022 Replying to  @meditationstuff
+
+https://twitter.com/meditationstuff/status/1270793436623495171
+
+Mark @meditationstuff  Jun 10, 2020
+
+untangle your Original Toilet Training Trauma, gain ten IQ points
+
+epistemics are embodied
+
+societal cringe-enforced taboo makes you dumb
+
+scatological deep-dives make you smart. unraveling unspeakable fetishes contain ten IQ points each for the unlocking 
+
+I don’t make the rules
+
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
