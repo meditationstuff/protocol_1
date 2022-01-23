@@ -7842,6 +7842,8 @@ Mark @meditationstuff Jan 23, 2022
 
 I'm now starting to strongly suspect that maybe the real enlightenment along the way is being able to have deep friendships with other men and to get married to the woman of my dreams and be best friends with her too (important: can your meditation system do that, if not, etc.)
 
+(gender neutral)
+
 https://twitter.com/meditationstuff/status/1156923033023582208
 
 Quote Tweet Mark @meditationstuff Aug 1, 2019
