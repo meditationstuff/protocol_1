@@ -7844,6 +7844,8 @@ I'm now starting to strongly suspect that maybe the real enlightenment along the
 
 (gender neutral)
 
+[Edit: maybe better, still not quite right: capacity for romantic love and capability for profitably vulnerable friendships]
+
 https://twitter.com/meditationstuff/status/1156923033023582208
 
 Quote Tweet Mark @meditationstuff Aug 1, 2019
