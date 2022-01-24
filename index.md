@@ -7882,6 +7882,16 @@ scatological deep-dives make you smart. unraveling unspeakable fetishes contain 
 
 I don’t make the rules
 
+https://twitter.com/meditationstuff/status/1278696645568475136
+
+Mark @meditationstuff Jul 2, 2020 Replying to 
+
+Imma gonna make poop and creepy fetishes cool (and safe and consensual and)
+
+Q: How do you get rid of a fetish?
+
+A: Figure out how to safely and self-acceptingly enjoy it so thoroughly and completely and efficiently that there's nothing left.
+
 
 [<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
