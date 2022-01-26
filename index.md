@@ -284,6 +284,10 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
 	* <a id="158da1ah" href="#158da1a">naturalization</a>
 	* <a id="158da1h" href="#158da1">far reaches of meditation</a>
+		* <a id="158da1a1h" href="#158da1a1">vague sketch of progression, with respect to emptiness and groundlessness</a>
+		* <a id="158da1bh" href="#158da1b">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
+		* <a id="158da1ch" href="#158da1c">tweets / shitposts</a>
+		* <a id="158da1dh" href="#158da1d">temp catch-all</a>
 	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#158fa">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#158ga">a brief dialogue on locality and concreteness</a>
@@ -3815,8 +3819,8 @@ Notes:
 * knowledge/awareness of self-conceptualization
 * knowledge/awareness of self-conceptualization, errors in [sic]
 * knowledge/awareness of "seamlessly decide to do and then do something" vs "just do"
-* knowledge/awareness of "belief [phenomenology]" (*)
-* knowledge/awareness of "plan [phenomenology]" (*)
+* knowledge/awareness of "belief [phenomenology]" (\*)
+* knowledge/awareness of "plan [phenomenology]" (\*)
 * knowledge/awareness of "error"
 * knowledge/awareness of "two things that are combined that shouldn’t be"
 * knowledge/awareness of wrongness/incorrectness
@@ -7636,6 +7640,14 @@ Each former sort of needs to happen before the latter, and/&#8203;but all of the
 
 # <span id="158da1"></span> far reaches of meditation:
 
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+[<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158da1a1"></span> vague sketch of progression, with respect to emptiness and groundlessness:
+
+
 A thread that's kind of trying to articulate the long run, far reaches of meditation (and, inseparably, a life interleaved with meditation, and other transformative practice, & just living, hurting, enjoying, life itself), & why anyone might care to explore those far reaches.
 
 Say there's "feeling," "form" & "function."
@@ -7709,9 +7721,15 @@ See also maybe: https://metarationality.com/bongard-meta-rationality
 
 Emptiness very withstanding, it’s very hippocampal--more and more, less fragmentedly, more unfragmentedly, you know who you are (which one; this one; not that one or those ones), what you are (previously mistaken), where/when you are, with respect to the state of the world, the distant past, the far future. Again, this can only wholly happen, in emptiness, under nonduality/luminosity/etc., all of that affords settling, affords seeing (body)mind for what it actually is, and in that, or of that, or under that, all of that can reshape itself so as to “know where you are,” yet still, “not two, not one,” empty, nebulous, provisional, light, and so on.
 
-\*
+[<a href="#158da1a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-More (and these could be the subjects of entire books (though they don't have to be; it's an implicit, self-dawning understanding, that takes care of itself; it's just "really deep and important" vis-a-vis all of this re sort of "global restructuring of mind" but that's a potentially misleading phrase (see "locality and concreteness" dialogue, elsewhere in document. also concepts in the pedagogical/bridge-building distinction breadth-first vs depth-first discussions, re "depth" and "tangledness"/"diffuseness"). See David Chapman's Meaningness stuff, too, again re the immediately below):
+
+# <span id="158da1b"></span> touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which"):
+
+
+These could be the subjects of entire books (though they don't have to be; it's an implicit, self-dawning understanding, that takes care of itself; it's just "really deep and important" vis-a-vis all of this re sort of "global restructuring of mind" but that's a potentially misleading phrase (see "locality and concreteness" dialogue, elsewhere in document. also concepts in the pedagogical/bridge-building distinction breadth-first vs depth-first discussions, re "depth" and "tangledness"/"diffuseness"). See David Chapman's Meaningness stuff, too, again re the immediately below):
+
+
 
 (Note: ***a sense***)
 
@@ -7838,7 +7856,11 @@ at least one sense in which at least once sense [sic] of the idea of "truth," ac
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work)
 
----
+[<a href="#158da1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158da1c"></span> tweets / shitposts:
+
 
 https://twitter.com/meditationstuff/status/1485372260621946883
 
@@ -7899,7 +7921,15 @@ Q: How do you get rid of a fetish?
 A: Figure out how to safely and self-acceptingly enjoy it so thoroughly and completely and efficiently that there's nothing left.
 
 
-[<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+[<a href="#158da1ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158da1d"></span> temp catch-all:
+
+[This section is currently empty.]
+
+
+[<a href="#158da1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 
