@@ -10900,6 +10900,10 @@ Me : Well, that's a good sign. The numero uno of daft moves is to open by defaul
 * https://en.wikipedia.org/wiki/Rigpa [Last accessed: 2022-01-19]
 * https://en.wikipedia.org/wiki/Mahamudra#Tibetan_traditions [Last accessed: 2022-01-19]
 * https://en.wikipedia.org/wiki/Rainbow_body [Last accessed: 2022-01-19]
+* Murdoch, Iris. The sovereignty of good. Routledge, 2013. [I haven't actually read this but it might or might not be really good.]
+* Adorno, Theodor W., and Max Horkheimer. Dialectic of enlightenment. Vol. 15. Verso, 1997. [Not that kind of enlightenment or is it / but.]
+* https://meaningness.com/collapse-of-rational-certainty and http://backreaction.blogspot.com/2021/12/does-superdeterminism-save-quantum.html [both last accessed: 2022-01-26]
+
 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
