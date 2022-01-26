@@ -3963,6 +3963,10 @@ Notes:
 * holding at bay
 * preconceiving
 * I am (X), I did (X), I was (X), ...
+* immersive historical contextual surround
+* ~"life philosophy"/&#8203;deserving/&#8203;what-doing-why-doing-it-how-it-all-works
+* self-love
+* gripping, clinging [(((cf. time))), (((cf. oblivion)))]
 
 
 Notes:
