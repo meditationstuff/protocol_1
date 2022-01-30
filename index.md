@@ -7854,7 +7854,7 @@ at least one sense in which awareness, experiencing is effortless, spontaneous, 
 
 at least one sense in which at least once sense [sic] of the idea of "truth," acted upon, perfomed, communicated, coordinated around is a "consequentialist calculation," as sort of "groundlessly represented"
 
-at least one sense in which bad isn't bad, that badness is permissible, that generally suffering is unnecessary because there's better things for the system to reach for [cf. good and bad are not cosmic; they lie between; the cosmos/kosmos is in you]
+at least one sense in which bad isn't bad, that badness is permissible, that generally suffering is unnecessary because there's better things for the system to reach for, "preference is satisfying/&#8203;enough" [cf. good and bad are not cosmic; they lie between; the cosmos/kosmos is in you]
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 
