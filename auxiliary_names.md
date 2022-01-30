@@ -897,5 +897,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="885auxiliary_names" href="#885auxiliary">best could have gone</a>
 * <a id="886auxiliary_names" href="#886auxiliary">cause the bad thing</a>
 * <a id="887auxiliary_names" href="#887auxiliary">make it worse</a>
+* <a id="888auxiliary_names" href="#888auxiliary">allow yourself to care [about it]; admit you care [about it]</a>
+* <a id="889auxiliary_names" href="#889auxiliary">let badness be permissible in your universe</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

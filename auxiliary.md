@@ -7436,5 +7436,18 @@ See comments for "cause the bad thing."
 
 [<a href="#887auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="888auxiliary"></span> allow yourself to care [about it]; admit you care [about it]:
+
+Thus.
+
+[<a href="#888auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="889auxiliary"></span> let badness be permissible in your universe:
+
+Thus.
+
+[<a href="#889auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
