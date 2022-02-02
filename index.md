@@ -4782,33 +4782,33 @@ Notes:
 
 # <span id="121"></span> formulation 6:
 
-(*) If something feels bad, then something is bad, somewhere, somehow, and it’s ok to completely stop any particular thing, or the whole thing, at any time, smoothly or abruptly, if that’s what feels right. (If something has changed for the worse, it’s ok to reverse or revert, to walk anything back, too, if you want to, that you don’t like or find you don’t like, when you find it’s time to do so, immediately or later.) If in person, you can leave the room any time. If online, you can turn off your mic, turn off your speakers, turn off your video, etc.
+(\*) If something feels bad, then something is bad, somewhere, somehow, and it’s ok to completely stop any particular thing, or the whole thing, at any time, smoothly or abruptly, if that’s what feels right. (If something has changed for the worse, it’s ok to reverse or revert, to walk anything back, too, if you want to, that you don’t like or find you don’t like, when you find it’s time to do so, immediately or later.) If in person, you can leave the room any time. If online, you can turn off your mic, turn off your speakers, turn off your video, etc.
 
-(*) Moment by moment, sensitively, responsively, patiently:
+(\*) Moment by moment, sensitively, responsively, patiently:
 
-(**) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *lead*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *lead*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *lead*, and you can stop or not start leading in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *lead*, and you can stop or not start leading in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *follow*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *follow*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *follow*, and you can stop or not start following in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *follow*, and you can stop or not start following in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *coerce*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *coerce*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *coerce*, and you can stop or not start coercing in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *coerce*, and you can stop or not start coercing in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *resist*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *resist*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *resist*, and you can stop or not start resisting in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *resist*, and you can stop or not start resisting in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *phase-lock*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *phase-lock*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *phase-lock*, and you can stop or not start phase-locking in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *phase-lock*, and you can stop or not start phase-locking in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *desynchronize/decorrelate*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *good* for both/all of you for you to somehow *desynchronize/decorrelate*, in some somewhat particular way or not, and you can do so, start doing so or continue to do so; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
-(**) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *desynchronize/decorrelate*, and you can stop or not start desynchronizing/decorrelating in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
+(\*\*) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *desynchronize/decorrelate*, and you can stop or not start desynchronizing/decorrelating in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
 [<a href="#121h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -4848,6 +4848,25 @@ I think the combination of intermediate very hard things getting better (when no
 * awareness =  [~~~that which contains "there it is as such"]
 * knowledge = [~~~like not a direct phenomenological correlate as such but may be corresponding quality/concept in awareness. more of a "seeming" flavor versus an "appearing" flavor]
 * [...]
+
+
+* emptiness \~= [phenomenology of that which was map-confused-for-territory is map; seeming referent is actually representation and has no essence/essential nature, "hanging in [spaceless/&#8203;empty(!)] space"]
+* nebulosity \~= 
+* luminosity \~= [in the seeing, just the seen; in the hearing, just the heard]
+* centerlessness \~=
+* phenomenal isotropy, phenomenal non-particularity \~=
+* (no-)doer/agencylessness \~=
+* (no-)watcher/no-witness \~=
+* vividness \~=
+* groundlessness \~=
+* negation with no implicature/&#8203;implication
+* uncaused//&#8203;separateness/&#8203;separation/&#8203;non-connection (cf. though interdependence)
+* spontaneity
+* interdependence
+* effortlessness
+* costlessness
+* ...
+
 
 [<a href="#124h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7855,6 +7874,16 @@ at least one sense in which awareness, experiencing is effortless, spontaneous, 
 at least one sense in which at least once sense [sic] of the idea of "truth," acted upon, perfomed, communicated, coordinated around is a "consequentialist calculation," as sort of "groundlessly represented"
 
 at least one sense in which bad isn't bad, that badness is permissible, that generally suffering is unnecessary because there's better things for the system to reach for, "preference is satisfying/&#8203;enough" [cf. good and bad are not cosmic; they lie between; the cosmos/kosmos is in you]
+
+at least one sense in which the whole cosmos, and all of time, "passes through,"" loops through your body, the whole phenomenal field, with a thought, and there’s nothing outside of you
+
+at least one sense in which "thought" is a narrow confused version of something that can be done, or is spontaneous, throughout the whole phenomenological field and body
+
+at least one sense in which there’s no such thing as before and after your death, and before and after your death properly reference or account for something experientially now (and empty, in the technical sense) and "the whole thing is groundless"
+
+at least one sense in which stories, art, all media, all language, has no essence, is empty in perhaps a slightly counterintuitive or once removed manner, and is properly understood and whole-embodied-ly generated inseparably from audience-in—groundlessness 
+
+at least one sense in which the ((\~whole) phenomenal/&#8203;phenomenological) field "updates" itself, renews itself, spontaneously, effortlessly, costlessly [if you only (come to) let it]
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 
