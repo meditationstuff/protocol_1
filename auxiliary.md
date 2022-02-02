@@ -7449,5 +7449,30 @@ Thus.
 [<a href="#889auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="890auxiliary"></span> X Y (just sit):
+
+X = just, merely, only, mostly, or mainly; Y = sit, stand, or etc.; thus.
+
+comment:
+
+something something bare perceptual/motor loop, but groundlessness and “play,” in the “freely move” sense, so paradoxically, also, anything goes, whatever (wants to) happen(s) happens
+
+[<a href="#890auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="891auxiliary"></span> let the body learn from “every pore and direction”:
+
+Thus.
+
+[<a href="#891auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="892auxiliary"></span> self-updating:
+
+Let the bodymind and everything (thoughtlessly) just be, let it spontaneously "update" itself though thinking and everything and anything can be a part of that.
+
+[<a href="#892auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
