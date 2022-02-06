@@ -7998,6 +7998,24 @@ Q: How do you get rid of a fetish?
 
 A: Figure out how to safely and self-acceptingly enjoy it so thoroughly and completely and efficiently that there's nothing left.
 
+https://twitter.com/meditationstuff/status/1487879513316941832
+
+Mark @meditationstuff Jan 30, 2022
+
+starting to identify w the whole universe (srsly) in part implying no need to suffer in deepest & most "essential" way send tweet
+
+also no to many worlds & yes to superdeterminism
+
+(still yes to emptiness, groundlessness, luminosity)
+
+i uh may not be taking questions at this time
+
+https://twitter.com/meditationstuff/status/1486733769168011266
+
+Quote Tweet Mark @meditationstuff Jan 27
+
+Really clear that my version of physicalism/materialism is/was hurting me, but molecular and cellular biological thinking is so damn useful. Little machines and covalent bonds, etc., all the way down, rattling around, dissipating entropy far from equilibrium + predictive proc etc
+
 
 [<a href="#158da1ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
