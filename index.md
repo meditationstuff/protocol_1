@@ -282,9 +282,10 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158bah" href="#158ba">inner peace placeholder</a>
 	* <a id="158cah" href="#158ca">love placeholder</a>
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
-	* <a id="158da1a1h" href="#158da1a1">on groundlessness, a brief note</a>
-	* <a id="158da1ah" href="#158da1a">naturalization</a>
 	* <a id="158da1h" href="#158da1">far reaches of meditation</a>
+		* <a id="158da1a1ah" href="#158da1a1a">on groundlessness, a brief note</a>
+		* <a id="158da1ah" href="#158da1a">naturalization</a>
+		* <a id="158da1b1h" href="#158da1b1">impersonalization and environmentalization</a>
 		* <a id="158da1a1h" href="#158da1a1">vague sketch of progression, with respect to emptiness and groundlessness</a>
 		* <a id="158da1bh" href="#158da1b">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
 		* <a id="158da1ch" href="#158da1c">tweets / shitposts</a>
@@ -7614,10 +7615,19 @@ This section is currently a placeholder/stub.
 This section is currently a placeholder/stub.
 
 
+(maybe inclusive of "autonomic harmony", muscle tone, handledness, cosmology...)
+
 [<a href="#158dah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="158da1a1"></span> on groundlessness, a brief note:
+# <span id="158da1"></span> far reaches of meditation:
+
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+[<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158da1a1a"></span> on groundlessness, a brief note:
 
 There's an analogy I use sometimes, where I say people start out as "mostly ice." That is, our bodymind "structure" is sort of "mostly frozen". It's kind of like only the surface of the bodymind is sort of continuously melted and re-frozen, or it exists right on the edge of water and ice. That surface is sort of where people typically learn, unlearn, and grow. But the "bulk of the ice," the "depth" of a person, mostly doesn't change. (This isn't a perfect analogy because there are tendrils and threads of "liquid" all throughout the thing.)
 
@@ -7642,7 +7652,7 @@ One might ask, what's the relationship between groundlessness and other things l
 Some messy thoughts: Regarding emptiness, I was equivocating a bit, above--is it e.g. "the universe" that participates in groundlessness or, sort of, "one's representation of the universe." I would say "yes, both" in sort of the sense that we only know about "out there" by what we experience "in here," and we might find, over time, that there maybe must be a sense in which anything "out there" must lack essence (and is thus impermanent, non-eternal, interdependent, and radically dependent/&#8203;contingent on causes and conditions), must lack essential nature, and at the same time our representations thereof must indicate provisionality and nebulosity. And there's another sense in which there are no representations and no referents, anywhere--and this ties into luminosity (in the seeing, just the seen; in the hearing, just the heard.) This paragraph is a bit philosophically muddled and it gets some of the arrows wrong. Very compressed, just a confused taste. Bare sensations kind of connect up with all this in that, on the one hand, they're not a "special ontology," they're empty, conceived as such, just like everything else. And they're not really a resting place--we need coffee mugs and cars, not just patches of light and color and blips of sound, or whatever. But on the other hand, they sort of point the way out of "inner space," i.e. sort of a whole bunch of unnecessary, out-of-phase stuff (e.g. some senses of self-ing and thinking) that the bodymind is doing "in here," that is/&#8203;are ultimately optional. (I use scare quotes, "out there," "in here" because ultimately there's no real boundary between "inside" and "outside,"" cf. nonduality, etc.; "In here" is sort of that which untangles and untwists and un-wraps and un-spikes, in participation with the changing of the very being and seeming of the world, and also the musculature, and...) And, bare sensations are sort of the "surfaces that glow," cf. luminosity and sort of that which is one-dimensional or flat manifolds, hanging in "empty(!) space." This is very gestural and maybe not super prominent in experience, cf. normal-ness, naturalness, ordinary-ness, etc. (Thanks to a collaborator for helping to elicit this.))
 
 
-[<a href="#158da1a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+[<a href="#158da1a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158da1a"></span> naturalization:
@@ -7686,12 +7696,19 @@ Each former sort of needs to happen before the latter, and/&#8203;but all of the
 
 [<a href="#158da1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <span id="158da1b1"></span> impersonalization and environmentalization:
 
-# <span id="158da1"></span> far reaches of meditation:
+In addition to "naturalization", one could also talk about "impersonalization" and "environmentalization".
 
-[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+This is imperfectly and incorrectly and incoherently gesturing at something: Impersonalization is something like "you run out of problems [in some sense] except for those than anyone would have in your current (life) situation," or "if somewhere 'enlightened' were airdropped into a (life) situation, they would only have the problems [in some sense] that anyone would have in that airdropped situation." This isn't quite right and doesn't quite capture it. It's sort of rlated to "nothing is personal," anymore, in the sense that "you don't take things personally" or "bad things that happen to you because of other people" aren't taken personally or "aren't about you," in the colloquial "this isn't about you," sense. In part, none of this is right because there's plenty that's still personal; you're still "this one," you still have preferences based on that state of your body, as it were, though there's less and less "necessary-though-optionally-very-fine internality". Some of this is has to do with working through so-called "attribution error," [1] as well as a better understanding of causality, """no self,""" determinism, etc. But these don't account for all of it. Anyway, this isn't quite right but there's something maybe in the galaxy of all this. Maybe it's like you start "tracking things impersonally," e.g. no longer as e.g. grudge, aggrievement, something that happened to you--though of course you remember that the thing happened and everything important about that, and the intimate, causal history of you, and how you felt and feel about it, but it's sort of "seated" or "stored" differently, more efficiently and dispassionately (and passionately) as a high-dimensional instance in a high-dimensional space, rather than "a thing that happened to you deeply entangled with your you-ness," or something. So it's sort of a "lossless formatting change" that makes storage and behavior more "efficient," as it were, which does to some degree change the very being and seeming and implications and appearing and knowing and your doing of the world, but it only happens if / when / how such a change would be safe and ok such that nothing one cares about is lost and that it's generally wholeheartedly and heartfelted-ly for the better.
 
-[<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+The next one is "environmentalization," and this can happen in situated ways and by degrees, anytime: The analogy used by some people is, if there's one door out of your apartment or hotel or whatever, and you need to remember to bring something with you when you leave, you leave that thing right in front of the door or even the crack of the door, to make it very, very unlikely that you'll forget it. Say it's a package or something. There's sort of a way that, over time, the entire world becomes like that package, so you don't need anything left "inside," your world is consituted and reconstituted by what's outside. You arrange yourself so that "the world" presents the right things at the right times in a way that's reliable enough, because your expectations are good enough or flexible enough or something, that you can offload tremendous cognition(?) to the environment, as it's dynamically ocurring, that frees up a tremendous amount of internal resources. When I said you don't need anything left "inside," that's not quite correct. The "bodymindetc" still have (dynamic, fluid, state-less, thing-less) *state*, and/but (a) it's mostly "settled" (while still shimmery, alive, positively irritable) and so not in consciousness, as it were, and (b) anything that needs to change is liminally, proactively fluxing in relationship to the environment in sort of a deterministic way. So like the world is still sort of determining everything but in an endorsedly relaxed way such that one can sort of surrender and let go into being moved by the environment, because one has arranged oneself, as it were, so that that is safe, efficient, (effortless, costless). Anyway, this might even overstate it, or it's very far reaches before this becomes really, really apparent. But it ticks up more and more, over time. And it doesn't mean that you don't forget things sometimes, etc., etc., because the bodymind made a local, possibly correctable mistake or error, or nonmonotonicity, or an unknown unknown bubbled through the environment, or there was enough resources to track the thing, or it was safe to risk something slipping through the cracks... Anyway, none of this is quite right, it's just gesturing in the direction of a trend that can just keep going and going and going in a way that's kind of sort of like this, though the words are very imperfect or even misleading. Bodymindworldetc participation.
+
+All of this is of course related to "nonduality" (in maybe several senses of the word though not all) as well a the analogy of "you realize you're not a wave or a water drop but part of the ocean [and in *some* senses just "the [whole] ocean"]"
+
+[1] https://en.wikipedia.org/wiki/Fundamental_attribution_error [last accessed: 2022-02-06]
+
+[<a href="#158da1b1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158da1a1"></span> vague sketch of progression, with respect to emptiness and groundlessness:
