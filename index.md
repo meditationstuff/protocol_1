@@ -319,6 +319,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="173h" href="#173">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
 	* <a id="192ah" href="#192a">mark's approximate practice summary highlights</a>
 	* <a id="192bh" href="#192b">miscellaneous pith notes</a>
+* <a id="192ch" href="#192c">neuroscience speculative snapshots</a>
+	* <a id="192dh" href="#192d">neuroscience and meditation, odds and ends [2022-02-09]</a>
 * <a id="174h" href="#174">teaching and learning and creating and relating (meditation and anything)</a>
 	* <a id="175h" href="#175">teaching</a>
 		* <a id="177h" href="#177">guided on-ramp for main practice p2 [draft]</a>
@@ -10111,6 +10113,232 @@ In some ways, at least one of the following has to make sense for someone to eng
 * You can't leave anything out and you can't speed-run it. There is/&#8203; no corner-cutting, shortcuts. Haste, hurrying, rushing are illusory. (And momentum is problematic.) For both/&#8203;all of these, if they are there, you eventually have to go back and "clean up," and do so "perfectly." Nothing can be left out. (But also nothing *is* left out--and correct practice is enough to find it all. Something vaguely in the spirit of the meta protocol helps but also the system, as it were, wants to find everything, as it were, will spontaneously reach for everything, as it were; it always/&#8203;already knows what to do, and you can long-run trust/&#8203;rest into that.) All that said, as per usual, there might still be miles and miles of all these, (in part) because they were already previously there, latent in the sysem. So if there is ongoing attempted corner-cutting, ongoing haste, hurrying, rushing, etc., they doesn't mean you're doing anything wrong, and that doesn't mean you aren't proceeeding even optimally. Finally, there is one sense in which things can be a bit faster, which is, sometimes, things vaguely in the spirit of the meta protocol, good teaching material, and useful interactions can mean less wrong turns and backtracking. That's sort of the only thing can "speed things up," long term. But, I think those sorts of improvements will be potentially dwarfed by sort of just the raw practice time, as it were, that's needed. And those sorts of things can overtly or subtly send people in the wrong direction, too. And, also, ultimately, it sort of has to come from you, you have to ultimately be omni-self-generative. But, that is, deep-down, a spontaneously intrinsic property of the system, so that's ok. (Wrong turns and backtracking are included in the "10,000 hours" thing.)
 
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <span id="192c"></span> neuroscience speculative snapshots:
+
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+[<a href="#192ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="192d"></span> neuroscience and meditation, odds and ends [2022-02-09]:
+
+[The below is (maybe of course) not intended to be "academic quality," of course, of course. It's gestural and speculative, reminiscient of the style of the rest of this document, but it's written for a very different audience, and the such a style doesn't work as well for "science-y" topics. I think parts of the below are fine and parts of the below I already wish I'd written in a different way. It was almost single pass, to get it done as quickly as possible, to have a stake in the ground for future correction or elaboration.]
+
+[Originally published: https://www.lesswrong.com/posts/e6wHMpALit7ECwBnA/meditation-and-neuroscience-some-odds-and-ends [Last accessed: 2022-02-09]]
+
+[Originally crossposted: https://meditationstuff.wordpress.com/2022/02/07/meditation-and-neuroscience-some-odds-and-ends/ [Last accessed: 2022-02-09]]
+
+[About me: [...] I have a PhD in bioengineering, during which I did work with human clinical EEG (and also audited neuroscience and machine learning classes), but I'm not a neuroscientist, and I didn't run this by any practicing researchers before hitting publish.]
+
+As an introduction, I wanted to just mention up front that I'm not going to talk about predictive processing, artificial neural networks, GPT-N, neural annealing, the free energy principle, jhanas, amygdalae, cerebella, agent-based models of mind, and a bunch of other stuff. Good stuff, though!
+
+What follows are a sprinkling of popular and academic neuroscience references that have been resonant to me as a long-term meditator and meditation writer/teacher. I don't write a lot about neuroscience because it's paradigmatically changing too fast. So, instead, in other places, I try to to talk about meditation in a contemporary-yet-timeless way, hopefully future-proofed (using philosophical, folk, and mathy language). But, in the conclusion, here, I talk a very tiny bit about my vision for meditation instructions that are rendered in a neuroscientific ontology "all the way down."
+
+I think meditation is a bit [contentious](https://www.facebook.com/duncan.sabien/posts/3940677155966972) in parts of the LessWrong community, out of concern for individuals and the wider community. I personally don't recommend that most people meditate, but I would generally like people to know that (I personally believe that) "there's a there, there," in the spirit of truth-seeking and because, for some subset of people (I claim!), it's really valuable. In the conclusion, I warn against "naively operationalizing" neuroscientific writing about meditation, and I list a bunch of peer-reviewed studies on meditative risks. Finally, I've left out a few possible sections that I thought were particularly tempting to "operationalize."
+
+Finally, I wrote this all in one go, so that it would definitely ship, and it becomes progressively less coherent through to the end (I think).
+
+**A meta-representational level of organization and computation**
+
+According to wikipedia, "somatotopy" is the point-for-point correspondence of an area of the body to a specific point on the central nervous system. We know that amputation or deafferentation changes an organism's somatotopy and that these changes progress over time. It's relatively uncontroversial that parts of the brain can "rewire" themselves, to some degree, after organismal insult, so this is maybe not surprising.
+
+It might be a little surprising how reversible these changes can be.
+
+A 2008 paper [1] is titled, "Chronically Deafferented Sensory Cortex Recovers a Grossly Typical Organization after Allogenic Hand Transplantation." The abstract says,
+
+> "[d]espite limited sensation, palmar tactile stimulation delivered 4 months post-transplant evoked contralateral S1 responses that were indistinguishable in location and amplitude from those detected in healthy matched controls. We find no evidence for persistent intrusion of representations of the face within the representation of the transplanted hand, although such intrusions are commonly reported in amputees. Our results suggest that even decades after complete deafferentiation, restoring afferent input to S1 leads to re-establishment of the gross hand representation within its original territory."
+
+It's just one paper, but there are nearby papers in "paper space." These results suggest that at least the sensory cortex maintains significant plasticity throughout one's entire life, or at least maintains latent plasticity.
+
+Losing and reattaching a (new) hand is a very large change. What about the "changes" of daily life? *The Atlantic* reports on the phenomenon of "representational drift." [2] (There are links to the relevant papers, in the article.) For example, neurons that represent particular odors change over time ("in mice")—within a month, representations of the odor remain, but the representing neurons are completely different. This sort of phenomenon is found in several brain regions. Also, from older research, it's sort of a truism that expert skill execution recruits less of the brain (and fewer muscles). Together, these results suggest that, representations in the brain are simultaneously both continually in motion (copied, transferred) and continually being sculpted. (When I say "continually," perhaps this is during REM sleep, or perhaps it's when awake behavior partially recruits those representations, or maybe it's actually "continuously.")
+
+For some possibly relevant mechanism, according to wikipedia, in 2007, evidence was first found for so-called "didactic organization," though this was predicted at least as early as 2001. [3] "Didactic organization is the ability of neurons within a network to impart their pattern of synaptic connectivity and/or response properties to other neurons."
+
+Relatedly, a popular article [4] reports in vivo results ("in mice") showing that "the brain rotates memories to save them from new sensations." In summary, "some populations of neurons simultaneously process sensations and memories. [...T]he brain rotates those representations to prevent interference [n.b. via 'orthogonal coding']." The article also reports on similar work with monkeys, but in this case it's orthogonal activity in the motor cortex, to separate motor planning and motor output. To emphasize, they claim it's the same neurons: "Experimentally sifting through the possibilities, they ruled out the possibility that different subsets of neurons in the auditory cortex were independently handling the sensory and memory representations."
+
+These days, I think rapid switching network configurations are uncontroversial, and ditto for storing information in the same same networks at different frequencies, and I think the "darwinian nature" of the brain is fairly well accepted at the "neural level" and possibly the "direct representational level," i.e. representations in local competition for neural substrate. 
+
+But, to my mind, all the above suggests that there is a sort of "meta-representational level" that can shunt around and transform representations somewhat independently of particular neural substrate. (versus, say, "substrate-locked representations" Hopefully the distinction is clear. And also I haven't super stress-tested this idea.)
+
+**Meditation Interlude 1**
+
+These popular articles and this research caught my eye, because, as a long-term meditator, I sometimes have the visceral experience of almost a "raft" of representation (or a reusable computation) "detaching from somewhere" and "drifting" until it bumps into stable structure. This is hardly an argument for anything, and phenomenology doesn't have to provide intuition about neural structure and function, and in fact phenomenology is often quite misleading, but, for what it's worth, these experiences are what made the above material stand out to me, over the past few years.
+
+There's also something important that the above leaves out--I haven't come across any nicely exemplifying research--and it's something like "substrate contention" or just "constraint." While, above, I suggested that there is a "meta-representation layer" that can ship around representations somewhat independent of neural substrate, the available "shipping routes" at any given time seem finite and non-arbitrary. To be a bit more clear, through analogy, meditation, to me as a long-term meditator, has much in common with sliding puzzles [5] and Tower of Hanoi-like problems [6]. Over weeks and months, there is tremendous flexibility. But, locally, far into meditative progress, there's often very few degrees of freedom (after using up some degree of "local slack.")
+
+(And this implies local maxima and so one of the main functions of meditation and other self-transformative practices are for stepping backwards out of local maxima.)
+
+**The Brain is Meaning-Laden and Erroneous but not Noisy**
+
+I think "active perception" [8] and "active inference" [9] are fairly well known. In these paradigms, the organism is actively sampling the world and deliberately altering the sensory apparatus to more efficiently maximize information and falsify hypotheses (and perhaps minimize free energy and etc.).
+
+I want to very loosely combine the above ideas with some interesting experimental results to make a bold, hand-wavey to counter a vague popular intuition that people often have about brains. That's all pretty vague. Let's begin.
+
+[Content warning for several subsequent paragraphs: invasive animal research] A lot of sensory neural coding experiments are done on anesthetized animals. The animal is perfectly still and "unconscious" (or perhaps barely-conscious, with drugs titrated to get a requisite level of brain activity). And the animal is stimulated, somehow, for example visually or aurally, with a mathematically parameterized stimulus, while neural recordings are taken.
+
+But, more recently, relatively more data is being collected from awake, behaving animals. Reported popularly [10], researchers found that, for example, "The visual cortex knew exactly what the animal was doing, down to the details of its individual movements." The article quotes a researcher not affiliated with the study who says, “Everywhere in the brain, it’s the same story. The movement signals are just really unmistakable.”
+
+In a different article, the same popular publication reports on "aperiodic background noise."  [11] In my own words, and this is more a speculative interpretation and hardly a summary at all, this "noise" may indirectly subserve representation or inference or it may directly represent, but, in any case, this "noise" may not be "noise" at all.
+
+What do I mean by "noise," then?
+
+Before writing this section, I went briefly looking for a very concise statement about the difference between error and noise with respect to a model. I found something good enough in a somewhat random post by an individual named Adriaan Peens-Hough. Thank you, Adriaan. [13 [sic]]
+
+Adriaan says the following (bolding mine):
+
+> 1) the residual is the difference between the true phenomenon being studied and the model being employed to describe it.
+> 2) noise is that part of the residual which is in-feasible to model by any other means than a purely statistical description. note that such modelling limitations also arise due to limitations of the measurement device (e.g. finite bandwidth & resolution).
+> 3) error is that component of the residual that remains after accounting for the noise.
+according to the above definitions:
+> a) noise and error are uncorrelated
+> b) residual may be reduced by either reducing noise or by reducing error
+> c)  these definitions are compatible with the intuitive statements that "noise does not introduce bias" and "bias is a class of error".
+finally note that error can only be reduced by improving the model (either of the phenomenon or of the measurement process). however noise may be reduced by either improving the measurement device, or by improving the model fidelity.
+
+Given all that terminology, I want to first-pass vaguely claim something like, "there is no noise in the brain; there's only model and error." I will expand on this a bit in the meditative interlude.
+
+**Meditation Interlude 2:**
+
+I think people sometimes experience themselves as sort of "messy" or "haphazard," say in behavior or belief. And popularly, we think of the brain as "wet and messy," a hunk of Jell-O. We talk of brain farts.
+
+Say, Internal Family Systems and some other contemporary modalities (and old-school psychoanalysis--Freudian slips--to be fair). That is, in the popular consciousness, we have some conception that sometimes minds/brains/people do things for no reason, or at least no good reason, yet there's also the conception that we sometimes do things for "deep reasons."
+
+After thousands of hours of meditation, I'm mostly on the "deep reasons" side. Or at least perhaps the "always reasons if not always deep ones" side. (Importantly, though, these reasons aren't necessarily first-pass or n-pass explicitly articulable; and I don't think "reasons" are a natural kind).
+
+Instead of "reasons," maybe it's better to claim that sensory data is always "interpreted" or that almost all neural activity is nearly synonymous with interpretation.
+
+I mentioned slider puzzles and Tower of Hanoi problems above.
+
+To be sure, phenomenology can be buzzy, shimmery, sweeping. Attention can be choppy. "Thought" can seem fragmented, repetitive, loopy.
+
+But the impression that emerges, at least for me, over thousands of hours of meditation, is of something the opposite of "mush" and instead something of "thresholds, criticalities, steel cables," something far closer to a Babbage difference engine than, say, a monkey mind or electrical impulses rattling around in Jello-O. Not springs and rubber bands, but gears and rods. The monkey mind is instantiated by the Babbage difference engine. 
+
+This is getting a big vague, be degrees, as I run out of steam. But: model error, not noise.
+
+**Source Localization and Epistemics**
+
+[This section is copied from a [facebook comment I made](https://www.facebook.com/robbensinger/posts/10165449844265447?comment_id=10165449991010447&reply_comment_id=10165450085795447) [12]]
+
+> What are some examples of epistemic upgrades you'd predict [from meditation]?
+
+This is very terse/schematic, but I predict improvements in:
+
+(1) attribution and provenance
+
+(2) reasoning
+
+(3) transitive closure and de-contradicting of current beliefs
+
+**(1) attribution and provenance**
+
+(a) better attribution of the causal chain of an belief update and
+
+(b) improved concepts/ontologies,
+
+because (a-b) are causally downstream of improved source localization and separation/deconvolution of sensory phenomena [1].
+
+[1] https://en.wikipedia.org/wiki/Cocktail_party_effect
+
+**(2) reasoning**
+
+Improvements in sensory processing are also improvements in reasoning, even though high-level reasoning processes might seem remote from low-level sensory processing. Here are some additional claims, with some loose argumentation:
+
+*Past* sensory impressions/memory, in a sense, become/condition/sculpt the structure of *current and future* sensory processing *which includes* the reasoning process itself, which itself is *partially* a sort of "sensory processing" of "inner experiences."
+
+So sensory processing, at the neurological level, is deeply entangled with high-level reasoning.
+
+And so even high-level epistemic errors can be traced back to past or current sensory processing errors.
+
+**(3) transitive closure and de-contradicting of current beliefs**
+
+Claim: Past (and contemporary) sensory processing failures, even ones from decades ago, can be corrected, which can cause a cascade of conceptual/belief improvements, to old beliefs, as well as the bleeding edge of belief, in the present.
+
+This process of correction involves re-processing old sensory experiences, which includes reprocessing prior experiences of the reasoning process itself, and thereby a refactoring of the reasoning process itself (again because of how experience becomes structure/process).
+
+Because of "compression" and a strange sort of quasi-losslessness, it's possible in meditation to go all the way back to childhood traumas, very old epistemic errors, and so forth, in less total durational time than it took to live them. (cf. also the so-called memory reconsolidation literature) And that reprocessing cascades through the rest of one's belief system causing further improvements, upgrades, and so on.
+
+I analogize meditation to paying off technical debt. [More sections in my doc:]
+
+* technical debt, meditation, and minds
+* a speculative comment on language learning
+* technical debt and inverse operations
+* merely just having the experience itself, and, technical debt is good, actually
+
+https://meditationbook.page/#181
+
+I made a lot of inferential jumps in the above, for brevity!
+
+**(Miscellaneous) Interlude 3:**
+
+Finally, I want to talk briefly about representations, as such. Above I refer to representations as if they're "real things that exist that directly represent other things." I'm taking a strawman interpretation of my own writing above. In that vein, one could imagine an organism with a brain as something like:
+
+perception --> update representations (beliefs/goals) --> action --> perception --> action...
+
+In place of representation, I like "functional (stateless) computation."
+
+That is, the "state" of the system is stored in "that which continuously, waterfall-style, without feedback loops, computes motor outputs from perceptual inputs." (In that scheme, the "flow of information" through the computation directly and continuously shapes the computational substrate to optimize the computation.
+
+But of course we know there's feedback and feedforward in the brain, so it's not quite like this. But I want to strawman caution against inferring the existence of "representations as such" from symbolic behavior such as speaking, writing, and even thinking.
+
+**Conclusion and Caution:**
+
+So the goal of this piece was to highlight some relatively more contemporary results in neuroscience that have piecemeal stood out to me as a long-term meditator. In my main meditation writing, I don't talk much about neuroscience because neuroscience is in its infancy and it's currently difficult to write meditation instructions in a way that "directly operationalizes neuroscientific concepts." If I wrote a lot about neuroscience and meditation, it'd all be more and more obsolete with each passing year. So I've tried to future proof my writing by using folk, philosophical and math-adjacent concepts, in both gestural and precise ways.
+
+Maybe neuroscientific concepts will never be the right ontology. Of course stroke victims and TMS research subjects can sort of learn to differentiate when precise local substrate is or isn't working. And I will say that, when I started meditating, I "didn't feel like a brain," but now the long-run shimmer and sweep of meditation, at the finest phenomenological grain, feels suspiciously like brainwaves (the frequencies are right) and subtle, very fine-grain aperiodic shimmering across the whole phenomenological field (pervasive during meditation but not while living life) feels suspiciously like the phenomenological correlates of synaptic potentiation and depotentiation as such. But, anyway, still, I'm not sure, and maybe "neuroscience" will always be the wrong level of abstraction for meditation
+
+And, anyway, in any case, I dream of meditation instructions that are "neuroscience all the way down."
+
+**Caution:**
+
+The above (and here) serve as a bit of a caution, too. Willoughby Britton [\*] finds a non-negligible percentage of severe sequelae in meditators, even for those under the supervision or ostensibly qualified teachers.
+
+Neural state space is finite but vast. I currently guesstimate that it takes about 10,000 hours to walk the "whole thing" even just once, loosely speaking. I believe that being safe can be very counterintuitive and even "accidentally optimal" meditation can be a rough ride. For what it's worth, the above concepts and ontologies in this post aren't remotely like the ones I use in my writing and teaching about how to meditate. Please don't operationalize any of the above in terms of "bespoke meditation instructions" or please be careful if you do.
+
+\*\*\*
+
+[\*] Britton et al., and others, from her citations:
+
+* Anderson, Thomas, Mallika Suresh, and Norman AS Farb. "Meditation benefits and drawbacks: empirical codebook and implications for teaching." Journal of Cognitive Enhancement 3.2 (2019): 207-220.
+* Cebolla, Ausiàs, et al. "Unwanted effects: Is there a negative side of meditation? A multicentre survey." PloS one 12.9 (2017): e0183137.
+* Lindahl, Jared R., et al. "The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists." PloS one 12.5 (2017): e0176239.
+* Lindahl, Jared R., et al. "Progress or Pathology? Differential Diagnosis and Intervention Criteria for Meditation-Related Challenges: Perspectives From Buddhist Meditation Teachers and Practitioners." Frontiers in psychology 11 (2020): 1905.
+* Lomas, Tim, et al. "A qualitative analysis of experiential challenges associated with meditation practice." Mindfulness 6.4 (2015): 848-860.
+* Schlosser, Marco, et al. "Unpleasant meditation-related experiences in regular meditators: Prevalence, predictors, and conceptual considerations." PloS one 14.5 (2019): e0216643.
+
+\*\*\*
+
+[1] Frey, Scott H., et al. "Chronically deafferented sensory cortex recovers a grossly typical organization after allogenic hand transplantation." Current Biology 18.19 (2008): 1530-1534.
+
+[2] https://www.theatlantic.com/science/archive/2021/06/the-brain-isnt-supposed-to-change-this-much/619145/ [Last accessed: 2022-02-07]
+
+[3] https://en.wikipedia.org/wiki/Didactic_organisation [Last accessed: 2022-02-07]
+
+[4] https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/ [Last accessed: 2022-02-07]
+
+[5] https://en.wikipedia.org/wiki/Sliding_puzzle [Last accessed: 2022-02-07]
+
+[6] https://en.wikipedia.org/wiki/Tower_of_Hanoi [Last accessed: 2022-02-07] 
+
+[7] https://en.wikipedia.org/wiki/Self-organizing_map [Last accessed: 2022-02-07] 
+
+[8] https://en.wikipedia.org/wiki/Active_perception [Last accessed: 2022-02-07] 
+
+[9] https://en.wikipedia.org/wiki/Free_energy_principle [Last accessed: 2022-02-07] 
+
+[10] https://www.quantamagazine.org/noise-in-the-brains-vision-areas-encodes-body-movements-20191107/ [Last accessed: 2022-02-07]
+
+[11] https://www.quantamagazine.org/brains-background-noise-may-hold-clues-to-persistent-mysteries-20210208/ [Last accessed: 2022-02-07]
+
+[12] https://www.facebook.com/robbensinger/posts/10165449844265447?comment_id=10165449991010447&reply_comment_id=10165450085795447
+
+[13] Peens-Hough, Adriaan. (2016). Re: What's the difference between noise and error in a dataset?. Retrieved from: https://www.researchgate.net/post/Whats_the_difference_between_noise_and_error_in_a_dataset2/56f2628340485479c609ec0b/citation/download.
+
+[<a href="#192dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="174"></span> teaching and learning and creating and relating (meditation and anything):
 
