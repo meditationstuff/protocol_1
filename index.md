@@ -258,6 +258,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="152h" href="#152">attention is not fundamental</a>
 	* <a id="153h" href="#153">"inner space" and physical/social grace</a>
 	* <a id="154h" href="#154">dark phenomenology and presence/absence conceptions</a>
+	* <a id="154a1h" href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 	* <a id="154ah" href="#154a">daily limits</a>
 	* <a id="154bh" href="#154b">pushing away, holding at bay, preconceiving, direct-reifying</a>
 	* <a id="155h" href="#155">brief thoughts on substances like psychedelics</a>
@@ -305,7 +306,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="164h" href="#164">subtle interaction</a>
 		* <a id="165h" href="#165">"psychic" and "supernatural" stuff; what/how/how-not [draft]</a>
 		* <a id="166h" href="#166">self and other; good and bad [draft]</a>
-		* <a id="167h" href="#167">prenatal experiences</a>
+		* <a id="167h" href="#167">prenatal experiences and subtle interaction</a>
 		* <a id="168h" href="#168">direct and indirect people and group stuff</a>
 		* <a id="169h" href="#169">on vibe(s) and vibing, briefly</a>
 		* <a id="169ah" href="#169a">distinctions</a>
@@ -2455,6 +2456,12 @@ Some takes on "perfect meditation posture:"
 * (books about Zhan Zhuang, in general)
 
 "Perfect posture" should be explored for the possibility of maximal useful feedback and safety.
+
+\*
+
+See also:
+
+* <a href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 
 [<a href="#76h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -5940,13 +5947,13 @@ The way to untangle attention [from other things and even completely] is no diff
 
 (epistemic status: not exactly, maybe too extreme, needs more qualification, at least, and, but, etc.)
 
-"Internal" action, "mental" actions, perhaps (but not exactly*) even "subtle" actions are essential until they’re not (if ever) but there’s a sense in which perhaps all such actions are inherently jammy, grindy, frictiony, contradictory, contentious somewhere deep down. As in, any action that doesn’t stabilize or move the (")physical(") body, smoothly, coherently, is perhaps in some sense wasteful or ultimately superfluous.
+"Internal" action, "mental" actions, perhaps (but not exactly\*) even "subtle" actions are essential until they’re not (if ever) but there’s a sense in which perhaps all such actions are inherently jammy, grindy, frictiony, contradictory, contentious somewhere deep down. As in, any action that doesn’t stabilize or move the (")physical(") body, smoothly, coherently, is perhaps in some sense wasteful or ultimately superfluous.
 
-\*This isn’t quite right because perhaps something like "inner space" transforms, thins, becomes re-known (cf. "just this" and luminosity**). But that doesn’t negate fantasy, imagination, play, shared dreaming, the positive (inner) spaces between (us). And/but/though/also, there’s senses in which thinking ("mental" action, mental effort) ultimately isn’t needed for any of that***. ("Ultimately," as in eventually, because mind stuff is sometimes for sure needed until it isn’t.)
+\*This isn’t quite right because perhaps something like "inner space" transforms, thins, becomes re-known (cf. "just this" and luminosity\*\*). But that doesn’t negate fantasy, imagination, play, shared dreaming, the positive (inner) spaces between (us). And/but/though/also, there’s senses in which thinking ("mental" action, mental effort) ultimately isn’t needed for any of that\*\*\*. ("Ultimately," as in eventually, because mind stuff is sometimes for sure needed until it isn’t.)
 
-**"in the seeing just the seen, in the hearing just the heard"; centerlessness, agency-less-ness (not saying these are necessarily good, necessary, inevitable but sketching out the space)
+\*\*"in the seeing just the seen, in the hearing just the heard"; centerlessness, agency-less-ness (not saying these are necessarily good, necessary, inevitable but sketching out the space)
 
-***see section: merely just having the experience itself, and, technical debt is good, actually
+\*\*\*see section: merely just having the experience itself, and, technical debt is good, actually
 
 [<a href="#153h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -5978,6 +5985,44 @@ There are parallels, here, to "unvalenced" phenomenology and memories. (vs "vale
 
 [<a href="#154h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="154a1"></span> prenatal experiences, the fetal position, and other 'be moved bottlenecks':
+
+**Mark  11:55 AM**
+
+Damn I just spent 40 min pulled into the fetal position with my wrists wanting to be precisely bent and turned inwards (lying on side with thick pillow under head). Will add to postures, maybe will save someone a little time
+
+No interesting “content” came up. Have been with lots of prenatal stuff before though
+
+Valence neutral too. Just hangin’ out, but it was a bottleneck
+
+Lots of precise postural and movement stuff semi-often ofc. Just striking to me because so stereotyped. Not surprising ig but striking
+
+> What does being with prenatal stuff "feel" like?
+
+non-verbal and often a strange and maybe an almost "a-sensory" quality. almost pure knowing and feeling with maybe a hint of touch/tactile and sometimes vestibular/translational/accelerational. also sort of "impressionistic-relational," sometimes--mom is there (and sometimes intuited father/siblings, all "not quite separate"). one often encounters content around "inside vs outside," "real vs not," "self vs other," sometimes very fundamental conceptual stuff. often associated with somatic refactoring in the perineum. and then post-natally but still preverbally there's very fragmented sensory memory, flashes of smell and touch and sight and temperature but very disjointed or out of focus. everybody's probably a little different though, etc., etc. (edited) 
+
+[...]
+
+it's pretty infrequent that anything is sort of "gathered" enough for the above. usually it's diffuse and liminal. but sometimes it passed threshold and there's stuff like the above. maybe 25-50 times in X years? there will be one to twenty minutes of stuff like the above.
+
+\*
+
+be moved (and state) bottlenecks, in general:
+
+The fetal position thing described above is an edge case, but fairly often the body will need to move a leg, shrug a shoulder, shake an arm, twitch a finger, and so on, sometimes once, sometimes hundreds of times (like five to twenty at a time, then you do other things for minutes, hours, or weeks, and then another five to twenty, and so on). It might seem like it'd be a little stressful to "find" these, since they can sometimes block progress along some dimension until you come across it. But, meditation sort of proceeds by exhaustive process of elimination. Eventually, you'll sort of be funneled to the right spontaneous, almost spontaneous, or participatory movements. Importantly, not all movements are "good," in some sense. Like, I wouldn't go hunting for movements. Some shaking, for example, is sort of "neutral"; it doesn't necessarily go anywhere. And some movements decrease slack somewhere in the system when they're done out of order and lower "undo slack." But, automatic or almost automatic movements that sort of don't have a "push" behind them, are often the right thing to participate in. 
+
+Sometimes these movements can be accompanied by 'inner space' experiences, or novel (or familiar) reverie, immersive flashbacks, "other reality pockets," and so on. But sometimes not--sometimes it's just sort of the movement of the body and nothing else. (And of course one can and likely will experience the aforementioned things without overt body movements, too.)
+
+\*
+
+See also:
+
+* <a href="#6auxiliary">be moved</a>
+* <a href="#167">prenatal experiences and subtle interaction</a>
+
+
+[<a href="#154a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="154a"></span> daily limits:
 
@@ -8959,7 +9004,7 @@ In conclusion, one could be thought of as sometimes having a scattering of "deep
 
 [<a href="#166h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="167"></span> prenatal experiences:
+# <span id="167"></span> prenatal experiences and subtle interaction:
 
 [please read the section, "psychic" and "supernatural" stuff: what/how/how-not, before this section]
 
@@ -9024,6 +9069,12 @@ But, between mother and child (and father and other siblings and family members,
 Resources permitting, a mother, as a skilled meditator, might perhaps(???) work through remaining, prior womb patterns before conceiving another child. This could, of course, be outrageously stringent and costly. (And there might even be good reasons for not doing this that aren’t yet well understood. As always: meta protocol, etc.)
 
 And, but, so, in any case, in principle, resources permitting, as I mentioned a bit above, minds are "lossless" in a way that allows for sort of "clean healing", clean reinterpretation, clean re-understanding from any badness, trauma, misinterpretation, etc., all the way back to the first moments of consciousness. So, whatever experiences someone has prenatally, this is sort of all accounted for in the "10,000 hour" estimate of how long-ish it takes for a hardcore meditator to sort of asymptote. All of this section is accounted in that time estimate. All of this comes up naturally and is handleable, if it does. And having skimmed this section, hopefully it’ll all go fractionally more smoothly.
+
+\*
+
+See also:
+
+* <a href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 
 [<a href="#167h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
