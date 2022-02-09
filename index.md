@@ -240,6 +240,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="140h" href="#140">good(ness) bad(ness)</a>
 	* <a id="141h" href="#141">some "big" useful concepts</a>
 	* <a id="142h" href="#142">poem of self/other confusion and interdependence</a>
+	* <a id="142ah" href="#142a">is good, is bad (q)</a>
 	* <a id="143h" href="#143">states</a>
 	* <a id="144h" href="#144">invitation of acceptance</a>
 	* <a id="145h" href="#145">nutrition</a>
@@ -5506,6 +5507,85 @@ I am me, and you are you, and I am not you, and you are not me.
 And, we can be we.  
 
 [<a href="#142h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <span id="142a"></span> is good, is bad (q):
+
+[This is an experimental section by (q). It's not intended to be complete or final, and they don't have any particular intention to return to it, at time of publishing. In terms of whether this is "canon," or something or whatever, some of these I resonate with and others aren't quite the way I would've written them. And I might or might've resonated more with some of them at some times in my practice and less or not at others. But some of them make me go YES, and I thought it would be powerful and provocative for people to read through and ponder them, in their sort of "combinatoric completeness". -M]
+
+some basic directional orientation moves:
+
+in some sense:
+
+* Being good is good
+* Being bad is bad
+* Feeling good is good
+* Feeling bad is bad
+* Other people feeling good is good
+* Other people feeling bad is bad
+* Me feeling good is good
+* Me feeling bad is bad
+* Good things are good
+* Bad things are bad
+* Parts of me feeling good is good.
+* Parts of me feeling bad is bad.
+* Any part of me feeling good is good.
+* Any part of me feeling bad is bad.
+* Any person feeling good is good.
+* Any person feeling bad is bad.
+
+In a similar but not identical sense:
+
+* Goodness is always good
+* Badness is always bad
+* Badness is never (fully) good
+* Goodness is never (fully) bad
+
+and also
+
+* Good things can be mistaken to appear bad (to someone, to everyone)
+* Bad things can be mistaken to appear good (to someone, to everyone)
+
+and yet
+
+* Good things are always good even if they appear bad (to someone, to everyone)
+* Bad things are always bad even if they appear good (to someone, to everyone)
+
+and complicatedly
+
+* things can be bad for one and good for another
+* (insert every permutation from many protocol formulation 1 here)
+* things can be good for me and bad for you
+* things can be good for you and bad for me
+* things can be good to one part of me and bad to another part of me
+
+and carefully noting that:
+
+* "feeling bad is bad" is not equivalent to "bad feelings are bad" and likewise for good
+* "badness is never (fully) good" is not equivalent to "badness is never (in any way) good", and likewise for goodness
+* "badness is always bad" is not equivalent to "badness is always (in every sense) bad", and likewise for goodness
+* "bad things are bad" is not equivalent to "being aware of bad things is bad" nor "becoming aware of bad things is bad" nor "being aware of the badness of a thing is bad" nor "becoming aware of the badness of a thing is bad"
+
+and also
+
+* good things can be arbitrarily superficially similar looking to bad things
+* bad things can be arbitrarily superficially similar looking to good things
+* good things can be ontologically confused to become indistinguishable from bad things (to anyone, to everyone)
+* bad things can be ontologically confused to become indistinguishable from good things (to anyone, to everyone)
+
+more on "being" good/bad:
+
+* One person (including I) can seem to be good or be bad to another person
+* Certain people have more or less concensus on their being-good or being-bad (or neither), across the set of all people.
+* Different people use different criteria to decide on others being-good or being-bad (or neither)
+* I can personally agree or disagree with such a concensus
+* This may or may not correspond to the always-good goodness and the always-bad-badness, but naively at least seems to be correlated
+* Someone can have good feelings, or bad feelings, wrt my specific actions, specific traits, specific qualities
+* Someone can have good feelings, or bad feelings, wrt me as a whole person in their perception
+* I can have good feelings/bad feelings wrt others' specific actions, specific traits, specific qualities, and as a whole person
+* I can have good feelings/bad feelings wrt my own specific actions, specific, traits, specific qualities, and as a whole person.
+* A concensus of good feelings may be an indicator of the always-good goodness, a concensus of bad feeling may be an indicator of the always-bad badness, but again there is always the strong possibility of being mistaken
+
+[<a href="#142ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="143"></span> states (draft):
 
