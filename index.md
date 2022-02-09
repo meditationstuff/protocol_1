@@ -6019,6 +6019,7 @@ Sometimes these movements can be accompanied by 'inner space' experiences, or no
 See also:
 
 * <a href="#6auxiliary">be moved</a>
+* <a href="#78">states</a>
 * <a href="#167">prenatal experiences and subtle interaction</a>
 
 
