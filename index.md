@@ -10339,7 +10339,7 @@ Neural state space is finite but vast. I currently guesstimate that it takes abo
 
 \*\*\*
 
-some papers associated with the popular articles above, for posterity:
+some papers associated with the popular articles above, for precision and posterity:
 
 Schoonover, C. E., Ohashi, S. N., Axel, R., & Fink, A. J. (2021). Representational drift in primary olfactory cortex. Nature, 594(7864), 541-546.
 
