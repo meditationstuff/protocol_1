@@ -321,6 +321,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="192bh" href="#192b">miscellaneous pith notes</a>
 * <a id="192ch" href="#192c">neuroscience speculative snapshots</a>
 	* <a id="192dh" href="#192d">neuroscience and meditation, odds and ends [2022-02-09]</a>
+	* <a id="192eh" href="#192e">more neuroscience odds and ends 2022-02-10</a>
 * <a id="174h" href="#174">teaching and learning and creating and relating (meditation and anything)</a>
 	* <a id="175h" href="#175">teaching</a>
 		* <a id="177h" href="#177">guided on-ramp for main practice p2 [draft]</a>
@@ -10336,9 +10337,65 @@ Neural state space is finite but vast. I currently guesstimate that it takes abo
 
 [13] Peens-Hough, Adriaan. (2016). Re: What's the difference between noise and error in a dataset?. Retrieved from: https://www.researchgate.net/post/Whats_the_difference_between_noise_and_error_in_a_dataset2/56f2628340485479c609ec0b/citation/download.
 
+\*\*\*
+
+some papers associated with the popular articles above, for posterity:
+
+Schoonover, C. E., Ohashi, S. N., Axel, R., & Fink, A. J. (2021). Representational drift in primary olfactory cortex. Nature, 594(7864), 541-546.
+
+Libby, Alexandra, and Timothy J. Buschman. "Rotational dynamics reduce interference between sensory and memory representations." Nature neuroscience 24.5 (2021): 715-726.
+
+
+Niell, Cristopher M., and Michael P. Stryker. "Modulation of visual responses by behavioral state in mouse visual cortex." Neuron 65.4 (2010): 472-479.
+
+Kumar, Neeraj, Timothy F. Manning, and David J. Ostry. "Somatosensory cortex participates in the consolidation of human motor memory." PLoS biology 17.10 (2019): e3000469.
+
+Vinck, M., Batista-Brito, R., Knoblich, U., & Cardin, J. A. (2015). Arousal and locomotion make distinct contributions to cortical activity patterns and visual encoding. Neuron, 86(3), 740-754.
+
+Stringer, C., Pachitariu, M., Steinmetz, N., Reddy, C. B., Carandini, M., & Harris, K. D. (2019). Spontaneous behaviors drive multidimensional, brainwide activity. Science, 364(6437), eaav7893.
+
+Salkoff, D. B., Zagha, E., McCarthy, E., & McCormick, D. A. (2019). Movement and performance predict widespread cortical activity in a visual detection task. bioRxiv, 709642.
+
+Drew, Patrick J., Aaron T. Winder, and Qingguang Zhang. "Twitches, blinks, and fidgets: important generators of ongoing neural activity." The Neuroscientist 25.4 (2019): 298-313.
+
+Stringer, C., Michaelos, M., Tsyboulski, D., Lindo, S. E., & Pachitariu, M. (2021). High-precision coding in visual cortex. Cell, 184(10), 2767-2778.
+
+Musall, Simon, Matthew T. Kaufman, Ashley L. Juavinett, Steven Gluf, and Anne K. Churchland. "Single-trial neural dynamics are dominated by richly varied movements." Nature neuroscience 22, no. 10 (2019): 1677-1686.
+
+He, Biyu J. "Scale-free brain activity: past, present, and future." Trends in cognitive sciences 18, no. 9 (2014): 480-487.
+
+
+He, Biyu J., John M. Zempel, Abraham Z. Snyder, and Marcus E. Raichle. "The temporal structures and functional significance of scale-free brain activity." Neuron 66, no. 3 (2010): 353-369.
+
+Voytek, Bradley, Mark A. Kramer, John Case, Kyle Q. Lepage, Zechari R. Tempesta, Robert T. Knight, and Adam Gazzaley. "Age-related changes in 1/f neural electrophysiological noise." Journal of Neuroscience 35, no. 38 (2015): 13257-13265.
+
+Donoghue, Thomas, Matar Haller, Erik J. Peterson, Paroma Varma, Priyadarshini Sebastian, Richard Gao, Torben Noto et al. "Parameterizing neural power spectra into periodic and aperiodic components." Nature neuroscience 23, no. 12 (2020): 1655-1665.
+
+Schaworonkow, Natalie, and Bradley Voytek. "Longitudinal changes in aperiodic and periodic activity in electrophysiological recordings in the first seven months of life." Developmental cognitive neuroscience 47 (2021): 100895.
+
+Wen, Haiguang, and Zhongming Liu. "Separating fractal and oscillatory components in the power spectrum of neurophysiological signal." Brain topography 29, no. 1 (2016): 13-26.
+
+Maniscalco, Brian, Jennifer L. Lee, Patrice Abry, Amy Lin, Tom Holroyd, and Biyu J. He. "Neural integration of stimulus history underlies prediction for naturalistically evolving sequences." Journal of Neuroscience 38, no. 6 (2018): 1541-1557.
+
 [<a href="#192dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <span id="192e"></span> more neuroscience odds and ends 2022-02-10:
 
+Link: https://www.quantamagazine.org/new-map-of-meaning-in-the-brain-changes-ideas-about-memory-20220208/ [Last accessed: 2022-02-10]
+
+Popham, Sara F., et al. "Visual and linguistic semantic representations are aligned at the border of human visual cortex." Nature Neuroscience 24.11 (2021): 1628-1636.
+
+My commentary:
+
+"no such thing as memory that's separable from everything else";"'naturalization/integration frees up memory/skill that's entangled with it's local context and makes it more globally available. but even then, there's sort of no such thing as memory that's separable from everything." another way to put it is that, there's a sense in which there's no domain general skills and domain general knowledge, but also a sense in which there can be. or, humans furiously generalize, but there's a sense in which that generalization is always "newly context specific." none of this is quite right.
+
+Comment link: https://news.ycombinator.com/item?id=30287240 [Last accessed: 2022-02-10]
+
+Summary: people who switch languages may partially lose access to skills and declarative they learned while speaking the original language.
+
+Me: Meditation, etc., can more fully make available knowledge, capacity, skills that are entangled with prior languages but especially *prior contexts* in general. And meditation can help combine skill, knowledge, etc., from *far removed prior contexts* to facilitate generalization, error correction, etc., all the way up to (in some sense) fully global models that account for all so-far-encountered used-to-be-anomalies. There's a sense though in which even this is just a recontextualization. Like there's no way to escape "knowledge is behavior is entangled with environment and context", but in another sense it's relative by degrees, all the way up to global (which is partially overlaps with luminosity and is basically coextensive with paying off all technical debt. See also Plato's Camera by Paul Churchland. 
+
+[<a href="#192eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="174"></span> teaching and learning and creating and relating (meditation and anything):
 
