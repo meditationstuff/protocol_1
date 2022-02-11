@@ -235,7 +235,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="136ah" href="#136a">regarding "better not to start; if you start better to finish" (draft)</a>
 	* <a id="137h" href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>
 	* <a id="137ah" href="#137a">x-desires, fulfillment, transformation, discussion</a>
-	* <a id="137bh" href="#137b">taking refuge (can reshape the local environment and world; global wayfinding through late-stage)</a>
+	* <a id="137bh" href="#137b">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
 	* <a id="138h" href="#138">on falling asleep</a>
 	* <a id="139h" href="#139">a gentle onramp</a>
 	* <a id="140h" href="#140">good(ness) bad(ness)</a>
@@ -5418,7 +5418,7 @@ In any case, too, it's also very possible that "safe-to-look, then look," etc., 
 
 
 
-# <span id="137b"></span> taking refuge (can reshape the local environment and world; global wayfinding through late-stage):
+# <span id="137b"></span> taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that:
 
 There's sort of a bunch of ways people can relate to "inner phenomenological space" (not to imply that that's a *thing* that everyone will experience or experience as such). 
 
