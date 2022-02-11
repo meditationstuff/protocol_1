@@ -7474,5 +7474,11 @@ Let the bodymind and everything (thoughtlessly) just be, let it spontaneously "u
 [<a href="#892auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="893auxiliary"></span> be true to yourself:
+
+Thus.
+
+[<a href="#893auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
