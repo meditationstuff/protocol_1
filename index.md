@@ -338,6 +338,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="186h" href="#186">meditation indirectly discloses domain knowledge</a>
 		* <a id="187h" href="#187">human epistemic dynamics and phenomena</a>
 		* <a id="188h" href="#188">epistemic-aesthetic rigor [stub]</a>
+		* <a id="188ah" href="#188a">calling word salad phenomenon</a>
 	* <a id="189h" href="#189">relating</a>
 		* <a id="190h" href="#190">in-relationship foreclosing legacy of past interaction [stub]</a>
 	* <a id="191h" href="#191">creating</a>
@@ -11135,6 +11136,41 @@ Further reading:
 * Principles of Philosophy, Descartes
 
 [<a href="#188h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <span id="188a"></span> calling word salad phenomenon:
+
+[From a forum post I made. I think this is flawed in a bunch of ways, but it's a stake in the ground for something better.]
+
+In my head I call this the "word salad" phenomenon, where one can read something and be like "that's just word salad..."
+
+I think about this a lot because inferential distance makes "calling word salad" more likely, and it's maybe especially common in pre-paradigmatic domains.
+
+Honestly, I see it a lot between meditators at all skill/knowledge levels, and, imo, it's often a good call. Sometimes it's a good call for part of someone's body of work and a mis-read for another part.
+
+In general, I see it especially between "same-level" experts or autodidacts (again in pre-paradigmatic domains), as well as between non-experts and experts, in both directions. (The "expert" thinks "word salad" when a non-expert tries to convey something, and/or vice versa.) "Expert," here, could be replaced by advanced practitioner, unsocialized autodidact, crackpot...
+
+I think the principle of charity is helpful, but also there's only so much time to evaluate claims.
+
+When I'm evaluating something, I sort of run through a list of referents, concepts, relations, jargon/terms-of-art, equivocation, causality, implication in no particular order.
+
+Have I ever encountered ANY of the referents before, as best I can tell? Are words being used in non-standard ways? Is the "language game" ostensive, assertoric, logical, mechanistic and/or all the above? Do the concepts and relations feel like they're "sufficiently high quality"?--how blurry are the edges? Are they of relatively small number? How elegant is the thing, overall? Do words change referents? Is referent-switching "doing useful work" or driven by lack of good vocabulary? What's the degree of causality or mechanism that inheres in the referent, or the degree of implication or argument that inheres in the writing?
+
+Sometimes one has to eject or short-circuit the evaluation process. I use the above questions to do that. But, if I have time or there are outside-view reasons to give something a longer look, I try not to drop it until (a) I have an explanation of the generating process that gave rise to the statements or artifact I'm encountering (what is the sociological/epistemic causal history of this?), or (b) I have a more general explanation for which what I'm encountering is a limit case or edge case.
+
+Because writing and speaking are "correlated with reality," even if tangled/confused, I think it's really powerful to "give word salad a chance," because people are exposed to different patches and trajectories of reality, and, modulo bullshit, it's never word salad from the inside. I think there's often net-alpha to be had, for the work put in, when someone is trying to communicate in good faith, and even when not. 
+
+(And it can create affordances to correct errors on both sides, can create a feedback loop for dispelling the curse of knowledge, etc., etc., etc.)
+
+But, yeah, sometimes it's better to disengage or to put up a communal wall.
+
+\*
+
+Terms of art:
+
+* principle of charity
+* curse of knowledge
+
+[<a href="#188ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="189"></span> relating:
 
