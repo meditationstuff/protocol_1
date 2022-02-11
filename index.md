@@ -3986,6 +3986,7 @@ Notes:
 * ~"life philosophy"/&#8203;deserving/&#8203;what-doing-why-doing-it-how-it-all-works
 * self-love
 * gripping, clinging [(((cf. time))), (((cf. oblivion)))]
+* refuge
 
 
 Notes:
