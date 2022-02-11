@@ -235,6 +235,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="136ah" href="#136a">regarding "better not to start; if you start better to finish" (draft)</a>
 	* <a id="137h" href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>
 	* <a id="137ah" href="#137a">x-desires, fulfillment, transformation, discussion</a>
+	* <a id="137bh" href="#137b">taking refuge (can reshape the local environment and world; global wayfinding through late-stage)</a>
 	* <a id="138h" href="#138">on falling asleep</a>
 	* <a id="139h" href="#139">a gentle onramp</a>
 	* <a id="140h" href="#140">good(ness) bad(ness)</a>
@@ -253,6 +254,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="148ah" href="#148a">involuntary movement, semi-involuntary movement, kriyas</a>
 	* <a id="148bh" href="#148b">kundalini</a>
 	* <a id="148ch" href="#148c">can't talk</a>
+	* <a id="148dh" href="#148d">when/&#8203;if things are bad / (not your) fault / determinism</a>
 	* <a id="149h" href="#149">being (not) ok tangles</a>
 	* <a id="150h" href="#150">brief note on space and sensations</a>
 	* <a id="151h" href="#151">brief, loosely related notes on unknotting, untwisting, untangling</a>
@@ -5415,6 +5417,76 @@ In any case, too, it's also very possible that "safe-to-look, then look," etc., 
 [<a href="#137ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+
+# <span id="137b"></span> taking refuge (can reshape the local environment and world; global wayfinding through late-stage):
+
+There's sort of a bunch of ways people can relate to "inner phenomenological space" (not to imply that that's a *thing* that everyone will experience or experience as such). 
+
+Sometimes we're using it as a "place" to push away bad things, a strategy learned long ago, deep down, in both contemporaneously useful and problematic ways. [4]
+
+And, other times, on the surface, or deep down, be trying to use it as an attempted gateway to elsewhere, or elsewhen, outside the universe, knowingly fictional, spiritual. [1]
+
+Sometimes that's sort of "push," we just want to escape, and sometimes it's sort of "pull," there's something there we want; it's a refuge.
+
+Elswhere in the document, I've talked about the importance of indulging, whether "internally" or "externally." [1],[2] I talked about why it can be good to indulge "bad" things. And, in terms of indulging maybe-good things, I encouraged people to "write that novel," or to at least try starting.
+
+I wanted to talk about that a bit more, here.
+
+Again-ish, we might try to "inner-push-away" "obviously bad" things, like bad memories or fears about the future, until/&#8203;unless it's safe not to. And we might try to push away "things that feel good that are [maybe or definitely] bad," because they are pleasurable but perhaps feel shameful or embarrassing or unworkable or betraying or immoral or dangerous or harmful, and so on.
+
+And then we also inner-push-away even things that feel, in part or whole, really, really good, safe, joyous, beautiful, anything. There could be aspects that feel [maybe or definitely] bad, too, like, say, coercive or extreme (or whatever) sexual elements, but, in any case, the whole thing is still, somehow on-net-or-of-course good. It's a refuge, a place of safety, a place to go, a place of distraction, a place where all the good things are, in some sense wholly endorsed, cosmically good, reassuring, maybe even more real than real, the realest thing, the most important thing, perhaps fiction that's truer or better than real life, or the most excellent mary/&#8203;marty sue thing, or it has elements of past tv, movies, comic books, video games, etc., or enjoying tv, video, and video games, right now, are part of taking refuge.
+
+We might push these things away because sometime told us that we have to "be in reality," or "face hard truths," or we want to "be real," or we're "wasting time," or to be an adult (or we're shamed into it). Or maybe pushing these things away was just critical for survival. Pay attention to what was going on around you or get bullied or hurt or you'll crash the car. Go out and make real friends or be alone. In any case, refuge was somehow maladaptive or we learned to resist it, whether it was or wasn't.
+
+We might also push these things away because they're not "spiritual enough," something doesn't feel enough like "spiritual or exalted" states, or not weird enough, OR(!) it's not the present moment; it's not bare attention or something, it's not "be here now.""
+
+So, all things being equal, because of redo-to-undo, in other parts of the document, I say reverie, indulgence, etc., are important (and it's important to indulge and daydream in the right order and un-force-ily, too, or one sort of can layer "new forced fantasy" on top of "confused be real" on top of childhood "actual fantasy good.")
+
+That could be sort of aimless and formless and nebulous and liminal, just kind of enjoying what comes up as you meditate, allowing yourself to go on fantasy or daydreamy tangents (or whatever, many, many things, it'll look different for everyone).
+
+And, but, so, here we go:
+
+You might be called to "refuge", with greater and greater specificity and precision. And this is where it can can kinda get especially interesting. (This has parallels with the "even worse before even better" stuff that can happen with "badness.")
+
+So, say, internally, we start getting better and better at "tool building": finding the right moves, spontaneously, nebulously, flowingly, costlessly. Like imagining people, and counterfactuals, and causal histories, and perfect parents (not to reify any of this and not to imply that it's not or can be spontaneous, unplanned, unconceptualized, nebulous...) And then: some of that *externalizes*, sort of like, for example, "be moved," another preliminary/&#8203;auxiliary practice. (And, indeed, preliminary/&#8203;auxiliary practices help to bootstrap this whole process or self-generating all the tools you need, when you need them, until of course the whole idea of moves and tools are discarded if they ever even were a thing in the first place, of course). [5], [6]
+
+There's sort of *further* externalization: Analagous to "bad triggers," where sometimes, when it's safe, and when one is ready, it can be efficient to pair meditation with seeking out the bad thing, when possible. And then here on the good side, it can be efficient and powerful to watch childhood movies, visit childhood haunts and vacation spots. This isn't critical or remotely practical for everyone (especially if a childhood haunt no longer exists or is a thousands of miles away!). Meditation is indeed especially for when it's impossible, dangerous, or costly to recreate or return to "external" stuff. But it can sometimes efficiently help when it's available.
+
+But even beyond all that, there's another thing: In the course of your meditation practice, you might find yourself becoming more interested or even obsessed with *creativity* or self expression, old skills or habits or entirely new mediums. So when I said "write that novel", that was part of this, maybe you've always wanted to and you're starting to want it more, or it's sort of come out of nowhere.
+
+But maybe you don't know how to write, sing, paint, draw, 3d model on the computer, program video games. And, say, you start reading and watching videos to figure it out. Now you have at least TWO crazy, time-consuming projects, AT LEAST: meditation and writing a ten-book epic fantasy series or programming a triple-A video game all by yourself or you want to write a multi-season screenplay.
+
+It's ok to let yourself move towards these things. *It's part of the meditation process*; it synergizes with the meditation process. (Taking time out from meditation to do this kind of stuff can be way faster than just meditating, though if you can squeeze in both, not necessarily on the same day, that's probably often best.)
+
+So maybe you're moving towards a career or creative expression you've always wanted, or what's happening is that you're constructing ever more sophisticated tools to return to your refuge, to elaborate it, experience it, share it, something, or both.
+
+There can be some thrashing and cycling, as you pick up and put down different mediums, tools, pixel art software, interaction fiction parsers, youtube creator courses, and so on. You think you want to write a novel, but you don't know how, so you start and stop five times, or it becomes grindy, reminiscient of meditation, so you have to stop for months, but you still want to do it. 
+
+Anyway, this won't happen for everyone. Maybe you started meditating because you wanted to stop messing around on social media, so you could earn enough money doing something fulfilling (or just learn to be ok with a "normal" job) and have a family. Or you wanted to get better at relationships. And even though you might be able to turn the creative thing into money (which happens!) or the creative thing involves lots of complex characters which may allow you to explore many dimensions of relationships and relating (yes!), there's still a part of you feeling like this is even worse and you're now getting pulled farther from "the real thing."
+
+It's generally ok to sort of muddle along, get pulled along, and especially to not beat yourself up about half-finished and twenty not-even-started projects that don't get past the watching instructional videos stage, that are laughable in terms of charging money for them (which might be not a part of it at all, for e.g. online fanfic communities, or it's strategically important, or the possibility of making money is how you justify doing it, to yourself). As you try to figure out how to instantiate your vision, to find FORM and STRUCTURE to render it, express it, feel it, share it--*that's sophisticated redo-to-undo scaffolding, that you're sort of being squeezed/&#8203;compelled towards*, for better and worse, at the very, very, very least*. Many mediums are really hard, and sometimes there's venues to share your shitty initial stuff and have an *amazing* time doing it, and sometimes not. In any case, *this is global wayfinding bleeding out into the world*, as it should, with possibly some nonmonotonicity "out in the world" around money, relationships, etc., (modulo emptiness and groundlessness).
+
+"Make sure you have a life that you want to 'wake up' to" includes kind of working through all of "cosmic refuge," too, whether through (half-)writing stories just for yourself, or sharing erotic fanfiction with a community, or writing post-scarcity science fiction to inspire yourself and others, or really actually inventing technology in a lab or at a startup.
+
+This is sophisticated global wayfinding, (re)do-to-undo bleeding out into the world, maybe temporary scaffolding that's especially "sifted back into the self" and then dropped/&#8203;metabolized, or that which begins to *proactively shape the world around you*, or both.
+
+\*
+
+And, so, anyway, let yourself be moved into weird postures and weird creative projects, until maybe, eventually, there's nowhere to go, you never left, your refuge is everything and everywhere, you have tremendous safety and capacity and joyousness to do things in the world (or whatever), including taxes and chores and intimacy and childcare, and still you might want to watch epic fantasy tv with friends, for all sorts of fun, heartfelt, wholehearted reasons, or work on tech in the garage, or write digital symphonies, or grow old or young with someone you love, and/&#8203;or have some grandkids, and/&#8203;or be a founder/&#8203;CEO, or be a tiny part of 20,000 employee (bio)tech company that just slightly on net is making the world a better place, or (even) better (and better). And also suffering, and also misfortune, and...
+
+\*
+
+* [1] <a href="#160">don't be here now</a>
+* [2] <a href="#137a">don't be here now</a>
+* [3] <a href="#158da1a1a">on groundlessness, a brief note</a>
+* [4] <a href="#154b">pushing away, holding at bay, preconceiving, direct-reifying</a>
+* [5] <a href="#157a6">part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need)</a>
+* [6] <a href="#69">conclusion [jazz, etc.]</a>
+
+[<a href="#137bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
 # <span id="138"></span> on falling asleep:
 
 Sometimes it’s good to use postures such as sitting without back support or standing, in order to avoid falling asleep (see the posture section for more postures and thoughts on postures). But, it can be extremely profitable to meditate while curled up comfortably in bed both while falling asleep for the night, right upon waking up (without even opening one’s eyes), and also during the day. One can drift in and out of meditation, sleep, and reverie (sleep and reverie could be conceived as falling under the surrender portion of p2 but don’t have to be.).
@@ -5957,6 +6029,61 @@ It seemed important to note this phenomenon here. It might be good to warn frien
 More to be said, here.
 
 [<a href="#148ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="148d"></span> when/&#8203;if things are bad / (not your) fault / determinism:
+
+[first draft written with thumbs on the phone, a bit repetitive or confusing in places until edit]
+
+All the warnings and all the wayfinding might imply a certain “responsibility.” [1], [2], [3]
+
+"Well if you get into trouble it’s your own damn fault, you made your bed now lie in it, told you so."
+
+First it's worth noting that even when a great deal of progress has been made stuff cam come up with 100% intensity even when 80-99% “done” with that stuff. It can be very digital. [5] 
+
+But more to the point in this section, cf. all the warnings at the top of the doc and elsewhere, cf. the whole idea of global wayfinding [4] (and cf. homunculus issues [6]), all of this can make it feel like: / “if you’re suffering or overwhelmed, especially if it’s “big” )and also if it’s medium or small), "it’s your own damn fault and you should feel bad, guilty, ashamed." /Or , all the warnings and all the wayfinding might imply a certain “responsibility.” / "Well if you get into trouble it’s your own damn fault, made your bed now lie in it, told you so."
+
+But, it could be my own bias and blindspots, but because of redo to undo and nonmonotonicity, I think things are almost always kind of bad, at least a little around the edges, and sometimes extremely bad, though I think this is person dependent. 
+
+Maybe if one precisely hews towards precisely understood and pointed out things (via teachers or books), like “do this first,” with respect to emptiness or lovingkindness or compassion or ethics or relationships or prostrations, or theory, or “view”, or concentration, then a lot of the hard stuff can be softened or shortened. (Or even/especially, do this global wayfinding thing with this meta protocol!!!!) I’m skeptical, because of tue precise ordering and wayfinding that some people need, I imagine at least some people would “grind or jam” if they tried to perfectly “prepare the ground,” first. But maybe traditions that have been around for thousands or years are onto something. I'm not sure, at this time, excepting that I've seen a lot of problematic missteps in at least some purported continuations of old traditions.
+
+Are contemporary traditions that emphasize equanimity, sweetness, and relief lying? I don’t think so, in the sense that so many things get palpably better as well as a growing (correct, in my experience) sense that things can get better and better and better still. That's the whole point, etc., etc., modulo one is also opening onself to future pain, as part and parcel of that.
+
+But, as mentioned in other sections, the very hardest things can get worse and worse before they finally get better, for months or years, and the very bad thing that perhaps may have (sublminally or not) inspired you to meditate in the first place, as mentioned elsewhere, may get worse and worse for the whole 10,000 hours before you relief.
+
+“New bad” can seem to be a thing too, not just old bad that you kind of knew about or half knew about. Maybe it's latent karma you weren't aware of or something you picked up through subtle interaction, when you temporarily became extra sensitive, while a bunch of stuff was refactoring? Over time you’ll sort of forensically tease out the causal history of all these things. That’s a critical and semi-spontaneous thing that happens over time. 
+
+But, in the meantime, a contemporary teacher notes how at least several of their students experienced “unimaginable suffering.” (I’ve experienced this, too, though prior to version one of the protocol and so also prior to usage of the meta protocol.) What the heck? Did this not make it into the sutras? Are contemporary teachers and students doing something wrong? Unclear at this time. The end result, modulo good global wayfinding, implicit or explicit, is still the same (groundlessness, deconditioning, etc.!), at least. 
+
+Anyway, in any case, a main point: there’s always going to be at least one relevant sense in which you didn’t do anything wrong and you’re not doing anything wrong. 
+
+But, you might say, “Well I saw this coming, I should have known, other people warned me…” (if only; could’ve, would’ve, should’ve…)
+
+Yes and no.
+
+First, it’s ok to regret and review, that’s part of the learning, refactoring, integrating process for much of the path. And it’s ok and sometimes really, really good to explore the best version of what could have been. Something really deep there. 
+
+Second, it’s also ok to take refuge, sort of, in “determinism”: gonna do what you’re gonna do, what is happening is what was going to happen. 
+
+It’s nuanced, this isn’t fatalism or abnegation of responsibility, or victimhood, and exploring/reviewing counterfactuals (not to reify exploring/&#8203;reviewing and counterfactuals) and also determinism can be freaky until/unless it isn’t.
+
+(And like yeah “if only you had/hadn’t”—but maybe not, this might’ve been much better than something else! (There's that old taoist story where a seeming good thing leads to a seeming bad thing leads to a seeming even better thing leads to a seeming even worse thing leads to...)
+
+(There’s also important point mentioned elsewhere, that you may have a sense you’re doing something wrong for hundreds of hours, because momentum, karma, redo-to-undo burnoff, and that might well be optimally executed practice, no other alternative.) [7]
+
+Anyway, hard to say whether a better thing could have even happened, maybe stably same-ish outcome even given a lot of perturbations or even sharp counterfactual, very ok to retrospectively and prospectively explore though, and/&#8203;but/&#8203;also, because of causes and conditions (not to reify those, either), what’s happening is what’s happening, and now, and now, and also it’s ok to escape from that into reverie, and so on, and so on. Consider: not your fault.
+
+\*
+
+* [1] <a href="#16">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
+* [2] <a href="#14">document-level meta-warning</a>
+* [3] <a href="#19a">preconceiving, direct reifying [draft]</a>
+* [4] <a href="#157a6">part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need)</a> 
+* [5] <a href="#148">last gasps</a> 
+* [6] <a href="#158fa">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
+* [7] search for "of hours" in the document, without the quotes, for lots of examples of stuff that you "might know is in some sense wrong" but you're amidst burn-off and that happening for hours or weeks, on and off, is optimal progress forward
+
+[<a href="#148dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="149"></span> being (not) ok tangles:
