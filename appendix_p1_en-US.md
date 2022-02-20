@@ -662,6 +662,7 @@ n/a
 	- before after then next
 	- even yet, even while, even still, even yet while, but, and, with expectation, against expectation
 	- instead
+	- in spite of
 	- same like similar different distinct
 	- but however though
 	- therefore, in conclusion
@@ -1291,5 +1292,12 @@ It could have been the case [that X]; but it/that was not so/not the case. Had i
 https://en.wikipedia.org/wiki/Counterfactual_conditional
 
 ---
+
+This is good/bad/adjective. ... I didn't mean to imply that the others were bad/good/opposite/etc. I mean this is *especially* good/bad/adjective.
+
+This is better/comparative/etc.. ... I didn't mean to imply that the others weren't good/etc. I mean this one is *even* better/comparative/etc.
+
+---
+
 
 [<a href="#196h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

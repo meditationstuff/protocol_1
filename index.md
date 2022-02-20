@@ -3989,6 +3989,8 @@ Notes:
 * self-love
 * gripping, clinging [(((cf. time))), (((cf. oblivion)))]
 * refuge
+* possessing, owning, coveting, taking into [oneself, as it were]
+* structuring/&#8203;schematizing
 
 
 Notes:
