@@ -3991,6 +3991,7 @@ Notes:
 * refuge
 * possessing, owning, coveting, taking into [oneself, as it were]
 * structuring/&#8203;schematizing
+* abstracting
 
 
 Notes:
