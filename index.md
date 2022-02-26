@@ -5444,7 +5444,7 @@ We might push these things away because sometime told us that we have to "be in 
 
 We might also push these things away because they're not "spiritual enough," something doesn't feel enough like "spiritual or exalted" states, or not weird enough, OR(!) it's not the present moment; it's not bare attention or something, it's not "be here now.""
 
-So, all things being equal, because of redo-to-undo and inverse operations in other parts of the document, I say reverie, indulgence, etc., are important (and it's important to indulge and daydream in the right order and un-force-ily, too, or one sort of can layer "new forced fantasy" on top of "confused be real" on top of childhood "actual fantasy good.")
+So, all things being equal, because of redo-to-undo and inverse operations in other parts of the document [2a], I say reverie, indulgence, etc., are important (and it's important to indulge and daydream in the right order and un-force-ily, too, or one sort of can layer "new forced fantasy" on top of "confused be real" on top of childhood "actual fantasy good.")
 
 That could be sort of aimless and formless and nebulous and liminal, just kind of enjoying what comes up as you meditate, allowing yourself to go on fantasy or daydreamy tangents (or whatever, many, many things, it'll look different for everyone).
 
@@ -5481,7 +5481,8 @@ And, so, anyway, let yourself be moved into weird postures and weird creative pr
 \*
 
 * [1] <a href="#160">don't be here now</a>
-* [2] <a href="#137a">don't be here now</a>
+* [2] <a href="#137a">x-desires, fulfillment, transformation, discussion</a>
+* [2a] <a href="#183">technical debt and inverse operations</a>
 * [3] <a href="#158da1a1a">on groundlessness, a brief note</a>
 * [4] <a href="#154b">pushing away, holding at bay, preconceiving, direct-reifying</a>
 * [5] <a href="#157a6">part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need)</a>
