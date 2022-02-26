@@ -286,6 +286,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158bah" href="#158ba">inner peace placeholder</a>
 	* <a id="158cah" href="#158ca">love placeholder</a>
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
+	* <a id="158dbh" href="#158db"> ball of string analogy and more on posture and feedback loops (draft)</a>
 	* <a id="158da1h" href="#158da1">far reaches of meditation</a>
 		* <a id="158da1a1ah" href="#158da1a1a">on groundlessness, a brief note</a>
 		* <a id="158da1ah" href="#158da1a">naturalization</a>
@@ -2469,6 +2470,7 @@ Some takes on "perfect meditation posture:"
 See also:
 
 * <a href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
+* <a href="#158db">ball of string analogy and more on posture and feedback loops</a>
 
 [<a href="#76h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -2587,6 +2589,12 @@ Sometimes local "untangling" will cause adjacent or global "tangling," because, 
 Just as it’s often better to think of meditation as precise puzzle solving, versus "general strength training" ("puzzles versus muscles"); it’s generally better to think of "energy work" as a subset or seamless interleaving with meditation, and so again, as precise puzzle solving, versus "general energy cultivation," or etc.
 
 Always guard against inappropriate reification (including inappropriate reification of "inappropriate reifiication"!) and "magical button pushing/mashing," via general intuition and things in spirit of things like the meta protocol. [sic] And, in any case, this "stuff," too, is not separate, not special, in some sense, with respect to the whole meditative enterprise.
+
+\*
+
+See also:
+
+* <a href="#158db">ball of string analogy and more on posture and feedback loops</a>
 
 [<a href="#80h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7895,6 +7903,37 @@ This section is currently a placeholder/stub.
 (maybe inclusive of "autonomic harmony", muscle tone, handledness, cosmology...)
 
 [<a href="#158dah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158db"></span> ball of string analogy and more on posture and feedback loops (draft):
+
+There's an important analogy, involving a ball of string or twine, which is all tangled and knotted and balled up.
+
+Sometimes, when one is picking apart a knot on one part of the surface of the ball, it's actually pulling one or more knots tighter, somewhere else in the ball, because of course the whole thing is one single thread/&#8203;string, and it's all connected.
+
+The whole bodymind is like that, in one sense all-to-all connected, everything (perhaps mediately) touching everything else, and in another sense it's just one long, haphazardly space-filling curve. 
+
+And so sometimes locally positive effects in one place have locally "negative" effects, elsewhere. 
+
+And the way one might untangle a big ball of string is by putting some work a little bit here, a little bit there, sort of rotating through locations, not too much in each place, in eventually a more and more precise order (yet perhaps simultaneously a more and more forgiving order, too).
+
+And/&#8203;but, if someone focuses on one spot too much, sort of a "scraping the bottom of the barrel," or a "forcy excavation," or a "blood from a stone" attempt, that might pull other places really really tight. That's not the end of the world; it's never irreversible; no "damage" has been done (modulo, say, any associated muscle tension that could, very worst case, cause permanent nerve, vascular, or joint damage). While never irreversible, those "elsewhere places" become a bit like having to pick apart a really tight knot with one's fingernails (but it's not actually string, thread, or twine, it's like lossless, incompressible, limp-spaghetti-flexible, sometimes impossibly thin steel cables, so nothing's fraying or becoming ragged--it just takes a frickin' long time, sometimes, to undo knots that have been pulled really tight). So, to summarize, if you're somewhere tugging some loop open, creating slack, then maybe be careful, as best you can, that you're not pulling something else too tight, elsewhere--you sort of metaphorically want to still be able to get your fingers in there, you don't want loops elsewhere to get too small. What you do in one place affects other places, and so one ideally wants to order things with respect to globality versus possibly doing things to exhaustion in any one place.
+
+That being said, "karmic momentum" is totally a thing. Sometimes it can be hard to not find oneself "scraping the bottom of the barrel," over and over again, even while sort of wondering if one is doing the wrong thing. That's ok, that's part of it too. [1]
+
+As to how to know you might be pulling something tight? If you find yourself really "pushing," really "efforting," or even just thinking "almost there," "just a little more," there could be something like that going on. Other clues are obvious increases in muscle tension, or vague stirrings of muscle tension say in the lower back, shoulder, neck, or jaw, or feeling ever-so-faintly tighter, maybe temporarily, all over. [3] Often, "the last one percent (1%)" of something takes "a second 99%" distributed elsewhere throughout the bodymind. If you find yourself kind of looking at a remaining 1%, that's maybe even a bit of a yellow flag that something has gone wrong, somewhere--otherwise what you're "looking at" would have spontaneously carried through, flipped over, dissolved with no remainder, and there'd never have been "you looking at that" 1% left, remaining, as such (though still nebulous, of course). (Not to reify "you" and "that," late-stage, of course, of course.) A remaining 1% sort heuristically means there's at least one related tangle, somewhere. And stubbornly treating that 1% as a "thing," as it were is usually counterproductive. Heuristically, I would just immediately do something else albeit possibly related or not obviously related at all. All this regarding "specific things," is indirect, ambiguous and nebulously ordered, temporally discontinuous and non-linear! And of course "things" is held super loosely, as per emptiness and groundlessness. Things, percents, 1%'s--toy model.
+
+If you're worried about not being able to tell if you're pulling something tight, it can be helpful to meditate on hard surfaces with minimal support. For example, you might meditate standing, with no socks, on a flat concrete or wooden floor. Or you might meditate lying down on a very firm surface with a very firm pillow or no pillow (on your side or back). Or you might sit on a wooden chair or edge of a table (feet on the floor) that is just a flat, horizontal seat without your back touching the back of the chair. Soft surfaces can sometimes hide small changes in the body, can dull some aspects of proprioception. And unyielding surfaces and greatly heighten bodily feedback loops and even tiny changes can become very salient. That said, unyielding surfaces can be very hard on your feet, other joints, your vascular system, etc., etc., etc.! And meditating on a soft bed with a soft pillow can be very powerful and effective--it's important to rotate postures (including props and contexts and surfaces), depending on what you need at any give time. It doesn't have to be concrete (though maybe try it sometime!) it could be a firm rug. It doesn't have to be a wooden chair, maybe it could be a cheap office chair with minimal cushioning. There's a gradient; these are just heuristics. I've spent most of my meditation on soft surfaces and firm surfaces and just a little bit of time on hard surfaces, especially when I really need to see what's going on for a bit. And again, soft surfaces help a lot in being able to better spend time with a whole different class of subtle sensations, and there's nothing wrong with plenty of coziness. It's worth mentioning, that, over time, one learns how to better and better protect the body while interacting with hard and unyielding surfaces--one becomes soft and floaty and fluid, which protects more and more the joints and surfaces and vasculature of the body. And that is very, very instructive too.
+
+Finally, if one does find themselves "scraping the bottom of the barrel," how does one take a break or go do something else? Where's the elsewhere? The meta protocol and creativity protocol can help with this. In conclusion, you might try "something different" on any axis or dimension--I hesitiate to specify further, so as not to narrow down the possibility space. (0.000000000001% of the possibility space (or whatever) or "somewhere else" could be "external" things like shifting postures or taking a walk.)
+
+* [1] See the bottom of this section: <a href="#158">a note on "making progress," "regression," and redo-to-undo</a>
+* [2] <a href="#76">posture</a>
+* [3] <a href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
+
+[<a href="#158dbh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 
 # <span id="158da1"></span> far reaches of meditation:
