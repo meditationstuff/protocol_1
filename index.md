@@ -5487,6 +5487,19 @@ And, so, anyway, let yourself be moved into weird postures and weird creative pr
 * [5] <a href="#157a6">part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need)</a>
 * [6] <a href="#69">conclusion [jazz, etc.]</a>
 
+\*
+
+Further notes:
+
+\>\>\>  
+[...] one gets to keep lots of the things (beauty, skill, "power") but the refuge part kind of becomes less and less satisfying and like building on quicksand or a treadmill even though one sort of tries harder and harder and like refuge in some "inner space" kind or ultimately evaporates or becomes refuge in everything? (but never have to ever give up any good or safe thing until/unless want to?)
+
+the way i'm using refuge (when not with "everything") here, is sort of phenomenological/conceptual/embodied error wrt where the safety is, sort of, though it works until it doesn't. and when it works it really works and there's nothing wrong with cultivating it i that sense. but with time, meditation, seeing its inadequacy, then sort of meditating while trying to shore it up is the very thing that positively dissolves it and frees up resources for true freedom, handledness, safety. but anything in it or associated with it gets to be cosmically good and the transformation of it, of time, participates in future handledness amidst luminosity/just-this (too get maximally jargony)
+
+tbc, pursuing compelled creative projects (or anything) is often the exact thing one should surrender into as best as they can harmonize it with rest of life  
+\<\<\<
+
+
 [<a href="#137bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
