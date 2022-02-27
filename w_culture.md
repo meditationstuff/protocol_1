@@ -692,6 +692,7 @@ Notes:
 
 * https://knowingless.com/2021/11/27/frame-control/ [Last accessed: 2021-12-09]
 * https://twitter.com/liminal_warmth/status/1498024628953903105 [Last accessed: 2022-02-27]
+* https://twitter.com/CurziRose/status/1481063067475931140 [Last accessed: 2022-02-27]
 
 
 [<a href="#52bh">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
