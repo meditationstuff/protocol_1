@@ -4000,7 +4000,8 @@ Notes:
 * possessing, owning, coveting, taking into [oneself, as it were]
 * structuring/&#8203;schematizing
 * abstracting
-
+* "permanence-ing"
+* "pre-dismay"
 
 Notes:
 
@@ -9238,6 +9239,9 @@ Further, one might imagine *cascades* of *worsening* identity-and-individuation 
 
 An important principle in the above is that if one person has, some "belief" *A*, and another person has very similar "belief" *A-prime*, those "beliefs" are more likely to get mixed together ["A-double-prime"] in one or both people, perhaps in different ways, because it won’t be perfectly symmetric. And this can happen for lots and lots of "beliefs," etc., and, as above, this can facilitate even more mixture, etc.
 
+
+(Sidebar: This is even more problematic in the case when "A" is "disavowed" or "ego dystonic" and [actively] layered-over. For example. if someone had a religious upbringing, and they, say, came to in some sense believe/"believe," say wholeheartedly or just a part of them, that sinners go to literal hell or that premarital sex will certainly, irrevocably destroy one's life. And say at age ten, or in high school, or in college that person didn't "dissolve" that belief, it wasn't fully examined, but they came to actively reject it, to actively push it away or push it down: "Of course I don't believe that. Ridiculous!" This is a very normal thing to happen. But if such a rejected belief is an "A" to someone else's "A-prime", they will still potentially mix--even if it's pushed down for the "person" it's often still "exposed to the air" in "the system" and/or the A-prime person will sort of [potentially completely innocently and unknowingly] "dig up" the other person's A, even if the A person isn't aware that this is happening. But post-mixing, the A-double-prime might or might not become salient to them and they might find it even more aversive than A and might redouble their efforts of pushing it all away. And so this can further "ongoingly actively cement" the A-double-prime as a mix, twist, constraint in the system that the whole system might tangle around. And this can happen for multiple A/A-double-primes. And a way out of this is something like, over time, slowing down, bleeding off the pushing away, finding/&#8203;gathering one's way back to the mixing, finding inverses, complements, better "beliefs" than A-double-prime, A-prime, and A, untangling which belonged to whom [not necessarily needing to identify exactly where/&#8203;whom A-prime came from], gently acknowledging that A-double-prime, A-prime, and finally A were a part of you, for a time, and all that was good and bad about that, including some far-flung implications about self and world and people, claiming all the threads of all of the A-'s that are good, letting everything else radically, concretely, particularly, and personally metabolize through complementation, inverse operations, acceptance, comparing with better things, realizing something deeper that dissolves the previous, all of these patiently, gently, more and more self-caring-ly, self-aligned-ly over time, and so on.)
+
 And, ultimately, in a bad case, a person might end up having aggregated large "swaths" of "pattern" very far from their original beliefs or even very contradictory to lots of their beliefs, sometimes leading to muscle tension, emotional and behavioral disregulation, demotivation, "goal fragmentation," etc. (being careful, here, not to inapproriately reify things like "goal fragmentation," etc.).
 
 That said(!), one might imagine this mixing to sometimes be relatively harmless or even a useful mechanism of group cohesion. (I can imagine it being contingently harmless and useful, sometimes.) But, at least some of the time, as per an earlier section, because this process is sort of "messy," and "confusion-based" (as claimed, here), any mixing will, over time, potentially create tangles and technical debt, as it were, for someone. So, while it might short-run be unnoticeable or positive, over time it can tend to gum up, jam up, limit positive and self-valued individual and group change, causing personal transformative arrest and group transformative arrest. Further, of course, of course, of course, additionally, individuals might prospectively, retrospectively, and god’s-eye-view, as it were, not want this mixing to occur(!!!), for any personal reason at all, including things like tangling or gumming up.
@@ -11673,7 +11677,9 @@ Me : Well, that's a good sign. The numero uno of daft moves is to open by defaul
 * Murdoch, Iris. The sovereignty of good. Routledge, 2013. [I haven't actually read this but it might or might not be really good.]
 * Adorno, Theodor W., and Max Horkheimer. Dialectic of enlightenment. Vol. 15. Verso, 1997. [Not that kind of enlightenment or is it / but.]
 * https://meaningness.com/collapse-of-rational-certainty and http://backreaction.blogspot.com/2021/12/does-superdeterminism-save-quantum.html [both last accessed: 2022-01-26]
-
+* Abstract Reasoning as Emergent from Concrete Activity by David Chapman https://metarationality.com/abstract-emergent [Last accessed: 2022-03-07]
+* Parable of the Pebbles https://metarationality.com/pebbles [Last accessed: 2022-03-07]
+* Weiss, Joseph. How psychotherapy works: Process and technique. Guilford Press, 1993.
 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
