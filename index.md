@@ -316,6 +316,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="169ah" href="#169a">distinctions</a>
 		* <a id="169bh" href="#169b">on parts, demons, egregores</a>
 		* <a id="169ch" href="#169c">axes of individuation with relation to value judgments (transcript)</a>
+	* <a id="169dh" href="#169d">character, personality, ego, virtue. sovereignty. outside view. cultural, familial good/&#8203;bad reversals (draft)</a>
 	* <a id="170h" href="#170">civilizational stuff</a>
 		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method [draft]</a>
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
@@ -9521,6 +9522,222 @@ So, the pastoral, romanticized, blended experience, caricatured, has both good a
 [<a href="#169ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+# <span id="169d"></span> character, personality, ego, virtue. sovereignty. outside view. cultural, familial good/&#8203;bad reversals (draft):
+
+[Credit to several people for some fundmental ideas in this as well as indirect and direct nudges that contributed to it getting written.]
+
+*They* might be projecting, they might be gaslighting or manipulating, or there's been a misunderstanding, or maybe they just don't understand.
+
+But, in any case, say one of your parents, a friend, an intimate partner, sibling, your abuser, your therapist, an enemy, your lifelong nemesis, a boss, a colleague, a mentee, an abusee, someone you just met--one of them says you're ***X***, for some value of X, and it’s lightly to really bad. It's not a nice thing to say or it would be embarrassing or felt-to-be devastating, because of who said it, or because of the possible self-image or social implications, if it were felt-to-be true, if it *landed*. And, say, they say it cooly, or compassionately, heatedly, lovingly, bitingly, viciously, cold as ice, devastatingly, triumphantly, sadly, hopelessly, ironically, dramatically, quietly, cruelly, provisionally…
+
+So yeah, lightly to really bad, like (in no particular order):
+
+craven, cruel, mean, a bitch, a dick, stingy, weak, volatile, uncooperative, evil, pretentious, nosy, needy, overly sensitive, a little bitch, manipulative, judgmental, irresponsible, irrational, rigid, inflexible, inattentive, evasive, immoral, disorganized, defensive, controlling, unintelligent, stupid, uncreative, indecisive, weak-willed, disgusting, insane, scattered, desperate, myopic
+
+Or it's like contextually cutting, faint praise, a veiled insult, or a little tonally or contextually mind-bending; it could be anything, depending:
+
+idealistic, ambitious, analytical, disciplined, meticulous, objective, persistent, professional, princely, a rule-follower, traditional, studious, kind(?!), wholesome(?!), giving(?!)
+
+(Given that some of the above are "good," this is a preview on good/&#8203;bad reversals and groundlessness but *not* arbitrariness [modulo the groundlessness of that and the groundlessness of groundlessness] of all of this, discussed further below.)
+
+Some responses (besides, “huh maybe, I’m so sorry if so," etc.):
+
+* No I’m obviously not; I’m the opposite; I'm Y instead.
+* That’s projecting , that’s gaslighting, that’s your own stuff, you’re being X, you’re being weak, unreasonable.
+* What, that doesn’t even make sense, I don't have the remotest idea where that's coming from; that doesn’t even land
+* Yes, I am, and that’s good. (And get with the program; this is how I am; this is how things are; this is how we do it here; this is how it should be; this is how the world is) (And perhaps: proudly, smugly, triumphantly, pityingly, contemptuously towards the person who noted/&#8203;suggested X).
+
+That last one is especially important:
+
+"Yes, I am, and that's good."
+
+(e.g. it's good to be domineering, it's good to be strong-willed, it's good to be a little mean, it's good to be [a litttle] selfish...)
+
+And there surely often is something good there. There are senses and nuances where it is good to be a little selfish, or assertive, or to look out for yourself, or to trust but verify, etc.
+
+And that makes all of this a bit slippery, culturally.
+
+Some things aren't good or bad. They're "just"/&#8203;"merely"/&#8203;"pure" norms. For example, it doesn't matter whether a country or a planet drives on the left or right side of two-way roads, as long as we collectively pick one. (And coordination and inertial costs, or hidden or local valid considerations, sometimes keep that choice from universalizing, if that even matters, but that's out of the scope of this section.)
+
+Other things are contextual, or at least arguably so. One spiritual teacher makes a distinction between "yoga" and "tantra." In his terminology, yoga is about safety and healing. And tantra involves calculated risk-taking. Another example: Some workplaces or high-stakes environments arguably thrive on, or arguably can only successfully compete via exacting excellence, domineering hierarchical, uncompromising socialization, something. An intimate partnership would probably need different values. And, some workplaces or communities, too.
+
+Sometimes proponents or critics of particular values are right and sometimes they're wrong, sometimes partially so. Sometimes they're right about their tragedy and contingency (cf. cartesianism, colonialism, imperialism, everyday workplace cruelty, social welfare programs, capitalism, workplace accomdations, affirmative action, co-sleeping, antinutrients), sometimes they're wrong, and sometimes partially so. Sometimes they're right or wrong about "naturalness," "inevitability," "objective constraints," "necessity," "objective morality,", "truth," "science," "reason," "empiricism," "faith." (see: oil, gas, energy, technology, natural law, carcinization, money, honor, face, dignity, fungibility, evolution).
+
+Ideas like "duty," "obligation," "responsibility," "ethics," "morality" are intertwined through all of this.
+
+All of this is modulo emptiness, nebulosity, groundlessness, contextuality, contingency, particularity, concreteness...
+
+("Yes, I am, and that's good.")
+
+In any case, let's say the individual is teasing all this apart for themselves. Let's say the long-run self-transformative practioner or meditator is teasing all this apart for themselves.
+
+Across long-term structural fluidity, there might be intimation of sublime and subtle embodied ideas and ideals, that are nuanced and perhaps solve paradox after paradox, at least for a time, clarity in nebulosity.
+
+And some general ideas, for people, about good and bad, better and worse, might be teased apart, heuristically, at the very least, never eternally, though never-say-never, and even then.
+
+Perhaps, these loose, nebulous traits might get loose, provisional labels like
+
+* flexibility
+* general capability
+* sovereignty
+* nobility
+* wisdom
+* virtuousness
+* irony
+* nonviolent humor
+* (gentle, kind, warm, compassionate, flexible, adaptable...)
+* ...
+
+And/&#8203;but again, unification or solutions to paradoxes:
+
+* stability and flexibility
+* sovereignty-cum-interdependence, humility, vulnerability
+* assertive
+* ...
+
+And/&#8203;but yet again, is there truly general capability? Fully general wisdom? Virtue with a capital V? In light of emptiness, groundlessness, surprise, unknown unknowns, nebulosity? No? Yes? No again? And yet?
+
+\*
+
+But why does it take so long to realize how one is being a craven, foolish, arrogant, dismissive, contemptuous, mooching, soul-sucking, selfish, hateful piece of shit?
+
+("Yes, I am, and that's good.")
+
+Let's back up, for a moment...
+
+Self-hatred is not long-run useful. For some people, it's net-useful until it isn't. No one chooses, for example, self-hatred, self-attacking, etc.
+
+And let's be clear.
+
+Radical self-compassion, radical self-alignment, radical self-care, self-warmth is maybe *necessary*/&#8203;"necessary" for us to look at the "darkest"/&#8203;darkest parts of ourselves.
+
+This discussion presumes/&#8203;presupposes that those "darkest" parts are there, but we're just kind of vaguely pointing. There's a there, there, but it's vague; it's nebulous. Not to overly reify any of this.
+
+In any case, it's not your fault. It was never your fault. But it can be your responsibility ("response-ability," blah blah
+
+But we can potentially come to pay a price. And that price is sometimes the shame, the embarrassment, the moritification of realizing that we are  that belligerent, contemptuous, stonewalling person, or worse. That we are literal or figurative rapists, abusers, users, naggers, henpeckers, pot-stirrers, narcissists, manipulators, that sometimes we've caused tremendous, spreading, nth-order pain, to individuals, to communities, family members, intimate partners, that we might never be able to practically repay. For which there are no practical reparations, recompense, restitution, repair. Perhaps we can only pay it forward and/&#8203;or wait for the possibility of communal judgment, for which there might be inadequate resources or care--you might not deserve such time and attention (though we all do, in some sense). Thus we are wretched.
+
+We're, in part, in the realm of personality disorders, used informally--character armor, defensive mechanisms, narcissism, schizoid, borderline, the sorts of things that double-bindingly shock and horrify those around them, that cause some percentage of people around them to go a little bit or a lot insane, that ruin more lives than possibly their own, worst case.
+
+And/&#8203;but, again, let's be clear, radical self-compassion, radical self-alignment, radical self-care, self-warmth is maybe *necessary*/&#8203;"necessary" for us to look at the "darkest"/&#8203;darkest parts of ourselves.
+
+This comes from structural fluidity, patience, time. (And help, and love; we'll get to that.)
+
+\*
+
+Why don’t we see ourselves as others can obviously or eventually spot?
+
+Our blindspots, our rigidity, our abuse, our manipulation, our selfishness, our ugliness.
+
+We "hide" these parts of ourselves in, well, "parts," "contexts," "modes."
+
+Sometimes we're actively hiding them, actively narrativizing them away. Sometimes it's pure fragmentation.
+
+But, usually, when we're "in" them--sometimes it doesn't feel like anything, to be sure--and it usually feels "natural," though sometimes we can notice that we're "up," "aroused," perhaps a sense of glassiness or non-reality or... But, in any case, when we're "in" them, explicitly or implicity, “that’s the way the world is, this is how the world has always been, this is how I’ve always been, and it’s deeply and completely justified through and through, plain as day, forever and always (e.g. dog-eat-dog, or I'm justifiied to hurt you because you have or will hurt me)." 
+
+We might "lack the concept" as it were, of X (not that we should necessarily acquire it in the way the other person means). Or it might be counterintuitive because it's so different or far away from how we usually think of ourselves. Or it would imply disaster and thus "unthinkable". Or it seems to contradict how we are--"I just did all these good, helpful things!" (And we may have(!), and but also, in those very acts or separately...)
+
+Someone who actually hates you enough or cares enough to tell you, let alone sits you down and tries a bit more to get you to get it, that you're being horrible--this is an incredible gift, incredible grace. Their behavior might be self-serving, gaslighting, manipulative and/&#8203;or they love you so much... or at least they want you to stop hurting people. (And if you hurt people enough maybe you can get *more* help and attention......... We've been talking about *this* level of fucked up, in all it's manifold varieties, but it can be everyday normal and low-key. It's ok; most of us have been there, and we're all doing our best.)
+
+If a parent or a mentor or a friend or an intimate partner finds a way to temporarily(!) forebear your stonewalling, belligerence, disbelief, they may indeed "just" love you, and that's grace; that's a gift. 
+
+Thus we are ennobled, dignified, albeit many things.
+
+"...well, simultaneously, fuck you and thank you, I've surely never thought of myself as X, but [seconds, minutes, or days pass] outside view I could maybe see how that maybe kind of fits..."
+
+\*
+
+You might ask:
+
+What have people been telling me over and over again, that I've been auto-dismissing, insta-dismissing, insta-forgetting, insta-discounting, insta-explaining away?
+
+How would your parents describe you if they were being completely honest and trying to help you in your worst moments? 
+
+How would your oldest friends describe you, amongst themselves after you hurt one of them or flamed out of an intimate relationship?
+
+How would a brilliant and compassionate therapist describe you in their notes?
+
+How am I wrong here? I must be wrong somehow. What can it be? How am I in the wrong?
+
+--and the this has to be done in a way that's not self-crazy-making, not self-attacking, not overly vulnerable to gaslighting, manipulation, yet while also not leading to suspicion, accusation, paranoia...
+
+\*
+
+And the payoff for all of this, so costly, sometimes risky (because, a la nonmonoticity, we might become even more monstrous, rigid, self-righteous, insensitive, fragmented, surprising, hurtful, for a time, along the way), is that we're just a little more able to hold down a job, stay in a relationship, enter a relationship, not fuck up a kid, not ruin a friendship, to be loved, to be respected, to be cared for, to be appreciated, to be able to walk away, to be able come back, to be able to apologize, to be able know the thing you want to know.
+
+Possibly incredibly painfully, but in a life-saving way, provisionally acknowledging and unraveling a "dark thing" makes things *better.* Sometimes extraordinary and/&#8203;or sometimes "merely" a better death.
+
+And so, perhaps, over time, in fits and starts, some things change quickly and some things very slowly, ten thousand plus hours--your very moral/&#8203;justificatory/&#8203;theodicy-esque ontology of the world changes. Say, you realize what a horrible person you've been, for all it was not your fault.
+
+Again, it takes time--all the way up and all the way down, no stepping into the same river twice, no such thing as universals, and yet more and more of every context or tragedy or crisis or surprise. And some versions may be a bit twisted at first until the nuance or additional good/&#8203;bads need to fractalally flip or big ones need to as things settle and resettle and you learn and make mistakes.
+
+Perhaps you become rather mild and nice, diplomatic, socially graceful, loving, with unmistakably a spine, a backbone, boundariess--so not weakness--until they get it, only as necessary, and, modulo conditions on the ground, maybe necessary becomes more and more infrequent with ever more skilful proactiveness, that's not "artificial", not "extra," but natural, graceful, relatively costless, effortless (if you've already bitten the meditation bullet). Or you become something bigger, bolder, vicious in a good way, scary in a good way, or all the above. There's not shortcuts to long-run high-dimensional spontaneous nuance.
+
+Without self-abnegation, without disendorsed, without self-sacrificing (because the world partially turned you inside out for loved ones, for your children), without self-suppressing, without self-crazy-making.
+
+And, not-too-long-run, maybe duh, if you've made it this far, it kind of comes part-and-parcel, perhaps (of course) it's not even because it's externally-imposed "good" or "right" but it’s inherent obvious and sensiblen, sort of. The very being and seeming of the world implies it.
+
+It won’t be boring or costly (barely duty, responsibilry, obligation)  because you “arranged” self and local world so your responses to it are right, they flow, socially and physically and morally and excitingly or peacefully graceful.
+
+Again, possibly incredibly painfully, devastatingly embarrassingly ("how could I have even thought..."), but maybe in a life-saving way, a marriage-saving way, provisionally acknowledging and unraveling a "dark thing" makes things *better,* again and again or through and through. Sometimes extraordinary and/&#8203;or sometimes "merely" a better death.
+
+\*
+
+Our culture, community, our family, the last several thousand years, our workplace, our friends, in some ways they might just be so wrong about what's good and bad, wholesome or unwholesome, skillfull or unskillful. They might be right about so many things and wrong about other things. Often we are just wrong. Maybe it was all a big misunderstanding. This is the peril and promise of self-sovereignty, to be unmoved in the face of everything, while still being flexible, humble, vulnerable, strong, happy, sensitive, alive, a dumbass. 
+
+Often we are the narcissist, the schizoid, the user, the abuser.
+
+And it's always changing, neverending, unknown unknowns, there is no ground truth, no god's-eye-view: norms, culture, science, coordination mechanisms, moral advances, surprises--there will still be ways in which good and bad changes, in which "good and bad reverse," fractally or large-scale--being a piece of shit, or not, is slippery, always. Nobility, character, dignity, virtuousness, is slippery, always. Structurally fluid, always. And it's all interconnected, not-separate, in the sense that such vague patterns and traits, your moral successes and regressions, are affected by how much money you have, your other relationships, the currency inflation rate. You are not separate. Nothing is separate including nothing. And finally these are all ideas to be thrown away, if they're not useful.
+
+But there's a there, there, at least to the degree there's a there, anywhere.
+
+And, as mentioned above, self-hatred, self-adversariality, conceptualizations of "resistance" and "avoidance" are fine if they're there (trying to push it away can be counterproductive) but long-run not useful. And self-compassion, self-alignment, self-warmth is critical and enabling.
+
+\*\*\*
+
+Incomplete bibliography:
+
+Peterson, Christopher, and Martin EP Seligman. Character strengths and virtues: A handbook and classification. Vol. 1. Oxford University Press, 2004.
+
+Ackerman, Angela, and Becca Puglisi. The Negative Trait Thesaurus: A Writer's Guide to Character Flaws. Jadd Publishing, 2013.
+
+Ackerman, Angela, and Becca Puglisi. The Positive Trait Thesaurus: A Writer's Guide to Character Flaws. Jadd Publishing, 2013.
+
+https:/&#8203;/&#8203;meaningness.com/&#8203;nobility [Last accessed: 2022-03-13]
+
+https:/&#8203;/&#8203;en.wikipedia.org/&#8203;wiki/&#8203;Aristotelian_ethics [Last accessed: 2022-03-13]
+
+https:/&#8203;/&#8203;en.wikipedia.org/&#8203;wiki/&#8203;Virtue [Last accessed: 2022-03-13]
+
+\*\*\*
+
+Personal note:
+
+One fairly compassionate and competent spiritual dude apparently literally said a few months or years before he literally ended up in some decently big scandal, “don’t ask if I’ll abuse my power, ask how and when”.
+
+I just wanted to note that, sometimes having written stuff like the above prompts questions, sometimes not easily askable, of like "how far along is he?" Or like "is he just a little bit closer to "saintlness," bodhisattva-hood, or whatever, than the rest of us?"
+
+Untangliness *is* long-run correlated with "not being a surprisingly dangerous piece of shit" but they are (incompletely!) separable. Monstrous distortions can persist for a lifetime, worst case.
+
+Self and world are vastly high-dimensional, the future keeps unfolding, and groundlessness and non-eternalism mean there is no "perfect," final, unchanging, contextually universal answer to any situation. (((Though there's cool set of brilliant also imperfect *toy* ideas, though sometimes very useful, in math and philosophy like the golden rule, the categorical imperative, multi-agent based reasoning, Gary Drescher's subjunctive relations, as it were, and more. Globality and generality and abstraction and thought experiments can be pretty great. "What would literally anyone do, what should literally anyone do, in this situation?")))
+
+One can just sort of do heuristically, hopefully, imperfectly, only-time-will-tell-and-maybe-not-even-then better and better, with any concrete situation being hopefully just an easy to resolve misunderstanding, but could also be uniquely, perversely disastrous, for perfect storm mundane reasons, deep personality/&#8203;character tragedies, Shakespeare-grade suckitude, thunderous stupidity, "brain farts," "Freudian slips," tonedeaf-ness, contextual inappropriateness, shocking blindspots, hangups, young-adult-fiction melodramatic cringe (also tragic), outside manipulation or super-villainy, demonic possession, brain tumors, neurodegeneration, micro-infarct dementia, etc.
+
+I assure you in many relevant senses I am selfish, craven, desperate, corner-cutting, self-serving-in-a-bad-way, just a dude (gender neutral), not playing n dimensional chess, am a horrifying terrible person either in general or uniquely monstrous just for you.
+
+(And isn't writing this whole thing maybe just a little narcisstic, grandiose, detached?)
+
+So yeah. Also neither am I implying that I've done or been some of the worst stuff mentioned above, but I've been in some pretty fucked up situations and have done some pretty fucked up things, as have a lot of "us" (generally speaking), though not all of us!
+
+And finally, neither (a) is this a license to get away with doing shitty stuff, etc etc. and also (b) nor should I necessarily *not* be held to a higher standard or something--as I am the main writer of this thing and that can change how people relate to me and my conduct has different kinds of ripple effects because of that. So that's a thing.
+
+\*\*\*
+
+Final postscript (I'll hopefully pick this up later):
+
+On character and coordination: Is all of this where familial, communal, generational, societal, civilizational, planetary greatness comes from, perhaps? Great evil always lurks, perhaps…
+
+[<a href="#169dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="170"></span> civilizational stuff:
 
