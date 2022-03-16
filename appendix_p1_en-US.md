@@ -661,6 +661,7 @@ n/a
 	- at the start of, at the end of, at (the) instant (of), during/while (the) interval/duration (of)
 	- before after then next
 	- even yet, even while, even still, even yet while, but, and, with expectation, against expectation
+	- quite [enough], sufficiently
 	- instead
 	- in spite of
 	- same like similar different distinct
