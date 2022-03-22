@@ -5840,7 +5840,7 @@ Of course, the irony is that deeply dwelling in inability is usually the fastest
 
 Sometimes it's lots of other stuff besides pure inability, pure don't know, don't know how. Sometimes there's "can't tell," sometimes there's "won't", and much more. Sometimes there's long chains and skeins and threads and twists, all throughout the system, a great deal of the bodymind, that one has to untangle, unthread, untwist (often effortlessly, spontaneously, over hours and months and sometimes years). This is "impossible" ("insoluble") problem territory, though likely actually solvable and if not solvable then dissolvable.
 
-*
+\*
 
 Often a big piece of all the above is self-warmth, self-compassion, self-alignment, and, indeed, self-acceptance, loosely and generally speaking. 
 
@@ -5856,7 +5856,7 @@ But when we become accepting of ourselves, over time, non-self-hating, non-self-
 
 And again, paradoxically, becoming more ourselves isn't settling but in fact is "getting exactly what we want," paradoxically, never perfectly, amidst sorrow and loss and hardship, but also better than we could have possibly imagined, tailored just for us, and by our own hand, in radical self-alignment, in participation and surrender with the world.
 
-* [1] <a href="#184">the scale analogy</a>
+* [1] <a href="#184a">the scale analogy</a>
 * [2] <a href="#63">entrenchment and active occlusion</a>
 * [3] <a href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
 
