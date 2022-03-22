@@ -247,6 +247,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="145h" href="#145">nutrition</a>
 	* <a id="146h" href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
 	* <a id="147h" href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
+	* <a id="147a1h" href="#147a1">positive dwelling in inability</a>
 	* <a id="147ah" href="#147a">when things get worse again--burn-off, integration, suppression, unsuppression</a>
 	* <a id="147bh" href="#147b">integration, settling, unsettling, resettling, locality, globality, unity (draft)</a>
 	* <a id="148h" href="#148">last gasps</a>
@@ -1793,6 +1794,12 @@ So, this section is both for caution and expectation setting but also to possibl
 Another way to look at all this is, at a very different level of abstraction, "don’t even try to make yourself a certain, very specific way. And, even more so, don’t ever try to move forward without understanding why you’re not already that way." Beware, beware, "I *should* just be able to do X..."
 
 Again, be precise, patient, and gentle.
+
+\*
+
+See also:
+
+* <a href="#147a1">positive dwelling in inability</a>
 
 [<a href="#63h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -4336,6 +4343,7 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. What’s the best it could have gone? How’s the best it could have gone? Alternatives: What’s/how’s the best (counterfactually, magically, all-things-being-equally) it [that past thing, etc.] could have otherwise gone? Related: How can you complement all you can to yourself? How can you give all you can to yourself?
 1. If you weren’t allowed to (chose not to) think-think [sic] (temporarily), how would solve it/X/something? (How might the whole thing do it for you? [or in participation with you?])
 1. What are you creation myths, your first causes, your eternal causes, your axis mundi's, your fiat lux's, your Adams and Eves and snakes and fruits and trees?
+1. Are you becoming more yourself or are you becoming less yourself?
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -5783,9 +5791,76 @@ Regathering, untwisting, etc., nonmonotonically releases/relaxes muscle tension.
 
 The above is somewhat simplified, and doesn’t go into “safe to look then look,” contextual equanimity, “inner space,” or lack thereof, "motor output contention," "immediate/mediate/long-range contradiction," and more.
 
+\*
+
+See also:
+
+* <a href="#147a1">positive dwelling in inability</a>
 
 [<a href="#147h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="147a1"></span> positive dwelling in inability:
+
+
+
+[Credit to a few people for a few ideas herein.]
+
+In some cultures or social milieus, there's sort of a feeling, a vibe that anything reminisicient of "inability," "can't," "lack of capacity," "lack of capability" is definitely somehow bad.
+
+"From the outside," that might be something perhaps like "excuses and procrastination are shameful and weak," or, perhaps, "not being team player, being a downer."
+
+"From the inside," there might be a reasonable concern that dwelling on "can'ts" and "won'ts" might somehow be a self-fulfilling prophecy, somehow self-curtailing, settling, giving up, or possibly even dangerously demotivating, given one's life situation or circumstances. A rule might be gisted like "you shouldn't admit to limitations even to yourself," let alone coworkers(?), authority figures(?), peers(?).
+
+"you shouldn't admit to limitations even to yourself"—-with respect to other people, sometimes that's the right call. With respect to oneself, it's a functional strategy, for some people, sometimes, in the short-term. 
+
+But, (possibly very) long-term, this becomes problematic:
+
+Because, *the experience of direct, felt, visceral, "can't," "no idea how," "confused," "lacking in capability," "completely lacking in know-how," means that you've fully unlayered and exposed a labile surface area--which means that it can now change, learn, and grow directly.* (Sometimes stuff is stuck around it, maybe long chains of stuck stuff, so those all might have to untangle first, but in a vacuum, it can now change, learn, and grow directly.)
+
+It's long-run critical to patiently "bring to the surface," untwist, find, find one's way inside, feel into, these patches, pockets, voids, sparse models, sparse content, sparse (surfaces) areas, childhood (surface) areas, patterns, propensities. (Often, maybe usually, the best way to do that is through surrender and allowing and patience.)
+
+Unfortunately, one thing that can happens when we first realize the "power" of meditation is that we start furiously "building," "adding," "creating," etc. (to the detriment of the above [1,2]). But we're usually not doing that building in quite the right "place" in the bodymind.
+
+Initially, there can be plenty of slack for what we build to kind of move around and settle, to find better "places." But, places that are shut away can't participate in this shuffling, and places that are shut away can sort of become fixed points, fixed/&#8203;stuck places that then get "wrapped around" which, over time, takes slack out of the system and makes future changes slower and more complicated. [3] Eventually one has to find one's way all the way back. (There are can be suble and overt lead indicators that something is going wrong, like learning becoming effortful or increases in muscle tension.)
+
+In some sense an exposed surface area is almost definitionally not a fixed point. And no fixed points, no constraints,  very, very, very, very loosely speaking, sort of can participate in "unlimited slack" (in part because they can be sort of ongoingly revised, cf. redo-to-undo, in kind of ongoing global harmonization [qualifying that global is always local changes]).
+
+So why is this so hard? Or why don't we automatically do this? Well we do! But for the hardest, deepest, oldest stuff, sometimes we need lots of meditation.
+
+These places get sealed off or buried or pushed away in the first place because, for whatever reason, they (rightly or wronging, temporarily, transiently, or challengingly) inability seemingly implied something really, really, really bad, say, even "critically bad," unthinkable, beyond the pale. Perhaps not knowing how to do something (seemingly) implied being socially ostracized, or ending up homeless, or losing one's romantic partner, or permanently losing out on a lucrative career, and so on.
+
+Given that, or the distant memory or impression of that, the bodymind might not let oneself find one's way back to that inability or not knowing.
+
+So the first step is sometimes "pre-handling all possible outcomes," all possible worlds, including the ones where one never learns how to become able to do that thing. Once "any world is ok," then it's harmless to expose that surface area.
+
+Easier said than done, of course! And that's why one might need thousands of hours of global wayfinding, and that's ok. Often it's not pre-handling *all* possible outcomes, but one kind of slider-puzzles in that general direction, solving all sorts of things along the way. Sometimes problems dissolve instead of get solved, etc.
+
+Of course, the irony is that deeply dwelling in inability is usually the fastest way to acquire the ability. There's a deep and direct phenomenological/&#8203;functional thing, here, but, more conventionally, it gives us permission to be dumb, at least in our own heads, to be silly, to be stupid, to experiment, to play. Sometimes this goes along with it being safe to ask questions to expose our likely transient and temporary inability to other people. That can be a tremendous accellerant, if safe.
+
+Sometimes it's lots of other stuff besides pure inability, pure don't know, don't know how. Sometimes there's "can't tell," sometimes there's "won't", and much more. Sometimes there's long chains and skeins and threads and twists, all throughout the system, a great deal of the bodymind, that one has to untangle, unthread, untwist (often effortlessly, spontaneously, over hours and months and sometimes years). This is "impossible" ("insoluble") problem territory, though likely actually solvable and if not solvable then dissolvable.
+
+*
+
+Often a big piece of all the above is self-warmth, self-compassion, self-alignment, and, indeed, self-acceptance, loosely and generally speaking. 
+
+There's the paradox mentioned above, where self-acceptance can be scary because it can sometimes initially dangerously feel like that would be self-curtailment or giving up. Self-acceptance and self-curtailment can be untangled (not to reify either of those). One can be self-accepting and still have love, fire, passion, excellence (more and more self-defined, in any case, in part because one becomes less and less afraid of accidently moving their own goalposts or pegging excellence to false idols, as it were)--this is something perhaps like "sovereignty."
+
+There comes to be a sort of earned self-confidence an ease--that doesn't necessarily mean every problem as initially conceived will be solvable; problems will redefine and flow and get discarded for better ones. Though, capability does go up and up. Not insta-capability--that's often a fantasy, but the ability to steadily move towards ever-nuancedly-redefined competence and success, as challenges present themselves, no matter the all-in-all conditions on the ground (though, rather, completely taking into account all conditions on the ground), including proactive renegotiation with intimate partners, community-members, etc. 
+
+All in all, all of this, can sometimes be glossed as "becoming more yourself." This is sort of paradoxical and equivocating, but it points to something delicate and important.
+
+When we try to be other people, out of desperation, jealousy, envy, etc., there's typically something that subtly goes wrong. It's ok to learn from other people, of course, to experimentally emulate, etc. But when we try to *become* other people, that's often problematic.
+
+But when we become accepting of ourselves, over time, non-self-hating, non-self-attacking, slowly, slowly, then we can become exactly who we are and ever more ourselves. We can become more ourselves, ever more. And, in the end, it always turns out to be something way, way, way better than the (often illusory) thing we saw in that other person, the non-obvious tradeoffs that they were making, the things that they don't actually get to have, and so on.
+
+And again, paradoxically, becoming more ourselves isn't settling but in fact is "getting exactly what we want," paradoxically, never perfectly, amidst sorrow and loss and hardship, but also better than we could have possibly imagined, tailored just for us, and by our own hand, in radical self-alignment, in participation and surrender with the world.
+
+* [1] <a href="#184">the scale analogy</a>
+* [2] <a href="#63">entrenchment and active occlusion</a>
+* [3] <a href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
+
+[<a href="#147a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="147a"></span> when things get worse again--burn-off, integration, suppression, unsuppression:
@@ -5794,11 +5869,11 @@ The above is somewhat simplified, and doesn’t go into “safe to look then loo
 
 **"burn off" and "integration"**
 
-The phenomenology can be a bit different for each of these, but they are both loosely equivalent.
+The phenomenology can be a bit different for each of these, but they are both loosely equivalent.
 
 The gist of these is something like:
 
-burn-off/integration ~= "activity that (previously) needs to be conscious, then instead becomes appropriately automatized (and 'unconscious')"
+burn-off/integration \~= "activity that (previously) needs to be conscious, then instead becomes appropriately automatized (and 'unconscious')"
 
 An example is when one is reminding oneself to do something later in the day, over and over, in one's head. This reminding is "pre-integration." But, if the mind figures out how to "automatically be sure that you will do the thing, later in the day," then the reminding stops. So, pre-integration, the mind is loud, for some thing. Post integration, the mind is quiet, for that thing, because the mind is sure enough that it will be automatically handled. "Burn off" is like integration but there's nothing further in the future. It's just a thing that's no longer needed, and the mind figures out how to no longer need it.
 
@@ -9621,7 +9696,7 @@ Self-hatred is not long-run useful. For some people, it's net-useful until it is
 
 And let's be clear.
 
-Radical self-compassion, radical self-alignment, radical self-care, self-warmth is maybe *necessary*/&#8203;"necessary" for us to look at the "darkest"/&#8203;darkest parts of ourselves.
+Radical self-compassion, self-kindness, radical self-alignment, radical self-care, self-warmth is maybe *necessary*/&#8203;"necessary" for us to look at the "darkest"/&#8203;darkest parts of ourselves.
 
 This discussion presumes/&#8203;presupposes that those "darkest" parts are there, but we're just kind of vaguely pointing. There's a there, there, but it's vague; it's nebulous. Not to overly reify any of this.
 
@@ -9631,7 +9706,7 @@ But we can potentially come to pay a price. And that price is sometimes the sham
 
 We're, in part, in the realm of personality disorders, used informally--character armor, defensive mechanisms, narcissism, schizoid, borderline, the sorts of things that double-bindingly shock and horrify those around them, that cause some percentage of people around them to go a little bit or a lot insane, that ruin more lives than possibly their own, worst case.
 
-And/&#8203;but, again, let's be clear, radical self-compassion, radical self-alignment, radical self-care, self-warmth is maybe *necessary*/&#8203;"necessary" for us to look at the "darkest"/&#8203;darkest parts of ourselves.
+And/&#8203;but, again, let's be clear, radical self-compassion, self-kindness, radical self-alignment, radical self-care, self-warmth is maybe *necessary*/&#8203;"necessary" for us to look at the "darkest"/&#8203;darkest parts of ourselves.
 
 This comes from structural fluidity, patience, time. (And help, and love; we'll get to that.)
 
@@ -9703,7 +9778,7 @@ And it's always changing, neverending, unknown unknowns, there is no ground trut
 
 But there's a there, there, at least to the degree there's a there, anywhere.
 
-And, as mentioned above, self-hatred, self-adversariality, conceptualizations of "resistance" and "avoidance" are fine if they're there (trying to push it away can be counterproductive) but long-run not useful. And self-compassion, self-alignment, self-warmth is critical and enabling.
+And, as mentioned above, self-hatred, self-adversariality, conceptualizations of "resistance" and "avoidance" are fine if they're there (trying to push it away can be counterproductive) but long-run not useful. And self-compassion, self-kindness, self-alignment, self-warmth is critical and enabling.
 
 \*\*\*
 
