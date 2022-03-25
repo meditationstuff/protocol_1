@@ -7481,4 +7481,11 @@ Thus.
 [<a href="#893auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="894auxiliary"></span> if you were already structurally fluid:
+
+What would you have done (then and then and then, all those different times and so on) were you already completely structurally fluid, at that time?
+
+[<a href="#894auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

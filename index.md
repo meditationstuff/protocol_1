@@ -109,7 +109,8 @@ Please support this open access work: https://www.patreon.com/meditationstuff
 
 Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
 
-* https://rothos.github.io/protocol_1/
+* https://rothos.github.io/protocol_1/ (nicely formatted and navigable, outdated)
+* https://docs.google.com/document/d/1L7PooFLqaPeNfrs9_sT2JYXSxkJWJr1gP314uHM4ujc/edit (ongoing "in plain english")
 
 **Note:** Separately, to get a readable plaintext version of the page you're reading, now, you can do a search replace of the source on "/&amp;#8203;" to "/", without the quotes, to clean up all the zero-width space character encodings without affecting anything else.
 
