@@ -1193,13 +1193,13 @@ One could imagine a system having a "belief" about whether or not it will get (o
 
 And so let’s say, at any given time, the system is only in four subjective states:
 
-(*) DOOM/NOT GOING TO GET WHAT I WANT (subjectively not going to get what it wants, though it objectively keeps doing its best, anyway)
+(\*) DOOM/NOT GOING TO GET WHAT I WANT (subjectively not going to get what it wants, though it objectively keeps doing its best, anyway)
 
-(*) DEFINITELY GOING TO GET WHAT I WANT (subjectively feels good, objectively actually uncertain)
+(\*) DEFINITELY GOING TO GET WHAT I WANT (subjectively feels good, objectively actually uncertain)
 
-(*) NOT SURE IF GOING TO GET WHAT I WANT, DON’T BELIEVE I’M DOING MY BEST ("self conflict"; subjectively feels bad, objectively actually uncertain)
+(\*) NOT SURE IF GOING TO GET WHAT I WANT, DON’T BELIEVE I’M DOING MY BEST ("self conflict"; subjectively feels bad, objectively actually uncertain)
 
-(*) NOT SURE IF GOING TO GET WHAT I WANT BUT WHOLEHEARTEDLY AND SELF-SINCERELY AND SELF-COMPASSIONATELY AND SELF-ALIGNEDLY BELIEVE I’M DOING MY ABSOLUTE BEST (subjectively feels good, objectively actually uncertain)
+(\*) NOT SURE IF GOING TO GET WHAT I WANT BUT WHOLEHEARTEDLY AND SELF-SINCERELY AND SELF-COMPASSIONATELY AND SELF-ALIGNEDLY BELIEVE I’M DOING MY ABSOLUTE BEST (subjectively feels good, objectively actually uncertain)
 
 Anyway, I think those four states are roughly how people work. If the bodymind believes it’s doing its best, wholeheartedly, all the way down, self-consistently, to achieve stable godhood, infinite love-sex, and healthful immportality free of heat death, or if the bodymind believes in the certain inevitability of eventual stable godhood, infinite love-sex, and healthful immortality free of heat death, or if the bodymind is presently experiencing stable godhood, infinite love-sex, and healthful immortality free of heat death–all of those feel theoretically, in principle, exactly just as good (really good), though the system can still, just fine, discriminate between which of these obtain at any particular time. Anyway, that’s the theory.
 
@@ -8230,6 +8230,8 @@ at least one sense in which "ought"/&#8203;"goodness" is prior to, upstream of, 
 at least one sense in which nothing (no “thing”) is eternal, everything (every “thing”, “everywhere) (cf. “no objects anywhere”), is impermanent, non-eternal
 
 at least one sense in which meaning, goodness, and badness only/exclusively lay *between* (and so while nothing is eternal, cf. above, neither is anything meaningless [cf. nihilism]) [also symbols, also reference ]
+
+at least one sense in which *aboutness* ("intentionality"), including in the sense of "thinking about," tends to be confused, overused, a misapprehension of phenomenology and thinking, planning, designing, acting, writing, etc.
 
 at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, wholeness, nothingness, separateness, truth, reality, god's-eye-views, facts of the matter, beginnings, endings, everything…)
 

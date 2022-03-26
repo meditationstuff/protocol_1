@@ -7488,4 +7488,13 @@ What would you have done (then and then and then, all those different times and 
 [<a href="#894auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="895auxiliary"></span> eye phosphenes and blobs:
+
+Allow your attention/&#8203;"attention" to be (fully) captured sometimes by light, phosphenes, moving or flashing blobs behind your closed eyes.
+
+comment: This is in the neighbhorhood of the "be moved" preliminary/&#8203;auxiliary practice (and many/&#8203;several others).
+
+[<a href="#895auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
