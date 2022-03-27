@@ -905,6 +905,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="893auxiliary_names" href="#893auxiliary">be true to yourself</a>
 * <a id="894auxiliary_names" href="#894auxiliary">if you were already liquid, structurally fluid</a>
 * <a id="895auxiliary_names" href="#895auxiliary">eye phosphenes and blobs</a>
+* <a id="896auxiliary_names" href="#896auxiliary">what's actually going to happen</a>
 
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

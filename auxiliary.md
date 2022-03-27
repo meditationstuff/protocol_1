@@ -7497,4 +7497,12 @@ comment: This is in the neighbhorhood of the "be moved" preliminary/&#8203;auxil
 [<a href="#895auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="896auxiliary"></span> what's actually going to happen:
+
+Ask, what's (actually) going to happen? (with respect to some thing, situation, etc., X)
+
+[<a href="#896auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
