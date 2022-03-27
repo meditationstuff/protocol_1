@@ -8004,6 +8004,8 @@ reference: https://meditationstuff.wordpress.com/2020/02/24/enlightenment-sensor
 
 ---
 
+something "completionary," both in terms of intimate relating and community belonging or friendship and family cf. "deep ongoing rewriting of seeming and being and goals if previously absent" -- and yet can be missing or lost and can also be pathological versions cf. codepedency and loss of future opportunity. and yet. might be more a cultural or community problem. evil = absence of love? cf. good, bad, evil
+
 
 [<a href="#158cah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
