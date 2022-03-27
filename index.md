@@ -7970,6 +7970,40 @@ This section is currently a placeholder/stub.
 
 This section is currently a placeholder/stub.
 
+scratch notes:
+
+---
+
+love was sort of an unchosen and alien process rewriting each us at an oblique angle to our other plans and goals. very strange! harmonization is ongoing! [image of misaligned grids]
+
+---
+
+Mark L  30 days ago
+one can be mistaken about its presence or absence, and it's not a monolith, it fluctuates and is influenced by experiences with the person and in the world
+
+Mark L  30 days ago
+continually pursued and renewed and all that, but there's a deep driver, deep pair-bonding-ness, something that comes with it, as far as has been my (limited) experience (with love not with relationships in general)
+
+Mark L  30 days ago
+if not soul lit on fire, then maybe "deep bond," "home-ness."
+
+Mark L  30 days ago
+at least one restless thing comes to rest
+
+---
+
+"the" answer to otherwise zero-sum
+
+---
+
+perfect dynamic balance between vulnerability + resilience = humility + strength = learning and growing without dissolution or disregulation = love, somehow
+
+> *"There’s something here that seems stable, settled, certain, able to metabolize anything without being disrupted or stained or corrupted. Incorruptible. Pure. Yet, it is sensitive, responsive, creative, awake, sentient, sapient; not stagnant, not ossified, it learns, it grows, it spontaneously and proactively seeks and acts."*
+
+reference: https://meditationstuff.wordpress.com/2020/02/24/enlightenment-sensorimotor-processing-love/ [last accessed: 2022-03-27]
+
+---
+
 
 [<a href="#158cah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -8231,7 +8265,7 @@ at least one sense in which nothing (no “thing”) is eternal, everything (eve
 
 at least one sense in which meaning, goodness, and badness only/exclusively lay *between* (and so while nothing is eternal, cf. above, neither is anything meaningless [cf. nihilism]) [also symbols, also reference ]
 
-at least one sense in which *aboutness* ("intentionality"), including in the sense of "thinking about," tends to be confused, overused, a misapprehension of phenomenology and thinking, planning, designing, acting, writing, etc.
+at least one sense in which *aboutness* ("intentionality"), including in the sense of "thinking about," tends to be confused, overused, a misapprehension of phenomenology and thinking, planning, designing, acting, writing, etc., and also it is not monolithic, not a single thing (and not to reify it in any which way)
 
 at least one sense in which there is no single sense in which [sic] there is “existing/&#8203;being”, “causes and effects”, and much more (unity, perfection, completeness, wholeness, nothingness, separateness, truth, reality, god's-eye-views, facts of the matter, beginnings, endings, everything…)
 
