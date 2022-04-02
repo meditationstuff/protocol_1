@@ -5566,6 +5566,8 @@ Not universally, but generally, increases in muscle tension (including subtle, s
 
 Shaking, twitching, emoting, vocalizations, and large movements are sometimes necessary and sometimes "self-distraction" (and sometimes a mixture). The meta protocol can be engaged to sort though and piece apart what should be allowed and encouraged and what should gently be disengaged or blocked.
 
+[Edit: to be clear, muscle tension that's slowly increasing and takes a long time to fade (and usually doesn't completely fade unless something significant is changed) is usually a bad bet, though sometimes returns or comes up in a good way if one had already previously made that bet. BUT, semi-voluntary, temporary muscle *contractions* (longer than "twitching"), as well as stretching or pandiculation (semi-involuntary stretches) are fine and often a good sign. If involving the eyes, do be aware that strongly or sharply looking upwards can apparently increase risk of retinal detachment. Gentle "eye circles," that *don't* max out eye range, might be done, perhaps three to five times around, in each direction, every one or two days, might lightly condition and stretch the optic nerves and decrease risk of retinal detachment. (I personally had a bunch of eye involvement, twitches, movement, salience, but never very strong or extreme eye movements. Since looking up with mouth open and tongue extended is a yoga stretch or asana, this might be something that happens to some people in a stereotyped way.) ]
+
 [<a href="#139h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="140"></span> good(ness) bad(ness):
