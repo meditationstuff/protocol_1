@@ -248,6 +248,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="145h" href="#145">nutrition</a>
 	* <a id="146h" href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
 	* <a id="147h" href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
+	* <a id="147a0h" href="#147a0">clarification on muscle contraction and stretching versus chronic muscle tension</a>
 	* <a id="147a1h" href="#147a1">positive dwelling in inability</a>
 	* <a id="147ah" href="#147a">when things get worse again--burn-off, integration, suppression, unsuppression</a>
 	* <a id="147bh" href="#147b">integration, settling, unsettling, resettling, locality, globality, unity (draft)</a>
@@ -2501,6 +2502,23 @@ What’s happening, here, is that breathing has "volitional" components and an "
 Deliberate or stereotyped attention to the breath, breath control (e.g. emphasizing inhalation or exhalation, or panting, belly breaths, even chanting, etc.), over hundreds of hours, can "tangle in" volitional components that need to eventually be untangled. (Sometimes this can be strategic, though, on a person-by-person basis.) Tingly lightheadness, needing to pee very often, issues with throat smooth muscle tone and sleep, can be signs that one is generally overbreathing, because of breathing’s connection to kidney function, autonomic regulation, and more. Aerobic and anaerobic exercise, such as jogging and sprinting, can short-term improve breathing issues, via effects on blood-gas CO2 tolerance. But, long-term, one must deconvolve volitional components from the breathing, as part of the global meditation puzzle.
 
 Note: "attention," "foreground," "background," "in," "phenomenological field," are used very loosely in this section and are not technical or ontological commitments
+
+\*
+
+Quick extra note: Sometimes spontaneous breath holding (or suppressed breathing without closing the glottis) can be a thing. And sometimes panting (rapid, shallow or deep breathing) or can be a thing. And a feeling of "chest tightness" can be a thing. And a feeling of "air hunger" can be a thing. And "gasping" can be a thing. And a tight glottis can be a thing. And a "collapse throat" can be a thing. And a plugged-for-no-reason nose can be a thing (one or both nostrils, or alternating). These factor into the discussion above. All of these can happen for physiological reasons (and those physiological reasons can happen in the course of meditation!), and they can all also happen from encountering pockets of "psychological memory," as it were. You might get any of this checked out by a doctor, none of this is medical advice, etc., and whether you do or don't do that, you might heuristically incline towards surrender, effortlessness, and letting it happen, as per the discussion. Slow walking, brisk walking, jogging, and sprinting, when possible (or equivalent---arm bike, swimming, stair climbing, etc.), can all be helpful for rebalancing the physiological side. The lower intensity ones, just picking one, might be done for forty minutes per day. The higher intensity ones might be done every three to eleven days, depending on what feels right. They arguably each affect a slightly different metabolic and respiratory regime.
+
+Again this is not medical advice but on the physiological side (versus the psychological or emotional side):
+
+* breath holding, chest tightness, plugged nose, collapsed throat can all happen when one has been breathing too deeply or too quickly (exacerbated by being anxious or jittery) = blood carbon dioxide too low
+* gasping or yawning or sighing or panting can mean oxygen got too low
+* panting can mean something about the bodies acid/base balance might be (transiently or chronically) off. panting or altered breathing can come and go before or several minutes after orgasm and not signify anything problematic.
+
+(note that the above doesn't mean you should do anything different in your practive re effortlessness and surrender. a general heuristic is to let the system rebalance itself, including "being moved," being breathed, etc., but, again, you might want to check with a doctor for some things.)
+
+\* 
+
+Finally: shoulder breathing? chest breathing? diaphragmatic breathing? (and posture? e.g. chest up and out? shoulders back? or everything neutral?) generally, all things being equal---let the body(mind) figure it out. best breathing under neutral conditions, after everything is mostly untangled *might* be fairly imperceptible with a tiny bit of coordinated muscle activity from both chest and diaphragm. and it'll be very responsive to any changes in physical or metabolic activity level. "belly breathing" is probably oversold, in my opinion non-medical opinion.
+
 
 [<a href="#77h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -5566,8 +5584,6 @@ Not universally, but generally, increases in muscle tension (including subtle, s
 
 Shaking, twitching, emoting, vocalizations, and large movements are sometimes necessary and sometimes "self-distraction" (and sometimes a mixture). The meta protocol can be engaged to sort though and piece apart what should be allowed and encouraged and what should gently be disengaged or blocked.
 
-[Edit: to be clear, muscle tension that's slowly increasing and takes a long time to fade (and usually doesn't completely fade unless something significant is changed) is usually a bad bet, though sometimes returns or comes up in a good way if one had already previously made that bet. BUT, semi-voluntary, temporary muscle *contractions* (longer than "twitching"), as well as stretching or pandiculation (semi-involuntary stretches) are fine and often a good sign. If involving the eyes, do be aware that strongly or sharply looking upwards can apparently increase risk of retinal detachment. Gentle "eye circles," that *don't* max out eye range, might be done, perhaps three to five times around, in each direction, every one or two days, might lightly condition and stretch the optic nerves and decrease risk of retinal detachment. (I personally had a bunch of eye involvement, twitches, movement, salience, but never very strong or extreme eye movements. Since looking up with mouth open and tongue extended is a yoga stretch or asana, this might be something that happens to some people in a stereotyped way.) ]
-
 [<a href="#139h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="140"></span> good(ness) bad(ness):
@@ -5801,6 +5817,30 @@ See also:
 * <a href="#147a1">positive dwelling in inability</a>
 
 [<a href="#147h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="147a0"></span> clarification on muscle contraction and stretching versus chronic muscle tension:
+
+Stub: to be clear, muscle tension that's slowly increasing and takes a long time to fade (and usually doesn't completely fade unless something significant is changed) is usually a bad bet, though sometimes returns or comes up in a good way if one had already previously made that bet. BUT, semi-voluntary, temporary muscle *contractions* (longer than "twitching"), as well as stretching or pandiculation (semi-involuntary stretches) are fine and often a good sign. If involving the eyes, do be aware that strongly or sharply looking upwards can apparently increase risk of retinal detachment. Gentle "eye circles," that *don't* max out eye range, might be done, perhaps three to five times around, in each direction, every one or two days, might lightly condition and stretch the optic nerves and decrease risk of retinal detachment. (I personally had a bunch of eye involvement, twitches, movement, salience, but never very strong or extreme eye movements. Since looking up with mouth open and tongue extended is a yoga stretch or asana, this might be something that happens to some people in a stereotyped way.) ]
+
+
+See also:
+
+involuntary movement, semi-involuntary movement, kriyas  
+https://meditationbook.page/#148a
+
+"subtle energy" and "energy work" and mental models  
+https://meditationbook.page/#80
+
+a brief and incomplete theory of muscle tension risk in meditation  
+https://meditationbook.page/#147
+
+breath  
+https://meditationbook.page/#77
+
+
+
+[<a href="#147a0h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="147a1"></span> positive dwelling in inability:
@@ -6083,6 +6123,10 @@ https://meditationbook.page/#147
 
 breath  
 https://meditationbook.page/#77
+
+clarification on muscle contraction and stretching versus chronic muscle tension  
+https://meditationbook.page/#147a0
+
 
 [<a href="#148ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
