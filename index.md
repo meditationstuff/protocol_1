@@ -5814,6 +5814,7 @@ The above is somewhat simplified, and doesn’t go into “safe to look then loo
 
 See also:
 
+* <a href="#147a0">clarification on muscle contraction and stretching versus chronic muscle tension</a>
 * <a href="#147a1">positive dwelling in inability</a>
 
 [<a href="#147h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
