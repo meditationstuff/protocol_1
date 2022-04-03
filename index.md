@@ -2519,6 +2519,9 @@ Again this is not medical advice but on the physiological side (versus the psych
 
 Finally: shoulder breathing? chest breathing? diaphragmatic breathing? (and posture? e.g. chest up and out? shoulders back? or everything neutral?) generally, all things being equal---let the body(mind) figure it out. best breathing under neutral conditions, after everything is mostly untangled *might* be fairly imperceptible with a tiny bit of coordinated muscle activity from both chest and diaphragm. and it'll be very responsive to any changes in physical or metabolic activity level. "belly breathing" is probably oversold, in my opinion non-medical opinion.
 
+\*
+
+Generally, when all is well, the jaw is "magnetized" shut (teeth not touching or very lightly touching), or the tongue is "magnetized" to the room of the mouth, and breathing through the nose is effortless and barely perceptible. And of course breathing rhythms can change during exercise and emotional arousal, and also the mouth might be open for thousands of hours in meditation, for all sorts of good reasons, though again will very long-run magnetize lightly closed, all things being equal.
 
 [<a href="#77h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
