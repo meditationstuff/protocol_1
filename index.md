@@ -2521,7 +2521,7 @@ Finally: shoulder breathing? chest breathing? diaphragmatic breathing? (and post
 
 \*
 
-Generally, when all is well, the jaw is "magnetized" shut (teeth not touching or very lightly touching), or the tongue is "magnetized" to the room of the mouth, and breathing through the nose is effortless and barely perceptible. And of course breathing rhythms can change during exercise and emotional arousal, and also the mouth might be open for thousands of hours in meditation, for all sorts of good reasons, though again will very long-run magnetize lightly closed, all things being equal.
+Generally, when all is well, the jaw is "magnetized" shut (teeth not touching or very lightly touching), or the tongue is "magnetized" to the room of the mouth, and breathing through the nose is effortless and barely perceptible (because breathing rate and volume are in dynamic equilibrium and therefore nose turbinates open). And of course breathing rhythms can change during exercise and emotional arousal, and also the mouth still might be open for thousands of hours in meditation, for all sorts of good reasons, though again will very long-run magnetize lightly closed, all things being equal.
 
 [<a href="#77h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -8356,6 +8356,8 @@ at least one sense in which there are no infinities
 at least one sense in which all there is now, is what’s now
 
 at least one sense in which all this is is “just this.”
+
+at lesat one sense in which you can, long-run, function just fine without an "enduring stable identity concept"; there is only radically concrete flux that sort of has no pattern to fall under an enduring concept
 
 at least one sense in which nothing ends, including the sense in which “you will always have happened.” At least on sense in which “endings” (and lots of other things) are “negated without further implication” [See Mipham’s Beacon of Certainty]
 
