@@ -8532,13 +8532,17 @@ Really clear that my version of physicalism/materialism is/was hurting me, but m
 
 # <span id="158da1e"></span> crappy timeline guidelines:
 
-[based on very small sample sizes, work in progress]
+[based on very small sample sizes, speculative, work in progress]
 
-if someone is around 6000-8000 hours or practice, I'm going to be looking closely for "untangling" phenomenology (cf. conditioning, trauma, life strategies)
+0-6000 hours of practice---very contingent. some people will do more phenomenological and "supramundane" "depth" type stuff first. other people will be more memory, trauma, conditioning first. And then someone will sort of eventually switch to more of the other. eventually body stuff will start coming in.
+
+if someone is around 6000-8000 hours of practice, I'm going to be looking closely for steady "untangling" phenomenology (cf. conditioning, trauma, life strategies). Whether this shows up as such will still be kind of contingent---it might look different depending on what practices they've been engaging in.
 
 https://meditationbook.page/#151
 
 around 8000-10,000 hours I might be looking for a sort of "nihilism pressure" around mortality stuff and a deeper and deeper sense of X, Y, Z... won't work, won't get me what I want, maybe especially related to "conceptual identity preservation" or some sub-aspects of self-related impermeanence
+
+(Around 9000-11000 hours is kind of smoothing out and settling down, more predictable practice, any wild swings are mostly gone, you're kind of an expert meditator with still plenty to do.)
 
 if someone is around 10,000-12000 hours, I'm going to be looking for a sort of gradual lifting of nihilism for simplicity, peace, spontaneity
 
@@ -8547,13 +8551,19 @@ if someone is between 8000-12000 hours I'm going to be looking for groundlessnes
 https://meditationbook.page/#158da1bhttps://meditationbook.page/#158da1a1a
 
 
-Re morality, wisdom, love, consequentialism, at around 8000-18000 hours, if someone isn't in a fairly stable, loving relationship or at least general heightened capacity for pair-bonding in more complex communal-social situations (modulo deep aro-romanticism or a couple holdout love-gating extreme fetishes--under maybe 12000 hours, for the latter), I'm going to especially start wonderibg why. (It's not a thing for everyone, though.) Ditto for valued, enjoyable, rewarding friendships (not just collaborations) and having enough money, at the very least (modulo privilege and all sorts of things---very contextual).
+Re morality, wisdom, love, consequentialism, at around 8000-18000 hours, if someone isn't in a fairly stable, loving relationship or at least general heightened capacity for pair-bonding in more complex communal-social situations (modulo deep aro-romanticism or a couple holdout love-gating extreme fetishes--under maybe 12000 hours, for the latter), I'm going to especially start wondering why. (It's not a thing for everyone, though.) Some people will finally mostly unconflictly decide they want kids if they felt they previously just couldn't. Ditto for valued, enjoyable, rewarding friendships (not just collaborations) and having enough money, at the very least (modulo privilege and all sorts of things---very contextual).
 
 Somewhere between 10,000-15,000 hours I'll also be looking for a sort of non-nihilistic, loving consequentialism-in-groundlessness
 
 https://meditationbook.page/#68a
 
 Somewhere between 10,000-20,000 hours, modulo starting point, privilege, and loads of contingent shit, I'd expect to slowly see more and more wider focus on community, the world, legacy. Very contingent.
+
+At 10,000-15000 hours this does start to get into "einstein shit" territory---the possibility of phenomenological-body-surface-shimmering through-and-through radical-refactoring-in-groundlessness fit-to-purpose --- so radical creativity, art, writing, game design, eloquence; first-of-first principles philosophical, scientific and technical work; crack open the universe moonshots, perhaps hyper-local or less-local statesmenship and diplomacy but this is maybe especially entangled in a lifetime of pedigree, who you know, etc. All of this is so dependent on starting conditions and everything-life-context, even while reaching for interdependent transcendence.
+
+\*
+
+Or you might just be a poor, grumpy recluse, or in a cabin in the woods with your lover, or you might have a family in the countryside, or you'll get hit by a bus or a meteor or nuclear war or bioterrorism or you'll piss off the wrong people. And, at the time of this writing, general artificial intelligence, cryonics, longevity, rejuvenation are perhaps twenty to eighty years away????????? Even then and still there is oblivion and just this.
 
 
 [<a href="#158da1eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
