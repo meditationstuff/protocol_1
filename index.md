@@ -8551,6 +8551,7 @@ And then... [sic] (I'm still exploring how to write this last part.)
 
 See also:
 
+* <a href="#160">don't be here now (to start)</a>
 * <a href="#137b">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
 
 
