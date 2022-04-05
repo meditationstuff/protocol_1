@@ -299,6 +299,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="158da1bh" href="#158da1b">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
 		* <a id="158da1ch" href="#158da1c">tweets / shitposts</a>
 		* <a id="158da1dh" href="#158da1d">temp catch-all</a>
+		* <a id="158da1fh" href="#158da1f">that won't work</a>
 		* <a id="158da1eh" href="#158da1e">crappy timeline guidelines</a>
 	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#158fa">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
@@ -8528,6 +8529,32 @@ Really clear that my version of physicalism/materialism is/was hurting me, but m
 
 
 [<a href="#158da1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158da1f"></span> that won't work:
+
+Nihilism, pointlessness, meaninglessness, anomie, ennui, boredom, ghastly hopelessness or ghastly desperation, just waiting to die, can show up anytime. There are many versions and flavors and they can have different underlying structure and causes.
+
+There's maybe a particular late-stage flavor, as, at deeper and deeper "levels," a person realizes that X, Y, and Z "just won't work," where "working" is perhaps something vaguely like stable and final access to safety, love, sex outside of death, decay, dissolution, neurodegeneration or time... And X, Y, and Z are plans and goals and reliances and religiousity and faith and fantasies and fulfillment of sexual fetishes and...
+
+That's not to say with certainty and finality that, I don't know, immortality or souls or god or god tech aren't things---I mean they're probably not, but nothing is certain and all is empty and provisional (including all being empty and provisional). But likely you wan to *rely* on something, but you can't---don't take my word for it, of course; your experience might be different!
+
+In any case, there's this subtler and subtler (sometimes very overt) sorting and sifting, "what about this," "what about that," "oh shit that won't work," "what about this?" And so on.
+
+So there's sort of this increasing desperation or gallows-something, likely at this point arising in considerable equanimity or at least forebearance (otherwise it sort of wouldn't be safe for a lot of this to come up).
+
+And, but, anyway, this is also sort of, at the same time, with a bit of a lag, untangling deeper and deeper dimensions or aspects of or in the rough bucket of "no-self" type stuff, "conception of stable durational identity" type stuff.
+
+And then... [sic] (I'm still exploring how to write this last part.)
+
+\*
+
+See also:
+
+* <a href="#137b">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
+
+
+[<a href="#158da1fh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158da1e"></span> crappy timeline guidelines:
