@@ -299,6 +299,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="158da1bh" href="#158da1b">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
 		* <a id="158da1ch" href="#158da1c">tweets / shitposts</a>
 		* <a id="158da1dh" href="#158da1d">temp catch-all</a>
+		* <a id="158da1eh" href="#158da1e">crappy timeline guidelines</a>
 	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#158fa">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#158ga">a brief dialogue on locality and concreteness</a>
@@ -8528,6 +8529,34 @@ Really clear that my version of physicalism/materialism is/was hurting me, but m
 
 [<a href="#158da1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="158da1e"></span> crappy timeline guidelines:
+
+[based on very small sample sizes, work in progress]
+
+if someone is around 6000-8000 hours or practice, I'm going to be looking closely for "untangling" phenomenology (cf. conditioning, trauma, life strategies)
+
+https://meditationbook.page/#151
+
+around 8000-10,000 hours I might be looking for a sort of "nihilism pressure" around mortality stuff and a deeper and deeper sense of X, Y, Z... won't work, won't get me what I want, maybe especially related to "conceptual identity preservation" or some sub-aspects of self-related impermeanence
+
+if someone is around 10,000-12000 hours, I'm going to be looking for a sort of gradual lifting of nihilism for simplicity, peace, spontaneity
+
+if someone is between 8000-12000 hours I'm going to be looking for groundlessness and a bunch of phenomenological/conceptual/metaphysical stuff:
+
+https://meditationbook.page/#158da1bhttps://meditationbook.page/#158da1a1a
+
+
+Re morality, wisdom, love, consequentialism, at around 8000-18000 hours, if someone isn't in a fairly stable, loving relationship or at least general heightened capacity for pair-bonding in more complex communal-social situations (modulo deep aro-romanticism or a couple holdout love-gating extreme fetishes--under maybe 12000 hours, for the latter), I'm going to especially start wonderibg why. (It's not a thing for everyone, though.) Ditto for valued, enjoyable, rewarding friendships (not just collaborations) and having enough money, at the very least (modulo privilege and all sorts of things---very contextual).
+
+Somewhere between 10,000-15,000 hours I'll also be looking for a sort of non-nihilistic, loving consequentialism-in-groundlessness
+
+https://meditationbook.page/#68a
+
+Somewhere between 10,000-20,000 hours, modulo starting point, privilege, and loads of contingent shit, I'd expect to slowly see more and more wider focus on community, the world, legacy. Very contingent.
+
+
+[<a href="#158da1eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158ea"></span> on meaning, goodness, badness, aboutness, intentionality, secondary properties:
