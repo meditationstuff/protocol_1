@@ -8549,6 +8549,16 @@ And then... [sic] (I'm still exploring how to write this last part.)
 
 \*
 
+> ---don't take my word for it, of course; your experience might be different!
+
+and also, worth repeating, it's ok to want to live forever, to fantasize about it, to want to be rich, invincible, young forever, powerful, safe in very specific ways, etc. 
+
+there will be conceptual and metaphysical confusions there, but that's what redo-to-undo and fantasy, and trying things out, and trying to get things, will help with. and lots and lots of it will not be conceptual and metaphysical confusions; it will just be good and nourishing and so on.
+
+so "that won't work" isn't prescriptive. enjoy thinking about what you want (to work) and sometimes try to make it work(!), all the way down, for everything, as you are so moved, or not. that's how one gets fulfilling relationships, and that's how we got science and medicine and computers, at the very least, and who knows what's next...
+
+\*
+
 See also:
 
 * <a href="#160">don't be here now (to start)</a>
