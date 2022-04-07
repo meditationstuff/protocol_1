@@ -8574,30 +8574,41 @@ See also:
 
 0-6000 hours of practice---very contingent. some people will do more phenomenological and "supramundane" "depth" type stuff first. other people will be more memory, trauma, conditioning first. And then someone will sort of eventually switch to more of the other. eventually body stuff will start coming in.
 
+around maybe 4000-6000 hours of practice on might see noticeably increased "autonomic harmony"---improved digestion and  all things being equal increased wellbeing. some allergies might go away or go down in intensity. "emotional processing" and problem solving tend to get faster for mild to medium issues. the hard stuff and hardest of hard stuff will have thousands of hours left. one might find that "the stress response" somehow doesn't cut as deep; there's just not as much cortisol dumped into the system or something; something, somewhere remains at peace (while certainly plenty might not). "Equanimity" is sort of a poor abstraction; it's always contingent and contextual, but there's more and more of it.
+
 if someone is around 6000-8000 hours of practice, I'm going to be looking closely for steady "untangling" phenomenology (cf. conditioning, trauma, life strategies). Whether this shows up as such will still be kind of contingent---it might look different depending on what practices they've been engaging in.
 
+brief, loosely related notes on unknotting, untwisting, untangling  
 https://meditationbook.page/#151
 
 around 8000-10,000 hours I might be looking for a sort of "nihilism pressure" around mortality stuff and a deeper and deeper sense of X, Y, Z... won't work, won't get me what I want, maybe especially related to "conceptual identity preservation" or some sub-aspects of self-related impermeanence
 
-(Around 9000-11000 hours is kind of smoothing out and settling down, more predictable practice, any wild swings are mostly gone, you're kind of an expert meditator with still plenty to do.)
+(Around 9000-11000 hours is kind of smoothing out and settling down, more predictable practice, any wild swings ("large-scale nonmonotonicity") are mostly gone, there's little to absolutely none overt/&#8203;gross muscle tension, you're basically "structurally fluid in groundlessness" (always contingent any surprise situation being a possible exception), there's perhaps something loose and confident and snappy and gentle and smooth and flowing and aligned and not getting ahead of oneself and everything working together at just the right speed in just the right order (at least locally) if not yet entirely spontaneous and effortless about how your bodymind works, conceptual identity is mostly or completely untangled, you're kind of an expert meditator with still plenty to do.)
+
+on groundlessness, a brief note  
+https://meditationbook.page/#158da1bhttps://meditationbook.page/#158da1a1a
 
 if someone is around 10,000-12000 hours, I'm going to be looking for a sort of gradual lifting of nihilism for simplicity, peace, spontaneity
 
 if someone is between 8000-12000 hours I'm going to be looking for groundlessness and a bunch of phenomenological/conceptual/metaphysical stuff:
 
-https://meditationbook.page/#158da1bhttps://meditationbook.page/#158da1a1a
-
+touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")  
+https://meditationbook.page/#158da1b
 
 Re morality, wisdom, love, consequentialism, at around 8000-18000 hours, if someone isn't in a fairly stable, loving relationship or at least general heightened capacity for pair-bonding in more complex communal-social situations (modulo deep aro-romanticism or a couple holdout love-gating extreme fetishes--under maybe 12000 hours, for the latter), I'm going to especially start wondering why. (It's not a thing for everyone, though.) Some people will finally mostly unconflictly decide they want kids if they felt they previously just couldn't. Ditto for valued, enjoyable, rewarding friendships (not just collaborations) and having enough money, at the very least (modulo privilege and all sorts of things---very contextual).
 
 Somewhere between 10,000-15,000 hours I'll also be looking for a sort of non-nihilistic, loving consequentialism-in-groundlessness
 
+on good and bad  
 https://meditationbook.page/#68a
 
 Somewhere between 10,000-20,000 hours, modulo starting point, privilege, and loads of contingent shit, I'd expect to slowly see more and more wider focus on community, the world, legacy. Very contingent.
 
 At 10,000-15000 hours this does start to get into "einstein shit" territory---the possibility of phenomenological-body-surface-shimmering through-and-through radical-refactoring-in-groundlessness fit-to-purpose --- so radical creativity, art, writing, game design, eloquence; first-of-first principles philosophical, scientific and technical work; crack open the universe moonshots, perhaps hyper-local or less-local statesmenship and diplomacy but this is maybe especially entangled in a lifetime of pedigree, who you know, etc. All of this is so dependent on starting conditions and everything-life-context, even while reaching for interdependent transcendence.
+
+\*
+
+bits have flipped somewhere. you can check them, but they're just bits. so much has nebulously changed, nebulously clarified, nebulously refactored, nebulously smoothed, nebulously quieted, nebulously cleared. but there's something natural, ordinary, obvious, straightforward about it, something utterly normal about your experience. there's an easy competence, a lightness, a confidence, even while you're still arguing with your intimate partner or stressed about legacy, or money, or something. there's always something. has anything really changed at all? everything, everything; you've given up everything, lost everything, only to get it back, and everything has somehow changed, and yet somehow everything isn't the same but it's how it's supposed to be and that's somehow familiar to the point it can be hard to remember what's changed. and your mind works so differently but by the same deep-down rules it always has. and, and...
 
 \*
 
