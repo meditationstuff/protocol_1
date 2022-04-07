@@ -299,6 +299,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="158da1bh" href="#158da1b">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
 		* <a id="158da1ch" href="#158da1c">tweets / shitposts</a>
 		* <a id="158da1dh" href="#158da1d">temp catch-all</a>
+		* <a id="158da1gh" href="#158da1g">vulnerability (physical and otherwise, cf. suffering) [stub]</a>
 		* <a id="158da1fh" href="#158da1f">that won't work</a>
 		* <a id="158da1eh" href="#158da1e">crappy timeline guidelines</a>
 	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
@@ -8531,6 +8532,47 @@ Really clear that my version of physicalism/materialism is/was hurting me, but m
 
 
 [<a href="#158da1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="158da1g"></span> vulnerability (physical and otherwise, cf. suffering) [stub]:
+
+Stub.
+
+cf. "you can be hurt"
+
+cf. first noble truth in buddhism but not exactly
+
+cf. shitpoast
+
+https://twitter.com/meditationstuff/status/1512076885592748037  
+Mark @meditationstuff 2022-04-07  
+1/2  
+
+"I don't want to achieve happiness by not suffering; I want to achieve happiness by not getting hurt."
+
+(Is this backwards? Is it?!)
+
+https://twitter.com/meditationstuff/status/1512076886993563649  
+Mark @meditationstuff 2022-04-07  
+2/2  
+
+(After the, uh... problematic Wo*dy All*n:)
+
+“I don't want to achieve immortality through my work; I want to achieve immortality through not dying. I don't want to live on in the hearts of my countrymen; I want to live on in my apartment.”
+
+\*
+
+Stub but quoted from another section for reference:
+
+> at least one sense in which "you" and "suffering" are "on the same side", like, you've been holding the "suffering control panel" all along, and there's a way to get access or authorization that's not suppression, not layering or papering over, there's just "pressing the off button, simple as [sic]" (realizing that "same side", and getting access, which is more like realizing you had it all along, that authorization, realization process is in part that whole-bodymind-complete, whole-meditation-complete, global wayfinding puzzle, involving self-compassion, self-alignment, self-kindness, self-wisdom, and is also intimately related to groundlessness). There are deeper and deeper and deeper layers of this.
+
+(via:)
+
+touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")  
+https://meditationbook.page/#158da1b
+
+[<a href="#158da1gh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 
 # <span id="158da1f"></span> that won't work:
