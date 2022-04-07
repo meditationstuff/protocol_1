@@ -8339,6 +8339,8 @@ at least one sense in which love and service are the “ultimate” answer to th
 
 at least once sense in which there's no (long-run) need for suffering (and/but there's a way it's doing it's very best for you, possibly confused-ly, until it's no longer needed)
 
+at least one sense in which "you" and "suffering" are "on the same side", like, you've been holding the "suffering control panel" all along, and there's a way to get access or authorization that's not suppression, not layering or papering over, there's just "pressing the off button, simple as [sic]" (realizing that "same side", and getting access, which is more like realizing you had it all along, that authorization, realization process is in part that whole-bodymind-complete, whole-meditation-complete, global wayfinding puzzle, involving self-compassion, self-alignment, self-kindness, self-wisdom, and is also intimately related to groundlessness). There are deeper and deeper and deeper layers of this.
+
 at least once sense in which there's no (long-run) need for self-ing (and/but there's a way it's doing it's very best for you, possibly confused-ly, until it's no longer needed)
 
 at least one sense in which nothing matters, including there being no ultimate judgment or consequences, no duty, no responsibility, no necessity no obligation, can just do what want (which is then paradoxically, constructively spontaneously meaningful, mattering enough, precisely and sufficiently)
@@ -8546,6 +8548,15 @@ So there's sort of this increasing desperation or gallows-something, likely at t
 And, but, anyway, this is also sort of, at the same time, with a bit of a lag, untangling deeper and deeper dimensions or aspects of or in the rough bucket of "no-self" type stuff, "conception of stable durational identity" type stuff.
 
 And then... [sic] (I'm still exploring how to write this last part.)
+
+It's very connected to the below, taken from another section:
+
+> at least one sense in which "you" and "suffering" are "on the same side", like, you've been holding the "suffering control panel" all along, and there's a way to get access or authorization that's not suppression, not layering or papering over, there's just "pressing the off button, simple as [sic]" (realizing that "same side", and getting access, which is more like realizing you had it all along, that authorization, realization process is in part that whole-bodymind-complete, whole-meditation-complete, global wayfinding puzzle, involving self-compassion, self-alignment, self-kindness, self-wisdom, and is also intimately related to groundlessness). There are deeper and deeper and deeper layers of this.
+
+(via:)
+
+touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")  
+https://meditationbook.page/#158da1b
 
 \*
 
