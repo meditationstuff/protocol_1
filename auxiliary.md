@@ -7504,5 +7504,12 @@ Ask, what's (actually) going to happen? (with respect to some thing, situation, 
 [<a href="#896auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="897auxiliary"></span> (positive) counterfactual historical tree:
+
+At each point back then, what's the best (or better) it could have gone, in that "moment" or "situation"? And that other "moment" or "situation"? (backwards or forwards, maybe very discontinuously)?
+
+[<a href="#897auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
