@@ -907,6 +907,6 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="895auxiliary_names" href="#895auxiliary">eye phosphenes and blobs</a>
 * <a id="896auxiliary_names" href="#896auxiliary">what's actually going to happen</a>
 * <a id="897auxiliary_names" href="#897auxiliary">(positive) counterfactual historical tree</a>
-
+* <a id="898auxiliary_names" href="#898auxiliary">abandon (all) hope</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

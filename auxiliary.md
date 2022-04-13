@@ -7511,5 +7511,17 @@ At each point back then, what's the best (or better) it could have gone, in that
 [<a href="#897auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="898auxiliary"></span> abandon (all) hope:
+
+Thus.
+
+comment:
+
+cf. "abandon all hope ye who enter here"
+
+cf. hell is the absence of hope
+
+[<a href="#898auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
