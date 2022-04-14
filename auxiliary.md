@@ -7526,7 +7526,7 @@ cf. hell is the absence of hope
 
 # <span id="899auxiliary"></span> effortlessly, costlessly, always-already aware:
 
-Effortlessly, costlessly, always-already be(come) aware of effortlessly, costlessly, always-already being aware of what you are effortlessly, costlessly, always-already aware of feeling/XXXXexperiencing (in the body and) everywhere (positively valenced, negatively valenced, and neutrally valenced, in no particular order).
+Let/&#8203;allow yourself to be(come) effortlessly, costlessly, always-already aware of effortlessly, costlessly, always-already being aware of what you are effortlessly, costlessly, always-already [being] aware of feeling/XXXXexperiencing (in the body and) everywhere (positively valenced, negatively valenced, and neutrally valenced, in no particular order).
 
 [<a href="#899auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 

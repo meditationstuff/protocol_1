@@ -216,6 +216,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 			* <a id="119h" href="#119">formulation 4</a>
 			* <a id="120h" href="#120">formulation 5</a>
 			* <a id="121h" href="#121">formulation 6</a>
+			* <a id="121ah" href="#121a">emotions(tm) and feelings(tm) in interpersonal processing vs meditation (alpha draft)</a>
 * <a id="122h" href="#122">lists and more</a>
 	* <a id="123h" href="#123">nonmonotonicity</a>
 	* <a id="124h" href="#124">definitions</a>
@@ -4878,6 +4879,69 @@ Notes:
 (\*\*) If, as far as you can tell, it’s *bad* for both/all of you for you to somehow *desynchronize/decorrelate*, and you can stop or not start desynchronizing/decorrelating in that way, do that; top-down or bottom-up, actively or passively, do, allow, surrender, release, participate in that happening. If you know or find you can’t do any of the relevant ones of those, incline towards completely stopping any of your trying to do so, for those relevant ones for which you can’t, at least for just right now.
 
 [<a href="#121h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="121a"></span> emotions(tm) and feelings(tm) in interpersonal processing vs meditation (alpha draft):
+
+[Original twitter thread starts here: https://twitter.com/meditationstuff/status/1514378080600694789 (Last accessed: 2022-04-14)]
+
+Super hot take. First-pass, there seems to be some really important differences between meditation and interpersonal processing.
+
+I'd like to first make a distinction between something like (a) "inner feeling" and (b) emotions(tm)/feelings(tm). 1/23
+
+"Inner feeling" is so, so, so important in meditation, of course: valence, interoception, proprioception, the body, etc., etc., etc. So important, as are a bunch of other things.
+
+But I've long been confused/surprised by how little emotions(tm)/feelings(tm) seemed to useful, at least to me.
+
+I mean, for sure, sometimes it's really important and useful to be like "I'm sad(tm)," "I'm afraid(tm)," "I'm joyful(tm)," etc.
+
+Emotions(tm)/feelings(tm) is a bit of a strawman/strawperson. Eugene Gendlin, for example, points people to the perhaps *particularity* and *situatedness* of emotional experiences---*this* sadness, *this* fear. And certainly, Gendlin's Focusing can e woven into meditation.
+
+But something still felt weird to me. I think I'm starting to put my finger on it. For starters, even if somewhat "Gendlin-ized," emotions(tm)/feelings(tm) are quite (a) conceptual, (b) vague, and (c) global. And again sometimes those attributes are quite useful in meditation.
+
+But, meditation *tends* to be most effective when it's *aconceptual*, *precise*, and *local*. These are just tendencies---meditation really does ultimately encompass everything, all of it, sort of. So these are just tendencies.
+
+There's another piece to add---someone observed to me that, at least in their experience, people who self-described as (advanced?) meditators tended to seem to them as being very bad at Circling, a type of interpersonal processing. 7/23
+
+If at least somewhat true, that seemed kind of confusing to me. I think a part of Circling is saying how you feel in the moment. (I've only done a tiny bit of Circling.) Speaking just for myself, I'm think I'm pretty good at saying how I feel, in terms of emotions/feelings:
+
+No problem---easy access, feel inside, rattle them off. Authentic. Done.
+
+But there was still something stiff, maybe---it never really made sense to me to reach for that *as a practice*. Of course I talk about my feelings to people I'm close with.
+
+But honestly I hadn't really noticed a *pattern* in what that was *doing*, interpersonally. It was just another felt-important thing to do, sometimes, for understanding and connection. I didn't really see something systematic there, even though I was often moved to share/listen.
+
+And, again, emotions(tm)/feelings(tm) didn't seem particularly useful in meditation, even though meditation is very feeling-ful and emotion-ful, in terms of deconditioning, shadow, parts-like things, and so on. So meditation *is* emotional/behavioral/cognitive processing...
+
+...but not directly emotions(tm)/feelings(tm) ??processing?
+
+Ok, but, so why are emotions(tm)/feelings(tm) so useful for interpersonal processing? Why does pop culture and pop therapy focus on them? Why does (I think) Circling focus on them?
+
+I think the very things that make them heuristically (but not always) iffy for *solo* meditation---(a) conceptual, (b) vague, and (c) global---make them extremely useful for high-bandwidth *interpersonal* communication and processing.
+
+Talking about emotions(tm)/feelings(tm) is a fast way to communicate a tremendous amount of information about what's happening in oneself to another person.
+
+And/but, in solo meditation, meditators almost seem to train themselves out of describing things conceptually and globally. NOTE: This is not the same thing as repression/suppression, which is a failure mode of meditation.
+
+Even if not repressing/suppressing, talking about emotions(tm)/feelings(tm) is not something a meditator learns to value, at least for the purposes of meditation, even when meditation is very sensuous, emotional, feeling-ful.
+
+It makes sense to describe *low-level* experiential/feeling-ful/emotional dynamics & patterns to a meditation teacher or meditation peer.
+
+But those moment-by-moment descriptions maybe aren't all that useful during interpersonal processing with a peer or someone you're close to.
+
+But it seems like emotions(tm)/feelings(tm), which are conceptual, sort of *socio-culturally conceptually constructed*, a la Lisa Feldman Barrett, are maybe extremely useful for working through contemporaneous conflict and some old interpersonal stuff.
+
+(And I think just as meditators dip into emotions(tm)/feelings(tm), Circlers & friends/partners working thru hard stuff will sometimes (often) dip into moment-by-moment experiential dynamics for things that are sometimes otherwise hard to conceptualize/verbalize in any other way.
+
+So anyway, even while working through lots of hard stuff with other people, and even while talking about other people's inner experiences and my own, I think I was maybe missing something about emotions/feelings.
+
+The (tm) was sort of dismissive but useful for the distinction above between like (a) rich, moment-by-moment radical concreteness [no-(tm)]and (b) socio-cultural-conceptual concept/label/origin/manifestation. [yes-(tm)].
+
+And the latter is maybe much more useful and high bandwidth and productive than I realized, even while I wasn't doing terrible interpersonally (...most of the time) in not systematically reaching for them.
+
+So---systematically reaching for feelings[(tm)]/emotions[(tm)] [, and hopes/wishes---outside the scope of this thread,] in concert w a few different ppl (for whom I'm grateful for in prompting me thinking abt this) has been vry interesting so far. 23/23
+
+[<a href="#121ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="122"></span> lists and more:
 
