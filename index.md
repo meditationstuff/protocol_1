@@ -329,7 +329,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method [draft]</a>
 		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
 		* <a id="173h" href="#173">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
-	* <a id="192ah" href="#192a">mark's approximate practice summary highlights</a>
+	* <a id="192ah" href="#192a">mark's approximate practice timeline summary highlights</a>
 	* <a id="192bh" href="#192b">miscellaneous pith notes</a>
 * <a id="192ch" href="#192c">neuroscience speculative snapshots</a>
 	* <a id="192dh" href="#192d">neuroscience and meditation, odds and ends [2022-02-09]</a>
@@ -10786,7 +10786,7 @@ One step at a time, one mind moment at a time.
 
 [<a href="#173h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="192a"></span> mark's approximate practice summary highlights:
+# <span id="192a"></span> mark's approximate practice timeline summary highlights:
 
 (when I say "less than X hours," below (e.g. <20 hours) it's probably wayyyyyy less. I tried to do like a 90-90% confidence absolute ceiling)
 
@@ -10833,7 +10833,7 @@ Strategic claiming and disclaiming of volitionality. Like giving over an area to
 * 2020 switched from version numbers (v106 to just using github commit hashes)
 * May 2021 https://meditationbook.page/
 * 2021 pith instructions and quick start
-* 20211009 (somewhere 5000-10000 hours [7000 hours? 8000 hours?] of main protocol / global wayfinding:
+* 20211009 (somewhere 5000-10000 hours [7000 hours? 8000 hours?] of main protocol / global wayfinding [more entries continue below this extended entry]:
 
 Mark L  7:50 PM  
 So I’m going to call the muscle tension done**, at least there’s no big twists/pressures left in the system, muscle-y or otherwise. **What’s left is sort of fractal cleanup.  
@@ -10899,6 +10899,21 @@ In some ways, at least one of the following has to make sense for someone to eng
 [...]  
 <<<
 
+* 20220415:
+
+([if I publish this elsewhere] I feel comfortable commoditizing this a little in part because it's exemplifying, and it happened many years ago, and my family doesn't regularly read my writing.)
+
+Very big insight: "I can't (a) *really* love an intimate partner, or (b) *really* have friends, or (c) *really* connect, even if I try, so don't try too hard. [Context: This is a sort of bounded gloss; of course I have loved and connected and etc., but also, etc., in sweeping, total-life-trajectory-affecting ways] And that's because my grandmother died horribly of cancer, and it massively affected my mother, and I can't be like my mother having that experience with my grandmother. (I watched all this go down over a bunch of months when I was three-years-old-ish. I didn't see much directly, but I saw a tiny bit, and I experienced the change in my mother and her distraction.) The "gathering and realizing and glossing" of this, the former having taken from ages three-ish to forty-one and somewhere between 8000-10,000 hours of meditation, and the latter two a "final" few hours during a morning meditation, are sort of 90% of the work of integration and hanging out with three-year-old-to-forty-one-year-old me and reinterpreting and re-exploring and re-feeling for sort of constructive (non-)transcendence. More like constructive (re-)imminence.
+
+Years ago, maybe of course, this was explored in therapy, maybe "100 miles out," with talk and EMDR and other modalities, over a few months. But it was too tangly, too inchoate, too something, to really get at, understand, illuminate, etc. There was something there, but it wasn't entirely clear there was a there, there, or at least how and how deeply it functioned. Maybe the-right-really-good practitioner would have made more progress.
+
+Outside view, one could tell a story like the gloss above, one of many hypotheses, but to feel it resonantly, from the inside, in it's functional, actuating fullness, at the right time, in the right way, as it is then able to *move*; that's really something. Littler and bigger things like this, shallower and deeper, should keep happening throughout meditation practice, sometimes with many months between them. And "deeper and deeper," as needed, safely (or as safely as it possible).
+
+First-pass, in terms of happiness and friendships and relating and intimacy---getting here was definitely worth the long hours, the opportunity costs, the relational and nth-order costs, the physical and financial and interpersonal risks, for me. Would gladly pay again, for what it's worth having already paid, and I'm still paying, to be sure.
+
+[In terms of commoditization, if I publish a version of this elsewhere; maybe too high-context; "can your personal self-transformative practice do this? (many can, to varying degrees! and many interpersonal things can help! and/but for some parts of some of the very deepest stuff, etc., etc. sometimes maybe it might be worth sometimes, etc.]
+
+[Life-affecting muscle tension did come back, up from a little present but not life-intefering, the above-as-a-twist-in-the-system clarifying, while approaching the above, and is now receding again, as best I can first-pass tell, to even lower levels. Will update if doesn't now smoothly dissipate utterly and completely. There could be even still a few more things. Recall, as best I understand it, it got so bad in the first place because of problematic things I did pre-p2 and pre-meta protocol.]
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
