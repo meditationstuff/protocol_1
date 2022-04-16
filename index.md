@@ -12299,6 +12299,8 @@ Me : Well, that's a good sign. The numero uno of daft moves is to open by defaul
 * Abstract Reasoning as Emergent from Concrete Activity by David Chapman https://metarationality.com/abstract-emergent [Last accessed: 2022-03-07]
 * Parable of the Pebbles https://metarationality.com/pebbles [Last accessed: 2022-03-07]
 * Weiss, Joseph. How psychotherapy works: Process and technique. Guilford Press, 1993.
+* Blackstone, Judith. Trauma and the unbound body: the healing power of fundamental consciousness. Sounds True, 2018.
+* Ray, Reginald A. The awakening body: Somatic meditation for discovering our deepest life. Shambhala Publications, 2016.
 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
