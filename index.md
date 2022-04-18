@@ -290,7 +290,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="158bah" href="#158ba">inner peace placeholder</a>
 	* <a id="158cah" href="#158ca">love placeholder</a>
 	* <a id="158dah" href="#158da">wellbeing placeholder</a>
-	* <a id="158da1h" href="#158da1">autonomic harmony placeholder</a>
+	* <a id="158da1c1h" href="#158da1c1">autonomic harmony placeholder</a>
 	* <a id="158dbh" href="#158db"> ball of string analogy and more on posture and feedback loops (draft)</a>
 	* <a id="158da1h" href="#158da1">far reaches of meditation</a>
 		* <a id="158da1a1ah" href="#158da1a1a">on groundlessness, a brief note</a>
@@ -8144,14 +8144,15 @@ See also: autonomic harmony placeholder
 [<a href="#158dah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="158da1"></span> autonomic harmony placeholder:
+# <span id="158da1c1"></span> autonomic harmony placeholder:
 
 This section is currently a placeholder/stub.
 
 
 See also: wellbeing placeholder
 
-[<a href="#158da1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+[<a href="#158da1c1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="158db"></span> ball of string analogy and more on posture and feedback loops (draft):
 
