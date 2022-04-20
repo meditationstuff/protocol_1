@@ -324,6 +324,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 		* <a id="169ah" href="#169a">distinctions</a>
 		* <a id="169bh" href="#169b">on parts, demons, egregores</a>
 		* <a id="169ch" href="#169c">axes of individuation with relation to value judgments (transcript)</a>
+		* <a id="169eh" href="#169e">spiritwork manifesto thing (snapshot)</a>
 	* <a id="169dh" href="#169d">character, personality, ego, virtue. sovereignty. outside view. cultural, familial good/&#8203;bad reversals (draft)</a>
 	* <a id="170h" href="#170">civilizational stuff</a>
 		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method [draft]</a>
@@ -9912,6 +9913,131 @@ So, the pastoral, romanticized, blended experience, caricatured, has both good a
 
 [<a href="#169ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="169e"></span> spiritwork manifesto thing (snapshot):
+
+[Originally published at: https://meditationstuff.wordpress.com/x-w-mark-2/spiritwork-personal-statement-and-manifesto-3000-words-draft/ [Last accessed: 2022-04-20]. I use the word "physicalist," with a nod to a particular audience (that is overlapping but not the intended audience of this book; but, "naturalist" might be better. Even that isn't quite right because naturalism under emptiness, nebulosity, groundlessness is better-better. But that was out of the scope of the below or not the right time, at the risk of over-reification.) Again, the below is sort of a manifesto-filter-sales-pitch to very, very, very positioned audience.]
+
+*tl;dr: No nonsense subtle interaction. Extremely patient, cautious, careful. If desired, can be scrupulously legible and interactive. Deep theoretical basis. Practical management of nuance, complexity, and long time horizons, informed by thousands of hours of personal meditation practice.*
+
+\*
+
+“Spirit work”/“spiritwork” is intended to be a very general and non-appropriative term in the very general space of shamanism (cf. bodywork, “energy work,” etc.) Sometimes the terms “shamanship” or “shamanhood” are used, to reduce the implicature that “shamanism” is a single “thing.”
+
+Spirit work could be things like cancelling the effects of a spell, or “depossessing” someone from ghosts or demons, or pointing out, or helping with, “blocks” in the “energy body,” and so on.
+
+One could say that I do *physicalist* spiritwork, or that I am a “physicalist spiritworker.” What that means is that I believe there is a physical/material/neurological/etc. basis to things like “spirit” or “energy” (including qi/chi/ki, prana, ruach, etc.), and I believe there’s “nothing more than” the physical. (Some people will say, “of course!” Other people will give me a pitying look, for multiple reasons, and, in any case, all of these reactions are partly why I’m writing this.)
+
+Note, believing in a physical basis to “spirit,” etc., has many meta-methodological and meta-theoretical implications, but it has, surprisingly (to me), very little impact on basic phenomenology, and the presentation, and high-level classification, of various phenomena: loosely but usefully speaking, spells are often still just “spells,” and so on.
+
+I want to qualify the above by noting that my belief in “nothing more than the physical” still leaves open the possibility of local–and nonlocal–interactions and effects, that have not been characterized by science. And falling within that, I do leave open the possibility of something like “true psi.” (And, again, that would still be physical/material/natural/causal/etc.)
+
+But, I’ve never yet needed to fall back on something like “true psi” as a last-ditch explanation for a phenomenon I’ve encountered. That is, I think that similar genetics and phenotypes, similarities in culture, human senses and human sensory processing, all together, can account for most everything “supernatural”:
+
+I think just about everything seemingly supernatural is so far is explainable, without reaching, by relatively local interactions between people. And, importantly, this includes seeming nonlocal information transfer and synchronicities. For example, seeming nonlocal information transfer can happen through a long chain of people. And, seeming synchronicities may happen between people who know each other well, because they are actually pretty behaviorally/cognitively synchronized, even when they haven’t interacted for months or years–maybe they saw the same tv show or tweet, recently, which acted as an implicit, common-cause catalyst for a seeming synchronicity, three days later. There’s also the possibility of “birthday paradox” or “black swan” events—that is, coincidental and improbable things happen with high frequency, if the equivalence class is very general.
+
+One might wonder about examples or seeming anomalies involving apparent high fidelity, fine-grain detail: not just, say, things like faint premonitions but, solo or shared, vivid, high-fidelity, informative, agentive experiences, like angels, demons, god(s), etc. And, you might ask, where do such vivid and detailed experiences come from; sometimes: “I couldn’t have imagined/invented/dreamed up that!” And, further, in the cases where aspects of those experiences were *shared*, whether vaguely or precisely, that can be even more shocking.
+
+In those cases, we need to account for vividness/detail. And we need to account for “sharedness” or mutual fidelity–two or more people sometimes having had aspects of the same experience. And, we are operating under the assumption that the mechanisms are “relatively classically physical.”
+
+We don’t have to look too far–we can appeal to some standard mechanisms, and then we can explore objections.
+
+We have the human senses, human sensory processing, and the human brain, as a “substrate,” something to receive a “transmission.” And we’d also need information, a pattern, something to be transmitted. Such a “pattern,” an imprint, could be anywhere from simple and static to something complex, agentive, “active.” (As an analogy, something simple or inert could be like a text file, and something complex or agentive could be more like a [marshalled or serialized] running program, perhaps impressionistic, in some ways, and, in other ways, nearly as “digital” as actual software.)
+
+Taking those building blocks, two general classes of objections come to mind: on the one hand “theoretical smell tests”  and on the other “experiential smell tests.”
+
+On the theoretical smell test side, a possible objection is that a real-time transmission of something “complex, agentive, high-fidelity, high-bandwidth” etc., between two people, may not seem information-theoretically possible, let alone information-theoretically plausible.
+
+But, here we can turn to William James’ “blooming, buzzing confusion.”
+
+Whether a baby or an adult, we’re always making sense of the blooming, buzzing confusion that is the world—that’s what people, brains do—that is, very-high-dimensional, real-time, multisensory learning. Additionally, the sender and receiver are “active, responsive, intentful” even if semi-unreflectively: the receiver is, in some sense, trying to understand, and the sender, in some sense, is trying to be understood. And, there’s a lot of shared context, either cultural, or by virtue of just also being a Homo sapien. This makes meaning-making easier. Finally, in terms of bandwidth, there’s body language, gesture, posture, voice tone, prosody, timbre, and perhaps much more–a multi-channel medium serialized in chunks of somewhere between, I don’t know, tens of milliseconds to hundreds of milliseconds.
+
+On the experiential smell test side, a possible objection is that people aren’t, well, psychic, or at least not obviously so, in everyday life. (Or are they, depending on how you ask and how you pay attention.) Briefly, much of what we do, and don’t do, and much of what we sense or experience, isn’t immediately conscious or reflective, is not immediately volitional, and is highly, exquisitely contextual–i.e., what if there is no single “psi” phenomenon. I think all of these are plenty sufficient to make everyday experience—and, additionally, decades of laboratory research into psi phenomena (of varying quality)—ambiguous, hard to interpret, or hopelessly confounded or otherwise erroneous. It’s not a stretch to vaguely go along with “a lot of subtle stuff, that carries a lot of information, maybe A LOT of information, happens between people.
+
+Finally, as to where vivid details can come from (“I couldn’t have come up with that!”), myth, lore, religion, popular culture, popular imagination, over many thousands of years, provides plenty of it. Woven through this is generational/cultural/familial trauma, depending on how defined and distinguished from the former. If one assumes these sorts of things can get passed around and along, between parents, children, and contemporaries, through culture and across generations, then this part follows pretty well.
+
+\*
+
+A general qualifying point remains:
+
+Even if physicalist explanations do account for the full variety and range of supernatural experiences, one must still completely acknowledge their (sometimes) extraordinary personal impact, both positive and negative–sometimes profound, sometimes terrible.
+
+It should rarely be the case that someone can use a physicalist explanation (though, fractionally more often, a psychological/sociological one) as part of a claim that someone “didn’t experience something” or that it shouldn’t have a big effect on them. (Stated slightly less convolutedly, it shouldn’t be the case that someone can ever claim someone else “didn’t experience something.”)
+
+If someone had an experience then they had an experience. If someone has an interpretation of an experience then they have an interpretation of an experience. If the experience as such, and its interpretation, are having an ongoing effect or impact, then they are having that ongoing effect or impact. The experience is real. The interpretation is real. It happened, or is happening, and, in some flexible sense, it will always have happened. And one’s interpretation of what’s happening is happening, too, and it will always have happened. (The person of course may freely revise their interpretation ongoingly, and experiential memory is an active process, and so on.) In short, people get to have their experiences. That doesn’t mean you may or may night have an interpretation that “transcends and includes” their interpretation, but people get to have their experiences (and interpretations).
+
+To expand on this, and/or, in any case, fixed explanations and interpretations, physicalist or otherwise, are potentially limiting. (The opposite of “fixed” might be “provisional.”) A person needs the freedom to allow for the possibility of angels, demons, magic, spells, curses, telepathy, gods, anything etc..
+
+That’s part of freely making up one’s own mind, freely coming to one’s own conclusions.
+
+And, this is a practical and theoretical claim—the mind cannot work properly, can’t reach better and better conclusions and plans, if it can’t transiently entertain and even belief just about anything. That’s part of the process. Part of the process of “belief sovereignty” (that also honors, say, interdependence and non-separation) is through transiently having really weird beliefs, sometimes. And, critically, if a person *already* believes something “weird,” then (potentially privately) self-acknowledging that belief is critical for the possibility of moving beyond that belief, whether that possibility is actualized, through further experience or movement of (body)mind.
+
+The mind gets from here to there, to better beliefs, better beings and seemings of the world, sort of by (a) making it safe to traverse possibly partially incorrect or incomplete beliefs, (b) making that immersive traversal, and (c) finally coming to something even better on the other side. This applies not just to angels and demons, or anything, but to the currently underdetermined and patchy space of physicalist explanations, too! In short, the mind must be generally free to play—all of theoretically, practically, and normatively. And, one-on-one interactions and communities need to protect that freedom (this is especially a general, normative claim).
+
+To be sure, not all explanations are equal, but one has to perhaps hold even their very best explanations lightly, even those that are seemingly very elegant, with great explanatory power, seemingly leaving behind no anomalous evidence, so far.
+
+We’re all surely a little wrong, maybe “not even wrong,” in the “what” and especially the “how,” along a vast number of dimensions.
+
+\*
+
+### Manifesto and Information Hazard
+
+All of the above was (somewhat) intentionally written to be a bit meandering, poorly signposted, dense, technical, and stilted, so that most people would stop reading partway through. I want to be careful not to fractionally increase the legitimacy of the *whole* space of spirit, energy, etc., stuff, because I think there’s potentially a lot of unprincipled and problematic things going on, out there. While I think it’s critically important, ethically and epistemically, that people are free to theorize and experiment and play and experience and offer each other help, the bodymindworld is large and there be dragons. Very tersely:
+
+* Some spiritworkers, bodyworkers, etc., try to produce big, flashy effects in people (to make it obvious that they’re happening or to otherwise perform), which is sometimes at the expense of people’s smooth, long-term trajectory.
+
+* Some spiritworkers, bodyworkers, etc., may seem to be extraordinarily, *passively* perceptive, but it’s not necessarily passive perception at all—the practitioners may be doing particularly active “sounding” or “ringing” or “reverberation” in your bodymind system, to evoke reads, accurate or not, and they may not disclose that they’re doing this, or may not be aware of doing it. And this can sometimes cause side effects.
+
+* Some spiritworkers rely on exploiting, increasing, or entrenching “self/other confusions,” in order to produce effects. And, so, those effects can be at the expense of long-term growth, in subtle ways.
+
+I wanted to respect and appreciate all the things people are doing (because I, critically, partially, stand on the shoulders of all of that), while being noncommittal in a way that doesn’t generally legitimize any particular thing. Some practitioners aren’t tracking, or aren’t even a little concerned, about some of the above examples, or much more. And, my worry was that, in reading less dry versions of this, some small number of unsupervised people might be a little emboldened, or further emboldened, to try things and double-down on that trying, in unsafe ways. Of course, I always have to hold open the possibility that I might be missing big things, but the “long-run pattern of surprise” leads me to trust my current epistemic positions, and, in any case, I seek to systematically remedy all possible inadequacies.
+
+\*
+
+With all this talk of methods, practitioners, epistemology, risks, and so on, there’s the possibility of something simple, normal, and human being lost in the noise. Some people have warned against “tool-ification,” i.e. “making something into a tool.”
+
+It’s worth noting that everyone has been swimming in all this stuff, these influences and effects, since their first moments of consciousness: prenatally, postnatally, last week, and so on. It’s the normal background hum of work, play, intimacy, caring, fighting, and so on. Things can be weird, sometimes, but, similar to meditation, there’s a general pattern of normal, to weird, to normal, for “all this stuff,” in general.
+
+\*
+
+### Manifesto and Cultural Exhortation
+
+In this work, I hope to be a part of a culture of rigor and humility, with respect to efficacy and safety.
+
+There’s a way in which one’s “theory of mind,” metaphysics, beliefs, about “mechanism of action,” beliefs about how bodies and minds, and everything else, *work*, have an outsized impact on what happens and how it happens. And this has to be accounted for and meta accounted for.
+
+I hope to be a part of a culture that is phenomenological and concrete, over ontologies, theories, and even heuristics, though all those are integral parts of the puzzle, too. And, even if, in some arguable or narrow sense, it’s “interpretation all the way down.”
+
+I hope to be a part of a culture where practitioners are aware that particular approaches or methods can work, for thousands of hours, until they don’t. It can seem like something is going to “work all the way through,” but it doesn’t. And sometimes when something stops working, it’s a safe and smooth diminishment in returns, and sometimes it’s rocky and even dangerous. So, a radical provisionality and non-overcommitment is needed, at all times. The overall approach must be meta-theoretical, in the sense that it must account for all theories of what’s going on and why, including with respect to itself.
+
+I hope to be a part of a culture that understands that unintentional effects, happening in a person’s blindspots (occluded, “subconscious”) are the *norm*, whether innocuous or harmful. And it’s the norm, normal, in part, because uncovering a blindspot can takes thousands of hours. But, even being normal, or especially given their normalcy–and even given the difficulty of uncovering them, or especially given the difficulty of uncovering them–I hope to be a part of a culture that prioritizes working through those blindspots, systematically, comprehensively, inexorably. And, in the meantime, people rely on each other, with humility and with awareness of the possibility of gaslighting, to point out potential and experienced harms, between practitioners, clients, teachers, and everyone. Normal to have. Normal to discuss. Normal to systematically and ongoingly work through.
+
+I hope to be a part of a culture that refers and partially grounds itself in neuroscience, numeracy, research, research interpretation, biophysics, physiology, and so on. And, at the same time, embraces radical ontological provisionality and nebulosity, and groundlessness, as well as a radical creativity and openness, non-arrogance, interpretative charity, with respect to method and self-transformation, with respect to self and others. Strong opinions, well-founded positions, held flexibly and lightly—even “multischematic, interschematizable.” Even in this limited space, this could be a “show don’t tell,” section, and actually talk about some neuroscience. And/but, too, I want to be a part of a culture that is vigilantly aware of “dual-use” considerations, and participates in research and disclosure responsibly and with patient, systematic discretion.
+
+\*
+
+### Manifesto and Sales Page
+
+Maybe it was pretty expected from the beginning, but I didn’t indicate at the top that this was also explicitly a sales page; I hoped people would read all the way through and not skim just for the sell. In any case, this document is also intended to be an advertisement, sort of positioning itself on the knife-edge between people who are experiencing interesting or problematic “supernatural” phenomena, and/but who are also open (maybe very open, and with relief) to working with someone who seeks scientific and causal mechanistic explanations, grounded in neuroscience, neurophysiology, forces, fields, information theory, a dash of biophysics. That knife-edge is not a lot of people, but you all are definitely out there, and this is the group of people I feel comfortable ethically working with.
+
+Frankly, I have a gazillion things to learn, and a gazillion things I could be so much better at, but there are at least narrow ways in which I have personally mastered this space, over many thousands of hours of personal work, as well as communal experiences.
+
+And, I can possibly help you with curses, spells, geas, ghosts, demons, egregores, possession, subtle body stuff, “individuation epistemics,” etc. This work is complex, incremental, and sometimes very slow. For completeness, you might also cautiously try healer, bodyworker, shamanic, neoshamanic, energy worker, exorcist, “compassionate depossession,” communities and services. For legal reasons, I’ll explicitly say that what I do is not those things, and I would be glad to compare and contrast with various things on a call, to the best of my knowledge.
+
+Spiritwork with body contact, *with* touch, can be higher fidelity and higher bandwidth, and spiritwork *without* touch necessitates higher skill, but it can also be somewhat net safer, and it’s less complicated legally and interpersonally; so, no-touch is the norm, for me.
+
+In closing, if you’ve read this far(!), please schedule a call with me, and I’d be happy to discuss possibilities for your situation. Many things can definitely be done over zoom, and/but, depending on our relative physical locations, sometimes I’ll recommend that you travel to me or that I batch travel to you.
+
+Book here: [...]
+
+### Spiritwork and Meditation
+
+P.S. Spiritwork is more intended for non-meditators and non-long-term meditators, because a long term meditator will eventually cover ALL(!!!!!) the territory of spiritwork, in their own personal practice. Any particular session of spiritwork can only touch “one percent of one percent” [sic] of what meditation can do over, say, ten thousand hours. (Though, for sure, sometimes, that one percent of one percent can have outsize ripple effects.) That being said, in some limited situations, I do offer spiritwork to meditators, and I do sometimes feel comfortable offering some degree of meditation spiritual/lineage/wisdom “transmission,” which is to some degree just chill-ly available/happening all the time. In a bunch of ways, the lines blur, and it’s all the same “stuff.” Please ask me about this, if you are curious/interested. And, in any case, I’d be happy to talk about any of this at length, in other booking contexts and often generally.
+
+Book here: [...]
+
+
+[<a href="#169eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="169d"></span> character, personality, ego, virtue. sovereignty. outside view. cultural, familial good/&#8203;bad reversals (draft):
 
