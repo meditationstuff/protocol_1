@@ -4039,6 +4039,7 @@ Notes:
 * abstracting
 * "permanence-ing"
 * "pre-dismay"
+* [[\~\~particularity or specificity in self-change agenda, goal, ordering, plan, intention (performatively semi-paradoxical in this rendering)]]
 
 Notes:
 
