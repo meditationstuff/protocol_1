@@ -694,6 +694,7 @@ Notes:
 * https://twitter.com/liminal_warmth/status/1498024628953903105 [Last accessed: 2022-02-27]
 * https://twitter.com/CurziRose/status/1481063067475931140 [Last accessed: 2022-02-27]
 * https://uncertainkind.substack.com/p/in-defense-of-will-smiths-punch [Last accessed: 2022-03-29]
+* https://twitter.com/kitsune_temple/status/1517556599065260032 [Last accessed: 2022-04-22]
 
 
 [<a href="#52bh">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
