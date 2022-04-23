@@ -335,6 +335,9 @@ Sometimes individuals publish lightly transformed versions of this document to f
 * <a id="192ch" href="#192c">neuroscience speculative snapshots</a>
 	* <a id="192dh" href="#192d">neuroscience and meditation, odds and ends [2022-02-09]</a>
 	* <a id="192eh" href="#192e">more neuroscience odds and ends 2022-02-10</a>
+	* <a id="192fh" href="#192f">neuroscience, meditation, rationality, folk psychology, and sensorimotor processing</a>
+		* <a id="192gh" href="#192g">crowley, chads, rationality, and the unification of will</a>
+		* <a id="192ih" href="#192i">enlightenment, sensorimotor processing, love</a>
 * <a id="174h" href="#174">teaching and learning and creating and relating (meditation and anything)</a>
 	* <a id="175h" href="#175">teaching</a>
 		* <a id="177h" href="#177">guided on-ramp for main practice p2 [draft]</a>
@@ -11338,6 +11341,353 @@ Summary: people who switch languages may partially lose access to skills and dec
 Me: Meditation, etc., can more fully make available knowledge, capacity, skills that are entangled with prior languages but especially *prior contexts* in general. And meditation can help combine skill, knowledge, etc., from *far removed prior contexts* to facilitate generalization, error correction, etc., all the way up to (in some sense) fully global models that account for all so-far-encountered used-to-be-anomalies. There's a sense though in which even this is just a recontextualization. Like there's no way to escape "knowledge is behavior is entangled with environment and context", but in another sense it's relative by degrees, all the way up to global (which is partially overlaps with luminosity and is basically coextensive with paying off all technical debt. See also Plato's Camera by Paul Churchland. 
 
 [<a href="#192eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="192f"></span> neuroscience, meditation, rationality, folk psychology, and sensorimotor processing:
+
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+[<a href="#192fh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="192g"></span> crowley, chads, rationality, and the unification of will:
+
+[If I wrote this today, I would write it differently; originally at https://meditationstuff.wordpress.com/2020/03/29/crowley-chads-rationality-and-the-unification-of-will-3000-words/ [Last accessed: 2022-04-23]]
+
+I’ve had the mixed fortune of various collaborators and other influences being into Crowley, Aristotle, Kant, etc. There are of course interesting connections because of historical causal links and also they’re all gesturing at reality and various aspects of it.
+
+Crowley talks about the true will. Aristotle talks about the relationship between goods and the highest good. Kant talks about the good will and the highest good.
+
+The felt reality of all this can be cooler and more direct–preconceptual, aconceptual, maybe “transconceptual” is better.
+
+But “will” and “goodness,” etc., are extremely useful concepts.
+
+We need to finally add the concept of wu wei: “‘inexertion’, ‘inaction’, […] ‘effortless action’, ‘no action'”. (I would add “no will,” etc.)
+
+### concepts and contradictions
+
+The above concepts are sort of involved in “agency.” I want to bring in “mechanism” as a foil, in the next section or two, and then we’re mostly not going to talk about mechanism explicitly, farther below.
+
+There’s neat duals between mechanism and agency. Check out the table below.
+
+When you poke too hard at “cause,” things get weird. Was there a first cause? (Yes, yes, physics and big bangs and singularities. But.)
+
+When you poke too hard at “agency,” things get weird. What is a flesh and blood anthropomorphic or teleological agent *really* doing it all for? (Yes, yes, homeostasis and entropic dissipators and evolution. But.)
+
+So, yeah, if you go “full reason” and you have causes, you maybe need a first cause.
+
+If you go, full means/ends or purposes, you maybe need a final end or a highest good.
+
+Two-column table [maybe only renders correctly in github-flavored markdown]:
+
+| mechanism | agency [telos] |
+| --- | --- |
+| cause/effect | means/end |
+| Y is by X; Y is because of X; Y is from X; X causes Y; X causes Y, conditional on Z | X is for Y; X is for the purpose of Y; X is good for Y; X is good, for me, for Y; X is good, for me, right now, for Y; X is good because Y |
+| first cause (sempiternally or eternally) | final end; highest good |
+
+Kant writes in his most famous stuff about contradictions or antimonies that reason can’t resolve. In his unfinished last writings, he gets stuck on the relationship between mechanism/cause and life/agency.
+
+Rhetorically, maybe we just need better concepts (not to presuppose there’s any agreement or tidy basis for what a “concept” is). Physics, dynamical systems theory, neurophysiology, and Karl Friston will continue to plug away at this, hopefully with input from philosophy (not to presuppose there’s any agreement or tidy basis for what “philosophy” is).
+
+One might think these weird reasoning edge cases are just for philosophers.
+
+But, for people who are, say, working on becoming reasonable, consistent, good, happy, something, one actually implicitly or explicitly starts running into genuine philosophical issues pretty quickly. [Not to implicitly presuppose that “working on” these things is a good way to think about all of this.]
+
+Maybe we want to live an examined life, or a consistent life, or a meaningful life.
+
+And some people maybe sort of glide on through, aren’t tortured or are at least merely vaguely, implicitly stuck on this stuff. But, some people are tortured or at least super blah, like if they’re really getting snarled in their life and plans. And so they really try to sit down and work it out. But, again, reason itself can seemingly run into all sorts of weird issues.
+
+So, what to do?
+
+We’d sort of really, truly like our beliefs/plans/behavior to stand up to any rational analysis (modulo “rationality” in quotes, selective truthing and isolated demands for rigor, being wielded as “power over”). We want to be able to say (intertemporally) consistent things to friends, lovers, collaborators–maybe a few sentences, maybe tens of thousands of words over many years, as one (of many) mechanism(s) for coordinating with other people, intimately or group-scale or large-scale.
+
+### fragmentation
+
+Anyway, but, so back to the will! People are pretty fragmented, for better and worse! We’re different things in different contexts, different things for different people. Even when we’re alone we’re pulled between A and B and C and D, and, in the next moment, between W and Q and R and S.
+
+How do we be or become self-reliable? How can we count on our future selves? How can we count on our past(!) selves!?! How do we be reliable for other people? How do we stably or responsively or aspirationally have life traction, cumulativity, build and build?
+
+Are we stuck with this the usual thing? Are we stuck with our brains using hyperbolic discounting, or some kind of scheduling algorithm, or circadian clocks, or behavioral conditioning, or reinforcement learning kludge hieararchies, or whatever? That we can’t escape? Once executive and attentional dysfunction, always executive and attentional dysfunction (normal, subclinical, clinical)?
+
+Maybe some people get lucky, their weirdness or brokenness or obsession or contingent life tradeoffs perfectly fit some environmental situation, and then you get people, who are super distracted or super rigid, nevertheless becoming captains of industry or scientific geniuses or great leaders, sometimes beautiful through and through, usually with terrible character flaws or with terrible trade offs or skeletons in the closet. And most people are mediocre or “promising but fail to launch” (not to mention trapped in poverty) as it were.
+
+So are we stuck with this? (I don’t think so, though it might be project of thousands of hours, and sometimes a risky one, yadda yadda, for long-time readers of this blog.)
+
+I want to note some equivocation here, too. Sometimes we experience what might be called a conflict of the ego, like the “I” wants two different things or wants to want or wants to not want something. Sometimes the conflict may seem to be within the “me,” conflicts between impulses or urges. And sometimes the conflict may be between the “I” and the “me,” or even I and not-I, me and not-me. In any case, there’s theoretical and and phenomenological and neurological richness, that I don’t want to gloss over, but is beyond the scope of this post.
+
+### unification
+
+There are straw “natural” ways or straw “rational” way to sort of explore (and maybe influence) the will system or the goal system or the action system, and so on. (And/but, remember those apparent deep contradictions in the use of reason, above.)
+
+One will likely have encountered variants of goal hierarchies or goal (re)factoring, because hierarchies are super useful and/or you’ve seen them from self-improvement fad cycles.
+
+Anyway, it’s possible to write down “goals,” to explore how some goals partially depend on other goals. And one can play with wording until it maybe feels resonant, and stable enough, and maybe one can find strategic wins, where proximal goals can be “multifinal,” can achieve multiple more distal goals all at once. (One can have “containment hierarchies” where a goal can be “instantaneously decomposed,” its attributes rendered more and more analytically clear, while preserving a shorter, higher level description that still refers to the goal. And one can have “temporal flows” that articulate the ordering of milestones or temporal dependencies or specify elements of a “temporally structured goal as such.”)
+
+Goals have sort of a temporal or temporally ordered flavor. One can also do something similar with “goods,” can make a “goodness hierarchy,” which can have both imminent [sic] and transcendent flavors.
+
+One could imagine that if they keep refactoring, they might go from something with tangles and inelegance, even hidden cycles, to a tidy, directed, acyclic graph, and one that’s easy to refactor as you learn, experiment, get surprised, and grow:
+
+[Image: https://meditationstuff.files.wordpress.com/2020/03/gghier.jpg?w=1124 Two directed, acyclic graphs, one labeled "Goals" and the other labeled "Goodness". Each starts out with an inchoate scribbly blob at the root. Then there's an arrow labeled "refactor". Then there's sort of a new root. For the "Goals" DAG it says "ultimate goal". For the "Goodness" DAG it says "highest good." Then under each of these is sort of a "pyramid" made out of bubbles and arrows. Some bubbles have more bubbles inside of them. The arrows are pointing towards the root. For the "Goals" DAG the arrows are labeled "enables". For the "Goodness" DAG the arrows are labeled "is good for; is good because." There is a two-way arrow between the two pyramids that is labeled "complex relationship." In a separate section it says "Behavior is dependent on goals and goodness (homeostasis and hormones and physics...". There are columns, each labeled "context", and under the contexts each entry is titled "Action." [cf. David Allen's getting things done.]]
+
+And then one can harmonize these with a plan, with action sequences or context/action lists, a la David Allen’s Getting Things Done, and so on.
+
+I wrote a really long post that explores additional considerations and sort of pushes all this to the limit. It’s worth reading, even if I’m going to attack all of this in the next section:
+
+https://meditationstuff.wordpress.com/2014/09/29/what-rationality-actually-looks-like-from-the-inside-4500-words/
+
+One might even try to do a similar refactoring of their “beliefs,” a tidy, directed acyclic graph from evidence to conclusions, at least for “parts” of their mind.
+
+There’s a lot of value, in all this, there is, though it might be more oblique than one might expect. Playing around with it can be very, very instructive. But it’s sort of cart before horse, in a lot of ways. Explicit reasonableness is downstream of finer-grain “implicit reasonableness” or “embodied reasonableness,” as we’ll see. (Some people will be like, “duh,” and some people will be encountering this for the first time.)
+
+In any case, pretending we’re really going hard at the explicit thing, it can get really tangly. One can get bogged down in sort of subverbal tangles, ontological stickiness, limitations of local decomposition. Refactoring becomes a combinatorial explosion, a complex combinatorial optimization problem. And, it can often stay really intellectual, not touch something “deep,” something “real(?).”? Really digging into an exercise like this can sometimes be worse than doing nothing at all.
+
+People might be lured to goal-refactoring and belief-refactoring, and so on, because it may seem to promise clarity, consistency, power, agency, something. Maybe it will give one an edge over people who don’t do things like this.
+
+Of course, of course there’s something very good about focusing, introspection, felt senses, and so on. Go play with those things! They’re just adjacent to meditation, they can complement meditation. And the precision (and play) of words and symbols and diagrams do change people–journaling and therapy and talking to friends and story writing. And articulation and explicitness, either spoken or writing things down, is extremely useful for intimate and large-scale synergy and coordination. Use everything.
+
+And/but, thought experiment, really grinding away, for hours and hours, trying to fit the mind and behavior into tidy boxes, with clear concepts and well-defined semantics for the arrows, and… Again, it’s instructive to explore doing this. And todo lists and simple goal touchstones can be a lifeline, to be sure, and more (and more) structure can be essential for teams or operations at scale, of course.
+
+But, again in the small, almost everyone has “conceptual errors” in the relationship between words, formalism, etc., and feelings, behavior, meaning, future, phenomenology, etc.
+
+And, so, when people “self-improve,” they do so under contingent misconceptualizations, and so most self-improvement also has a degree of error-propagation. And any technique that is not both globally comprehensive and error-correcting (and meta-error-correcting) will start to have errors start to crowd out gains, if pushed too far. And that looks like “akrasia,” muscle tension, etc.
+
+The mind is vast (though finite) and it operates at a behavioral and inferential grain that is far finer (and faster) than words and boxes (of course). The mind uses powerful abstractions, too, to be sure, for acting, planning, and communicating. But, one might say that explicit abstractions are “leaky” and one might say that the “real” abstractions, that the mind is using under the hood, that are a lot harder to correlate with words, are sort of not leaky, in some sense.
+
+Very, very, very loosely, what people are looking for, stated concisely, when they’re self improving, with “rational” boxes and arrows (or dance or breathwork), could be (and has been) abstractly described as something like, say,
+
+* global intertemporal self-consistency and/or
+* contention-free sensorimotor planning.
+
+Two-column table [maybe only renders correctly in github-flavored markdown]:
+
+| mind | body |
+| --- | --- |
+| akrasia | muscle tension |
+| intertemporal self-consistency (contradiction-free) | contention-free sensorimotor planning |
+
+We’ve sort of been talking abstractly about goals, plans, todos or actions, beliefs…
+
+### the chads
+
+But, both jokingly and bitterly (and problematically), there are the Chads. (Orders of magnitude more problematically, there are the Stacys(?), I think?)
+
+What of effortless confidence, naturalness, smooth action, decisiveness, spontaneity, physical grace, felt time abundance, eloquence, stability, character, virtue, sexiness, reliability, trustworthiness, joy…
+
+We see flashes of something extraordinary. Sometimes these things are so achingly beautiful, so achingly desirable we have to run screaming, because the desiring and not-having might destroy us. Sometimes that desirable thing is an illusion or a misunderstanding, but that doesn’t mean we don’t want it, until we resolve the confusion or find something even really, truly better.
+
+For all their partiality, we see flashes of things we want in actors and other celebrities, in the football players, cheerleaders, and CEOs.
+
+More examples:
+
+Mr. Rogers was just the same guy whether talking to kids or addressing governmental apparatus. Maybe that’s a little weird, but that’s an envious simplicity on the far side of complexity. I don’t know, Elon Musk is very problematic, but new, concrete physical things keep getting created in proximity to him (and in earth orbit) all the time.
+
+There are people who step up in an acute or chronic crises, and relatively costlessly, because they are not burdened by life; they have flexibility and slack.
+
+This one is problematic, but “people who should be ugly but instead it makes them even more attractive.” (Good skin care or makeup but also something else…)
+
+There are people who competently keep their word (or good-faith, proactively renegotiate, etc., etc.), and you can ask for that promise, collaboratively negotiate that two-sided promise, because you know it won’t hurt them to keep it.
+
+Orators and dancers.
+
+On the fictional side, I don’t know, Captain/Admiral Picard’s idealism, clarity, eloquence, and compassion, even if embedded in plot armor. The DC-cinematic-universe Wonder Woman’s unhesitating, spontaneous, naturalized, radiant compassion. Astonishing, tiny moments in a host of indie movies and limited tv series. Any character who says or does just the right thing, is unhesitatingly already in motion, of and out of a natural response to circumstances, instantaneously already beginning to unfold, because that’s what they anticipatorily already are, deep-down to the very bottom.
+
+See also:
+
+* https://autisticmercury.com/2020/02/19/vorhandenheit-und-zuhandenheit/
+* https://rivalvoices.substack.com/p/i-am-now-famous-published-author
+
+What I’ve sort of been doing, above, is sketching out a “high modernist” straw self-transformation method, then maybe specifying the limitations of that in terms of how it fails to produce a “finer grain” thing. And then I’m listing all these examples that allude to that finer grain thing.
+
+Do they seem to maybe not all be of the same type?
+
+Is there a relationship between, for example, physical grace and being a captain of industry?
+
+One might initially think there are tradeoffs, between chad-ness and certain kinds of success (even though there are probably [slightly more rare] “financially successful chad” memes). And maybe there might initially seem like a tradeoff between defensible analytical rigor and chad-ness. But, maybe upon further reflection, there’s no reason why this can’t be all in the same person, no?
+
+(More examples of seeming tradeoffs: The brilliant scientist or artist is destroying their body and their relationships in order to create or discover. That person who can build empires, but it’s on top of skeletons. I can be respected but I can’t be beautiful. I can be desired for my body but not for my mind. I can have grand long-term plans but I can’t put time into physical grace.)
+
+And, again, we can find people seemingly exemplifying these tradeoffs, everywhere we look. It’s really hard to find people who are excelling on all the dimensions we imagine (or it hurts too much to look). Or the only examples are fictional and misleading.
+
+\*\*\*
+
+Ok, this is a rather shaky jump, but I want to make the point that, phenomenologically, world, future, and body are happening contiguously. Even the past, in some sense, as it were, is happening contiguously. It’s all happening, or being experienced, or being represented in the same experiential field, without boundary, as a whole, as a unity.
+
+I’ll just say that this is suggestive of untapped synergy, untapped elegance. For someone who has grand plans (or intimate plans, or both) that are actually working, actually coming to fruition, that’s not just a property of the mind (of “beliefs” and “plans”); it’s concretely instantiated in their physical activity, while moving through the world, in speech, nonverbal behavior, and action (and even while asleep, if their sleep is particularly harmonious, restful, and restorative).
+
+Diachronic is synchronic. The effects of the past and the potentiality of the future live in the present. And, one can make peace with their past and future, can be gentle and receptive with their past-that’s-not-even-past, can be responsive and aspirational with their future, in the present.
+
+Anyway, so how to realize that possible synergy, that possible elegance?
+
+Well, transformative practices that engage the body and mind as the unity they actually are, etc., etc.
+
+### offloading/harmony
+
+So, let’s get back to “the will,” which can be more and more unified, say, in a chad-flavored, non-straw-rationality way (and the difference between 100 hours in and a few thousand hours in can be astonishing).
+
+And/but, “the will,” is still sort of temporally linear, even if contextually multi-threading.
+
+And the body has this vast parallelism.
+
+The will keeps us safe, as best it can, sort of mediating between conflicts in that vast parallelism of the body, which one might find is the basis of conflicts in belief and plans, the basis of intertemporal inconsistency.
+
+Perhaps low-level sensorimotor planning contention is (in some mediate or even immediate sense of “is”) intertemporal inconsistency. The sensorimotor loop, even with sometimes “delay” between stimulus and response, is intertemporal inconsistency, or lack thereof. The body is always acting. The body is always perceiving. In some sense there is never a gap between stimulus and response. There might be anticipation, though.
+
+Anyway, as those conflicts become less and less, the will sort of relaxes over time. Vast parallelism of body, of considerations, of possible futures, becomes beautiful speech, beautiful movement, physical grace on the outside, time abundance on the inside.
+
+The body or the mind is sort of this massively parallel fountain or jet of water or air. And you know how you can get a ball to sort of stick in that? Like a ping-pong ball in the jet of a hairdryer? [1, 2] When the will is coalesced or apparent it sort of dances on or coheres or or rides on or facilitates that parallelism, that expressed action, as a unity or a whole.
+
+It’s kind of crazy that one can be wanting sex, beauty, world peace, salt, protein, consciously or unconsciously, as it were, at the same time, and in any case delicately boop a friend on the nose with a single finger, advocate for something in a telegram chat an hour later, and then maybe sprint across a field an hour after that.
+
+Behavior is both consistently multifinal and coherently linearized, when everything is working right.
+
+And this can feel (time) abundant, spontaneous, effortless, natural, from the inside.
+
+But we must engage the right methods that, somewhat literally and somewhat metaphorically, operate at the proper grain and depth.
+
+And then, with nonmonotonicities, periods of jumbliness, confusion, inarticulateness, demotivation…
+
+…we might find our physical grace, the stability of our plans, the eloquence of our speech, the stability of our plans, the defensibility or our reasoning, the attentiveness of our intimacy, the strength and reliability of our promises…
+
+…all inching up, improving, little by little, again nonmonotonically along all sorts of dimensions, but nevertheless inexorably and all at once.
+
+\*\*\*
+
+https://github.com/meditationstuff/protocol_1
+
+\*\*\*
+
+P.S. Forgot to add this, should probably expand on at some point: (One doesn’t get to exactly choose what one’s “future unified will” will look like but you do get to be absolutely 100% ok with every infinitesimal thing that happens along the way.)
+
+\*\*\*
+
+P.P.S. Update: I sort of tossed in wu wei at the very beginning, for oblique completeness, even though there’s a good distinction between “will” and “action,” and wu wei falls more in the action bucket. (Action would be another post entirely.) A reader notes that “De” would have been a better thing to toss in from Daoism, correlating the various conceptions of “will” in different systems. I don’t have enough experience with Daoism to feel comfortable making an edit above, but I wanted to note this somewhere!
+
+
+[<a href="#192gh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="192i"></span> enlightenment, sensorimotor processing, love:
+
+[If I wrote this today, I would write it differently; originally at https://meditationstuff.wordpress.com/2020/02/24/enlightenment-sensorimotor-processing-love/ [Last accessed: 2022-04-23]]
+
+[gif: https://i.pinimg.com/originals/35/59/b6/3559b6576c1d97ce7761be610b860e1b.gif Repeating, moving image from the movie *Moulin Rouge!* a 2001 film. Christian (Ewan McGregor) is singing or saying to Satine (Nicole Kidman) "Love is like oxygen. Love is a many splendored thing. Love lifts us up where we belong. All you need is love." (I think these are the actual lyrics or dialogue?)]
+
+Alright, let’s connect up a bunch of stuff:
+
+So, I really like this simple model of a human system:
+
+* sensing
+* representing
+* doing
+
+And, in time, this looks something like the below:
+
+[…] → sensing → representing → doing → sensing → representing → doing → […]
+
+So, one takes stuff in from the world, one does some processing on it, some changes to the world model, planning, goals occur, and system physically does something, sensing occurs, there’s some prediction error, repeat.
+
+(By the way, sensing, representing, and doing map onto the three transcendentals. The good, the true, and the beautiful. Not an accident. Sensing = beauty, representing = truth, doing = goodness. An ideal or goal is to sense/experience/feel beauty, represent/know/believe truth, do/exemplify good.)
+
+Something like that.
+
+The human system is a sensorimotor system.
+
+“Representing” above has maybe too static of a connotation. The thing in the middle is signal processing, sensory processing, signal and sensory transduction. The system is stateful, in a state at any particular time, to be sure. But, depending on what flavor of neuroscience you currently subscribe to, that state is, in some sense, reconstituted in each moment, reconstituted continuously (even accounting for physical protein synthesis, synaptic weights, dendritic and axonic connections, and the physical “locations” of atomic and subatomic particles (and forces and fields)).
+
+The whole thing is “flowing” all the time. It’s a process, with whorls and eddies and feedback looks and strange loops and strange attractors and twists and coiling and uncoiling, etc.
+
+The state of all of that, or, rather, the pattern of all of that, that river of which you can’t step into the same one twice, that’s what it feels like to be you. The feeling of that from the inside is consciousness. Now, of course, there’s lots we aren’t conscious of, and consciousness is a weird, narrow, evolutionarily contingent, low-dimensional projection of somethingsomething. But, no, consciousness is basically that flowing pattern from the inside, or at least a dynamic viewport. When consciousness feels like maybe a static, distant, far-removed thing, that’s more because of the epicycles and epicycles and stacks of virtual machines and reifications that people build up over time, because things are happening too quickly, too intensely, too confusingly. [See technical debt and layer theory.]
+
+In terms of input and output, there’s a lot of things going on in parallel. The world is a blooming, buzzing confusion and one has all these pulsing glands and organs, and twitchy smooth muscle and skeletal muscle.
+
+Despite all that blooming and buzzing and twitching, the system acts really coherently, relatively speaking. People might make poor choices in the large, but people walk and talk and move, in some sense, VERY COHERENTLY. The output of the system is relatively serialized, contiguous, smooth, flowing, and (I think some telos and anthropomorphism is appropriate, here, to balance causal mechanism) planful and goalful.
+
+### Representation
+
+A related, more human-ish word for representation is “belief.” It’s a decent word, a decent concept. There’s something there. Belief is problematic in a lot of ways, too, though. People express their beliefs, but sometimes it’s just talk? People convince themselves that they believe things, but sometimes it’s self-deception? And sometimes, whatever people say or do in some moment, in some sense their “real” beliefs are revealed by how they actually act in mundane or challenging situations, with stakes and teeth? Sometimes these are referred to as discourse models, self models, and action models. (A “model” being a collection of beliefs, as it were.)
+
+How is “belief” instantiated, anyway? What’s like the real thing, in some sense? Savvy self help and contemporary neuroscience sometimes like to talk about “expectations” instead of beliefs (not to mention free energy minimization and bayesian brains).
+
+I like the word “anticipations.” We inhale before we speak. Be brace ourselves before picking up a heavy object, we shift our weight before stepping or dancing. Muscle length and tension is an ever-shifting, not just reactive but also anticipatory constellation. We’re doing this physical dance all the time. I hazard that what that feels like from the inside is “belief.” When we hear about something that happened on the other side of the world, or we read something in a history book, whether we’re sitting in a chair, or whatever, our hormonal and musculoskeletal system changes its stance, its configuration just a little bit. Our physical anticipation about what’s going to happen next, our readiness, changes just a little bit, fractionally. And, further, our sense of all of that is part of our sensory input into the next moment. I want to say something like stateful-yet-dynamic anticipation, is a critical piece of reconstituting belief in each moment, in some relevant sense is belief.
+
+### Doing
+
+Ok, so “doing” or action is in some ways pretty straightforward, at least locally. One picks up a cup, kicks the ball, says “thank you.” (I’ll talk about plans and goals, as opposed to local actions, in a moment.)
+
+So, if the idea of “doing,” is relatively clear and straightforward, we can look at what goes wrong. If the thing when it works is coherent, and serialized (even when doing sort of multiple things simultaneously in parallel), and contiguous and flowing (doing in one moment seamlessly flows into the next, tai-chi style), then what’s the thing when it doesn’t work?
+
+Let’s call it “incoherence,” when parts of the motor system aren’t acting together. And let’s call it “contention,” when parts of the motor system are acting *against* each other. Let’s extend the time horizon a little bit from just local doing. If we extend the time horizon a bit, we can mention things like hesitation and perseveration. Bringing it back more locally, or connecting local muscle activity to plans and goals, we can straight-up talk about muscle tension:
+
+***Muscle tension is immediate/instantaneous/local contention in motor output due to mediate contradiction in sensorimotor planning.***
+
+There’s a way to connect picking up cups or getting food from the refrigerator to long-term plans. There’s some sense in which picking up cups and getting food from the refrigerator *is* the encoding of one’s long-term plans. The brain is router of present sensory experience, and that routing, those tubes take in, sense, the external world including one’s concrete muscular anticipations and ongoing actions, and use that for muscle output in the next moment. And, muscle output in the next moment is “planned” to be sensory input in the moment after that. There’s a way that the system is using its very output (in addition to exploiting its current state) to preserve its future state(s) (including plans and goals with respect to those future states.) Diachronic is always synchronic; the future is always encoded by the present.
+
+Further, what’s going through the tubes/routing sculpts those tubes and routing. And if a system get a better and better “bare-metal” model of how its present-moment behavior conditions next-moment behavior as well as how present-moment behavior sculpts those tubes and routing, well, that’s more and more effective self-modification, from learning, to having better goals and plans, to enlightenment, etc.
+
+Further, there’s this idea that movement is causally upstream of thought? That somewhere, our neck or tongue or eyebrows, or the movement of our neck muscles, affects thinking of even is thinking?
+
+All of this gets closer to a non-annoying or non-frustrating use of the word “embodiment.”
+
+Further related to all this, once one starts working through all those epicycles and virtual machines, belief, whether it feels “mind-y” or “muscular,” one can start playing around with contradiction in a very felt/conscious/bare-metal sort of way, perhaps in a logical/propositional sense, or in a very muscle-y and anticipatory sense, cf Descartes. I’m not saying (really) that that’s the best way to use one’s mind. But there are connections, there, between muscle contention and contradiction in belief/”belief” (or irrealis/counterfactual thought experiments or propositional, logical, theoretical, scientific models).
+
+### Sensing
+
+Ok, so back to that blooming, buzzing confusion. Experience can hurt us! That’s weird. We don’t like to think about that. But, bullies, accidents, health scares, scary movies, looking at a low balance in our bank accounts, someone saying the wrong things to us–experiences like that can fuck us up.
+
+We want to be strong. Sensitive to the world but also in some sense unmoved by the world. Complicated.
+
+Sensing, of course, is intimately tied to doing. And doing is tied to representation. One can think about different self-modification paradigms or techniques based on where the intervention is.
+
+Exposure therapy works on changes through sensing. But there can be subtle teeth-gritting, white-knuckling, avoidance. Things like cognitive behavioral therapy work on representations. I’m just poking at some of the things that licensed mental health professionals tend to reach for. And then of course there’s focusing, IFS, coherence therapy, energy work, reiki, art therapy, sound therapy, meditation, etc.
+
+Anyway, regarding what can go wrong or at least suboptimally, in the representation section we talked about epicycles, virtual machines, eddies, whorls, coils–in the tubes! And we can add to that representational/belief contradiction. And we can say that this produces contention in the muscles (and glands?!) all the way up to through planning and goals. (Or we can say planning and goals are in some sense encoded in the tubes and routing as well as in the muscles.)
+
+The present physical state and process of the system are also its plans and goals. Ah, and the environment!
+
+The state, process, and physical environment of the system are also its plans and goals.
+
+Herbert Simon (he coined the term “bounded rationality” and did many, very important things) gives an example of an ant: Put an ant on a very complex surface, like a rug, and the movements of its legs become very complicated while remaining coherent. The complexity of the behavior is due to both the ant and the environment.
+
+That’s cool, in that, it does hint that a lot of what a person is doing can be offloaded to the environment.
+
+But, don’t we also want to transcend our environments? We are so vulnerable to them. Spending time with family or getting fired from a job or all sorts of things–those are “just” sensory experiences, but they can really, really, really, really mess us up. From babies to now, we are heavily constituted by our experiences, causally determined by them. We are who are were because of a bit of genetics and then 99% parenting and junior high and high school friends. And youtube and amazon. Our hopes and dreams are heartfelt and also sculpted by disney movies (and church, synagogue, mosque…).
+
+In any case, we learn to protect our hopes and dreams, by avoiding situations, by subtle muscle tension, by action in situations (by distracting other people, etc.) Of course, we also accidentally avoid situations where we could learn and grow, realize things aren’t as sad or cruel as we thought, realize that we could have bigger, more beautiful, more quiet, more intimate, more anything goals. And sometimes things are so tangled up that we can’t take advantage of fortuitous local evidence, can’t see it even though it’s right in front of us. Tragic.
+
+Anyway, so we’d like a balance. In some ways we want to be sensorily and environmentally independent or transcendent, to have stable and coherent goals and plans. And in some ways we want to be sensitive, open, to being wrong, to new experiences, to being surprised, to being able to prepare for possible bad things and beautiful and exciting and surprises.
+
+Weirdly, this state of immanence and transcendence; openness and vulnerability yet strong and resilient; sensitivity and irritability (in the technical sense) without overreaction, impulsivity, or clamping down or armoring or avoiding; non-avoidance without force; staring at the sun without muscle tension or getting burned–
+
+this seems to be the state of love.
+
+Rather, love seems to be the answer.
+
+One could boil it down as:
+
+* Enlightenment = 
+	* Input:
+		* everything, anything
+	* Output:
+		* love, gentle love, patient love, caring love, accepting love, parental love, romantic love, sexy love, compassionate love, love with teeth, love with claws, love with fists, love without againstness, love without opposition, love without opposite, love without remainder
+
+There’s something here that seems stable, settled, certain, able to metabolize anything without being disrupted or stained or corrupted. Incorruptible. Pure. Yet, it is sensitive, responsive, creative, awake, sentient, sapient; not stagnant, not ossified, it learns, it grows, it spontaneously and proactively seeks and acts.
+
+The answer to all the questions, all the seeking, all the contradictions, may just be
+
+love.
+
+‾\\\_(ツ)\_/‾ [originally there was just one shrug; i'm doing two so that at least one of them will render correctly]
+
+```‾\_(ツ)_/‾```
+
+
+\*\*\*
+
+https://github.com/meditationstuff/protocol_1
+
+[<a href="#192ih">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="174"></span> teaching and learning and creating and relating (meditation and anything):
 
