@@ -217,6 +217,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 			* <a id="120h" href="#120">formulation 5</a>
 			* <a id="121h" href="#121">formulation 6</a>
 			* <a id="121ah" href="#121a">emotions(tm) and feelings(tm) in interpersonal processing vs meditation (alpha draft)</a>
+			* <a id="121bh" href="#121b">social honor(?) versus eternal soul theory of mind/identity (stub)</a>
 * <a id="122h" href="#122">lists and more</a>
 	* <a id="123h" href="#123">nonmonotonicity</a>
 	* <a id="124h" href="#124">definitions</a>
@@ -4950,6 +4951,21 @@ And the latter is maybe much more useful and high bandwidth and productive than 
 So---systematically reaching for feelings[(tm)]/emotions[(tm)] [, and hopes/wishes---outside the scope of this thread,] in concert w a few different ppl (for whom I'm grateful for in prompting me thinking abt this) has been vry interesting so far. 23/23
 
 [<a href="#121ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="121b"></span> social honor(?) versus eternal soul theory of mind/identity (stub):
+
+This section is a stub.
+
+Notes:
+
+"The eternal soul theory of mind/identity holds a lot of trauma in place"
+
+A few of these sections are sort of "less clear" in some ways than the main practices. Those are sort of "noncanonical" in some sense. I’m not sure how to slice and dice all this yet
+
+[<a href="#121bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="122"></span> lists and more:
 
