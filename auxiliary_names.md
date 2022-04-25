@@ -909,6 +909,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="897auxiliary_names" href="#897auxiliary">(positive) counterfactual historical tree</a>
 * <a id="898auxiliary_names" href="#898auxiliary">abandon (all) hope</a>
 * <a id="899auxiliary_names" href="#899auxiliary">effortlessly, costlessly, always-already aware</a>
+* <a id="900auxiliary_names" href="#900auxiliary">passive meditation</a>
 
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

@@ -7531,4 +7531,12 @@ Let/&#8203;allow yourself to be(come) effortlessly, costlessly, always-already a
 [<a href="#899auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="900auxiliary"></span> passive meditation:
+
+Thus; Meditate passively; Just let it happen.
+
+[<a href="#900auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
