@@ -7538,5 +7538,34 @@ Thus; Meditate passively; Just let it happen.
 [<a href="#900auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="901auxiliary"></span> demonstrate it:
+
+Visibly and audibly act out, demonstrate, model the thing you need or would need from someone else.
+
+[<a href="#901auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="902auxiliary"></span> where:
+
+Ask, where? Where is it? Where is this? Where am I experiencing this? Wheere in awareness is this? Where is my attention? Where would my attention be if I could attend to or be aware of this? Where can I find this? Where is this been all along?
+
+comment:
+
+I was cautious about adding this because these sorts of questions can problematically reify directionality and "space itself". But many people do find locational/&#8203;spatial prompts very useful, and for many people they'll be very helpful for redo-to-undo prompting (which can happen without such prompting too).
+
+[<a href="#902auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="903auxiliary"></span> when / temporally "catch" it:
+
+Ask, when is it? Try to anticipate it and catch it in the act. Try to do that minimally, without any "pre actions," see if you can smoothly, spontaneously rise to meet it (with minimal attention or awareness) exactly as it happens, luminously, without armature or artifice.
+
+comment:
+
+And again and again, in same. This will eventually come from some place spontaneous, automatic, done-for-you, more riding a bike than planning the rocks you'll step on to cross a stream, and/&#8203;but the bike is more like a laser pointer flicking around but also the laser pointer spot is liquid and continuous with everything, or something. This may never be particularly salient and may feel like something different to you or like nothing at all. Potentially misleading.
+
+
+[<a href="#903auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

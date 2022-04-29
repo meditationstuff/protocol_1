@@ -910,6 +910,9 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="898auxiliary_names" href="#898auxiliary">abandon (all) hope</a>
 * <a id="899auxiliary_names" href="#899auxiliary">effortlessly, costlessly, always-already aware</a>
 * <a id="900auxiliary_names" href="#900auxiliary">passive meditation</a>
+* <a id="901auxiliary_names" href="#901auxiliary">demonstrate it</a>
+* <a id="902auxiliary_names" href="#902auxiliary">where</a>
+* <a id="903auxiliary_names" href="#903auxiliary">when / temporally "catch" it</a>
 
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

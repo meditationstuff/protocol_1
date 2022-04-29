@@ -4377,6 +4377,7 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. If you weren’t allowed to (chose not to) think-think [sic] (temporarily), how would solve it/X/something? (How might the whole thing do it for you? [or in participation with you?])
 1. What are you creation myths, your first causes, your eternal causes, your axis mundi's, your fiat lux's, your Adams and Eves and snakes and fruits and trees?
 1. Are you becoming more yourself or are you becoming less yourself?
+1. What are you doing almost continuously all the time?
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
