@@ -2992,6 +2992,23 @@ So/but, anyway, here, in this practice system, we're sort of coming at this blur
 
 Importantly, doing any of the practices is X% finding new things to do and/but Y% finding ways you're already doing these things, and, of course, eventually it's X+Y% the practice doing you, or finding yourself naturally slipping into the practices, or participating in the practices, or participating in life and the practices, all at once, and/or simply, eventually, perhaps thousands and thousands of hours in, there's just life, just this.
 
+\*
+
+Addendum / update:
+
+There's some nuance here. This will be a partial restatement of the above with maybe a tiny bit more.
+
+I do think it's especially ok and good to take "stolen moments," "quiet moments," to collect oneself amidst relatively continuous activity.
+
+If one is sort of adding or mixing meditation into things, then that's maybe potentially problematic. The reasoning-ish is that the eventual goal is to sort of be "lost in life with no remainder," anyway, and adding or mixing meditation is sort of the opposite of that, unless locally strategic somehow.
+
+But, but, but, redo-to-undo, sometimes, can be greatly facilitated by contextual cues or triggers. In some sense, there is no other time to "meditate" except "in life," whether in a quiet room or amidst activity. (And in another sense, a quiet room with minimal likelihood of interruption is very facilitative, too! This is especially the case when in-life contextual cues or triggers for things are hard to come by or "the real thing" is too intense, demanding, continuous to safely admit anything but doing that thing. In those cases retrospective and prospective engagement can be better, or altering the context or intensity of the thing if at all possible.)
+
+And, but, in any case, if meditation-y things *naturally* come up in the midst of other activities, that can be great! In any case, if you (simply) find yourself doing meditation-y things in context, if what's happening feels natural, relatively costless, etc., then that's probably or often fine and good! 
+
+Anyway, some nuance, and qualifying here^.
+
+[Thanks to a collaborator who helped prompte teasing out these distinctions a bit more.]
 
 [<a href="#84h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
