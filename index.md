@@ -249,6 +249,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="143h" href="#143">states</a>
 	* <a id="144h" href="#144">invitation of acceptance</a>
 	* <a id="145h" href="#145">nutrition</a>
+	* <a id="145ah" href="#145a">theory-driven intuitive/&#8203;interoceptive nutrition and eating</a>
 	* <a id="146h" href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
 	* <a id="147h" href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
 	* <a id="147a0h" href="#147a0">clarification on muscle contraction and stretching versus chronic muscle tension</a>
@@ -5883,6 +5884,60 @@ If you’re eating fewer, larger meals, be careful with your kidney’s and live
 Consider a multivitamin in powder form or in many pills per day, so you can titrate. I know multivitamins are supposed to do nothing or be detrimental, but you might find subdoses to be seemingly very helpful.
 
 [<a href="#145h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="145a"></span> theory-driven intuitive/&#8203;interoceptive nutrition and eating:
+
+[This section was not written by licensed professionals and this is not medical advice. (ditto / same for the rest of the document)]
+
+[Originally published: https://twitter.com/acesounderglass/status/1504591434707468316 [Last accessed: 2022-04-29] Reproduced here with permission.]
+
+> Recently I found myself not wanting to eat @MealSquares. I reflected on it and realized that it was pushing some nutrients ahead of others, and it felt worse to be deficient in only one thing than everything. So I went to look for the deficient nutrient.
+
+> Tried a bunch of stuff, and there's one thing that reliably restores my desire to eat mealsquares: V8 juice. This surprised me, because I thought canning destroyed nutrients. But it's extremely reliable, and nothing else works at all.
+
+> V8 also did that thing where it tastes mediocre but I persistently want it, which for me means it's addressing a nutritional deficiency.
+
+> V8 has three known nutrients in any quantity: vitamin C, vitamin A, and potassium. And the potassium is pushing the definition of present. 
+
+> MealSquares should provide 100% of all of these, but I was clearly missing something, so I investigated.
+
+> At first I assumed the missing nutrient was vitamin C, which is the most abundant vitamin in V8, and degrades the fastest so there was a reason for my somewhat aged mealsquares to fall short. But vitamin C pills didn't work, and I rejected other foods that were high in C.
+
+> (some possibility the vit C pills have degraded, but they shouldn't degrade *that* badly)
+
+> Didn't want carrots so it seemed like vitamin A was out, although I should maybe test this more thoroughly.
+
+> That left potassium. You \~can't buy pills with any real quantity of potassium, so I can't test that way. But bananas seem nice, and @jimrandomh guessed potassium deficiency before I gave him any information. It's just his go to for deficiencies.
+
+> Yesterday I was midway through a V8 when suddenly I hated it and wanted candy very badly. A different nutrient was short. Turns out it was salt which I'm normally pretty abundant in and V8 isn't exactly lacking, but I had some salt and suddenly all the cravings went away.
+
+> I say the potassium pills don't have much potassium, but it's 2% RDV, and the V8 is only 6%. 3 pills is not an insurmountable number, so maybe I should just buy those.
+
+> And of course it could be a weird cofactor in the vegetable juice we don't know to track yet, that would be the most interesting answer.
+
+> After all that I was not only reliably eating mealsquares, but got vastly better about my pill vitamins, suggesting I was subconsciously trying to keep my nutrients in balance the whole time. So if you're mysteriously rejecting nutrients, consider looking for a defiency elsewhere
+
+> update: isolated KCl salt didn't work (in the sense of engendering a desire for mealsquares), trying vitamin A pills next.
+
+\*
+
+Miscellaneous messy scratch notes (added by Mark):
+
+* I didn't try to try download the original reference, but anecdotally there was a study where they let toddlers choose from a wide array of foods over some time period. And the toddlers came up with really weird food combinations but converged on eating in a nutritionally complete way. (If someone sends me a citation I'll add it here.)
+* Brunstrom, Jeffrey M., and Mark Schatzker. "Micronutrients and food choice: A case of ‘nutritional wisdom’in humans?." Appetite (2022): 106055.
+* "Little bets" and "little experiments" are good.
+* If I have a craving for "junk food," I try to figure out the craving components and satisfy them, but, if I can't figure it out after a few tries, I almost always err on the side of eating the craved junk food.
+* https://en.wikipedia.org/wiki/Composition_of_the_human_body [Last accessedL 2022-04-29]
+* https://en.wikipedia.org/wiki/Essential_amino_acid [Last accessedL 2022-04-29]
+* https://en.wikipedia.org/wiki/Essential_fatty_acid [Last accessedL 2022-04-29]
+* Websites like https://whfoods.com/ and https://nutritionvalue.org/ have many-to-many crosslinks between nutrients and foods, with sorting by relative USA RDA amount, allowing for rapid hypothesis generation. [Last accessed: 2022-04-29]
+* Superstimuli and "out-of-equilibrium" metabolic regimes can interfere with intuitive eating, etc., etc. Sometimes one has to creatively change meal timing or meal composition or amount or wait out diminishing insulin resistance over a few days to start getting better signals. Signals have to be sort of deconvolved and refactored. Psychological factors such as childhood food insecurity will affect all this, and working through those can change eating patterns and "weight set points." There is no steady state; the body's needs seem to tend to always be slowly drifting over time, even when not making big changes in activity level and so on. Food "tetris" can be ongoing but figuring out how to get all the b vitamins in various combinations goes a long way. Digestion is cognitive---what you read and provisionally learn about nutrition (the science is not... great at the time of this writing), does influentially comingle with interoceptive signals; error correction, all of cognitively, intuitively, and the interplay between them, is important. Energy metabolism (dietary and respiratory and with respect to immune system function) has ongoing interoceptive correlates, both direct and indirect. The immune system is partially cognitive. This process may dampen immune system overreaction over time.
+* Some nutrients need to be in particular ratios (including macronutrients), so if you don't want food that you usually like, for example, sometimes you need more of something not in the food, and sometimes you need less of something in that food or elsewhere. There's probably a sprinkling of other insights / gotchas like this.
+
+
+[<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="146"></span> historical and contemporary difficulties and uncertainties of life [experimental section]:
 
