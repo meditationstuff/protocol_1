@@ -240,7 +240,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="137h" href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>
 	* <a id="137ah" href="#137a">x-desires, fulfillment, transformation, discussion</a>
 	* <a id="137bh" href="#137b">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
-	* <a id="138h" href="#138">on falling asleep</a>
+	* <a id="138h" href="#138">on falling asleep and utilizing sleep</a>
 	* <a id="139h" href="#139">a gentle onramp</a>
 	* <a id="140h" href="#140">good(ness) bad(ness)</a>
 	* <a id="141h" href="#141">some "big" useful concepts</a>
@@ -5657,11 +5657,15 @@ tbc, pursuing compelled creative projects (or anything) is often the exact thing
 
 
 
-# <span id="138"></span> on falling asleep:
+# <span id="138"></span> on falling asleep and utilizing sleep:
 
 Sometimes it’s good to use postures such as sitting without back support or standing, in order to avoid falling asleep (see the posture section for more postures and thoughts on postures). But, it can be extremely profitable to meditate while curled up comfortably in bed both while falling asleep for the night, right upon waking up (without even opening one’s eyes), and also during the day. One can drift in and out of meditation, sleep, and reverie (sleep and reverie could be conceived as falling under the surrender portion of p2 but don’t have to be.).
 
 One could imagine that meditating in liminal states could lead to "bad form" or meditating incorrectly. But, I have found this to not be the case, at least empirically. It seems to be the case that this protocol is specified both precisely enough and generally enough that meditating and drifting (reverie) and sleeping seems to be extremely valuable, especially when often, sometimes, or eventually mixed with meditation in other postures.
+
+\*
+
+[This could be its own section or a more prominent note; plus could maybe use a crosslink to posture and ("altered") states and synaptic renormalization section:] Separately, it's very powerful to drift in and out of sleep while meditating, e.g. across a lazy morning, and to start meditating, to go straight into meditating, right when one wakes up without first opening one's eyes. Something about darkness or low light, and not immediately exposing oneself to light, does seem helpful re some kind of endogenous "flexibility." cf. perhaps lingering REM factors or something. And sleeping can "recharge" diminishing slack (when that type of "recharge" is an available one. So sometimes going to sleep early (and so then waking up early but not getting out of bed, and then doing the meditating in and out of sleep thing) can be very strategic. Other times it makes much more sense to get up and take a walk in the sun or to go make money, and so on and so on and so on. Just depends on current "meditative regime."
 
 [<a href="#138h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
