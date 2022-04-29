@@ -249,7 +249,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="143h" href="#143">states</a>
 	* <a id="144h" href="#144">invitation of acceptance</a>
 	* <a id="145h" href="#145">nutrition</a>
-	* <a id="145ah" href="#145a">theory-driven intuitive/&#8203;interoceptive nutrition and eating</a>
+	* <a id="145ah" href="#145a">theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating</a>
 	* <a id="146h" href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
 	* <a id="147h" href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
 	* <a id="147a0h" href="#147a0">clarification on muscle contraction and stretching versus chronic muscle tension</a>
@@ -5886,11 +5886,11 @@ Consider a multivitamin in powder form or in many pills per day, so you can titr
 [<a href="#145h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="145a"></span> theory-driven intuitive/&#8203;interoceptive nutrition and eating:
+# <span id="145a"></span> theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating:
 
 [This section was not written by licensed professionals and this is not medical advice. (ditto / same for the rest of the document)]
 
-[Originally published: https://twitter.com/acesounderglass/status/1504591434707468316 [Last accessed: 2022-04-29] Reproduced here with permission.]
+[Originally published [untitled twitter thread] : https://twitter.com/acesounderglass/status/1504591434707468316 [Last accessed: 2022-04-29] Reproduced here with permission.]
 
 > Recently I found myself not wanting to eat @MealSquares. I reflected on it and realized that it was pushing some nutrients ahead of others, and it felt worse to be deficient in only one thing than everything. So I went to look for the deficient nutrient.
 
