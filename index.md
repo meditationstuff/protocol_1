@@ -9225,7 +9225,7 @@ It’s a bit of a roundabout journey: Sometimes the way to "here and now" involv
 
 Further, *don’t take my word or anyone’s that "here and now" is good, or anything.* We have to find our own way, which, again, might look like five years (or forever!) writing (erotic robot vampire) fantasy and science fiction. "Here and now" is empty, nebulous. "Reality" is empty, nebulous. "Just this" is empty, nebulous. In any case, you still have to find your own way, "subjectively through your own self and world." Which can take a long time and sort of be sometimes lonely and intimidating. But, that means you will not, cannot, must not leave behind anything you value, no matter how childish, cringe, weird, disgusting, beautiful, meaningful, sacred.
 
-Structure-preserving transformations, that seek "wrong/erroneous/misdirected efforting," over many thousands of hours, are one way for someone to "eventually make their way all the way down" to the parts of ourselves that, for very good, though sometimes confused, but not to them, reasons, are trying so, so hard to be somewhere else, for beauty, meaning*, safety, and connection.
+Structure-preserving transformations, that seek "wrong/erroneous/misdirected efforting," over many thousands of hours, are one way for someone to "eventually make their way all the way down" to the parts of ourselves that, for very good, though sometimes confused, but not to them, reasons, are trying so, so hard to be somewhere else, for beauty, meaning\*, safety, and connection.
 
 And then, after that, sometimes things are simple, quiet, easy, rewarding, engaging, exciting in ways you couldn’t have imagined before. (And also sometimes ghastly, tragic, excruciating, and so on! But, in some sense, all of this is yours to navigate on your terms.) Invariants such as love and gratitude may coalesce and shine through more and more.
 
@@ -9233,7 +9233,13 @@ And then, after that, sometimes things are simple, quiet, easy, rewarding, engag
 
 [See also section: normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft] ]
 
+[See also section: the scale analogy]
+
 \*"meaning" will be the topic of a future section
+
+\*
+
+Cryptic note: balance, no momentum, across vast to ### slightest twist
 
 [<a href="#160h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
