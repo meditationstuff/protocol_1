@@ -218,6 +218,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 			* <a id="121h" href="#121">formulation 6</a>
 			* <a id="121ah" href="#121a">emotions(tm) and feelings(tm) in interpersonal processing vs meditation (alpha draft)</a>
 			* <a id="121bh" href="#121b">social honor(?) versus eternal soul theory of mind/identity (stub)</a>
+			* <a id="121ch" href="#121c">on friendship and (found) family (stub)</a>
 * <a id="122h" href="#122">lists and more</a>
 	* <a id="123h" href="#123">nonmonotonicity</a>
 	* <a id="124h" href="#124">definitions</a>
@@ -4966,6 +4967,20 @@ A few of these sections are sort of "less clear" in some ways than the main prac
 
 [<a href="#121bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="121c"></span> on friendship and (found) family (stub):
+
+This section is a stub.
+
+https://twitter.com/meditationstuff/status/1519122227073011718  
+2022-04-26  
+
+"Starting to suspect that the most straightforward way to make friends with small groups of people, cutting through any and all other complexity, is just to regularly feed them meals prepared by your own hand (can rotate but keep cooking for them until rotation). Deep smthg here."
+
+"bunch of privilege-y things, here, wrt to hosting, but creatively surmountable, usually, I think"
+
+
+[<a href="#121ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="122"></span> lists and more:
