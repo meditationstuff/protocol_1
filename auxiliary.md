@@ -7558,7 +7558,7 @@ I was cautious about adding this because these sorts of questions can problemati
 
 # <span id="903auxiliary"></span> when / temporally "catch" it:
 
-Ask, when is it? Try to anticipate it and catch it in the act. Try to do that minimally, without any "pre actions," see if you can smoothly, spontaneously rise to meet it (with minimal attention or awareness) exactly as it happens, luminously, without armature or artifice.
+Ask, when is it? Try to anticipate it and catch it in the act. Try to do that minimally, without any "pre actions," see if you can smoothly, spontaneously rise to meet it (with minimal attention or i.e. mere/&#8203;bare/&#8203;luminous awareness) exactly as it happens, luminously, without armature or artifice.
 
 comment:
 
