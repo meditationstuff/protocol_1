@@ -4398,6 +4398,9 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. What are you creation myths, your first causes, your eternal causes, your axis mundi's, your fiat lux's, your Adams and Eves and snakes and fruits and trees?
 1. Are you becoming more yourself or are you becoming less yourself?
 1. What are you doing almost continuously all the time?
+1. Under what circumstances can you not maintain your iron grip?
+1. Can you safely let the thing that never forgets temporarily forget?, temporarily relax? [sic]
+
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
