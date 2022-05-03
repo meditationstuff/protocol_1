@@ -4079,6 +4079,13 @@ Notes:
 * In the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, temporarily will that you’re temporarily globally/&#8203;totally/&#8203;wholly/&#8203;unifiedly aware of nothing, or the complete/&#8203;total absence or anything,  or the absence of any something-ness or appearance, expecting, seeming, willing, etc.
 * When you are finished with the above, in the ways in which it’s good to do so, and you can (are able to) do so, and not in the ways in which it’s bad to do so, make sure you completely stop willing that you’re aware of nothing.
 
+\*
+
+Notes:
+
+* This practice sort of has at least two somethings. First, as with some of the other main practices, it's intended to be as instructive both when it fails and when it succeeds. That is the trying[-while-failing] (hopefully non-forcily, held lightly, released-on-dime or without cost) makes up the bulk of the practice and good things are happening-ish the whole time (and after, and before...). Also, the wayfinding towards it, even if nowhere near it (or only proximal to glimmers) does lots of good things. So that's the first something. The second something is that some traditions kind of fetishize some flavor of nothingness (not necessarily a contradiction in terms). There's a bunch of reasons for that---one reason is that most people (understandably) fear nonexistence, and successfully having the experience of nothingness, consciousness or awareness with no object, something, etc., undder controlled conditions, as it were, over and over again, is highly instructive and de-traumatizing and loosens things up in other ways. Some traditions really, really front-load this (cf. cessations) or directly point at it cf. some intepretations of "nibbana." I don't particularly emphasize "nothingness" in my work; rather it untangles with respect to death, mortality, existence, absence, presence, etc.. In some senses of the word, "nothingness" is a meaningless concept or isn't "real." Some might said there is only pregnant void, if there's anything like nothingness at all, and no nothing as such. In some senses there's no true absence, no true "not-X", etc., leaving behind the paradoxes of concept and language and logic and exhaustive schemas, contra nebulosity, etc. As best I can tell, "the clean and complete experience of pervasive or complete nothingness as such" isn't really a necessary component of profoundly deep and complete and "all the way" practice and transformation. Though, redo-to-undo-wise, there's a there, there, for some people, a little or lot. My stance is similar to that with the jhanas, here, which I talk about in the "states" section. There's a there, there, but it doesn't have to be developed or cultivated as such, and wayfinding will allow for someone to pop into and out of aspects of it, bespoke, as needed. Or every of the myriad "elements" of it can be gotten piecewise, alone or with other things. And one can go all the way without ever experiencing it as such (and/or it happens so smoothly and lightly and liminally that one does experience it, deeply, fully, but little-by-little over time; or, it's so smooth and seamless with other things that kinda forgets about it afterwards; it's unremarkable). 
+
+
 [<a href="#103h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="104"></span> p5:
@@ -4400,6 +4407,7 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. What are you doing almost continuously all the time?
 1. Under what circumstances can you not maintain your iron grip?
 1. Can you safely let the thing that never forgets temporarily forget?, temporarily relax? [sic]
+1. Has it (really) always been this way?
 
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
