@@ -264,6 +264,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 	* <a id="148dh" href="#148d">when/&#8203;if things are bad / (not your) fault / determinism</a>
 	* <a id="149h" href="#149">being (not) ok tangles</a>
 	* <a id="150h" href="#150">brief note on space and sensations</a>
+	* <a id="150ah" href="#150a">raw/&#8203;bare sensations contra "alway on" (possibly misleading early draft)</a>
 	* <a id="151h" href="#151">brief, loosely related notes on unknotting, untwisting, untangling</a>
 	* <a id="152h" href="#152">attention is not fundamental</a>
 	* <a id="153h" href="#153">"inner space" and physical/social grace</a>
@@ -6490,6 +6491,63 @@ And of course try to not to "reify" "reification," "inappropriate reification"..
 [See also: https://twitter.com/quotidiania/status/1367900435013644290 [Last accessed: 2021-03-05]]
 
 [<a href="#150h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="150a"></span> raw/&#8203;bare sensations contra "alway on" (possibly misleading early draft):
+
+[There might be some erroneous or missing "nots" in here. Like some "signs might be flipped" or it's fine. This hasn't  gotten a single editing pass, yet. Pure draft.]
+
+It's maybe helpful to distinguish between something like "early-/&#8203;mid-stage raw/&#8203;bare sensations," on the one hand, and something like late-stage, post-conceptual, luminuous, non-dual sensations, or something.
+
+(To be clear, at the time of this writing, I don't particularly continuously hang out with/&#8203;in the latter, as such, though I visit, and I don't have much "inside" to speak of, fwiw. There's a question of what experience is like for late-stage practitioners, in general---I notice that at least some people who've been practicing for 20-30+ years, who do credibly describe nonduality-esque things and luminosity-esque things, tend to hedge with things like "when," "sometimes," "not all the time". And this parenthetical actually dovetails nicely with the below.)
+
+Ok, so raw/&#8203;bare sensations are emphasized by some practice traditions, sometimes especially with respect to the body, sometimes especially with respect to "the outside," and so on.
+
+I have some concerns about this---I think they can become a trap, especially when they're overly reified and "ontologized," or something. This could be contemporary categorizations like "touch," "sight," "sound," etc. Or more five-element type stuff like heat/&#8203;cool, pressure, wetness, etc. There's also pleasant, unpleasant, etc. This can even be an issue with free-form noting (which I think often does semi-converge to a smaller collection of notes with fuzzy boundaries, with notes sort of entering and leaving the main collection, very, very loosely speaking).
+
+(This is related to my cautions around over-reifying space and even time. In the case of space, cf. emptiness and nebulosity, for example, and just as an example, it can be helpful to play with the idea of sensational pixels and voxels, but also there are no pixels and voxels of sensation, or even "pinpoint notes or noticings," though this can be a helpful mode.)
+
+Anyway, I want to make a further distinction between "inferred ontology," "high-level ontology" and "bare sensations." An example is something like, respectively "hearing a bird," "seeing a bird," and "hearing the tone, prosody, melody of birdsong as such."
+
+Or, seeing dappled water rippling in a sunlight stream versus the actual glint of reflected light.
+
+With these distinctions, my first point is something like, at least in some senses, there's actually not that much difference between a "high-level percept" and a bare-sensation percept or a "pinpoint percept." (THough in another sense there is; see below.)
+
+Rather, maybe, conceptualizing or "applying a concept" (not to over-reify these!!!) to a high-level percept isn't that different than conceptualizing a "bare-sensation percept." Rather, maybe, "bare-sensation percepts" are "also a construction." The high-level percept (or unseen inference) is more likely to be "sensorily multimodal" and the the bare-sensation percept is more likely to be sparse-modal or uni-modal. But, something similar is happening, in both cases.
+
+Some systems emphasize the difference between sort of the "real sensation" and then the "mental or reflected sensation, image, etc." with maybe then an additional step of "applying a concept" and then maybe additional cognition or thought on top of that. And somewhere in there is maybe a registration of pleasant or unpleasant or neutral and more elaborated emotions are somewhere in the stack too. And there's grasping and thirst, etc., somewhere in there. There is something very generally like this going on! But it's nebulous and I think shouldn't be overreified. And I don't know if it's "genetically hardwired" or more of just a tendency. I don't think one needs to investigate this as such. The untangling mostly takes care of itself and doesn't need to be conceptualized in various particular ways according to various systems. It's inherently nebulous (and empty), in any case.
+
+Anyway, there's another thing, here, which is something like, there's "knowing" all through the stack. Like there's always a pairing of sensation and knowing, that starts out bare and simple and "close to the outside" and sort of merges with other sensations, increasing in complexity, until "bird!"" or "skyscraper!". And we can sort of refactor "the porthole of awareness" to view different parts of this cumulative process---when we view different parts of the process that little "step" refactors, untangles a little bit, something. It's sort of the same mechanism whether low-level percepts or high-level percepts. A lot of meditation is (spontaneously, non-deliberately) sort of refactoring the "high-dimensional porthole", sort of "raising and lowering" stuff into and out of that viewport so it all can be "sunshined" or juxtaposed for spontaneous blending and rearrangement, and so on, very loosely speaking.
+
+Anyway, I'm sort of contradicting myself. On the one hand, the conceptualization of all this should be held very lightly, not tightly, not made heavily into parts and thing-like-ness. But, on the other hand, at the same time, yeah there's *something* different about different "sense doors" or whatever, versus pain, versus valence, versus etc. There are sometimes-profitable conceptual distinctions, there's a there, there. The "qualia-feel" is different, etc., presumably relating to types of nerve fibers, mammalian neuroanatomy, cortical maps, and whatever.
+
+And on the one hand, there's nothing special about bare sensations; there's just one more "conceived object," whether done so explicitly or implicitly. But on the other hand, there is something special about bare sensations.
+
+I guess the confused point I'm trying to make is something like this:
+
+Bare sensations becoming salient is a positive lead indicator. But don't get stuck on bare sensations. And it's always ok to go back to them. And all this happens naturally if held lightly. Ditto for sort of grain and speed.
+
+Be careful about forcing bare sensations because that sort of builds an attentional armature that eventually has to be taken down with no remainder, anyway. The system wants to experientially-spatially-temporally take things apart as a deep-foundational thing, but once that work is done the system likes to go back to high-level percepts. (And the system reserves the option to keep going down to refactor the deep sensory stack as needed, as more errors need to be corrected or more elegances are found for that particular person's anticipations and needs and lifeworld. So "depth" or "near the beginning of the sensory stack-ness" can for sure be "re-gathered" or slowly progressively refactored at any time or is done slowly-continuously, one sort of has to maybe move a bunch of stuff out of the way and then move that stuff back.)
+
+I say "ditto for speed," above and it's also the case for "pinpoint-ness"---attention, awareness, something will naturally speed up, strobe, focus, as needed, usually it's very brief, if one is properly executing global wayfinding.
+
+Anyway, there's a sense in which the whole sensory processing stack---sight, sound, etc., "knows how to spontaneously refactor just right" and at some point in the meditative journey there's especially a lot of this and then it calms down and then there's much less, but there can be periods of lots again and there's always a trickle.
+
+I don't mean to say it's completely spontaneous, there's stuff to do, though in some sense it is, and/&#8203;but in any case "participation."
+
+Maybe the pithy-est thing to say is just bare sensations as such becoming temporarily salient is a positive lead indicator, all things being equal, but doesn't need to be forced and doesn't need to be held onto. 
+
+This is also contra-mindfulness in the sense that one wants most things to be unconcious and automatic, just not the wrong things, in the wrong ontologies. And meditation is about *refactoring what's unconsious and automatic* by temporarily de-automatizing things, which makes some stuff shittily unignorable, transiently and temporarily, in fits and starts, but then, generally speaking, things re-automatize and become unconscious again, *in a better way.* And the system learns over time to move things around such that things that are more likely to need to be de-automatized and re-automatized, in the future, are sort of arranged "closer to the surface." So it's sort of like refactoring a software code base for easier maintainability, in addition to optimizing it for performance and correctness. And/but note that there is no free lunch in the sense (in the computer science / machine learning sense) in that peformance and correctness are relative to anticipated purpose and anticipated landscape, as it were!
+
+And this does cash out, all things being equal, as kind of getting to hang out in the world you want to hang out in, or with the sensations and higher-level experiences that you want to savor and enjoy, with TONS of stuff being handled automatically. And then the system more and more learns to proactively unpack and refactor stuff as needed, and better and better before it's needed but not too soon---optimal bodymind refactoring  reordering, perhaps in the cracks of life, while falling asleep, while waking up, while taking walks, while noodling, while meditating, which could be inclusive of all those things and for lots of people is [but as per usual I would say don't mash meditation into daily life stuff that it doesn't felt-naturally-spontaneously blend with, ok to just live, that's the point anyway, etc. etc.]. 
+
+\*
+
+Back to the parenthetical way above, just as with bare sensations, I think "cool non-dual and luminosity stuff" is a positive lead indicator but not something to be fetishized or over-reified nor something that one should "try to get to stick."
+
+I sometimes say, a bunch of bits have stably flipped, somewhere, and I can go check and be like, "yup, they're still flipped" but otherwise my experience is pretty normal, natural, ordinary, something. Usually-but-not-necessarily, an oozing tendency towards quiet, clear, peaceful, well-being-full but possibly all over the place because of life stuff that couldn't (yetttttt) be completely proactively, meta-meta-meta-meta handled (lots of mundane things and especially interpersonal things) or something came out of unknown unknown territory.
+
+[<a href="#150ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="151"></span> brief, loosely related notes on unknotting, untwisting, untangling:
 
