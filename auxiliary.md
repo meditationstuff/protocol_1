@@ -7574,4 +7574,40 @@ Release the clenched fist. Release the iron will. (when it's safe)
 
 [<a href="#904auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+* <a id="907auxiliary_names" href="#907auxiliary">better movement/&#8203;stillness</a>
+
+# <span id="905auxiliary"></span> left out:
+
+Ask, what was left out?
+
+comment:
+
+Alternative with slightly different intent/&#8203;meaning: 
+
+Ask, what was unconsidered that wanted or would want to be considered?
+
+[<a href="#905auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="906auxiliary"></span> helping listen:
+
+Ask yourself, can you gently find a way to help it listen? Can you gently help it find a safely exposable surface area? 
+
+[<a href="#906auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="907auxiliary"></span> movement/&#8203;stillness:
+
+Pick simple movement (repeatable or circular/&#8203;"perfect-loop-able", isolated or full-body); or a posture; or line/paragraph to speak.
+
+And then, pick one or some qualities you want (it) to embody (e.g. elegant, economical, graceful, beautiful, poised, relaxed, effortless…).
+
+And then explore/&#8203;experiment with doing/&#8203;holding/&#8203;being/&#8203;saying it (the movement/&#8203;posture/&#8203;speech) with that quality, or (gently, indirectly) incline towards that quality or better versions of that quality.
+
+Later, instead of a specific quality or qualities, try exploring it (the moment/&#8203;posture/&#8203;speech) (with) just (indirectly, gently) inclinig generally towards “improving”/&#8203;/&#8203;"improvement"/&#8203;“better” (on your terms, wordlessly or perhaps in your own (implicit or explicit) words.
+
+comment:
+
+\* The movements, postures, speaking above should be a physical movements, "external postures," or out-loud speech---not a “mental action”, nor an “attentional/awareness action” (solely), nor “thought speech” nor maybe whispered speech. These have subtle pitfalls, so it's maybe better to let these be transformed, through and through, by other practices in the whole, wider document. 
+
+[<a href="#907auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

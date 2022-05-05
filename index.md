@@ -4065,6 +4065,7 @@ Notes:
 * "permanence-ing"
 * "pre-dismay"
 * [[\~\~particularity or specificity in self-change agenda, goal, ordering, plan, intention (performatively semi-paradoxical in this rendering)]]
+* “leaving-/left-out”(-ness)
 
 Notes:
 
@@ -11255,6 +11256,8 @@ First-pass, in terms of happiness and friendships and relating and intimacy---ge
 * In the spirit of Daniel Ingram's (and others', of course) noting/&#8203;noticing, or Shinzen Young's "subtle is significant", leave out nothing, including nothing (or is that misleading?!). Anything and everything is fair game, but even this can lead to inappropriate reification or ontological fixation.
 
 * You can't leave anything out and you can't speed-run it. There is/&#8203; no corner-cutting, shortcuts. Haste, hurrying, rushing are illusory. (And momentum is problematic.) For both/&#8203;all of these, if they are there, you eventually have to go back and "clean up," and do so "perfectly." Nothing can be left out. (But also nothing *is* left out--and correct practice is enough to find it all. Something vaguely in the spirit of the meta protocol helps but also the system, as it were, wants to find everything, as it were, will spontaneously reach for everything, as it were; it always/&#8203;already knows what to do, and you can long-run trust/&#8203;rest into that.) All that said, as per usual, there might still be miles and miles of all these, (in part) because they were already previously there, latent in the sysem. So if there is ongoing attempted corner-cutting, ongoing haste, hurrying, rushing, etc., they doesn't mean you're doing anything wrong, and that doesn't mean you aren't proceeeding even optimally. Finally, there is one sense in which things can be a bit faster, which is, sometimes, things vaguely in the spirit of the meta protocol, good teaching material, and useful interactions can mean less wrong turns and backtracking. That's sort of the only thing can "speed things up," long term. But, I think those sorts of improvements will be potentially dwarfed by sort of just the raw practice time, as it were, that's needed. And those sorts of things can overtly or subtly send people in the wrong direction, too. And, also, ultimately, it sort of has to come from you, you have to ultimately be omni-self-generative. But, that is, deep-down, a spontaneously intrinsic property of the system, so that's ok. (Wrong turns and backtracking are included in the "10,000 hours" thing.)
+
+* change (even like when learning quantum mechanics or something) is "never" "merely cognitive"; there's "always" involvement of of "the entire motor plant."; and/which is always ultimately non-algorithmic, non-rule-based (cf. deutschian popperian critical rationalism)
 
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

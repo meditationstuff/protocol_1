@@ -879,7 +879,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="867auxiliary_names" href="#867auxiliary">age</a>
 * <a id="868auxiliary_names" href="#868auxiliary">after infinite self-care</a>
 * <a id="869auxiliary_names" href="#869auxiliary">subtle energy</a>
-* <a id="870auxiliary_names" href="#870auxiliary">really/actually/truly want (\*)</a>
+* <a id="870auxiliary_names" href="#870auxiliary">really/&#8203;actually/&#8203;truly want (\*)</a>
 * <a id="871auxiliary_names" href="#871auxiliary">starting over</a>
 * <a id="872auxiliary_names" href="#872auxiliary">do them nonverbally, telepathically</a>
 * <a id="873auxiliary_names" href="#873auxiliary">self-trust</a>
@@ -914,6 +914,8 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="902auxiliary_names" href="#902auxiliary">where</a>
 * <a id="903auxiliary_names" href="#903auxiliary">when / temporally "catch" it</a>
 * <a id="904auxiliary_names" href="#904auxiliary">fist</a>
-
+* <a id="905auxiliary_names" href="#905auxiliary">left out</a>
+* <a id="906auxiliary_names" href="#906auxiliary">helping listen</a>
+* <a id="907auxiliary_names" href="#907auxiliary">better movement/&#8203;stillness</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
