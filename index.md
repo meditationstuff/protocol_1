@@ -4066,6 +4066,7 @@ Notes:
 * "pre-dismay"
 * [[\~\~particularity or specificity in self-change agenda, goal, ordering, plan, intention (performatively semi-paradoxical in this rendering)]]
 * “leaving-/left-out”(-ness)
+* {“unnecessarily inherent” bypass-y/-ing}—ness
 
 Notes:
 
