@@ -7610,4 +7610,30 @@ comment:
 
 [<a href="#907auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+
+# <span id="908auxiliary"></span> if no longer:
+
+Ask, what (other, additional) bad thing(s) will happen if you no longer had {bad thing}? If you didn't have the {bad thing}?
+
+comment:
+
+e.g. {bad thing} = muscle tension
+
+
+[<a href="#908auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="909auxiliary"></span> surrender to better ordering:
+
+Thus; Or, surrender to better ordering [of [continuous] meditative-y events]. Allow a better thing to (streamingly, continuously) happen.
+
+[<a href="#909auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="910auxiliary"></span> all the time in the world:
+
+Pretend you have "all the time in the world," pretend you even have "infinite time," to do a thing, solve a thing, fix a thing, explore... What would you do differently, then? Is that or some aspect of that somehow useful, now?
+
+[<a href="#910auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
