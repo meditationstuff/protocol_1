@@ -11269,6 +11269,8 @@ anyway jogging feels like flying. feels so healthy and good
 Mark  < 1 minute ago  
 metabolically and feeling into differential recovery rates across different muscle groups, lungs, cardiovascular system. i love this stuff.
 
+and seeking "perfect" form, global optimum basin---non-impact, footfalls, glide, breath, floatiness---which can take weeks or months to find and even when you do it continuously changes as the above change at different rates
+
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
