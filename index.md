@@ -11249,6 +11249,27 @@ First-pass, in terms of happiness and friendships and relating and intimacy---ge
 
 [Life-affecting muscle tension did come back, up from a little present but not life-intefering, the above-as-a-twist-in-the-system clarifying, while approaching the above, and is now receding again, as best I can first-pass tell, to even lower levels. Will update if doesn't now smoothly dissipate utterly and completely. There could be even still a few more things. Recall, as best I understand it, it got so bad in the first place because of problematic things I did pre-p2 and pre-meta protocol.]
 
+* 20220513:
+
+I am finally jogging again, joy joy joy~~~~~~
+
+Mark  2 minutes ago  
+Some muscle stuff did come back, though very unevenly distributed. Daily life relatively unaffected, though still couldn't go all out, and exercising was still hard / felt unsafe.  
+Even though all that, there were aspectual high-water-marks almost every day.
+
+Mark  1 minute ago  
+And finally big drops again recently. I was jogging for months, months ago, but tension/pressure redistributed and made that bad.
+
+Mark  1 minute ago  
+Now things are newly good but still with an on-and-off background of something feeling unsafe.
+
+Mark  < 1 minute ago  
+anyway jogging feels like flying. feels so healthy and good
+
+Mark  < 1 minute ago  
+metabolically and feeling into differential recovery rates across different muscle groups, lungs, cardiovascular system. i love this stuff.
+
+
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
