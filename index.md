@@ -4987,6 +4987,16 @@ And the latter is maybe much more useful and high bandwidth and productive than 
 
 So---systematically reaching for feelings[(tm)]/emotions[(tm)] [, and hopes/wishes---outside the scope of this thread,] in concert w a few different ppl (for whom I'm grateful for in prompting me thinking abt this) has been vry interesting so far. 23/23
 
+I just wanted to add that feelings(tm)/emotions(tm) do straightforwardly come up in meditation, of course, of course! (and more to be said here as well...)
+
+...  
+*sorrow*  
+*longing*  
+*joy*  
+...  
+
+24/23
+
 [<a href="#121ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
