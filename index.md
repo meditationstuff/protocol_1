@@ -5994,6 +5994,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * Superstimuli and "out-of-equilibrium" metabolic regimes can interfere with intuitive eating, etc., etc. Sometimes one has to creatively change meal timing or meal composition or amount or wait out diminishing insulin resistance over a few days to start getting better signals. Signals have to be sort of deconvolved and refactored. Psychological factors such as childhood food insecurity will affect all this, and working through those can change eating patterns and "weight set points." There is no steady state; the body's needs seem to tend to always be slowly drifting over time, even when not making big changes in activity level and so on. Food "tetris" can be ongoing but figuring out how to get all the b vitamins in various combinations goes a long way. Digestion is cognitive---what you read and provisionally learn about nutrition (the science is not... great at the time of this writing), does influentially comingle with interoceptive signals; error correction, all of cognitively, intuitively, and the interplay between them, is important. Energy metabolism (dietary and respiratory and with respect to immune system function) has ongoing interoceptive correlates, both direct and indirect. The immune system is partially cognitive. This process may dampen immune system overreaction over time.
 * Some nutrients need to be in particular ratios (including macronutrients), so if you don't want food that you usually like, for example, sometimes you need more of something not in the food, and sometimes you need less of something in that food or elsewhere. There's probably a sprinkling of other insights / gotchas like this.
 * meditatively working through waves of diffuse, low-key "food insecurity" (micronutrient, macronutrient, meal planning, parental ignorance) at the (a) sensory/phenomenological/interoceptive level and (b) cognitive level. // seem to be losing weight or changing body composition. // working through a thing seems to instantaneously resolve low-key macro and micronutrient cravings. // that wouldn't make sense but e.g. "objective dehydration" and "subjective thirst" are 2 separate brain systems that are phase-lag coupled. // I like the phrase "autonomic harmony." // For me, I didn't remotely have access to a lot of this kind of thing until thousands of hours of meditation had passed, at least. Some vagus-mediated allergy stuff was more quickly accessible. This stuff goes deeeeeeeeep [ https://twitter.com/meditationstuff/status/1520806875297718276 Last accessed: 2022-05-01 ]
+* Maybe whereever I talk about "radically concrete" and "post-conceptual" (or maybe elsewhere), I need to add something like "yes 'deterministic' but non-algorithmic, non-rule based, pre-conceptual, post-conceptual, post-pattern..", after something like Popperian or Deutschian something.
 
 
 
@@ -8640,7 +8641,7 @@ at least one sense in which all there is now, is what’s now
 
 at least one sense in which all this is is “just this.”
 
-at lesat one sense in which you can, long-run, function just fine without an "enduring stable identity concept"; there is only radically concrete flux that sort of has no pattern to fall under an enduring concept
+at least one sense in which you can, long-run, function just fine without an "enduring stable identity concept"; there is only radically concrete flux that sort of has no pattern to fall under an enduring concept
 
 at least one sense in which nothing ends, including the sense in which “you will always have happened.” At least on sense in which “endings” (and lots of other things) are “negated without further implication” [See Mipham’s Beacon of Certainty]
 
@@ -8715,6 +8716,8 @@ at least one sense in which there’s no such thing as before and after your dea
 at least one sense in which stories, art, all media, all language, has no essence, is empty in perhaps a slightly counterintuitive or once removed manner, and is properly understood and whole-embodied-ly generated inseparably from audience-in—groundlessness 
 
 at least one sense in which the ((\~whole) phenomenal/&#8203;phenomenological) field "updates" itself, renews itself, spontaneously, effortlessly, costlessly [if you only (come to) let it]
+
+at least one sense in which it's not your job to determine right or wrong, true or false, the facts of the matter, to judge or self-judge, to figure, to figure out, to be creative, to create; it's "spontaneity's" job; it's "groundlessness's" job.
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 

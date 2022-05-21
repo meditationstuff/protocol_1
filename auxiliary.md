@@ -7636,4 +7636,16 @@ Pretend you have "all the time in the world," pretend you even have "infinite ti
 
 [<a href="#910auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="911auxiliary"></span> solve like gravity:
+
+Let (the) "gravity" in/&#8203;of body (and the whole phenomenological field) solve/&#8203;compute it. Let the solution come from the spontaneity of something like water following gravity, bodymindworld settling//&#8203;flowing luminously, naturally.
+
+[<a href="#911auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="912auxiliary"></span> allowing salience:
+
+Allow specifics of sight, sound, or body to beceme salient. (in order)
+
+[<a href="#912auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
