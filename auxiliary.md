@@ -7648,4 +7648,15 @@ Allow specifics of sight, sound, or body to beceme salient. (in order)
 
 [<a href="#912auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="913auxiliary"></span> beauty:
+
+Imagine things, sights, locations, landscapes, interiors, buildings, artwork, objects of extraordinary (realistic or fantastic or unearthly or etc.) beauty.
+
+comment:
+
+Explore, flash on the "raw" / "bare" sensory features, details of these. You might or might not sometimes try to (liminally) verbally describe some of this, or not at all.
+
+[<a href="#913auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

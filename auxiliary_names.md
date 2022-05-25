@@ -922,5 +922,6 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="910auxiliary_names" href="#910auxiliary">all the time in the world</a>
 * <a id="911auxiliary_names" href="#911auxiliary">solve like gravity</a>
 * <a id="912auxiliary_names" href="#912auxiliary">allowing salience</a>
+* <a id="913auxiliary_names" href="#913auxiliary">beauty</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

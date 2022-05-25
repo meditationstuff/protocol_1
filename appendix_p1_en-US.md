@@ -51,7 +51,7 @@ n/a
 		- space
 		- time
 		- nothingness (vs “darkness”)
-	- valence
+	- valence (and some interoception)
 		- fundamentally intrinsically pleasant
 		- fundamentally intrinsically unpleasant
 		- neutral
@@ -68,10 +68,20 @@ n/a
 		- hunger
 		- confusion
 		- dullness
+	- interoception
+		- protein hunger/missingness/satiety/overfull
+		- fat hunger/missingness/satiety/overfull
+		- carbohydrate hunger/missingness/satiety/overfull
+		- particular micronutrient unger/missingness/satiety/overfull
 	- sight
 		- hue, value, intensity, temperature, and...
 		- red, orange, yellow, green, blue, indigo, violet
 		- speckled, dappled...
+		- shaded, shadowed
+		- glint, flash
+		- reflection
+		- glow, luminous
+		- subsurface scattering
 	- taste
 		- bitter, salty, sour, astringent, sweet, pungent (eg chili), and umami
 	- smell
@@ -83,6 +93,8 @@ n/a
 		- heat/cool
 		- pressure/hard/soft
 	- sound
+		- tone / pitch / frequency, timbre
+		- big, full, space-filling, diffuse, localized
 		- abrupt, acoustic, airy, annoying, big, brassy, cheerful, clamorous, clean, clear, close, cold, complex, crunchy, dense, distant, dry, dull, echoey, full, gentle, gritty, hard, harsh, heavy, high, hot, light, long, low, metallic, mild, muffled, muted, nasal, open, pure, quick, reedy, resonant, rich, ringing, rough, screaming, sharp, short, small, solid, sustained, synthetic, thick, thin, warm, wet, wooden
 	- movement/&#8203;orientation/&#8203;acceleration
 		- acceleration, orientation, rotation, translation
