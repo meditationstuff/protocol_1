@@ -4414,6 +4414,7 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. Has it (really) always been this way?
 1. What are you leaving out?
 1. What's your "job"?
+1. What's left that you can't self-generate, for yourself?
 
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
