@@ -540,7 +540,7 @@ Explore current inner confusion.
 
 [<a href="#65auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="66auxiliary"></span> self-soothe: (jd)
+# <span id="66auxiliary"></span> self-soothe [jd]:
 
 Reassure yourself. Hold yourself. Be gentle on/to yourself. Talk to or treat yourself like you might a young child.
 
@@ -548,7 +548,7 @@ Reassure yourself. Hold yourself. Be gentle on/to yourself. Talk to or treat you
 
 [<a href="#66auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="67auxiliary"></span> relax: (jd)
+# <span id="67auxiliary"></span> relax [jd]:
 
 Take deep breaths. Take it easy. Loosen up. Untense. Relaxxxxxxxx. 
 
@@ -556,7 +556,7 @@ Take deep breaths. Take it easy. Loosen up. Untense. Relaxxxxxxxx.
 
 [<a href="#67auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="68auxiliary"></span> think with your body: (jd)
+# <span id="68auxiliary"></span> think with your body [jd]:
 
 Explore what it’s like to “think” while attending to or moving attention through your body.
 
@@ -564,7 +564,7 @@ Explore what it’s like to “think” while attending to or moving attention t
 
 [<a href="#68auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="69auxiliary"></span> live lightly: (jd)
+# <span id="69auxiliary"></span> live lightly [jd]:
 
 Make yourself a cup of tea. Go for a walk in the neighborhood. Read a book on a porch on a sunny day
 
@@ -572,7 +572,7 @@ Make yourself a cup of tea. Go for a walk in the neighborhood. Read a book on a 
 
 [<a href="#69auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="70auxiliary"></span> trust your body, trust your mind: (jd)
+# <span id="70auxiliary"></span> trust your body, trust your mind [jd]:
 
 Trust that the thing that's currently/presently/ongoingly happening is the right thing. Trust that your body and mind know the best path forward. Follow its lead. Listen to its clues.
 
@@ -580,7 +580,7 @@ Trust that the thing that's currently/presently/ongoingly happening is the right
 
 [<a href="#70auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="71auxiliary"></span> don’t run away from the present / explore the present / return to the present: (jd)
+# <span id="71auxiliary"></span> don’t run away from the present / explore the present / return to the present [jd]:
 
 What is good or bad, right here, right now? What is going on, right here right now? What could be improved or better, right here right now? What could be tweaked or different, right here right now?
 
@@ -588,7 +588,7 @@ What is good or bad, right here, right now? What is going on, right here right n
 
 [<a href="#71auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="72auxiliary"></span> feel your feelings: (jd)
+# <span id="72auxiliary"></span> feel your feelings [jd]:
 
 Let them move, shift, expand, spread. Let it flow. Let it flow through you. Allow it (all). Surrender to it. Fully fall into it (if it's safe to do so)
 
@@ -596,7 +596,7 @@ Let them move, shift, expand, spread. Let it flow. Let it flow through you. Allo
 
 [<a href="#72auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="73auxiliary"></span> label: (jd)
+# <span id="73auxiliary"></span> label [jd]:
 
 Label (put words to) your experience. What’s happening? What's going on?
 
@@ -604,7 +604,7 @@ Label (put words to) your experience. What’s happening? What's going on?
 
 [<a href="#73auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="74auxiliary"></span> find good, find bad: (jd)
+# <span id="74auxiliary"></span> find good, find bad [jd]:
 
 What is (presently, ongoingly) happening that is good or bad? What are you (presently, ongoingly) doing that is good or bad?
 
@@ -612,7 +612,7 @@ What is (presently, ongoingly) happening that is good or bad? What are you (pres
 
 [<a href="#74auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="75auxiliary"></span> embrace nebulosity: (jd)
+# <span id="75auxiliary"></span> embrace nebulosity [jd]:
 
 If it’s good to do so, lean-in-to/embrace the churn/uncertainty/not-knowing/intensity/confusion/ambiguity/unknowing/chaos/(meaninglessness?) of the ever changing flow of experience, whatever that might be or where it might go. Notice the aversion to doing so, and the impulse to retreat to the safe/reified/conceptual.
 
@@ -620,7 +620,7 @@ If it’s good to do so, lean-in-to/embrace the churn/uncertainty/not-knowing/in
 
 [<a href="#75auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="76auxiliary"></span> welcome experience: (jd)
+# <span id="76auxiliary"></span> welcome experience [jd]:
 
 Welcome, allow, accept, receive, let in, make space for, give breathing room to ... whatever is happening in experience. 
 
@@ -628,7 +628,7 @@ Welcome, allow, accept, receive, let in, make space for, give breathing room to 
 
 [<a href="#76auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="77auxiliary"></span> examine avoidance: (jd)
+# <span id="77auxiliary"></span> examine avoidance [jd]:
 
 Notice: is there anything you are currently/presently/ongoingly avoiding or running away from? If so: would it be good to not do so? are you able to not do so? is it safe to not do so?
 
@@ -1556,7 +1556,7 @@ Run through all these practices to find ones that feel/seem good, currently. Run
 
 [<a href="#192auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="193auxiliary"></span> locate a deep felt sense: (h)
+# <span id="193auxiliary"></span> locate a deep felt sense [h]:
 
 How do you _really_ feel right now? What deeper feelings are beginning to surface? What nebulous thing is going on at the edges of your awareness? The vaguer the better. Try to put it into words, or not.
 
@@ -1564,7 +1564,7 @@ How do you _really_ feel right now? What deeper feelings are beginning to surfac
 
 [<a href="#193auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="194auxiliary"></span> compare/align sensory streams: (h)
+# <span id="194auxiliary"></span> compare/align sensory streams [h]:
 
 Hold two or more different sensory streams in awareness at the same time, notice how they complement/corroborate/contradict each other. For example, while walking, pay close attention to what you see alongside sensations coming from the feet. Or while tapping a tabletop, pay attention to what you hear alongside sensations in the hands.
 
@@ -1572,7 +1572,7 @@ Hold two or more different sensory streams in awareness at the same time, notice
 
 [<a href="#194auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="195auxiliary"></span> iteratively examine motivation: (h)
+# <span id="195auxiliary"></span> iteratively examine motivation [h]:
 
 To what end am I doing what I am currently doing? And why that? And why that? &c. Can be meta-applied as well: in the course of inquiring what one is doing & why, one may inquire as to what one is doing in inquiring as such, and why.
 
@@ -1580,7 +1580,7 @@ To what end am I doing what I am currently doing? And why that? And why that? &c
 
 [<a href="#195auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="196auxiliary"></span> refactor agency: (h)
+# <span id="196auxiliary"></span> refactor agency [h]:
 
 À la V. Rao (https://www.ribbonfarm.com/2012/11/27/patterns-of-refactored-agency/). Notice a thought or framing of some occurrence, and split/clump/invert/rotate/refactor the agency/will of whatever is involved. Some examples: “Those flowers are alluring” → “Those flowers want to be admired”; “I want to eat the doritos” → “The doritos want to feed me”; “I hate this traffic” → “This traffic jam is angry with itself”; etc.
 
@@ -1588,7 +1588,7 @@ To what end am I doing what I am currently doing? And why that? And why that? &c
 
 [<a href="#196auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="197auxiliary"></span> invent a concept: (h)
+# <span id="197auxiliary"></span> invent a concept [h]:
 
 Name the heretofore unnamed. Slice reality along a new axis.
 
@@ -1596,7 +1596,7 @@ Name the heretofore unnamed. Slice reality along a new axis.
 
 [<a href="#197auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="198auxiliary"></span> mindful hygiene: (h)
+# <span id="198auxiliary"></span> mindful hygiene [h]:
 
 Practice hygiene slowly, attentively. Brush your teeth; floss; brush your hair; shave; wash your hands/face; bathe; trim nails; apply ointments/lotions.
 
@@ -1604,7 +1604,7 @@ Practice hygiene slowly, attentively. Brush your teeth; floss; brush your hair; 
 
 [<a href="#198auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="199auxiliary"></span> mindful eating: (h)
+# <span id="199auxiliary"></span> mindful eating [h]:
 
 Eat slowly, attentively. Do you want another bite? Which bite do you want? How does it feel when you put it in your mouth, as you chew? Temperature, texture, flavor? What happens when you swallow? Can you feel your stomach receiving the food?
 
@@ -1612,7 +1612,7 @@ Eat slowly, attentively. Do you want another bite? Which bite do you want? How d
 
 [<a href="#199auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="200auxiliary"></span> examine time: (h)
+# <span id="200auxiliary"></span> examine time [h]:
 
 Examine the passage of time (perhaps while attending to a particular sensation, such as an ongoing noise, or perhaps not).
 
@@ -1620,7 +1620,7 @@ Examine the passage of time (perhaps while attending to a particular sensation, 
 
 [<a href="#200auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="201auxiliary"></span> do it more slowly: (h)
+# <span id="201auxiliary"></span> do it more slowly [h]:
 
 If it’s okay to do so, slow down in whatever you’re doing. Slow down more. And more. And juuuust a bit more.
 
@@ -1628,7 +1628,7 @@ If it’s okay to do so, slow down in whatever you’re doing. Slow down more. A
 
 [<a href="#201auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="202auxiliary"></span> hug yourself: (h)
+# <span id="202auxiliary"></span> hug yourself [h]:
 
 Hug yourself. Touch yourself lovingly. Caress, rub, massage, hold. Which parts want attention? Let your body be an instrument of care for itself.
 
@@ -1636,7 +1636,7 @@ Hug yourself. Touch yourself lovingly. Caress, rub, massage, hold. Which parts w
 
 [<a href="#202auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="203auxiliary"></span> want everything: (h)
+# <span id="203auxiliary"></span> want everything [h]:
 
 To whatever degree(s) it’s good & safe to do so, allow yourself to fully and totally desire everything desirable, large & small, good & bad, immediate & far-reaching. Want it all.
 
@@ -1644,7 +1644,7 @@ To whatever degree(s) it’s good & safe to do so, allow yourself to fully and t
 
 [<a href="#203auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="204auxiliary"></span> want nothing: (h)
+# <span id="204auxiliary"></span> want nothing [h]:
 
 To whatever degree(s) it’s good & safe to do so, allow yourself to fully and totally release/forgo any and all desires. Accept this & now as sufficient and complete.
 
@@ -1822,7 +1822,7 @@ Ask, what you could have done differently, along with some minimal other changes
 
 [<a href="#225auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="226auxiliary"></span> stretch: (h)
+# <span id="226auxiliary"></span> stretch [h]:
 
 Like a cat that just woke up from a long nap. Try while standing, lying down, or in some other position. Shoulders back, chest out, get on your tippy-toes & arch that spine, yawn, vocalize, release!
 
@@ -1830,7 +1830,7 @@ Like a cat that just woke up from a long nap. Try while standing, lying down, or
 
 [<a href="#226auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="227auxiliary"></span> connect deeply with purpose/&#8203;value/&#8203;meaning/&#8203;goodness: (h)
+# <span id="227auxiliary"></span> connect deeply with purpose/&#8203;value/&#8203;meaning/&#8203;goodness [h]:
 
 Notice your current situation/trajectory, and connect as deeply as you can with how this situation/trajectory is (now & ongoingly) meaningful & valuable, what purpose it serves, what broader good(ness) it relates to, etc. In what ways is today good/meaningful/valuable? How does the goodness/meaningfulness/value of today connect to the goodness/meaningfulness/value of your entire life?
 
@@ -1838,7 +1838,7 @@ Notice your current situation/trajectory, and connect as deeply as you can with 
 
 [<a href="#227auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="228auxiliary"></span> notice the past: (h)
+# <span id="228auxiliary"></span> notice the past [h]:
 
 Notice momentary or ongoing conceptions of the past.
 
@@ -1846,7 +1846,7 @@ Notice momentary or ongoing conceptions of the past.
 
 [<a href="#228auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="229auxiliary"></span> notice the future: (h)
+# <span id="229auxiliary"></span> notice the future [h]:
 
 Notice momentary or ongoing conceptions of the future.
 
@@ -1854,7 +1854,7 @@ Notice momentary or ongoing conceptions of the future.
 
 [<a href="#229auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="230auxiliary"></span> notice discomfort: (h)
+# <span id="230auxiliary"></span> notice discomfort [h]:
 
 Are you (greatly or subtly) uncomfortable right now? Which sensations tell you that you are uncomfortable? Why doesn’t everything about right now feel great/fine/perfect?
 
@@ -1878,7 +1878,7 @@ Attend somewhere two-dimensional or three-dimension or n-dimensional or non-dime
 
 [<a href="#232auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="233auxiliary"></span> liminal/nonverbal: (inspired by h)
+# <span id="233auxiliary"></span> liminal/nonverbal [inspired by h]:
 
 Do what you’re already doing but deliberately move towards going it liminally verbally or nonverbally.
 
@@ -1910,7 +1910,7 @@ Some of the time, temporarily, have a wide, open, fuzzy focus. Concentrate on ev
 
 [<a href="#236auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="237auxiliary"></span> balance foreground and background: (cf Lippmann and Culadasa)
+# <span id="237auxiliary"></span> balance foreground and background [cf Lippmann and Culadasa]:
 
 Become aware of everything you can become aware of, in the “background,” while also attending to a “foreground” object. The background is in your peripheral awareness (cf. peripheral vision). Look both at and “through” the foreground object. Balance the salience of foreground and background so that they are potentially seamless in brief moments or stably.
 
@@ -2054,7 +2054,7 @@ Look down through your neck into your body from the inside
 
 [<a href="#254auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="255auxiliary"></span> look at the back of you head: (after Headless Way?)
+# <span id="255auxiliary"></span> look at the back of you head [after Headless Way?]:
 
 Look at the back of your head from the outside without the aid of a mirror, phone, anything.
 
@@ -2163,14 +2163,14 @@ If Y enables: How might I have Y obtain? Are there good worlds where Y does obta
 
 [<a href="#265auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="266auxiliary"></span> stimulate all your senses: (a)
+# <span id="266auxiliary"></span> stimulate all your senses [a]:
 
 Thus.
 
 
 [<a href="#266auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="267auxiliary"></span> minimize sensory input: (a)
+# <span id="267auxiliary"></span> minimize sensory input [a]:
 
 Thus.
 
@@ -2186,7 +2186,7 @@ Ask, is X “shackles on” or “shackles off? [via Martha Beck's Finding Your 
 
 [<a href="#268auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="269auxiliary"></span> exertion: (ae)
+# <span id="269auxiliary"></span> exertion [ae]:
 
 Exert yourself past a few layers of muscular and cardiovascular exhaustion, but not so many that you have to stop, to achieve a difficult goal.
 
@@ -2198,7 +2198,7 @@ This one needs refinement of scope and clarity, and also careful consideration o
 
 [<a href="#269auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="270auxiliary"></span> don’t despair: (j)
+# <span id="270auxiliary"></span> don’t despair [j]:
 
 Thus.
 
@@ -2206,7 +2206,7 @@ Thus.
 
 [<a href="#270auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="271auxiliary"></span> dwell in unknowing/&#8203;uncertainty/&#8203;confusion: (j)
+# <span id="271auxiliary"></span> dwell in unknowing/&#8203;uncertainty/&#8203;confusion [j]:
 
 (Allow/let yourself) dwell in unknowing/&#8203;uncertainty/&#8203;confusion.
 
@@ -2218,7 +2218,7 @@ cf Keats’ idea of negative capability (edited)
 
 [<a href="#271auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="272auxiliary"></span> play a character: (h)
+# <span id="272auxiliary"></span> play a character [h]:
 
 Thus.
 
@@ -2230,7 +2230,7 @@ a character whose traits are very different from the ones you typically embody; 
 
 [<a href="#272auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="273auxiliary"></span> stream-of-consciousness writing: (h\*)
+# <span id="273auxiliary"></span> stream-of-consciousness writing [h\*]:
 
 Allow yourself to transcribe your stream-of-consciousness as best you can.
 
@@ -2242,7 +2242,7 @@ can be centered on a topic/feeling/thought/idea, or unconstrained; find a pace t
 
 [<a href="#273auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="274auxiliary"></span> explore gratitude: (h\*)
+# <span id="274auxiliary"></span> explore gratitude [h\*]:
 
 Ask, what are you grateful for, right now? How do you know you’re grateful? What does it feel like? What don’t you feel grateful for? What is it like not to feel grateful? What causes gratitude or non-gratitude? What is different about your relationship with [thing you’re grateful for] compared to your relationship with [thing you’re not grateful for]?
 
@@ -2250,7 +2250,7 @@ Ask, what are you grateful for, right now? How do you know you’re grateful? Wh
 
 [<a href="#274auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="275auxiliary"></span> explore courage: (h\*)
+# <span id="275auxiliary"></span> explore courage [h\*]:
 
 Ask, what would the courageous thing to do be, with respect to X? How does it feel to [imagine] carry[ing] out courageous action? How does courage relate to fear? Without forming intentions to actually execute them, explore scenarios of enacting courage.
 
@@ -2258,7 +2258,7 @@ Ask, what would the courageous thing to do be, with respect to X? How does it fe
 
 [<a href="#275auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="276auxiliary"></span> mindful pooping: (h\*)
+# <span id="276auxiliary"></span> mindful pooping [h\*]:
 
 Poop mindfully.
 
@@ -2266,7 +2266,7 @@ Poop mindfully.
 
 [<a href="#276auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="277auxiliary"></span> do something uncomfortable or difficult: (h)
+# <span id="277auxiliary"></span> do something uncomfortable or difficult [h]:
 
 Non-coercively do something you find uncomfortable or difficult (but which you will retrospectively endorse). E.g. take a cold shower; chat up a stranger; fast for a day; etc.
 
@@ -2274,7 +2274,7 @@ Non-coercively do something you find uncomfortable or difficult (but which you w
 
 [<a href="#277auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="278auxiliary"></span> notice your voice: (h)
+# <span id="278auxiliary"></span> notice your voice [h]:
 
 Carefully listen to & feel your own voice as you speak in daily life.
 
@@ -2282,7 +2282,7 @@ Carefully listen to & feel your own voice as you speak in daily life.
 
 [<a href="#278auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="279auxiliary"></span> consider death: (h)
+# <span id="279auxiliary"></span> consider death [h]:
 
 Consider [the idea of] death, as much as it is safe & good to do so. For instance, what is death? What memories, concepts, thoughts, and feelings arise in connection with the idea of death? Are you afraid of death? What would it mean not to be afraid of death? Can you imagine facing death right now? What specifically would be bad about dying right now? What about the deaths of others? Do non-living things die?
 
@@ -2290,7 +2290,7 @@ Consider [the idea of] death, as much as it is safe & good to do so. For instanc
 
 [<a href="#279auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="280auxiliary"></span> be broken: (h)
+# <span id="280auxiliary"></span> be broken [h]:
 
 Be broken, crushed, shattered, utterly defeated, crippled, collapsed, damaged, riven.
 
@@ -2298,7 +2298,7 @@ Be broken, crushed, shattered, utterly defeated, crippled, collapsed, damaged, r
 
 [<a href="#280auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="281auxiliary"></span> affirm everything: (h)
+# <span id="281auxiliary"></span> affirm everything [h]:
 
 To anything expressed by yourself or another, respond:   “totally.“/”definitely.“/”100%.“/”right on.“/”yeah!”  
 
@@ -2306,11 +2306,11 @@ To anything expressed by yourself or another, respond:   “totally.“/”defin
 
 [<a href="#281auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="282auxiliary"></span> catch flinching: (h)
+# <span id="282auxiliary"></span> catch flinching [h]:
 
 Notice when you flinch, turn away, shut down, distract yourself, change the subject, compulsively open reddit in a new tab, etc. Don’t try to do anything about the flinching, yet. 
 
-comment: (a\*)
+comment (a\*)
 
 See also: affirm nothing, flinch volitionally, explore cowardliness ...Do you really want these things? Or are you in fact too afraid to be a coward, now?
 
@@ -2318,7 +2318,7 @@ See also: affirm nothing, flinch volitionally, explore cowardliness ...Do you re
 
 [<a href="#282auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="283auxiliary"></span> maybe: (j)
+# <span id="283auxiliary"></span> maybe [j]:
 
 Thus.
 
@@ -2334,7 +2334,7 @@ Temporarily stop planning and just see what happens next, see what you do next, 
 
 [<a href="#284auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="285auxiliary"></span> talk to yourself as if: (j)
+# <span id="285auxiliary"></span> talk to yourself as if [j]:
 
 Talk to yourself as if you were an elder or older, wiser version of yourself  (edited) 
 
@@ -2342,7 +2342,7 @@ Talk to yourself as if you were an elder or older, wiser version of yourself  (e
 
 [<a href="#285auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="286auxiliary"></span> reinterpret: (h)
+# <span id="286auxiliary"></span> reinterpret [h]:
 
 Search for new interpretations of X. X can be an interaction, an event, an image, a place, a concept, a memory, an intention, a feeling, etc etc. Can also be done by taking new assumptions along with X. For example, “how can i reinterpret that argument i got into, if i take the new assumption that the other person wasn’t trying to hurt me?” (edited) 
 
@@ -2350,7 +2350,7 @@ Search for new interpretations of X. X can be an interaction, an event, an image
 
 [<a href="#286auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="287auxiliary"></span> notice what, notice how: (h)
+# <span id="287auxiliary"></span> notice what, notice how [h]:
 
 1. For whatever you’re doing/saying, notice what exactly you’re doing/saying. [the ends/purpose/goal/intent/function]
 2. For whatever you’re doing/saying, notice how exactly you’re doing/saying it. [the means/style/method/manner/form] (edited) 
@@ -2359,7 +2359,7 @@ Search for new interpretations of X. X can be an interaction, an event, an image
 
 [<a href="#287auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="288auxiliary"></span> back to the drawing board: (h)
+# <span id="288auxiliary"></span> back to the drawing board [h]:
 
 Go back to the drawing board, regarding X.
 
@@ -2367,7 +2367,7 @@ Go back to the drawing board, regarding X.
 
 [<a href="#288auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="289auxiliary"></span> do something symbolically meaningful: (h)
+# <span id="289auxiliary"></span> do something symbolically meaningful [h]:
 
 Thus.
 
@@ -2375,7 +2375,7 @@ Thus.
 
 [<a href="#289auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="290auxiliary"></span> devise new/&#8203;better/&#8203;relevant auxiliary practices: (h ht j)
+# <span id="290auxiliary"></span> devise new/&#8203;better/&#8203;relevant auxiliary practices [h ht j]:
 
 Thus.
 
@@ -2383,7 +2383,7 @@ Thus.
 
 [<a href="#290auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="291auxiliary"></span> explore/refactor the concept of meditation itself: (h)
+# <span id="291auxiliary"></span> explore/refactor the concept of meditation itself [h]:
 
  What does it mean to meditate? What does it mean to meditate well/correctly or poorly/incorrectly? What activities/states/situations are incompatible with meditation? In what ways is your method of meditating self-defeating? What would improve the experience of meditating by 5%? by 500%? Would it be ok to never meditate again? why or why not? etc etc
 
@@ -2396,7 +2396,7 @@ comment:
 
 [<a href="#291auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="292auxiliary"></span> forgive: (h)
+# <span id="292auxiliary"></span> forgive [h]:
 
 Forgive that which it’s good to forgive. Forgive others; forgive yourself.
 
@@ -2404,7 +2404,7 @@ Forgive that which it’s good to forgive. Forgive others; forgive yourself.
 
 [<a href="#292auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="293auxiliary"></span> repent: (h)
+# <span id="293auxiliary"></span> repent [h]:
 
 Thus.
 
@@ -2412,7 +2412,7 @@ Thus.
 
 [<a href="#293auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="294auxiliary"></span> pray: (j)
+# <span id="294auxiliary"></span> pray [j]:
 
 Thus.
 
@@ -2420,7 +2420,7 @@ Thus.
 
 [<a href="#294auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="295auxiliary"></span> fart around: (j)
+# <span id="295auxiliary"></span> fart around [j]:
 
 Thus.
 
@@ -2436,7 +2436,7 @@ Gently and softly and dreamily track down tingles and non-tingles. (edited)
 
 [<a href="#296auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="297auxiliary"></span> hold contradictions: (h)
+# <span id="297auxiliary"></span> hold contradictions [h]:
 
 Hold/be/embody both/all aspects of seeming contradictions within yourself. Dwell in contradiction/paradox.
 
@@ -2460,7 +2460,7 @@ Get lost in something. Lose yourself in something. Become absorbed in something.
 
 [<a href="#299auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="300auxiliary"></span> constrain yourself: (j)
+# <span id="300auxiliary"></span> constrain yourself [j]:
 
 Arbitrarily (or not) make decisions, add constraints, give yourself less degrees of freedom, give yourself less breathing room, put stakes in the ground.
 
@@ -2468,7 +2468,7 @@ Arbitrarily (or not) make decisions, add constraints, give yourself less degrees
 
 [<a href="#300auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="301auxiliary"></span> sleep on it: (j)
+# <span id="301auxiliary"></span> sleep on it [j]:
 
 Thus.
 
@@ -2476,7 +2476,7 @@ Thus.
 
 [<a href="#301auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="302auxiliary"></span> surround yourself with beauty/goodness: (h)
+# <span id="302auxiliary"></span> surround yourself with beauty/goodness [h]:
 
 Thus. 
 
@@ -2508,7 +2508,7 @@ Thus.
 
 [<a href="#305auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="306auxiliary"></span> try enjoying it: (h)
+# <span id="306auxiliary"></span> try enjoying it [h]:
 
 Thus.
 
@@ -2544,7 +2544,7 @@ Thus.
 
 [<a href="#309auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="310auxiliary"></span> be shameless:(h)
+# <span id="310auxiliary"></span> be shameless:[h]:
 
 Thus.
 
@@ -2552,7 +2552,7 @@ Thus.
 
 [<a href="#310auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="311auxiliary"></span> time off: (j\*)
+# <span id="311auxiliary"></span> time off [j\*]:
 
 Give yourself the day off.
 Give yourself the day/night/hour/unit-of-time off.
@@ -2561,7 +2561,7 @@ Give yourself the day/night/hour/unit-of-time off.
 
 [<a href="#311auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="312auxiliary"></span> respond with “maybe”: (j\*)
+# <span id="312auxiliary"></span> respond with “maybe” [j\*]:
 
 Respond to your questions, certainties, concerns, etc, with “maybe”
 “Oh my god I can’t believe X is happening. This will be terrible.” “Maybe”
@@ -2631,7 +2631,7 @@ Pretend posture lies on a continuum from (A) comfortable fetal position to (B) s
 
 [<a href="#319auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="320auxiliary"></span> physically exhaust yourself: (h)
+# <span id="320auxiliary"></span> physically exhaust yourself [h]:
 
 Thus.
 
@@ -2639,7 +2639,7 @@ Thus.
 
 [<a href="#320auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="321auxiliary"></span> examine a flower or a leaf or a stone: (h)
+# <span id="321auxiliary"></span> examine a flower or a leaf or a stone [h]:
 
 Thus.
 
@@ -2647,7 +2647,7 @@ Thus.
 
 [<a href="#321auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="322auxiliary"></span> chat with/talk to your X-year-old self: (h)
+# <span id="322auxiliary"></span> chat with/talk to your X-year-old self [h]:
 
 Thus.
 
@@ -2655,7 +2655,7 @@ Thus.
 
 [<a href="#322auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="323auxiliary"></span> be someone else: (h)
+# <span id="323auxiliary"></span> be someone else [h]:
 
 Thus.
 
@@ -2663,7 +2663,7 @@ Thus.
 
 [<a href="#323auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="324auxiliary"></span> locate the tragedy/&#8203;mystery/&#8203;joy/&#8203;etc in X: (h)
+# <span id="324auxiliary"></span> locate the tragedy/&#8203;mystery/&#8203;joy/&#8203;etc in X [h]:
 
 Thus.
 
@@ -2671,7 +2671,7 @@ Thus.
 
 [<a href="#324auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="325auxiliary"></span> notice what’s forbidden: (h)
+# <span id="325auxiliary"></span> notice what’s forbidden [h]:
 
 Thus.
 
@@ -2679,7 +2679,7 @@ Thus.
 
 [<a href="#325auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="326auxiliary"></span> trace the origin of X [in oneself]: (h)
+# <span id="326auxiliary"></span> trace the origin of X [in oneself] [h]:
 
 Thus.
 
@@ -2687,7 +2687,7 @@ Thus.
 
 [<a href="#326auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="327auxiliary"></span> make a list of everything: (h)
+# <span id="327auxiliary"></span> make a list of everything [h]:
 
 Thus.
 
@@ -2695,7 +2695,7 @@ Thus.
 
 [<a href="#327auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="328auxiliary"></span> list possibilities: (h)
+# <span id="328auxiliary"></span> list possibilities [h]:
 
 Thus.
 
@@ -2703,7 +2703,7 @@ Thus.
 
 [<a href="#328auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="329auxiliary"></span> do whatever is necessary to X: (h)
+# <span id="329auxiliary"></span> do whatever is necessary to X [h]:
 
 Thus.
 
@@ -2711,7 +2711,7 @@ Thus.
 
 [<a href="#329auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="330auxiliary"></span> locate the sacredness of X: (h)
+# <span id="330auxiliary"></span> locate the sacredness of X [h]:
 
 Thus.
 
@@ -2719,7 +2719,7 @@ Thus.
 
 [<a href="#330auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="331auxiliary"></span> notice feeling connected to or disconnected from others & self & nature/&#8203;world/&#8203;environment: (h)
+# <span id="331auxiliary"></span> notice feeling connected to or disconnected from others & self & nature/&#8203;world/&#8203;environment [h]:
 
 Thus.
 
@@ -2727,7 +2727,7 @@ Thus.
 
 [<a href="#331auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="332auxiliary"></span> adopt a rigid moral code: (h)
+# <span id="332auxiliary"></span> adopt a rigid moral code [h]:
 
 Thus.
 
@@ -2735,7 +2735,7 @@ Thus.
 
 [<a href="#332auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="333auxiliary"></span> dissect language: (h)
+# <span id="333auxiliary"></span> dissect language [h]:
 
 Thus.
 
@@ -2743,7 +2743,7 @@ Thus.
 
 [<a href="#333auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="334auxiliary"></span> pay attention to the X content of communication: (h)
+# <span id="334auxiliary"></span> pay attention to the X content of communication [h]:
 
 Pay attention to the emotional/&#8203;intention/&#8203;timing/&#8203;sensitivity/&#8203;feeling content of communication.
 
@@ -2751,7 +2751,7 @@ Pay attention to the emotional/&#8203;intention/&#8203;timing/&#8203;sensitivity
 
 [<a href="#334auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="335auxiliary"></span> pay attention to the Y content of communication: (h)
+# <span id="335auxiliary"></span> pay attention to the Y content of communication [h]:
 
 Pay attention to the words/&#8203;phrasing/&#8203;conceptual/&#8203;structural/&#8203;thought content of communication.
 
@@ -2759,7 +2759,7 @@ Pay attention to the words/&#8203;phrasing/&#8203;conceptual/&#8203;structural/&
 
 [<a href="#335auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="336auxiliary"></span> play with “X happened to me” vs. “I chose X”: (h)
+# <span id="336auxiliary"></span> play with “X happened to me” vs. “I chose X” [h]:
 
 Thus.
 
@@ -2767,7 +2767,7 @@ Thus.
 
 [<a href="#336auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="337auxiliary"></span> what pattern is X part of?: (h)
+# <span id="337auxiliary"></span> what pattern is X part of? [h]:
 
 Thus.
 
@@ -2775,7 +2775,7 @@ Thus.
 
 [<a href="#337auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="338auxiliary"></span> notice that you’re already enlightened/&#8203;perfect/&#8203;fine/&#8203;good/&#8203;good enough: (h)
+# <span id="338auxiliary"></span> notice that you’re already enlightened/&#8203;perfect/&#8203;fine/&#8203;good/&#8203;good enough [h]:
 
 Thus.
 
@@ -2783,7 +2783,7 @@ Thus.
 
 [<a href="#338auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="339auxiliary"></span> write a song/poem/rock opera: (h)
+# <span id="339auxiliary"></span> write a song/poem/rock opera [h]:
 
 Thus.
 
@@ -2791,7 +2791,7 @@ Thus.
 
 [<a href="#339auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="340auxiliary"></span> study the cringe as if you were a scientist: (h)
+# <span id="340auxiliary"></span> study the cringe as if you were a scientist [h]:
 
 Thus.
 
@@ -2799,7 +2799,7 @@ Thus.
 
 [<a href="#340auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="341auxiliary"></span> notice what happens when you notice: (h)
+# <span id="341auxiliary"></span> notice what happens when you notice [h]:
 
 Thus.
 
@@ -2811,7 +2811,7 @@ For me & probably others, there is residue from the way I was taught to meditate
 
 [<a href="#341auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="342auxiliary"></span> cultivate/dwell in solitude: (h)
+# <span id="342auxiliary"></span> cultivate/dwell in solitude [h]:
 
 Thus.
 
@@ -2819,7 +2819,7 @@ Thus.
 
 [<a href="#342auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="343auxiliary"></span> take solace in the journey: (j\*)
+# <span id="343auxiliary"></span> take solace in the journey [j\*]:
 
 Taking solace in the exhaustiveness of the journey. Or, like, in non bypassing ways the thing you’re working towards is such a big exhaustive total something thing that a lot of things that stress you out currently are rounding errors ultimately or something or ok or something.
 
@@ -2827,7 +2827,7 @@ Taking solace in the exhaustiveness of the journey. Or, like, in non bypassing w
 
 [<a href="#343auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="344auxiliary"></span> connect with proximal ideal future concretes: (aj\*)
+# <span id="344auxiliary"></span> connect with proximal ideal future concretes [aj\*]:
 
 Connect with the concrete details + felt sense of your ideal experience 3 years from now.
 
@@ -2835,7 +2835,7 @@ Connect with the concrete details + felt sense of your ideal experience 3 years 
 
 [<a href="#344auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="345auxiliary"></span> improvise, or see/frame your life as improv: (j)
+# <span id="345auxiliary"></span> improvise, or see/frame your life as improv [j]:
 
 Thus.
 
@@ -2843,7 +2843,7 @@ Thus.
 
 [<a href="#345auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="346auxiliary"></span> ask for what you want/need: (j)
+# <span id="346auxiliary"></span> ask for what you want/need [j]:
 
 Thus.
 
@@ -2854,7 +2854,7 @@ Or ask yourself, ‘can you ask for the thing you want/need?’ are you safe and
 
 [<a href="#346auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="347auxiliary"></span> make small, little bets: (j)
+# <span id="347auxiliary"></span> make small, little bets [j]:
 
 Thus.
 
@@ -2862,7 +2862,7 @@ Thus.
 
 [<a href="#347auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="348auxiliary"></span> shake, shiver, quake: (aj\*)
+# <span id="348auxiliary"></span> shake, shiver, quake [aj\*]:
 
 If shakes come, let them.
 
@@ -2910,7 +2910,7 @@ Provisionally try on the idea that there is no such thing as selves and you don�
 
 [<a href="#353auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="354auxiliary"></span> flat mind: (j\*)
+# <span id="354auxiliary"></span> flat mind [j\*]:
 
 Provisionally try on the idea that the mind is “flat” or “just-in-time” or that the contents of awareness in some sense don’t exist until they’re constructed for that moment (making no metaphysical commitments about anything else).
 
@@ -3098,7 +3098,7 @@ This stuff gets in, it gets reified, some portion of it’s good, some portion o
 
 [<a href="#376auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="377auxiliary"></span> notice judging/blaming: (h)
+# <span id="377auxiliary"></span> notice judging/blaming [h]:
 
 Thus, and develop a method to inquire/analyze/understand/orient around it (or not).
 
@@ -3106,7 +3106,7 @@ Thus, and develop a method to inquire/analyze/understand/orient around it (or no
 
 [<a href="#377auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="378auxiliary"></span> notice pressure: (h)
+# <span id="378auxiliary"></span> notice pressure [h]:
 
 Notice the ways that everyone is subtly or overtly pressuring each other all the time.
 
@@ -3114,7 +3114,7 @@ Notice the ways that everyone is subtly or overtly pressuring each other all the
 
 [<a href="#378auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="379auxiliary"></span> notice support: (h)
+# <span id="379auxiliary"></span> notice support [h]:
 
 Notice the ways that everyone is subtly or overtly supporting/encouraging/loving each other all the time.
 
@@ -3162,7 +3162,7 @@ if you can unforcily and endorsedly put something off until later do so.
 
 [<a href="#384auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="385auxiliary"></span> don’t overthink things: (j)
+# <span id="385auxiliary"></span> don’t overthink things [j]:
 
 Thus. 
 
@@ -3178,7 +3178,7 @@ Explore that so many things you might never ever have to solve because they’ll
 
 [<a href="#386auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="387auxiliary"></span> comfort yourself: (h\*)
+# <span id="387auxiliary"></span> comfort yourself [h\*]:
 
 Thus, or: offer compassion to yourself] thus, as genuinely as you can [but no more genuinely than that]
 
@@ -3190,7 +3190,7 @@ i have gotten a lot of mileage out of saying “it’s okay [...], you’re doin
 
 [<a href="#387auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="388auxiliary"></span> separate (don’t) want/might (to) be true: (h)
+# <span id="388auxiliary"></span> separate (don’t) want/might (to) be true [h]:
 
 Separate things that you really really do/don’t want to be true from what is/might actually be true.
 
@@ -3202,7 +3202,7 @@ might be a cleaner way to say this. like “earnestly, fearlessly sensemake”.
 
 [<a href="#388auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="389auxiliary"></span> sort out good & bad: (h)
+# <span id="389auxiliary"></span> sort out good & bad [h]:
 
 Make a list of all the things that are good, and all the things that are bad. Be as nuanced or not as you like. Notice contradictions, omissions, & anything that doesn’t fit in either list.
 
@@ -3210,7 +3210,7 @@ Make a list of all the things that are good, and all the things that are bad. Be
 
 [<a href="#389auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="390auxiliary"></span> get comfortable: (j)
+# <span id="390auxiliary"></span> get comfortable [j]:
 
 Make yourself comfortable. Prioritize comfort. Take actions one after the other until you feel totally and utterly comfortable, even and perhaps especially if it "doesn't feel worth it". 
 
@@ -3218,7 +3218,7 @@ Make yourself comfortable. Prioritize comfort. Take actions one after the other 
 
 [<a href="#390auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="391auxiliary"></span> spotting: (aj\*)
+# <span id="391auxiliary"></span> spotting [aj\*]:
 
 Pay attention to how your level of activation changes as you move your eyes to different positions in xyz space.
 
@@ -3246,7 +3246,7 @@ Thus.
 
 [<a href="#393auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="394auxiliary"></span> ask who/&#8203;with/&#8203;what/&#8203;good/&#8203;bad: (h)
+# <span id="394auxiliary"></span> ask who/&#8203;with/&#8203;what/&#8203;good/&#8203;bad [h]:
 
 Ask, “who or what is calling X bad[/good]?“, or “X is bad[/good] according to whom/what?”  
 Ask, “with what is X’s badness[/goodness] in contradiction with?”  
@@ -3257,7 +3257,7 @@ Ask, “is it possible to have/do/be X in a way that is good[/bad]?” (edited)
 
 [<a href="#394auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="395auxiliary"></span> no good, no bad: (h)
+# <span id="395auxiliary"></span> no good, no bad [h]:
 
 No good, no bad: provisionally assume that there is no such thing as good or bad.
 
@@ -3313,7 +3313,7 @@ Ask, for who(m) and why? Ask, along what dimensions and according to what schema
 
 [<a href="#401auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="402auxiliary"></span> forgive yourself: (j)
+# <span id="402auxiliary"></span> forgive yourself [j]:
 
 Thus.
 
@@ -3321,7 +3321,7 @@ Thus.
 
 [<a href="#402auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="403auxiliary"></span> trust: (j)
+# <span id="403auxiliary"></span> trust [j]:
 
 Trust that this experience/moment you’re currently having/experiencing is in some sense, the right one. That there isn’t something wrong (in some sense) with the experience. Trust it’s rightness. Cf: relax, ease, acceptance, non-resistance,
 
@@ -3329,7 +3329,7 @@ Trust that this experience/moment you’re currently having/experiencing is in s
 
 [<a href="#403auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="404auxiliary"></span> let yourself be supported: (j)
+# <span id="404auxiliary"></span> let yourself be supported [j]:
 
 Feel the ground underneath you. Notice how little you have to do to be held, and how much support the earth can provide. Relax/ease into this support.
 
@@ -3337,7 +3337,7 @@ Feel the ground underneath you. Notice how little you have to do to be held, and
 
 [<a href="#404auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="405auxiliary"></span> abandon reason: (j)
+# <span id="405auxiliary"></span> abandon reason [j]:
 
 Act/&#8203;say/&#8203;do/&#8203;want/&#8203;request/&#8203;believe/&#8203;assert/&#8203;head-in-the-direction-of... just because you feel like it, even if you don’t have reasons, even if it doesn’t make sense, even if you don’t understand.
 
@@ -3347,7 +3347,7 @@ Don’t feel a need to justify or provide reason (to yourself or others). That w
 
 [<a href="#405auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="406auxiliary"></span> walk it off: (j)
+# <span id="406auxiliary"></span> walk it off [j]:
 
 Thus.
 
@@ -3355,7 +3355,7 @@ Thus.
 
 [<a href="#406auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="407auxiliary"></span> experience the elements: (j)
+# <span id="407auxiliary"></span> experience the elements [j]:
 
 Purify yourself in water. Cleanse yourself in the wind. Feel the grounding of the earth. Warm yourself by/in the fire.
 
@@ -3363,7 +3363,7 @@ Purify yourself in water. Cleanse yourself in the wind. Feel the grounding of th
 
 [<a href="#407auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="408auxiliary"></span> follow the signs: (j)
+# <span id="408auxiliary"></span> follow the signs [j]:
 
 Thus.
 
@@ -3371,7 +3371,7 @@ Thus.
 
 [<a href="#408auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="409auxiliary"></span> breadth-first: (h)
+# <span id="409auxiliary"></span> breadth-first [h]:
 
 Do/go/explore/play/incline/work breadth-first, broad and shallow.
 
@@ -3379,7 +3379,7 @@ Do/go/explore/play/incline/work breadth-first, broad and shallow.
 
 [<a href="#409auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="410auxiliary"></span> depth-first: (h)
+# <span id="410auxiliary"></span> depth-first [h]:
 
 Do/go/explore/play/incline/work depth-first, narrow and deep.
 
@@ -3387,7 +3387,7 @@ Do/go/explore/play/incline/work depth-first, narrow and deep.
 
 [<a href="#410auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="411auxiliary"></span> think nonverbally: (h)
+# <span id="411auxiliary"></span> think nonverbally [h]:
 
 Incline toward thinking nonverbally — spatially, visually, conceptually, tactilely, kinesthetically, mathematically, musically, etc.
 
@@ -3395,7 +3395,7 @@ Incline toward thinking nonverbally — spatially, visually, conceptually, tacti
 
 [<a href="#411auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="412auxiliary"></span> notice unconscious patterns: (h)
+# <span id="412auxiliary"></span> notice unconscious patterns [h]:
 
 Notice unconscious habits, body language, attitudes, thought patterns, behavioral patterns, vocal tone, speech style, posture, positioning, mood shifts, inclinations, desires, etc. Don't do anything about them, yet.
 
@@ -3403,7 +3403,7 @@ Notice unconscious habits, body language, attitudes, thought patterns, behaviora
 
 [<a href="#412auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="413auxiliary"></span> play: (h)
+# <span id="413auxiliary"></span> play [h]:
 
 In whatever domain you happen to be in, see if you can play. Notice if you can’t.
 
@@ -3415,7 +3415,7 @@ comment:
 
 [<a href="#413auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="414auxiliary"></span> keep going: (j)
+# <span id="414auxiliary"></span> keep going [j]:
 
 So, you just discovered/encountered/realized the truest truth [sic], or the most perfect plan? Before you rush off and buy those plane tickets, consider holding your discovery lightly, and keep going, keep turning the (relevant) crank(s).
 cf error checking, letting it flow/shift/change
@@ -3440,7 +3440,7 @@ Realize it’s concretely this, not abstractly that.
 
 [<a href="#416auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="417auxiliary"></span> be impulsive: (j)
+# <span id="417auxiliary"></span> be impulsive [j]:
 
 Thus.
 
@@ -3448,7 +3448,7 @@ Thus.
 
 [<a href="#417auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="418auxiliary"></span> from fear or love: (j\*)
+# <span id="418auxiliary"></span> from fear or love [j\*]:
 
 Consider whether you are acting/deciding/doing/etc out of fear or love
 
@@ -3520,7 +3520,7 @@ Explore the ways, whats, whens in which it does and doesn’t matter what other 
 
 [<a href="#426auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="427auxiliary"></span> revisit things of the past: (h)
+# <span id="427auxiliary"></span> revisit things of the past [h]:
 
 When the time is right, revisit memory-laden objects, songs, movies, photographs, places, etc 
 
@@ -3528,7 +3528,7 @@ When the time is right, revisit memory-laden objects, songs, movies, photographs
 
 [<a href="#427auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="428auxiliary"></span> picture your child, having your childhood: (aj)
+# <span id="428auxiliary"></span> picture your child, having your childhood [aj]:
 
 Call to mind your child (or future child, or friend’s child) having the exact same childhood you did.  Every sorrow and hope.  Fly on the wall for every challenge small and large.
 
@@ -3536,7 +3536,7 @@ Call to mind your child (or future child, or friend’s child) having the exact 
 
 [<a href="#428auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="429auxiliary"></span> assume you have no idea what "play" is: (aj)
+# <span id="429auxiliary"></span> assume you have no idea what "play" is [aj]:
 
 What changes?  What would you do to figure it out from scratch?
 
@@ -3600,7 +3600,7 @@ Let it do/undo itself. Help it do/undo itself.
 
 [<a href="#436auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="437auxiliary"></span> models: (h)
+# <span id="437auxiliary"></span> models [h]:
 
 What are your implicit and explicit world/self models? How are or aren’t they serving you?
 
@@ -3624,7 +3624,7 @@ Ask, is there something more underneath?
 
 [<a href="#439auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="440auxiliary"></span> unknown unintended consequences of omission and commission: (m)
+# <span id="440auxiliary"></span> unknown unintended consequences of omission and commission [m]:
 
 Consider the unintended consequences of the things you do and don't do. Consider how you don't know what almost any of them are..
 
@@ -3644,7 +3644,7 @@ People do things completely outside our expectations, sometimes outside our expe
 
 [<a href="#441auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="442auxiliary"></span> stay in (the) flow: (j)
+# <span id="442auxiliary"></span> stay in (the) flow [j]:
 
 Thus.
 
@@ -3668,7 +3668,7 @@ Explore how to make it safe to not self-censor. Try not self-censoring (or as be
 
 [<a href="#444auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="445auxiliary"></span> feedback loops: (b)
+# <span id="445auxiliary"></span> feedback loops [b]:
 
 Pause all your feedback loops.
 
@@ -3676,7 +3676,7 @@ Pause all your feedback loops.
 
 [<a href="#445auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="446auxiliary"></span> plan evaluation: (j)
+# <span id="446auxiliary"></span> plan evaluation [j]:
 
 Consider: how do you know everything isn’t going exactly according to “plan”? How do you know anything truly has gone wrong or is bad? (edited) 
 
@@ -3692,7 +3692,7 @@ Consider: how do you know everything isn’t going exactly according to “plan�
 
 [<a href="#447auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="448auxiliary"></span> no language: (h)
+# <span id="448auxiliary"></span> no language [h]:
 
 Temporarily provisionally assume/act as though language doesn't exist 
 
@@ -3772,7 +3772,7 @@ Stand tall and balanced. What feels weird in your body?
 
 [<a href="#457auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="458auxiliary"></span> say a thing is something: (m)
+# <span id="458auxiliary"></span> say a thing is something [m]:
 
 Say a thing is something. Perceive that it is not.
 
@@ -3960,7 +3960,7 @@ Sometimes can be helpful (and sometimes counterproductive) to ask, is there are 
 
 [<a href="#480auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="481auxiliary"></span> learn from your mistakes: (j)
+# <span id="481auxiliary"></span> learn from your mistakes [j]:
 
 Thus.
 
@@ -4040,7 +4040,7 @@ Explore the relationship between gravity, bone, and muscle.
 
 [<a href="#490auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="491auxiliary"></span> posture differential: (h)
+# <span id="491auxiliary"></span> posture differential [h]:
 
 Incline toward "perfect posture". Incline toward your body's natural posture. What changes?
 
@@ -4053,7 +4053,7 @@ Maybe I'm not thrilled because reifying the idea of "perfect posture" could be h
 
 [<a href="#491auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="492auxiliary"></span> don’t overthink things: (jd)
+# <span id="492auxiliary"></span> don’t overthink things [jd]:
 
 Thus.
 
@@ -4061,7 +4061,7 @@ Thus.
 
 [<a href="#492auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="493auxiliary"></span> make your body available: (h)
+# <span id="493auxiliary"></span> make your body available [h]:
 
 to the degree(s) to which it’s good to do so & in the way(s) in which it’s good to do so, make your body available for feelings, felt senses, urges, impulses, instincts, reflexes, whims, ideas, postural changes, movements, shifts, twitches, shivers, spasms, pleasure, pain, (dis)comfort, expansions, contractions, forces, energy, vibrations, waves, etc to come through & manifest.
 
@@ -4069,7 +4069,7 @@ to the degree(s) to which it’s good to do so & in the way(s) in which it’s g
 
 [<a href="#493auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="494auxiliary"></span> stop holding: (d)
+# <span id="494auxiliary"></span> stop holding [d]:
 
 Stop holding your current posture. Stop holding.
 
@@ -4077,7 +4077,7 @@ Stop holding your current posture. Stop holding.
 
 [<a href="#494auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="495auxiliary"></span> check in with yourself: (h)
+# <span id="495auxiliary"></span> check in with yourself [h]:
 
 Thus.
 
@@ -4085,7 +4085,7 @@ Thus.
 
 [<a href="#495auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="496auxiliary"></span> underthink: (d)
+# <span id="496auxiliary"></span> underthink [d]:
 
 Thus.
 
@@ -4093,7 +4093,7 @@ Thus.
 
 [<a href="#496auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="497auxiliary"></span> think ahead: (d)
+# <span id="497auxiliary"></span> think ahead [d]:
 
 Blend all your actions into one continuous smooth motion.
 
@@ -4101,14 +4101,14 @@ Blend all your actions into one continuous smooth motion.
 
 [<a href="#497auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="498auxiliary"></span> don’t overthink things: (jd)
+# <span id="498auxiliary"></span> don’t overthink things [jd]:
 
 Thus.
 
 
 [<a href="#498auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="499auxiliary"></span> surrender: (jd)
+# <span id="499auxiliary"></span> surrender [jd]:
 
 Thus.
 
@@ -4116,14 +4116,14 @@ Thus.
 
 [<a href="#499auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="500auxiliary"></span> allow: (jd)
+# <span id="500auxiliary"></span> allow [jd]:
 
 Thus.
 
 
 [<a href="#500auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="501auxiliary"></span> be patient: (jd)
+# <span id="501auxiliary"></span> be patient [jd]:
 
 Be/cultivate/surrender-to patient/patience.
 
@@ -4131,7 +4131,7 @@ Be/cultivate/surrender-to patient/patience.
 
 [<a href="#501auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="502auxiliary"></span> commune with the plants: (jd)
+# <span id="502auxiliary"></span> commune with the plants [jd]:
 
 Thus.
 
@@ -4139,7 +4139,7 @@ Thus.
 
 [<a href="#502auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="503auxiliary"></span> commune with nature: (jd)
+# <span id="503auxiliary"></span> commune with nature [jd]:
 
 Thus.
 
@@ -4147,7 +4147,7 @@ Thus.
 
 [<a href="#503auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="504auxiliary"></span> align yourself with the natural flow of nature / the natural world: (jd)
+# <span id="504auxiliary"></span> align yourself with the natural flow of nature / the natural world [jd]:
 
 Thus.
 
@@ -4155,7 +4155,7 @@ Thus.
 
 [<a href="#504auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="505auxiliary"></span> love: (jd)
+# <span id="505auxiliary"></span> love [jd]:
 
 Thus.
 
@@ -4163,7 +4163,7 @@ Thus.
 
 [<a href="#505auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="506auxiliary"></span> enter your heart space: (jd)
+# <span id="506auxiliary"></span> enter your heart space [jd]:
 
 Thus.
 
@@ -4171,7 +4171,7 @@ Thus.
 
 [<a href="#506auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="507auxiliary"></span> don't do: (d; “metaaux”)
+# <span id="507auxiliary"></span> don't do [d; “metaaux”]:
 
 For a practice "do x", don't do x.
 
@@ -4179,7 +4179,7 @@ For a practice "do x", don't do x.
 
 [<a href="#507auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="508auxiliary"></span> do not: (d; “metaaux”)
+# <span id="508auxiliary"></span> do not [d; “metaaux”]:
 
 For a practice "do x", do not-x
 
@@ -4187,7 +4187,7 @@ For a practice "do x", do not-x
 
 [<a href="#508auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="509auxiliary"></span> passively have happen; already the case: (d; “metaaux”)
+# <span id="509auxiliary"></span> passively have happen; already the case [d; “metaaux”]:
 
 For a practice "do x", have x happen to you, or have it so you become such that x without acting in order to do so.
 
@@ -4201,7 +4201,7 @@ I'm thinking things like "imagine a string attached to the top of your spine and
 
 [<a href="#509auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="510auxiliary"></span> wait and see: (jd)
+# <span id="510auxiliary"></span> wait and see [jd]:
 
 Thus.
 
@@ -4209,7 +4209,7 @@ Thus.
 
 [<a href="#510auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="511auxiliary"></span> slow down: (jd)
+# <span id="511auxiliary"></span> slow down [jd]:
 
 Thus.
 
@@ -4217,7 +4217,7 @@ Thus.
 
 [<a href="#511auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="512auxiliary"></span> listen to nature: (jd)
+# <span id="512auxiliary"></span> listen to nature [jd]:
 
 Thus.
 
@@ -4225,7 +4225,7 @@ Thus.
 
 [<a href="#512auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="513auxiliary"></span> meditate with crystals: (jd)
+# <span id="513auxiliary"></span> meditate with crystals [jd]:
 
 Thus.
 
@@ -4233,7 +4233,7 @@ Thus.
 
 [<a href="#513auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="514auxiliary"></span> prioritize being over doing: (jd)
+# <span id="514auxiliary"></span> prioritize being over doing [jd]:
 
 Thus.
 
@@ -4241,7 +4241,7 @@ Thus.
 
 [<a href="#514auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="515auxiliary"></span> prioritize feeling over thinking: (jd)
+# <span id="515auxiliary"></span> prioritize feeling over thinking [jd]:
 
 Incline towards / prioritize feeling over thinking.
 
@@ -4249,7 +4249,7 @@ Incline towards / prioritize feeling over thinking.
 
 [<a href="#515auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="516auxiliary"></span> let things get messy: (jd)
+# <span id="516auxiliary"></span> let things get messy [jd]:
 
 Thus.
 
@@ -4257,7 +4257,7 @@ Thus.
 
 [<a href="#516auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="517auxiliary"></span> take the dive: (h)
+# <span id="517auxiliary"></span> take the dive [h]:
 
 Thus.
 
@@ -4265,14 +4265,14 @@ Thus.
 
 [<a href="#517auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="518auxiliary"></span> use your strength: (h)
+# <span id="518auxiliary"></span> use your strength [h]:
 
 Thus.
 
 
 [<a href="#518auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="519auxiliary"></span> rest in restlessness: (h)
+# <span id="519auxiliary"></span> rest in restlessness [h]:
 
 Thus.
 
@@ -4280,7 +4280,7 @@ Thus.
 
 [<a href="#519auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="520auxiliary"></span> get underneath the level of story: (jd)
+# <span id="520auxiliary"></span> get underneath the level of story [jd]:
 
 Thus.
 
@@ -4500,7 +4500,7 @@ Look for places where “if (could) only (just) X”.
 
 [<a href="#544auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="545auxiliary"></span> jiggle: (h)
+# <span id="545auxiliary"></span> jiggle [h]:
 
 Jiggle jiggle.
 
@@ -4508,7 +4508,7 @@ Jiggle jiggle.
 
 [<a href="#545auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="546auxiliary"></span> thus: (b)
+# <span id="546auxiliary"></span> thus [b]:
 
 Thus. Thus.
 
@@ -4516,14 +4516,14 @@ Thus. Thus.
 
 [<a href="#546auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="547auxiliary"></span> have fun with the practice: (b)
+# <span id="547auxiliary"></span> have fun with the practice [b]:
 
 Thus. 
 
 
 [<a href="#547auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="548auxiliary"></span> play with the practice: (b)
+# <span id="548auxiliary"></span> play with the practice [b]:
 
 Thus. 
 
@@ -4531,7 +4531,7 @@ Thus.
 
 [<a href="#548auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="549auxiliary"></span> mind, body, world: (h)
+# <span id="549auxiliary"></span> mind, body, world [h]:
 
 What's happening in your mind? What are you doing in your mind?  
 What's happening in your body? What are you doing in your body?  
@@ -4702,7 +4702,7 @@ Ask, would it be bad to not believe this/X? Ask, would it be bad to believe this
 
 [<a href="#567auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="568auxiliary"></span> postural pull: (m\*)
+# <span id="568auxiliary"></span> postural pull [m\*]:
 
 Does your body want to move into a particular posture, position, leaning-ness, curled-up-ness? If yes, see if you can help yourself get into that posture. Check periodically to see if there’s a new posture to move into, next.
 
@@ -4710,7 +4710,7 @@ Does your body want to move into a particular posture, position, leaning-ness, c
 
 [<a href="#568auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="569auxiliary"></span> gestural expansiveness: (m\*)
+# <span id="569auxiliary"></span> gestural expansiveness [m\*]:
 
 Explore large body movements of the extremities.
 
@@ -4878,7 +4878,7 @@ Slowly explore the surface and physical interiority of the body with attention. 
 
 [<a href="#588auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="589auxiliary"></span> be gross: (h)
+# <span id="589auxiliary"></span> be gross [h]:
 
 be disgusting, be rotten, be foul
 
@@ -4886,7 +4886,7 @@ be disgusting, be rotten, be foul
 
 [<a href="#589auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="590auxiliary"></span> notice expectations: (h)
+# <span id="590auxiliary"></span> notice expectations [h]:
 
 thus
 
@@ -4894,7 +4894,7 @@ thus
 
 [<a href="#590auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="591auxiliary"></span> drop expectations: (h)
+# <span id="591auxiliary"></span> drop expectations [h]:
 
 thus, if you can
 
@@ -4902,7 +4902,7 @@ thus, if you can
 
 [<a href="#591auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="592auxiliary"></span> just do what you gotta do: (h)
+# <span id="592auxiliary"></span> just do what you gotta do [h]:
 
 thus
 
@@ -4910,7 +4910,7 @@ thus
 
 [<a href="#592auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="593auxiliary"></span> eat the shadow: (s)
+# <span id="593auxiliary"></span> eat the shadow [s]:
 
 thus
 
@@ -4918,7 +4918,7 @@ thus
 
 [<a href="#593auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="594auxiliary"></span> awareness of space, time, possibility: (h)
+# <span id="594auxiliary"></span> awareness of space, time, possibility [h]:
 
 experiment with noticing or becoming aware of [for example]
 
@@ -4946,7 +4946,7 @@ experiment with noticing or becoming aware of [for example]
 
 [<a href="#594auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="595auxiliary"></span> imagine variants: (h)
+# <span id="595auxiliary"></span> imagine variants [h]:
 
 imagine ways something could be slightly or radically different
 
@@ -4954,7 +4954,7 @@ imagine ways something could be slightly or radically different
 
 [<a href="#595auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="596auxiliary"></span> more body do: (h)
+# <span id="596auxiliary"></span> more body do [h]:
 
 continue doing what you’re doing, but see if it’s good to involve some other part of your body in it
 
@@ -4962,7 +4962,7 @@ continue doing what you’re doing, but see if it’s good to involve some other
 
 [<a href="#596auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="597auxiliary"></span> be loved: (h)
+# <span id="597auxiliary"></span> be loved [h]:
 
 let yourself, all parts of yourself, just like this, be loved by yourself or by another, real or imaginary
 
@@ -4970,7 +4970,7 @@ let yourself, all parts of yourself, just like this, be loved by yourself or by 
 
 [<a href="#597auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="598auxiliary"></span> safe shame: (h)
+# <span id="598auxiliary"></span> safe shame [h]:
 
 let it be ok to be ashamed
 
@@ -4978,7 +4978,7 @@ let it be ok to be ashamed
 
 [<a href="#598auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="599auxiliary"></span> safe fear: (a)
+# <span id="599auxiliary"></span> safe fear [a]:
 
 thus
 
@@ -4986,7 +4986,7 @@ thus
 
 [<a href="#599auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="600auxiliary"></span> safe rage: (a)
+# <span id="600auxiliary"></span> safe rage [a]:
 
 thus
 
@@ -4994,7 +4994,7 @@ thus
 
 [<a href="#600auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="601auxiliary"></span> safe joy: (a)
+# <span id="601auxiliary"></span> safe joy [a]:
 
 thus
 
@@ -5002,7 +5002,7 @@ thus
 
 [<a href="#601auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="602auxiliary"></span> safe grief: (a)
+# <span id="602auxiliary"></span> safe grief [a]:
 
 thus
 
@@ -5010,7 +5010,7 @@ thus
 
 [<a href="#602auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="603auxiliary"></span> safe turn-on: (a)
+# <span id="603auxiliary"></span> safe turn-on [a]:
 
 thus
 
@@ -5018,7 +5018,7 @@ thus
 
 [<a href="#603auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="604auxiliary"></span> pretend up is down and down is up: (mo)
+# <span id="604auxiliary"></span> pretend up is down and down is up [mo]:
 
 thus
 
@@ -5026,7 +5026,7 @@ thus
 
 [<a href="#604auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="605auxiliary"></span> notice care: (h)
+# <span id="605auxiliary"></span> notice care [h]:
 
 notice things people do to care for each other, even/especially unspoken, routine, small, mundane, subtle, or trivial things
 
@@ -5034,7 +5034,7 @@ notice things people do to care for each other, even/especially unspoken, routin
 
 [<a href="#605auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="606auxiliary"></span> explore subtle posture: (h)
+# <span id="606auxiliary"></span> explore subtle posture [h]:
 
 subtly slowly carefully shift your posture, exploring all degrees of freedom therein
 
@@ -5042,7 +5042,7 @@ subtly slowly carefully shift your posture, exploring all degrees of freedom the
 
 [<a href="#606auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="607auxiliary"></span> minimum enjoyable wiggle: (a)
+# <span id="607auxiliary"></span> minimum enjoyable wiggle [a]:
 
 changing as little as possible, move in a way that feels good.
 
@@ -5054,7 +5054,7 @@ use with care -- extremely psychoactive. Move either body or mind or both.
 
 [<a href="#607auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="608auxiliary"></span> yesterday: (h)
+# <span id="608auxiliary"></span> yesterday [h]:
 
 recall yesterday and what’s good & bad about what happened yesterday
 
@@ -5062,7 +5062,7 @@ recall yesterday and what’s good & bad about what happened yesterday
 
 [<a href="#608auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="609auxiliary"></span> tomorrow: (h)
+# <span id="609auxiliary"></span> tomorrow [h]:
 
 consider tomorrow and what’s good & bad about what might happen tomorrow
 
@@ -5070,7 +5070,7 @@ consider tomorrow and what’s good & bad about what might happen tomorrow
 
 [<a href="#609auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="610auxiliary"></span> today: (h)
+# <span id="610auxiliary"></span> today [h]:
 
 reflect on today and what’s good & bad about today
 
@@ -5078,7 +5078,7 @@ reflect on today and what’s good & bad about today
 
 [<a href="#610auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="611auxiliary"></span> pleasure: (h)
+# <span id="611auxiliary"></span> pleasure [h]:
 
 seek out or summon pleasure, here & now, as something to study or to simply enjoy
 
@@ -5086,7 +5086,7 @@ seek out or summon pleasure, here & now, as something to study or to simply enjo
 
 [<a href="#611auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="612auxiliary"></span> reflective posture: (h)
+# <span id="612auxiliary"></span> reflective posture [h]:
 
 find a posture/position that feels good/better
 
@@ -5094,7 +5094,7 @@ find a posture/position that feels good/better
 
 [<a href="#612auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="613auxiliary"></span> vocalize: (h)
+# <span id="613auxiliary"></span> vocalize [h]:
 
 vocalize freely and spontaneously
 
@@ -5102,7 +5102,7 @@ vocalize freely and spontaneously
 
 [<a href="#613auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="614auxiliary"></span> be animal: (h)
+# <span id="614auxiliary"></span> be animal [h]:
 
 be wild, primal, animal
 
@@ -5114,7 +5114,7 @@ doesn’t necessarily imply/require being in a high-energy state. animals grieve
 
 [<a href="#614auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="615auxiliary"></span> treat yourself: (h)
+# <span id="615auxiliary"></span> treat yourself [h]:
 
 treat yourself to something nice. you deserve it!
 
@@ -5122,7 +5122,7 @@ treat yourself to something nice. you deserve it!
 
 [<a href="#615auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="616auxiliary"></span> remember next weekend: (mo)
+# <span id="616auxiliary"></span> remember next weekend [mo]:
 
 you did so many things next weekend! it was such a time. think of all the things you did and didn't do next weekend, and how you felt when they were happening.
 
@@ -5130,7 +5130,7 @@ you did so many things next weekend! it was such a time. think of all the things
 
 [<a href="#616auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="617auxiliary"></span> be perfectly still: (h)
+# <span id="617auxiliary"></span> be perfectly still [h]:
 
 find a comfortable position and be perfectly still, for as long as it feels good
 
@@ -5138,7 +5138,7 @@ find a comfortable position and be perfectly still, for as long as it feels good
 
 [<a href="#617auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="618auxiliary"></span> dormant energy: (h)
+# <span id="618auxiliary"></span> dormant energy [h]:
 
 notice, look for, or summon dormant energy
 
@@ -5146,7 +5146,7 @@ notice, look for, or summon dormant energy
 
 [<a href="#618auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="619auxiliary"></span> rhythmic movement: (h)
+# <span id="619auxiliary"></span> rhythmic movement [h]:
 
 move your body in a rhythmic way that feels good, for as long as it feels good
 
@@ -5154,7 +5154,7 @@ move your body in a rhythmic way that feels good, for as long as it feels good
 
 [<a href="#619auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="620auxiliary"></span> examine details: (h)
+# <span id="620auxiliary"></span> examine details [h]:
 
 thus
 
@@ -5162,7 +5162,7 @@ thus
 
 [<a href="#620auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="621auxiliary"></span> try on mythologies of yourself: (h)
+# <span id="621auxiliary"></span> try on mythologies of yourself [h]:
 
 without becoming attached to them, explore coming up with grand narratives to explain patterns and connections between possibly seemingly unrelated aspects of yourself, your life, your history, your plans, and your relationship to the world
 
@@ -5170,7 +5170,7 @@ without becoming attached to them, explore coming up with grand narratives to ex
 
 [<a href="#621auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="622auxiliary"></span> value build-up: (n)
+# <span id="622auxiliary"></span> value build-up [n]:
 
 Imagine yourself getting dropped into the world, naked and alone. What values/needs need to get covered? Imagine you covered them. What values appear next? At some point start adding new people to the world, one by one, and notice how this affects your value landscape.
 
@@ -5178,7 +5178,7 @@ Imagine yourself getting dropped into the world, naked and alone. What values/ne
 
 [<a href="#622auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="623auxiliary"></span> meditation + physical activity: (h)
+# <span id="623auxiliary"></span> meditation + physical activity [h]:
 
 gently incline toward meditating or doing an/any aux practice while engaging in a physical activity like stretching, yoga, walking/jogging, or dancing
 
@@ -5186,7 +5186,7 @@ gently incline toward meditating or doing an/any aux practice while engaging in 
 
 [<a href="#623auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="624auxiliary"></span> backwards: (a)
+# <span id="624auxiliary"></span> backwards [a]:
 
 Reverse “I must do X to get my mind state Z” to “How might I get my mind in state Y so that X is the natural thing to do?”
 
@@ -5194,7 +5194,7 @@ Reverse “I must do X to get my mind state Z” to “How might I get my mind i
 
 [<a href="#624auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="625auxiliary"></span> violence: (a)
+# <span id="625auxiliary"></span> violence [a]:
 
 Let yourself feel how it would feel to do the violence you already want to do.
 
@@ -5206,7 +5206,7 @@ Allow waves of anger, shame, doing-it-wrong, doesn’t-work-for-me, fear, sadnes
 
 [<a href="#625auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="626auxiliary"></span> sit quietly in a room alone: (jd)
+# <span id="626auxiliary"></span> sit quietly in a room alone [jd]:
 
 thus
 
@@ -5219,7 +5219,7 @@ cf. "All of humanity's problems stem from man's inability to sit quietly in a ro
 [<a href="#626auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
-# <span id="627auxiliary"></span> let yourself have opinions: (jd)
+# <span id="627auxiliary"></span> let yourself have opinions [jd]:
 
 Thus
 
@@ -5227,7 +5227,7 @@ Thus
 
 [<a href="#627auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="628auxiliary"></span> be entitled to your feelings: (h)
+# <span id="628auxiliary"></span> be entitled to your feelings [h]:
 
 thus
 
@@ -5235,7 +5235,7 @@ thus
 
 [<a href="#628auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="629auxiliary"></span> ask your "stupid" questions: (jd)
+# <span id="629auxiliary"></span> ask your "stupid" questions [jd]:
 
 Thus
 
@@ -5243,7 +5243,7 @@ Thus
 
 [<a href="#629auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="630auxiliary"></span> go see a therapist: (jd)
+# <span id="630auxiliary"></span> go see a therapist [jd]:
 
 therapist/healer/coach/etc
 
@@ -5251,7 +5251,7 @@ therapist/healer/coach/etc
 
 [<a href="#630auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="631auxiliary"></span> cross train: (d)
+# <span id="631auxiliary"></span> cross train [d]:
 
 do X as cross training for meditation
 
@@ -5263,7 +5263,7 @@ Practice eating ramen. Train for eating ramen. Eat ramen while distracted. Sit b
 
 [<a href="#631auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="632auxiliary"></span> practice/train: (d)
+# <span id="632auxiliary"></span> practice/train [d]:
 
 practice doing x. Train the doing of x.
 
@@ -5271,7 +5271,7 @@ practice doing x. Train the doing of x.
 
 [<a href="#632auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="633auxiliary"></span> unpractice: (d)
+# <span id="633auxiliary"></span> unpractice [d]:
 
 do x while distracted, remember how you did it. Sit back and gently attend to yourself as you let yourself do x. Completely immerse yourself in doing x/flow/your whole being becomes the doing of x
 
@@ -5279,7 +5279,7 @@ do x while distracted, remember how you did it. Sit back and gently attend to yo
 
 [<a href="#633auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="634auxiliary"></span> be as irritated as you are, no more or less: (\*mo)
+# <span id="634auxiliary"></span> be as irritated as you are, no more or less [\*mo]:
 
 thus
 
@@ -5287,7 +5287,7 @@ thus
 
 [<a href="#634auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="635auxiliary"></span> be no less X than you are: (m)
+# <span id="635auxiliary"></span> be no less X than you are [m]:
 
 thus
 
@@ -5295,7 +5295,7 @@ thus
 
 [<a href="#635auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="636auxiliary"></span> be no more X than you are: (m)
+# <span id="636auxiliary"></span> be no more X than you are [m]:
 
 thus
 
@@ -5303,7 +5303,7 @@ thus
 
 [<a href="#636auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="637auxiliary"></span> ask for help (solo): (jd)
+# <span id="637auxiliary"></span> ask for help (solo) [jd]:
 
 While meditating or otherwise engaged in personal practice, ask for help. Who the ask is directed to may vary per your aesthetics and beliefs. Consider that you might be asking god, or perhaps the deeper parts of yourself, or perhaps no one, or perhaps...
 
@@ -5315,7 +5315,7 @@ E.g. "how do I be with this anxiety in a good way?", or "help me be with this an
 
 [<a href="#637auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="638auxiliary"></span> use profanity to describe things: (m)
+# <span id="638auxiliary"></span> use profanity to describe things [m]:
 
 thus
 
@@ -5323,7 +5323,7 @@ thus
 
 [<a href="#638auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="639auxiliary"></span> be profane: (h)
+# <span id="639auxiliary"></span> be profane [h]:
 
 thus
 
@@ -5331,7 +5331,7 @@ thus
 
 [<a href="#639auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="640auxiliary"></span> FUCK SHIT DICK CUNT: (h)
+# <span id="640auxiliary"></span> FUCK SHIT DICK CUNT [h]:
 
 THUS, YOU FUCKING ASSHOLE
 
@@ -5339,7 +5339,7 @@ THUS, YOU FUCKING ASSHOLE
 
 [<a href="#640auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="641auxiliary"></span> go all-in on whatever’s happening right now: (h)
+# <span id="641auxiliary"></span> go all-in on whatever’s happening right now [h]:
 
 thus, with four-part harmony & feeling
 
@@ -5347,7 +5347,7 @@ thus, with four-part harmony & feeling
 
 [<a href="#641auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="642auxiliary"></span> explore and rest in points/manifolds of disconnection: (h)
+# <span id="642auxiliary"></span> explore and rest in points/manifolds of disconnection [h]:
 
 thus
 
@@ -5359,7 +5359,7 @@ disconnection from self, feelings, desires, other people, pain, memories, etc et
 
 [<a href="#642auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="643auxiliary"></span> ok to escape, ok to hide: (h)
+# <span id="643auxiliary"></span> ok to escape, ok to hide [h]:
 
 let it be ok to hide, from others, from the world, or from yourself; let it be ok to escape, into a room or into your mind
 
@@ -5367,7 +5367,7 @@ let it be ok to hide, from others, from the world, or from yourself; let it be o
 
 [<a href="#643auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="644auxiliary"></span> be with experience in a good way: (jd)
+# <span id="644auxiliary"></span> be with experience in a good way [jd]:
 
 Thus
 
@@ -5375,7 +5375,7 @@ Thus
 
 [<a href="#644auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="645auxiliary"></span> meta-thinking: (h)
+# <span id="645auxiliary"></span> meta-thinking [h]:
 
 what's good to think about? what makes it good? what's bad to think about? what makes it bad?
 
@@ -5383,7 +5383,7 @@ what's good to think about? what makes it good? what's bad to think about? what 
 
 [<a href="#645auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="646auxiliary"></span> stop thinking: (jd)
+# <span id="646auxiliary"></span> stop thinking [jd]:
 
 Cut it out. Seriously, don’t do that. You don’t know what you’re getting yourself into. Quit while you’re ahead...
 
@@ -5391,7 +5391,7 @@ Cut it out. Seriously, don’t do that. You don’t know what you’re getting y
 
 [<a href="#646auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="647auxiliary"></span> instajudge: (mo)
+# <span id="647auxiliary"></span> instajudge [mo]:
 
 flip a coin. Heads is good, tails is bad. For every thought you have in the next minute, judge it accordingly. Ask yourself what difference that makes.
 
@@ -5399,7 +5399,7 @@ flip a coin. Heads is good, tails is bad. For every thought you have in the next
 
 [<a href="#647auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="648auxiliary"></span> accepting resistance: (mo)
+# <span id="648auxiliary"></span> accepting resistance [mo]:
 
 if something is so (particularly internally) and you wish it weren't, speak to your resistance and say, eg:
 "I know you don't want me to feel worthless, but right now I do."
@@ -5408,7 +5408,7 @@ if something is so (particularly internally) and you wish it weren't, speak to y
 
 [<a href="#648auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="649auxiliary"></span> find your voice: (h)
+# <span id="649auxiliary"></span> find your voice [h]:
 
 thus
 
@@ -5416,7 +5416,7 @@ thus
 
 [<a href="#649auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="650auxiliary"></span> be alone: (h)
+# <span id="650auxiliary"></span> be alone [h]:
 
 thus, for as long as it’s good to be, wherever and in whatever way it’s good to be
 
@@ -5424,7 +5424,7 @@ thus, for as long as it’s good to be, wherever and in whatever way it’s good
 
 [<a href="#650auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="651auxiliary"></span> seek help: (h)
+# <span id="651auxiliary"></span> seek help [h]:
 
 thus
 
@@ -5432,7 +5432,7 @@ thus
 
 [<a href="#651auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="652auxiliary"></span> rest in selfhood: (h)
+# <span id="652auxiliary"></span> rest in selfhood [h]:
 
 thus
 
@@ -5440,7 +5440,7 @@ thus
 
 [<a href="#652auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="653auxiliary"></span> follow your instincts: (h)
+# <span id="653auxiliary"></span> follow your instincts [h]:
 
 thus
 
@@ -5448,7 +5448,7 @@ thus
 
 [<a href="#653auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="654auxiliary"></span> here & not here: (h)
+# <span id="654auxiliary"></span> here & not here [h]:
 
 Notice the ways that you’re here, now. Notice the ways that you’re not quite here, or not quite now. Don’t try to change anything, yet.
 
@@ -5456,7 +5456,7 @@ Notice the ways that you’re here, now. Notice the ways that you’re not quite
 
 [<a href="#654auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="655auxiliary"></span> hakuna matata: (mo)
+# <span id="655auxiliary"></span> hakuna matata [mo]:
 
 attempt to find a problem and observe that there are none
 
@@ -5464,7 +5464,7 @@ attempt to find a problem and observe that there are none
 
 [<a href="#655auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="656auxiliary"></span> I still can't find a fucking problem anywhere: (mo)
+# <span id="656auxiliary"></span> I still can't find a fucking problem anywhere [mo]:
 
 give voice to the part of you that wishes things were somehow problematic.
 
@@ -5472,7 +5472,7 @@ give voice to the part of you that wishes things were somehow problematic.
 
 [<a href="#656auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="657auxiliary"></span> peers and nonpeers: (h)
+# <span id="657auxiliary"></span> peers and nonpeers [h]:
 
 what makes someone your peer (your equal) or not your peer? what is the nature of your differences? what would it mean to be everyone’s peer?
 
@@ -5480,7 +5480,7 @@ what makes someone your peer (your equal) or not your peer? what is the nature o
 
 [<a href="#657auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="658auxiliary"></span> how are you doing?: (h)
+# <span id="658auxiliary"></span> how are you doing? [h]:
 
 what’s your honest answer, the answer that you want to say, somewhere, but that you might not say to any actual person were they to ask?
 
@@ -5488,7 +5488,7 @@ what’s your honest answer, the answer that you want to say, somewhere, but tha
 
 [<a href="#658auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="659auxiliary"></span> sit with the question "what if I'm wrong?": (\*mo)
+# <span id="659auxiliary"></span> sit with the question "what if I'm wrong?" [\*mo]:
 
 thus
 
@@ -5496,7 +5496,7 @@ thus
 
 [<a href="#659auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="660auxiliary"></span> too much, too little: (h)
+# <span id="660auxiliary"></span> too much, too little [h]:
 
 ask, what is there too much of? what is there too little of? what shouldn’t be here at all? what’s missing?
 
@@ -5504,7 +5504,7 @@ ask, what is there too much of? what is there too little of? what shouldn’t be
 
 [<a href="#660auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="661auxiliary"></span> everything is ok: (h)
+# <span id="661auxiliary"></span> everything is ok [h]:
 
 imagine a (possibly alternate/parallel) world where everything is ok. go into it, feel it, be there.
 
@@ -5512,7 +5512,7 @@ imagine a (possibly alternate/parallel) world where everything is ok. go into it
 
 [<a href="#661auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="662auxiliary"></span> mourn: (h)
+# <span id="662auxiliary"></span> mourn [h]:
 
 thus
 
@@ -5520,7 +5520,7 @@ thus
 
 [<a href="#662auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="663auxiliary"></span> forget: (d)
+# <span id="663auxiliary"></span> forget [d]:
 
 thus
 
@@ -5528,7 +5528,7 @@ thus
 
 [<a href="#663auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="664auxiliary"></span> yawn. like a huge frikken yawn where you stretch your whole body and it's super satisfying: (d)
+# <span id="664auxiliary"></span> yawn. like a huge frikken yawn where you stretch your whole body and it's super satisfying [d]:
 
 thus
 
@@ -5536,7 +5536,7 @@ thus
 
 [<a href="#664auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="665auxiliary"></span> pushing & pulling: (h)
+# <span id="665auxiliary"></span> pushing & pulling [h]:
 
 notice where you’re pushing. notice where you’re being [naturally] pulled.
 
@@ -5544,7 +5544,7 @@ notice where you’re pushing. notice where you’re being [naturally] pulled.
 
 [<a href="#665auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="666auxiliary"></span> what is this drug?: (mx)
+# <span id="666auxiliary"></span> what is this drug? [mx]:
 
 If I were on a drug right now, what would it be called? Is this a good trip or a bad trip?
 
@@ -5552,7 +5552,7 @@ If I were on a drug right now, what would it be called? Is this a good trip or a
 
 [<a href="#666auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="667auxiliary"></span> watch for reactivity: (h)
+# <span id="667auxiliary"></span> watch for reactivity [h]:
 
 thus
 
@@ -5560,7 +5560,7 @@ thus
 
 [<a href="#667auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="668auxiliary"></span> DIY p3 and/or p8: (h)
+# <span id="668auxiliary"></span> DIY p3 and/or p8 [h]:
 
 Make new versions of the lists in p3 and/or p8 for yourself, based on your own experiences.
 
@@ -5568,7 +5568,7 @@ Make new versions of the lists in p3 and/or p8 for yourself, based on your own e
 
 [<a href="#668auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="669auxiliary"></span> best attention: (h)
+# <span id="669auxiliary"></span> best attention [h]:
 
 Gently, dreamily seek the best place/orientation/position for your attention, right now.
 
@@ -5576,7 +5576,7 @@ Gently, dreamily seek the best place/orientation/position for your attention, ri
 
 [<a href="#669auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="670auxiliary"></span> pay atentionto detail: (d)
+# <span id="670auxiliary"></span> pay atentionto detail [d]:
 
 Thus.
 
@@ -5584,7 +5584,7 @@ Thus.
 
 [<a href="#670auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="671auxiliary"></span> own your shit: (h)
+# <span id="671auxiliary"></span> own your shit [h]:
 
 Own your fucking shit: your problems, your grievances, your situation, your past, your feelings, your mistakes. They’re yours. Own them.
 
@@ -5594,7 +5594,7 @@ And while you’re at it: your achievements, your skills, your friendships, your
 
 [<a href="#671auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="672auxiliary"></span> confront it gently: (h)
+# <span id="672auxiliary"></span> confront it gently [h]:
 
 Try confronting it in a very slow, easy, gentle way.
 
@@ -5602,15 +5602,15 @@ Try confronting it in a very slow, easy, gentle way.
 
 [<a href="#672auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="673auxiliary"></span> taxonomize phenomena: (h)
+# <span id="673auxiliary"></span> taxonomize phenomena [h]:
 
-Explicitly, provisionally taxonomize/categorize the relevant thing(s) 
+Explicitly, provisionally taxonomize/categorize the relevant thing(s)
 
 
 
 [<a href="#673auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="674auxiliary"></span> be fluid: (h)
+# <span id="674auxiliary"></span> be fluid [h]:
 
 Be fluid, supple, yielding.
 
@@ -5618,7 +5618,7 @@ Be fluid, supple, yielding.
 
 [<a href="#674auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="675auxiliary"></span> disobey: (h)
+# <span id="675auxiliary"></span> disobey [h]:
 
 Thus.
 
@@ -5626,7 +5626,7 @@ Thus.
 
 [<a href="#675auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="676auxiliary"></span> go orthogonal: (h)
+# <span id="676auxiliary"></span> go orthogonal [h]:
 
 Consider the axis defined by what you’re doing (or trying to do) and its opposite. now go in an orthogonal direction.
 
@@ -5634,7 +5634,7 @@ Consider the axis defined by what you’re doing (or trying to do) and its oppos
 
 [<a href="#676auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="677auxiliary"></span> intention shaping: (h)
+# <span id="677auxiliary"></span> intention shaping [h]:
 
 Play with and perfect your intention.
 
@@ -5642,7 +5642,7 @@ Play with and perfect your intention.
 
 [<a href="#677auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="678auxiliary"></span> only action: (h)
+# <span id="678auxiliary"></span> only action [h]:
 
 stream of consciousness for doing — don’t think or plan, just [safely] act in the world, for a bit.
 
@@ -5650,7 +5650,7 @@ stream of consciousness for doing — don’t think or plan, just [safely] act i
 
 [<a href="#678auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="679auxiliary"></span> dream big: (h)
+# <span id="679auxiliary"></span> dream big [h]:
 
 Thus.
 
@@ -5658,7 +5658,7 @@ Thus.
 
 [<a href="#679auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="680auxiliary"></span> be generous: (h)
+# <span id="680auxiliary"></span> be generous [h]:
 
 Be generous and charitable, literally or metaphorically.
 
@@ -5674,7 +5674,7 @@ Thus.
 
 [<a href="#681auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="682auxiliary"></span> compose a will: (h)
+# <span id="682auxiliary"></span> compose a will [h]:
 
 Compose a last will and testament, even a brief or incomplete or inadequate one.
 
@@ -5682,7 +5682,7 @@ Compose a last will and testament, even a brief or incomplete or inadequate one.
 
 [<a href="#682auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="683auxiliary"></span> befriend: (h)
+# <span id="683auxiliary"></span> befriend [h]:
 
 Try befriending it.
 
@@ -5690,7 +5690,7 @@ Try befriending it.
 
 [<a href="#683auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="684auxiliary"></span> wrong: (h)
+# <span id="684auxiliary"></span> wrong [h]:
 
 Directly ask, what might I be wrong about?
 
@@ -5698,7 +5698,7 @@ Directly ask, what might I be wrong about?
 
 [<a href="#684auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="685auxiliary"></span> disconnected value: (m)
+# <span id="685auxiliary"></span> disconnected value [m]:
 
 Ask, what things do I seem to value that seem totally disconnected from the other things I value?
 
@@ -5710,7 +5710,7 @@ Main one I'm familiar with is "family".
 
 [<a href="#685auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="686auxiliary"></span> the big picture: (h)
+# <span id="686auxiliary"></span> the big picture [h]:
 
 Consider the big picture, or a bigger picture.
 
@@ -5718,7 +5718,7 @@ Consider the big picture, or a bigger picture.
 
 [<a href="#686auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="687auxiliary"></span> identify the different forces at play: (h)
+# <span id="687auxiliary"></span> identify the different forces at play [h]:
 
 Thus.
 
@@ -5726,7 +5726,7 @@ Thus.
 
 [<a href="#687auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="688auxiliary"></span> repeat an error: (h; gpt-3)
+# <span id="688auxiliary"></span> repeat an error [h; gpt-3]:
 
 Deliberately do something that embarrassingly backfires or leads to an embarrassing or inappropriate response.
 
@@ -5734,7 +5734,7 @@ Deliberately do something that embarrassingly backfires or leads to an embarrass
 
 [<a href="#688auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="689auxiliary"></span> repeat a success: (h; gpt-3)
+# <span id="689auxiliary"></span> repeat a success [h; gpt-3]:
 
 Deliberately do something that leads to positive or satisfying results.
 
@@ -5742,7 +5742,7 @@ Deliberately do something that leads to positive or satisfying results.
 
 [<a href="#689auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="690auxiliary"></span> reverie/daydream: (h; gpt-3)
+# <span id="690auxiliary"></span> reverie/daydream [h; gpt-3]:
 
 Let your mind wander in whatever direction it wants to.
 
@@ -5750,7 +5750,7 @@ Let your mind wander in whatever direction it wants to.
 
 [<a href="#690auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="691auxiliary"></span> focus on what feels best/&#8203;worst/&#8203;neutrally good/&#8203;bad: (h; gpt-3)
+# <span id="691auxiliary"></span> focus on what feels best/&#8203;worst/&#8203;neutrally good/&#8203;bad [h; gpt-3]:
 
 Thus.
 
@@ -5758,7 +5758,7 @@ Thus.
 
 [<a href="#691auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="692auxiliary"></span> focus on the good/bad of a past event: (h; gpt-3)
+# <span id="692auxiliary"></span> focus on the good/bad of a past event [h; gpt-3]:
 
 Thus.
 
@@ -5766,7 +5766,7 @@ Thus.
 
 [<a href="#692auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="693auxiliary"></span> concentrate on something to the exclusion of all else: (h; gpt-3)
+# <span id="693auxiliary"></span> concentrate on something to the exclusion of all else [h; gpt-3]:
 
 Thus and notice subtle or gross wavering or interjection.
 
@@ -5774,7 +5774,7 @@ Thus and notice subtle or gross wavering or interjection.
 
 [<a href="#693auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="694auxiliary"></span> engage in overt positive/negative self-talk: (h; gpt-3)
+# <span id="694auxiliary"></span> engage in overt positive/negative self-talk [h; gpt-3]:
 
 Thus.
 
@@ -5782,7 +5782,7 @@ Thus.
 
 [<a href="#694auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="695auxiliary"></span> engage in covert positive/negative self-talk: (h; gpt-3)
+# <span id="695auxiliary"></span> engage in covert positive/negative self-talk [h; gpt-3]:
 
 Thus.
 
@@ -5790,7 +5790,7 @@ Thus.
 
 [<a href="#695auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="696auxiliary"></span> allow yourself to be emotionally affected (be susceptible): (h; gpt-3)
+# <span id="696auxiliary"></span> allow yourself to be emotionally affected (be susceptible) [h; gpt-3]:
 
 comment:
 
@@ -5800,7 +5800,7 @@ Be empathetic for example.
 
 [<a href="#696auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="697auxiliary"></span> allow yourself to be intellectually influenced (be vulnerable): (h; gpt-3)
+# <span id="697auxiliary"></span> allow yourself to be intellectually influenced (be vulnerable) [h; gpt-3]:
 
 Notice and allow for an influence on or by your thoughts and/or emotions. 
 
@@ -5808,7 +5808,7 @@ Notice and allow for an influence on or by your thoughts and/or emotions.
 
 [<a href="#697auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="698auxiliary"></span> losing control: (h; gpt-3)
+# <span id="698auxiliary"></span> losing control [h; gpt-3]:
 
 Experiment with losing control. Have it, enjoy it. Then, let it go.
 
@@ -5816,7 +5816,7 @@ Experiment with losing control. Have it, enjoy it. Then, let it go.
 
 [<a href="#698auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="699auxiliary"></span> masturbate: (h; gpt-3)
+# <span id="699auxiliary"></span> masturbate [h; gpt-3]:
 
 Thus.
 
@@ -5824,7 +5824,7 @@ Thus.
 
 [<a href="#699auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="700auxiliary"></span> origins and name: (h; gpt-3)
+# <span id="700auxiliary"></span> origins and name [h; gpt-3]:
 
 Ask what’s the origin of X/that? What’s the name of X/that?
 
@@ -5832,7 +5832,7 @@ Ask what’s the origin of X/that? What’s the name of X/that?
 
 [<a href="#700auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="701auxiliary"></span> all of it: (h; gpt-3)
+# <span id="701auxiliary"></span> all of it [h; gpt-3]:
 
 Ask, is it all of it?
 
@@ -5840,7 +5840,7 @@ Ask, is it all of it?
 
 [<a href="#701auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="702auxiliary"></span> balanced perspective: (h; gpt-3)
+# <span id="702auxiliary"></span> balanced perspective [h; gpt-3]:
 
 Ask to be balanced in your perspective. Can you see the good, bad, and ugly of X/that?
 
@@ -5848,7 +5848,7 @@ Ask to be balanced in your perspective. Can you see the good, bad, and ugly of X
 
 [<a href="#702auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="703auxiliary"></span> totality: (h; gpt-3)
+# <span id="703auxiliary"></span> totality [h; gpt-3]:
 
 Be a totality, or “everything.”
 
@@ -5856,7 +5856,7 @@ Be a totality, or “everything.”
 
 [<a href="#703auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="704auxiliary"></span> offer help, accept help: (h; gpt-3)
+# <span id="704auxiliary"></span> offer help, accept help [h; gpt-3]:
 
 Thus.
 
@@ -5872,7 +5872,7 @@ Thus.
 
 [<a href="#705auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="706auxiliary"></span> funny laugh: (h; gpt-3)
+# <span id="706auxiliary"></span> funny laugh [h; gpt-3]:
 
 Curiously, genuinely explore what happens if you try to laugh from your deepest place.
 
@@ -5880,7 +5880,7 @@ Curiously, genuinely explore what happens if you try to laugh from your deepest 
 
 [<a href="#706auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="707auxiliary"></span> try on new identities: (h; gpt-3)
+# <span id="707auxiliary"></span> try on new identities [h; gpt-3]:
 
 If you’re not sure what your identity is, or if you’re not sure if you have an identity, try on some identities. Test them. See how they fit.
 
@@ -5888,7 +5888,7 @@ If you’re not sure what your identity is, or if you’re not sure if you have 
 
 [<a href="#707auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="708auxiliary"></span> get curious about what’s going on inside you: (h; gpt-3)
+# <span id="708auxiliary"></span> get curious about what’s going on inside you [h; gpt-3]:
 
 Go meta, get curious about what’s going on inside you.
 
@@ -5900,14 +5900,14 @@ There are lots of ways i can know something, like knowing something consciously 
 
 [<a href="#708auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="709auxiliary"></span> deeper than that: (h; gpt-3)
+# <span id="709auxiliary"></span> deeper than that [h; gpt-3]:
 
 Ask, is there something deeper than that?
 
 
 [<a href="#709auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="710auxiliary"></span> undo: (h; gpt-3)
+# <span id="710auxiliary"></span> undo [h; gpt-3]:
 
 Ask, how might I undo this or undo its effects?
 
@@ -5915,7 +5915,7 @@ Ask, how might I undo this or undo its effects?
 
 [<a href="#710auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="711auxiliary"></span> not neutral: (h; gpt-3)
+# <span id="711auxiliary"></span> not neutral [h; gpt-3]:
 
 Ask, what isn’t neutral about this?
 
@@ -5923,7 +5923,7 @@ Ask, what isn’t neutral about this?
 
 [<a href="#711auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="712auxiliary"></span> footsteps: (h; gpt-3)
+# <span id="712auxiliary"></span> footsteps [h; gpt-3]:
 
 Imagine being a friend to yourself, following your footsteps, the path you took to get to where you are right now. Maybe that friend can point out, here’s the right decision, here’s the one you regret, here’s the thing you’ll be sorry about later, here’s the fork in the road, here’s the leap of faith you took, here’s the thing you should have said, here’s the way you got it right, here’s the way you got it wrong, here’s how you could have gotten it right.
 
@@ -5931,14 +5931,14 @@ Imagine being a friend to yourself, following your footsteps, the path you took 
 
 [<a href="#712auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="713auxiliary"></span> not the only thing: (h; gpt-3)
+# <span id="713auxiliary"></span> not the only thing [h; gpt-3]:
 
 Ask, what are three other things like this?
 
 
 [<a href="#713auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="714auxiliary"></span> how do you experience things: (h; gpt-3)
+# <span id="714auxiliary"></span> how do you experience things [h; gpt-3]:
 
 How do you experience the experience? How do you experience the experience of the experience?
 
@@ -5946,7 +5946,7 @@ How do you experience the experience? How do you experience the experience of th
 
 [<a href="#714auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="715auxiliary"></span> private wisdom: (h; gpt-3)
+# <span id="715auxiliary"></span> private wisdom [h; gpt-3]:
 
 Ask, what is the wisdom you have that you can’t talk about? (That you are unable to say out loud.)
 
@@ -5954,7 +5954,7 @@ Ask, what is the wisdom you have that you can’t talk about? (That you are unab
 
 [<a href="#715auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="716auxiliary"></span> responding and initiating: (h; gpt-3)
+# <span id="716auxiliary"></span> responding and initiating [h; gpt-3]:
 
 Explore the difference between responding and initiating.
 
@@ -5962,7 +5962,7 @@ Explore the difference between responding and initiating.
 
 [<a href="#716auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="717auxiliary"></span> error message: (h; gpt-3)
+# <span id="717auxiliary"></span> error message [h; gpt-3]:
 
 Give yourself an error message.
 
@@ -5970,14 +5970,14 @@ Give yourself an error message.
 
 [<a href="#717auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="718auxiliary"></span> other people’s minds: (h; gpt-3)
+# <span id="718auxiliary"></span> other people’s minds [h; gpt-3]:
 
 Imagine you/your self (or someone else) suddenly and without warning enters someone else’s mind. Imagine the sensation of that sudden entrance. What would you see, hear, feel? Was that terrifying? What about relieving?
 
 
 [<a href="#718auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="719auxiliary"></span> camouflage: (h; gpt-3)
+# <span id="719auxiliary"></span> camouflage [h; gpt-3]:
 
 How are you in camouflage? What are you in camouflage from?
 
@@ -5985,7 +5985,7 @@ How are you in camouflage? What are you in camouflage from?
 
 [<a href="#719auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="720auxiliary"></span> what is the model here?: (h; gpt-3)
+# <span id="720auxiliary"></span> what is the model here? [h; gpt-3]:
 
 What is the implicit or explicit model here? What would it mean/be like if that were to change? (Or to be obliterated?)
 
@@ -5993,7 +5993,7 @@ What is the implicit or explicit model here? What would it mean/be like if that 
 
 [<a href="#720auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="721auxiliary"></span> just go with it and see what happens: (h)
+# <span id="721auxiliary"></span> just go with it and see what happens [h]:
 
 Thus.
 
@@ -6001,7 +6001,7 @@ Thus.
 
 [<a href="#721auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="722auxiliary"></span> keep doing what you're doing until there is something better to do (without necessarily specifically looking for some better thing): (h)
+# <span id="722auxiliary"></span> keep doing what you're doing until there is something better to do (without necessarily specifically looking for some better thing) [h]:
 
 Thus.
 
@@ -6009,7 +6009,7 @@ Thus.
 
 [<a href="#722auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="723auxiliary"></span> opposite: (q)
+# <span id="723auxiliary"></span> opposite [q]:
 
 Along whatever axes seem important, do the opposite of what you normally do.
 
@@ -6021,7 +6021,7 @@ reversed stupidity may not be intelligence but it is search
 
 [<a href="#723auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="724auxiliary"></span> create affordance: (d)
+# <span id="724auxiliary"></span> create affordance [d]:
 
 Can you turn impossibility into possibility, even if it's with the knowledge you'd never do it?
 
@@ -6029,7 +6029,7 @@ Can you turn impossibility into possibility, even if it's with the knowledge you
 
 [<a href="#724auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="725auxiliary"></span> active & passive thinking: (h)
+# <span id="725auxiliary"></span> active & passive thinking [h]:
 
 Incline toward noticing whether thoughts are “actively thought” or “passively/spontaneously arise”
 
@@ -6227,7 +6227,7 @@ Give up the "how" of how something needs to happen.
 
 [<a href="#748auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="749auxiliary"></span> ask for help: (j)
+# <span id="749auxiliary"></span> ask for help [j]:
 
 Thus.
 
@@ -6279,7 +6279,7 @@ Explore whether which words feel better: "will," "willing," "intend," "intending
 
 [<a href="#754auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="755auxiliary"></span> need imagining: (m\*)
+# <span id="755auxiliary"></span> need imagining [m\*]:
 
 Ask yourself to show you the need in full.
 
@@ -6391,7 +6391,7 @@ Thus.
 
 [<a href="#767auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="768auxiliary"></span> spatially localized attention conceived as such: (tcs)
+# <span id="768auxiliary"></span> spatially localized attention conceived as such [tcs]:
 
 Put attention on/in specific spatial points/volumes/voxels inside and outside the body.
 
@@ -6499,7 +6499,7 @@ Sometimes X and Y are too monolithic and circularly dependent, and exploring cir
 
 [<a href="#778auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="779auxiliary"></span> real/my version: (xx)
+# <span id="779auxiliary"></span> real/my version [xx]:
 
 For desires, goals, ideas, beliefs that you've acquired, that seem "grafted on" or in the "wrong ecology" or wrong landscape, ask, what's the real version of this? What's my version of this?
 
@@ -6641,7 +6641,7 @@ Treat meditation like learning to ride a bike.
 
 [<a href="#795auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="796auxiliary"></span> meditate like: (xx)
+# <span id="796auxiliary"></span> meditate like [xx]:
 
 Meditate like an athlete, a painter, like you're on vacation...
 
@@ -6665,7 +6665,7 @@ If it feels safe, talk about what the right thing to do is or feels like, in ter
 
 [<a href="#798auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="799auxiliary"></span> be open to the possibility of miracles: (j)
+# <span id="799auxiliary"></span> be open to the possibility of miracles [j]:
 
 Remain/be/become open to the possibility of miracles, instantaneous change/transformation/growth.
 
@@ -6673,7 +6673,7 @@ Remain/be/become open to the possibility of miracles, instantaneous change/trans
 
 [<a href="#799auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="800auxiliary"></span> coordinate with breathing: (h)
+# <span id="800auxiliary"></span> coordinate with breathing [h]:
 
 Try coordinating what you're doing with the breath, or pay attention to if/how what you're doing relates to or interacts with the breathing cycle.
 
@@ -6681,7 +6681,7 @@ Try coordinating what you're doing with the breath, or pay attention to if/how w
 
 [<a href="#800auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="801auxiliary"></span> consider doing something else: (ct)
+# <span id="801auxiliary"></span> consider doing something else [ct]:
 
 Thus.
 
@@ -6689,7 +6689,7 @@ Thus.
 
 [<a href="#801auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="802auxiliary"></span> slow down: (j)
+# <span id="802auxiliary"></span> slow down [j]:
 
 Thus.
 
@@ -6697,7 +6697,7 @@ Thus.
 
 [<a href="#802auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="803auxiliary"></span> check your notifications: (h)
+# <span id="803auxiliary"></span> check your notifications [h]:
 
 Thus.
 
@@ -6705,7 +6705,7 @@ Thus.
 
 [<a href="#803auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="804auxiliary"></span> watch porn: (h)
+# <span id="804auxiliary"></span> watch porn [h]:
 
 Thus.
 
@@ -6713,7 +6713,7 @@ Thus.
 
 [<a href="#804auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="805auxiliary"></span> spend an hour on facebook/twitter/reddit/instagram/etc: (h)
+# <span id="805auxiliary"></span> spend an hour on facebook/twitter/reddit/instagram/etc [h]:
 
 Thus.
 
@@ -6721,7 +6721,7 @@ Thus.
 
 [<a href="#805auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="806auxiliary"></span> zone out: (h)
+# <span id="806auxiliary"></span> zone out [h]:
 
 Thus.
 
@@ -6729,7 +6729,7 @@ Thus.
 
 [<a href="#806auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="807auxiliary"></span> scroll through p/a list without doing any: (m)
+# <span id="807auxiliary"></span> scroll through p/a list without doing any [m]:
 
 Thus.
 
@@ -6737,7 +6737,7 @@ Thus.
 
 [<a href="#807auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="808auxiliary"></span> do not do this practice: (d)
+# <span id="808auxiliary"></span> do not do this practice [d]:
 
 Thus.
 
@@ -6745,7 +6745,7 @@ Thus.
 
 [<a href="#808auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="809auxiliary"></span> best order: (h)
+# <span id="809auxiliary"></span> best order [h]:
 
 Ask, what is the best order to do things in, assuming a best global order exists?
 
@@ -6753,7 +6753,7 @@ Ask, what is the best order to do things in, assuming a best global order exists
 
 [<a href="#809auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="810auxiliary"></span> explain using different words: (h)
+# <span id="810auxiliary"></span> explain using different words [h]:
 
 Explain something [see p/a practice “explain something”], then explain it again using different words. considering “tabooing” certain key words (making them off-limits for the purpose of the explanation)
 
@@ -6763,7 +6763,7 @@ OR [see next practice]
 
 [<a href="#810auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="811auxiliary"></span> explain in a new way: (h)
+# <span id="811auxiliary"></span> explain in a new way [h]:
 
 Explain something in a way you’ve never explained it before.
 
@@ -6771,7 +6771,7 @@ Explain something in a way you’ve never explained it before.
 
 [<a href="#811auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="812auxiliary"></span> rest in freely available, no-strings-attached goodness: (h)
+# <span id="812auxiliary"></span> rest in freely available, no-strings-attached goodness [h]:
 
 Thus.
 
@@ -6779,7 +6779,7 @@ Thus.
 
 [<a href="#812auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="813auxiliary"></span> find contention: (h)
+# <span id="813auxiliary"></span> find contention [h]:
 
 Deliberately seek out contention/conflict/resistance/against-ness [wrt X]
 
@@ -6787,7 +6787,7 @@ Deliberately seek out contention/conflict/resistance/against-ness [wrt X]
 
 [<a href="#813auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="814auxiliary"></span> start over: (h)
+# <span id="814auxiliary"></span> start over [h]:
 
 Stop. Take a break, or not. Start again.
 
@@ -6795,7 +6795,7 @@ Stop. Take a break, or not. Start again.
 
 [<a href="#814auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="815auxiliary"></span> logical endpoint: (h)
+# <span id="815auxiliary"></span> logical endpoint [h]:
 
 Ask, what is the logical or most likely endpoint here, given everything i know?
 
@@ -6803,7 +6803,7 @@ Ask, what is the logical or most likely endpoint here, given everything i know?
 
 [<a href="#815auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="816auxiliary"></span> systematically recount: (jd)
+# <span id="816auxiliary"></span> systematically recount [jd]:
 
 Systematically recount moments/times/events(/places?) from your life. For example: every time you've had sex, every time you've had a piece of pizza, every relationship you've been in, every tree you've sat under, etc.
 
@@ -6811,7 +6811,7 @@ Systematically recount moments/times/events(/places?) from your life. For exampl
 
 [<a href="#816auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="817auxiliary"></span> offer 1%: (aj)
+# <span id="817auxiliary"></span> offer 1% [aj]:
 
 See whether something in the body wants something: e.g. to squeeze the legs together, to raise an arm protectively or in preparation to stab down.
 Offer 1% of that, do the first millimeter or less, and completely experience that first millimeter.  Notice how it feels and what if anything happens to the desire to do that particular thing.
@@ -6824,7 +6824,7 @@ Don’t overdo it: if doing so activated your system then only a little into it 
 
 [<a href="#817auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="818auxiliary"></span> find missing concepts: (jd)
+# <span id="818auxiliary"></span> find missing concepts [jd]:
 
 Take note of concepts people talk about that you seem to be “missing.” Explore the ways you might not actually be missing them, or already have full or partial versions of the thing. Scratch: And over time, track how experiences you have or are having may be that thing
 
@@ -6834,7 +6834,7 @@ example: “everyone talks about love all the time but I don’t seem to have an
 
 [<a href="#818auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="819auxiliary"></span> call your mom: (mo)
+# <span id="819auxiliary"></span> call your mom [mo]:
 
 Thus.
 
@@ -6842,7 +6842,7 @@ Thus.
 
 [<a href="#819auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="820auxiliary"></span> call your dad: (mo)
+# <span id="820auxiliary"></span> call your dad [mo]:
 
 Thus.
 
@@ -6850,7 +6850,7 @@ Thus.
 
 [<a href="#820auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="821auxiliary"></span> notice obstruction: (h)
+# <span id="821auxiliary"></span> notice obstruction [h]:
 
 Ask, which processes, rhythms, or movements are being obstructed?
 
@@ -6950,7 +6950,7 @@ Consider that some particular change won't occur until something is perfect down
 
 [<a href="#832auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="833auxiliary"></span> note sense of safety: (aj)
+# <span id="833auxiliary"></span> note sense of safety [aj]:
 
 Thus.
 
@@ -6962,7 +6962,7 @@ Are you experiencing felt physical safety or not?  If not, why?/good to look at 
 
 [<a href="#833auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="834auxiliary"></span> hold self-distrust: (mo)
+# <span id="834auxiliary"></span> hold self-distrust [mo]:
 
 Incline towards the question "in what ways don't I trust myself?" Attend to what arises, and encourage yourself to trust yourself exactly as much as it makes sense to trust yourself.
 
@@ -6987,7 +6987,7 @@ Yes! Totally. There’s an important tension here around “trusting our mistrus
 
 [<a href="#834auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="835auxiliary"></span> manifest rage at self: (mr)
+# <span id="835auxiliary"></span> manifest rage at self [mr]:
 
 if it is safe and good to do so, and only to the degree it is safe and good to do so, manifest rage at self. roar. yell obscenities at self. vocalize any relevant parts' felt rage at you.
 
@@ -6995,7 +6995,7 @@ if it is safe and good to do so, and only to the degree it is safe and good to d
 
 [<a href="#835auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="836auxiliary"></span> mine not mine: (mo\*, jd\*)
+# <span id="836auxiliary"></span> mine not mine [mo\*, jd\*]:
 
 What's mine to do? What's not mine to do? What of the undone is mine to do next?
 
@@ -7003,7 +7003,7 @@ What's mine to do? What's not mine to do? What of the undone is mine to do next?
 
 [<a href="#836auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="837auxiliary"></span> unblocking via movement: (aj)
+# <span id="837auxiliary"></span> unblocking via movement [aj]:
 
 What's here? How does it want to move? Is there a reason it hasn't done that already, or is it safe to do the first speck of that movement?
 
@@ -7023,7 +7023,7 @@ Meditator used hide under a blanket. It's not very effective.
 
 [<a href="#838auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="839auxiliary"></span> explain yourself to a small child: (mh)
+# <span id="839auxiliary"></span> explain yourself to a small child [mh]:
 
 Imagine being followed around by a young,  inquisitive child who is requesting clear and sensible explanations for everything you do.
 
@@ -7031,7 +7031,7 @@ Imagine being followed around by a young,  inquisitive child who is requesting c
 
 [<a href="#839auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="840auxiliary"></span> set a good example: (mh)
+# <span id="840auxiliary"></span> set a good example [mh]:
 
 Imagine that your behavior is on display for a group of children in [age range], and that they'll be inclined to use your behavior as a model for their own.
 
@@ -7039,7 +7039,7 @@ Imagine that your behavior is on display for a group of children in [age range],
 
 [<a href="#840auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="841auxiliary"></span> make a bucket list: (jd)
+# <span id="841auxiliary"></span> make a bucket list [jd]:
 
 Thus.
 
@@ -7047,7 +7047,7 @@ Thus.
 
 [<a href="#841auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="842auxiliary"></span> vocalize an opinion: (jd)
+# <span id="842auxiliary"></span> vocalize an opinion [jd]:
 
 Thus, perhaps out loud to yourself, perhaps out loud to another.
 
@@ -7055,7 +7055,7 @@ Thus, perhaps out loud to yourself, perhaps out loud to another.
 
 [<a href="#842auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="843auxiliary"></span> vocalize a (seeming) truth: (jd)
+# <span id="843auxiliary"></span> vocalize a (seeming) truth [jd]:
 
 Thus.
 
@@ -7063,7 +7063,7 @@ Thus.
 
 [<a href="#843auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="844auxiliary"></span> articulate an opinion: (jd\*)
+# <span id="844auxiliary"></span> articulate an opinion [jd\*]:
 
 Thus, maybe write it down, put it into words.
 
@@ -7071,7 +7071,7 @@ Thus, maybe write it down, put it into words.
 
 [<a href="#844auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="845auxiliary"></span> articulate a (seeming) truth: (jd()
+# <span id="845auxiliary"></span> articulate a (seeming) truth [jd]:
 
 Thus, maybe write it down, put it into words.
 
@@ -7079,7 +7079,7 @@ Thus, maybe write it down, put it into words.
 
 [<a href="#845auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="846auxiliary"></span> toggle worldviews: (mh)
+# <span id="846auxiliary"></span> toggle worldviews [mh]:
 
 Toggle between good and bad.  Pure land and charnel ground.  Toggle faster.  Toggle slower.
 
@@ -7087,7 +7087,7 @@ Toggle between good and bad.  Pure land and charnel ground.  Toggle faster.  Tog
 
 [<a href="#846auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="847auxiliary"></span> what are the options?: (jd)
+# <span id="847auxiliary"></span> what are the options? [jd]:
 
 What are the options, besides diving into the big feel directly?
 
@@ -7175,7 +7175,7 @@ Have a 24-7 horror/terror/fear party.
 
 [<a href="#857auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="858auxiliary"></span> would it be fun?: (\*)
+# <span id="858auxiliary"></span> would it be fun? [\*]:
 
 Ask, would it/that/X be fun?
 
@@ -7183,7 +7183,7 @@ Ask, would it/that/X be fun?
 
 [<a href="#858auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="859auxiliary"></span> have you tried enjoying it?: (\*)
+# <span id="859auxiliary"></span> have you tried enjoying it? [\*]:
 
 Ask, have you tried enjoying it?
 
@@ -7271,7 +7271,7 @@ Move “[subtle] energy” in and along your body (minimally and conservatively,
 
 [<a href="#869auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="870auxiliary"></span> really/&#8203;actually/&#8203;truly want: (\*)
+# <span id="870auxiliary"></span> really/&#8203;actually/&#8203;truly want [\*]:
 
 Ask, what do you really/actually/truly want?
 
@@ -7385,13 +7385,13 @@ You might say something like, ok, I could do X if I really made myself, or overr
 
 [<a href="#882auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="883auxiliary"></span> keep company, hang out with: (restatement)
+# <span id="883auxiliary"></span> keep company, hang out with [restatement]:
 
 Keep something company, hang out with it, spend patient time with it, without trying to change it, without trying to enhance it, without trying to make it go away. You might “surf” with, lightly ride any undulations, waxing and waning, ebb and flow, while doing this. (Compare with Ingram’s analogy: touch the surface of the [not necessarily still water], maintain contact with that surface; without letting the back of the hand get wet.)
 
 [<a href="#883auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="884auxiliary"></span> align with it: (restatement)
+# <span id="884auxiliary"></span> align with it [restatement]:
 
 Try to get on the problematic thing’s side, in (maybe slight) part, as much as you can and is safe. This can on net make the bodymind “more whole,” and free up more slack, in a way that allows the problematic thing to become less problematic, on its own terms while self-respecting its own needs, in a way that is immediately or long-run better, but or integrative, for the whole. (Not to inappropriately reign any of these “things.”)
 
@@ -7401,7 +7401,7 @@ comment:
 
 [<a href="#884auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="885auxiliary"></span> best could have gone: (restatement)
+# <span id="885auxiliary"></span> best could have gone [restatement]:
 
 Ask, what’s the best it could have gone? How’s the best it could have gone?
 

@@ -75,18 +75,18 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="63auxiliary_names" href="#63auxiliary">positive and negative motivation and evaluation</a>
 * <a id="64auxiliary_names" href="#64auxiliary">inner conflict</a>
 * <a id="65auxiliary_names" href="#65auxiliary">inner confusion</a>
-* <a id="66auxiliary_names" href="#66auxiliary">self-soothe (jd)</a>
-* <a id="67auxiliary_names" href="#67auxiliary">relax (jd)</a>
-* <a id="68auxiliary_names" href="#68auxiliary">think with your body (jd)</a>
-* <a id="69auxiliary_names" href="#69auxiliary">live lightly (jd)</a>
-* <a id="70auxiliary_names" href="#70auxiliary">trust your body, trust your mind (jd)</a>
-* <a id="71auxiliary_names" href="#71auxiliary">don’t run away from the present / explore the present / return to the present (jd)</a>
-* <a id="72auxiliary_names" href="#72auxiliary">feel your feelings (jd)</a>
-* <a id="73auxiliary_names" href="#73auxiliary">label (jd)</a>
-* <a id="74auxiliary_names" href="#74auxiliary">find good, find bad (jd)</a>
-* <a id="75auxiliary_names" href="#75auxiliary">embrace nebulosity (jd)</a>
-* <a id="76auxiliary_names" href="#76auxiliary">welcome experience (jd)</a>
-* <a id="77auxiliary_names" href="#77auxiliary">examine avoidance (jd)</a>
+* <a id="66auxiliary_names" href="#66auxiliary">self-soothe [jd]</a>
+* <a id="67auxiliary_names" href="#67auxiliary">relax [jd]</a>
+* <a id="68auxiliary_names" href="#68auxiliary">think with your body [jd]</a>
+* <a id="69auxiliary_names" href="#69auxiliary">live lightly [jd]</a>
+* <a id="70auxiliary_names" href="#70auxiliary">trust your body, trust your mind [jd]</a>
+* <a id="71auxiliary_names" href="#71auxiliary">don’t run away from the present / explore the present / return to the present [jd]</a>
+* <a id="72auxiliary_names" href="#72auxiliary">feel your feelings [jd]</a>
+* <a id="73auxiliary_names" href="#73auxiliary">label [jd]</a>
+* <a id="74auxiliary_names" href="#74auxiliary">find good, find bad [jd]</a>
+* <a id="75auxiliary_names" href="#75auxiliary">embrace nebulosity [jd]</a>
+* <a id="76auxiliary_names" href="#76auxiliary">welcome experience [jd]</a>
+* <a id="77auxiliary_names" href="#77auxiliary">examine avoidance [jd]</a>
 * <a id="78auxiliary_names" href="#78auxiliary">do what feels good</a>
 * <a id="79auxiliary_names" href="#79auxiliary">patiently wait with what feels bad</a>
 * <a id="80auxiliary_names" href="#80auxiliary">patiently wait with “something’s bad but don’t know what or where”</a>
@@ -202,18 +202,18 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="190auxiliary_names" href="#190auxiliary">your heart sing</a>
 * <a id="191auxiliary_names" href="#191auxiliary">exhaustivity/comprehensiveness/systematicity</a>
 * <a id="192auxiliary_names" href="#192auxiliary">go down a prefab list</a>
-* <a id="193auxiliary_names" href="#193auxiliary">locate a deep felt sense (h)</a>
-* <a id="194auxiliary_names" href="#194auxiliary">compare/align sensory streams (h)</a>
-* <a id="195auxiliary_names" href="#195auxiliary">iteratively examine motivation (h)</a>
-* <a id="196auxiliary_names" href="#196auxiliary">refactor agency (h)</a>
-* <a id="197auxiliary_names" href="#197auxiliary">invent a concept (h)</a>
-* <a id="198auxiliary_names" href="#198auxiliary">mindful hygiene (h)</a>
-* <a id="199auxiliary_names" href="#199auxiliary">mindful eating (h)</a>
-* <a id="200auxiliary_names" href="#200auxiliary">examine time (h)</a>
-* <a id="201auxiliary_names" href="#201auxiliary">do it more slowly (h)</a>
-* <a id="202auxiliary_names" href="#202auxiliary">hug yourself (h)</a>
-* <a id="203auxiliary_names" href="#203auxiliary">want everything (h)</a>
-* <a id="204auxiliary_names" href="#204auxiliary">want nothing (h)</a>
+* <a id="193auxiliary_names" href="#193auxiliary">locate a deep felt sense [h]</a>
+* <a id="194auxiliary_names" href="#194auxiliary">compare/align sensory streams [h]</a>
+* <a id="195auxiliary_names" href="#195auxiliary">iteratively examine motivation [h]</a>
+* <a id="196auxiliary_names" href="#196auxiliary">refactor agency [h]</a>
+* <a id="197auxiliary_names" href="#197auxiliary">invent a concept [h]</a>
+* <a id="198auxiliary_names" href="#198auxiliary">mindful hygiene [h]</a>
+* <a id="199auxiliary_names" href="#199auxiliary">mindful eating [h]</a>
+* <a id="200auxiliary_names" href="#200auxiliary">examine time [h]</a>
+* <a id="201auxiliary_names" href="#201auxiliary">do it more slowly [h]</a>
+* <a id="202auxiliary_names" href="#202auxiliary">hug yourself [h]</a>
+* <a id="203auxiliary_names" href="#203auxiliary">want everything [h]</a>
+* <a id="204auxiliary_names" href="#204auxiliary">want nothing [h]</a>
 * <a id="205auxiliary_names" href="#205auxiliary">disclaim (and reclaim) volitionality</a>
 * <a id="206auxiliary_names" href="#206auxiliary">take a break</a>
 * <a id="207auxiliary_names" href="#207auxiliary">listen</a>
@@ -235,11 +235,11 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="223auxiliary_names" href="#223auxiliary">find the sparkle</a>
 * <a id="224auxiliary_names" href="#224auxiliary">intention</a>
 * <a id="225auxiliary_names" href="#225auxiliary">counterfactual closure</a>
-* <a id="226auxiliary_names" href="#226auxiliary">stretch (h)</a>
-* <a id="227auxiliary_names" href="#227auxiliary">connect deeply with purpose/value/meaning/goodness (h)</a>
-* <a id="228auxiliary_names" href="#228auxiliary">notice the past (h)</a>
-* <a id="229auxiliary_names" href="#229auxiliary">notice the future (h)</a>
-* <a id="230auxiliary_names" href="#230auxiliary">notice discomfort (h)</a>
+* <a id="226auxiliary_names" href="#226auxiliary">stretch [h]</a>
+* <a id="227auxiliary_names" href="#227auxiliary">connect deeply with purpose/value/meaning/goodness [h]</a>
+* <a id="228auxiliary_names" href="#228auxiliary">notice the past [h]</a>
+* <a id="229auxiliary_names" href="#229auxiliary">notice the future [h]</a>
+* <a id="230auxiliary_names" href="#230auxiliary">notice discomfort [h]</a>
 * <a id="231auxiliary_names" href="#231auxiliary">attention pulled</a>
 * <a id="232auxiliary_names" href="#232auxiliary">volitional attention</a>
 * <a id="233auxiliary_names" href="#233auxiliary">liminal/nonverbal</a>
@@ -275,53 +275,53 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="263auxiliary_names" href="#263auxiliary">expand</a>
 * <a id="264auxiliary_names" href="#264auxiliary">broken phenomenology</a>
 * <a id="265auxiliary_names" href="#265auxiliary">inability/can’t/ability/can</a>
-* <a id="266auxiliary_names" href="#266auxiliary">stimulate all your senses (a)</a>
-* <a id="267auxiliary_names" href="#267auxiliary">minimize sensory input (a)</a>
+* <a id="266auxiliary_names" href="#266auxiliary">stimulate all your senses [a]</a>
+* <a id="267auxiliary_names" href="#267auxiliary">minimize sensory input [a]</a>
 * <a id="268auxiliary_names" href="#268auxiliary">shackles</a>
-* <a id="269auxiliary_names" href="#269auxiliary">exertion (ae)</a>
-* <a id="270auxiliary_names" href="#270auxiliary">don’t despair (j)</a>
-* <a id="271auxiliary_names" href="#271auxiliary">dwell in unknowing/uncertainty/confusion (j)</a>
-* <a id="272auxiliary_names" href="#272auxiliary">play a character (h)</a>
-* <a id="273auxiliary_names" href="#273auxiliary">stream-of-consciousness writing (h\*)</a>
-* <a id="274auxiliary_names" href="#274auxiliary">explore gratitude (h\*)</a>
-* <a id="275auxiliary_names" href="#275auxiliary">explore courage (h\*)</a>
-* <a id="276auxiliary_names" href="#276auxiliary">mindful pooping (h\*)</a>
-* <a id="277auxiliary_names" href="#277auxiliary">do something uncomfortable or difficult (h)</a>
-* <a id="278auxiliary_names" href="#278auxiliary">notice your voice (h)</a>
-* <a id="279auxiliary_names" href="#279auxiliary">consider death (h)</a>
-* <a id="280auxiliary_names" href="#280auxiliary">be broken (h)</a>
-* <a id="281auxiliary_names" href="#281auxiliary">affirm everything (h)</a>
-* <a id="282auxiliary_names" href="#282auxiliary">catch flinching (h)</a>
-* <a id="283auxiliary_names" href="#283auxiliary">maybe (j)</a>
+* <a id="269auxiliary_names" href="#269auxiliary">exertion [ae]</a>
+* <a id="270auxiliary_names" href="#270auxiliary">don’t despair [j]</a>
+* <a id="271auxiliary_names" href="#271auxiliary">dwell in unknowing/uncertainty/confusion [j]</a>
+* <a id="272auxiliary_names" href="#272auxiliary">play a character [h]</a>
+* <a id="273auxiliary_names" href="#273auxiliary">stream-of-consciousness writing [h\*]</a>
+* <a id="274auxiliary_names" href="#274auxiliary">explore gratitude [h\*]</a>
+* <a id="275auxiliary_names" href="#275auxiliary">explore courage [h\*]</a>
+* <a id="276auxiliary_names" href="#276auxiliary">mindful pooping [h\*]</a>
+* <a id="277auxiliary_names" href="#277auxiliary">do something uncomfortable or difficult [h]</a>
+* <a id="278auxiliary_names" href="#278auxiliary">notice your voice [h]</a>
+* <a id="279auxiliary_names" href="#279auxiliary">consider death [h]</a>
+* <a id="280auxiliary_names" href="#280auxiliary">be broken [h]</a>
+* <a id="281auxiliary_names" href="#281auxiliary">affirm everything [h]</a>
+* <a id="282auxiliary_names" href="#282auxiliary">catch flinching [h]</a>
+* <a id="283auxiliary_names" href="#283auxiliary">maybe [j]</a>
 * <a id="284auxiliary_names" href="#284auxiliary">temporarily stop planning</a>
-* <a id="285auxiliary_names" href="#285auxiliary">talk to yourself as if (j)</a>
-* <a id="286auxiliary_names" href="#286auxiliary">reinterpret (h)</a>
-* <a id="287auxiliary_names" href="#287auxiliary">notice what, notice how (h)</a>
-* <a id="288auxiliary_names" href="#288auxiliary">back to the drawing board (h)</a>
-* <a id="289auxiliary_names" href="#289auxiliary">do something symbolically meaningful (h)</a>
-* <a id="290auxiliary_names" href="#290auxiliary">devise new/better/relevant auxiliary practices (h ht j)</a>
-* <a id="291auxiliary_names" href="#291auxiliary">explore/refactor the concept of meditation itself (h)</a>
-* <a id="292auxiliary_names" href="#292auxiliary">forgive (h)</a>
-* <a id="293auxiliary_names" href="#293auxiliary">repent (h)</a>
-* <a id="294auxiliary_names" href="#294auxiliary">pray (j)</a>
-* <a id="295auxiliary_names" href="#295auxiliary">fart around (j)</a>
+* <a id="285auxiliary_names" href="#285auxiliary">talk to yourself as if [j]</a>
+* <a id="286auxiliary_names" href="#286auxiliary">reinterpret [h]</a>
+* <a id="287auxiliary_names" href="#287auxiliary">notice what, notice how [h]</a>
+* <a id="288auxiliary_names" href="#288auxiliary">back to the drawing board [h]</a>
+* <a id="289auxiliary_names" href="#289auxiliary">do something symbolically meaningful [h]</a>
+* <a id="290auxiliary_names" href="#290auxiliary">devise new/better/relevant auxiliary practices [h ht j]</a>
+* <a id="291auxiliary_names" href="#291auxiliary">explore/refactor the concept of meditation itself [h]</a>
+* <a id="292auxiliary_names" href="#292auxiliary">forgive [h]</a>
+* <a id="293auxiliary_names" href="#293auxiliary">repent [h]</a>
+* <a id="294auxiliary_names" href="#294auxiliary">pray [j]</a>
+* <a id="295auxiliary_names" href="#295auxiliary">fart around [j]</a>
 * <a id="296auxiliary_names" href="#296auxiliary">tingles and non-tingles</a>
-* <a id="297auxiliary_names" href="#297auxiliary">hold contradictions (h)</a>
+* <a id="297auxiliary_names" href="#297auxiliary">hold contradictions [h]</a>
 * <a id="298auxiliary_names" href="#298auxiliary">check out</a>
 * <a id="299auxiliary_names" href="#299auxiliary">get absorbed in something</a>
-* <a id="300auxiliary_names" href="#300auxiliary">constrain yourself (j)</a>
-* <a id="301auxiliary_names" href="#301auxiliary">sleep on it (j)</a>
-* <a id="302auxiliary_names" href="#302auxiliary">surround yourself with beauty/goodness (h)</a>
+* <a id="300auxiliary_names" href="#300auxiliary">constrain yourself [j]</a>
+* <a id="301auxiliary_names" href="#301auxiliary">sleep on it [j]</a>
+* <a id="302auxiliary_names" href="#302auxiliary">surround yourself with beauty/goodness [h]</a>
 * <a id="303auxiliary_names" href="#303auxiliary">pray to be and/or have and/or have happen</a>
 * <a id="304auxiliary_names" href="#304auxiliary">embrace the [almost completely intolerable] “cringy inner chaotic hellscape”</a>
 * <a id="305auxiliary_names" href="#305auxiliary">“enjoy” the [normal] almost perfectly intolerable infinite[ly and critically] bad electrically agonizing awful cringe</a>
-* <a id="306auxiliary_names" href="#306auxiliary">try enjoying it (h)</a>
+* <a id="306auxiliary_names" href="#306auxiliary">try enjoying it [h]</a>
 * <a id="307auxiliary_names" href="#307auxiliary">just [actively] sit, bravely and skillfully</a>
 * <a id="308auxiliary_names" href="#308auxiliary">let whatever happens happen</a>
 * <a id="309auxiliary_names" href="#309auxiliary">let you attention dance</a>
-* <a id="310auxiliary_names" href="#310auxiliary">be shameless(h)</a>
-* <a id="311auxiliary_names" href="#311auxiliary">time off (j\*)</a>
-* <a id="312auxiliary_names" href="#312auxiliary">respond with “maybe” (j\*)</a>
+* <a id="310auxiliary_names" href="#310auxiliary">be shameless[h]</a>
+* <a id="311auxiliary_names" href="#311auxiliary">time off [j\*]</a>
+* <a id="312auxiliary_names" href="#312auxiliary">respond with “maybe” [j\*]</a>
 * <a id="313auxiliary_names" href="#313auxiliary">notice the ways in which you are safe</a>
 * <a id="314auxiliary_names" href="#314auxiliary">allow yourself to be doubtful</a>
 * <a id="315auxiliary_names" href="#315auxiliary">endure</a>
@@ -329,41 +329,41 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="317auxiliary_names" href="#317auxiliary">permission</a>
 * <a id="318auxiliary_names" href="#318auxiliary">not allowed</a>
 * <a id="319auxiliary_names" href="#319auxiliary">posture continuum</a>
-* <a id="320auxiliary_names" href="#320auxiliary">physically exhaust yourself (h)</a>
-* <a id="321auxiliary_names" href="#321auxiliary">examine a flower or a leaf or a stone (h)</a>
-* <a id="322auxiliary_names" href="#322auxiliary">chat with/talk to your X-year-old self (h)</a>
-* <a id="323auxiliary_names" href="#323auxiliary">be someone else (h)</a>
-* <a id="324auxiliary_names" href="#324auxiliary">locate the tragedy/mystery/joy/etc in X (h)</a>
-* <a id="325auxiliary_names" href="#325auxiliary">notice what’s forbidden (h)</a>
-* <a id="326auxiliary_names" href="#326auxiliary">trace the origin of X [in oneself] (h)</a>
-* <a id="327auxiliary_names" href="#327auxiliary">make a list of everything (h)</a>
-* <a id="328auxiliary_names" href="#328auxiliary">list possibilities (h)</a>
-* <a id="329auxiliary_names" href="#329auxiliary">do whatever is necessary to X (h)</a>
-* <a id="330auxiliary_names" href="#330auxiliary">locate the sacredness of X (h)</a>
-* <a id="331auxiliary_names" href="#331auxiliary">notice feeling connected to or disconnected from others & self & nature/world/environment (h)</a>
-* <a id="332auxiliary_names" href="#332auxiliary">adopt a rigid moral code (h)</a>
-* <a id="333auxiliary_names" href="#333auxiliary">dissect language (h)</a>
-* <a id="334auxiliary_names" href="#334auxiliary">pay attention to the X content of communication (h)</a>
-* <a id="335auxiliary_names" href="#335auxiliary">pay attention to the Y content of communication (h)</a>
-* <a id="336auxiliary_names" href="#336auxiliary">play with “X happened to me” vs. “I chose X” (h)</a>
-* <a id="337auxiliary_names" href="#337auxiliary">what pattern is X part of? (h)</a>
-* <a id="338auxiliary_names" href="#338auxiliary">notice that you’re already enlightened/perfect/fine/good/good enough (h)</a>
-* <a id="339auxiliary_names" href="#339auxiliary">write a song/poem/rock opera (h)</a>
-* <a id="340auxiliary_names" href="#340auxiliary">study the cringe as if you were a scientist (h)</a>
-* <a id="341auxiliary_names" href="#341auxiliary">notice what happens when you notice (h)</a>
-* <a id="342auxiliary_names" href="#342auxiliary">cultivate/dwell in solitude (h)</a>
-* <a id="343auxiliary_names" href="#343auxiliary">take solace in the journey (j\*)</a>
-* <a id="344auxiliary_names" href="#344auxiliary">connect with proximal ideal future concretes (aj\*)</a>
-* <a id="345auxiliary_names" href="#345auxiliary">improvise, or see/frame your life as improv (j)</a>
-* <a id="346auxiliary_names" href="#346auxiliary">ask for what you want/need (j)</a>
-* <a id="347auxiliary_names" href="#347auxiliary">make small, little bets (j)</a>
-* <a id="348auxiliary_names" href="#348auxiliary">shake, shiver, quake (aj\*)</a>
+* <a id="320auxiliary_names" href="#320auxiliary">physically exhaust yourself [h]</a>
+* <a id="321auxiliary_names" href="#321auxiliary">examine a flower or a leaf or a stone [h]</a>
+* <a id="322auxiliary_names" href="#322auxiliary">chat with/talk to your X-year-old self [h]</a>
+* <a id="323auxiliary_names" href="#323auxiliary">be someone else [h]</a>
+* <a id="324auxiliary_names" href="#324auxiliary">locate the tragedy/mystery/joy/etc in X [h]</a>
+* <a id="325auxiliary_names" href="#325auxiliary">notice what’s forbidden [h]</a>
+* <a id="326auxiliary_names" href="#326auxiliary">trace the origin of X [in oneself] [h]</a>
+* <a id="327auxiliary_names" href="#327auxiliary">make a list of everything [h]</a>
+* <a id="328auxiliary_names" href="#328auxiliary">list possibilities [h]</a>
+* <a id="329auxiliary_names" href="#329auxiliary">do whatever is necessary to X [h]</a>
+* <a id="330auxiliary_names" href="#330auxiliary">locate the sacredness of X [h]</a>
+* <a id="331auxiliary_names" href="#331auxiliary">notice feeling connected to or disconnected from others & self & nature/world/environment [h]</a>
+* <a id="332auxiliary_names" href="#332auxiliary">adopt a rigid moral code [h]</a>
+* <a id="333auxiliary_names" href="#333auxiliary">dissect language [h]</a>
+* <a id="334auxiliary_names" href="#334auxiliary">pay attention to the X content of communication [h]</a>
+* <a id="335auxiliary_names" href="#335auxiliary">pay attention to the Y content of communication [h]</a>
+* <a id="336auxiliary_names" href="#336auxiliary">play with “X happened to me” vs. “I chose X” [h]</a>
+* <a id="337auxiliary_names" href="#337auxiliary">what pattern is X part of? [h]</a>
+* <a id="338auxiliary_names" href="#338auxiliary">notice that you’re already enlightened/perfect/fine/good/good enough [h]</a>
+* <a id="339auxiliary_names" href="#339auxiliary">write a song/poem/rock opera [h]</a>
+* <a id="340auxiliary_names" href="#340auxiliary">study the cringe as if you were a scientist [h]</a>
+* <a id="341auxiliary_names" href="#341auxiliary">notice what happens when you notice [h]</a>
+* <a id="342auxiliary_names" href="#342auxiliary">cultivate/dwell in solitude [h]</a>
+* <a id="343auxiliary_names" href="#343auxiliary">take solace in the journey [j\*]</a>
+* <a id="344auxiliary_names" href="#344auxiliary">connect with proximal ideal future concretes [aj\*]</a>
+* <a id="345auxiliary_names" href="#345auxiliary">improvise, or see/frame your life as improv [j]</a>
+* <a id="346auxiliary_names" href="#346auxiliary">ask for what you want/need [j]</a>
+* <a id="347auxiliary_names" href="#347auxiliary">make small, little bets [j]</a>
+* <a id="348auxiliary_names" href="#348auxiliary">shake, shiver, quake [aj\*]</a>
 * <a id="349auxiliary_names" href="#349auxiliary">release all technique</a>
 * <a id="350auxiliary_names" href="#350auxiliary">release all conceptions about how the mind works or should work</a>
 * <a id="351auxiliary_names" href="#351auxiliary">mind doing and state release</a>
 * <a id="352auxiliary_names" href="#352auxiliary">no mind</a>
 * <a id="353auxiliary_names" href="#353auxiliary">no self</a>
-* <a id="354auxiliary_names" href="#354auxiliary">flat mind (j\*)</a>
+* <a id="354auxiliary_names" href="#354auxiliary">flat mind [j\*]</a>
 * <a id="355auxiliary_names" href="#355auxiliary">no containment</a>
 * <a id="356auxiliary_names" href="#356auxiliary">no boundaries</a>
 * <a id="357auxiliary_names" href="#357auxiliary">no thought</a>
@@ -386,48 +386,48 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="374auxiliary_names" href="#374auxiliary">honor mediate wrongness</a>
 * <a id="375auxiliary_names" href="#375auxiliary">call bullshit</a>
 * <a id="376auxiliary_names" href="#376auxiliary">remember relevant assertions</a>
-* <a id="377auxiliary_names" href="#377auxiliary">notice judging/blaming (h)</a>
-* <a id="378auxiliary_names" href="#378auxiliary">notice pressure (h)</a>
-* <a id="379auxiliary_names" href="#379auxiliary">notice support (h)</a>
+* <a id="377auxiliary_names" href="#377auxiliary">notice judging/blaming [h]</a>
+* <a id="378auxiliary_names" href="#378auxiliary">notice pressure [h]</a>
+* <a id="379auxiliary_names" href="#379auxiliary">notice support [h]</a>
 * <a id="380auxiliary_names" href="#380auxiliary">have patience</a>
 * <a id="381auxiliary_names" href="#381auxiliary">not too much/too large</a>
 * <a id="382auxiliary_names" href="#382auxiliary">immaculate provenance</a>
 * <a id="383auxiliary_names" href="#383auxiliary">total responsibility</a>
 * <a id="384auxiliary_names" href="#384auxiliary">strategic deferral</a>
-* <a id="385auxiliary_names" href="#385auxiliary">don’t overthink things (j)</a>
+* <a id="385auxiliary_names" href="#385auxiliary">don’t overthink things [j]</a>
 * <a id="386auxiliary_names" href="#386auxiliary">unsurprising-surprising dissolve</a>
-* <a id="387auxiliary_names" href="#387auxiliary">comfort yourself (h\*)</a>
-* <a id="388auxiliary_names" href="#388auxiliary">separate (don’t) want/might (to) be true (h)</a>
-* <a id="389auxiliary_names" href="#389auxiliary">sort out good & bad (h)</a>
-* <a id="390auxiliary_names" href="#390auxiliary">get comfortable (j)</a>
-* <a id="391auxiliary_names" href="#391auxiliary">spotting (aj\*)</a>
+* <a id="387auxiliary_names" href="#387auxiliary">comfort yourself [h\*]</a>
+* <a id="388auxiliary_names" href="#388auxiliary">separate (don’t) want/might (to) be true [h]</a>
+* <a id="389auxiliary_names" href="#389auxiliary">sort out good & bad [h]</a>
+* <a id="390auxiliary_names" href="#390auxiliary">get comfortable [j]</a>
+* <a id="391auxiliary_names" href="#391auxiliary">spotting [aj\*]</a>
 * <a id="392auxiliary_names" href="#392auxiliary">basis</a>
 * <a id="393auxiliary_names" href="#393auxiliary">privilege effortlessness, costlessness, and intuition</a>
-* <a id="394auxiliary_names" href="#394auxiliary">ask who/with/what/good/bad (h)</a>
-* <a id="395auxiliary_names" href="#395auxiliary">no good, no bad (h)</a>
+* <a id="394auxiliary_names" href="#394auxiliary">ask who/with/what/good/bad [h]</a>
+* <a id="395auxiliary_names" href="#395auxiliary">no good, no bad [h]</a>
 * <a id="396auxiliary_names" href="#396auxiliary">embrace imperfection</a>
 * <a id="397auxiliary_names" href="#397auxiliary">embrace “analog”</a>
 * <a id="398auxiliary_names" href="#398auxiliary">meditate poorly; meditate incorrectly</a>
 * <a id="399auxiliary_names" href="#399auxiliary">tinker</a>
 * <a id="400auxiliary_names" href="#400auxiliary">feel broken</a>
 * <a id="401auxiliary_names" href="#401auxiliary">ask for whom</a>
-* <a id="402auxiliary_names" href="#402auxiliary">forgive yourself (j)</a>
-* <a id="403auxiliary_names" href="#403auxiliary">trust  (j)</a>
-* <a id="404auxiliary_names" href="#404auxiliary">let yourself be supported (j)</a>
-* <a id="405auxiliary_names" href="#405auxiliary">abandon reason (j)</a>
-* <a id="406auxiliary_names" href="#406auxiliary">walk it off (j)</a>
-* <a id="407auxiliary_names" href="#407auxiliary">experience the elements (j)</a>
-* <a id="408auxiliary_names" href="#408auxiliary">follow the signs (j)</a>
-* <a id="409auxiliary_names" href="#409auxiliary">breadth-first (h)</a>
-* <a id="410auxiliary_names" href="#410auxiliary">depth-first (h)</a>
-* <a id="411auxiliary_names" href="#411auxiliary">think nonverbally (h)</a>
-* <a id="412auxiliary_names" href="#412auxiliary">notice unconscious patterns (h)</a>
-* <a id="413auxiliary_names" href="#413auxiliary">play (h)</a>
-* <a id="414auxiliary_names" href="#414auxiliary">keep going (j)</a>
+* <a id="402auxiliary_names" href="#402auxiliary">forgive yourself [j]</a>
+* <a id="403auxiliary_names" href="#403auxiliary">trust  [j]</a>
+* <a id="404auxiliary_names" href="#404auxiliary">let yourself be supported [j]</a>
+* <a id="405auxiliary_names" href="#405auxiliary">abandon reason [j]</a>
+* <a id="406auxiliary_names" href="#406auxiliary">walk it off [j]</a>
+* <a id="407auxiliary_names" href="#407auxiliary">experience the elements [j]</a>
+* <a id="408auxiliary_names" href="#408auxiliary">follow the signs [j]</a>
+* <a id="409auxiliary_names" href="#409auxiliary">breadth-first [h]</a>
+* <a id="410auxiliary_names" href="#410auxiliary">depth-first [h]</a>
+* <a id="411auxiliary_names" href="#411auxiliary">think nonverbally [h]</a>
+* <a id="412auxiliary_names" href="#412auxiliary">notice unconscious patterns [h]</a>
+* <a id="413auxiliary_names" href="#413auxiliary">play [h]</a>
+* <a id="414auxiliary_names" href="#414auxiliary">keep going [j]</a>
 * <a id="415auxiliary_names" href="#415auxiliary">where and when</a>
 * <a id="416auxiliary_names" href="#416auxiliary">concreteness/abstractness</a>
-* <a id="417auxiliary_names" href="#417auxiliary">be impulsive (j)</a>
-* <a id="418auxiliary_names" href="#418auxiliary">from fear or love (j\*)</a>
+* <a id="417auxiliary_names" href="#417auxiliary">be impulsive [j]</a>
+* <a id="418auxiliary_names" href="#418auxiliary">from fear or love [j\*]</a>
 * <a id="419auxiliary_names" href="#419auxiliary">ignoring and listening</a>
 * <a id="420auxiliary_names" href="#420auxiliary">how do you know</a>
 * <a id="421auxiliary_names" href="#421auxiliary">commit (for the purpose of potentially dissolving)</a>
@@ -436,9 +436,9 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="424auxiliary_names" href="#424auxiliary">find your can’ts</a>
 * <a id="425auxiliary_names" href="#425auxiliary">deathbed</a>
 * <a id="426auxiliary_names" href="#426auxiliary">other people</a>
-* <a id="427auxiliary_names" href="#427auxiliary">revisit things of the past (h)</a>
-* <a id="428auxiliary_names" href="#428auxiliary">picture your child, having your childhood (aj)</a>
-* <a id="429auxiliary_names" href="#429auxiliary">assume you have no idea what "play" is (aj)</a>
+* <a id="427auxiliary_names" href="#427auxiliary">revisit things of the past [h]</a>
+* <a id="428auxiliary_names" href="#428auxiliary">picture your child, having your childhood [aj]</a>
+* <a id="429auxiliary_names" href="#429auxiliary">assume you have no idea what "play" is [aj]</a>
 * <a id="430auxiliary_names" href="#430auxiliary">safe to look</a>
 * <a id="431auxiliary_names" href="#431auxiliary">better than this</a>
 * <a id="432auxiliary_names" href="#432auxiliary">more or less real</a>
@@ -446,18 +446,18 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="434auxiliary_names" href="#434auxiliary">good/bad forwards/backwards</a>
 * <a id="435auxiliary_names" href="#435auxiliary">really real</a>
 * <a id="436auxiliary_names" href="#436auxiliary">let itself</a>
-* <a id="437auxiliary_names" href="#437auxiliary">models (h)</a>
+* <a id="437auxiliary_names" href="#437auxiliary">models [h]</a>
 * <a id="438auxiliary_names" href="#438auxiliary">deeper</a>
 * <a id="439auxiliary_names" href="#439auxiliary">underneath</a>
-* <a id="440auxiliary_names" href="#440auxiliary">unknown unintended consequences of omission and commission (m)</a>
+* <a id="440auxiliary_names" href="#440auxiliary">unknown unintended consequences of omission and commission [m]</a>
 * <a id="441auxiliary_names" href="#441auxiliary">safe anger</a>
-* <a id="442auxiliary_names" href="#442auxiliary">stay in (the) flow (j)</a>
+* <a id="442auxiliary_names" href="#442auxiliary">stay in (the) flow [j]</a>
 * <a id="443auxiliary_names" href="#443auxiliary">reactions</a>
 * <a id="444auxiliary_names" href="#444auxiliary">self-censoring</a>
-* <a id="445auxiliary_names" href="#445auxiliary">feedback loops (b)</a>
-* <a id="446auxiliary_names" href="#446auxiliary">plan evaluation (j)</a>
+* <a id="445auxiliary_names" href="#445auxiliary">feedback loops [b]</a>
+* <a id="446auxiliary_names" href="#446auxiliary">plan evaluation [j]</a>
 * <a id="447auxiliary_names" href="#447auxiliary">listening and ignoring</a>
-* <a id="448auxiliary_names" href="#448auxiliary">no language (h)</a>
+* <a id="448auxiliary_names" href="#448auxiliary">no language [h]</a>
 * <a id="449auxiliary_names" href="#449auxiliary">open mind</a>
 * <a id="450auxiliary_names" href="#450auxiliary">already-ness</a>
 * <a id="451auxiliary_names" href="#451auxiliary">reaction owning and backlog</a>
@@ -467,7 +467,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="455auxiliary_names" href="#455auxiliary">entirety of the thing</a>
 * <a id="456auxiliary_names" href="#456auxiliary">infrequently attended</a>
 * <a id="457auxiliary_names" href="#457auxiliary">standing tall</a>
-* <a id="458auxiliary_names" href="#458auxiliary">say a thing is something (m)</a>
+* <a id="458auxiliary_names" href="#458auxiliary">say a thing is something [m]</a>
 * <a id="459auxiliary_names" href="#459auxiliary">body on mind</a>
 * <a id="460auxiliary_names" href="#460auxiliary">according to whom</a>
 * <a id="461auxiliary_names" href="#461auxiliary">lightly experimentally intensify</a>
@@ -490,7 +490,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="478auxiliary_names" href="#478auxiliary">appreciate X</a>
 * <a id="479auxiliary_names" href="#479auxiliary">enjoy X</a>
 * <a id="480auxiliary_names" href="#480auxiliary">directness</a>
-* <a id="481auxiliary_names" href="#481auxiliary">learn from your mistakes (j)</a>
+* <a id="481auxiliary_names" href="#481auxiliary">learn from your mistakes [j]</a>
 * <a id="482auxiliary_names" href="#482auxiliary">love</a>
 * <a id="483auxiliary_names" href="#483auxiliary">current limitations</a>
 * <a id="484auxiliary_names" href="#484auxiliary">in-this-moment inabilities</a>
@@ -500,36 +500,36 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="488auxiliary_names" href="#488auxiliary">break it into syllables</a>
 * <a id="489auxiliary_names" href="#489auxiliary">do subtle</a>
 * <a id="490auxiliary_names" href="#490auxiliary">gravity, bone, and muscle</a>
-* <a id="491auxiliary_names" href="#491auxiliary">posture differential (h)</a>
-* <a id="492auxiliary_names" href="#492auxiliary">don’t overthink things (jd)</a>
-* <a id="493auxiliary_names" href="#493auxiliary">make your body available (h)</a>
-* <a id="494auxiliary_names" href="#494auxiliary">stop holding (d)</a>
-* <a id="495auxiliary_names" href="#495auxiliary">check in with yourself (h)</a>
-* <a id="496auxiliary_names" href="#496auxiliary">underthink (d)</a>
-* <a id="497auxiliary_names" href="#497auxiliary">think ahead (d)</a>
-* <a id="498auxiliary_names" href="#498auxiliary">don’t overthink things (jd)</a>
-* <a id="499auxiliary_names" href="#499auxiliary">surrender (jd)</a>
-* <a id="500auxiliary_names" href="#500auxiliary">allow (jd)</a>
-* <a id="501auxiliary_names" href="#501auxiliary">be patient (jd)</a>
-* <a id="502auxiliary_names" href="#502auxiliary">commune with the plants (jd)</a>
-* <a id="503auxiliary_names" href="#503auxiliary">commune with nature (jd)</a>
-* <a id="504auxiliary_names" href="#504auxiliary">align yourself with the natural flow of nature / the natural world (jd)</a>
-* <a id="505auxiliary_names" href="#505auxiliary">love (jd)</a>
-* <a id="506auxiliary_names" href="#506auxiliary">enter your heart space (jd)</a>
-* <a id="507auxiliary_names" href="#507auxiliary">don't do (d; “metaaux”)</a>
-* <a id="508auxiliary_names" href="#508auxiliary">do not (d; “metaaux”)</a>
-* <a id="509auxiliary_names" href="#509auxiliary">passively have happen; already the case (d; “metaaux”)</a>
-* <a id="510auxiliary_names" href="#510auxiliary">wait and see (jd)</a>
-* <a id="511auxiliary_names" href="#511auxiliary">slow down (jd)</a>
-* <a id="512auxiliary_names" href="#512auxiliary">listen to nature (jd)</a>
-* <a id="513auxiliary_names" href="#513auxiliary">meditate with crystals (jd)</a>
-* <a id="514auxiliary_names" href="#514auxiliary">prioritize being over doing (jd)</a>
-* <a id="515auxiliary_names" href="#515auxiliary">prioritize feeling over thinking (jd)</a>
-* <a id="516auxiliary_names" href="#516auxiliary">let things get messy (jd)</a>
-* <a id="517auxiliary_names" href="#517auxiliary">take the dive (h)</a>
-* <a id="518auxiliary_names" href="#518auxiliary">use your strength (h)</a>
-* <a id="519auxiliary_names" href="#519auxiliary">rest in restlessness (h)</a>
-* <a id="520auxiliary_names" href="#520auxiliary">get underneath the level of story (jd)</a>
+* <a id="491auxiliary_names" href="#491auxiliary">posture differential [h]</a>
+* <a id="492auxiliary_names" href="#492auxiliary">don’t overthink things [jd]</a>
+* <a id="493auxiliary_names" href="#493auxiliary">make your body available [h]</a>
+* <a id="494auxiliary_names" href="#494auxiliary">stop holding [d]</a>
+* <a id="495auxiliary_names" href="#495auxiliary">check in with yourself [h]</a>
+* <a id="496auxiliary_names" href="#496auxiliary">underthink [d]</a>
+* <a id="497auxiliary_names" href="#497auxiliary">think ahead [d]</a>
+* <a id="498auxiliary_names" href="#498auxiliary">don’t overthink things [jd]</a>
+* <a id="499auxiliary_names" href="#499auxiliary">surrender [jd]</a>
+* <a id="500auxiliary_names" href="#500auxiliary">allow [jd]</a>
+* <a id="501auxiliary_names" href="#501auxiliary">be patient [jd]</a>
+* <a id="502auxiliary_names" href="#502auxiliary">commune with the plants [jd]</a>
+* <a id="503auxiliary_names" href="#503auxiliary">commune with nature [jd]</a>
+* <a id="504auxiliary_names" href="#504auxiliary">align yourself with the natural flow of nature / the natural world [jd]</a>
+* <a id="505auxiliary_names" href="#505auxiliary">love [jd]</a>
+* <a id="506auxiliary_names" href="#506auxiliary">enter your heart space [jd]</a>
+* <a id="507auxiliary_names" href="#507auxiliary">don't do [d; “metaaux”]</a>
+* <a id="508auxiliary_names" href="#508auxiliary">do not [d; “metaaux”]</a>
+* <a id="509auxiliary_names" href="#509auxiliary">passively have happen; already the case [d; “metaaux”]</a>
+* <a id="510auxiliary_names" href="#510auxiliary">wait and see [jd]</a>
+* <a id="511auxiliary_names" href="#511auxiliary">slow down [jd]</a>
+* <a id="512auxiliary_names" href="#512auxiliary">listen to nature [jd]</a>
+* <a id="513auxiliary_names" href="#513auxiliary">meditate with crystals [jd]</a>
+* <a id="514auxiliary_names" href="#514auxiliary">prioritize being over doing [jd]</a>
+* <a id="515auxiliary_names" href="#515auxiliary">prioritize feeling over thinking [jd]</a>
+* <a id="516auxiliary_names" href="#516auxiliary">let things get messy [jd]</a>
+* <a id="517auxiliary_names" href="#517auxiliary">take the dive [h]</a>
+* <a id="518auxiliary_names" href="#518auxiliary">use your strength [h]</a>
+* <a id="519auxiliary_names" href="#519auxiliary">rest in restlessness [h]</a>
+* <a id="520auxiliary_names" href="#520auxiliary">get underneath the level of story [jd]</a>
 * <a id="521auxiliary_names" href="#521auxiliary">notice directness or indirectness</a>
 * <a id="522auxiliary_names" href="#522auxiliary">thing behind the thing or bask directly</a>
 * <a id="523auxiliary_names" href="#523auxiliary">bask in the goodness of badness</a>
@@ -554,11 +554,11 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="542auxiliary_names" href="#542auxiliary">encodings</a>
 * <a id="543auxiliary_names" href="#543auxiliary">look for how to non-manage</a>
 * <a id="544auxiliary_names" href="#544auxiliary">look for “if could only just X”</a>
-* <a id="545auxiliary_names" href="#545auxiliary">jiggle (h)</a>
-* <a id="546auxiliary_names" href="#546auxiliary">thus (b)</a>
-* <a id="547auxiliary_names" href="#547auxiliary">have fun with the practice (b)</a>
-* <a id="548auxiliary_names" href="#548auxiliary">play with the practice (b)</a>
-* <a id="549auxiliary_names" href="#549auxiliary">mind, body, world (h)</a>
+* <a id="545auxiliary_names" href="#545auxiliary">jiggle [h]</a>
+* <a id="546auxiliary_names" href="#546auxiliary">thus [b]</a>
+* <a id="547auxiliary_names" href="#547auxiliary">have fun with the practice [b]</a>
+* <a id="548auxiliary_names" href="#548auxiliary">play with the practice [b]</a>
+* <a id="549auxiliary_names" href="#549auxiliary">mind, body, world [h]</a>
 * <a id="550auxiliary_names" href="#550auxiliary">outside</a>
 * <a id="551auxiliary_names" href="#551auxiliary">surety</a>
 * <a id="552auxiliary_names" href="#552auxiliary">cradle</a>
@@ -577,8 +577,8 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="565auxiliary_names" href="#565auxiliary">contingency</a>
 * <a id="566auxiliary_names" href="#566auxiliary">otherwiseness</a>
 * <a id="567auxiliary_names" href="#567auxiliary">need/bad to (not) believe</a>
-* <a id="568auxiliary_names" href="#568auxiliary">postural pull (m\*)</a>
-* <a id="569auxiliary_names" href="#569auxiliary">gestural expansiveness (m\*)</a>
+* <a id="568auxiliary_names" href="#568auxiliary">postural pull [m\*]</a>
+* <a id="569auxiliary_names" href="#569auxiliary">gestural expansiveness [m\*]</a>
 * <a id="570auxiliary_names" href="#570auxiliary">impartial part helping</a>
 * <a id="571auxiliary_names" href="#571auxiliary">assume even worse/worst</a>
 * <a id="572auxiliary_names" href="#572auxiliary">be a baby, be prenatal</a>
@@ -598,143 +598,143 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="586auxiliary_names" href="#586auxiliary">memory/imagination triggering</a>
 * <a id="587auxiliary_names" href="#587auxiliary">urges and impulses</a>
 * <a id="588auxiliary_names" href="#588auxiliary">three-dimensional, unforced scanning</a>
-* <a id="589auxiliary_names" href="#589auxiliary">be gross (h)</a>
-* <a id="590auxiliary_names" href="#590auxiliary">notice expectations (h)</a>
-* <a id="591auxiliary_names" href="#591auxiliary">drop expectations (h)</a>
-* <a id="592auxiliary_names" href="#592auxiliary">just do what you gotta do (h)</a>
-* <a id="593auxiliary_names" href="#593auxiliary">eat the shadow (s)</a>
-* <a id="594auxiliary_names" href="#594auxiliary">awareness of space, time, possibility (h)</a>
-* <a id="595auxiliary_names" href="#595auxiliary">imagine variants (h)</a>
-* <a id="596auxiliary_names" href="#596auxiliary">more body do (h)</a>
-* <a id="597auxiliary_names" href="#597auxiliary">be loved (h)</a>
-* <a id="598auxiliary_names" href="#598auxiliary">safe shame (h)</a>
-* <a id="599auxiliary_names" href="#599auxiliary">safe fear (a)</a>
-* <a id="600auxiliary_names" href="#600auxiliary">safe rage (a)</a>
-* <a id="601auxiliary_names" href="#601auxiliary">safe joy (a)</a>
-* <a id="602auxiliary_names" href="#602auxiliary">safe grief (a)</a>
-* <a id="603auxiliary_names" href="#603auxiliary">safe turn-on (a)</a>
-* <a id="604auxiliary_names" href="#604auxiliary">pretend up is down and down is up (mo)</a>
-* <a id="605auxiliary_names" href="#605auxiliary">notice care (h)</a>
-* <a id="606auxiliary_names" href="#606auxiliary">explore subtle posture (h)</a>
-* <a id="607auxiliary_names" href="#607auxiliary">minimum enjoyable wiggle (a)</a>
-* <a id="608auxiliary_names" href="#608auxiliary">yesterday (h)</a>
-* <a id="609auxiliary_names" href="#609auxiliary">tomorrow (h)</a>
-* <a id="610auxiliary_names" href="#610auxiliary">today (h)</a>
-* <a id="611auxiliary_names" href="#611auxiliary">pleasure (h)</a>
-* <a id="612auxiliary_names" href="#612auxiliary">reflective posture (h)</a>
-* <a id="613auxiliary_names" href="#613auxiliary">vocalize (h)</a>
-* <a id="614auxiliary_names" href="#614auxiliary">be animal (h)</a>
-* <a id="615auxiliary_names" href="#615auxiliary">treat yourself (h)</a>
-* <a id="616auxiliary_names" href="#616auxiliary">remember next weekend (mo)</a>
-* <a id="617auxiliary_names" href="#617auxiliary">be perfectly still (h)</a>
-* <a id="618auxiliary_names" href="#618auxiliary">dormant energy (h)</a>
-* <a id="619auxiliary_names" href="#619auxiliary">rhythmic movement (h)</a>
-* <a id="620auxiliary_names" href="#620auxiliary">examine details (h)</a>
-* <a id="621auxiliary_names" href="#621auxiliary">try on mythologies of yourself (h)</a>
-* <a id="622auxiliary_names" href="#622auxiliary">value build-up (n)</a>
-* <a id="623auxiliary_names" href="#623auxiliary">meditation + physical activity (h)</a>
-* <a id="624auxiliary_names" href="#624auxiliary">backwards (a)</a>
-* <a id="625auxiliary_names" href="#625auxiliary">violence (a)</a>
-* <a id="626auxiliary_names" href="#626auxiliary">sit quietly in a room alone (jd)</a>
-* <a id="627auxiliary_names" href="#627auxiliary">let yourself have opinions (jd)</a>
-* <a id="628auxiliary_names" href="#628auxiliary">be entitled to your feelings (h)</a>
-* <a id="629auxiliary_names" href="#629auxiliary">ask your "stupid" questions (jd)</a>
-* <a id="630auxiliary_names" href="#630auxiliary">go see a therapist (jd)</a>
-* <a id="631auxiliary_names" href="#631auxiliary">cross train (d)</a>
-* <a id="632auxiliary_names" href="#632auxiliary">practice/train (d)</a>
-* <a id="633auxiliary_names" href="#633auxiliary">unpractice (d)</a>
-* <a id="634auxiliary_names" href="#634auxiliary">be as irritated as you are, no more or less (\*mo)</a>
-* <a id="635auxiliary_names" href="#635auxiliary">be no less X than you are (m)</a>
-* <a id="636auxiliary_names" href="#636auxiliary">be no more X than you are (m)</a>
-* <a id="637auxiliary_names" href="#637auxiliary">ask for help (solo) (jd)</a>
-* <a id="638auxiliary_names" href="#638auxiliary">use profanity to describe things (m)</a>
-* <a id="639auxiliary_names" href="#639auxiliary">be profane (h)</a>
-* <a id="640auxiliary_names" href="#640auxiliary">FUCK SHIT DICK CUNT (h)</a>
-* <a id="641auxiliary_names" href="#641auxiliary">go all-in on whatever’s happening right now (h)</a>
-* <a id="642auxiliary_names" href="#642auxiliary">explore and rest in points/manifolds of disconnection (h)</a>
-* <a id="643auxiliary_names" href="#643auxiliary">ok to escape, ok to hide (h)</a>
-* <a id="644auxiliary_names" href="#644auxiliary">be with experience in a good way (jd)</a>
-* <a id="645auxiliary_names" href="#645auxiliary">meta-thinking (h)</a>
-* <a id="646auxiliary_names" href="#646auxiliary">stop thinking (jd)</a>
-* <a id="647auxiliary_names" href="#647auxiliary">instajudge (mo)</a>
-* <a id="648auxiliary_names" href="#648auxiliary">accepting resistance (mo)</a>
-* <a id="649auxiliary_names" href="#649auxiliary">find your voice (h)</a>
-* <a id="650auxiliary_names" href="#650auxiliary">be alone (h)</a>
-* <a id="651auxiliary_names" href="#651auxiliary">seek help (h)</a>
-* <a id="652auxiliary_names" href="#652auxiliary">rest in selfhood (h)</a>
-* <a id="653auxiliary_names" href="#653auxiliary">follow your instincts (h)</a>
-* <a id="654auxiliary_names" href="#654auxiliary">here & not here (h)</a>
-* <a id="655auxiliary_names" href="#655auxiliary">hakuna matata (mo)</a>
-* <a id="656auxiliary_names" href="#656auxiliary">I still can't find a fucking problem anywhere (mo)</a>
-* <a id="657auxiliary_names" href="#657auxiliary">peers and nonpeers (h)</a>
-* <a id="658auxiliary_names" href="#658auxiliary">how are you doing? (h)</a>
-* <a id="659auxiliary_names" href="#659auxiliary">sit with the question "what if I'm wrong?" (\*mo)</a>
-* <a id="660auxiliary_names" href="#660auxiliary">too much, too little (h)</a>
-* <a id="661auxiliary_names" href="#661auxiliary">everything is ok (h)</a>
-* <a id="662auxiliary_names" href="#662auxiliary">mourn (h)</a>
-* <a id="663auxiliary_names" href="#663auxiliary">forget (d)</a>
-* <a id="664auxiliary_names" href="#664auxiliary">super satisfying (d)</a>
-* <a id="665auxiliary_names" href="#665auxiliary">pushing & pulling (h)</a>
-* <a id="666auxiliary_names" href="#666auxiliary">what is this drug? (mx)</a>
-* <a id="667auxiliary_names" href="#667auxiliary">watch for reactivity (h)</a>
-* <a id="668auxiliary_names" href="#668auxiliary">DIY p3 and/or p8 (h)</a>
-* <a id="669auxiliary_names" href="#669auxiliary">best attention (h)</a>
-* <a id="670auxiliary_names" href="#670auxiliary">pay atentionto detail (d)</a>
-* <a id="671auxiliary_names" href="#671auxiliary">own your shit (h)</a>
-* <a id="672auxiliary_names" href="#672auxiliary">confront it gently (h)</a>
-* <a id="673auxiliary_names" href="#673auxiliary">taxonomize phenomena (h)</a>
-* <a id="674auxiliary_names" href="#674auxiliary">be fluid (h)</a>
-* <a id="675auxiliary_names" href="#675auxiliary">disobey (h)</a>
-* <a id="676auxiliary_names" href="#676auxiliary">go orthogonal (h)</a>
-* <a id="677auxiliary_names" href="#677auxiliary">ntention shaping (h)</a>
-* <a id="678auxiliary_names" href="#678auxiliary">only action (h)</a>
-* <a id="679auxiliary_names" href="#679auxiliary">dream big (h)</a>
-* <a id="680auxiliary_names" href="#680auxiliary">be generous (h)</a>
-* <a id="681auxiliary_names" href="#681auxiliary">look for what’s missing (h)</a>
-* <a id="682auxiliary_names" href="#682auxiliary">compose a will (h)</a>
-* <a id="683auxiliary_names" href="#683auxiliary">befriend (h)</a>
-* <a id="684auxiliary_names" href="#684auxiliary">wrong (h)</a>
-* <a id="685auxiliary_names" href="#685auxiliary">disconnected value (m)</a>
-* <a id="686auxiliary_names" href="#686auxiliary">the big picture (h)</a>
-* <a id="687auxiliary_names" href="#687auxiliary">identify the different forces at play (h)</a>
-* <a id="688auxiliary_names" href="#688auxiliary">repeat an error (h; gpt-3)</a>
-* <a id="689auxiliary_names" href="#689auxiliary">repeat a success (h; gpt-3)</a>
-* <a id="690auxiliary_names" href="#690auxiliary">reverie/daydream (h; gpt-3)</a>
-* <a id="691auxiliary_names" href="#691auxiliary">focus on what feels best/worst/neutrally good/bad (h; gpt-3)</a>
-* <a id="692auxiliary_names" href="#692auxiliary">focus on the good/bad of a past event (h; gpt-3)</a>
-* <a id="693auxiliary_names" href="#693auxiliary">concentrate on something to the exclusion of all else (h; gpt-3)</a>
-* <a id="694auxiliary_names" href="#694auxiliary">engage in overt positive/negative self-talk (h; gpt-3)</a>
-* <a id="695auxiliary_names" href="#695auxiliary">engage in covert positive/negative self-talk (h; gpt-3)</a>
-* <a id="696auxiliary_names" href="#696auxiliary">allow yourself to be emotionally affected (be susceptible) (h; gpt-3)</a>
-* <a id="697auxiliary_names" href="#697auxiliary">allow yourself to be intellectually influenced (be vulnerable) (h; gpt-3)</a>
-* <a id="698auxiliary_names" href="#698auxiliary">losing control (h; gpt-3)</a>
-* <a id="699auxiliary_names" href="#699auxiliary">masturbate (h; gpt-3)</a>
-* <a id="700auxiliary_names" href="#700auxiliary">origins and name (h; gpt-3)</a>
-* <a id="701auxiliary_names" href="#701auxiliary">all of it (h; gpt-3)</a>
-* <a id="702auxiliary_names" href="#702auxiliary">balanced perspective (h; gpt-3)</a>
-* <a id="703auxiliary_names" href="#703auxiliary">totality (h; gpt-3)</a>
-* <a id="704auxiliary_names" href="#704auxiliary">offer help, accept help (h; gpt-3)</a>
+* <a id="589auxiliary_names" href="#589auxiliary">be gross [h]</a>
+* <a id="590auxiliary_names" href="#590auxiliary">notice expectations [h]</a>
+* <a id="591auxiliary_names" href="#591auxiliary">drop expectations [h]</a>
+* <a id="592auxiliary_names" href="#592auxiliary">just do what you gotta do [h]</a>
+* <a id="593auxiliary_names" href="#593auxiliary">eat the shadow [s]</a>
+* <a id="594auxiliary_names" href="#594auxiliary">awareness of space, time, possibility [h]</a>
+* <a id="595auxiliary_names" href="#595auxiliary">imagine variants [h]</a>
+* <a id="596auxiliary_names" href="#596auxiliary">more body do [h]</a>
+* <a id="597auxiliary_names" href="#597auxiliary">be loved [h]</a>
+* <a id="598auxiliary_names" href="#598auxiliary">safe shame [h]</a>
+* <a id="599auxiliary_names" href="#599auxiliary">safe fear [a]</a>
+* <a id="600auxiliary_names" href="#600auxiliary">safe rage [a]</a>
+* <a id="601auxiliary_names" href="#601auxiliary">safe joy [a]</a>
+* <a id="602auxiliary_names" href="#602auxiliary">safe grief [a]</a>
+* <a id="603auxiliary_names" href="#603auxiliary">safe turn-on [a]</a>
+* <a id="604auxiliary_names" href="#604auxiliary">pretend up is down and down is up [mo]</a>
+* <a id="605auxiliary_names" href="#605auxiliary">notice care [h]</a>
+* <a id="606auxiliary_names" href="#606auxiliary">explore subtle posture [h]</a>
+* <a id="607auxiliary_names" href="#607auxiliary">minimum enjoyable wiggle [a]</a>
+* <a id="608auxiliary_names" href="#608auxiliary">yesterday [h]</a>
+* <a id="609auxiliary_names" href="#609auxiliary">tomorrow [h]</a>
+* <a id="610auxiliary_names" href="#610auxiliary">today [h]</a>
+* <a id="611auxiliary_names" href="#611auxiliary">pleasure [h]</a>
+* <a id="612auxiliary_names" href="#612auxiliary">reflective posture [h]</a>
+* <a id="613auxiliary_names" href="#613auxiliary">vocalize [h]</a>
+* <a id="614auxiliary_names" href="#614auxiliary">be animal [h]</a>
+* <a id="615auxiliary_names" href="#615auxiliary">treat yourself [h]</a>
+* <a id="616auxiliary_names" href="#616auxiliary">remember next weekend [mo]</a>
+* <a id="617auxiliary_names" href="#617auxiliary">be perfectly still [h]</a>
+* <a id="618auxiliary_names" href="#618auxiliary">dormant energy [h]</a>
+* <a id="619auxiliary_names" href="#619auxiliary">rhythmic movement [h]</a>
+* <a id="620auxiliary_names" href="#620auxiliary">examine details [h]</a>
+* <a id="621auxiliary_names" href="#621auxiliary">try on mythologies of yourself [h]</a>
+* <a id="622auxiliary_names" href="#622auxiliary">value build-up [n]</a>
+* <a id="623auxiliary_names" href="#623auxiliary">meditation + physical activity [h]</a>
+* <a id="624auxiliary_names" href="#624auxiliary">backwards [a]</a>
+* <a id="625auxiliary_names" href="#625auxiliary">violence [a]</a>
+* <a id="626auxiliary_names" href="#626auxiliary">sit quietly in a room alone [jd]</a>
+* <a id="627auxiliary_names" href="#627auxiliary">let yourself have opinions [jd]</a>
+* <a id="628auxiliary_names" href="#628auxiliary">be entitled to your feelings [h]</a>
+* <a id="629auxiliary_names" href="#629auxiliary">ask your "stupid" questions [jd]</a>
+* <a id="630auxiliary_names" href="#630auxiliary">go see a therapist [jd]</a>
+* <a id="631auxiliary_names" href="#631auxiliary">cross train [d]</a>
+* <a id="632auxiliary_names" href="#632auxiliary">practice/train [d]</a>
+* <a id="633auxiliary_names" href="#633auxiliary">unpractice [d]</a>
+* <a id="634auxiliary_names" href="#634auxiliary">be as irritated as you are, no more or less [\*mo]</a>
+* <a id="635auxiliary_names" href="#635auxiliary">be no less X than you are [m]</a>
+* <a id="636auxiliary_names" href="#636auxiliary">be no more X than you are [m]</a>
+* <a id="637auxiliary_names" href="#637auxiliary">ask for help (solo) [jd]</a>
+* <a id="638auxiliary_names" href="#638auxiliary">use profanity to describe things [m]</a>
+* <a id="639auxiliary_names" href="#639auxiliary">be profane [h]</a>
+* <a id="640auxiliary_names" href="#640auxiliary">FUCK SHIT DICK CUNT [h]</a>
+* <a id="641auxiliary_names" href="#641auxiliary">go all-in on whatever’s happening right now [h]</a>
+* <a id="642auxiliary_names" href="#642auxiliary">explore and rest in points/manifolds of disconnection [h]</a>
+* <a id="643auxiliary_names" href="#643auxiliary">ok to escape, ok to hide [h]</a>
+* <a id="644auxiliary_names" href="#644auxiliary">be with experience in a good way [jd]</a>
+* <a id="645auxiliary_names" href="#645auxiliary">meta-thinking [h]</a>
+* <a id="646auxiliary_names" href="#646auxiliary">stop thinking [jd]</a>
+* <a id="647auxiliary_names" href="#647auxiliary">instajudge [mo]</a>
+* <a id="648auxiliary_names" href="#648auxiliary">accepting resistance [mo]</a>
+* <a id="649auxiliary_names" href="#649auxiliary">find your voice [h]</a>
+* <a id="650auxiliary_names" href="#650auxiliary">be alone [h]</a>
+* <a id="651auxiliary_names" href="#651auxiliary">seek help [h]</a>
+* <a id="652auxiliary_names" href="#652auxiliary">rest in selfhood [h]</a>
+* <a id="653auxiliary_names" href="#653auxiliary">follow your instincts [h]</a>
+* <a id="654auxiliary_names" href="#654auxiliary">here & not here [h]</a>
+* <a id="655auxiliary_names" href="#655auxiliary">hakuna matata [mo]</a>
+* <a id="656auxiliary_names" href="#656auxiliary">I still can't find a fucking problem anywhere [mo]</a>
+* <a id="657auxiliary_names" href="#657auxiliary">peers and nonpeers [h]</a>
+* <a id="658auxiliary_names" href="#658auxiliary">how are you doing? [h]</a>
+* <a id="659auxiliary_names" href="#659auxiliary">sit with the question "what if I'm wrong?" [\*mo]</a>
+* <a id="660auxiliary_names" href="#660auxiliary">too much, too little [h]</a>
+* <a id="661auxiliary_names" href="#661auxiliary">everything is ok [h]</a>
+* <a id="662auxiliary_names" href="#662auxiliary">mourn [h]</a>
+* <a id="663auxiliary_names" href="#663auxiliary">forget [d]</a>
+* <a id="664auxiliary_names" href="#664auxiliary">super satisfying [d]</a>
+* <a id="665auxiliary_names" href="#665auxiliary">pushing & pulling [h]</a>
+* <a id="666auxiliary_names" href="#666auxiliary">what is this drug? [mx]</a>
+* <a id="667auxiliary_names" href="#667auxiliary">watch for reactivity [h]</a>
+* <a id="668auxiliary_names" href="#668auxiliary">DIY p3 and/or p8 [h]</a>
+* <a id="669auxiliary_names" href="#669auxiliary">best attention [h]</a>
+* <a id="670auxiliary_names" href="#670auxiliary">pay atentionto detail [d]</a>
+* <a id="671auxiliary_names" href="#671auxiliary">own your shit [h]</a>
+* <a id="672auxiliary_names" href="#672auxiliary">confront it gently [h]</a>
+* <a id="673auxiliary_names" href="#673auxiliary">taxonomize phenomena [h]</a>
+* <a id="674auxiliary_names" href="#674auxiliary">be fluid [h]</a>
+* <a id="675auxiliary_names" href="#675auxiliary">disobey [h]</a>
+* <a id="676auxiliary_names" href="#676auxiliary">go orthogonal [h]</a>
+* <a id="677auxiliary_names" href="#677auxiliary">ntention shaping [h]</a>
+* <a id="678auxiliary_names" href="#678auxiliary">only action [h]</a>
+* <a id="679auxiliary_names" href="#679auxiliary">dream big [h]</a>
+* <a id="680auxiliary_names" href="#680auxiliary">be generous [h]</a>
+* <a id="681auxiliary_names" href="#681auxiliary">look for what’s missing [h]</a>
+* <a id="682auxiliary_names" href="#682auxiliary">compose a will [h]</a>
+* <a id="683auxiliary_names" href="#683auxiliary">befriend [h]</a>
+* <a id="684auxiliary_names" href="#684auxiliary">wrong [h]</a>
+* <a id="685auxiliary_names" href="#685auxiliary">disconnected value [m]</a>
+* <a id="686auxiliary_names" href="#686auxiliary">the big picture [h]</a>
+* <a id="687auxiliary_names" href="#687auxiliary">identify the different forces at play [h]</a>
+* <a id="688auxiliary_names" href="#688auxiliary">repeat an error [h; gpt-3]</a>
+* <a id="689auxiliary_names" href="#689auxiliary">repeat a success [h; gpt-3]</a>
+* <a id="690auxiliary_names" href="#690auxiliary">reverie/daydream [h; gpt-3]</a>
+* <a id="691auxiliary_names" href="#691auxiliary">focus on what feels best/worst/neutrally good/bad [h; gpt-3]</a>
+* <a id="692auxiliary_names" href="#692auxiliary">focus on the good/bad of a past event [h; gpt-3]</a>
+* <a id="693auxiliary_names" href="#693auxiliary">concentrate on something to the exclusion of all else [h; gpt-3]</a>
+* <a id="694auxiliary_names" href="#694auxiliary">engage in overt positive/negative self-talk [h; gpt-3]</a>
+* <a id="695auxiliary_names" href="#695auxiliary">engage in covert positive/negative self-talk [h; gpt-3]</a>
+* <a id="696auxiliary_names" href="#696auxiliary">allow yourself to be emotionally affected (be susceptible) [h; gpt-3]</a>
+* <a id="697auxiliary_names" href="#697auxiliary">allow yourself to be intellectually influenced (be vulnerable) [h; gpt-3]</a>
+* <a id="698auxiliary_names" href="#698auxiliary">losing control [h; gpt-3]</a>
+* <a id="699auxiliary_names" href="#699auxiliary">masturbate [h; gpt-3]</a>
+* <a id="700auxiliary_names" href="#700auxiliary">origins and name [h; gpt-3]</a>
+* <a id="701auxiliary_names" href="#701auxiliary">all of it [h; gpt-3]</a>
+* <a id="702auxiliary_names" href="#702auxiliary">balanced perspective [h; gpt-3]</a>
+* <a id="703auxiliary_names" href="#703auxiliary">totality [h; gpt-3]</a>
+* <a id="704auxiliary_names" href="#704auxiliary">offer help, accept help [h; gpt-3]</a>
 * <a id="705auxiliary_names" href="#705auxiliary">do something that will definitely work</a>
-* <a id="706auxiliary_names" href="#706auxiliary">funny laugh (h; gpt-3)</a>
-* <a id="707auxiliary_names" href="#707auxiliary">try on new identities (h; gpt-3)</a>
-* <a id="708auxiliary_names" href="#708auxiliary">get curious about what’s going on inside you (h; gpt-3)</a>
-* <a id="709auxiliary_names" href="#709auxiliary">deeper than that (h; gpt-3)</a>
-* <a id="710auxiliary_names" href="#710auxiliary">undo (h; gpt-3)</a>
-* <a id="711auxiliary_names" href="#711auxiliary">not neutral (h; gpt-3)</a>
-* <a id="712auxiliary_names" href="#712auxiliary">footsteps (h; gpt-3)</a>
-* <a id="713auxiliary_names" href="#713auxiliary">not the only thing (h; gpt-3)</a>
-* <a id="714auxiliary_names" href="#714auxiliary">how do you experience things (h; gpt-3)</a>
-* <a id="715auxiliary_names" href="#715auxiliary">private wisdom (h; gpt-3)</a>
-* <a id="716auxiliary_names" href="#716auxiliary">responding and initiating (h; gpt-3)</a>
-* <a id="717auxiliary_names" href="#717auxiliary">error message (h; gpt-3)</a>
-* <a id="718auxiliary_names" href="#718auxiliary">other people’s minds (h; gpt-3)</a>
-* <a id="719auxiliary_names" href="#719auxiliary">camouflage (h; gpt-3)</a>
-* <a id="720auxiliary_names" href="#720auxiliary">what is the model here? (h; gpt-3)</a>
-* <a id="721auxiliary_names" href="#721auxiliary">just go with it and see what happens (h)</a>
-* <a id="722auxiliary_names" href="#722auxiliary">keep doing what you're doing until there is something better to do (without necessarily specifically looking for some better thing) (h)</a>
-* <a id="723auxiliary_names" href="#723auxiliary">opposite (q)</a>
-* <a id="724auxiliary_names" href="#724auxiliary">create affordance (d)</a>
-* <a id="725auxiliary_names" href="#725auxiliary">active & passive thinking (h)</a>
+* <a id="706auxiliary_names" href="#706auxiliary">funny laugh [h; gpt-3]</a>
+* <a id="707auxiliary_names" href="#707auxiliary">try on new identities [h; gpt-3]</a>
+* <a id="708auxiliary_names" href="#708auxiliary">get curious about what’s going on inside you [h; gpt-3]</a>
+* <a id="709auxiliary_names" href="#709auxiliary">deeper than that [h; gpt-3]</a>
+* <a id="710auxiliary_names" href="#710auxiliary">undo [h; gpt-3]</a>
+* <a id="711auxiliary_names" href="#711auxiliary">not neutral [h; gpt-3]</a>
+* <a id="712auxiliary_names" href="#712auxiliary">footsteps [h; gpt-3]</a>
+* <a id="713auxiliary_names" href="#713auxiliary">not the only thing [h; gpt-3]</a>
+* <a id="714auxiliary_names" href="#714auxiliary">how do you experience things [h; gpt-3]</a>
+* <a id="715auxiliary_names" href="#715auxiliary">private wisdom [h; gpt-3]</a>
+* <a id="716auxiliary_names" href="#716auxiliary">responding and initiating [h; gpt-3]</a>
+* <a id="717auxiliary_names" href="#717auxiliary">error message [h; gpt-3]</a>
+* <a id="718auxiliary_names" href="#718auxiliary">other people’s minds [h; gpt-3]</a>
+* <a id="719auxiliary_names" href="#719auxiliary">camouflage [h; gpt-3]</a>
+* <a id="720auxiliary_names" href="#720auxiliary">what is the model here? [h; gpt-3]</a>
+* <a id="721auxiliary_names" href="#721auxiliary">just go with it and see what happens [h]</a>
+* <a id="722auxiliary_names" href="#722auxiliary">keep doing what you're doing until there is something better to do (without necessarily specifically looking for some better thing) [h]</a>
+* <a id="723auxiliary_names" href="#723auxiliary">opposite [q]</a>
+* <a id="724auxiliary_names" href="#724auxiliary">create affordance [d]</a>
+* <a id="725auxiliary_names" href="#725auxiliary">active & passive thinking [h]</a>
 * <a id="726auxiliary_names" href="#726auxiliary">implications/inferences</a>
 * <a id="727auxiliary_names" href="#727auxiliary">presuppositions</a>
 * <a id="728auxiliary_names" href="#728auxiliary">premises</a>
@@ -758,13 +758,13 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="746auxiliary_names" href="#746auxiliary">delta</a>
 * <a id="747auxiliary_names" href="#747auxiliary">knowns</a>
 * <a id="748auxiliary_names" href="#748auxiliary">give up how</a>
-* <a id="749auxiliary_names" href="#749auxiliary">ask for help (j)</a>
+* <a id="749auxiliary_names" href="#749auxiliary">ask for help [j]</a>
 * <a id="750auxiliary_names" href="#750auxiliary">necessary connections</a>
 * <a id="751auxiliary_names" href="#751auxiliary">body questions</a>
 * <a id="752auxiliary_names" href="#752auxiliary">spacious eye relaxation</a>
 * <a id="753auxiliary_names" href="#753auxiliary">seek sensory wonder in the "external" world</a>
 * <a id="754auxiliary_names" href="#754auxiliary">intend versus will</a>
-* <a id="755auxiliary_names" href="#755auxiliary">need imagining (m\*)</a>
+* <a id="755auxiliary_names" href="#755auxiliary">need imagining [m\*]</a>
 * <a id="756auxiliary_names" href="#756auxiliary">walk five miles</a>
 * <a id="757auxiliary_names" href="#757auxiliary">why not already</a>
 * <a id="758auxiliary_names" href="#758auxiliary">safe to know, to understand, to look, to be able to tell</a>
@@ -777,7 +777,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="765auxiliary_names" href="#765auxiliary">waiting, everything, things come to you, periphery</a>
 * <a id="766auxiliary_names" href="#766auxiliary">have a despair party</a>
 * <a id="767auxiliary_names" href="#767auxiliary">have a negative emotion party</a>
-* <a id="768auxiliary_names" href="#768auxiliary">spatially localized attention conceived as such (tcs)</a>
+* <a id="768auxiliary_names" href="#768auxiliary">spatially localized attention conceived as such [tcs]</a>
 * <a id="769auxiliary_names" href="#769auxiliary">"external world"</a>
 * <a id="770auxiliary_names" href="#770auxiliary">"take a snapshot"</a>
 * <a id="771auxiliary_names" href="#771auxiliary">primary and secondary attention</a>
@@ -805,32 +805,32 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="793auxiliary_names" href="#793auxiliary">see what your mind is already doing</a>
 * <a id="794auxiliary_names" href="#794auxiliary">look for what you're not supposed to know</a>
 * <a id="795auxiliary_names" href="#795auxiliary">riding a bike</a>
-* <a id="796auxiliary_names" href="#796auxiliary">meditate like (xx)</a>
+* <a id="796auxiliary_names" href="#796auxiliary">meditate like [xx]</a>
 * <a id="797auxiliary_names" href="#797auxiliary">loose, tall, still</a>
 * <a id="798auxiliary_names" href="#798auxiliary">talk about the right thing to do in practice</a>
-* <a id="799auxiliary_names" href="#799auxiliary">be open to the possibility of miracles (j)</a>
-* <a id="800auxiliary_names" href="#800auxiliary">coordinate with breathing (h)</a>
-* <a id="801auxiliary_names" href="#801auxiliary">consider doing something else (ct)</a>
-* <a id="802auxiliary_names" href="#802auxiliary">slow down (j)</a>
-* <a id="803auxiliary_names" href="#803auxiliary">check your notifications (h)</a>
-* <a id="804auxiliary_names" href="#804auxiliary">watch porn (h)</a>
-* <a id="805auxiliary_names" href="#805auxiliary">spend an hour on facebook/twitter/reddit/instagram/etc (h)</a>
-* <a id="806auxiliary_names" href="#806auxiliary">zone out (h)</a>
-* <a id="807auxiliary_names" href="#807auxiliary">scroll through p/a list without doing any (m)</a>
-* <a id="808auxiliary_names" href="#808auxiliary">do not do this practice (d)</a>
-* <a id="809auxiliary_names" href="#809auxiliary">best order (h)</a>
-* <a id="810auxiliary_names" href="#810auxiliary">explain using different words (h)</a>
-* <a id="811auxiliary_names" href="#811auxiliary">explain in a new way (h)</a>
-* <a id="812auxiliary_names" href="#812auxiliary">rest in freely available, no-strings-attached goodness (h)</a>
-* <a id="813auxiliary_names" href="#813auxiliary">find contention (h)</a>
-* <a id="814auxiliary_names" href="#814auxiliary">start over (h)</a>
-* <a id="815auxiliary_names" href="#815auxiliary">logical endpoint (h)</a>
-* <a id="816auxiliary_names" href="#816auxiliary">systematically recount (jd)</a>
-* <a id="817auxiliary_names" href="#817auxiliary">offer 1% (aj)</a>
-* <a id="818auxiliary_names" href="#818auxiliary">find missing concepts (jd)</a>
-* <a id="819auxiliary_names" href="#819auxiliary">call your mom (mo)</a>
-* <a id="820auxiliary_names" href="#820auxiliary">call your dad (mo)</a>
-* <a id="821auxiliary_names" href="#821auxiliary">notice obstruction (h)</a>
+* <a id="799auxiliary_names" href="#799auxiliary">be open to the possibility of miracles [j]</a>
+* <a id="800auxiliary_names" href="#800auxiliary">coordinate with breathing [h]</a>
+* <a id="801auxiliary_names" href="#801auxiliary">consider doing something else [ct]</a>
+* <a id="802auxiliary_names" href="#802auxiliary">slow down [j]</a>
+* <a id="803auxiliary_names" href="#803auxiliary">check your notifications [h]</a>
+* <a id="804auxiliary_names" href="#804auxiliary">watch porn [h]</a>
+* <a id="805auxiliary_names" href="#805auxiliary">spend an hour on facebook/twitter/reddit/instagram/etc [h]</a>
+* <a id="806auxiliary_names" href="#806auxiliary">zone out [h]</a>
+* <a id="807auxiliary_names" href="#807auxiliary">scroll through p/a list without doing any [m]</a>
+* <a id="808auxiliary_names" href="#808auxiliary">do not do this practice [d]</a>
+* <a id="809auxiliary_names" href="#809auxiliary">best order [h]</a>
+* <a id="810auxiliary_names" href="#810auxiliary">explain using different words [h]</a>
+* <a id="811auxiliary_names" href="#811auxiliary">explain in a new way [h]</a>
+* <a id="812auxiliary_names" href="#812auxiliary">rest in freely available, no-strings-attached goodness [h]</a>
+* <a id="813auxiliary_names" href="#813auxiliary">find contention [h]</a>
+* <a id="814auxiliary_names" href="#814auxiliary">start over [h]</a>
+* <a id="815auxiliary_names" href="#815auxiliary">logical endpoint [h]</a>
+* <a id="816auxiliary_names" href="#816auxiliary">systematically recount [jd]</a>
+* <a id="817auxiliary_names" href="#817auxiliary">offer 1% [aj]</a>
+* <a id="818auxiliary_names" href="#818auxiliary">find missing concepts [jd]</a>
+* <a id="819auxiliary_names" href="#819auxiliary">call your mom [mo]</a>
+* <a id="820auxiliary_names" href="#820auxiliary">call your dad [mo]</a>
+* <a id="821auxiliary_names" href="#821auxiliary">notice obstruction [h]</a>
 * <a id="822auxiliary_names" href="#822auxiliary">hate</a>
 * <a id="823auxiliary_names" href="#823auxiliary">empty justifications</a>
 * <a id="824auxiliary_names" href="#824auxiliary">weighty feeling/memory</a>
@@ -842,21 +842,21 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="830auxiliary_names" href="#830auxiliary">meditating border</a>
 * <a id="831auxiliary_names" href="#831auxiliary">finer grain</a>
 * <a id="832auxiliary_names" href="#832auxiliary">try treating change like digital logic</a>
-* <a id="833auxiliary_names" href="#833auxiliary">note sense of safety (aj)</a>
-* <a id="834auxiliary_names" href="#834auxiliary">hold self-distrust (mo)</a>
-* <a id="835auxiliary_names" href="#835auxiliary">manifest rage at self (mr)</a>
-* <a id="836auxiliary_names" href="#836auxiliary">mine not mine (mo\*, jd\*)</a>
-* <a id="837auxiliary_names" href="#837auxiliary">unblocking via movement (aj)</a>
+* <a id="833auxiliary_names" href="#833auxiliary">note sense of safety [aj]</a>
+* <a id="834auxiliary_names" href="#834auxiliary">hold self-distrust [mo]</a>
+* <a id="835auxiliary_names" href="#835auxiliary">manifest rage at self [mr]</a>
+* <a id="836auxiliary_names" href="#836auxiliary">mine not mine [mo\*, jd\*]</a>
+* <a id="837auxiliary_names" href="#837auxiliary">unblocking via movement [aj]</a>
 * <a id="838auxiliary_names" href="#838auxiliary">hide under a blanket</a>
-* <a id="839auxiliary_names" href="#839auxiliary">explain yourself to a small child (mh)</a>
-* <a id="840auxiliary_names" href="#840auxiliary">set a good example (mh)</a>
-* <a id="841auxiliary_names" href="#841auxiliary">make a bucket list (jd)</a>
-* <a id="842auxiliary_names" href="#842auxiliary">vocalize an opinion (jd)</a>
-* <a id="843auxiliary_names" href="#843auxiliary">vocalize a (seeming) truth (jd)</a>
-* <a id="844auxiliary_names" href="#844auxiliary">articulate an opinion (jd)</a>
-* <a id="845auxiliary_names" href="#845auxiliary">articulate a (seeming) truth (jd)</a>
-* <a id="846auxiliary_names" href="#846auxiliary">toggle worldviews (mh)</a>
-* <a id="847auxiliary_names" href="#847auxiliary">what are the options? (jd)</a>
+* <a id="839auxiliary_names" href="#839auxiliary">explain yourself to a small child [mh]</a>
+* <a id="840auxiliary_names" href="#840auxiliary">set a good example [mh]</a>
+* <a id="841auxiliary_names" href="#841auxiliary">make a bucket list [jd]</a>
+* <a id="842auxiliary_names" href="#842auxiliary">vocalize an opinion [jd]</a>
+* <a id="843auxiliary_names" href="#843auxiliary">vocalize a (seeming) truth [jd]</a>
+* <a id="844auxiliary_names" href="#844auxiliary">articulate an opinion [jd]</a>
+* <a id="845auxiliary_names" href="#845auxiliary">articulate a (seeming) truth [jd]</a>
+* <a id="846auxiliary_names" href="#846auxiliary">toggle worldviews [mh]</a>
+* <a id="847auxiliary_names" href="#847auxiliary">what are the options? [jd]</a>
 * <a id="848auxiliary_names" href="#848auxiliary">mortality/fragility party</a>
 * <a id="849auxiliary_names" href="#849auxiliary">24-7 mortality/fragility party</a>
 * <a id="850auxiliary_names" href="#850auxiliary">uncertainty party</a>
@@ -867,8 +867,8 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="855auxiliary_names" href="#855auxiliary">24-7 paranoia party</a>
 * <a id="856auxiliary_names" href="#856auxiliary">horror/terror/fear party</a>
 * <a id="857auxiliary_names" href="#857auxiliary">24-7 horror/terror/fear party</a>
-* <a id="858auxiliary_names" href="#858auxiliary">would it be fun? (\*)</a>
-* <a id="859auxiliary_names" href="#859auxiliary">have you tried enjoying it? (\*)</a>
+* <a id="858auxiliary_names" href="#858auxiliary">would it be fun? [\*]</a>
+* <a id="859auxiliary_names" href="#859auxiliary">have you tried enjoying it? [\*]</a>
 * <a id="860auxiliary_names" href="#860auxiliary">perceive with body part X</a>
 * <a id="861auxiliary_names" href="#861auxiliary">what body part X wants</a>
 * <a id="862auxiliary_names" href="#862auxiliary">origin</a>
@@ -879,7 +879,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="867auxiliary_names" href="#867auxiliary">age</a>
 * <a id="868auxiliary_names" href="#868auxiliary">after infinite self-care</a>
 * <a id="869auxiliary_names" href="#869auxiliary">subtle energy</a>
-* <a id="870auxiliary_names" href="#870auxiliary">really/&#8203;actually/&#8203;truly want (\*)</a>
+* <a id="870auxiliary_names" href="#870auxiliary">really/&#8203;actually/&#8203;truly want [\*]</a>
 * <a id="871auxiliary_names" href="#871auxiliary">starting over</a>
 * <a id="872auxiliary_names" href="#872auxiliary">do them nonverbally, telepathically</a>
 * <a id="873auxiliary_names" href="#873auxiliary">self-trust</a>
@@ -892,8 +892,8 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="880auxiliary_names" href="#880auxiliary">in (personal, custom-built, bespoke) hell</a>
 * <a id="881auxiliary_names" href="#881auxiliary">no!</a>
 * <a id="882auxiliary_names" href="#882auxiliary">do/block with a feather</a>
-* <a id="883auxiliary_names" href="#883auxiliary">keep company, hang out with (restatement)</a>
-* <a id="884auxiliary_names" href="#884auxiliary">align with it (restatement)</a>
+* <a id="883auxiliary_names" href="#883auxiliary">keep company, hang out with [restatement]</a>
+* <a id="884auxiliary_names" href="#884auxiliary">align with it [restatement]</a>
 * <a id="885auxiliary_names" href="#885auxiliary">best could have gone</a>
 * <a id="886auxiliary_names" href="#886auxiliary">cause the bad thing</a>
 * <a id="887auxiliary_names" href="#887auxiliary">make it worse</a>
