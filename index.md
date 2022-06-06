@@ -13023,5 +13023,6 @@ Me : Well, that's a good sign. The numero uno of daft moves is to open by defaul
 * Blackstone, Judith. Trauma and the unbound body: the healing power of fundamental consciousness. Sounds True, 2018.
 * Ray, Reginald A. The awakening body: Somatic meditation for discovering our deepest life. Shambhala Publications, 2016.
 * Learn out to meditate https://aromeditation.org/internet-course.html [Last accessed: 2022-04-29]
+* https://en.wikipedia.org/wiki/Free_variables_and_bound_variables [Last accessed: 2022-06-06]
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
