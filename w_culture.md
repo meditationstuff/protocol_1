@@ -34,13 +34,13 @@
 	* <a id="55h" href="#55">joy (stub)</a>
 
 
-# <a id="31" href="#31">an orienting model; layers and tangles; from "parts" to people to groups:</a>
+# <span id="31"></span><a id="an-orienting-model-layers-and-tangles-from-parts-to" href="#an-orienting-model-layers-and-tangles-from-parts-to">an orienting model; layers and tangles; from "parts" to people to groups:</a>
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 [<a href="#31h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="32" href="#32">part 1; a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture:</a>
+# <span id="32"></span><a id="part-1-a-brief-layer-tangle-model-of-mind-parts-per" href="#part-1-a-brief-layer-tangle-model-of-mind-parts-per">part 1; a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture:</a>
 
 Consider the mind to be made up of a large number of parallel (information) flows, or pipes, or tubes.
 
@@ -112,7 +112,7 @@ Individual and group practice can de-layer and de-compensate, solving problems w
 
 [<a href="#32h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="33" href="#33">part 2; the blooming, buzzing confusion:</a>
+# <span id="33"></span><a id="part-2-the-blooming-buzzing-confusion" href="#part-2-the-blooming-buzzing-confusion">part 2; the blooming, buzzing confusion:</a>
 
 Layering and occlusion can make it very hard to turn tubes into junctured awareness tubes. But, sensation and actuation, the inputs and outputs of tubes can’t be blocked. Sensation is always happening for all of a person’s tubes, at every layer. And actuation is always happening at the termination of every tube.
 
@@ -128,7 +128,7 @@ To explain further, when we were at our youngest, while we have genetic predispo
 
 [<a href="#33h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="34" href="#34">part 3; the demon-haunted world and science as a candle in the dark (as per Carl Sagan):</a>
+# <span id="34"></span><a id="part-3-the-demon-haunted-world-and-science-as-a-can" href="#part-3-the-demon-haunted-world-and-science-as-a-can">part 3; the demon-haunted world and science as a candle in the dark (as per Carl Sagan):</a>
 
 And, so, this static, this noise, this blur that colors everything, and it comes in layers, there is some at every layer—this is the domain of shamans, of magick, of the siddhis, of the powers.
 
@@ -150,13 +150,13 @@ And then is it any wonder that hapless creeps, dark wizards, cult leaders... and
 
 [<a href="#34h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="35" href="#35">evil:</a>
+# <span id="35"></span><a id="evil" href="#evil">evil:</a>
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 [<a href="#35h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="36" href="#36">part 4; introduction:</a>
+# <span id="36"></span><a id="part-4-introduction" href="#part-4-introduction">part 4; introduction:</a>
 
 If you start doing work on yourself, you’ll become more sensitive to a lot of things. And that sensitivity, initially, can make you more vulnerable to bad things than you’d otherwise be. That sensitivity can also make you become a more dangerous or harmful person to be around, initially. Over time, asymptotically, nonmonotonically, what you were vulnerable to, what used to influence you or cause disendorsed changes to you, becomes just information. And this information can be used to enhance safety for self and others. And your sensitivity and responsiveness, from ongoing meditation, and the knowledge that’s easier to acquire because of that sensitivity and responsiveness, can make you safer and safer for other people.
 
@@ -166,7 +166,7 @@ Reading the sections below may help to minimize risks to self and others, in rel
 
 [<a href="#36h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="37" href="#37">part 5; everyday blah, hapless creeps, dark wizards, and cult leaders:</a>
+# <span id="37"></span><a id="part-5-everyday-blah-hapless-creeps-dark-wizards-an" href="#part-5-everyday-blah-hapless-creeps-dark-wizards-an">part 5; everyday blah, hapless creeps, dark wizards, and cult leaders:</a>
 
 [continues from section "part 3; the demon-haunted world and science as a candle in the dark (as per Carl Sagan)"]
 
@@ -204,7 +204,7 @@ Cult leaders will be discussed more below.
 
 [<a href="#37h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="38" href="#38">part 6; spot the dark wizard:</a>
+# <span id="38"></span><a id="part-6-spot-the-dark-wizard" href="#part-6-spot-the-dark-wizard">part 6; spot the dark wizard:</a>
 
 A final note is that, if you’re trying to influence people at all, if you have any perceived *need* at all with respect to other people (belonging, care, money, intimacy, sex), unless you and everyone are in a tremendously high-resourced environment, and everyone is engaged in mutually creative synergy, then you’ve likely got at least some baby dark wizard going on, or some latent dark wizarding that could get triggered.
 
@@ -222,7 +222,7 @@ You have to be ready to isolate yourself, to walk away, and sometimes you should
 
 [<a href="#38h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="39" href="#39">part 7; healers:</a>
+# <span id="39"></span><a id="part-7-healers" href="#part-7-healers">part 7; healers:</a>
 
 Healers, bodyworkers, energy healers, reiki practioners, healing touch practitioners, qigong practitioners, exorcists, shamans, etc., can be great. Keep in mind that there is a vast range of skill. Some people are completely ineffectual. Some are very effective but cause both harm and good things at the same time. The rare individual with decades of (lineage?) training and experience is excellent. (And some "healers" are dependancy-inducing predators.)
 
@@ -234,7 +234,7 @@ Generally speaking, for serious meditators, there are very quickly diminishing r
 
 [<a href="#39h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="40" href="#40">part 8; witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation:</a>
+# <span id="40"></span><a id="part-8-witch-hunts-vulnerability-contagion-tragedy-" href="#part-8-witch-hunts-vulnerability-contagion-tragedy-">part 8; witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation:</a>
 
 It can be hard to assign blame and decide what to do. We all can have layered material that can be vulnerable in idiosyncratic ways. Someone can have a sex or revenge fantasy that they’re barely broadcasting, that wouldn’t affect 95% of people. But, when you’re in a room with them, it does awful stuff to your system. So who’s at fault? In this case mostly nobody, but there’s still the issue that you can’t be in a room with them. It might be both people’s responsibility to change. The person with the fantasy to figure out how it’s bleeding into the world a little bit. And you to figure out why it’s affecting you. But, for one or both of you, that could be hundreds of hours of work (though which will produce all sorts of collateral positive effects along the way), and one or both of you might not currently be systematic meditators.
 
@@ -252,7 +252,7 @@ Another problematic thing that can happen is, when someone becomes a systematic 
 
 [<a href="#40h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="41" href="#41">part 9; timelines and stopgaps and sanity checks:</a>
+# <span id="41"></span><a id="part-9-timelines-and-stopgaps-and-sanity-checks" href="#part-9-timelines-and-stopgaps-and-sanity-checks">part 9; timelines and stopgaps and sanity checks:</a>
 
 Part of what makes this so hard is how long the timelines are. Self-transformation takes thousands of hours, and people’s patterns of vulnerability to each other are idiosyncratic. So if harm is occurring, it can take dozens, hundreds, or thousands of hours to to sort out who’s doing what to whom and to fix it. And this is superexpontential the more people that are involved.
 
@@ -272,7 +272,7 @@ You can intend to know exactly what’s going on. And you can intend to have a s
 
 [<a href="#41h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="42" href="#42">part 10; the late-stage meditator in community:</a>
+# <span id="42"></span><a id="part-1-the-late-stage-meditator-in-community" href="#part-1-the-late-stage-meditator-in-community">part 10; the late-stage meditator in community:</a>
 
 People often become more sensitive and more vulnerable at first, possibly for months or years. But eventually...
 
@@ -292,7 +292,7 @@ So self/other confusions and good/bad inversions can be abstractly considered as
 
 [<a href="#42h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="43" href="#43">part 11; cult leaders:</a>
+# <span id="43"></span><a id="part-11-cult-leaders" href="#part-11-cult-leaders">part 11; cult leaders:</a>
 
 Cult leaders are different. Anyone, including cult leaders, can change with luck and likely thousands of hours of work. But, a cult leader that’s a cult leader, right now, is different.
 
@@ -334,7 +334,7 @@ It’s hard to overstate how much such an individual, one who, deep down, is rel
 
 [<a href="#43h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="44" href="#44">part 12; spotting a cult leader by overt signs:</a>
+# <span id="44"></span><a id="part-12-spotting-a-cult-leader-by-overt-signs" href="#part-12-spotting-a-cult-leader-by-overt-signs">part 12; spotting a cult leader by overt signs:</a>
 
 Because the subtle signs are harder to detect and sometimes can’t be detected immediately, here is an incomplete list of overt signs that you’re possibly in the presence of a cult leader:
 
@@ -381,7 +381,7 @@ Kramer, Joel, and Diana Alstad. The guru papers: Masks of authoritarian power. N
 
 [<a href="#44h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="45" href="#45">part 13; incomplete list of relatively succinct concepts/definitions:</a>
+# <span id="45"></span><a id="part-13-incomplete-list-of-relatively-succinct-conc" href="#part-13-incomplete-list-of-relatively-succinct-conc">part 13; incomplete list of relatively succinct concepts/definitions:</a>
 
 Of course there’s many ways to use the words below! The defintions given are partial, flawed, and idiosyncratic.
 
@@ -454,7 +454,7 @@ This list and the entries under each current item are very incomplete!
 
 [<a href="#45h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="46" href="#46">part 14; teachers and leader timelines:</a>
+# <span id="46"></span><a id="part-14-teachers-and-leader-timelines" href="#part-14-teachers-and-leader-timelines">part 14; teachers and leader timelines:</a>
 
 Timelines are very long. Meditative practice can take thousands of hours to make substantial progress. Real progress is "de-layering," but many seemingly good practices and produce a combination of layering and de-layering.
 
@@ -472,7 +472,7 @@ Mistakes, blindspots, and fuckups should be expected, though. And if someone is 
 
 [<a href="#46h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="47" href="#47">part 15; layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction:</a>
+# <span id="47"></span><a id="part-15-layer-theory-and-high-level-principles-of-e" href="#part-15-layer-theory-and-high-level-principles-of-e">part 15; layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction:</a>
 
 Generally but not universally, de-layering, or at least not adding layering, is good. Layering is still good as a stopgap, when things are happening too surprisingly, too fast, or in some other unhandleable way, for a particular person.
 
@@ -512,7 +512,7 @@ In any case, if someone doesn’t need to layer in your presense, then they can 
 
 [<a href="#47h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="48" href="#48">part 16; it’s not cool:</a>
+# <span id="48"></span><a id="part-16-it-s-not-cool" href="#part-16-it-s-not-cool">part 16; it’s not cool:</a>
 
 
 It’s best to consider the powers, the siddhis, the effects as not cool. They can become a thing in communities of practice. And they can become an ugly, escalatory, ruinous thing between practitioners. One or both people can do disendorsed, yet still hate-filled, tremendous harm to the other or to people caught in the crossfire.
@@ -531,7 +531,7 @@ And, you can just leave. You can find meaning elsewhere. You don’t need what t
 
 [<a href="#48h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="49" href="#49">part 17; the quiet interaction and beauty of subtle interpersonal effects:</a>
+# <span id="49"></span><a id="part-17-the-quiet-interaction-and-beauty-of-subtle-" href="#part-17-the-quiet-interaction-and-beauty-of-subtle-">part 17; the quiet interaction and beauty of subtle interpersonal effects:</a>
 
 (You may wish to read "part 10; the late-stage meditator in community" before this section if you’re skipping around.)
 
@@ -553,13 +553,13 @@ But if a community hasn’t been "de-layered, de-compensated, cracked open" and 
 
 [<a href="#49h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="50" href="#50">part 18; depth of horror:</a>
+# <span id="50"></span><a id="part-18-depth-of-horror" href="#part-18-depth-of-horror">part 18; depth of horror:</a>
 
 Horrible things have happened to individuals, often in childhood. Violent abuse, sexual abuse, neglect, extreme coercion. There is religious terror around hells, devils, demons. Terrible things happen to parents and grandparents, too, and that will affect the kids. There is also medical and death horror, we see relatives suffer and die in front of us or we walk in on dead bodies. Even if onself or relatives ultimately survive it can still be very tulmultuous. And there is cultural horror—slavery, extreme racism and bigotry, colonization, imperialism, genocides, holocausts, world wars, ancient curses, ancient gods, etc. All of this is rattling around in people’s minds and between minds, brought forwards through the centuries and decades. The skilled meditator will systematically work through all of this and their own stuff, over time. But there’s a lot and it takes a long time. In the meantime, one is exposed to it, in the water, as it were. And if something gets decompensated, cracked open in a group environment, then it can cause problems for multiple people.
 
 [<a href="#50h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="51" href="#51">part 19; wisdom and antiwisdom:</a>
+# <span id="51"></span><a id="part-19-wisdom-and-antiwisdom" href="#part-19-wisdom-and-antiwisdom">part 19; wisdom and antiwisdom:</a>
 
 * gestural taxonomy:
 	* antiwisdom
@@ -603,7 +603,7 @@ To be sure, sometimes, often, wisdom consists of just maintaining boundaries and
 
 [<a href="#51h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="52" href="#52">part 20; inappropriate reification:</a>
+# <span id="52"></span><a id="part-2-inappropriate-reification" href="#part-2-inappropriate-reification">part 20; inappropriate reification:</a>
 
 Remember all the above is just a theory of convenience, a story. Find your own truth. Don’t inappropriately reify any of this or take my word for it. Good science is still true. Planes still fly. Government still do the thing they do. Computers compute. Stuff that’s true is simultaneously true. Give yourself time to integrate new, surprising stuff into a unified worldview. It will take some time.
 
@@ -613,7 +613,7 @@ Remember all the above is just a theory of convenience, a story. Find your own t
 
 
 
-# <a id="52a" href="#52a">(super)deception, etc. (draft) (needs an initial editing pass):</a>
+# <span id="52a"></span><a id="-super-deception-etc-draft-needs-an-initial-editing" href="#-super-deception-etc-draft-needs-an-initial-editing">(super)deception, etc. (draft) (needs an initial editing pass):</a>
 
 I am workshopping an idea of “superdeception” and "superdeceivers." It's not a great name; it's a little cringy. I might pick a different name later.
 
@@ -682,7 +682,7 @@ Something to keep in mind is that people who are particularly fragmented, may be
 [<a href="#52ah">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <a id="52b" href="#52b">framing / frame management / frame control (stub):</a>
+# <span id="52b"></span><a id="framing-frame-management-frame-control-stub" href="#framing-frame-management-frame-control-stub">framing / frame management / frame control (stub):</a>
 
 This section is a stub.
 
@@ -701,7 +701,7 @@ Notes:
 [<a href="#52bh">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <a id="53" href="#53">creativity:</a>
+# <span id="53"></span><a id="creativity" href="#creativity">creativity:</a>
 
 What might (and could) we do together that’s better (more good), for everyone, than what we might do apart?
 What might we do together that’s better than what we might do apart?
@@ -709,7 +709,7 @@ What might we do together that’s better than what we’ll do apart?
 
 [<a href="#53h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="54" href="#54">the creativity of evil (plus sequence commentary):</a>
+# <span id="54"></span><a id="the-creativity-of-evil-plus-sequence-commentary" href="#the-creativity-of-evil-plus-sequence-commentary">the creativity of evil (plus sequence commentary):</a>
 
 * Unfortunate sequences of events produce ignorance, inability, fear, and (perceived or actual) resource contsraints.
 * Ignorance, inability, fear and (perceived or actual) resource contsraints produce myopic, selfish desperation (that can skillfully hide for a long time from itself and from others).
@@ -736,7 +736,7 @@ auto-commentary from an online forum / email list:
 
 [<a href="#54h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="55" href="#55">joy (stub):</a>
+# <span id="55"></span><a id="joy-stub" href="#joy-stub">joy (stub):</a>
 
 safety = resolution of problems + mind autonomy  
 safety + creativity = joy  

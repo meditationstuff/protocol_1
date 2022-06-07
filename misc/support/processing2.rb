@@ -6,8 +6,8 @@
 # # <a id="108" href="#108">p9:</a>
 
 skip = 0
-File.open("index.new.md", "w+") do |i|
-	File.readlines("../../index.md").each do |line|
+File.open("auxiliary.new.md", "w+") do |i|
+	File.readlines("../../auxiliary.md").each do |line|
 		chomped_line = line.chomp!
 		if chomped_line.include?("span id=")
 			#if skip<5 then
