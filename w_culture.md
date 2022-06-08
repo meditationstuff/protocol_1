@@ -5,33 +5,33 @@
 
 # appendix table of contents
 
-* <a id="31h" href="#31">an orienting model; layers and tangles; from "parts" to people to groups</a>
-	* <a id="32h" href="#32">part 1; a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture</a>
-	* <a id="33h" href="#33">part 2; the blooming, buzzing confusion</a>
-	* <a id="34h" href="#34">part 3; the demon-haunted world and science as a candle in the dark (as per Carl Sagan)</a>
-* <a id="35h" href="#35">evil</a>
-	* <a id="36h" href="#36">part 4; introduction</a>
-	* <a id="37h" href="#37">part 5; everyday blah, hapless creeps, dark wizards, and cult leaders</a>
-	* <a id="38h" href="#38">part 6; spot the dark wizard</a>
-	* <a id="39h" href="#39">part 7; healers</a>
-	* <a id="40h" href="#40">part 8; witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation</a>
-	* <a id="41h" href="#41">part 9; timelines and stopgaps and sanity checks</a>
-	* <a id="42h" href="#42">part 10; the late-stage meditator in community</a>
-	* <a id="43h" href="#43">part 11; cult leaders</a>
-	* <a id="44h" href="#44">part 12; spotting a cult leader by overt signs</a>
-	* <a id="45h" href="#45">part 13; incomplete list of relatively succinct concepts/definitions</a>
-	* <a id="46h" href="#46">part 14; teachers and leader timelines</a>
-	* <a id="47h" href="#47">part 15; layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction</a>
-	* <a id="48h" href="#48">part 16; it’s not cool</a>
-	* <a id="49h" href="#49">part 17; the quiet interaction and beauty of subtle interpersonal effects</a>
-	* <a id="50h" href="#50">part 18; depth of horror</a>
-	* <a id="51h" href="#51">part 19; wisdom and antiwisdom</a>
-	* <a id="52h" href="#52">part 20; inappropriate reification</a>
-	* <a id="52ah" href="#52a">(super)deception, etc. (draft) (needs an initial editing pass)</a>
-	* <a id="52bh" href="#52b">framing / frame management / frame control (stub)</a>
-	* <a id="53h" href="#53">creativity</a>
-	* <a id="54h" href="#54">the creativity of evil (plus sequence commentary)</a>
-	* <a id="55h" href="#55">joy (stub)</a>
+* <a id="31h" href="#an-orienting-model-layers-and-tangles-from-parts-to">an orienting model; layers and tangles; from "parts" to people to groups</a>
+	* <a id="32h" href="#part-1-a-brief-layer-tangle-model-of-mind-parts-per">part 1; a brief layer/tangle model of mind, "parts," personality, groups, and (global) culture</a>
+	* <a id="33h" href="#part-2-the-blooming-buzzing-confusion">part 2; the blooming, buzzing confusion</a>
+	* <a id="34h" href="#part-3-the-demon-haunted-world-and-science-as-a-can">part 3; the demon-haunted world and science as a candle in the dark (as per Carl Sagan)</a>
+* <a id="35h" href="#evil">evil</a>
+	* <a id="36h" href="#part-4-introduction">part 4; introduction</a>
+	* <a id="37h" href="#part-5-everyday-blah-hapless-creeps-dark-wizards-an">part 5; everyday blah, hapless creeps, dark wizards, and cult leaders</a>
+	* <a id="38h" href="#part-6-spot-the-dark-wizard">part 6; spot the dark wizard</a>
+	* <a id="39h" href="#part-7-healers">part 7; healers</a>
+	* <a id="40h" href="#part-8-witch-hunts-vulnerability-contagion-tragedy-">part 8; witch hunts, vulnerability, contagion, tragedy of transformation, community decompensation</a>
+	* <a id="41h" href="#part-9-timelines-and-stopgaps-and-sanity-checks">part 9; timelines and stopgaps and sanity checks</a>
+	* <a id="42h" href="#part-10-the-late-stage-meditator-in-community">part 10; the late-stage meditator in community</a>
+	* <a id="43h" href="#part-11-cult-leaders">part 11; cult leaders</a>
+	* <a id="44h" href="#part-12-spotting-a-cult-leader-by-overt-signs">part 12; spotting a cult leader by overt signs</a>
+	* <a id="45h" href="#part-13-incomplete-list-of-relatively-succinct-conc">part 13; incomplete list of relatively succinct concepts/definitions</a>
+	* <a id="46h" href="#part-14-teachers-and-leader-timelines">part 14; teachers and leader timelines</a>
+	* <a id="47h" href="#part-15-layer-theory-and-high-level-principles-of-e">part 15; layer theory and high-level principles of ethical, nonharmful, noncoercive, safe interaction</a>
+	* <a id="48h" href="#part-16-it-s-not-cool">part 16; it’s not cool</a>
+	* <a id="49h" href="#part-17-the-quiet-interaction-and-beauty-of-subtle-">part 17; the quiet interaction and beauty of subtle interpersonal effects</a>
+	* <a id="50h" href="#part-18-depth-of-horror">part 18; depth of horror</a>
+	* <a id="51h" href="#part-19-wisdom-and-antiwisdom">part 19; wisdom and antiwisdom</a>
+	* <a id="52h" href="#part-20-inappropriate-reification">part 20; inappropriate reification</a>
+	* <a id="52ah" href="#-super-deception-etc-draft-needs-an-initial-editing">(super)deception, etc. (draft) (needs an initial editing pass)</a>
+	* <a id="52bh" href="#framing-frame-management-frame-control-stub">framing / frame management / frame control (stub)</a>
+	* <a id="53h" href="#creativity">creativity</a>
+	* <a id="54h" href="#the-creativity-of-evil-plus-sequence-commentary">the creativity of evil (plus sequence commentary)</a>
+	* <a id="55h" href="#joy-stub">joy (stub)</a>
 
 
 # <span id="31"></span><a id="an-orienting-model-layers-and-tangles-from-parts-to" href="#an-orienting-model-layers-and-tangles-from-parts-to">an orienting model; layers and tangles; from "parts" to people to groups:</a>
@@ -272,7 +272,7 @@ You can intend to know exactly what’s going on. And you can intend to have a s
 
 [<a href="#41h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="42"></span><a id="part-1-the-late-stage-meditator-in-community" href="#part-1-the-late-stage-meditator-in-community">part 10; the late-stage meditator in community:</a>
+# <span id="42"></span><a id="part-10-the-late-stage-meditator-in-community" href="#part-10-the-late-stage-meditator-in-community">part 10; the late-stage meditator in community:</a>
 
 People often become more sensitive and more vulnerable at first, possibly for months or years. But eventually...
 
@@ -603,7 +603,7 @@ To be sure, sometimes, often, wisdom consists of just maintaining boundaries and
 
 [<a href="#51h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="52"></span><a id="part-2-inappropriate-reification" href="#part-2-inappropriate-reification">part 20; inappropriate reification:</a>
+# <span id="52"></span><a id="part-20-inappropriate-reification" href="#part-20-inappropriate-reification">part 20; inappropriate reification:</a>
 
 Remember all the above is just a theory of convenience, a story. Find your own truth. Don’t inappropriately reify any of this or take my word for it. Good science is still true. Planes still fly. Government still do the thing they do. Computers compute. Stuff that’s true is simultaneously true. Give yourself time to integrate new, surprising stuff into a unified worldview. It will take some time.
 
@@ -742,5 +742,6 @@ safety = resolution of problems + mind autonomy
 safety + creativity = joy  
 
 [<a href="#55h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 [<a href="#197h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

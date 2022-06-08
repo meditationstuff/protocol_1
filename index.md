@@ -1,21 +1,21 @@
 <center>
 
-# <span id="1"></span> Meditation from Cold Start to Complete Mastery <br/> : <br/> *a Manual of **Global Wayfinding Meditation***
+# <span id="working-title"></span> Meditation from Cold Start to Complete Mastery <br/> : <br/> *a Manual of **Global Wayfinding Meditation***
 
 </center>
 
-<span id="2"></span> **by** Mark D Lippmann and collaborators
+<span id="byline"></span> **by** Mark D Lippmann and collaborators
 
-<span id="3"></span> **Collaborators and Credits (needs to be updated):** ...JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, KQ, MO.)
+<span id="collaborators-and-credits"></span> **Collaborators and Credits (needs to be updated):** ...JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, KQ, MO.)
 
-<span id="4"></span> **Copyright:** All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
+<span id="copyright"></span> **Copyright:** All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 
 
 # <span id="5"></span><a id="quick-start-guide" href="#quick-start-guide">Quick Start Guide:</a>
 
-* <a href="#11">Skip to Full Table of Contents</a>
+* <a href="#full-table-of-contents">Skip to Full Table of Contents</a>
 
-<span id="6"></span> **Who is this document for?**
+<span id="who-is-this-document-for"></span> **Who is this document for?**
 
 This document is for people are curious about, serious about (and anything in between) *very long-term, goal-oriented meditation*, as in years and a lifetime. (And "goal-oriented" includes "no goal" and/or radical, self-determined, open-ended provisionality!) 
 
@@ -43,49 +43,49 @@ Note:
 
 * **How can I immediately get a flavor of what *kind* of meditation this whole document is about?**
 	* *See these sections:*
-		* <a id="177q" href="#177">guided on-ramp for main practice p2 [draft]</a>
-		* <a id="178q" href="#178">pith instructions (experimental)</a>
-		* <a id="179q" href="#179">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
+		* <a id="177q" href="#guided-on-ramp-for-main-practice-p2-draft">guided on-ramp for main practice p2 [draft]</a>
+		* <a id="178q" href="#pith-instructions-experimental">pith instructions (experimental)</a>
+		* <a id="179q" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
 * **Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.**
 	* *See these sections:*
-		* <a id="19aqh" href="#19a">preconceiving, direct reifying [draft]</a>
-		* <a id="16q" href="#16">risks; maximally cautious warnings/&#8203;directives (first-pass, without explanation)</a>
-		* <a id="14q" href="#14">document-level meta-warning</a>
-		* <a id="15q" href="#15">epistemic status disclaimer</a>
-		* <a id="17q" href="#17">but what actually makes it risky?; how do risks obtain, when they do?</a>
+		* <a id="19aqh" href="#preconceiving-direct-reifying-draft">preconceiving, direct reifying [draft]</a>
+		* <a id="16q" href="#risks-maximally-cautious-warnings-directives-first-">risks; maximally cautious warnings/&#8203;directives (first-pass, without explanation)</a>
+		* <a id="14q" href="#document-level-meta-warning">document-level meta-warning</a>
+		* <a id="15q" href="#epistemic-status-disclaimer">epistemic status disclaimer</a>
+		* <a id="17q" href="#but-what-actually-makes-it-risky-how-do-risks-obtai">but what actually makes it risky?; how do risks obtain, when they do?</a>
 		* *More sections:*
-			* <a id="74q" href="#74">environment [and subtlety; (more) risks and rabbit holes]</a>
-			* <a id="165q" href="#165">"psychic" and "supernatural" stuff: what/how/how-not [draft]</a>
-			* <a id="187q" href="#187">human epistemic dynamics and phenomena</a>
+			* <a id="74q" href="#environment-and-subtlety-more-risks-and-rabbit-hole">environment [and subtlety; (more) risks and rabbit holes]</a>
+			* <a id="165q" href="#-psychic-and-supernatural-stuff-what-how-how-not-dr">"psychic" and "supernatural" stuff: what/how/how-not [draft]</a>
+			* <a id="187q" href="#human-epistemic-dynamics-and-phenomena">human epistemic dynamics and phenomena</a>
 * **What's the theoretical, metaphysical, ideological, sectarian, opinionated, telic, soteriological basis of this kind of meditation?**
 	* *See these sections:*
-		* <a id="19q" href="#19">introduction; getting over the hump; text interpretation</a> [suggested below as well]
-		* <a id="18q" href="#18">an exoteric doctrine v0.2</a>
-		* <a id="18aq" href="#18a">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
-		* <a id="21q" href="#21">goal (draft)</a>
-		* <a id="22q" href="#22">end state</a>
-		* <a id="23q" href="#23">no fixed conceptualized goal or end state part one ("goodness")</a>
-		* <a id="24q" href="#24">no fixed conceptualized goal or end state part two ("better")</a>
-		* <a id="25q" href="#25">meditation is concrete problem solving</a>
-		* <a id="26q" href="#26">wellbeing and sacrifice</a>
-		* <a id="27q" href="#27">ok-ness and cosmology</a>
-		* <a id="28q" href="#28">seamless hyphenation [draft]</a>
+		* <a id="19q" href="#introduction-getting-over-the-hump-text-interpretat">introduction; getting over the hump; text interpretation</a>
+		* <a id="18q" href="#an-exoteric-doctrine-v-2">an exoteric doctrine v0.2</a>
+		* <a id="18aq" href="#an-esoteric-doctrine-going-full-buddhist-is-this-fu">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
+		* <a id="21q" href="#goal-draft">goal (draft)</a>
+		* <a id="22q" href="#end-state">end state</a>
+		* <a id="23q" href="#no-fixed-conceptualized-goal-or-end-state-part-one-">no fixed conceptualized goal or end state part one ("goodness")</a>
+		* <a id="24q" href="#no-fixed-conceptualized-goal-or-end-state-part-two-">no fixed conceptualized goal or end state part two ("better")</a>
+		* <a id="25q" href="#meditation-is-concrete-problem-solving">meditation is concrete problem solving</a>
+		* <a id="26q" href="#wellbeing-and-sacrifice">wellbeing and sacrifice</a>
+		* <a id="27q" href="#ok-ness-and-cosmology">ok-ness and cosmology</a>
+		* <a id="28q" href="#seamless-hyphenation-draft">seamless hyphenation [draft]</a>
 * **What's the "practical core" of the document? What do I actually do?**
 	* *See these sections:*
-		* <a id="57q" href="#57">practice preliminaries</a> (11+ sections)
-		* <a id="71q" href="#71">nuts and bolts considerations</a> (17+ sections)
-			* <a id="87q" href="#87">what to do when</a>
-		* <a id="88q" href="#88">top-level practices/categories</a> (some structure is elided, here, for brevity)
-			* <a id="90q" href="#90">meta protocol</a>
-			* <a id="95q" href="#95">preliminary/auxiliary practices</a> (500+ [sic!])
-			* <a id="96q" href="#96">main practice</a> (~10)
-			* <a id="112q" href="#112">creativity(/unsticking) protocol</a>
-			* <a id="115q" href="#115">"many" protocol (interpersonal practice)</a>
+		* <a id="57q" href="#practice-preliminaries">practice preliminaries</a>
+		* <a id="71q" href="#nuts-and-bolts-considerations">nuts and bolts considerations</a>
+			* <a id="87q" href="#what-to-do-when">what to do when</a>
+		* <a id="88q" href="#top-level-practices-categories">top-level practices/categories</a>
+			* <a id="90q" href="#meta-protocol">meta protocol</a>
+			* <a id="95q" href="#preliminary-auxiliary-practices">preliminary/auxiliary practices</a>
+			* <a id="96q" href="#main-practice">main practice</a>
+			* <a id="112q" href="#creativity-unsticking-protocol">creativity(/unsticking) protocol</a>
+			* <a id="115q" href="#-many-protocol-interpersonal-practice">"many" protocol (interpersonal practice)</a>
 * **How do I use this document? Also, is the above sort of "everything"? No! This just scratches the surface!**
 	* (After you read about risks, warnings, cautions, etc., do jump around in the document as per your interest.)
 	* *See these sections:*
-		* <a id="19q" href="#19">introduction; getting over the hump; text interpretation</a> [suggested above as well]
-		* <a id="19aqh" href="#19a">preconceiving, direct reifying [draft; suggested above as well]</a>
+		* <a id="19q" href="#introduction-getting-over-the-hump-text-interpretat">introduction; getting over the hump; text interpretation</a>
+		* <a id="19aqh" href="#preconceiving-direct-reifying-draft-suggested-above">preconceiving, direct reifying [draft; suggested above as well]</a>
 		* <a href="#11">Full Table of Contents</a>
 
 
@@ -96,15 +96,15 @@ Please support this open access work: https://www.patreon.com/meditationstuff
 [As of this version, now at 10 patrons and $101/month USD. Next round number $110; 9$ to go; 92% complete.]
 
 
-<span id="8"></span> 
+<span id="author-web-presence"></span> 
 **Author web presence:** https://meditationstuff.wordpress.com
 
 
-<span id="9"></span> 
+<span id="canonical-location-of-this-document"></span> 
 **Canonical location of this document:** https://github.com/meditationstuff/protocol_1
 
 
-<span id="10"></span> 
+<span id="alternative-versions"></span> 
 **Alternative versions:**
 
 Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
@@ -118,257 +118,257 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 # <span id="11"></span><a id="full-table-of-contents" href="#full-table-of-contents">Full Table of Contents:</a>
 
-* <a id="1h" href="#1">working title</a>
-* <a id="1ah" href="#1a">work-in-progress note</a>
-* <a id="2h" href="#2">byline</a>
-* <a id="3h" href="#3">collaborators and credits</a>
-* <a id="4h" href="#4">copyright</a>
-* <a id="5h" href="#5">quick start guide</a>
-	* <a id="6h" href="#6">who is this document for?</a>
-* <a id="7h" href="#7">funding</a>
-* <a id="8h" href="#8">author web presence</a>
-* <a id="9h" href="#9">canonical location of this document</a>
-* <a id="10h" href="#10">alternative versions</a>
-* <a id="11h" href="#11">full table of contents</a>
-* <a id="12h" href="#12">preliminary and introductory things</a>
-	* <a id="14h" href="#14">document-level meta-warning</a>
-	* <a id="15h" href="#15">epistemic status disclaimer</a>
-	* <a id="16h" href="#16">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
-	* <a id="17h" href="#17">but what actually makes it risky?; how do risks obtain, when they do?</a>
-	* <a id="18h" href="#18">an exoteric doctrine v0.2</a>
-	* <a id="18ah" href="#18a">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
-	* <a id="19h" href="#19">introduction; getting over the hump; text interpretation</a>
-	* <a id="19ah" href="#19a">preconceiving, direct reifying [draft]</a>
-* <a id="20h" href="#20">opinionated, telic, soteriological things</a>
-	* <a id="21h" href="#21">goal (draft)</a>
-	* <a id="22h" href="#22">end state (draft!)</a>
-	* <a id="23h" href="#23">no fixed conceptualized goal or end state part one ("goodness")</a>
-	* <a id="24h" href="#24">no fixed conceptualized goal or end state part two ("better")</a>
-	* <a id="25h" href="#25">meditation is concrete problem solving</a>
-	* <a id="26h" href="#26">wellbeing and sacrifice</a>
-	* <a id="27h" href="#27">ok-ness and cosmology</a>
-	* <a id="28h" href="#28">seamless hyphenation [draft]</a>
-	* <a id="29h" href="#29">other practices (draft)</a>
-* <a id="57h" href="#57">practice preliminaries</a>
-	* <a id="58h" href="#58">timeline, mindset, trajectory, harm</a>
-		* <a id="59h" href="#59">raw hours</a>
-		* <a id="60h" href="#60">better to finish, and smoothly</a>
-		* <a id="61h" href="#61">a failure mode</a>
-		* <a id="62h" href="#62">meditation is not strength-training</a>
-		* <a id="63h" href="#63">entrenchment and active occlusion (layering)</a>
-		* <a id="64h" href="#64">extreme skill and extreme standards</a>
-		* <a id="65h" href="#65">physical sequelae</a>
-		* <a id="66h" href="#66">the end of your world (after adyashanti, maybe?)</a>
-		* <a id="67h" href="#67">drama</a>
-		* <a id="68h" href="#68">error propagation, wayfinding, grace of what minds are</a>
-		* <a id="68ah" href="#68a">on good and bad [draft]</a>
-		* <a id="69h" href="#69">conclusion</a>
-* <a id="70h" href="#70">practice</a>
-	* <a id="71h" href="#71">nuts and bolts considerations</a>
-		* <a id="72h" href="#72">preliminaries and vacations; conceptualization as such</a>
-		* <a id="73h" href="#73">transitioning from other practices (re "sharp cutovers")</a>
-		* <a id="74h" href="#74">environment [and subtlety; (more) risks and rabbit holes]</a>
-		* <a id="75h" href="#75">movement</a>
-		* <a id="76h" href="#76">posture (section needs editing)</a>
-		* <a id="77h" href="#77">breath</a>
-		* <a id="78h" href="#78">states (draft)</a>
-		* <a id="79h" href="#79">"headyness"/"heady-ness"/"headiness"</a>
-		* <a id="80h" href="#80">"subtle energy" and "energy work" and mental models</a>
-		* <a id="81h" href="#81">brief draft comment on first-pass, seemingly separate magisteria</a>
-		* <a id="82h" href="#82">body, self-trust, sensory processing, meaning</a>
-		* <a id="83h" href="#83">but is it meditation? (a dialogue between J and Mark)</a>
-		* <a id="84h" href="#84">practice in daily life or no?</a>
-		* <a id="85h" href="#85">what about concrete/proximal problems?</a>
-		* <a id="86h" href="#86">how much and how often</a>
-		* <a id="87h" href="#87">what to do when</a>
-	* <a id="88h" href="#88">top-level practices/categories</a>
-		* <a id="89h" href="#89">meta practice [solo and otherwise]</a>
-			* <a id="90h" href="#90">meta protocol</a>
-				* <a id="91h" href="#91">collaborator formulations</a>
-					* <a id="92h" href="#92">collaborator formulation 1 (mh)</a>
-			* <a id="93h" href="#93">meta meta protocol</a>
-		* <a id="94h" href="#94">solo practice ("main protocol")</a>
-			* <a id="95h" href="#95">preliminary/auxiliary practices</a>
-			* <a id="96h" href="#96">main practice(s)</a>
-				* <a id="97h" href="#97">introduction</a>
-				* <a id="98h" href="#98">practices</a>
-					* <a id="99h" href="#99">p0</a>
-					* <a id="100h" href="#100">p1</a>
-					* <a id="101h" href="#101">p2</a>
-					* <a id="102h" href="#102">p3</a>
-					* <a id="103h" href="#103">p4</a>
-					* <a id="104h" href="#104">p5</a>
-					* <a id="105h" href="#105">p6</a>
-					* <a id="106h" href="#106">p7</a>
-					* <a id="107h" href="#107">p8</a>
-					* <a id="108h" href="#108">p9</a>
-					* <a id="109h" href="#109">p10 [experimental]</a>
-					* <a id="109ah" href="#109a">p11</a>
-				* <a id="110h" href="#110">theory</a>
-					* <a id="111h" href="#111">incomplete, alternative renderings</a>
-		* <a id="112h" href="#112">creativity(/unsticking) protocol [solo and otherwise]</a>
-			* <a id="113h" href="#113">what to do when nothing's happening/working</a>
-			* <a id="114h" href="#114">creativity(/unsticking) protocol</a>
-		* <a id="115h" href="#115">interpersonal practice</a>
-			* <a id="116h" href="#116">formulation 1 (including Many Protocol)</a>
-			* <a id="117h" href="#117">formulation 2</a>
-			* <a id="118h" href="#118">formulation 3</a>
-			* <a id="119h" href="#119">formulation 4</a>
-			* <a id="120h" href="#120">formulation 5</a>
-			* <a id="121h" href="#121">formulation 6</a>
-			* <a id="121ah" href="#121a">emotions(tm) and feelings(tm) in interpersonal processing vs meditation (alpha draft)</a>
-			* <a id="121bh" href="#121b">social honor(?) versus eternal soul theory of mind/identity (stub)</a>
-			* <a id="121ch" href="#121c">on friendship and (found) family (stub)</a>
-* <a id="122h" href="#122">lists and more</a>
-	* <a id="123h" href="#123">nonmonotonicity</a>
-	* <a id="124h" href="#124">definitions</a>
-	* <a id="125h" href="#125">undefined and explications</a>
-	* <a id="126h" href="#126">bodymindenvironment</a>
-	* <a id="127h" href="#127">can’t-look-yet ("avoidance")</a>
-	* <a id="128h" href="#128">systematicity, ontologies, phenomenological and otherwise</a>
-	* <a id="129h" href="#129">exhaustivity and bottlenecks</a> 
-	* <a id="129ah" href="#129a">ordering matters / order matters</a>
-	* <a id="130h" href="#130">(mental) action and the attentional manifold</a>
-	* <a id="131h" href="#131">the use of the will</a>
-	* <a id="132h" href="#132">a note on force (plus a brief mention of "redo-to-undo")</a>
-	* <a id="132ah" href="#132a">a brief note on effort</a>
-	* <a id="133h" href="#133">more on "undo"</a>
-	* <a id="134h" href="#134">meditating by coincidence</a>
-	* <a id="135h" href="#135">failure and other seemingly permanent and bad things</a>
-	* <a id="136h" href="#136">how bad does it have to get?</a>
-	* <a id="136ah" href="#136a">regarding "better not to start; if you start better to finish" (draft)</a>
-	* <a id="137h" href="#137">extremity replay and creativity: panic, trauma, sexual arousal</a>
-	* <a id="137ah" href="#137a">x-desires, fulfillment, transformation, discussion</a>
-	* <a id="137bh" href="#137b">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
-	* <a id="138h" href="#138">on falling asleep and utilizing sleep</a>
-	* <a id="139h" href="#139">a gentle onramp</a>
-	* <a id="140h" href="#140">good(ness) bad(ness)</a>
-	* <a id="141h" href="#141">some "big" useful concepts</a>
-	* <a id="142h" href="#142">poem of self/other confusion and interdependence</a>
-	* <a id="142ah" href="#142a">is good, is bad (q)</a>
-	* <a id="143h" href="#143">states</a>
-	* <a id="144h" href="#144">invitation of acceptance</a>
-	* <a id="145h" href="#145">nutrition</a>
-	* <a id="145ah" href="#145a">theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating</a>
-	* <a id="146h" href="#146">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
-	* <a id="147h" href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
-	* <a id="147a0h" href="#147a0">clarification on muscle contraction and stretching versus chronic muscle tension</a>
-	* <a id="147a1h" href="#147a1">positive dwelling in inability</a>
-	* <a id="147ah" href="#147a">when things get worse again--burn-off, integration, suppression, unsuppression</a>
-	* <a id="147bh" href="#147b">integration, settling, unsettling, resettling, locality, globality, unity (draft)</a>
-	* <a id="148h" href="#148">last gasps</a>
-	* <a id="148a1h" href="#148a1">worse for no reason, more X in general, and wisdom</a>
-	* <a id="148ah" href="#148a">involuntary movement, semi-involuntary movement, kriyas</a>
-	* <a id="148bh" href="#148b">kundalini</a>
-	* <a id="148ch" href="#148c">can't talk</a>
-	* <a id="148dh" href="#148d">when/&#8203;if things are bad / (not your) fault / determinism</a>
-	* <a id="149h" href="#149">being (not) ok tangles</a>
-	* <a id="150h" href="#150">brief note on space and sensations</a>
-	* <a id="150ah" href="#150a">raw/&#8203;bare sensations contra "alway on" (possibly misleading early draft)</a>
-	* <a id="151h" href="#151">brief, loosely related notes on unknotting, untwisting, untangling</a>
-	* <a id="152h" href="#152">attention is not fundamental</a>
-	* <a id="153h" href="#153">"inner space" and physical/social grace</a>
-	* <a id="154h" href="#154">dark phenomenology and presence/absence conceptions</a>
-	* <a id="154a1h" href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
-	* <a id="154ah" href="#154a">daily limits</a>
-	* <a id="154bh" href="#154b">pushing away, holding at bay, preconceiving, direct-reifying</a>
-	* <a id="155h" href="#155">brief thoughts on substances like psychedelics</a>
-	* <a id="156h" href="#156">getting triggered, usefulness and risks</a>
-	* <a id="156ah" href="#156a">some narrowly conceived phenomenological investigations that may or may not be useful</a>
-	* <a id="156bh" href="#156b">inappropriate reification (stub)</a>
-	* <a id="157h" href="#157">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
-	* <a id="157a1h" href="#157a1">bridge building and dialogue</a>
-		* <a id="157a2h" href="#157a2">bridge building</a>
-			* <a id="157a3h" href="#157a3">making connections between my stuff and lineage traditions, in three parts (draft!)</a>
-				* <a id="157a4h" href="#157a4">part 1: "same playing field"</a>
-				* <a id="157a5h" href="#157a5">part 2: continuity between "mundane" and "supramundane"; breadth-first vs depth-first</a>
-				* <a id="157a6h" href="#157a6">part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need)</a>
-			* <a id="157a7h" href="#157a7">making (sometimes straw) distinctions between my stuff and other stuff</a>
-				* <a id="157a8h" href="#157a8">many enlightenments? (a nonrigorous position) (old post)</a>
-				* <a id="176h" href="#176">no one gets pixel-perfect possibilities</a>
-				* <a id="157a9h" href="#157a9">renunciation quibbles and other things (draft; needs an even first editing pass)</a>
-				* <a id="157a10h" href="#157a10">polemics</a>
-		* <a id="157ah" href="#157a">open informal response on social media to someone in a contemporary practice scene</a>
-	* <a id="158h" href="#158">a note on "making progress," "regression," and redo-to-undo</a>
-	* <a id="158aah" href="#158aa">on suffering</a>
-	* <a id="158bah" href="#158ba">inner peace placeholder</a>
-	* <a id="158cah" href="#158ca">love placeholder</a>
-	* <a id="158dah" href="#158da">wellbeing placeholder</a>
-	* <a id="158da1c1h" href="#158da1c1">autonomic harmony placeholder</a>
-	* <a id="158dbh" href="#158db"> ball of string analogy and more on posture and feedback loops (draft)</a>
-	* <a id="158da1h" href="#158da1">far reaches of meditation</a>
-		* <a id="158da1a1ah" href="#158da1a1a">on groundlessness, a brief note</a>
-		* <a id="158da1ah" href="#158da1a">naturalization</a>
-		* <a id="158da1b1h" href="#158da1b1">impersonalization and environmentalization</a>
-		* <a id="158da1a1h" href="#158da1a1">vague sketch of progression, with respect to emptiness and groundlessness</a>
-		* <a id="158da1bh" href="#158da1b">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
-		* <a id="158da1ch" href="#158da1c">tweets / shitposts</a>
-		* <a id="158da1dh" href="#158da1d">temp catch-all</a>
-		* <a id="158da1gh" href="#158da1g">vulnerability (physical and otherwise, cf. suffering) [stub]</a>
-		* <a id="158da1fh" href="#158da1f">that won't work</a>
-		* <a id="158da1eh" href="#158da1e">crappy timeline guidelines</a>
-	* <a id="158eah" href="#158ea">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
-	* <a id="158fah" href="#158fa">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
-	* <a id="158gah" href="#158ga">a brief dialogue on locality and concreteness</a>
-	* <a id="158gbh" href="#158gb">clockworks metaphor (tweezers, scale, emptiness, locality)</a>
-	* <a id="158ah" href="#158a">sex, gender, etc. stuff</a>
-		* <a id="158bh" href="#158b">working with sex and gender (plus "tantra")</a>
-	* <a id="159h" href="#159">stuff stuff</a>
-		* <a id="160h" href="#160">don't be here now (to start)</a>
-		* <a id="161h" href="#161">normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]</a>
-		* <a id="162h" href="#162">"false ends" (messy first draft)</a>
-		* <a id="163h" href="#163">eternity, suffering, death</a>
-		* <a id="163ah" href="#163a">surface areas and the radically personal (draft)</a>
-	* <a id="164h" href="#164">subtle interaction</a>
-		* <a id="165h" href="#165">"psychic" and "supernatural" stuff; what/how/how-not [draft]</a>
-		* <a id="166h" href="#166">self and other; good and bad [draft]</a>
-		* <a id="167h" href="#167">prenatal experiences and subtle interaction</a>
-		* <a id="168h" href="#168">direct and indirect people and group stuff</a>
-		* <a id="169h" href="#169">on vibe(s) and vibing, briefly</a>
-		* <a id="169ah" href="#169a">distinctions</a>
-		* <a id="169bh" href="#169b">on parts, demons, egregores</a>
-		* <a id="169ch" href="#169c">axes of individuation with relation to value judgments (transcript)</a>
-		* <a id="169eh" href="#169e">spiritwork manifesto thing (snapshot)</a>
-	* <a id="169dh" href="#169d">character, personality, ego, virtue. sovereignty. outside view. cultural, familial good/&#8203;bad reversals (draft)</a>
-	* <a id="170h" href="#170">civilizational stuff</a>
-		* <a id="171h" href="#171">buddhas, anti-buddhas, civilization, and the importance of method [draft]</a>
-		* <a id="172h" href="#172">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
-		* <a id="173h" href="#173">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
-	* <a id="192ah" href="#192a">mark's approximate practice timeline summary highlights</a>
-	* <a id="192bh" href="#192b">miscellaneous pith notes</a>
-* <a id="192ch" href="#192c">neuroscience speculative snapshots</a>
-	* <a id="192dh" href="#192d">neuroscience and meditation, odds and ends [2022-02-09]</a>
-	* <a id="192eh" href="#192e">more neuroscience odds and ends 2022-02-10</a>
-	* <a id="192fh" href="#192f">neuroscience, meditation, rationality, folk psychology, and sensorimotor processing</a>
-		* <a id="192gh" href="#192g">crowley, chads, rationality, and the unification of will</a>
-		* <a id="192ih" href="#192i">enlightenment, sensorimotor processing, love</a>
-* <a id="174h" href="#174">teaching and learning and creating and relating (meditation and anything)</a>
-	* <a id="175h" href="#175">teaching</a>
-		* <a id="177h" href="#177">guided on-ramp for main practice p2 [draft]</a>
-		* <a id="178h" href="#178">pith instructions (experimental)</a>
-		* <a id="179h" href="#179">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
-	* <a id="180h" href="#180">embodied learning</a>
-		* <a id="181h" href="#181">technical debt, meditation, and minds</a>
-		* <a id="182h" href="#182">a speculative comment on language learning</a>
-		* <a id="183h" href="#183">technical debt and inverse operations</a>
-		* <a id="184h" href="#184">merely just having the experience itself, and, technical debt is good, actually</a>
-		* <a id="184ah" href="#184a">the scale analogy [draft]</a>
-		* <a id="184bh" href="#184b">karma, samskaras, technical debt dialogue with PK</a>
-	* <a id="185h" href="#185">epistemics</a>
-		* <a id="186h" href="#186">meditation indirectly discloses domain knowledge</a>
-		* <a id="187h" href="#187">human epistemic dynamics and phenomena</a>
-		* <a id="188h" href="#188">epistemic-aesthetic rigor [stub]</a>
-		* <a id="188ah" href="#188a">calling word salad phenomenon</a>
-	* <a id="189h" href="#189">relating</a>
-		* <a id="190h" href="#190">in-relationship foreclosing legacy of past interaction [stub]</a>
-	* <a id="191h" href="#191">creating</a>
-		* <a id="192h" href="#192">randomness/arbitrariness, unpunished, as necessary data [not yet written]</a>
-	* <a id="56h" href="#56">lineages and transformative works</a>
-* <a id="193h" href="#193">bibliography (incomplete)</a>
-* <a id="194h" href="#194">appendix 1: preliminary/auxiliary practices (names only)</a>
-* <a id="195h" href="#195">appendix 2: preliminary/auxiliary practices (full)</a>
-* <a id="196h" href="#196">appendix 3: main practice p1 appendix (usa english; "en-us")</a>
-* <a id="197h" href="#197">appendix 4: worst case culture/&#8203;community stuff</a>
+* <a id="1h" href="#working-title">working title</a>
+* <a id="1ah" href="#work-in-progress-note">work-in-progress note</a>
+* <a id="2h" href="#byline">byline</a>
+* <a id="3h" href="#collaborators-and-credits">collaborators and credits</a>
+* <a id="4h" href="#copyright">copyright</a>
+* <a id="5h" href="#quick-start-guide">quick start guide</a>
+	* <a id="6h" href="#who-is-this-document-for">who is this document for?</a>
+* <a id="7h" href="#funding">funding</a>
+* <a id="8h" href="#author-web-presence">author web presence</a>
+* <a id="9h" href="#canonical-location-of-this-document">canonical location of this document</a>
+* <a id="10h" href="#alternative-versions">alternative versions</a>
+* <a id="11h" href="#full-table-of-contents">full table of contents</a>
+* <a id="12h" href="#preliminary-and-introductory-things">preliminary and introductory things</a>
+	* <a id="14h" href="#document-level-meta-warning">document-level meta-warning</a>
+	* <a id="15h" href="#epistemic-status-disclaimer">epistemic status disclaimer</a>
+	* <a id="16h" href="#risks-maximally-cautious-warnings-directives-first-">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
+	* <a id="17h" href="#but-what-actually-makes-it-risky-how-do-risks-obtai">but what actually makes it risky?; how do risks obtain, when they do?</a>
+	* <a id="18h" href="#an-exoteric-doctrine-v0-2">an exoteric doctrine v0.2</a>
+	* <a id="18ah" href="#an-esoteric-doctrine-going-full-buddhist-is-this-fu">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
+	* <a id="19h" href="#introduction-getting-over-the-hump-text-interpretat">introduction; getting over the hump; text interpretation</a>
+	* <a id="19ah" href="#preconceiving-direct-reifying-draft">preconceiving, direct reifying [draft]</a>
+* <a id="20h" href="#opinionated-telic-soteriological-things">opinionated, telic, soteriological things</a>
+	* <a id="21h" href="#goal-draft">goal (draft)</a>
+	* <a id="22h" href="#end-state-draft">end state (draft!)</a>
+	* <a id="23h" href="#no-fixed-conceptualized-goal-or-end-state-part-one-">no fixed conceptualized goal or end state part one ("goodness")</a>
+	* <a id="24h" href="#no-fixed-conceptualized-goal-or-end-state-part-two-">no fixed conceptualized goal or end state part two ("better")</a>
+	* <a id="25h" href="#meditation-is-concrete-problem-solving">meditation is concrete problem solving</a>
+	* <a id="26h" href="#wellbeing-and-sacrifice">wellbeing and sacrifice</a>
+	* <a id="27h" href="#ok-ness-and-cosmology">ok-ness and cosmology</a>
+	* <a id="28h" href="#seamless-hyphenation-draft">seamless hyphenation [draft]</a>
+	* <a id="29h" href="#other-practices-draft">other practices (draft)</a>
+* <a id="57h" href="#practice-preliminaries">practice preliminaries</a>
+	* <a id="58h" href="#timeline-mindset-trajectory-harm">timeline, mindset, trajectory, harm</a>
+		* <a id="59h" href="#raw-hours">raw hours</a>
+		* <a id="60h" href="#better-to-finish-and-smoothly">better to finish, and smoothly</a>
+		* <a id="61h" href="#a-failure-mode">a failure mode</a>
+		* <a id="62h" href="#meditation-is-not-strength-training">meditation is not strength-training</a>
+		* <a id="63h" href="#entrenchment-and-active-occlusion-layering">entrenchment and active occlusion (layering)</a>
+		* <a id="64h" href="#extreme-skill-and-extreme-standards">extreme skill and extreme standards</a>
+		* <a id="65h" href="#physical-sequelae">physical sequelae</a>
+		* <a id="66h" href="#the-end-of-your-world-after-adyashanti-maybe">the end of your world (after adyashanti, maybe?)</a>
+		* <a id="67h" href="#drama">drama</a>
+		* <a id="68h" href="#error-propagation-wayfinding-grace-of-what-minds-ar">error propagation, wayfinding, grace of what minds are</a>
+		* <a id="68ah" href="#on-good-and-bad-draft">on good and bad [draft]</a>
+		* <a id="69h" href="#conclusion">conclusion</a>
+* <a id="70h" href="#practice">practice</a>
+	* <a id="71h" href="#nuts-and-bolts-considerations">nuts and bolts considerations</a>
+		* <a id="72h" href="#preliminaries-and-vacations-conceptualization-as-su">preliminaries and vacations; conceptualization as such</a>
+		* <a id="73h" href="#transitioning-from-other-practices-re-sharp-cutover">transitioning from other practices (re "sharp cutovers")</a>
+		* <a id="74h" href="#environment-and-subtlety-more-risks-and-rabbit-hole">environment [and subtlety; (more) risks and rabbit holes]</a>
+		* <a id="75h" href="#movement">movement</a>
+		* <a id="76h" href="#posture-section-needs-editing">posture (section needs editing)</a>
+		* <a id="77h" href="#breath">breath</a>
+		* <a id="78h" href="#states-draft">states (draft)</a>
+		* <a id="79h" href="#-headyness-heady-ness-headiness">"headyness"/"heady-ness"/"headiness"</a>
+		* <a id="80h" href="#-subtle-energy-and-energy-work-and-mental-models">"subtle energy" and "energy work" and mental models</a>
+		* <a id="81h" href="#brief-draft-comment-on-first-pass-seemingly-separat">brief draft comment on first-pass, seemingly separate magisteria</a>
+		* <a id="82h" href="#body-self-trust-sensory-processing-meaning">body, self-trust, sensory processing, meaning</a>
+		* <a id="83h" href="#but-is-it-meditation-a-dialogue-between-j-and-mark">but is it meditation? (a dialogue between J and Mark)</a>
+		* <a id="84h" href="#practice-in-daily-life-or-no">practice in daily life or no?</a>
+		* <a id="85h" href="#what-about-concrete-proximal-problems">what about concrete/proximal problems?</a>
+		* <a id="86h" href="#how-much-and-how-often">how much and how often</a>
+		* <a id="87h" href="#what-to-do-when">what to do when</a>
+	* <a id="88h" href="#top-level-practices-categories">top-level practices/categories</a>
+		* <a id="89h" href="#meta-practice-solo-and-otherwise">meta practice [solo and otherwise]</a>
+			* <a id="90h" href="#meta-protocol">meta protocol</a>
+				* <a id="91h" href="#collaborator-formulations">collaborator formulations</a>
+					* <a id="92h" href="#collaborator-formulation-1-mh">collaborator formulation 1 (mh)</a>
+			* <a id="93h" href="#meta-meta-protocol">meta meta protocol</a>
+		* <a id="94h" href="#solo-practice-main-protocol">solo practice ("main protocol")</a>
+			* <a id="95h" href="#preliminary-auxiliary-practices">preliminary/auxiliary practices</a>
+			* <a id="96h" href="#main-practice-s">main practice(s)</a>
+				* <a id="97h" href="#introduction">introduction</a>
+				* <a id="98h" href="#practices">practices</a>
+					* <a id="99h" href="#p">p0</a>
+					* <a id="100h" href="#p1">p1</a>
+					* <a id="101h" href="#p2">p2</a>
+					* <a id="102h" href="#p3">p3</a>
+					* <a id="103h" href="#p4">p4</a>
+					* <a id="104h" href="#p5">p5</a>
+					* <a id="105h" href="#p6">p6</a>
+					* <a id="106h" href="#p7">p7</a>
+					* <a id="107h" href="#p8">p8</a>
+					* <a id="108h" href="#p9">p9</a>
+					* <a id="109h" href="#p10-experimental">p10 [experimental]</a>
+					* <a id="109ah" href="#p11">p11</a>
+				* <a id="110h" href="#theory">theory</a>
+					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
+		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
+			* <a id="113h" href="#what-to-do-when-nothing-s-happening-working">what to do when nothing's happening/working</a>
+			* <a id="114h" href="#creativity-unsticking-protocol">creativity(/unsticking) protocol</a>
+		* <a id="115h" href="#interpersonal-practice">interpersonal practice</a>
+			* <a id="116h" href="#formulation-1-including-many-protocol">formulation 1 (including Many Protocol)</a>
+			* <a id="117h" href="#formulation-2">formulation 2</a>
+			* <a id="118h" href="#formulation-3">formulation 3</a>
+			* <a id="119h" href="#formulation-4">formulation 4</a>
+			* <a id="120h" href="#formulation-5">formulation 5</a>
+			* <a id="121h" href="#formulation-6">formulation 6</a>
+			* <a id="121ah" href="#emotions-tm-and-feelings-tm-in-interpersonal-proces">emotions(tm) and feelings(tm) in interpersonal processing vs meditation (alpha draft)</a>
+			* <a id="121bh" href="#social-honor-versus-eternal-soul-theory-of-mind-ide">social honor(?) versus eternal soul theory of mind/identity (stub)</a>
+			* <a id="121ch" href="#on-friendship-and-found-family-stub">on friendship and (found) family (stub)</a>
+* <a id="122h" href="#lists-and-more">lists and more</a>
+	* <a id="123h" href="#nonmonotonicity">nonmonotonicity</a>
+	* <a id="124h" href="#definitions">definitions</a>
+	* <a id="125h" href="#undefined-and-explications">undefined and explications</a>
+	* <a id="126h" href="#bodymindenvironment">bodymindenvironment</a>
+	* <a id="127h" href="#can-t-look-yet-avoidance">can’t-look-yet ("avoidance")</a>
+	* <a id="128h" href="#systematicity-ontologies-phenomenological-and-other">systematicity, ontologies, phenomenological and otherwise</a>
+	* <a id="129h" href="#exhaustivity-and-bottlenecks">exhaustivity and bottlenecks</a>
+	* <a id="129ah" href="#ordering-matters-order-matters">ordering matters / order matters</a>
+	* <a id="130h" href="#-mental-action-and-the-attentional-manifold">(mental) action and the attentional manifold</a>
+	* <a id="131h" href="#the-use-of-the-will">the use of the will</a>
+	* <a id="132h" href="#a-note-on-force-plus-a-brief-mention-of-redo-to-und">a note on force (plus a brief mention of "redo-to-undo")</a>
+	* <a id="132ah" href="#a-brief-note-on-effort">a brief note on effort</a>
+	* <a id="133h" href="#more-on-undo">more on "undo"</a>
+	* <a id="134h" href="#meditating-by-coincidence">meditating by coincidence</a>
+	* <a id="135h" href="#failure-and-other-seemingly-permanent-and-bad-thing">failure and other seemingly permanent and bad things</a>
+	* <a id="136h" href="#how-bad-does-it-have-to-get">how bad does it have to get?</a>
+	* <a id="136ah" href="#regarding-better-not-to-start-if-you-start-better-t">regarding "better not to start; if you start better to finish" (draft)</a>
+	* <a id="137h" href="#extremity-replay-and-creativity-panic-trauma-sexual">extremity replay and creativity: panic, trauma, sexual arousal</a>
+	* <a id="137ah" href="#x-desires-fulfillment-transformation-discussion">x-desires, fulfillment, transformation, discussion</a>
+	* <a id="137bh" href="#taking-refuge-can-reshape-the-local-environment-and">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
+	* <a id="138h" href="#on-falling-asleep-and-utilizing-sleep">on falling asleep and utilizing sleep</a>
+	* <a id="139h" href="#a-gentle-onramp">a gentle onramp</a>
+	* <a id="140h" href="#good-ness-bad-ness">good(ness) bad(ness)</a>
+	* <a id="141h" href="#some-big-useful-concepts">some "big" useful concepts</a>
+	* <a id="142h" href="#poem-of-self-other-confusion-and-interdependence">poem of self/other confusion and interdependence</a>
+	* <a id="142ah" href="#is-good-is-bad-q">is good, is bad (q)</a>
+	* <a id="143h" href="#states">states</a>
+	* <a id="144h" href="#invitation-of-acceptance">invitation of acceptance</a>
+	* <a id="145h" href="#nutrition">nutrition</a>
+	* <a id="145ah" href="#theory-driven-theory-harmonizing-equilibriating-int">theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating</a>
+	* <a id="146h" href="#historical-and-contemporary-difficulties-and-uncert">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
+	* <a id="147h" href="#a-brief-and-incomplete-theory-of-muscle-tension-ris">a brief and incomplete theory of muscle tension risk in meditation</a>
+	* <a id="147a0h" href="#clarification-on-muscle-contraction-and-stretching-">clarification on muscle contraction and stretching versus chronic muscle tension</a>
+	* <a id="147a1h" href="#positive-dwelling-in-inability">positive dwelling in inability</a>
+	* <a id="147ah" href="#when-things-get-worse-again-burn-off-integration-su">when things get worse again--burn-off, integration, suppression, unsuppression</a>
+	* <a id="147bh" href="#integration-settling-unsettling-resettling-locality">integration, settling, unsettling, resettling, locality, globality, unity (draft)</a>
+	* <a id="148h" href="#last-gasps">last gasps</a>
+	* <a id="148a1h" href="#worse-for-no-reason-more-x-in-general-and-wisdom">worse for no reason, more X in general, and wisdom</a>
+	* <a id="148ah" href="#involuntary-movement-semi-involuntary-movement-kriy">involuntary movement, semi-involuntary movement, kriyas</a>
+	* <a id="148bh" href="#kundalini">kundalini</a>
+	* <a id="148ch" href="#can-t-talk">can't talk</a>
+	* <a id="148dh" href="#when-if-things-are-bad-not-your-fault-determinism">when/&#8203;if things are bad / (not your) fault / determinism</a>
+	* <a id="149h" href="#being-not-ok-tangles">being (not) ok tangles</a>
+	* <a id="150h" href="#brief-note-on-space-and-sensations">brief note on space and sensations</a>
+	* <a id="150ah" href="#raw-bare-sensations-contra-alway-on-possibly-mislea">raw/&#8203;bare sensations contra "alway on" (possibly misleading early draft)</a>
+	* <a id="151h" href="#brief-loosely-related-notes-on-unknotting-untwistin">brief, loosely related notes on unknotting, untwisting, untangling</a>
+	* <a id="152h" href="#attention-is-not-fundamental">attention is not fundamental</a>
+	* <a id="153h" href="#-inner-space-and-physical-social-grace">"inner space" and physical/social grace</a>
+	* <a id="154h" href="#dark-phenomenology-and-presence-absence-conceptions">dark phenomenology and presence/absence conceptions</a>
+	* <a id="154a1h" href="#prenatal-experiences-the-fetal-position-and-other-b">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
+	* <a id="154ah" href="#daily-limits">daily limits</a>
+	* <a id="154bh" href="#pushing-away-holding-at-bay-preconceiving-direct-re">pushing away, holding at bay, preconceiving, direct-reifying</a>
+	* <a id="155h" href="#brief-thoughts-on-substances-like-psychedelics">brief thoughts on substances like psychedelics</a>
+	* <a id="156h" href="#getting-triggered-usefulness-and-risks">getting triggered, usefulness and risks</a>
+	* <a id="156ah" href="#some-narrowly-conceived-phenomenological-investigat">some narrowly conceived phenomenological investigations that may or may not be useful</a>
+	* <a id="156bh" href="#inappropriate-reification-stub">inappropriate reification (stub)</a>
+	* <a id="157h" href="#a-dialogue-between-n-and-mark-on-reasoning-and-pre-">a dialogue between N and Mark, on reasoning and pre-reasoning</a>
+	* <a id="157a1h" href="#bridge-building-and-dialogue">bridge building and dialogue</a>
+		* <a id="157a2h" href="#bridge-building">bridge building</a>
+			* <a id="157a3h" href="#making-connections-between-my-stuff-and-lineage-tra">making connections between my stuff and lineage traditions, in three parts (draft!)</a>
+				* <a id="157a4h" href="#part-1-same-playing-field">part 1: "same playing field"</a>
+				* <a id="157a5h" href="#part-2-continuity-between-mundane-and-supramundane-">part 2: continuity between "mundane" and "supramundane"; breadth-first vs depth-first</a>
+				* <a id="157a6h" href="#part-3-implicit-and-explicit-global-wayfinding-or-h">part 3: implicit and explicit global wayfinding (or having the best shot of generating everything you need)</a>
+			* <a id="157a7h" href="#making-sometimes-straw-distinctions-between-my-stuf">making (sometimes straw) distinctions between my stuff and other stuff</a>
+				* <a id="157a8h" href="#many-enlightenments-a-nonrigorous-position-old-post">many enlightenments? (a nonrigorous position) (old post)</a>
+				* <a id="176h" href="#no-one-gets-pixel-perfect-possibilities">no one gets pixel-perfect possibilities</a>
+				* <a id="157a9h" href="#renunciation-quibbles-and-other-things-draft-needs-">renunciation quibbles and other things (draft; needs an even first editing pass)</a>
+				* <a id="157a10h" href="#polemics">polemics</a>
+		* <a id="157ah" href="#open-informal-response-on-social-media-to-someone-i">open informal response on social media to someone in a contemporary practice scene</a>
+	* <a id="158h" href="#a-note-on-making-progress-regression-and-redo-to-un">a note on "making progress," "regression," and redo-to-undo</a>
+	* <a id="158aah" href="#on-suffering">on suffering</a>
+	* <a id="158bah" href="#inner-peace-placeholder">inner peace placeholder</a>
+	* <a id="158cah" href="#love-placeholder">love placeholder</a>
+	* <a id="158dah" href="#wellbeing-placeholder">wellbeing placeholder</a>
+	* <a id="158da1c1h" href="#autonomic-harmony-placeholder">autonomic harmony placeholder</a>
+	* <a id="158dbh" href="#-ball-of-string-analogy-and-more-on-posture-and-fee"> ball of string analogy and more on posture and feedback loops (draft)</a>
+	* <a id="158da1h" href="#far-reaches-of-meditation">far reaches of meditation</a>
+		* <a id="158da1a1ah" href="#on-groundlessness-a-brief-note">on groundlessness, a brief note</a>
+		* <a id="158da1ah" href="#naturalization">naturalization</a>
+		* <a id="158da1b1h" href="#impersonalization-and-environmentalization">impersonalization and environmentalization</a>
+		* <a id="158da1a1h" href="#vague-sketch-of-progression-with-respect-to-emptine">vague sketch of progression, with respect to emptiness and groundlessness</a>
+		* <a id="158da1bh" href="#touchstones-sort-of-leaving-out-or-only-weakly-inte">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
+		* <a id="158da1ch" href="#tweets-shitposts">tweets / shitposts</a>
+		* <a id="158da1dh" href="#temp-catch-all">temp catch-all</a>
+		* <a id="158da1gh" href="#vulnerability-physical-and-otherwise-cf-suffering-s">vulnerability (physical and otherwise, cf. suffering) [stub]</a>
+		* <a id="158da1fh" href="#that-won-t-work">that won't work</a>
+		* <a id="158da1eh" href="#crappy-timeline-guidelines">crappy timeline guidelines</a>
+	* <a id="158eah" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
+	* <a id="158fah" href="#a-dialogue-on-wayfinding-homunculi-parts-goodness-a">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
+	* <a id="158gah" href="#a-brief-dialogue-on-locality-and-concreteness">a brief dialogue on locality and concreteness</a>
+	* <a id="158gbh" href="#clockworks-metaphor-tweezers-scale-emptiness-locali">clockworks metaphor (tweezers, scale, emptiness, locality)</a>
+	* <a id="158ah" href="#sex-gender-etc-stuff">sex, gender, etc. stuff</a>
+		* <a id="158bh" href="#working-with-sex-and-gender-plus-tantra">working with sex and gender (plus "tantra")</a>
+	* <a id="159h" href="#stuff-stuff">stuff stuff</a>
+		* <a id="160h" href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
+		* <a id="161h" href="#normalcy-crackpotty-ness-wisdom-craziness-competenc">normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]</a>
+		* <a id="162h" href="#-false-ends-messy-first-draft">"false ends" (messy first draft)</a>
+		* <a id="163h" href="#eternity-suffering-death">eternity, suffering, death</a>
+		* <a id="163ah" href="#surface-areas-and-the-radically-personal-draft">surface areas and the radically personal (draft)</a>
+	* <a id="164h" href="#subtle-interaction">subtle interaction</a>
+		* <a id="165h" href="#-psychic-and-supernatural-stuff-what-how-how-not-dr">"psychic" and "supernatural" stuff; what/how/how-not [draft]</a>
+		* <a id="166h" href="#self-and-other-good-and-bad-draft">self and other; good and bad [draft]</a>
+		* <a id="167h" href="#prenatal-experiences-and-subtle-interaction">prenatal experiences and subtle interaction</a>
+		* <a id="168h" href="#direct-and-indirect-people-and-group-stuff">direct and indirect people and group stuff</a>
+		* <a id="169h" href="#on-vibe-s-and-vibing-briefly">on vibe(s) and vibing, briefly</a>
+		* <a id="169ah" href="#distinctions">distinctions</a>
+		* <a id="169bh" href="#on-parts-demons-egregores">on parts, demons, egregores</a>
+		* <a id="169ch" href="#axes-of-individuation-with-relation-to-value-judgme">axes of individuation with relation to value judgments (transcript)</a>
+		* <a id="169eh" href="#spiritwork-manifesto-thing-snapshot">spiritwork manifesto thing (snapshot)</a>
+	* <a id="169dh" href="#character-personality-ego-virtue-sovereignty-outsid">character, personality, ego, virtue. sovereignty. outside view. cultural, familial good/&#8203;bad reversals (draft)</a>
+	* <a id="170h" href="#civilizational-stuff">civilizational stuff</a>
+		* <a id="171h" href="#buddhas-anti-buddhas-civilization-and-the-importanc">buddhas, anti-buddhas, civilization, and the importance of method [draft]</a>
+		* <a id="172h" href="#sketching-alternatives-to-straw-realism-internation">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
+		* <a id="173h" href="#karma-losslessness-developmental-stage-models-viole">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
+	* <a id="192ah" href="#mark-s-approximate-practice-timeline-summary-highli">mark's approximate practice timeline summary highlights</a>
+	* <a id="192bh" href="#miscellaneous-pith-notes">miscellaneous pith notes</a>
+* <a id="192ch" href="#neuroscience-speculative-snapshots">neuroscience speculative snapshots</a>
+	* <a id="192dh" href="#neuroscience-and-meditation-odds-and-ends-2-22-2-9">neuroscience and meditation, odds and ends [2022-02-09]</a>
+	* <a id="192eh" href="#more-neuroscience-odds-and-ends-2-22-2-1">more neuroscience odds and ends 2022-02-10</a>
+	* <a id="192fh" href="#neuroscience-meditation-rationality-folk-psychology">neuroscience, meditation, rationality, folk psychology, and sensorimotor processing</a>
+		* <a id="192gh" href="#crowley-chads-rationality-and-the-unification-of-wi">crowley, chads, rationality, and the unification of will</a>
+		* <a id="192ih" href="#enlightenment-sensorimotor-processing-love">enlightenment, sensorimotor processing, love</a>
+* <a id="174h" href="#teaching-and-learning-and-creating-and-relating-med">teaching and learning and creating and relating (meditation and anything)</a>
+	* <a id="175h" href="#teaching">teaching</a>
+		* <a id="177h" href="#guided-on-ramp-for-main-practice-p2-draft">guided on-ramp for main practice p2 [draft]</a>
+		* <a id="178h" href="#pith-instructions-experimental">pith instructions (experimental)</a>
+		* <a id="179h" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
+	* <a id="180h" href="#embodied-learning">embodied learning</a>
+		* <a id="181h" href="#technical-debt-meditation-and-minds">technical debt, meditation, and minds</a>
+		* <a id="182h" href="#a-speculative-comment-on-language-learning">a speculative comment on language learning</a>
+		* <a id="183h" href="#technical-debt-and-inverse-operations">technical debt and inverse operations</a>
+		* <a id="184h" href="#merely-just-having-the-experience-itself-and-techni">merely just having the experience itself, and, technical debt is good, actually</a>
+		* <a id="184ah" href="#the-scale-analogy-draft">the scale analogy [draft]</a>
+		* <a id="184bh" href="#karma-samskaras-technical-debt-dialogue-with-pk">karma, samskaras, technical debt dialogue with PK</a>
+	* <a id="185h" href="#epistemics">epistemics</a>
+		* <a id="186h" href="#meditation-indirectly-discloses-domain-knowledge">meditation indirectly discloses domain knowledge</a>
+		* <a id="187h" href="#human-epistemic-dynamics-and-phenomena">human epistemic dynamics and phenomena</a>
+		* <a id="188h" href="#epistemic-aesthetic-rigor-stub">epistemic-aesthetic rigor [stub]</a>
+		* <a id="188ah" href="#calling-word-salad-phenomenon">calling word salad phenomenon</a>
+	* <a id="189h" href="#relating">relating</a>
+		* <a id="190h" href="#in-relationship-foreclosing-legacy-of-past-interact">in-relationship foreclosing legacy of past interaction [stub]</a>
+	* <a id="191h" href="#creating">creating</a>
+		* <a id="192h" href="#randomness-arbitrariness-unpunished-as-necessary-da">randomness/arbitrariness, unpunished, as necessary data [not yet written]</a>
+	* <a id="56h" href="#lineages-and-transformative-works">lineages and transformative works</a>
+* <a id="193h" href="#bibliography-incomplete">bibliography (incomplete)</a>
+* <a id="194h" href="#appendix-1-preliminary-auxiliary-practices-names-on">appendix 1: preliminary/auxiliary practices (names only)</a>
+* <a id="195h" href="#appendix-2-preliminary-auxiliary-practices-full">appendix 2: preliminary/auxiliary practices (full)</a>
+* <a id="196h" href="#appendix-3-main-practice-p1-appendix-usa-english-en">appendix 3: main practice p1 appendix (usa english; "en-us")</a>
+* <a id="197h" href="#appendix-4-worst-case-culture-community-stuff">appendix 4: worst case culture/&#8203;community stuff</a>
 
 # <span id="12"></span><a id="preliminary-and-introductory-things" href="#preliminary-and-introductory-things">preliminary and introductory things:</a>
 
@@ -615,7 +615,7 @@ For the record, the blowing stuff up approach was really fine for me for a long 
 
 [<a href="#17h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="18"></span><a id="an-exoteric-doctrine-v-2" href="#an-exoteric-doctrine-v-2">an exoteric doctrine (v0.2):</a>
+# <span id="18"></span><a id="an-exoteric-doctrine-v0-2" href="#an-exoteric-doctrine-v0-2">an exoteric doctrine (v0.2):</a>
 
 [Note, immediately below, it might seems like "nebulosity" or "emptiness" (or "noneternalism") isn't acknowledged, but note that this is a first-pass, orienting *exoteric* doctrine. In the document as a whole, I often use the term "inappropriate reification" or "provisionality" where "nebulosity" or "emptiness" could mostly be used in place of this phrase. Also see section: <a href="#158da1">far reaches of meditation</a>] (and the very terse and cryptic section "epistemic-aesthetic rigor") for more on truth, etc.
 
@@ -4447,7 +4447,7 @@ Finally, all the above is the canonical, main practice. And/but, you can also tr
 
 [<a href="#108h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="109"></span><a id="p1-experimental" href="#p1-experimental">p10 [experimental]:</a>
+# <span id="109"></span><a id="p10-experimental" href="#p10-experimental">p10 [experimental]:</a>
 
 This practice might be called "minimal unit partially ordered imaginative/generative concrete planning." That is, in some sense, it is a planning practice.
 
@@ -8042,7 +8042,7 @@ Finally, to emphasize, "pixel perfect" is an analogy for something that’s stil
 [<a href="#176h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="157a9"></span><a id="renuncation-quibbles-and-other-things-draft-needs-a" href="#renuncation-quibbles-and-other-things-draft-needs-a">renuncation quibbles and other things (draft; needs an even first editing pass):</a>
+# <span id="157a9"></span><a id="renunciation-quibbles-and-other-things-draft-needs-" href="#renunciation-quibbles-and-other-things-draft-needs-">renunciation quibbles and other things (draft; needs an even first editing pass):</a>
 
 So, gosh, I'm not sure if I'm ready to write a nuanced treatment of critiquing a steelman of "renunciation." But maybe we'll see where it goes.
 
