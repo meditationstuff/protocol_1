@@ -101,7 +101,7 @@ Please support this open access work: https://www.patreon.com/meditationstuff
 
 
 <span id="canonical-location-of-this-document"></span> 
-**Canonical location of this document:** https://github.com/meditationstuff/protocol_1
+**Canonical location(s) of this document:** https://github.com/meditationstuff/protocol_1 ; https://meditationbook.page/
 
 
 <span id="alternative-versions"></span> 
@@ -114,7 +114,10 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 **Note:** Separately, to get a readable plaintext version of the page you're reading, now, you can do a search replace of the source on "/&amp;#8203;" to "/", without the quotes, to clean up all the zero-width space character encodings without affecting anything else.
 
+<span id="hyper-linking-deep-linking-anchor-linking-soft-guarantees"></span> 
+**(hyper)linking/&#8203;(deep)linking/&#8203;(anchor)linking soft guarantees:**
 
+Sometimes I revise the anchor links to different sections in the document. When I do this, I preserve old links in the underlying html so that old links, even very old links, should still work. So please "deep link" into the document with (relative) confidence that the links will stay fresh/&#8203;unrotten, for hopefully years and years and years, when citing, sharing sections on blogs, in private chats, etc.
 
 # <span id="11"></span><a id="full-table-of-contents" href="#full-table-of-contents">Full Table of Contents:</a>
 
@@ -129,6 +132,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 * <a id="8h" href="#author-web-presence">author web presence</a>
 * <a id="9h" href="#canonical-location-of-this-document">canonical location of this document</a>
 * <a id="10h" href="#alternative-versions">alternative versions</a>
+* <a id="10ah" href="#hyper-linking-deep-linking-anchor-linking-soft-guarantees">(hyper)linking/&#8203;(deep)linking/&#8203;(anchor)linking soft guarantees</a>
 * <a id="11h" href="#full-table-of-contents">full table of contents</a>
 * <a id="12h" href="#preliminary-and-introductory-things">preliminary and introductory things</a>
 	* <a id="14h" href="#document-level-meta-warning">document-level meta-warning</a>
@@ -369,6 +373,8 @@ Sometimes individuals publish lightly transformed versions of this document to f
 * <a id="195h" href="#appendix-2-preliminary-auxiliary-practices-full">appendix 2: preliminary/auxiliary practices (full)</a>
 * <a id="196h" href="#appendix-3-main-practice-p1-appendix-usa-english-en">appendix 3: main practice p1 appendix (usa english; "en-us")</a>
 * <a id="197h" href="#appendix-4-worst-case-culture-community-stuff">appendix 4: worst case culture/&#8203;community stuff</a>
+
+<!-- When slugs or section titles change, thereby indicating a slug change, add a span in front of the new <a...>/link with the old id/slug, thereby preserving deep/anchor links out in the wild or wherever. -->
 
 # <span id="12"></span><a id="preliminary-and-introductory-things" href="#preliminary-and-introductory-things">preliminary and introductory things:</a>
 
