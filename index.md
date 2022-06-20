@@ -311,6 +311,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1gh" href="#vulnerability-physical-and-otherwise-cf-suffering-s">vulnerability (physical and otherwise, cf. suffering) [stub]</a>
 		* <a id="158da1fh" href="#that-won-t-work">that won't work</a>
 		* <a id="158da1eh" href="#crappy-timeline-guidelines">crappy timeline guidelines</a>
+		* <a id="158da1jh" href="#endlessness-vs-impermanence">endlessness vs impermanence (scratch/&#8203;stub)</a>
 	* <a id="158eah" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#a-dialogue-on-wayfinding-homunculi-parts-goodness-a">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#a-brief-dialogue-on-locality-and-concreteness">a brief dialogue on locality and concreteness</a>
@@ -8908,7 +8909,6 @@ See also:
 
 [<a href="#158da1fh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-
 # <span id="158da1e"></span><a id="crappy-timeline-guidelines" href="#crappy-timeline-guidelines">crappy timeline guidelines:</a>
 
 [based on very small sample sizes, speculative, work in progress]
@@ -8958,6 +8958,37 @@ Or you might just be a poor, grumpy recluse, or in a cabin in the woods with you
 
 [<a href="#158da1eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="endlessness-vs-impermanence" href="#endlessness-vs-impermanence">endlessness vs impermanence (scratch/&#8203;stub):</a>
+
+20220619
+
+\>\>\>
+hmm, based on muscle dynamics and everything, I think I might be misconceptualizing ("phenomenlogico-misconceptualizing") something around  
+a) settling/unsettling/resettling  
+b) "done"-ness  
+c) non-infinity, non-eternalism, impermanence  
+d) boundlessness, endlessness, boundarylessness [no-things]  
+it's maybe something in the space of (at least the way in which I'm using the words), somehow there has to be boundlessness and endlessness but there still has to be non-infinity (and non eternalism)  
+so i'm trying to figure out (in the loosest and broadest sense of "figure out"), in meditation, if/where I went wrong somewhere. not sure if this'll be a running theme for a bit or if it'll evaporate in like a day. not yet sure if this is optimal progress or if i went way wrong somewhere halfway through or if there's even a there, there. cult stuff is still a confound but I think it'll get teased apart in a way that hopefully clarifies a bunch of stuff.  
+there may be some insight to be found, too, re (b) why I generally under-call timelines (even though timelines are hard in general) :crossed_fingers:
+i'll add a stub or a section soon, I think.  
+\<\<\<  
+
+scratch notes:
+
+done versus endlessness+noneternalism  
+endless, boundless, timeless w/o infinity or eternal?? [plus time still real in important senses ofc]  
+"no done" / "done" ofc is an eternalism  
+
+cf. centerlessness, agencylessness ; no watcher, no doer, etc. via Ingram
+
+See also: * <a href="#far-reaches-of-meditation">far reaches of meditation</a>
+
+20220620
+
+Not immediately a "theme." For me, some things are more quick blips/"insights" and others sort of intermittently evolve in broad, multifaceted ways (e.g. emptiness, impermanence). Of course some things that were initially blips opened up into broader themes. (I think this is personally structurally contigent (with ofc patterns and themes across people and across history, because genetics, cultures, common human experiences, etc.) and doesn't mean too much.)
+
+[<a href="#158da1jh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="158ea"></span><a id="on-meaning-goodness-badness-aboutness-intentionalit" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties:</a>
 
