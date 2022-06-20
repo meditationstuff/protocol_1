@@ -347,6 +347,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="192fh" href="#neuroscience-meditation-rationality-folk-psychology">neuroscience, meditation, rationality, folk psychology, and sensorimotor processing</a>
 		* <a id="192gh" href="#crowley-chads-rationality-and-the-unification-of-wi">crowley, chads, rationality, and the unification of will</a>
 		* <a id="192ih" href="#enlightenment-sensorimotor-processing-love">enlightenment, sensorimotor processing, love</a>
+	* <a id="192i1h" href="#generalization-brief-discussion">brief discussion on generalization</a>
 * <a id="174h" href="#teaching-and-learning-and-creating-and-relating-med">teaching and learning and creating and relating (meditation and anything)</a>
 	* <a id="175h" href="#teaching">teaching</a>
 		* <a id="177h" href="#guided-on-ramp-for-main-practice-p2-draft">guided on-ramp for main practice p2 [draft]</a>
@@ -11964,6 +11965,58 @@ love.
 https://github.com/meditationstuff/protocol_1
 
 [<a href="#192ih">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="generalization-brief-discussion" href="#generalization-brief-discussion">brief discussion on generalization:</a>
+
+Paraphrasing a hacker news comment [1]:
+
+Someone comments that they read an experiment a long time ago with liminally verbal kids. The kids learned a game involving a ball. Then, a year later, the researchers asked the kids to describe the game. Supposedly the kids that didn't know the word "ball," when they first played the game, didn't use the word when recalling the rules of the game. Citing anecdotal evidence, the commenter further writes "[...] immigrants who lost their native language also lost knowledge they learned before they emigrated. [...]"
+
+[1] https://news.ycombinator.com/item?id=30287240 [Last accessed: 2022-06-20]
+
+(The comment was stimulated by this [2] article.)
+
+[2] https://www.quantamagazine.org/new-map-of-meaning-in-the-brain-changes-ideas-about-memory-20220208/ [Last accessed: 2022-06-20]
+
+(Also, somewhere in here, I typed this cryptic rant:)
+
+me: "no such thing as memory that's separable from everything else";"'naturalization/integration frees up memory/skill that's entangled with it's local context and makes it more globally available. but even then, there's sort of no such thing as memory that's separable from everything." another way to put it is that, there's a sense in which there's no domain general skills and domain general knowledge, but also a sense in which there can be. or, humans furiously generalize, but there's a sense in which that generalization is always "newly context specific." none of this is quite right.
+
+In reponse to [1]:
+
+**(L)**
+
+Does this imply that if you experience a thing and later learn what it's called you may not actually associate the two things in your head? huhhh
+
+**(H)**
+
+Definitely. If i learn a new word, i don't immediately connect it to all possible contexts where that word is applicable. Usually just one or two or a few
+
+**Mark**
+
+yes exactly!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ramble/&#8203;rant: it's not automatic. "generalization"/&#8203;"integration" are learned behaviors, a bit different for everyone, and there is no single generalization/&#8203;integration process. (and there sort of shouldn't be / there's no one thing that's integration(tm) and/&#8203;or trying to "integrate everything" is potentially really dangerous. and doesn't make sense because it takes real durational time and trades off against other physical/mental behaviors
+
+**(D)**
+
+Similarly if you pick up some somewhat generalizable principle or bit of wisdom, you're not going to automatically deploy it in every relevant situation. cf. virtue ethicists talking about morality as habits
+
+\*
+
+(comments used with permission)
+
+\*
+
+A postscript could be something like, long-run, meditation implicitly, imperfectly optimizes integration, epistemic closure, creativity, etc. both those acts (loosely speaking) themselves as well as their interleaving with other life activities. So those things happen more efficiently and effectively, at more appropriate times and amounts relative to other life concerns, and so on.
+
+See also:
+
+* Search for "epistemic closure", "transitive closure" (without the quotes) elsewhere in this document.
+* <a href="#180h">embodied learning (sequence of sections)</a>
+* <a href="185h">epistemics (sequence sections)</a>
+
+[<a href="#192i1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="174"></span><a id="teaching-and-learning-and-creating-and-relating-med" href="#teaching-and-learning-and-creating-and-relating-med">teaching and learning and creating and relating (meditation and anything):</a>
