@@ -7658,5 +7658,15 @@ Explore, flash on the "raw" / "bare" sensory features, details of these. You mig
 
 [<a href="#913auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="914auxiliary"></span><a id="just-guess" href="#just-guess">("just") guess:</a>
+
+Thus.
+
+comment:
+
+"Guessing" can help one learn how to use more of themselves, as they find their "guesses" are (almost) "right"(-ish) or useful way higher than chance.
+
+[<a href="#914auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

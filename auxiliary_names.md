@@ -923,5 +923,6 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="911auxiliary_names" href="#solve-like-gravity">solve like gravity</a>
 * <a id="912auxiliary_names" href="#allowing-salience">allowing salience</a>
 * <a id="913auxiliary_names" href="#beauty">beauty</a>
+* <a id="914auxiliary_names" href="#just-guess">("just") guess</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
