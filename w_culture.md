@@ -1,5 +1,5 @@
 
-# <span id="197"></span> appendix 4: worst case culture/&#8203;community stuff
+# <span id="197"></span><a id="appendix-4-worst-case-culture-community-stuff" href="#appendix-4-worst-case-culture-community-stuff">appendix 4: worst case culture/&#8203;community stuff</a>
 
 [<a href="#197h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

@@ -1,4 +1,4 @@
-# <span id="194"></span> appendix 1: preliminary/auxiliary practices (names only)
+# <span id="194"></span> <a id="appendix-1-preliminary-auxiliary-practices-names-on" href="#appendix-1-preliminary-auxiliary-practices-names-on">appendix 1: preliminary/auxiliary practices (names only)</a>
 
 This appendix has only the *names* of the preliminary/auxiliary practices. For the full contents of the preliminary/auxiliary practices, see this appendix:
 
