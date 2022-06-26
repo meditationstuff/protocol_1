@@ -11324,6 +11324,19 @@ metabolically and feeling into differential recovery rates across different musc
 
 and seeking "perfect" form, global optimum basin---non-impact, footfalls, glide, breath, floatiness---which can take weeks or months to find and even when you do it continuously changes as the above change at different rates
 
+* 20220619:
+
+See <a href="#endlessness-vs-impermanence">endlessness vs impermanence (scratch/&#8203;stub)</a>
+
+The edges around everything are getting blurry, like sort of both blurry and turning in on themselves, or something. cf. boundlessness, endlessness, boundarylessness. But vis-a-vis non-infinity, non-eternalism, impermanence.
+
+cf. no-things which was much earlier for me.
+
+
+* 20220726:
+
+[This doesn't feel quite accurate but better than nothing~] [Once again] I'm finding more pockets of metaphysical/cosmological phenological-belief-y bases-for-action, emotion, motivation, etc. Not this exactly, but kind of like meaning, intimacy, afterlife, this-life stuff, as entangled with day-to-day action and implicit (or explicit) long-term goals, interests, projects. More and more sort of [bodymindworld-phenomenological-everything] "don't know" replacing previously implicit "this is utterly how it is" and then losing that as carrot or stick, and then have to further and further "fall back on" or rely on the "the spontaneity of what's having happened as it's happening" [sic] as "basis" (for action and being) or something like that.
+
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
