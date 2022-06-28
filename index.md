@@ -312,6 +312,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1fh" href="#that-won-t-work">that won't work</a>
 		* <a id="158da1eh" href="#crappy-timeline-guidelines">crappy timeline guidelines</a>
 		* <a id="158da1jh" href="#endlessness-vs-impermanence">endlessness vs impermanence (scratch/&#8203;stub)</a>
+		* <a id="158da1kh" href="#holy-sacred-mystery-scratch-stub">holy/&#8203;(sacred?) mystery (scratch/&#8203;stub)</a>
 	* <a id="158eah" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#a-dialogue-on-wayfinding-homunculi-parts-goodness-a">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#a-brief-dialogue-on-locality-and-concreteness">a brief dialogue on locality and concreteness</a>
@@ -11339,6 +11340,20 @@ cf. no-things which was much earlier for me.
 
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="holy-sacred-mystery-scratch-stub" href="#holy-sacred-mystery-scratch-stub">holy/&#8203;(sacred?) mystery (scratch/&#8203;stub):</a>
+
+
+Cosmological metaphysical (theological)  
+………………….      ……………..  
+Provisionality vs don’t know  
+emptiness, meaning, phenomenology  
+Sacred, holy, don’t know  
+
+
+[<a href="#158da1kh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 
 # <span id="192b"></span><a id="miscellaneous-pith-notes" href="#miscellaneous-pith-notes">miscellaneous pith notes:</a>
