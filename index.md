@@ -5080,13 +5080,15 @@ Resolution speed is sort of a function or prior baggage/&#8203;karma/&#8203;proj
 
 I put “ability” in quotes because it’s over-reifying. There’s no rules, no algorithms, no one-size-fits-all "skill," and a light touch and humility and provisionality and collaborativeness are key. And creativity, problem-solving, empathy, systems creation (e.g.chore lists etc etc etc) and etc. 
 
-More resources and slack can be created for each other by doing chores for each other, taking ownership or monkeys, and making each other’s lives easier as much as possible. 
+More resources and slack can be created for each other by doing chores for each other, taking ownership of monkeys [1], and making each other’s lives easier as much as possible. 
 
 A “non-dramatic” relationship might be termed harmonious and peaceful and/or harmonious and exciting.
 
 Aren’t relationships supposed to be easy? I’m not sure. I think maybe early relationships are supposed to be easy or easier, at least,-—if things get hard/&#8203;"toxic" maybe better to bow out, seek perspective, and so on? But maybe as people get older the stakes get higher, more to loose (and e.g. children might be in the mix) and there’s fewer degrees of freedom. And maybe love is deeper. And then a challenging romantic relationships is (sometimes) worth putting in lots of work, at the expense or possibly relatively less important things. (Ideally one is resourced enough to do everything.) 
 
 Shades of gray and nebulosity and partialness wrt all of this. Not necessarily clear-cut and might be other dominating dynamics. 
+
+[1] e.g. https://hbr.org/1999/11/management-time-whos-got-the-monkey
 
 [<a href="#121dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
