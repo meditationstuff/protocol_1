@@ -5070,7 +5070,7 @@ So a challenging or dramatic relationship is sort of a race between
 
 Ideally, couples, over time, go "deeper and deeper" to root causes and fluidly reorganize the relationship around understanding, healing, and synergy and collaboration.
 
-And (b) above, and "deeper and deeper" are facilitated by slack, downtime, self-care, self-transformative practice, therapeutic consulting, temporary changes-of-context, etc. All the good stuff. 
+And (b) above, and "deeper and deeper" are facilitated by slack, patience, downtime, self-care, self-transformative practice, therapeutic consulting, temporary changes-of-context, etc. All the good stuff. 
 
 These patterns can be sort of scale-free/&#8203;fractal—“supercycles” of grievance to crisis/&#8203;critical buildup can be 3-6 months or longer. “Supersupercycles” can be 1-5, 1-10 years.
 
