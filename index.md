@@ -223,6 +223,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 			* <a id="121ah" href="#emotions-tm-and-feelings-tm-in-interpersonal-proces">emotions(tm) and feelings(tm) in interpersonal processing vs meditation (alpha draft)</a>
 			* <a id="121bh" href="#social-honor-versus-eternal-soul-theory-of-mind-ide">social honor(?) versus eternal soul theory of mind/identity (stub)</a>
 			* <a id="121ch" href="#on-friendship-and-found-family-stub">on friendship and (found) family (stub)</a>
+			* <a id="121dh" href="#fight-fights">fight-fights (draft)</a>
 * <a id="122h" href="#lists-and-more">lists and more</a>
 	* <a id="123h" href="#nonmonotonicity">nonmonotonicity</a>
 	* <a id="124h" href="#definitions">definitions</a>
@@ -5037,6 +5038,57 @@ https://twitter.com/meditationstuff/status/1519122227073011718
 
 
 [<a href="#121ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="fight-fights" href="#fight-fights">fight-fights (draft)</a>
+
+People are generallyyyyyyyy are well-intentioned and doing the best they can, acting as constructively and benefit-of-the-doubt-y and “meta” as they can. Like wouldn't both people sort of take beteen 50%-200% responsibility, as it were, for trust building and mending, and so on? So why do couples (or friends, etc.) “fight-fight” [sic]? Like sometimes fight bitterly, condescendingly, perversely, stubbornly, cuttingly, even a little maliciously, etc.?
+
+People run out of resources (one or both people do, for local or external reasons)
+
+So one or both people "snap" or act destructively wrt a local situation (because acting destructively maybe somewhat worked in (distant-)past contexts)
+
+Those actions, what happened, is then superficially narrativized and apologized about, etc. One or both people make up as best they can.
+
+But the local thing was dependent on a deeper, in some sense, “more actual” thing.
+
+But-but that deeper thing either isn’t safe to talk about for one or both people and/or isn’t conceptualized/&#8203;gathered/&#8203;articulable/&#8203;understood enough yet for one or both people.
+
+So things start building up again until another "snap,"" which might be a little worse or a little better, maybe alternating or slowly or abruptly getting worse each time.
+
+Finally there’s a "critical snap"/&#8203;“crisis snap” where either the couple separates (exhausted from repeat or ongoing “drama” or “villainization” of the other person) or one or both people do-or-die are locally resourced enough or locally prioritized enough or can reach deep enough or have chewed on things enough or become safe enough that at least one “level” deeper things can finally be articulated
+
+If the latter is possible then there’s a round of admitting, conceding, revealing, explaining with respect to earlier and ongoing grievances, harms, disappointments, insensitivities, entitlements
+
+And thereby the couple acquires more slack and ease to keep going, and/or more clarity around whether to separate 
+
+So a challenging or dramatic relationship is sort of a race between
+
+(a) more surface-level exhaustion and “burn-in” or one-sided or mutually destructive patterns (overload / snapping dynamics) and
+
+(b) cycles of fluid mutual error correction of deeper interpersonal stuff
+
+Ideally, couples, over time, go "deeper and deeper" to root causes and fluidly reorganize the relationship around understanding, healing, and synergy and collaboration.
+
+And (b) above, and "deeper and deeper" are facilitated by slack, downtime, self-care, self-transformative practice, therapeutic consulting, temporary changes-of-context, etc. All the good stuff. 
+
+These patterns can be sort of scale-free/&#8203;fractal—“supercycles” of grievance to crisis/&#8203;critical buildup can be 3-6 months or longer. “Supersupercycles” can be 1-5, 1-10 years.
+
+Resolving disappointments, grievances, harms closer in time to their origin will smooth out these cycles, at the very least, and may make room for "deeper and deeper," because there’s less time for “layering on top,”--there's fewer or “chiller” “fights” that are actually "really" in some sense about a deeper/earlier thing (and again one or both people don’t realize that yet--and so the "generator" of the fighting isn't resolved, and the fights repeat or new fight topics are found, and things stay the same or get worse.)
+
+Resolution speed is sort of a function or prior baggage/&#8203;karma/&#8203;projection/&#8203;trauma, slack/&#8203;resources, and de-layering/&#8203;conceptualizing/&#8203;articulating “ability.”
+
+I put “ability” in quotes because it’s over-reifying. There’s no rules, no algorithms, no one-size-fits-all "skill," and a light touch and humility and provisionality and collaborativeness are key. And creativity, problem-solving, empathy, systems creation (e.g.chore lists etc etc etc) and etc. 
+
+More resources and slack can be created for each other by doing chores for each other, taking ownership or monkeys, and making each other’s lives easier as much as possible. 
+
+A “non-dramatic” relationship might be termed harmonious and peaceful and/or harmonious and exciting.
+
+Aren’t relationships supposed to be easy? I’m not sure. I think maybe early relationships are supposed to be easy or easier, at least,-—if things get hard/&#8203;"toxic" maybe better to bow out, seek perspective, and so on? But maybe as people get older the stakes get higher, more to loose (and e.g. children might be in the mix) and there’s fewer degrees of freedom. And maybe love is deeper. And then a challenging romantic relationships is (sometimes) worth putting in lots of work, at the expense or possibly relatively less important things. (Ideally one is resourced enough to do everything.) 
+
+Shades of gray and nebulosity and partialness wrt all of this. Not necessarily clear-cut and might be other dominating dynamics. 
+
+[<a href="#121dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="122"></span><a id="lists-and-more" href="#lists-and-more">lists and more:</a>
