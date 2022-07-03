@@ -11405,6 +11405,8 @@ Provisionality vs don’t know
 emptiness, meaning, phenomenology  
 Sacred, holy, don’t know  
 
+cf. good / bad in a consequentialist or "final"-end / ["final" end] sense ("final" in quotes because impermanence / non-eternalism / non-inappropriate-reification) --- re "ultimately" ("" <- !!!!!!!!!!!!!!!) don't-know / [don't know] / "who can say" sense (-- far reaches section)
+
 
 [<a href="#158da1kh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
