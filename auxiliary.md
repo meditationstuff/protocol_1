@@ -128,7 +128,11 @@ Thus; And consider writing by hand when you’re doing this.
 
 # <span id="15auxiliary"></span><a id="say-or-think-truth" href="#say-or-think-truth">say or think truth:</a>
 
-Verbalize a seemingly relevant seeming truth. [sic] Repeat.
+Verbalize a maybe seemingly relevant maybe seeming truth / "truth". [sic]
+
+comment:
+
+Maybe gently repeat, let it go, etc.
 
 
 
