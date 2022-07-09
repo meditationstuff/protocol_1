@@ -11411,6 +11411,8 @@ cf. good / bad in a consequentialist or "final"-end / ["final" end] sense ("fina
 
 ?can safely consider / entertain anything
 
+\/\/\/\/\/\/\/\/\/ \~\~\~ void as absence of qualities / attributes including both timelessness and impermanence
+
 [<a href="#158da1kh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
