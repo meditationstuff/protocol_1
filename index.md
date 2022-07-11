@@ -11434,6 +11434,8 @@ So the expectation is something like, as with the jhanas (as best I can tell, so
 
 We shall see! (probably)
 
+Note: nothingness and also relatedly mortality, oblivion, meaning, pointedness (vs pointlessness)
+
 Note: What I'm calling "oblivion" is related to all this, but oblivion is sort of more the memory aspect, the loss aspect.
 
 [<a href="#158da1mh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
