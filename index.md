@@ -11434,6 +11434,8 @@ So the expectation is something like, as with the jhanas (as best I can tell, so
 
 We shall see! (probably)
 
+(And of course, depth-first and breadth-first are idealizations, and everybody is a mix of things that are radically concrete and defy pattern matching, and whatever works, works!)
+
 Note: nothingness and also relatedly mortality, oblivion, meaning, pointedness (vs pointlessness)
 
 Note: What I'm calling "oblivion" is related to all this, but oblivion is sort of more the memory aspect, the loss aspect.
