@@ -11424,7 +11424,7 @@ cf. good / bad in a consequentialist or "final"-end / ["final" end] sense ("fina
 
 20220711
 
-So I had one or two "cessations" years ago, not be confused with "whooshes" and "collapses." [I *was* obviously cycling (a la Daniel Ingram) slowly, over a few months each of the times, but that completely disappeared (or became undetectable) when I switched from methods that were a little like noting to more like p2 and the meta protocol.] And then like with the jhanas I kind of lost interest.
+So I had one or two "cessations" years ago, not be confused with like "whooshes" and "collapses." [I *was* obviously cycling (a la Daniel Ingram) slowly, over a few months each of the times, but that completely disappeared (or became undetectable) when I switched from methods that were a little like noting to more like p2 and the meta protocol.] And then like with the jhanas I kind of lost interest.
 
 There's a particular, faintly retrospective-flavored quality that's becoming more prominent, interleaved with other things going on. It's very close to what it was like with the three characteristics (which I've only encountered briefly and intermittently as such)---a sort of very particular diaphanous "whoa that is/has been mixed in with *everything*". And that flavor is sort of becoming a thing again, and I think it's (going to be) related to proper relationship with "void" or "nothingness."
 
