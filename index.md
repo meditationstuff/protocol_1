@@ -314,6 +314,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1eh" href="#crappy-timeline-guidelines">crappy timeline guidelines</a>
 		* <a id="158da1jh" href="#endlessness-vs-impermanence">endlessness vs impermanence (scratch/&#8203;stub)</a>
 		* <a id="158da1kh" href="#holy-sacred-mystery-scratch-stub">holy/&#8203;(sacred?) mystery (scratch/&#8203;stub)</a>
+		* <a id="158da1mh" href="#void-nothingness-cessations-nibanna-stub-scratch">void (nothingness, cessation(s), nibbana, nirvana [stub/&#8203;scratch]</a>
 	* <a id="158eah" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#a-dialogue-on-wayfinding-homunculi-parts-goodness-a">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#a-brief-dialogue-on-locality-and-concreteness">a brief dialogue on locality and concreteness</a>
@@ -11392,6 +11393,9 @@ cf. no-things which was much earlier for me.
 
 [This doesn't feel quite accurate but better than nothing~] [Once again] I'm finding more pockets of metaphysical/cosmological phenological-belief-y bases-for-action, emotion, motivation, etc. Not this exactly, but kind of like meaning, intimacy, afterlife, this-life stuff, as entangled with day-to-day action and implicit (or explicit) long-term goals, interests, projects. More and more sort of [bodymindworld-phenomenological-everything] "don't know" replacing previously implicit "this is utterly how it is" and then losing that as carrot or stick, and then have to further and further "fall back on" or rely on the "the spontaneity of what's having happened as it's happening" [sic] as "basis" (for action and being) or something like that.
 
+* 20220711:
+
+See: <a href="#void-nothingness-cessations-nibanna-stub-scratch">void (nothingness, cessation(s), nibbana, nirvana [stub/&#8203;scratch]</a>
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -11415,6 +11419,24 @@ cf. good / bad in a consequentialist or "final"-end / ["final" end] sense ("fina
 
 [<a href="#158da1kh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="void-nothingness-cessations-nibanna-stub-scratch" href="#void-nothingness-cessations-nibanna-stub-scratch">void (nothingness, cessation(s), nibbana, nirvana [stub/&#8203;scratch]:</a>
+
+20220711
+
+So I had one or two "cessations" years ago, not be confused with "whooshes" and "collapses." [I *was* obviously cycling (a la Daniel Ingram) slowly, over a few months each of the times, but that completely disappeared (or became undetectable) when I switched from methods that were a little like noting to more like p2 and the meta protocol.] And then like with the jhanas I kind of lost interest.
+
+There's a particular, faintly retrospective-flavored quality that's becoming more prominent, interleaved with other things going on. It's very close to what it was like with the three characteristics (which I've only encountered briefly and intermittently as such)---a sort of very particular diaphanous "whoa that is/has been mixed in with *everything*". And that flavor is sort of becoming a thing again, and I think it's (going to be) related to proper relationship with "void" or "nothingness."
+
+I'm reminded again of the "depth first" vs "breadth first"---where depth first would sort of(!!!!!!) acquire deep knowledge of void by trying to phenomenologically touch void over and over and over again, through cessations, up front, and then deal with everything else on the backend. And, alternatively, one can sort of go breadth-wise, letting things come up exhaustively and inexorably in some "natural" order, that eventually (and surprisingly efficiently; modulo meta meta wayfinding) encompasses everything any minimally adequate meditation system does and maybe then some.
+
+So the expectation is something like, as with the jhanas (as best I can tell, so far), I will come to know everything there is to know about nothingness (rather a "proper" globally untangled conceptual-phenomenological-moral-existential relationship to nothingness) almost without ever having had a cessation (though not quite, in my case). And some people using my system might never have a cessation or enter a jhana-as-such (though be in plenty of bespoke altered states) but still get all the related things, completely if not stereotypically. (Nebulosity and emptiness and non-inappropriate-reification withstanding for all of this, etc., etc.)
+
+We shall see! (probably)
+
+Note: What I'm calling "oblivion" is related to all this, but oblivion is sort of more the memory aspect, the loss aspect.
+
+[<a href="#158da1mh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="192b"></span><a id="miscellaneous-pith-notes" href="#miscellaneous-pith-notes">miscellaneous pith notes:</a>
