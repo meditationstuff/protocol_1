@@ -13251,6 +13251,7 @@ by Jane Loevinger, Ruth Wessler 1970
 * Rinpoche, Drubwang Tsoknyi. Fearless simplicity: The Dzogchen way of living freely in a complex world. Rangjung Yeshe Publications, 2003.
 * Fritz, Robert. Your life as art. Newfane Press, 2003.
 * [end of "I feel like some of the below are particularly misleading..."]
+* Judith, Anodea, and Judith Anodea. Eastern body, western mind: Psychology and the chakra system as a path to the self. Random House Digital, Inc., 2004. [I have barely looked at this but people I trust are extracting value from it.]
 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
