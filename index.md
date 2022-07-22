@@ -13232,4 +13232,25 @@ Me : Well, that's a good sign. The numero uno of daft moves is to open by defaul
 * [thread] https://twitter.com/Meaningness/status/1543987524409835520 [Last accessed: 2022-07-04]
 * https://www.lotsawahouse.org/tibetan-masters/mipham/lamp-to-dispel-darkness [Last accessed: 2022-07-04] ht [n]
 * spirituality scratchpad (public) https://docs.google.com/document/d/1qYOoW99Pqqbv4Gx4tkQhocmrrJidbl_cG7WG9V2DZck/ [Last accessed: 2022-07-16] [t]
+* I feel like some of the below are particularly misleading or edge cases in inclusion in various ways (surely ditto for lots of the above, too) but including for completeness):
+* Chogyam, Ngakpa, and Khandro Dechen. Roaring silence: Discovering the mind of Dzogchen. Shambhala Publications, 2002.
+* The Direct Means to Eternal Bliss; 7th edition (June 19, 2015) by Michael Langford
+* Gendlin, Eugene T. Focusing-oriented psychotherapy: A manual of the experiential method. Guilford Press, 1998.
+* Loevinger, Jane. "Ego Development Jossey-Bass." Inc, San Francisco, CA (1976).
+* Loevinger, Jane. Technical foundations for measuring ego development: The Washington University sentence completion test. Psychology Press, 1998.
+* Cook-Greuter, Susanne Regina. Postautonomous ego development: A study of its nature and measurement. Harvard University, 1999.
+* Measuring Ego Development, Volume 1: Construction and Use of a Sentence Completion Test (The Jossey-Bass Behavioral Science Series) 1st Edition
+by Jane Loevinger, Ruth Wessler 1970
+* Measuring Ego Development Vol. Two Scoring Manual for Women and Girls Hardcover – January 1, 1970 by Carolyn Loevinger, Jane; Wessler, Ruth; Redmore
+* Stinchcombe, Arthur L. When formality works: Authority and abstraction in law and organizations. University of Chicago Press, 2001.
+* Gendlin, Eugene T. "Introduction to thinking at the edge." The Folio 19.1 (2004): 1-8.
+* Lamrimpa, Gen. How to Practice Shamatha Meditation: The Cultivation of Meditative Quiescence. Shambhala Publications, 2011.
+* Lamrimpa, Gen. How to Realize Emptiness. Shambhala Publications, 2010.
+* Felt Sense: Writing with the Body - Sondra Perl [Heinemann (March 8, 2004)]
+* Rinpoche, Drubwang Tsoknyi. Carefree dignity: Discourses on training in the nature of mind. Rangjung Yeshe Publications, 1998.
+* Rinpoche, Drubwang Tsoknyi. Fearless simplicity: The Dzogchen way of living freely in a complex world. Rangjung Yeshe Publications, 2003.
+* Fritz, Robert. Your life as art. Newfane Press, 2003.
+* [end of "I feel like some of the below are particularly misleading..."]
+
+
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
