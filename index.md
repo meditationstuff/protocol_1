@@ -60,7 +60,7 @@ Note:
 * **What's the theoretical, metaphysical, ideological, sectarian, opinionated, telic, soteriological basis of this kind of meditation?**
 	* *See these sections:*
 		* <a id="19q" href="#introduction-getting-over-the-hump-text-interpretat">introduction; getting over the hump; text interpretation</a>
-		* <a id="18q" href="#an-exoteric-doctrine-v-2">an exoteric doctrine v0.2</a>
+		* <a id="18q" href="#an-exoteric-doctrine-v0-2">an exoteric doctrine v0.2</a>
 		* <a id="18aq" href="#an-esoteric-doctrine-going-full-buddhist-is-this-fu">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
 		* <a id="21q" href="#goal-draft">goal (draft)</a>
 		* <a id="22q" href="#end-state">end state</a>
