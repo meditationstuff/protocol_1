@@ -8786,7 +8786,7 @@ at least one sense in which it's not your job to determine right or wrong, true 
 
 at least one sense in which mind is nowhere and nothing, no such thing
 
-at least one sense in which "inside" as well as "not just" "outside" becomes-known-to-be-such-that both are equally "objective" [yet each still empty] in the at-least-one-sense-in-which no subjectivity remains [in this sense or aspect "nonduality" is sort of a "determinism upgrade"]
+at least one sense in which "inside" as well as "not just" "outside" becomes-known-to-be-such-that both are equally "objective" [yet each still empty] in the at-least-one-sense-in-which no subjectivity remains [in this sense or aspect "nonduality" could be considered, amongst lots of other things, sort of a "determinism upgrade"]
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 
