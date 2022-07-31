@@ -8784,6 +8784,10 @@ at least one sense in which the ((\~whole) phenomenal/&#8203;phenomenological) f
 
 at least one sense in which it's not your job to determine right or wrong, true or false, the facts of the matter, to judge or self-judge, to figure, to figure out, to be creative, to create; it's "spontaneity's" job; it's "groundlessness's" job.
 
+at least one sense in which mind is nowhere and nothing, no such thing
+
+at least one sense in which "inside" as well as "not just" "outside" becomes-known-to-be-such-that both are equally "objective" [yet each still empty] in the at-least-one-sense-in-which no subjectivity remains [in this sense or aspect "nonduality" is sort of a "determinism upgrade"]
+
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 
 [<a href="#158da1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
