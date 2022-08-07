@@ -276,6 +276,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="154h" href="#dark-phenomenology-and-presence-absence-conceptions">dark phenomenology and presence/absence conceptions</a>
 	* <a id="154a1h" href="#prenatal-experiences-the-fetal-position-and-other-b">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 	* <a id="154ah" href="#daily-limits">daily limits</a>
+	* <a id="154a2h" href="#menstrual-cycle">menstrual cycle</a>
 	* <a id="154bh" href="#pushing-away-holding-at-bay-preconceiving-direct-re">pushing away, holding at bay, preconceiving, direct-reifying</a>
 	* <a id="155h" href="#brief-thoughts-on-substances-like-psychedelics">brief thoughts on substances like psychedelics</a>
 	* <a id="156h" href="#getting-triggered-usefulness-and-risks">getting triggered, usefulness and risks</a>
@@ -6786,6 +6787,77 @@ So this is one thing to keep an eye out for, in terms of meditative rhythms and 
 
 
 [<a href="#154ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="154a2"></span><a id="menstrual-cycle" href="#menstrual-cycle">menstrual cycle:</a>
+
+impromptu dialogue between ***Q***, ***MH***, and ***Mark*** (so far):
+
+(This might or might not get replaced or concatenated with something more expository at some point.)
+
+***Q***
+
+so this is a brand new thought:tm: and it's super abstract and I'm not sure how to describe it properly so it might be confusing but I'll try anyway: how confident are we that the global wayfinding protocol, viewed as a complex but ultimately gradient-descent-esque optimisation process, has the same convergence properties in people with moderately-fast cyclical hormone cycles compared to people without? (edited) 
+
+or to put the important bit of the idea a more sane way "hmm there might be theoretically important reasons why wayfinding might not work the same for women/&#8203;afab/&#8203;menstruators" (edited) 
+
+like in the schemes of the dynamical process that doing wayfinding creates, menstrual hormones are a really big perturbation and idk if the original protocol "main moves" have been carved out with that in mind?
+
+or to look at a really specific part of this thought another way: it might be possible for someone to become "cyclically stuck"(?) with a looping monthly perturbation of underlying biochemistry (despite doing the 'right local thing' when averaged daily) and I'm not sure having the "right moves" for escaping from non-perturbed 'static' stuckness necessarily means you have the right moves for escaping a cyclical stuckness? (edited) 
+
+anyway idk if this makes any sense but it's coherent in my head lol
+
+if this is actually a problem (not confident that the original protocol doesn't in fact handle it) it might be something solvable with something as elegant as a specific p# or aux practice that's only central if you have that kind of biochemical cycle
+
+oh and to be clear: obv people have daily cycles and also yearly cycles and it's probably possible to get stuck on those too so there's also a implicit question(?) here about whether there's something time-sensitive about how the protocol functions (which is potentially true, right? on the short end it could be to do with there being some time cut-offs in the way that memory works, and e.g. the existence of the 5-hour memory reconsolidation window, on the long end possibly below a certain frequency a perturbation is not sufficient to disrupt convergence) (edited) 
+
+***MH***
+
+I was just thinking about this today
+
+I am definitely "cyclically stuck" at the menstrual cycle level and have been for some time
+
+I think it's untangling a bit and I have a lot of thoughts that aren't words yet
+
+Just noticing it might be doing something, to the point that it might be worth a note in the protocol about it?
+
+
+***Q***
+
+just searched the book for "cycles" and it doesn't look like there's anything in it at the moment
+
+want to state (it might be obvious to everyone but it's important) that you can get cyclically stuck without perturbations too, just in a standard dynamical system way, but my intuition is that that's different in some important qualitative way from cyclically stuck with perturbations
+
+:ohno: wait it's worse (more complex) than my initial instinct, cyclical perturbations can be really dysruptive to dynamical systems - can produce chaotic behaviour, or cyclic behaviour of seemingly-random other periods (c.f. swinging a paint can on a spring - trying to find a reference video) (edited) 
+
+https://vm.tiktok.com/ZMNbD3LH6/?k=1 \[Last accessed: 2022-08-07\]
+
+> TikTok | Michael Giblin  
+> #stitch with @stevemould I couldn’t help but respond. #StepwisePrecession #ElasticPendulum #Pendulum #oscillation
+> @thenullhypothesis #stitch with @stevemould I couldn’t help but respond. #StepwisePrecession #ElasticPendulum #Pendulum #oscillation ♬ original sound - Michael Giblin
+
+(though a menstrual cycle is probably not quite as disruptive as a spring, springs have a proportionality element, but just intended to illustrate how disruptive simple things can be to dynamical systems)
+
+jumping from describing possible problem to how we might discover a solution if there were a problem: if some elegant solution exists it probably lives in the space of "what's in traditional women's spiritual practices that aren't in traditional men's practices" - like if you did principal component analysis on women's practices and then subtracted the vectors that are common in men's practices then you'd have something close to being able to be distilled into at least the right auxiliaries to mitigate this?
+
+***Mark***
+
+[hmm this is rambly]
+
+yeah this is cool and important imo.
+
+so I for whatever reason have maybe not talked about cycles in the doc itself, but it's very a thing for people to "go back and forth" either via an exogenous or endogenous triggers (periods of minutes, hours, days, months, years). the protocol was very deliberately taking this into account---that is being able to inexorably, tacitly, find and unravel all bad loops and loopy karma-plus-life interactions, some of which can be years-long, even decades-long.
+
+(i allude to this with returning with variation, "a little bit different each time," and so on---until one inexorably pops out
+but yeah, /regularity/ can uniquely fuck with dynamical systems.)
+
+my intuition is that the protocol would ultimately work in menstrual cycle regimes. like what the protocol does is "massively \["backpropagated popout"\] long-range prediction alignment-flow-participation across all states and state transitions" or something.
+
+BUT, that doesn't mean it wouldn't be super confusing and challenging and distinctly rough along some dimension, for lots of people, in a way that I am not going to be especially attuned to. it's maybe of note that most of the women i've been around for most of my life have had really chill cycles. (\[though\] for whatever reason in the past ten years i've been around people with pretty intense cycles. it's interesting.) In general, I'm fairly even-keel myself---e.g. i don't have seasonal affective disorder, and I don't have a monthly cycle "ofc", or other stuff like that. i've been inside gazillions of different states because health and emotions but not necessarily with a strong monthly cyclical driver. dudes (or etc.) may have a subtler two-month cycle or something but dunno.
+
+[to be continued]
+
+[<a href="#154a2h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="154b"></span><a id="pushing-away-holding-at-bay-preconceiving-direct-re" href="#pushing-away-holding-at-bay-preconceiving-direct-re">pushing away, holding at bay, preconceiving, direct-reifying:</a>
