@@ -302,7 +302,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="158dah" href="#wellbeing-placeholder">wellbeing placeholder</a>
 	* <a id="158da1c1h" href="#autonomic-harmony-placeholder">autonomic harmony placeholder</a>
 	* <a id="158dbh" href="#-ball-of-string-analogy-and-more-on-posture-and-fee"> ball of string analogy and more on posture and feedback loops (draft)</a>
-	* <a id="158da1h" href="#far-reaches-of-meditation">far reaches of meditation</a>
+	* <a id="158da1h" href="#far-reaches-of-meditation">far reaches of meditation (no particular order [yet])</a>
 		* <a id="158da1a1ah" href="#on-groundlessness-a-brief-note">on groundlessness, a brief note</a>
 		* <a id="158da1ah" href="#naturalization">naturalization</a>
 		* <a id="158da1b1h" href="#impersonalization-and-environmentalization">impersonalization and environmentalization</a>
@@ -316,6 +316,10 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1jh" href="#endlessness-vs-impermanence">endlessness vs impermanence (scratch/&#8203;stub)</a>
 		* <a id="158da1kh" href="#holy-sacred-mystery-scratch-stub">holy/&#8203;(sacred?) mystery (scratch/&#8203;stub)</a>
 		* <a id="158da1mh" href="#void-nothingness-cessations-nibanna-stub-scratch">void (nothingness, cessation(s), nibbana, nirvana [stub/&#8203;scratch]</a>
+		* <a id="158da1ph" href="#evil-far-reaches">evil (far reaches) [stub/&#8203;scratch]</a>
+		* <a id="158da1qh" href="#emptiness-far-reaches">emptiness (far reaches) [stub/&#8203;scratch]</a>
+		* <a id="158da1rh" href="#nonduality-far-reaches">nonduality (far reaches) [stub/&#8203;scratch]</a>
+		* <a id="158da1sh" href="#impermanence-far-reaches">impermanence (far reaches) [stub/&#8203;scratch]</a>
 	* <a id="158eah" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#a-dialogue-on-wayfinding-homunculi-parts-goodness-a">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#a-brief-dialogue-on-locality-and-concreteness">a brief dialogue on locality and concreteness</a>
@@ -8536,7 +8540,7 @@ Finally, if one does find themselves "scraping the bottom of the barrel," how do
 
 
 
-# <span id="158da1"></span><a id="far-reaches-of-meditation" href="#far-reaches-of-meditation">far reaches of meditation:</a>
+# <span id="158da1"></span><a id="far-reaches-of-meditation" href="#far-reaches-of-meditation">far reaches of meditation (no particular order [yet]):</a>
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
@@ -11518,6 +11522,77 @@ Note: What I'm calling "oblivion" is related to all this, but oblivion is sort o
 
 [<a href="#158da1mh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="evil-far-reaches" href="#evil-far-reaches">evil (far reaches) [stub/&#8203;scratch]:</a>
+
+At some point you may encounter in yourself something like "true evil". This could be "yours" or from "someone else" (or of course multiple someone else's) or especially a mixture.
+
+After all the discussion in this document about "goodness" (however unfixed, nebulous, empty), or even absent that discussion, it can be profoundly dismaying to encounter something like this. It might have a sense of something like "truly" life-denying, "truly" "against."" It might or might not be exactly against *your* own happiness, that is it might be "for" things you ("evilly" or "villainously") want. But at least one possibly dismaying part is it's sort of "incompatibility with everything else," like there could be violence, harm, coercion "intrinsically"/&#8203;"inseparably" in there that is "fundamentally incompatible" with other parts of you that love, want to collaborate, want to have good-faith relationships and life situation, and so on. So from even a purely practical perspective "being evil" (not necessarily "as such," here) might "not work" with a whole swath of other goals you also genuinely have, let alone an "essential" contradiction; but it's a life-level contradiction, at least. First-pass dismaying.
+
+As with anything, working with this is something like, let yourself be as evil as is possibly safe and acceptable to all parts of you, as it were. (See the x-desires section. <a href="#x-desires-fulfillment-transformation-discussion">x-desires, fulfillment, transformation, discussion:</a>) And so there's just the usual thing of safe to look, in its/&#8203;one's own time, then can look when/&#8203;if&#8203;(\_ever) ready, safe to accept, then can accept when/&#8203;if&#8203;(\_ever) ready, willingness to have it or be it "forever", for an indeterminate amount of time, just like this---and then paradoxically in that it might or might not evolve.
+
+(I've only dipped into it a little, but I was shocked by the relevance, and maybe every last bit of C.S. Lewis' writing on good(ness) and bad(ness) and evil is relevant and possibly useful, here. (ht xx) [It seems it's also sometimes very wayfindy.] Specific references welcome and I'll add them here.)
+
+[<a href="#158da1ph">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="emptiness-far-reaches" href="#emptiness-far-reaches">emptiness (far reaches) [stub/&#8203;scratch]:</a>
+
+I wouldn't exactly call emptiness "far reaches," but I'm adding it here for completeness. It's something that can be kinda intellectually understood pretty quickly, and I think one can get more and more of a hint of taste pretty early, and then maybe something unmistakeable as such (or not; it's ok) pretty soon, too.
+
+But it is something that sort of has to be "brought" or "found" everywhere, and that takes time and even like 10,000+ hours in there will be more! There are maybe some qualitatively different aspects that will be encountered over time.
+
+Some pithy things that might or might not be particularly phenomenologically evocative:
+
+No referential or conceptual essence anywhere (but there's still a there, there, or is there cf. nebulosity)
+
+Some pithy things that might be more phenomenologically evocative:
+
+Something like what was previously experienced as territory comes to be experienced as is "in fact" map, as representation.
+
+* https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation (Last accessed: 2022-08-14)
+* https://www.lesswrong.com/tag/the-map-is-not-the-territory (Last accessed: 2022-08-14)
+* https://en.wikipedia.org/wiki/Direct_and_indirect_realism (Last accessed: 2022-08-14)
+
+(Importantly, it's worth emphasizing that this goes way, way, way beyond intellectual understanding. Like I read about the map//&#8203;territory distinction a gazillion years ago and was like "yeah, that's super useful and helpful and important" but there's a deeper more direct thing.)
+
+(And further/&#8203;alternatively there's still weird paradoxes and philosophical issues, here. The map/&#8203;territory distinction is itself sort of a stepping-stone or toy. Fundamental dualistic issues and stuff.)
+
+Anyway, whole swaths of seemingly “that’s just how it is, ‘out there’” sometimes become "this could be otherwise." cf. "modal slack"\*  or sometimes "fully evaporate." All in all what’s left is more and more “provisional,” held lightly, all things being equal and seen as “fundamentally” “nebulous” all things being equal.
+
+See also David Chapman's "meaningness" material (see bibliography).
+
+\* not coined by me
+
+[<a href="#158da1qh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="nonduality-far-reaches" href="#nonduality-far-reaches">nonduality (far reaches) [stub/&#8203;scratch]:</a>
+
+I'm going to use "not two; not one," here, and I'm probably not using it right, but.
+
+Ok, not two:
+
+For some meditation systems this is maybe *the* thing, though I treat deconditioning and reconditioning sort of as *the* thing, where stuff like the below is inexorable, inevitable, part-and-parcel with full de-/&#8203;re-conditioning and not something that has to be regarded as particularly special or salient. Like you sort of get it for free along with everything else. Anyway, though, in any case, it's pretty cool and is coincident or interwoven with phenonological-conceptual-emotional insights that do make things nonmonotonically/&#8203;net better as things untwist in a good way as per usual.
+
+So, first, back in the day, it's like there's sort of "two modes, magisteria, realms, realities, something." There's "out there" which is like "the external world" and there's "in here" which is like much of thoughts, emotions, imagining, etc. And you might notice that often (usually?) that sort of can't coexist? Like if you're aware of "out there" then "in here" sort of goes quiet, and if you're "in here," like thinking, daydreaming, in reverie, etc., then "out there" is not salient, and you might be navigating "out there" on autopilot. So again it's not just that there's like "two realms" but also, to some degree, they're sort of not in awareness together. (There might be more than two. Daniel Ingram's discussions of "out of phase" phenomena seem important, here. Like, one could maybe chop it up further into like "out there," "in here in phase," and "in here out of phase," or something. Or there's like a continuous or discrete gradient. Anyway.)
+
+Anyway, what happens, slowly and sometimes abruptly, is that, more and more, and/&#8203;or more and more often, "out there" and "in here" are sort of coarising in the *same* "space," and, further, just like you can sometimes take in like a visual or auditory scene "all at once," there's sort of a temporal and experiential simultaneity that's conditionally available that doesn't always cut across the previous inside/&#8203;outside thing.
+
+(Relatedly, I think it's very important to not try to "force" this or to directly strive for it. Kind of directly trying to see everything at once or to see your thoughts as objects or etc., if done directly, is sort of potentially reifying or entrenching "dualism" ("watcher," "doer") because you're sort of not "behind" the "attentional armature," yet, as it were. "Attention" is still too heavyweight; a "thing (to be done)" [even if spontaneously]; it hasn't eaten itself become lighter and lighter, it's lightest self, yet, sort of.)
+
+So then there's the "(but also) not one" part:
+
+I'm less clear exactly what's being pointed at here (and for better and worse I haven't read commentary in the relevant tradition) but this is maybe in part referring to something that's initially paradoxical-seeming but there's like increasing decorrelation (“separation,” “independence”) of "sensations" [but also increased knowledge of their interdependence or at least dependence on causes and conditions etc. etc.] and while there's this “separateness” or "separation" or "difference" there's still positive "indistinctness,"---so "not one"---and/&#8203;but also "wholeness" or "completeness" or "unity" but not to reify any of that and also all of this is empty, nebulous, provisional, groundless, etc. 
+
+cf. "positionless position" cf. groundlessness and no */fixed/* goal(s)
+
+[<a href="#158da1rh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="impermanence-far-reaches" href="#impermanence-far-reaches">impermanence (far reaches) [stub/&#8203;scratch]:</a>
+
+cf. non-eternity
+
+not to much to say here maybe at this time just that impermenence is kind of an extraordinary concept in it's depth and breadth which is revealed in fits and starts to sort of encompass ever-more over years
+
+[<a href="#158da1sh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="192b"></span><a id="miscellaneous-pith-notes" href="#miscellaneous-pith-notes">miscellaneous pith notes:</a>
 
