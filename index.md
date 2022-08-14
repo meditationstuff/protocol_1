@@ -8864,6 +8864,8 @@ at least one sense in which mind is nowhere and nothing, no such thing
 
 at least one sense in which "inside" as well as "not just" "outside" becomes-known-to-be-such-that both are equally "objective" [yet each still empty] in the at-least-one-sense-in-which no subjectivity remains [in this sense or aspect "nonduality" could be considered, amongst lots of other things, sort of a "determinism upgrade"]
 
+at least one sense in which "internality" is a learned strategy
+
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 
 [<a href="#158da1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
