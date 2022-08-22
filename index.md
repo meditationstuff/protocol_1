@@ -111,6 +111,7 @@ Sometimes individuals publish lightly transformed versions of this document to f
 
 * https://rothos.github.io/protocol_1/ (nicely formatted and navigable, outdated)
 * https://docs.google.com/document/d/1L7PooFLqaPeNfrs9_sT2JYXSxkJWJr1gP314uHM4ujc/edit (ongoing "in plain english")
+* https://sashachapin.substack.com/p/review-meditation-from-cold-start (book review; some parts endorsed, some not, but overall net good!)
 
 **Note:** Separately, to get a readable plaintext version of the page you're reading, now, you can do a search replace of the source on "/&amp;#8203;" to "/", without the quotes, to clean up all the zero-width space character encodings without affecting anything else.
 
