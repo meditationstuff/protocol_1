@@ -321,6 +321,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1rh" href="#nonduality-far-reaches">nonduality (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1sh" href="#impermanence-far-reaches">impermanence (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1th" href="#subjectivity-self-identity-far-reaches">subjectivity, self, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]</a>
+		* <a id="158da1uh" href="#suffering-far-reaches">suffering (far reaches) [stub/&#8203;scratch]</a>
+		* <a id="158da1vh" href="#making-sense-far-reaches">making sense (far reaches) [stub/&#8203;scratch]</a>
 	* <a id="158eah" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#a-dialogue-on-wayfinding-homunculi-parts-goodness-a">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#a-brief-dialogue-on-locality-and-concreteness">a brief dialogue on locality and concreteness</a>
@@ -11604,6 +11606,43 @@ stub/scratch.
 compare with "objectivity"
 
 [<a href="#158da1th">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="suffering-far-reaches" href="#suffering-far-reaches">suffering (far reaches) [stub/&#8203;scratch]</a>
+
+Stub. 
+
+[<a href="#158da1uh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="making-sense-far-reaches" href="#making-sense (far reaches)">making sense (far reaches) [stub/&#8203;scratch]</a>
+
+There's a bunch of senses or concepts that could be called something like "evaluative organizing principles." They're all super useful but very cognitive, very "heady." And of course, and this is part of the point of the section, though this point has been made in many other places, when I say "senses," "concepts," "useful", this is not to overly reify any of this---there's no single, eternal, platonic X for any of the X below; they're all ultimately empty, partly in the sense that they mean something different in subtly-or-not-so-subtly different contexts, etc., etc. etc.:
+
+(these are in no particular order, and it's not a complete list, and some of these stretch the edges of "the thing" depending on the thing, and etc., but stuff kind of like this:)
+
+* elegance / elegant
+* coherence / coherent
+* cohesive / cohesiveness
+* complete / completeness
+* connected / connectedness
+* sound / soundness
+* valid / validity
+* non-contradictory / non-contradictoriness
+* unified / unity
+* whole / wholeness
+* reasonable / reasonableness
+* sensible / sensibleness
+* clear / clarity
+* unconfused
+* made sense
+* understanding
+* knowing
+* ...
+
+So again these are very "heady." But we're often deeply using things like these to socially and behaviorally and cognitively navigate. But to the degree they're sort of used in "eternalistic" ways, they'll eventually leady someone astray into muscle tension, suffering, reactivity, destructiveness, etc., loosely speaking, at least.
+
+There's "something" "beneath" all these, or that like emanates all the "correct" versions of these. And that could be called like "natural constraint," or global natural constraint, or sensory-embodied possibility, or aligned spontaneity, or just spontaneity. And this is sort of the same thing as like a fully positionless position on like a fully groundless ground, or something like that. None of this is thing-like, etc., etc., etc.. But again the stakes are real to the degree anything is real, etc., etc., etc.. Eventually one might find their way to the way they're *doing* all these things, as they understand them, and being able to refrain or dissolving/&#8203;untangling reliance, maybe(!) "none of that actually anywhere" leads to sort of "phenomenological-field-conceptual unlocking" and stuff which de-bottlenecks more stuff.
+
+[<a href="#158da1vh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="192b"></span><a id="miscellaneous-pith-notes" href="#miscellaneous-pith-notes">miscellaneous pith notes:</a>
 
