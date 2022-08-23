@@ -993,6 +993,7 @@ n/a
 - ============
 - (\*) https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem
 - (\*) https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction
+- (\*) Casagrande, June. It was the best of sentences, it was the worst of sentences: A writer's guide to crafting killer sentences. Random House Digital, Inc., 2010.
 - ============
 - tenses/aspects/modes/etc
 	- tense/aspect
