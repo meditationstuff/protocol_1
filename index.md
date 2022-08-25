@@ -1839,6 +1839,8 @@ See also:
 
 # <span id="64"></span><a id="extreme-skill-and-extreme-standards" href="#extreme-skill-and-extreme-standards">extreme skill and extreme standards:</a>
 
+[NOTE: See also <a href="#making-sense-far-reaches">making sense (far reaches) [stub/&#8203;scratch]</a> ]
+
 It can be helpful to realize that you need to become a genius. You need to become brilliant. You will become brilliant, at least along some narrow dimensions, in the course of doing this thing. If you strive for that, relax into it, things will go more smoothly.
 
 The level of skill and (mostly implicit) intricate knowledge that you need to acquire is shockingly high. It’s like you need to learn every single instrument in an entire orchestra, including the ones that, at least historically, very rarely get used, as well as how to be a conductor. But that’s what the protocol is for. The protocol helps you do that. But if you’re ready for that, you know what’s supposed to happen, then that can go more eaily.
@@ -1877,6 +1879,8 @@ You’ll learn how to work at the finest grain. You’ll learn how to act with c
 The protocol might start out feeling super clunky, not like meditation at all. But, over time, bottom up, it’ll look more and more like "classical contemporary noting" [sic] and concentration without support.
 
 Go with the grain of this, not against it.
+
+[NOTE: See also <a href="#making-sense-far-reaches">making sense (far reaches) [stub/&#8203;scratch]</a> (Also pasted at top because important.)]
 
 [<a href="#64h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -11626,7 +11630,7 @@ Stub.
 
 [<a href="#158da1uh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="making-sense-far-reaches" href="#making-sense (far reaches)">making sense (far reaches) [stub/&#8203;scratch]</a>
+# <a id="making-sense-far-reaches" href="#making-sense-far-reaches">making sense (far reaches) [stub/&#8203;scratch]</a>
 
 There's a bunch of senses or concepts that could be called something like "evaluative organizing principles." They're all super useful but very cognitive, very "heady." And of course, and this is part of the point of the section, though this point has been made in many other places, when I say "senses," "concepts," "useful", this is not to overly reify any of this---there's no single, eternal, platonic X for any of the X below; they're all ultimately empty, partly in the sense that they mean something different in subtly-or-not-so-subtly different contexts, etc., etc. etc.:
 
@@ -11654,6 +11658,10 @@ There's a bunch of senses or concepts that could be called something like "evalu
 So again these are very "heady." But we're often deeply using things like these to socially and behaviorally and cognitively navigate. But to the degree they're sort of used in "eternalistic" ways, they'll eventually leady someone astray into muscle tension, suffering, reactivity, destructiveness, etc., loosely speaking, at least.
 
 There's "something" "beneath" all these, or that like emanates all the "correct" versions of these. And that could be called like "natural constraint," or global natural constraint, or sensory-embodied possibility, or aligned spontaneity, or just spontaneity. And this is sort of the same thing as like a fully positionless position on like a fully groundless ground, or something like that. None of this is thing-like, etc., etc., etc.. But again the stakes are real to the degree anything is real, etc., etc., etc.. Eventually one might find their way to the way they're *doing* all these things, as they understand them, and being able to refrain or dissolving/&#8203;untangling reliance, maybe(!) "none of that actually anywhere" leads to sort of "phenomenological-field-conceptual unlocking" and stuff which de-bottlenecks more stuff.
+
+\*
+
+See also: <a href="#extreme-skill-and-extreme-standards">extreme skill and extreme standards</a>
 
 [<a href="#158da1vh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
