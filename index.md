@@ -321,7 +321,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1qh" href="#emptiness-far-reaches">emptiness (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1rh" href="#nonduality-far-reaches">nonduality (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1sh" href="#impermanence-far-reaches">impermanence (far reaches) [stub/&#8203;scratch]</a>
-		* <a id="158da1th" href="#subjectivity-self-identity-far-reaches">subjectivity, self, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]</a>
+		* <a id="158da1th" href="#subjectivity-self-identity-far-reaches">subjectivity, self, I-ness, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1uh" href="#suffering-far-reaches">suffering (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1vh" href="#making-sense-far-reaches">making sense (far reaches) [stub/&#8203;scratch]</a>
 	* <a id="158eah" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
@@ -11600,11 +11600,23 @@ not to much to say here maybe at this time just that impermenence is kind of an 
 
 [<a href="#158da1sh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="subjectivity-self-identity-far-reaches" href="#subjectivity-self-identity-far-reaches">subjectivity, self, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]</a>
+# <a id="subjectivity-self-identity-far-reaches" href="#subjectivity-self-identity-far-reaches">subjectivity, self, I-ness, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]</a>
 
 stub/scratch.
 
 compare with "objectivity"
+
+\*
+
+* effort/&#8203;effortful (vs effortless)
+* manualness/&#8203;manual (vs automatic)
+* deliberate (vs not consciously planned; spontaneous, 0-step)
+* I-ful/I-full
+
+vs
+
+effortless, spontaneous, automatic, costless, peaceful, exciting, enjoyable…
+
 
 [<a href="#158da1th">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -11655,7 +11667,9 @@ There's "something" "beneath" all these, or that like emanates all the "correct"
 
 * comment from elsewhere re "happiness because you've flexibly and exquisitely handled your shit": yeah this is hard. because like, not necessarily, but probably, just as one example, people are going to eventually die, or friends or family will die. so like there sort of has to be refactoring of like metaphysics, identity, cosmology somewhere in there. so it's more like "solve" *and*/*or* dissolve your problems. and "handle all your shit" was sort of a polemic equal and opposite advice for people who wanted happiness *independent* of conditions, but it's possibly misleading in isolation. this is a thing i could be more clear on in the doc.
 
-* [...] might be worth mentioning that someone will get increasingly efficient and meta efficient at exploring the search space as they go, even as bit as it is. "meditation proceeds by exhaustive process of elimination; and this is sufficient to do the job; it's enough", if not hit by meteor or bus, etc. etc.
+* [...] might be worth mentioning that someone will get increasingly efficient and meta efficient at exploring the search space as they go, even as big as it is. "meditation proceeds by exhaustive process of elimination; and this is sufficient to do the job; it's enough", if not hit by meteor or bus, etc. etc.
+
+* [...] might be worth calling out how problematic "effort" is, as well as being careful to not "burn in" effort," and how tacking towards effortlessness (pushing with a feather and then even less" is an extraordinary heuristic (and yet still just a heuristic) for going in the right direction
 
 
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
