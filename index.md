@@ -11614,7 +11614,7 @@ compare with "objectivity"
 
 * effort/&#8203;effortful (vs effortless)
 * manualness/&#8203;manual (vs automatic)
-* deliberate (vs not consciously planned; spontaneous, 0-step)
+* deliberate / deliberateness / \*\*\*deliberation (vs not consciously planned; spontaneous, 0-step)
 * I-ful/I-full
 
 vs
