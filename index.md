@@ -377,6 +377,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="187h" href="#human-epistemic-dynamics-and-phenomena">human epistemic dynamics and phenomena</a>
 		* <a id="188h" href="#epistemic-aesthetic-rigor-stub">epistemic-aesthetic rigor [stub]</a>
 		* <a id="188ah" href="#calling-word-salad-phenomenon">calling word salad phenomenon</a>
+		* <a id="188bh" href="#brief-notes-and-qualifiers">brief notes and qualifiers</a>
 	* <a id="189h" href="#relating">relating</a>
 		* <a id="190h" href="#in-relationship-foreclosing-legacy-of-past-interact">in-relationship foreclosing legacy of past interaction [stub]</a>
 	* <a id="191h" href="#creating">creating</a>
@@ -8874,6 +8875,12 @@ at least one sense in which "inside" as well as "not just" "outside" becomes-kno
 
 at least one sense in which "internality" is a learned strategy
 
+at least one sense in which there is no fact of the matter that is not "ultimately" empty and nebulous and "spontaneous" i.e. not up to you per se
+
+at least one sense in which you don't need to figure anything out
+
+at least one sense in which there's nothing to figure out
+
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 
 [<a href="#158da1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -13136,6 +13143,19 @@ Terms of art:
 * curse of knowledge
 
 [<a href="#188ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="brief-notes-and-qualifiers" href="#brief-notes-and-qualifiers">brief notes and qualifiers</a>
+
+(from: <a href="#touchstones-sort-of-leaving-out-or-only-weakly-inte">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>)
+
+at least one sense in which there is no fact of the matter that is not "ultimately" empty and nebulous and "spontaneous" i.e. not up to you per se
+
+at least one sense in which you don't need to figure anything out
+
+at least one sense in which there's nothing to figure out
+
+[<a href="#188bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="189"></span><a id="relating" href="#relating">relating:</a>
 
