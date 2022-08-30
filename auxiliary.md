@@ -40,7 +40,7 @@ Deliberately, in ways that are ok or good and safe, attend to and be aware of, c
 
 # <span id="4auxiliary"></span><a id="blend" href="#blend">blend:</a>
 
-For a feared possibly true thing, if it’s safe enough and good enough to do so, be like what if that really/actually *is* true? Really play it up, get behind it, prime the pump, try to convince yourself it is indeed true, reach for your best feel of that really being true, allow yourself to fall into the world where it is true, take that leap and ride the wave wherever it takes you.
+ If it’s safe enough and good enough to do so, really play it up, get behind it, prime the pump, egg it on, [reach for your best feel of that really being true [if applicable], allow yourself to fall into the world where it is true], take that leap and ride the wave wherever it takes you.
 
 
 

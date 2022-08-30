@@ -3197,6 +3197,7 @@ Alternative note: A future draft of this should maybe include percentages for "l
 * You might simply ask, what are all the options/&#8203;affordances, here, and which might be good right now to pick?
 * Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/&#8203;feel for answers with the body, the mind, or the bodymind, or anything, or everything.
 * A bit of a ramble: The second-most-minimal way to barely-there "do the meta protocol," the maybe almost least likely to jam or grind, is to maybe give yourself space and time to let what happened to have happen, a sort of liminal retrospective. And maybe the most minimal thing to do is to "fully and completely release the container while maintaining the context for just a little longer," so not even a liminal retrospective but just a liminal space, a little bit of time and space, between meditation and lost in life. So, not jumping into things right after meditation, but nor sort of letting meditation linger and then jumping into things. Just kind of a "release meditation [not that you were holding on to anything!!!] but don't get up / walk away," immediately, just yet... Let things recombobulate a bit, let the system come to its own conclusions. This could even be as long as half again the time you spent meditating, or even as long again as the whole length of time you were meditating, or just five minutes, etc. [Not to reify meditation(tm) as something crisp and thing-like!!!] (All of this might sort of naturally happen, too, sort of near the end of meditation proper, in any case.)
+* The meta protocol as "a thing" that "you do" can be distancing, separating, anti-nondual, as it where. Again, the lightest, most minimal version, with a feather or even less, and even better the mere idea of it or whisps of it spontaneously, liminally arising, and so on, until it undoes itself, eats itself with no remainder, and so on[, and on].
 
 
 **(1) Interleaved or Retrospective Evaluation of Happening and Doing**
@@ -11514,6 +11515,10 @@ cf. good / bad in a consequentialist or "final"-end / ["final" end] sense ("fina
 
 \/\/\/\/\/\/\/\/\/ \~\~\~ void as absence of qualities / attributes including both timelessness and impermanence
 
+\*
+
+???????????something-something worship, sacrament; key: performed without hope [and/but cf. "hell is the absence of hope" kind ???? unification of heaven and hell in the ~tineless or~ always-now sacred?]; distinguished from discipline; not motivated by hope or fear (or at least [or especially] "misplaced" versions) [cf. and/&#8203;but assurances that everything will turn out alright / all right and/&#8203;but etc.]
+
 [<a href="#158da1kh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
@@ -11600,6 +11605,12 @@ So then there's the "(but also) not one" part:
 I'm less clear exactly what's being pointed at here (and for better and worse I haven't read commentary in the relevant tradition) but this is maybe in part referring to something that's initially paradoxical-seeming but there's like increasing decorrelation (“separation,” “independence”) of "sensations" [but also increased knowledge of their interdependence or at least dependence on causes and conditions etc. etc.] and while there's this “separateness” or "separation" or "difference" there's still positive "indistinctness,"---so "not one"---and/&#8203;but also "wholeness" or "completeness" or "unity" but not to reify any of that and also all of this is empty, nebulous, provisional, groundless, etc. 
 
 cf. "positionless position" cf. groundlessness and no */fixed/* goal(s)
+
+\*
+
+scratch:
+
+* knowing of the self versus knowing of the world cf. behindness / knowingness with respect to "sensations" / body sensations versus self sensations versus world sensations and and [at first] siloed knowingness for each thereof
 
 [<a href="#158da1rh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
