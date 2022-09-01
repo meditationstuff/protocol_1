@@ -15,6 +15,10 @@
 
 * <a href="#full-table-of-contents">Skip to Full Table of Contents</a>
 
+(NOTE: FOR TAKES ON THIS MATERIAL BY OTHER PEOPLE,  
+SEE ALSO: <a href="#closely-related-external-resources">closely related external resources</a>  
+[this note is repeated in like three places])
+
 <span id="who-is-this-document-for"></span> **Who is this document for?**
 
 This document is for people are curious about, serious about (and anything in between) *very long-term, goal-oriented meditation*, as in years and a lifetime. (And "goal-oriented" includes "no goal" and/or radical, self-determined, open-ended provisionality!) 
@@ -38,8 +42,11 @@ Note:
 * (You can find more on "better not start; if you start, better to finish" <a href="#136a">in this linked section</a>).
 
 
-
 <span id="qq"></span> **Partial Guided Tour**
+
+(NOTE: FOR TAKES ON THIS MATERIAL BY OTHER PEOPLE,  
+SEE ALSO: <a href="#closely-related-external-resources">closely related external resources</a>  
+[this note is repeated in like three places])
 
 * **How can I immediately get a flavor of what *kind* of meditation this whole document is about?**
 	* *See these sections:*
@@ -88,7 +95,9 @@ Note:
 		* <a id="19aqh" href="#preconceiving-direct-reifying-draft-suggested-above">preconceiving, direct reifying [draft; suggested above as well]</a>
 		* <a href="#11">Full Table of Contents</a>
 
-
+(NOTE: FOR TAKES ON THIS MATERIAL BY OTHER PEOPLE,  
+SEE ALSO: <a href="#closely-related-external-resources">closely related external resources</a>  
+[this note is repeated in like three places])
 
 # <span id="7"></span><a id="funding" href="#funding">Funding:</a>
 
@@ -104,16 +113,16 @@ Please support this open access work: https://www.patreon.com/meditationstuff
 **Canonical location(s) of this document:** https://github.com/meditationstuff/protocol_1 ; https://meditationbook.page/
 
 
-<span id="alternative-versions"></span> 
-**Alternative versions:**
+<span id="alternative-versions"><span id="closely-related-external-resources"></span> 
+**Closely related external resources:**
 
-Sometimes individuals publish lightly transformed versions of this document to facilitate engagement with the material while it is still in draft form. These versions may be out of date:
+All of these are worth checking out:
 
-* https://rothos.github.io/protocol_1/ (nicely formatted and navigable, outdated)
-* https://docs.google.com/document/d/1L7PooFLqaPeNfrs9_sT2JYXSxkJWJr1gP314uHM4ujc/edit (ongoing "in plain english")
-* https://sashachapin.substack.com/p/review-meditation-from-cold-start (book review; some parts endorsed, some not, but overall net good!)
-
-**Note:** Separately, to get a readable plaintext version of the page you're reading, now, you can do a search replace of the source on "/&amp;#8203;" to "/", without the quotes, to clean up all the zero-width space character encodings without affecting anything else.
+* https://autodereify.me/an-overview-of-global-wayfinding-meditation/ (extended popular introduction!) [Last accessed: 2022-09-01]
+* https://sashachapin.substack.com/p/review-meditation-from-cold-start (book review; some parts endorsed, some not, but overall net good and 100% gratefully acknowledged and appreciated!) [Last accessed: 2022-09-01]
+* https://github.com/meditationstuff/protocol_1/ (the source code and content that generates you're reading now!)
+* https://rothos.github.io/protocol_1/ (nicely formatted and navigable, outdated, but ***has links to still-useful companion tools***!) [Last accessed: 2022-09-01]
+* https://docs.google.com/document/d/1L7PooFLqaPeNfrs9_sT2JYXSxkJWJr1gP314uHM4ujc/edit (ongoing "in plain english") [Last accessed: 2022-09-01]
 
 <span id="hyper-linking-deep-linking-anchor-linking-soft-guarantees"></span> 
 **(hyper)linking/&#8203;(deep)linking/&#8203;(anchor)linking soft guarantees:**
@@ -132,7 +141,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 * <a id="7h" href="#funding">funding</a>
 * <a id="8h" href="#author-web-presence">author web presence</a>
 * <a id="9h" href="#canonical-location-of-this-document">canonical location of this document</a>
-* <a id="10h" href="#alternative-versions">alternative versions</a>
+* <a id="10h" href="#closely-related-external-resources">closely related external resources</a>
 * <a id="10ah" href="#hyper-linking-deep-linking-anchor-linking-soft-guarantees">(hyper)linking/&#8203;(deep)linking/&#8203;(anchor)linking soft guarantees</a>
 * <a id="11h" href="#full-table-of-contents">full table of contents</a>
 * <a id="12h" href="#preliminary-and-introductory-things">preliminary and introductory things</a>
