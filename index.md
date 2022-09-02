@@ -391,7 +391,9 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="190h" href="#in-relationship-foreclosing-legacy-of-past-interact">in-relationship foreclosing legacy of past interaction [stub]</a>
 	* <a id="191h" href="#creating">creating</a>
 		* <a id="192h" href="#randomness-arbitrariness-unpunished-as-necessary-da">randomness/arbitrariness, unpunished, as necessary data [not yet written]</a>
-	* <a id="56h" href="#lineages-and-transformative-works">lineages and transformative works</a>
+	* <a id="56ah" href="#lineage-and-pedagogy">lineage and pedagogy</a>
+		* <a id="56h" href="#lineages-and-transformative-works">lineages and transformative works</a>
+		* <a id="56bh" href="#on-thinking-and-rigor-and-pedagogy-in-meditation-instruction">on thinking and rigor and pedagogy in meditation instruction</a>
 * <a id="193h" href="#bibliography-incomplete">bibliography (incomplete)</a>
 * <a id="194h" href="#appendix-1-preliminary-auxiliary-practices-names-on">appendix 1: preliminary/auxiliary practices (names only)</a>
 * <a id="195h" href="#appendix-2-preliminary-auxiliary-practices-full">appendix 2: preliminary/auxiliary practices (full)</a>
@@ -13201,6 +13203,11 @@ An organism needs to be able to "randomly/arbitrary" experiment in order to gene
 
 [<a href="#192h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="lineage-and-pedagogy" href="#lineage-and-pedagogy">lineage and pedagogy</a>
+
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+[<a href="#56ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="56"></span><a id="lineages-and-transformative-works" href="#lineages-and-transformative-works">lineages and transformative works:</a>
 
@@ -13317,6 +13324,112 @@ Me : Well, that's a good sign. The numero uno of daft moves is to open by defaul
 
 [<a href="#56h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="on-thinking-and-rigor-and-pedagogy-in-meditation-instruction" href="#on-thinking-and-rigor-and-pedagogy-in-meditation-instruction">on thinking and rigor and pedagogy in meditation instruction</a>
+
+[The below is a grateful response to https://twitter.com/riceissa/status/1565599182534381568 [Last accessed: 2022-09-02]. Angle brackets ">" indicate quotations from that twitter thread.]
+
+[Corresponding twitter thread starts here: https://twitter.com/meditationstuff/status/1565685229964218374 ]
+
+good Q's. There is a bunch of discussion of conclusions~
+for example,
+
+\* https://meditationbook.page/#touchstones-sort-of-leaving-out-or-only-weakly-inte  
+\* https://meditationbook.page/#on-groundlessness-a-brief-note  
+
+These are in the "far reaches" section.
+
+There are some sketches of "stage mappings":
+
+\* https://meditationbook.page/#crappy-timeline-guidelines  
+\* https://meditationbook.page/#vague-sketch-of-progression-with-respect-to-emptine  
+
+In some ways, the entire document is intermediate conclusions, things to keep an eye out for along the way. At least originally, this was especially intended to be true in the "lists and more" section, though that section has metastasized.
+
+https://meditationbook.page/#lists-and-more
+
+ok this could be clearer and better organized but~
+
+\> 10,000 hours thinking about how to keep doing good, how to stop doing bad, etc.
+
+Let's see. (@..., it might be helpful to people to unpack "thinking" a bit more in your doc. You do say "Thinking about and evolving your conception of good and bad doesn’t have to be a linguistic process [...]".) @... --
+
+I consider meditation to be a (not strict) superset of thinking. Thinking, noodling, writing, brainstorming, arguing, etc., are incredibly useful but will generally ground out in contradiction, inarticulable premises and presuppositions, infinite regress, and so on. (Fwiw, one of the best attempts to take thinking to its absolute limit mighhhhhttttttttttttt be Mipham's Beacon of Certainty [1]. Kant and Descartes, via Aristotle, might be good examples of brilliant and illuminating attempts to wield thinking to its absolute limit but descend into misleading and irrecoverable failure modes, imo.)
+
+https://www.amazon.com/Miphams-Beacon-Certainty-Illuminating-Perfection/dp/0861711572/
+
+It's useful to have a superset of thinking, because enacting that superset changes the thoughts one can think, including the concepts that are available for thinking. Some concepts take thousands of hours to acquire (or correct) if one didn't already have them or had slightly confused versions. Some, even most, new concepts can be acquired from reading and thinking, of course---but not by everybody! If someone "just can't" acquire a concept, even with an excellent step-by-step guide or personal tutor, then meditation might be a (costly) next step to try, if deemed worth it.
+
+\> instead of just actually giving concrete theorems
+
+I think it's important to note how different math is from other kinds of knowledge. Math is in some sense "synthetic a priori," to borrow from Kant. (This distinction is also in Descartes, unnamed, and probably other places.) Or, like, math is the closest thing we have to "eternal" or "perfect" or "platonic" concepts and relations. (I personal don't think math actually has these properties, but I still think math is one of the closest "thing" to having these properties.)
+
+And because of this "eternal" or "platonic" flavor, it can be misleading.
+
+The best example of seemingly "doing thinking like math" is maybe Spinoza's Ethics. In this he uses a "geometric method," like Euclid's Elements. But unlike Euclid's work, it's not about mathematical objects; it's about everything.
+
+It starts with definitions and axioms and then rigorously argues for conclusions.
+
+But, just as with math, the actual work of producing a rigorous explicit thought object isn't going to look like just writing down propositions and intermediate theorems. It's going to generally be messy, with lots of staring into space and rewriting.
+
+\> those who come later can learn the proof very quickly just by reading.
+
+After the rigorous explicit thought object is created, especially a deductive one, is it possible to just read it and then have that knowledge?
+
+Interestingly, some people believe Spinoza went to all the work he did, of making some of his writing rigorously deductive, was indeed for *pedagogical* purposes, as opposed to *methodological* purposes.
+
+(Also interestingly, both Spinoza and Descartes have unfinished writing about *methodology,* how to *do* philosophy or thinking.)
+
+I don't spend a lot of time reading rigorous mathematics, but I'm assuming that even trained mathematicians have to apply interpretive labor to understand new proofs, even in their own field. I would even guess that some rigorous proofs, far outside a particular mathematicianss domain of expertise, feel like "word salad," until they've played with some examples or even kicked around a physical system to acquire some intuitions.
+
+Spinoza's Ethics, sort of the epitome of attempted deductive rigor, all things being equal, requires a tremendous amount of interpretive labor to understand and critique.
+
+\> (compress the exploration *tree* down to a single *path* down to leaf node).
+
+All that being said, I agree that prior work, rigorous or not, does speed people along, so why doesn't my meditation manual thing do more of that?
+
+Part of the reason is that Spinoza's rigor, Descartes striving for conceptual clarity, despite all attempts, (especially nonmathematical) language or concepts are inherently nebulous or "empty" (lacking essence)--see further below. Even when you detach "sign" (word) from "sense" (meaning), and are like cheese_1, cheese_2, cheese_3, drilling down to finer and finer distinctions and seemingly more and more elementary and foundational concepts, there's no there, there.
+
+A more articulated example besides cheese_n is like, how does one define dog? A five-year-old, an untrained adult, a dog breeder, a biologist, and a physicist will all have different "concepts" or "senses" for dog, or will have different "conceptual clouds" for what a dog is, and will use overlapping and different words to evoke those concepts.
+
+Classic which most people reading this will have already read: https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/
+
+I'm now having trouble contextually one-shot articulating something that maybe(???) summarizes as "there's an even  deeper insight behind the slatestarcodex (SSC) articulation, that's just as important and at least as big of a jump from not grasping the SSC thing to grasping the SSC thing." And the words I usually use to gesture at that insight (that cloud of insights or whatever) are nebulosity, emptiness, groundlessness, aconceptuality, "unpatternability," etc., and these apply to the concept of concept itself, and so on, and these apply to themselves as well---the emptiness of emptiness, the groundlessness of the idea of groundlessness as well as groundlessness as such, and so on.
+
+Here, I *could* metaphorically unpack these some more, as well as work out a progressive sequence of more nuanced metaphors, and so on.
+
+Doing these unpackings is helpful to people, and there are popular versions of these. Unpackings generally get people there faster, all things being equal, and make it easier for people to "know it when they see it."
+
+And I do this to some degree in the document. (See the "groundlessness" link above.)
+
+But these unpackings also have failure modes. People can get the wrong thing or think they've got the thing when they don't, and so on. I think it's generally worth doing progressive unpackings anyway.
+
+There's a deeper thing, though, that for lots of people, I'll claim, maybe empiricaly most people, the unpackings won't "click" until they've done a tremendous amount of preparatory work, basically to the point of "would have gotten the thing anyway, eventually."
+
+One has to do the work, have the experiences, see the new lands, taste the tastes they've never tasted before, and so on. Good writing, analytical and phemenological, can describe tastes and smells and sights and sounds and experiences, but there are limits and good writing necessarily makes use of people's prior experiences (and ability to interpret language) to evoke those experiences.
+
+Things get weird because people *use language differently*, like the interpretation and consumption of language is "seated differently" in people's perceptual / epistemological processing "stacks." And of course people are exposed to different words and experiences as they move through life, which is partly why some math and science teachers and textbooks work better for some people and worse for others (though one can still generalize some textbooks as generally better or worse than others, all things being equal).
+
+Some textbooks have reams and reams of examples, from all sorts of different angles. And some math textbooks, for example, supply lots of "intuition fodder." 
+
+As mathematics textbooks become more advanced, all things being equal, they tend to have fewer and fewer examples, often until it's "just proofs." The reader is expected to supply their own intuition and motivation. I think this is partly for pathological reasons but also partly for compression and efficiency and ultimately technically rigorous and clear communication. Examples would make a paper too long or even in some cases (e.g. when mathematics-grade rigor wasn't available) confuse interpretations of the conclusions (even when those conclusions were somewhat loosely deductively triangulated from a bunch of different directions).
+
+For something like meditative insight, where the "conclusions" are so "absolutely omnidirectionally encompassing," some examples would risk "closing down parts of the insight space."
+
+Siegfried Englemann in his brilliant and limited "Theory of Instruction" calls this "stipulation" or "undergeneralization" (cf. overgeneralization)---in this case, in my words, the examples themselves, even as varied as they were, even as maximally different as they were, still produced inferential distortion because it wasn't possible to concretely "enumerate" enough of the example space. Too many degrees of freedom to practically do it.
+
+So, instead, the ethos of my document relentlessly focuses on *method* as opposed to focusing on *conclusions*. To be clear, a mathematical or scientific conclusion is abstract and quasi-universal. But a meditative "conclusion" is about real-time perception and action and motivation, of which "thinking" is a part.
+
+The idea is that by relentlessly focusing on *method,* supplying just enough "conclusion" for motivation and to guide intermediate action, one overcomes the problems of "can't think some of those thoughts yet," "haven't had some of the experiences required for language to be evocative enough yet," and "examples would actually distort the conclusions."
+
+With respect to method, I/we actually did go all out on examples, in some ways. The appendices of the document are filled with 900+ and growing methodological degrees of freedom. It's necessarily somewhat messy and ad hoc, because everybody is coming from a slightly different place, but it will acquire some more organization, in time.
+
+(There are sociological and safety reasons the document is somewhat maddenly sprawling, though with aspirationally clear top-level organization---on the safety side, I wanted to push people towards holistic interpretation, like I actually was going for not just a steep learning curve, but even something like a series of step-functions, or even just a handful of step functions, so that people would be less likely to hurt themselves through applying methods with partial understanding.)
+
+In some ways the document might have the implicit premise of "thinking and rigor, or even commonsense pedagogy, aren't sufficient to convey the benefits and insights of meditation," which I guess is pretty bog standard esotericism or something.
+
+(For what it's worth, I am obsessed with pedagogy, and, uh, I think my work has, uh, a lot of room for improvement. And/but, its current form is a result of a lot of imperfect, boneheaded, and sometimes really well-founded sociological, personal, and pedagogical tradeoffs. But... yeah.(!!!!))
+
+[<a href="#56bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="193"></span><a id="bibliography-incomplete" href="#bibliography-incomplete">bibliography (incomplete):</a>
 
