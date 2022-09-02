@@ -13389,6 +13389,8 @@ All that being said, I agree that prior work, rigorous or not, does speed people
 
 Part of the reason is that Spinoza's rigor, Descartes striving for conceptual clarity, despite all attempts, (especially nonmathematical) language or concepts are inherently nebulous or "empty" (lacking essence)--see further below. Even when you detach "sign" (word) from "sense" (meaning), and are like cheese_1, cheese_2, cheese_3, drilling down to finer and finer distinctions and seemingly more and more elementary and foundational concepts, there's no there, there.
 
+[In part because "enaction" https://en.wikipedia.org/wiki/Enactivism]
+
 A more articulated example besides cheese_n is like, how does one define dog? A five-year-old, an untrained adult, a dog breeder, a biologist, and a physicist will all have different "concepts" or "senses" for dog, or will have different "conceptual clouds" for what a dog is, and will use overlapping and different words to evoke those concepts.
 
 Classic which most people reading this will have already read: https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/
