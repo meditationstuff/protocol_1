@@ -327,6 +327,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1kh" href="#holy-sacred-mystery-scratch-stub">holy/&#8203;(sacred?) mystery (scratch/&#8203;stub)</a>
 		* <a id="158da1mh" href="#void-nothingness-cessations-nibanna-stub-scratch">void (nothingness, cessation(s), nibbana, nirvana [stub/&#8203;scratch]</a>
 		* <a id="158da1ph" href="#evil-far-reaches">evil (far reaches) [stub/&#8203;scratch]</a>
+		* <a id="163h" href="#eternity-suffering-death">eternity, suffering, death</a>
 		* <a id="158da1qh" href="#emptiness-far-reaches">emptiness (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1rh" href="#nonduality-far-reaches">nonduality (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1sh" href="#impermanence-far-reaches">impermanence (far reaches) [stub/&#8203;scratch]</a>
@@ -343,7 +344,6 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="160h" href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
 		* <a id="161h" href="#normalcy-crackpotty-ness-wisdom-craziness-competenc">normalcy, crackpotty-ness, wisdom, craziness, competency [stub/draft]</a>
 		* <a id="162h" href="#-false-ends-messy-first-draft">"false ends" (messy first draft)</a>
-		* <a id="163h" href="#eternity-suffering-death">eternity, suffering, death</a>
 		* <a id="163ah" href="#surface-areas-and-the-radically-personal-draft">surface areas and the radically personal (draft)</a>
 	* <a id="164h" href="#subtle-interaction">subtle interaction</a>
 		* <a id="165h" href="#-psychic-and-supernatural-stuff-what-how-how-not-dr">"psychic" and "supernatural" stuff; what/how/how-not [draft]</a>
@@ -9617,157 +9617,6 @@ Sometimes "false end" discovery has to happen safely in its own time in a very b
 
 [<a href="#162h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="163"></span><a id="eternity-suffering-death" href="#eternity-suffering-death">eternity, suffering, death:</a>
-
-[draft status: in need of editing, as per usual]
-
-There’s ways in which the below is inconsistent, confused, and incomplete--it’s not the final word, I still have a LOT to learn, and nor could it ever be consistent and complete, in a deep, philosophical sense. It’s offered because it might be comforting and useful, for some people, as an interim touchstone, or it might help some good things happen fractionally faster, or it’s just interesting. As a recommendation, if you’d otherwise be inclined, don’t particularly try to "make any of this stick"; one sort of has to find their way to this kind of stuff on their own terms, and then you "don’t need to make it stick," as natural as trusting gravity.
-
-\*
-
-So, many people take refuge in eternity and essentiality, and many people fear death, meaninglessness, and suffering. We encountered those sorts of things somehow already within ourselves, and/or we picked them up from culture, or we confused other people’s stuff with our own, in deep or subtle ways.
-
-So let’s unpack all this a bit more and talk about pluses and minuses and antidotes.
-
-\*
-
-So, IF there’s *eternity* (timelessness, outside-of-time-ness) then, this is a bit of an incomplete straw, but it kind of follows that everything that has ever existed does always already forever exist and that everything has a fixed, eternal essence. There’s a nearby and simultanously compatible thing, which is "sempiternity," which means something like "an infinite future" (infinite timefulness, and, maybe necessarily along with that, an infinite past).
-
-Some problematic implications of eternity and sempiternity are that, in some sense, if anything’s wrong with your "essence," then, depending on how that works, there might be some sense in which it can never be fixed. You’ll be stuck with however you are, and if that’s bad, then that’s infinitely bad.
-
-Additionally, everything becomes infinitely important, any choice has massive stakes, infinite stakes, because it could compound forever without relief. Death might not offer any relief. Anything that produces ("intolerable") suffering (badness, loss, failure, rejection, loneliness, judgment, uncertainty) is potentially (infinitely) catastrophic. Sure, you *might* have infinite time to correct your mistakes, but what if, by some chain of events, you find you permanently cannot?
-
-\*
-
-Alongside eternity, as complements or alternatives, there’s also *mortality*, *death*, and *nothingness*.
-
-Problems with these are things like, if death results in nothingness then potentially everything is nihilist and meaningless. And then perhaps there’s no basis for action (or happiness, joy, etc.), perhaps because everything is ephemeral, impermanent--we can’t take it with us, including ourselves, we lose it all, as if it never was, so what’s the point?
-
-\*
-
-And then there’s *fragility* and *uncertainty* which sort of underpin the risks of eternity, mortality, and suffering, and kind of take the joy and spontaneity and enjoyment out of everything.
-
-\*
-
-And finally, all these things sort of get tangled together in potentially inconsistent ways. For example, say death if isn’t, for example, conceived as pure nothingness; perhaps it’s unfortunately conceived as sort of potentially an "in-between" state, of maybe trappedness, loneliness, fear, failure, and suffering, and maybe that’s "eternal."
-
-\*
-
-Ok, so what to do? Maybe just avoid thinking about all this as much as possible? What if you can’t not think about it?
-
-All of the below assumes lots and lots of meditation (or luck/fortune/grace/etc.).
-
-\*
-
-Some of the things that can happen over time are the following, and these are all sort of somewhat entangled together:
-
-Sempiternity and especially eternity can come to be sort of deeply recognized as phenomenologically/&#8203;pragmatically/&#8203;epistemically inconsistent. It’s not that one can no longer work/think/model with conceptual and cosmological and mathematical infinity or plan for far futures, but some "literal or functional seating" of these ideas, in the bodymind, can be judged and rejected.
-
-This is partly underpinned by insight into impermanence and/or/rather lack of essence and/or/rather interdependence, as in nebulous, empty, or provisional causes (laws), conditions ("starting" conditions), and spontaneity, through and through. Say it’s all just shimmering stuff or forces and fields or whatever, phenomena or noumena, on the border of differentiation and lack of differentiation. What perhaps follows is sort of a way in which anything like eternity or its implications becomes (literally?) ungraspable. (I might lose some physical or scientific or mathematical realists, here. See below for a tiny bit more on maps and territories and more.)
-
-But isn’t there *something like* eternity or infinite time or at least vast time? What sort of does the work of that? What kind-of-happens-is-sort-of [sic] an "eternal now" which is sort of immanent, sort of aconceptual. This "eternal now" is very unlike the other "eternity" thing, which perhaps sort of "lived elsewhere." (This also involves a "‘positive’ nowhere to go," "just this"-ness.) It’s sort of a better fit for the whole system.
-
-Sounds pleasant, maybe, but maybe literally false? And then what about meaninglessness and suffering and death?
-
-Meaninglessness sort of gets handled by aconceptuality, fluidity,  spontaneity, and provisionality. It becomes safe to rest in meaninglessness and pointlessness because there’s sort of something "beneath" them, so loss of meaning isn’t devastating and in need of scrupulous avoidance. And, further, one gains confidence that meaning is either inessential or is at least just always transient, because of systemic fluidity--one doesn’t get "stuck" that way, so it’s safer to go into, and there’s generally (nonmonotonically) something even better (more/different meaning) on the other side, and especially in the limit. (Spontaneity and provisionality will be further discussed below.)
-
-\*
-
-Fragility, uncertainty, suffering, and death sort of get handled in a few ways.
-
-Suffering has sort of both "practical" and "general" mitigations. Here we first talk about the "general" mitigation of sort of "no-self-y-ness." That’s not to say there isn’t often generally coherence and meaning, "self-ing," but if there’s a disruption of the self and/or "intolerable" suffering, there comes to be a deep way in which it’s "just happening" that doesn’t require a self. (This is sort of coextensive with "no things, including no self, never have/has been, never were, never will be." (More accurate might be "no stable, permanent, enduring things or self.") Like, if *you* are disrupted, then are you still *you*, there, suffering? Creepy? But, like, in a good/comforting way? And, further, at this point, the "whole system, self and everything" has become extremely good at sort of self-endorsedly "reconstituting" itself, if disrupted. One can kind of rest in an extraordinarily self-aligned and trustworthy spontaneity, because that spontaneity, over time, sort of comes to know just what to do.
-
-With suffering kind of more handled, it can be separated out from death and nothingness. When nothingness is disentangled from various confusions, it becomes much less of a big deal. It’s sort of just like deep sleep (which is still admittedly freaky to think about, for some people); in both cases "you’re not there," and it’s fine while it lasts. It’s not like you’re there and trapped or there and can’t breath, and so on: it’s just nothing. And, so then "nothing" is especially not some sort of "experientially eternal" bad thing. So, again, much less of a big deal.
-
-So then with suffering kind of more handled and nothingness kind of more handled, then death is kind of more handled--it’s the potential suffering leading up to death that can be super scary to think about, the ("intolerable") fear of (imminent) death and the dying, versus being dead (in the case that death is "experiential nothingness.") And, again, the spontaneous-no-self-just-happening-ness kind of helps with this.
-
-Further, the "eternal now" can have a "soothingly deathless" feel. Sort of, as in, "if death is nothingness then you won’t know that you’re dead," so you’ll always only ever be alive, and if "now is eternal" then you’re immortal-ish, etc.
-
-All of this is sort of positively entangled (and deeply related to) the "practical mitigation" of suffering, i.e. "deconditioning." People typically have a great deal of "cue-able" or triggerable suffering that gets worked through in the course of meditation. Prior to working through things, we are sort of uncontrollably, prereflectively, "already" freaked out by things before we become conscious of them. And so that happening less and less, for fewer and fewer things, is sort of part and parcel with the more general antidotes above.
-
-\*
-
-But, like, you *want* things, and lots of people, all things being equal, *prefer* not to die, *a lot*, at the very least. If death becomes even remotely less of a concern, won’t people be less good or vigilant about avoiding death? And isn’t that kind of inconsistent and so isn’t that a good reason to fear death and uncertainty?
-
-What kind of happens is a sort of "positive behavioral indifference" in that more and more things get handled and worked out such that "no matter what happens this is the best plan," "you’re fully up to date,’ in ultimately a deep and prereflective way. So, like regardless of whether you’re (uncertainly) going to die in five minutes or fifty years or one thousand years, your "plan" is intertemporally consistent with respect to all those contingencies. Given your context, limitations, uncertainties, knowledge, there’s both "nothing to change" and you’re fluidly "updating your plan" in each moment as more sensory evidence comes in. And so, you’re looking both ways before crossing the street, poking at life extension, somehow eating both healthy and deliciously, anything, in a way that fully accounts for your preferences. And "death" is kind of mostly-/semi-background handled in a way that doesn’t self-defeatingly loom large; it doesn’t suboptimally take up ongoing rumination time at the expense of other things; though, it might be innocuously and consistently threaded through things in a way that naturally comes up. All of this is perhaps one facet of "wisdom."
-
-\*
-
-This might all be well and good but what about something like *impingement* or *corruption*. Like what about mind control parasites (toxoplasma gondii) or Alzheimer’s or traumatic brain injury or whatever? What if I figure out a bunch of stuff about "eternity" and feel pretty good about that, but then I have a stroke and "lose" a bunch of it?
-
-First of all, the brain is kind of holographic and reconstitutive. Maybe surprisingly, if stuff reaches a "ground state," versus a person trying to make stuff stick, even traumatic brain injury, all things being equal, doesn’t necessarily mean a bunch of stuff is even transiently lost. And, even if "something" (loosely speaking) is lost due to physical or chemical insult, all things being equal, a "deeply settled meditative mind" will spontaneously work/flow towards rederiving/reconstituting what was disrupted (or will find something even better).
-
-But, in any general case, life is messy and death is messy.
-
-To be sure, people do have terrible brain things happen and, outside view, come through with unchanged personalities. But, sometimes a single microstroke will, outside view, radically alter a person’s personality or produce anosognosia, not to mention complexly related fatigue and anxiety (though, all things being equal, a long-term meditator does have a greater chance of "finding their way back," very very loosely and reductively speaking).
-
-Nothing remotely guarantees health, wealth, a "good death," sanity, neurological integrity, a long life, immortality, "thinking real good," hot sex, whatever. And, at the very least, at the time of this writing, meditation doesn’t free you from having a physical brain, subject to decay, demyelination, amoebas, car accidents, or anything.
-
-All that said, a lot of the "antidotes" above generally hold, even in these most challenging of "edge cases" or one’s concern about them. Deconditioning, over time, promotes constructive action and handledness of various contingencies, which obviates and "integrates away" unconstructive worrying. "Best plan"-ness allows for a rich, full life in the light of death, not self-limited by fear or accident (in relative relation to one’s beliefs about risks, tradeoffs, etc.) "No-self-y-ness" and "trustworthy self-aligned robust spontaneous self-reconstitution" helps with acute accident and illness and suffering. Lots of other metaphysical and cosmological and conceptual stuff gets refactored and cleaned up, over time, which mitigates all sorts of unnecessary suffering.
-
-But, yeah, there’s still uncertainty and finitude (modulo dissolving into Brahman, as it were, and eternal nows)--no guarantees about anything.
-
-So here’s yet a couple more globally interrelated things to throw into the mix: determinism and provisionality.
-
-Eventually, through life and meditation, one might get a deep sense of *determinism*, that, in some sense (pick your cosmology and physics and supervenience and etc.), everything can’t but happen exactly as it has happened, is happening, and is going to happen, via causes and conditions, states and evolution laws (or something kind of like this, in your metaphysics). You are happening just as you’re going to happen, things are happening just as they’re going to happen, including your choices and everything. What’s exactly going to happen is just exactly what’s going to happen. This can be kind of both terrifying and ultimately soothing, by turns, a particular kind of loss of control. But, eventually one can comprehensively sort of align with it, participate in it, deeply, stably, with no remainder. And there’s a deep freedom in that.
-
-Further, in that freedom, there is a certain provisionality. You really don’t know. Was what just happened ultimately good or bad? You really don’t know. What’s going to happen next? You’re "flowing forward," spontaneously, with respect to sort of your best guess as to what’s going to happen next, which itself is going to happen spontaneously; it, you and it and world, just keeps happening. But *anything* could happen next, maybe not with respect to the world out there (in some sense), but at least with respect to your current state of knowledge (in some sense). You just don't know. Falsely thin probabilistic tails give way to more appropriate, fat probabilistic tails. More and more, you come to be ready for more and more, the full distribution, not just part of it, your stance, your arrangement, appropriately, proportionally ready, costlessly, effortlessly. This is cosmic poise, cosmic opprtunism.
-
-And so, then, amidst the sometimes ghastly, horrible, painful, sorrowful, there is curiosity, engagement, play, delight, participation, readiness: a bright-eyed, let’s see what happens next.
-
-\*\*\*
-
-If you found anything above to be inconsistent or untenable or unsatisfying or false or unworkable, it’s just my own gestural snapshot of some interrelated things, and a low-dimensional projection into words, at that. Things will continue to unravel, settle, resettle for me over time. "Your thing," on your terms, which will, say, be a living, sensitive dialogue, ultimately not separate from the being and seeming and acting in and of the world, has to be legitimate and credible and consistent and/or constructively nebulous for you.
-
-And it can dialogue with other people’s things/deals, too, in comfort, love, intimacy, support, frustration, outrage, solitude, community, all of it, as part of that. Hell and heaven, eternity set aside, are other people, and all that.
-
-\*
-
-\* Whoops, also, I didn't mean to imply that anyone *has* to sort any of this out, whether by meditation or anything. And, also, nothing special has to happen in meditation or etc.. This sort of stuff "just pops out", all things being equal, in the course of correct practice.
-
-Notes for above:
-
-* An unintegrated fragment from an edit of an older section, that had different goals, that I want to re-work in a way that's seamless with this section: "Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts."
-
-**journal entry during one of my retreats, where people are optionally keeping public journals, written months after the above**
-
-[This kind of becomes self-aware like somewhere in the middle. Like I knew I was going to post it more publicly.]
-
-Mark L Today at 7:42 PM
-
-It’s been a normal-weird couple months of practice, just kind of carefully, patiently, satisfyingly, and often quite unpleasantly doing the thing. Not much going on except body unpleasantness that keeps winding up and working itself out. And just in the last couple of days, as these things do, things have tipped over into “whoa things”
-
-The past few months have been a lot of slow sort of impermanence/non-eternity kind of slowly infusing more and more of everything.
-
-And then, just this morning, there’s been some FINALLY really extra deep no really extra extra especially deep psychosexual stuff that’s FINALLY come into view. FINALLY, /shakes fist at sky/, lol, etc., ugh
-
-[content warning, death stuff, in thread]
-
-Thread:
-
-Mark L  7 minutes ago
-
-And also last night and this morning sort of more glimpses, alignment with “oblivion,” nothingness, nibanna-esque/cessation-y adjacent type stuff. Why is it so sweet/refreshing/good? What the heck?
-
-ramble I typed earlier:
-
-There’s this whole fucking world and physics and shit and tens of thousands of years of human history and the universe and the stars and life extension.
-
-And like kind of modulo suffering and horror I don’t want to fucking die, man, that seems really bad. So then like what the heck is this positive forgetting, oblivion, nirvana, why is it so good, refreshing, why is it such a relief? Why is it making everything better, making living more fun?????????????
-
-I think it’s sort of like one can intellectually know that “nothing” isn’t scary, it’s just nothing. But we viscerally recoil from death and just, like, want to LIVE, man. I wanna have grand adventures and beautiful relationships and see the stars go out.
-
-There’s also like this weird tension, too, with “acausal, steelmanned reincarnation,” or whatever. Like, life in a meaningfully transpersonal sense life DOES go on, even if you’re not there except you kind of are but aren’t but you are.
-
-But still, quote by problematic person:
-
-“I don’t want to achieve immortality through my work; I want to achieve immortality through not dying. I don’t want to live on in the hearts of my countrymen; I want to live on in my apartment.” —Woody Allen
-
-But then like meditation lets you (sooner or later) systematically systematically engage with nothingness. And, like, in a way that completely honors that visceral recoil, that completely honors wanting to LIVE (the incredible, incredible sorrow, sometimes, often, of life on earth completely withstanding), nothingness just really isn’t that bad, or something? There’s this visceral knowledge of that, too. It maybe can just make so much ok. Everything becomes lighter. (And this isn’t even the only thing that happens, in relation to suffering as such. That’s a whole other thing, even.)
-
-
-[<a href="#163h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
-
 
 # <span id="163a"></span><a id="surface-areas-and-the-radically-personal-draft" href="#surface-areas-and-the-radically-personal-draft">surface areas and the radically personal (draft):</a>
 
@@ -11567,6 +11416,192 @@ As with anything, working with this is something like, let yourself be as evil a
 
 [<a href="#158da1ph">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <span id="163"></span><a id="eternity-suffering-death" href="#eternity-suffering-death">eternity, suffering, death:</a>
+
+### contents:
+
+* (1) ...
+* (2) ...
+* (3) ...
+
+## (1)
+
+As you're exploring fear of death and preferences to not die, it's important to also look for (wait for), gather, honor, explore any parts, layers, anything that *wants* to die, longs for death, wants to "experience" nothingness, "thanatos drive," any drive towards dissolution, ceasing, cessation, etc. This could come from "within" and "without," shallow or deep, etc.
+
+## bonus <a href="#194">auxiliary practices</a>:
+
+### wanting life and death:
+
+Let the parts of you that want to die and the parts of you that want to live find each other.
+
+### worth living, won't let:
+
+Explore the things that, as best you can currently tell, that make life worth it, that make life worth living [belonging stuff, intimacy stuff, gender stuff, sex stuff]---that you won't let yourself have or pursue.
+
+
+## bonus <a href="#touchstones-sort-of-leaving-out-or-only-weakly-inte">"at least one sense in which"</a>:
+
+at least one sense in which you cannot ever experience the infinite future which is always in the future (if you buy into infinities or at least one sense of the future); you can only experience right now
+
+
+## (2)
+
+[draft status: in need of editing, as per usual]
+
+There’s ways in which the below is inconsistent, confused, and incomplete--it’s not the final word, I still have a LOT to learn, and nor could it ever be consistent and complete, in a deep, philosophical sense. It’s offered because it might be comforting and useful, for some people, as an interim touchstone, or it might help some good things happen fractionally faster, or it’s just interesting. As a recommendation, if you’d otherwise be inclined, don’t particularly try to "make any of this stick"; one sort of has to find their way to this kind of stuff on their own terms, and then you "don’t need to make it stick," as natural as trusting gravity.
+
+\*
+
+So, many people take refuge in eternity and essentiality, and many people fear death, meaninglessness, and suffering. We encountered those sorts of things somehow already within ourselves, and/or we picked them up from culture, or we confused other people’s stuff with our own, in deep or subtle ways.
+
+So let’s unpack all this a bit more and talk about pluses and minuses and antidotes.
+
+\*
+
+So, IF there’s *eternity* (timelessness, outside-of-time-ness) then, this is a bit of an incomplete straw, but it kind of follows that everything that has ever existed does always already forever exist and that everything has a fixed, eternal essence. There’s a nearby and simultanously compatible thing, which is "sempiternity," which means something like "an infinite future" (infinite timefulness, and, maybe necessarily along with that, an infinite past).
+
+Some problematic implications of eternity and sempiternity are that, in some sense, if anything’s wrong with your "essence," then, depending on how that works, there might be some sense in which it can never be fixed. You’ll be stuck with however you are, and if that’s bad, then that’s infinitely bad.
+
+Additionally, everything becomes infinitely important, any choice has massive stakes, infinite stakes, because it could compound forever without relief. Death might not offer any relief. Anything that produces ("intolerable") suffering (badness, loss, failure, rejection, loneliness, judgment, uncertainty) is potentially (infinitely) catastrophic. Sure, you *might* have infinite time to correct your mistakes, but what if, by some chain of events, you find you permanently cannot?
+
+\*
+
+Alongside eternity, as complements or alternatives, there’s also *mortality*, *death*, and *nothingness*.
+
+Problems with these are things like, if death results in nothingness then potentially everything is nihilist and meaningless. And then perhaps there’s no basis for action (or happiness, joy, etc.), perhaps because everything is ephemeral, impermanent--we can’t take it with us, including ourselves, we lose it all, as if it never was, so what’s the point?
+
+\*
+
+And then there’s *fragility* and *uncertainty* which sort of underpin the risks of eternity, mortality, and suffering, and kind of take the joy and spontaneity and enjoyment out of everything.
+
+\*
+
+And finally, all these things sort of get tangled together in potentially inconsistent ways. For example, say death if isn’t, for example, conceived as pure nothingness; perhaps it’s unfortunately conceived as sort of potentially an "in-between" state, of maybe trappedness, loneliness, fear, failure, and suffering, and maybe that’s "eternal."
+
+\*
+
+Ok, so what to do? Maybe just avoid thinking about all this as much as possible? What if you can’t not think about it?
+
+All of the below assumes lots and lots of meditation (or luck/fortune/grace/etc.).
+
+\*
+
+Some of the things that can happen over time are the following, and these are all sort of somewhat entangled together:
+
+Sempiternity and especially eternity can come to be sort of deeply recognized as phenomenologically/&#8203;pragmatically/&#8203;epistemically inconsistent. It’s not that one can no longer work/think/model with conceptual and cosmological and mathematical infinity or plan for far futures, but some "literal or functional seating" of these ideas, in the bodymind, can be judged and rejected.
+
+This is partly underpinned by insight into impermanence and/or/rather lack of essence and/or/rather interdependence, as in nebulous, empty, or provisional causes (laws), conditions ("starting" conditions), and spontaneity, through and through. Say it’s all just shimmering stuff or forces and fields or whatever, phenomena or noumena, on the border of differentiation and lack of differentiation. What perhaps follows is sort of a way in which anything like eternity or its implications becomes (literally?) ungraspable. (I might lose some physical or scientific or mathematical realists, here. See below for a tiny bit more on maps and territories and more.)
+
+But isn’t there *something like* eternity or infinite time or at least vast time? What sort of does the work of that? What kind-of-happens-is-sort-of [sic] an "eternal now" which is sort of immanent, sort of aconceptual. This "eternal now" is very unlike the other "eternity" thing, which perhaps sort of "lived elsewhere." (This also involves a "‘positive’ nowhere to go," "just this"-ness.) It’s sort of a better fit for the whole system.
+
+Sounds pleasant, maybe, but maybe literally false? And then what about meaninglessness and suffering and death?
+
+Meaninglessness sort of gets handled by aconceptuality, fluidity,  spontaneity, and provisionality. It becomes safe to rest in meaninglessness and pointlessness because there’s sort of something "beneath" them, so loss of meaning isn’t devastating and in need of scrupulous avoidance. And, further, one gains confidence that meaning is either inessential or is at least just always transient, because of systemic fluidity--one doesn’t get "stuck" that way, so it’s safer to go into, and there’s generally (nonmonotonically) something even better (more/different meaning) on the other side, and especially in the limit. (Spontaneity and provisionality will be further discussed below.)
+
+\*
+
+Fragility, uncertainty, suffering, and death sort of get handled in a few ways.
+
+Suffering has sort of both "practical" and "general" mitigations. Here we first talk about the "general" mitigation of sort of "no-self-y-ness." That’s not to say there isn’t often generally coherence and meaning, "self-ing," but if there’s a disruption of the self and/or "intolerable" suffering, there comes to be a deep way in which it’s "just happening" that doesn’t require a self. (This is sort of coextensive with "no things, including no self, never have/has been, never were, never will be." (More accurate might be "no stable, permanent, enduring things or self.") Like, if *you* are disrupted, then are you still *you*, there, suffering? Creepy? But, like, in a good/comforting way? And, further, at this point, the "whole system, self and everything" has become extremely good at sort of self-endorsedly "reconstituting" itself, if disrupted. One can kind of rest in an extraordinarily self-aligned and trustworthy spontaneity, because that spontaneity, over time, sort of comes to know just what to do.
+
+With suffering kind of more handled, it can be separated out from death and nothingness. When nothingness is disentangled from various confusions, it becomes much less of a big deal. It’s sort of just like deep sleep (which is still admittedly freaky to think about, for some people); in both cases "you’re not there," and it’s fine while it lasts. It’s not like you’re there and trapped or there and can’t breath, and so on: it’s just nothing. And, so then "nothing" is especially not some sort of "experientially eternal" bad thing. So, again, much less of a big deal.
+
+So then with suffering kind of more handled and nothingness kind of more handled, then death is kind of more handled--it’s the potential suffering leading up to death that can be super scary to think about, the ("intolerable") fear of (imminent) death and the dying, versus being dead (in the case that death is "experiential nothingness.") And, again, the spontaneous-no-self-just-happening-ness kind of helps with this.
+
+Further, the "eternal now" can have a "soothingly deathless" feel. Sort of, as in, "if death is nothingness then you won’t know that you’re dead," so you’ll always only ever be alive, and if "now is eternal" then you’re immortal-ish, etc.
+
+All of this is sort of positively entangled (and deeply related to) the "practical mitigation" of suffering, i.e. "deconditioning." People typically have a great deal of "cue-able" or triggerable suffering that gets worked through in the course of meditation. Prior to working through things, we are sort of uncontrollably, prereflectively, "already" freaked out by things before we become conscious of them. And so that happening less and less, for fewer and fewer things, is sort of part and parcel with the more general antidotes above.
+
+\*
+
+But, like, you *want* things, and lots of people, all things being equal, *prefer* not to die, *a lot*, at the very least. If death becomes even remotely less of a concern, won’t people be less good or vigilant about avoiding death? And isn’t that kind of inconsistent and so isn’t that a good reason to fear death and uncertainty?
+
+What kind of happens is a sort of "positive behavioral indifference" in that more and more things get handled and worked out such that "no matter what happens this is the best plan," "you’re fully up to date,’ in ultimately a deep and prereflective way. So, like regardless of whether you’re (uncertainly) going to die in five minutes or fifty years or one thousand years, your "plan" is intertemporally consistent with respect to all those contingencies. Given your context, limitations, uncertainties, knowledge, there’s both "nothing to change" and you’re fluidly "updating your plan" in each moment as more sensory evidence comes in. And so, you’re looking both ways before crossing the street, poking at life extension, somehow eating both healthy and deliciously, anything, in a way that fully accounts for your preferences. And "death" is kind of mostly-/semi-background handled in a way that doesn’t self-defeatingly loom large; it doesn’t suboptimally take up ongoing rumination time at the expense of other things; though, it might be innocuously and consistently threaded through things in a way that naturally comes up. All of this is perhaps one facet of "wisdom."
+
+\*
+
+This might all be well and good but what about something like *impingement* or *corruption*. Like what about mind control parasites (toxoplasma gondii) or Alzheimer’s or traumatic brain injury or whatever? What if I figure out a bunch of stuff about "eternity" and feel pretty good about that, but then I have a stroke and "lose" a bunch of it?
+
+First of all, the brain is kind of holographic and reconstitutive. Maybe surprisingly, if stuff reaches a "ground state," versus a person trying to make stuff stick, even traumatic brain injury, all things being equal, doesn’t necessarily mean a bunch of stuff is even transiently lost. And, even if "something" (loosely speaking) is lost due to physical or chemical insult, all things being equal, a "deeply settled meditative mind" will spontaneously work/flow towards rederiving/reconstituting what was disrupted (or will find something even better).
+
+But, in any general case, life is messy and death is messy.
+
+To be sure, people do have terrible brain things happen and, outside view, come through with unchanged personalities. But, sometimes a single microstroke will, outside view, radically alter a person’s personality or produce anosognosia, not to mention complexly related fatigue and anxiety (though, all things being equal, a long-term meditator does have a greater chance of "finding their way back," very very loosely and reductively speaking).
+
+Nothing remotely guarantees health, wealth, a "good death," sanity, neurological integrity, a long life, immortality, "thinking real good," hot sex, whatever. And, at the very least, at the time of this writing, meditation doesn’t free you from having a physical brain, subject to decay, demyelination, amoebas, car accidents, or anything.
+
+All that said, a lot of the "antidotes" above generally hold, even in these most challenging of "edge cases" or one’s concern about them. Deconditioning, over time, promotes constructive action and handledness of various contingencies, which obviates and "integrates away" unconstructive worrying. "Best plan"-ness allows for a rich, full life in the light of death, not self-limited by fear or accident (in relative relation to one’s beliefs about risks, tradeoffs, etc.) "No-self-y-ness" and "trustworthy self-aligned robust spontaneous self-reconstitution" helps with acute accident and illness and suffering. Lots of other metaphysical and cosmological and conceptual stuff gets refactored and cleaned up, over time, which mitigates all sorts of unnecessary suffering.
+
+But, yeah, there’s still uncertainty and finitude (modulo dissolving into Brahman, as it were, and eternal nows)--no guarantees about anything.
+
+So here’s yet a couple more globally interrelated things to throw into the mix: determinism and provisionality.
+
+Eventually, through life and meditation, one might get a deep sense of *determinism*, that, in some sense (pick your cosmology and physics and supervenience and etc.), everything can’t but happen exactly as it has happened, is happening, and is going to happen, via causes and conditions, states and evolution laws (or something kind of like this, in your metaphysics). You are happening just as you’re going to happen, things are happening just as they’re going to happen, including your choices and everything. What’s exactly going to happen is just exactly what’s going to happen. This can be kind of both terrifying and ultimately soothing, by turns, a particular kind of loss of control. But, eventually one can comprehensively sort of align with it, participate in it, deeply, stably, with no remainder. And there’s a deep freedom in that.
+
+Further, in that freedom, there is a certain provisionality. You really don’t know. Was what just happened ultimately good or bad? You really don’t know. What’s going to happen next? You’re "flowing forward," spontaneously, with respect to sort of your best guess as to what’s going to happen next, which itself is going to happen spontaneously; it, you and it and world, just keeps happening. But *anything* could happen next, maybe not with respect to the world out there (in some sense), but at least with respect to your current state of knowledge (in some sense). You just don't know. Falsely thin probabilistic tails give way to more appropriate, fat probabilistic tails. More and more, you come to be ready for more and more, the full distribution, not just part of it, your stance, your arrangement, appropriately, proportionally ready, costlessly, effortlessly. This is cosmic poise, cosmic opprtunism.
+
+And so, then, amidst the sometimes ghastly, horrible, painful, sorrowful, there is curiosity, engagement, play, delight, participation, readiness: a bright-eyed, let’s see what happens next.
+
+\*\*\*
+
+If you found anything above to be inconsistent or untenable or unsatisfying or false or unworkable, it’s just my own gestural snapshot of some interrelated things, and a low-dimensional projection into words, at that. Things will continue to unravel, settle, resettle for me over time. "Your thing," on your terms, which will, say, be a living, sensitive dialogue, ultimately not separate from the being and seeming and acting in and of the world, has to be legitimate and credible and consistent and/or constructively nebulous for you.
+
+And it can dialogue with other people’s things/deals, too, in comfort, love, intimacy, support, frustration, outrage, solitude, community, all of it, as part of that. Hell and heaven, eternity set aside, are other people, and all that.
+
+\*
+
+\* Whoops, also, I didn't mean to imply that anyone *has* to sort any of this out, whether by meditation or anything. And, also, nothing special has to happen in meditation or etc.. This sort of stuff "just pops out", all things being equal, in the course of correct practice.
+
+Notes for above:
+
+* An unintegrated fragment from an edit of an older section, that had different goals, that I want to re-work in a way that's seamless with this section: "Remember, you’re probably going to die. Remember that the universe may experience heat death. Remember that, in some sense, death and heat death are in some sense just ideas and concepts."
+
+**journal entry during one of my retreats, where people are optionally keeping public journals, written months after the above**
+
+[This kind of becomes self-aware like somewhere in the middle. Like I knew I was going to post it more publicly.]
+
+Mark L Today at 7:42 PM
+
+It’s been a normal-weird couple months of practice, just kind of carefully, patiently, satisfyingly, and often quite unpleasantly doing the thing. Not much going on except body unpleasantness that keeps winding up and working itself out. And just in the last couple of days, as these things do, things have tipped over into “whoa things”
+
+The past few months have been a lot of slow sort of impermanence/non-eternity kind of slowly infusing more and more of everything.
+
+And then, just this morning, there’s been some FINALLY really extra deep no really extra extra especially deep psychosexual stuff that’s FINALLY come into view. FINALLY, /shakes fist at sky/, lol, etc., ugh
+
+[content warning, death stuff, in thread]
+
+Thread:
+
+Mark L  7 minutes ago
+
+And also last night and this morning sort of more glimpses, alignment with “oblivion,” nothingness, nibanna-esque/cessation-y adjacent type stuff. Why is it so sweet/refreshing/good? What the heck?
+
+ramble I typed earlier:
+
+There’s this whole fucking world and physics and shit and tens of thousands of years of human history and the universe and the stars and life extension.
+
+And like kind of modulo suffering and horror I don’t want to fucking die, man, that seems really bad. So then like what the heck is this positive forgetting, oblivion, nirvana, why is it so good, refreshing, why is it such a relief? Why is it making everything better, making living more fun?????????????
+
+I think it’s sort of like one can intellectually know that “nothing” isn’t scary, it’s just nothing. But we viscerally recoil from death and just, like, want to LIVE, man. I wanna have grand adventures and beautiful relationships and see the stars go out.
+
+There’s also like this weird tension, too, with “acausal, steelmanned reincarnation,” or whatever. Like, life in a meaningfully transpersonal sense life DOES go on, even if you’re not there except you kind of are but aren’t but you are.
+
+But still, quote by problematic person:
+
+“I don’t want to achieve immortality through my work; I want to achieve immortality through not dying. I don’t want to live on in the hearts of my countrymen; I want to live on in my apartment.” —Woody Allen
+
+But then like meditation lets you (sooner or later) systematically systematically engage with nothingness. And, like, in a way that completely honors that visceral recoil, that completely honors wanting to LIVE (the incredible, incredible sorrow, sometimes, often, of life on earth completely withstanding), nothingness just really isn’t that bad, or something? There’s this visceral knowledge of that, too. It maybe can just make so much ok. Everything becomes lighter. (And this isn’t even the only thing that happens, in relation to suffering as such. That’s a whole other thing, even.)
+
+## (3)
+
+scratch:
+
+(see also: <a href="#subjectivity-self-identity-far-reaches">subjectivity, self, I-ness, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]</a>)
+
+"objective identity" / "you are a confluence of 'universe;" / any confluence will identify with it's identity as it were / any reconstitution as such will feel like "you" / let's see what it does, doesn't need anything o top of that or separate from that / not a soverign and crystalline soul / ...
+
+[<a href="#163h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 # <a id="emptiness-far-reaches" href="#emptiness-far-reaches">emptiness (far reaches) [stub/&#8203;scratch]:</a>
 
 I wouldn't exactly call emptiness "far reaches," but I'm adding it here for completeness. It's something that can be kinda intellectually understood pretty quickly, and I think one can get more and more of a hint of taste pretty early, and then maybe something unmistakeable as such (or not; it's ok) pretty soon, too.
@@ -11633,7 +11668,7 @@ not to much to say here maybe at this time just that impermenence is kind of an 
 
 [<a href="#158da1sh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="subjectivity-self-identity-far-reaches" href="#subjectivity-self-identity-far-reaches">subjectivity, self, I-ness, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]</a>
+# <a id="subjectivity-self-identity-far-reaches" href="#subjectivity-self-identity-far-reaches">subjectivity, self, I-ness, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]:</a>
 
 stub/scratch.
 
@@ -11650,6 +11685,9 @@ vs
 
 effortless, spontaneous, automatic, costless, peaceful, exciting, enjoyable…
 
+\*
+
+(copied from <a href="#eternity-suffering-death">eternity, suffering, death</a> :) "objective identity" / "you are a confluence of 'universe;" / any confluence will identify with it's identity as it were / any reconstitution as such will feel like "you" / let's see what it does, doesn't need anything o top of that or separate from that / not a soverign and crystalline soul / ...
 
 [<a href="#158da1th">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -13389,7 +13427,7 @@ All that being said, I agree that prior work, rigorous or not, does speed people
 
 Part of the reason is that Spinoza's rigor, Descartes striving for conceptual clarity, despite all attempts, (especially nonmathematical) language or concepts are inherently nebulous or "empty" (lacking essence)--see further below. Even when you detach "sign" (word) from "sense" (meaning), and are like cheese_1, cheese_2, cheese_3, drilling down to finer and finer distinctions and seemingly more and more elementary and foundational concepts, there's no there, there.
 
-[In part because "enaction" https://en.wikipedia.org/wiki/Enactivism]
+[In part because "enaction" https://en.wikipedia.org/wiki/Enactivism [Last accessed: 2022-09-02] ]
 
 A more articulated example besides cheese_n is like, how does one define dog? A five-year-old, an untrained adult, a dog breeder, a biologist, and a physicist will all have different "concepts" or "senses" for dog, or will have different "conceptual clouds" for what a dog is, and will use overlapping and different words to evoke those concepts.
 
