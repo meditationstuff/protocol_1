@@ -5521,6 +5521,7 @@ Notes:
 # <span id="134"></span><a id="meditating-by-coincidence" href="#meditating-by-coincidence">meditating by coincidence:</a>
 
 Mark  1 day ago
+
 have you ever heard of so-called "coding by coincidence" i think from dykstra? he’s kind of a dinosaur and it’s not the right thing to write careful proofs for one’s code before coding 99% of the time. but there’s a nice thing in there, something like:
 maybe hope
 yes experiment
@@ -11426,7 +11427,9 @@ As with anything, working with this is something like, let yourself be as evil a
 
 ## (1)
 
-As you're exploring fear of death and preferences to not die, it's important to also look for (wait for), gather, honor, explore any parts, layers, anything that *wants* to die, longs for death, wants to "experience" nothingness, "thanatos drive," any drive towards dissolution, ceasing, cessation, etc. This could come from "within" and "without," shallow or deep, etc.
+As you're exploring fear of death and preferences to not die, it's important to also look for (wait for), gather, honor, explore any parts, layers, anything that *wants* to die, longs for death, wants to "experience" nothingness, "thanatos drive," any drive towards dissolution, ceasing, cessation, etc. This could come from "within" and "without," shallow or deep, etc. There might be, (parts of) you might be, longing for death, longing for it to end, hoping for, aiming for, or surrendering to, flowing into a death funnel, death cascade, always racing towards death, tumbling towards death, towards nothing. 
+
+And/but do note things like this, too, as well, things maybe a bit like: “There has to be something good about death otherwise death is intolerably bad.”
 
 ## bonus <a href="#194">auxiliary practices</a>:
 
@@ -11442,6 +11445,8 @@ Explore the things that, as best you can currently tell, that make life worth it
 ## bonus <a href="#touchstones-sort-of-leaving-out-or-only-weakly-inte">"at least one sense in which"</a>:
 
 at least one sense in which you cannot ever experience the infinite future which is always in the future (if you buy into infinities or at least one sense of the future); you can only experience right now
+
+at least one sense in which anything [even with cryonics, longevity, rejuvenation technology] that's not flowing, tumbling, incessantly, ceaselessly, unerringly towards death and end, local finitude is in intellectual, cognitive, and behavioral error and suboptimality
 
 
 ## (2)
