@@ -7679,4 +7679,15 @@ Let yourself continuously / repeatedly fuck up until something not fucked up hap
 [<a href="#915auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="916auxiliary"></span><a id="baby-yourself" href="#baby-yourself">baby yourself:</a>
+
+Thus.
+
+comment:
+
+Also, act compassionately towards yourself, act lovingly towards yourself, pamper yourself, treat yourself...
+
+[<a href="#916auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
