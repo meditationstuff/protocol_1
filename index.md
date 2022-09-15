@@ -334,6 +334,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1th" href="#subjectivity-self-identity-far-reaches">subjectivity, self, I-ness, ego, identity, awareness, doer, watcher and all that (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1uh" href="#suffering-far-reaches">suffering (far reaches) [stub/&#8203;scratch]</a>
 		* <a id="158da1vh" href="#making-sense-far-reaches">making sense (far reaches) [stub/&#8203;scratch]</a>
+		* <a id="158da1wh" href="#self-love">self-love [stub/&#8203;scratch]</a>
 	* <a id="158eah" href="#on-meaning-goodness-badness-aboutness-intentionalit">on meaning, goodness, badness, aboutness, intentionality, secondary properties</a>
 	* <a id="158fah" href="#a-dialogue-on-wayfinding-homunculi-parts-goodness-a">a dialogue on wayfinding, homunculi, parts, goodness, agency, harmony, interdependence</a>
 	* <a id="158gah" href="#a-brief-dialogue-on-locality-and-concreteness">a brief dialogue on locality and concreteness</a>
@@ -11736,6 +11737,20 @@ There's "something" "beneath" all these, or that like emanates all the "correct"
 See also: <a href="#extreme-skill-and-extreme-standards">extreme skill and extreme standards</a>
 
 [<a href="#158da1vh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="self-love" href="#self-love">self-love [stub/&#8203;scratch]</a>
+
+[“ultimately” radical and “complete”, endorsed, motivationally and behaviorally safe and good and practical, ego-syntonic] self-love, self-compassion, self-alignment, self-acceptance, self-trust, self-safety, self-friendship, non-self-attacking, cf. general\~ "deprecated" non-vigilance, non-accounting for future self-attacking-involved regret or self-coercion
+
+cf. nonduality  
+cf. attachment  
+cf. fear of death  
+cf. self-hatred  
+cf. self-fear  
+cf. I-I, atman/brahmin  
+cf. “unified will” (mega scare quotes), one thing going in one direction [very misleading conceptually given no-self and nonduality and bottom-up-ness and “separation,” but there’s still something useful there on and off if held loosely etc. perhaps “apparent unified will” or something but it doesn’t feel like that on the inside in a not-bad-way? Anyway.]  
+
+[<a href="#158da1wh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="192b"></span><a id="miscellaneous-pith-notes" href="#miscellaneous-pith-notes">miscellaneous pith notes and tidbits:</a>
 
