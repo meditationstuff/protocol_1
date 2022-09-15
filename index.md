@@ -11744,6 +11744,7 @@ See also: <a href="#extreme-skill-and-extreme-standards">extreme skill and extre
 
 cf. nonduality  
 cf. attachment  
+cf. no-self, no doer, no witness, centerlessness, etc.
 cf. fear of death  
 cf. self-hatred  
 cf. self-fear  
