@@ -11740,11 +11740,15 @@ See also: <a href="#extreme-skill-and-extreme-standards">extreme skill and extre
 
 # <a id="self-love" href="#self-love">self-love [stub/&#8203;scratch]</a>
 
-[“ultimately” radical and “complete”, endorsed, motivationally and behaviorally safe and good and practical, ego-syntonic] self-love, self-compassion, self-alignment, self-acceptance, self-trust, self-safety, self-friendship, non-self-attacking, cf. general\~ "deprecated" non-vigilance, non-accounting for future self-attacking-involved regret or self-coercion
+[“ultimately” radical and “complete”, endorsed, motivationally and behaviorally safe and good and practical, ego-syntonic] self-love, self-compassion, self-babying, self-alignment, self-acceptance, self-trust, self-safety, self-friendship, non-self-attacking, cf. general\~ "deprecated" non-vigilance, non-accounting for future self-attacking-involved regret or self-coercion
 
+(In no particular order:)  
 cf. nonduality  
-cf. attachment  
-cf. no-self, no doer, no witness, centerlessness, etc.
+cf. unity [nebulous, non-reified, empty, non-eternal]  
+cf. wholeness [nebulous, non-reified, empty, non-eternal]  
+cf. completeness [nebulous, non-reified, empty, non-eternal]  
+cf. attachment (as in pop psych attachment theory)  
+cf. no-self, no doer, no witness, centerlessness, etc.  
 cf. fear of death  
 cf. self-hatred  
 cf. self-fear  
