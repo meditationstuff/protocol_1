@@ -122,7 +122,7 @@ All of these are worth checking out:
 * https://sashachapin.substack.com/p/review-meditation-from-cold-start (book review; some parts endorsed, some not, but overall net good and 100% gratefully acknowledged and appreciated!) [Last accessed: 2022-09-01]
 * https://github.com/meditationstuff/protocol_1/ (the source code and content that generates you're reading now!)
 * https://rothos.github.io/protocol_1/ (nicely formatted and navigable, outdated, but ***has links to still-useful companion tools***!) [Last accessed: 2022-09-01]
-*  1-paragraph summary of whole document [image text] https://twitter.com/Malcolm_Ocean/status/1574463817177878529
+*  1-paragraph summary of whole document [image text; alt text in thread] https://twitter.com/Malcolm_Ocean/status/1574463817177878529
 * https://docs.google.com/document/d/1L7PooFLqaPeNfrs9_sT2JYXSxkJWJr1gP314uHM4ujc/edit (ongoing "in plain english") [Last accessed: 2022-09-01]
 
 <span id="hyper-linking-deep-linking-anchor-linking-soft-guarantees"></span> 
