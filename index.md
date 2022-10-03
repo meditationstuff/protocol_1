@@ -8449,7 +8449,7 @@ And when one gets there, one has the optionality, maturity, reflectiveness to (s
 
 (Importantly, someone might be moved to express anguish, pain, sympathy, something, from the very bottom of their soul. They might cry, they might display and experience(!) strong, contextually appropriate and ego-syntonic emotion, the felt right emotion for self or occasion. Not a zombie. Sensuous, feeling, alive, self-aware. But that’s not the same as suffering. Is anguish without suffering still anguish? Eh, details/words. Probably straightforward to work out when one gets there.)
 
-*
+\*
 
 Suffering goes down via/by many vectors, little by little and sometimes in (nebulous) stages. One is a sort of "self-reflexive uncoiling," or diaphanous "laying flat," almost like it was a "trick" of perception, and, sensation, including sometimes pain, remains but (there is) nothing left to suffer (this can be by degree, or piecemeal, or in stages, too); yet, even then, or along the way, there can sometimes still be I-ness or subjectivity, and that's fine! (((((((And all this can (generally) only (stably) happen when it's safe, by agreement, when it's really, truly safer, better than the alternatives, in terms of cares, concerns, safety, etc. ((((((((as in no shortcuts, no corner-cutting, have to go back, etc., etc., etc.))))))))))))))))))))))))
 
