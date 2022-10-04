@@ -5830,6 +5830,21 @@ All of this is easier said than done, though. Sussing out where one really does 
 
 So there may well be interim solutions, stopgaps, shims, positive / constructive coping, etc. And of course action in the world, seeking help, omni-anything, 100% as seamless part of all this.
 
+\*
+
+[lightly edited:]
+
+> this can get tangly and pushy, sometimes better to do ice cream and video games, etc., etc., etc., but sometimes it can be good to really dialogue: how can i help, can you help me clarify your concern, how can we work together?
+
+> or just honoring, with tremendous charity, the part(s) of you that are like "hey this really, really, really, really contemporaneously real-time matters" ---
+
+> can sort of prime the pump:
+
+> "yeah, there really is a tiny chance of [X], yeah I might want to take a sub 15-minute action wrt to [Y], yeah i do really want to understand [Z] and there really is minute-by-minute signal on my twitter feed, even if it's noisy and high variance" (just drawing from current events)
+
+> can meet things like twitter, news sites, etc., over and over again with good-faith self-charity "hi self yes this is really important to you/us, let's do it together, i see you, i'm with you" can really facilitate integration sometimes.
+
+
 [<a href="#138ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="139"></span><a id="a-gentle-onramp" href="#a-gentle-onramp">a gentle onramp:</a>
