@@ -257,6 +257,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="137ah" href="#x-desires-fulfillment-transformation-discussion">x-desires, fulfillment, transformation, discussion</a>
 	* <a id="137bh" href="#taking-refuge-can-reshape-the-local-environment-and">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
 	* <a id="138h" href="#on-falling-asleep-and-utilizing-sleep">on falling asleep and utilizing sleep</a>
+	* <a id="138ah" href="#note-on-letting-go">note on letting go</a>
 	* <a id="139h" href="#a-gentle-onramp">a gentle onramp</a>
 	* <a id="140h" href="#good-ness-bad-ness">good(ness) bad(ness)</a>
 	* <a id="141h" href="#some-big-useful-concepts">some "big" useful concepts</a>
@@ -5816,6 +5817,20 @@ Note that metaphysically speaking, for what it's worth, I'm aware of at least on
 
 
 [<a href="#138h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="note-on-letting-go" href="#note-on-letting-go">note on letting go:</a>
+
+Re how to "let go" of looming, worrisome stuff that one doesn't necessarily have a lot of control over (and really with respect to letting go anything; this is sort of fully general):
+
+"I think one is holding on bc a part of oneself still senses (correctly or incorrectly) there are things one can do to continue to mitigate, and once one has really done everything they can do (taking into account creative solutions, real limits, opportunity costs, and any mistaken ability to influence, etc.) then the bodymind completely puts it away until new information comes in or there's an intermittent maintenance action that needs to be taken."
+
+See also the "HAS principle," and there's a bunch of stuff that works kinda this way, cf. being willing to have bad stuff "forever" actually loosens it, and stuff like that.
+
+All of this is easier said than done, though. Sussing out where one really does have fine-grain or overt actions they can take or realizing they actually don't is non-trivial and nebulous---a real meditation project that might be bottlenecked on an arbitrary number of other nebulous things. And coming to know and accept bad stuff (or not!) can be the work of many thousands of hours.
+
+So there may well be interim solutions, stopgaps, shims, positive / constructive coping, etc. And of course action in the world, seeking help, omni-anything, 100% as seamless part of all this.
+
+[<a href="#138ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="139"></span><a id="a-gentle-onramp" href="#a-gentle-onramp">a gentle onramp:</a>
 
