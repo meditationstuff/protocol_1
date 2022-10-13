@@ -424,7 +424,7 @@ Another way a totalizing memetic object can work is just by being very long and 
 
 The end result is that something might be (at least temporarily) more salient, or mentally or behaviorally, effecting in a person's life than they would retrospectively choose.
 
-There's sometimes a second component to totalizing memetic objects, which is "Fear Uncertainty Doubt" (sometimes abbreviated or initialized as FUD). FUD is sometimes a non-specific warning about possible bad outcomes, or vague information that vaguely might imply possible bad outcomes. The nonspecificity and vagueness are very important because they then a person is affected in broader ways. Someone who has been subjected to FUD sometimes experience a chilling effect on experimentation, play, joy, and so on, because, reflectively or unreflectively, they're are a bit more inclined towards vigilance and caution, for better or worse, justifiedly or unjustifiedly.
+There's sometimes a second component to totalizing memetic objects, which is "Fear Uncertainty Doubt" (sometimes abbreviated or initialized as FUD). FUD is sometimes a non-specific warning about possible bad outcomes, or vague information that vaguely might imply possible bad outcomes. The nonspecificity and vagueness here are non-accidental because then a person is affected in broader ways. Someone who has been subjected to FUD sometimes experience a chilling effect on experimentation, play, joy, and so on, because, reflectively or unreflectively, they're are a bit more inclined towards vigilance and caution, for better or worse, justifiedly or unjustifiedly.
 
 Further, FUD doesn't even have to have language like "you might not realize it" or "you might not be able to tell," but language like that can be particularly (self-)undermining, cf. "uncertainty" and "doubt." A person might question themselves more in unproductive ways or be more receptive to authoritative claims, helpful or not. As above, it can cause a person to reduce their behavioral repetoire, including in the space of assertiveness, self-care, and self-regulation.
 
@@ -11852,6 +11852,9 @@ cf. “unified will” (mega scare quotes), one thing going in one direction [ve
 * [...] might be worth mentioning that someone will get increasingly efficient and meta efficient at exploring the search space as they go, even as big as it is. "meditation proceeds by exhaustive process of elimination; and this is sufficient to do the job; it's enough", if not hit by meteor or bus, etc. etc.
 
 * [...] might be worth calling out how problematic "effort" is, as well as being careful to not "burn in" effort," and how tacking towards effortlessness (pushing with a feather and then even less" is an extraordinary heuristic (and yet still just a heuristic) for going in the right direction
+
+* There is a reflexive thing at the heart of suffering, but I think there’s maybe a few of these. There’s the suffering one, and then there’s a like “armature of attention” one, and then there’s a “sensations trying to control other sensations” one. The uncoiling of each of these (possibly still in progress) have felt qualitatively really really different. Like the “qualia feel” is really different, though they all have a very similar flavor of reflexiveness or loopiness, manifest in their (also similar-feeling) “uncoiling” or untwisting. Anyway fwiw  (edited)  
+Er qualia-feel is really different but still all seamless something something, can-in-fact-get-there-from-here etc etc
 
 
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
