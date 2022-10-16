@@ -4109,6 +4109,7 @@ Notes:
 * “leaving-/left-out”(-ness)
 * {“unnecessarily inherent” bypass-y/-ing}—ness
 * "extra"
+* "rushing away"-ness (cf. vs. e.g. "just this"; "this is it"); (cf. haste, etc., above)
 
 Notes:
 
