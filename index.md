@@ -4647,6 +4647,28 @@ Q.E.D.
 
 [I would add, in addition to active and passive, there is sort of a third between them, "participation," after another meditation teacher.]
 
+\*
+
+20221017 [ht xx]
+
+volitionality is sort of a separate axis
+
+very very messy:
+
+re main practices:
+
+the idea is sort of to infrequently(?)/sometimes(?)/experimentally(?) only enough to redo-to-undo, which could be a lot, to make sure the system knows about them, sort of. and then ideally the system does them spontaneously, bottom-up, as needed, more and more. and deliberateness itself can kind of become spontaneous.
+
+this isn't broken out super well in my system and that's why there's a section on alternative schemas in the doc, to try to get at some of this the bottom-up type stuff.
+
+it's almost like there's:
+
+* bottom-up bottom-up
+* top-down bottom-up (i.e. facilitating bottom-up)
+* bottom-up top-down (i.e. having experience of spontaneously doing "top-down" stuff)
+* top-down null
+
+or something
 
 [<a href="#111h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
