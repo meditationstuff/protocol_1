@@ -1307,6 +1307,18 @@ https://en.wikipedia.org/wiki/Counterfactual_conditional
 
 ---
 
+* Adams, Kenn. How to improvise a full-length play: The art of spontaneous theater. Simon and Schuster, 2010.
+* Wood, James. How fiction works. Farrar, Straus and Giroux, 2008.
+* Chamberlain, Jill. The nutshell technique: Crack the secret of successful screenwriting. University of Texas Press, 2016.
+* Mercurio, Jim. The Craft of Scene Writing: Beat by Beat to a Better Script. Quill Driver Books, 2019.
+* Christensen, Francis. "A generative rhetoric of the sentence." College Composition and Communication 14.3 (1963): 155-161.
+* Christensen, Francis. "A generative rhetoric of the paragraph." College Composition and Communication 16.3 (1965): 144-156.
+* Hamburger, Käte. "The logic of literature." (1973).
+* Cohn, Dorrit Claire, and Dorrit Cohn. Transparent minds: Narrative modes for presenting consciousness in fiction. Princeton University Press, 1978.
+* Gulino, Paul Joseph. Screenwriting: the sequence approach. Bloomsbury Publishing USA, 2013.
+
+---
+
 This is good/bad/adjective. ... I didn't mean to imply that the others were bad/good/opposite/etc. I mean this is *especially* good/bad/adjective.
 
 This is better/comparative/etc.. ... I didn't mean to imply that the others weren't good/etc. I mean this one is *even* better/comparative/etc.

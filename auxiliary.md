@@ -7689,5 +7689,10 @@ Also, act compassionately towards yourself, act lovingly towards yourself, pampe
 
 [<a href="#916auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="917auxiliary"></span><a id="don-t-immediately-leave" href="#don-t-immediately-leave">don't immediately leave:</a>
+
+Find the exits, the edges, the ways out, but don’t leave immediately. (Don't make yourself stay. Just hang out for a bit if you find you can, and it's ok.)
+
+[<a href="#917auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
