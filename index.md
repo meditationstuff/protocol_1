@@ -392,6 +392,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="188h" href="#epistemic-aesthetic-rigor-stub">epistemic-aesthetic rigor [stub]</a>
 		* <a id="188ah" href="#calling-word-salad-phenomenon">calling word salad phenomenon</a>
 		* <a id="188bh" href="#brief-notes-and-qualifiers">brief notes and qualifiers</a>
+		* <a id="188ch" href="#path-dependent-mediate-conclusions-and-provisionalities">path-dependent mediate conclusions and provisionalities</a>
+		* <a id="188dh" href="#the-aboutness-experience-directly-itself">the aboutness experience directly itself (note---this is very general and could also go in 'lists and more' proper)</a>
 	* <a id="189h" href="#relating">relating</a>
 		* <a id="190h" href="#in-relationship-foreclosing-legacy-of-past-interact">in-relationship foreclosing legacy of past interaction [stub]</a>
 	* <a id="191h" href="#creating">creating</a>
@@ -13455,7 +13457,7 @@ Terms of art:
 
 [<a href="#188ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="brief-notes-and-qualifiers" href="#brief-notes-and-qualifiers">brief notes and qualifiers</a>
+# <a id="brief-notes-and-qualifiers" href="#brief-notes-and-qualifiers">brief notes and qualifiers:</a>
 
 (from: <a href="#touchstones-sort-of-leaving-out-or-only-weakly-inte">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>)
 
@@ -13467,6 +13469,77 @@ at least one sense in which there's nothing to figure out
 
 [<a href="#188bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="path-dependent-mediate-conclusions-and-provisionalities" href="#path-dependent-mediate-conclusions-and-provisionalities">path-dependent mediate conclusions and provisionalities</a>
+
+Consider a collection of evidence arranged as nodes in a computer science tree (in the technical / theoretical abstract data structure sense). Say all of that tree of evidence is already collected, sort of already in your (body)mind, based on previous experiences. But you haven't "integrated" some or any of it, yet. So you start experientially integrating it by "walking the tree," starting from the root. You can go from piece of evidence to piece of evidence along only fixed routes. If you want to get to evidence on a "far away sub-branch" you have to backtrack back some ways towards the root of the tree so you can pick a different branch going back down again somewhere else.
+
+Say evidence is sort of already semi-arranged in a confirmatory way. Like if you start forming a conclusion, based on evidence you encounter, as you touch different nodes / pieces of evidence, as you go down away from the root along some route, this tends to reinforce the concluson you're already forming / holding. But if you'd made a different choice farther upstream, gone down a different "large branch" you might have been reinforcing a different conclusion. If you sort of integrate everything along / within a particular subbranch, when you finally backtrack and start going down different branches, you'll start encountering anomalies and disconfirmatory evidence or at least nuance for your original conclusion.
+
+And it's only when you've walked the whole tree do you sort of eventually get to a fully nuanced and as-best-as-you-can conclusion (for now), that's sometimes pretty different than at least the first half of your evidence integration. "Worst case" (which is sometimes harmless), the eventual last couple pieces of evidence you recollect and integrate completely change the conclusion that you had had the whole previous rest of the time.
+
+So *mediate* conclusions might be all sorts of things or in all sorts of directions depending the different routes you take, though the "final" (mega scare quotes) conclusion will the "same" once you've walked the entire tree, no matter the order that you touched the nodes.
+
+For what it's worth I wouldn't reify the above too much; you might experience evidence, collecting, conclusions, recollecting, integration, backtracking, etc., in different ways, in some phenomologically-unique-to-you way, maybe not "as such," at all.
+
+But in any case these kinds of experiential or abstract dynamics (which may not be surprising in the abstract) do come up quite a bit in meditation, in the short run and long run and very long run.
+
+Over time, encountering this sort of thing in the big and the small, "conclusions" in general are held more and more lightly, more and more provisionally and strategically, and one gets more and more sensitivity to the likelihood that future evidence (already collected, or not) will change currently held positions (anticipations, predictions, expectations, beliefs, stances, embodiments, etc.). So one becomes more sensitive to the "sensitivity" of current results to future evidence, experiences, surprises, recollections, remembrances, encounters, etc.
+
+[<a href="#188ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="the-aboutness-experience-directly-itself" href="#the-aboutness-experience-directly-itself">the aboutness experience directly itself (note---this is very general and could also go in 'lists and more' proper):</a>
+
+[Some anonymous expressed credit here.]
+
+[The first couple paragraphs might not make sense on first reading..]
+
+There's this really general thing in that our experiences are often "about" other experiences or "things in the world." I often talk about meaning-laden and non-meaning-laden sensations, where meaning-laden might or might not be somewhat felt-sense-y (cf. Eugene Gendlin) or unsymbolized thinking (cf. Russel T Hurlburt), but those can be too reifying; it's a lot more than any of that and a lot more are nebulous and often diffuse than that, etc. etc. (cf. also "intentionality" and "intensionality" in the philosophical technical senses, for better and worse)
+
+Here, I'm especially but not exclusively on focusing non-meaning-laden sensations (but again also too meaning and meaning-laden-ness and out-there-ness and so on; really it's still about the whole seamless package of everything all at once; anyway.)
+
+So anyway, examples: take curiousity, where you have a whole complex experience that includes feeling curious and potentially lots of other stuff; or confusion, where you have a whole complex experience that includes feeling curious and potentially lots of other stuff; anxiety, anger, other feelings..
+
+This also especially-especially includes experiences that are about things but you're not sure what the "referent" is or you're not sure *what* it's about, or it's like something that has telos, that's unfinished, that might or might not be currently moving forward you don't know how to finish it. So like a worry that you're missing something, a worry or concern that you're leaving something out, a vague feeling that you've been bad but you don't know why, a vague intuition, and so on. Anxiety might be a good example, here, too, where there's often an uncertainty component (not to reify anxiety as one particular "thing" with particular rules and features and parts..) Curiousity is a good example here, too; curiousity is maybe sort of the "positive version" of anxiety along some axis. Or you have a particular very strong / intense feeling but you're not sure why you're feeling it. Or you have doubts, concerns, felt stuckness, etc. Or you're worried that you're going to forget something; or you're worried that something won't turn out ok.
+
+Experiences that have "aboutness" could also be said to have "elsewhere-ness / elsewhereness."
+
+So, one way to engage with these experiences is to let yourself (or to find yourself) drawn into, or already within, like whatever contingent, karmic telos is associated with those things, e.g. thinking, figuring, figuring out, pondering, wondering, imagining, worrying, coming up with contingency plans, calculating, arguing, etc.
+
+As a brief aside, even *if* those sorts of things (thinking, figuring...) are somewhat heady, there is nothing wrong with that kind of headiness / headyness / head-y-ness! Also none of those things are automatically heady; all those things can happen too in very-far-along-in-meditation-very-embodied-etc. sort of way. But, anyway, even the heady versions are ok, for redo-to-undo purposes or just straightforwardly.
+
+In any case, there's another thing that one can do (besides being telically carried along) that's sometimes useful *and that is sort of exploring directly the experience itself that comprises the "phenomenology" of that particular aboutness as such, the direct "phenomenology" of that particular elsewhereness as such.* (This might not make sense on first reading. There are sort of examples below.)
+
+Please don't try to be too sharp or precise or narrow about this---this is nebulous and there's no there, there, exactly. It might be a little bit different each time and always vague and in motion and etc. So I'm not saying be messy or haphazard but I'm also saying be careful to not be tight or over-reifying in conceiving or doing or looking or etc. Be careful not to leave things out "well this is aboutness-ness and this isn't"---nah, just like make sure there's aboutness somewhere around there somewhere. And don't worry too much about whether you're really experiencing the aboutness "as such," and etc.. Loose, not narrow, not pre-conceiving.
+
+It's maybe just a little bit of emphasis on a particular aspect of experience that's seamless and nebulously blending with all other experience.
+
+Anyway, you might ask how do you know you're worried, how do you know you're worried about forgetting something, how do you know you're jealous, or what's the experience of jealousy. That kind of or quite usefully can point in the right direction. But in any case past the questions there's just the experience itself.
+
+It'll maybe obvious right away how to do this, or it's something you've always done (and surely it is something that most people do for some things very often). This is likely something you do sometimes even if you don't think about it this way. If it's not obvious, it becomes more obvious over time as one's sense of emptiness and luminosity generally grow over thousands of hours. Even if you know how to do this it won't always be available (either in terms of "levers" or "bandwidth"), and it's availability or not isn't any particular indicator of anything good or bad, in general. Again, this is sometimes useful but it's not always useful even if it is available.
+
+And so you might find exploring this, a little, nebulously, vaguely, as such might be useful. Maybe immediately or after a few minutes or days, if you give it some patience and space while still keeping it company, hanging out, etc.
+
+Some pithy, cryptic notes to myself for this section:
+
+"emotional judo etc. when things settle and still the emotion/feeling/concern itself is data/signal, etc."
+
+"judo: "over time one's concerns and doubts and experience of stuckness itself become highly psychoactive friends" -- always a hook to find something to do, re concern, uncertainty, meta-concern, etc. [also enjoyment, etc. become critical parts of practice]"
+
+Another way to think about this is "there's always something [there] to work with"; "if you're not done there's never not nothing there" (but sometimes, often, if there's not much too do or you can still be tapped out for the day, you should go take a walk, or whatever!) see e.g. (<a id="daily-limits" href="#daily-limits">daily limits</a>). 
+
+In summary, "aboutness is indirect in its aboutness" but "aboutness it itself as such can be directly investigated," loosely as a source of data or as a signal to the rest of the system's endogenous and spontaneous and long-range problem-solving. (not to reify direct or investigate or problem-solving, etc.)
+
+As the system becomes more structurally fluid, this becomes more likely a thing to be useful.
+
+More draft notes:
+
+"Add to indirection is direct, exp itself is data judo"
+
+"Any experience that’s about something else, reaching for some thing else reacting to something else. That has elsewhereness. SOMETIMES not all the time can. Sometimes better to engage towards distal thing etc. but if things are stuck or etc. sometimes."
+
+"About is itself [sic] ultimately becomes a direct source of data or is adjacent / proximal to such [or a system impetus indirecty as such [sic]]. "
+
+[<a href="#188dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="189"></span><a id="relating" href="#relating">relating:</a>
 
