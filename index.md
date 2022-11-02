@@ -7001,6 +7001,8 @@ But yeah I think the cns is in some sense 100% type safe. Maybe it's both type s
 
 Again I could be super wrong about something, here. Ridiculous degrees of bottom-up precision and specificity and light-touch-ness become more and more spontaneously manifest over time, with patience and care. Can still have smash-y things alongside that all the way to the end before smash-y-ness finally unravels. It still works. It's still enough.
 
+There is some equanimity reuse, sometimes a lot, but usually have to make additional passes over it because it’s not quite right and eventually something precise has to happen. And/but/so/like there is a sense too in which the system does generally settles and calms, over time, but I think this is like idk 85% effect not cause and like 15% equanimity reuse that is still generating debt around the edges until finally that 15% starts shrinking to zero or smthg-ish.
+
 \*
 
 [This is another example of "lock-and-key" type stuff. The below is a response to a question about why moves, techniques, practices, etc., work for a while and then "stop working."]
