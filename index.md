@@ -6932,7 +6932,7 @@ And there can still be jamming, getting stuck, needing to wait something out or 
 
 There are still "last gasps" and "just as bad as it ever was"-type experiences, through and through.
 
-Techniques, methods, moves, whatever you were doing will still stop working or only work once or only work intermittently, and so on. That's normal, through and through. Even when you've mostly let go of all of that, most of the time and you're sort of "just wayfinding," even if you do find yourself sort of back in the same "*place*", that doesn't necessarily, sometimes, often mean you can start once again "*doing*" the same thing you were doing when you were "there" last. Sometimes you can. And also "doing" might be non-doing, and undoing, and and so on, of course.
+Techniques, methods, moves, whatever you were doing will still stop working or only work once or only work intermittently, and so on. That's normal, through and through. Even when you've mostly let go of all of that, most of the time and you're sort of "just wayfinding," even if you do find yourself sort of back in the same "*place*", that doesn't necessarily, sometimes, often mean you can start once again "*doing*" the same thing you were doing when you were "there" last. Sometimes you can. And also "doing" might be non-doing, and undoing, and so on, of course.
 
 But more and more it's sort of like walking a one-dimensional line, a one-dimensional curve along a high dimensional surface, or something, one (non-)doing, spontaneous, full-embodied step in front of another.
 
@@ -11922,7 +11922,7 @@ cf. "positionless position" cf. groundlessness and no */fixed/* goal(s)
 
 scratch:
 
-* knowing of the self versus knowing of the world cf. behindness / knowingness with respect to "sensations" / body sensations versus self sensations versus world sensations and and [at first] siloed knowingness for each thereof
+* knowing of the self versus knowing of the world cf. behindness / knowingness with respect to "sensations" / body sensations versus self sensations versus world sensations and [at first] siloed knowingness for each thereof
 
 [<a href="#158da1rh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -12393,7 +12393,7 @@ Maybe some people get lucky, their weirdness or brokenness or obsession or conti
 
 So are we stuck with this? (I don’t think so, though it might be project of thousands of hours, and sometimes a risky one, yadda yadda, for long-time readers of this blog.)
 
-I want to note some equivocation here, too. Sometimes we experience what might be called a conflict of the ego, like the “I” wants two different things or wants to want or wants to not want something. Sometimes the conflict may seem to be within the “me,” conflicts between impulses or urges. And sometimes the conflict may be between the “I” and the “me,” or even I and not-I, me and not-me. In any case, there’s theoretical and and phenomenological and neurological richness, that I don’t want to gloss over, but is beyond the scope of this post.
+I want to note some equivocation here, too. Sometimes we experience what might be called a conflict of the ego, like the “I” wants two different things or wants to want or wants to not want something. Sometimes the conflict may seem to be within the “me,” conflicts between impulses or urges. And sometimes the conflict may be between the “I” and the “me,” or even I and not-I, me and not-me. In any case, there’s theoretical and phenomenological and neurological richness, that I don’t want to gloss over, but is beyond the scope of this post.
 
 ### unification
 
