@@ -288,6 +288,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="154h" href="#dark-phenomenology-and-presence-absence-conceptions">dark phenomenology and presence/absence conceptions</a>
 	* <a id="154a1h" href="#prenatal-experiences-the-fetal-position-and-other-b">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 	* <a id="154ah" href="#daily-limits">daily limits</a>
+	* <a id="138a1h" href="#picking-up-where-you-left-off">picking up where you left off</a>
 	* <a id="154a2h" href="#menstrual-cycle">menstrual cycle</a>
 	* <a id="154a2ah" href="#equanimity-no-such-thing-and-lock-and-key-stuff">equanimity, no such thing and lock-and-key stuff</a>
 	* <a id="154a3h" href="#autonomic-vulnerability-autonomic-nudity">autonomic vulnerability, autonomic nudity, autonomic alignment (rough draft)</a>
@@ -6912,6 +6913,38 @@ So this is one thing to keep an eye out for, in terms of meditative rhythms and 
 
 [<a href="#154ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="picking-up-where-you-left-off" href="#picking-up-where-you-left-off">picking up where you left off</a>
+
+When one first starts meditating, like the first day, the first few months, longer, it's sort of chaotic. It's sometimes like no meditation session is like the next; the "landscape" you're "dropped into" seems different each time.
+
+Over time, things become relatively more still and settled (but still appropriately labile and alive), relatively quieter and quieter, on average, more and more, lots of fractal tendrils of the state space are explored (and eventually they all need to be explored, cf. meditation proceeds by exhaustive process of elimination, and often many times, and in loosely the right-ish ordering, and without force, and things untwists, de-layers, and the whole thing flattens and thins and etc.)
+
+So what can happen is one starts to get a sense of "picking up where one left off" each time they sit down to meditate (or stand up or etc.).
+
+It's never exactly the same place (what does that even mean, etc., cf. impermanence), and it might be a rotating short list of "places," and usually things will still settle, shift, and move a bit, in good or neutral ways, in between meditating.
+
+But things are just sort of long-run ever-less-chaotic and more sort of deterministic-feeling, foregone(?), softly and lightly inexorable (inexorable yet without force or managing and etc.).
+
+There are still surprises, so many on and off surprises, of course. That's sort of critical, surrendering / falling into that, in any case, cf. effortless and spontaneity.
+
+And there can still be jamming, getting stuck, needing to wait something out or sleep on it (see daily limits section). There can be accidental layering and need to sort of go back and redo.
+
+There are still "last gasps" and "just as bad as it ever was"-type experiences, through and through.
+
+Techniques, methods, moves, whatever you were doing will still stop working or only work once or only work intermittently, and so on. That's normal, through and through. Even when you've mostly let go of all of that, most of the time and you're sort of "just wayfinding," even if you do find yourself sort of back in the same "*place*", that doesn't necessarily, sometimes, often mean you can start once again "*doing*" the same thing you were doing when you were "there" last. Sometimes you can. And also "doing" might be non-doing, and undoing, and and so on, of course.
+
+But more and more it's sort of like walking a one-dimensional line, a one-dimensional curve along a high dimensional surface, or something, one (non-)doing, spontaneous, full-embodied step in front of another.
+
+Even though this is a nice and confirmatory thing to keep an eye out for, I hesitated to write about it for a while, because, first, it's not necessary for one to experience this for there to be actual progress. But also, more importantly, people sort of naturally try to do the "wrong" version of this, and I didn't want to accidentally reinforce it---
+
+So, "picking up where you left off" is a natural thing, you sort of *find yourself*-ish back in the same place. But you "shouldn't" try to "make" yourself come back to the same place, or you shouldn't try to "bookmark" your position or to "make stuff stick" (as discussed elsewhere). If you're sort of "seeking a ratchet" or trying to "make it impossible you'll 'backslide'", this is almost certainly layering and needle-threading. Instead, the "real thing" should be a loose, natural thing that sort of creeps up on you over time.
+
+Finally, as with anything, while it's a nice heuristic to keep an eye out for, it's not always optimal. There can still sort of be challenging "bridgings" and "integrations" where you've kind of been in one area for a while and it's getting tighter and tighter, fewer and fewer degrees of freedom, and there's finalllllllyy a relatively broad untwisting and two surface areas come into contact with each other (many other things could happen too, and structurally not everyone will ever experience this). So then if a person *hadn't* sort of naturally found themselves picking up where they left off, again and again-ish over a long period of time, or had maybe found themselves doing that with a "longer shortlist," or had had a bit more varied experiences, then some periods of integration might have been smoother, less rocky, less nonmonotonic, less preceded by some jamming. A more balanced "approach".
+
+But, generally, "picking up where you left off"-ish, relatively speaking, all things being equal, vaguely, generally, picking up vaguely in the neighborhood of where you left off, some of the time, can be an even nice, pleasant thing that is sometimes noticeably more of a thing over time.
+
+[<a href="#138a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="154a2"></span><a id="menstrual-cycle" href="#menstrual-cycle">menstrual cycle:</a>
 
