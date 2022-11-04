@@ -6942,7 +6942,11 @@ So, "picking up where you left off" is a natural thing, you sort of *find yourse
 
 Finally, as with anything, while it's a nice heuristic to keep an eye out for, it's not always optimal. There can still sort of be challenging "bridgings" and "integrations" where you've kind of been in one area for a while and it's getting tighter and tighter, fewer and fewer degrees of freedom, and there's finalllllllyy a relatively broad untwisting and two surface areas come into contact with each other (many other things could happen too, and structurally not everyone will ever experience this). So then if a person *hadn't* sort of naturally found themselves picking up where they left off, again and again-ish over a long period of time, or had maybe found themselves doing that with a "longer shortlist," or had had a bit more varied experiences, then some periods of integration might have been smoother, less rocky, less nonmonotonic, less preceded by some jamming. A more balanced "approach".
 
-But, generally, "picking up where you left off"-ish, relatively speaking, all things being equal, vaguely, generally, picking up vaguely in the neighborhood of where you left off, some of the time, can be an even nice, pleasant thing that is sometimes noticeably more of a thing over time.
+But, generally, "picking up where you left off"-ish, relatively speaking, all things being equal, vaguely, generally, picking up vaguely in the neighborhood of where you left off, some of the time, can be an even nice, pleasant* thing that is sometimes noticeably more of a thing over time.
+
+\*
+
+\*I say "nice, pleasant," but ofc things can simultaneously and ongoingly be/feel very hard, too.
 
 [<a href="#138a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
