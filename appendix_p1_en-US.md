@@ -932,6 +932,15 @@ n/a
 			- fff
 			- pfft
 			- psh
+- is:
+	- to exist
+	- to be in a state
+	- to have a predicate/attribute
+	- to be identical to
+	- to refer to the same thing, to have same extension
+	- to have the same meaning as
+	- to be located in a place
+	- to have the same intension
 - bibliography (partial)
 	- https://en.wikipedia.org/wiki/Skandha
 	- https://en.wikipedia.org/wiki/List_of_English_copulae
