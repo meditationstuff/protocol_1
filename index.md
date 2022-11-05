@@ -9144,7 +9144,7 @@ at least one sense in which you don't need to figure anything out
 
 at least one sense in which there's nothing to figure out
 
-[temp catchall; draft] at least one sense in which, long-run, there's nothing left to do, nothing to be done, nothing left but death (in a good way; cf. parinirvana type things), impermanence and pattern are one, or rather everything is both "immortal" / "platonic" and impermanent / non-eternal (cf. emptiness is form and form is emptiness, cf. pattern and nebulosity, pace David Chapman's Meaningness, and cf. David Chapman's no god; no god's-eye-view)
+[temp catchall; draft] at least one sense in which, long-run, there's nothing left to do, nothing to be done, nothing left but death (in a good way; cf. parinirvana type things), impermanence and pattern are one, or rather everything is both "immortal" / "platonic" and impermanent / non-eternal (cf. emptiness is form and form is emptiness, cf. pattern and nebulosity, pace David Chapman's Meaningness, and cf. David Chapman's no god; no god's-eye-view) ;;;;;;;;;;;;; related: nowhere to go, nothing to do, never left, never were anywhere else, never could have, no discontinuity between before and  "then your life will start, then you can do the thing", just this, this is is, no such thing as wayfinding, contra wayfinding, wayfinding should eat itself or it should never have been, cf. suffering, death, void / oblivion / nothingness / nibanna cf. never prospectivity recognized, never realized never not something [sic]
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 
