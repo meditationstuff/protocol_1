@@ -8810,7 +8810,7 @@ But it's worth emphasizing that *everything* is included. The past and present, 
 
 It can be kind of scary (or terrifying) and even infuriating, at times, a sort of "yes and even this." There's nothing stable, no perfect forms, nothing to hold onto--not ideas, not meditation instructions, not experiential states, not philosophies or ideologies or stories or beliefs or anything.
 
-But again, the bodymind generally doesn't let go until it's safe to let go. (And please don't try to "make yourself" experience groundless or to try to see it. It just kinda happens over time, with correct practice. If you have to make it stick, it's not the thing. But also if you find yourself trying to make it stick, that's normal and ok!) Eventually one might see how it's actually safe and preferable and sort of radically stable in its liquidity. It's maybe more like slow syrup or something than water.
+But again, the bodymind generally doesn't let go until it's safe to let go. (And please don't try to "make yourself" experience groundless or to try to see it. It just kinda happens over time, with correct practice. If you have to make it stick (or even just give it a little push it into place!), it's not the thing. But also if you find yourself trying to make it stick (or even just give it a little push it into place!), that's normal and ok!) Eventually one might see how it's actually safe and preferable and sort of radically stable in its liquidity. It's maybe more like slow syrup or something than water.
 
 One might ask, what's the relationship between groundlessness and other things like emptiness, luminosity, bare sensations, etc.
 
@@ -11677,7 +11677,7 @@ at least one sense in which anything [even with cryonics, longevity, rejuvenatio
 
 [draft status: in need of editing, as per usual]
 
-There’s ways in which the below is inconsistent, confused, and incomplete--it’s not the final word, I still have a LOT to learn, and nor could it ever be consistent and complete, in a deep, philosophical sense. It’s offered because it might be comforting and useful, for some people, as an interim touchstone, or it might help some good things happen fractionally faster, or it’s just interesting. As a recommendation, if you’d otherwise be inclined, don’t particularly try to "make any of this stick"; one sort of has to find their way to this kind of stuff on their own terms, and then you "don’t need to make it stick," as natural as trusting gravity.
+There’s ways in which the below is inconsistent, confused, and incomplete--it’s not the final word, I still have a LOT to learn, and nor could it ever be consistent and complete, in a deep, philosophical sense. It’s offered because it might be comforting and useful, for some people, as an interim touchstone, or it might help some good things happen fractionally faster, or it’s just interesting. As a recommendation, if you’d otherwise be inclined, don’t particularly try to "make any of this stick"; one sort of has to find their way to this kind of stuff on their own terms, and then you "don’t need to make it stick / don't need push it into place" as natural as trusting gravity.
 
 \*
 
