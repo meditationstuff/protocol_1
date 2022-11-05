@@ -13589,6 +13589,8 @@ Some pithy, cryptic notes to myself for this section:
 
 "judo: "over time one's concerns and doubts and experience of stuckness itself become highly psychoactive friends" -- always a hook to find something to do, re concern, uncertainty, meta-concern, etc. [also enjoyment, etc. become critical parts of practice]"
 
+re judo, every still small voice, every suspicion, still small voice yet, every doubt, meta doubt meta meta doubt, and so on (don't worry meditation is infinite-regress-busting)
+
 Another way to think about this is "there's always something [there] to work with"; "if you're not done there's never not nothing there" (but sometimes, often, if there's not much too do or you can still be tapped out for the day, you should go take a walk, or whatever!) see e.g. (<a id="daily-limits" href="#daily-limits">daily limits</a>). 
 
 In summary, "aboutness is indirect in its aboutness" but "aboutness it itself as such can be directly investigated," loosely as a source of data or as a signal to the rest of the system's endogenous and spontaneous and long-range problem-solving. (not to reify direct or investigate or problem-solving, etc.)
