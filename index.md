@@ -281,7 +281,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="148dh" href="#when-if-things-are-bad-not-your-fault-determinism">when/&#8203;if things are bad / (not your) fault / determinism</a>
 	* <a id="149h" href="#being-not-ok-tangles">being (not) ok tangles</a>
 	* <a id="150h" href="#brief-note-on-space-and-sensations">brief note on space and sensations</a>
-	* <a id="150ah" href="#raw-bare-sensations-contra-alway-on-possibly-mislea">raw/&#8203;bare sensations contra "alway on" (possibly misleading early draft)</a>
+	* <a id="150ah" href="#raw-bare-sensations-contra-alway-on-possibly-mislea">raw/&#8203;bare sensations contra "always on" (possibly misleading early draft)</a>
 	* <a id="151h" href="#brief-loosely-related-notes-on-unknotting-untwistin">brief, loosely related notes on unknotting, untwisting, untangling</a>
 	* <a id="152h" href="#attention-is-not-fundamental">attention is not fundamental</a>
 	* <a id="153h" href="#-inner-space-and-physical-social-grace">"inner space" and physical/social grace</a>
@@ -6698,7 +6698,7 @@ And of course try to not to "reify" "reification," "inappropriate reification"..
 [<a href="#150h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="150a"></span><a id="raw-bare-sensations-contra-alway-on-possibly-mislea" href="#raw-bare-sensations-contra-alway-on-possibly-mislea">raw/&#8203;bare sensations contra "alway on" (possibly misleading early draft):</a>
+# <span id="150a"></span><a id="raw-bare-sensations-contra-alway-on-possibly-mislea" href="#raw-bare-sensations-contra-alway-on-possibly-mislea">raw/&#8203;bare sensations contra "always on" (possibly misleading early draft):</a>
 
 [There might be some erroneous or missing "nots" in here. Like some "signs might be flipped" or it's fine. This hasn't  gotten a single editing pass, yet. Pure draft.]
 
@@ -6751,6 +6751,33 @@ And this does cash out, all things being equal, as kind of getting to hang out i
 Back to the parenthetical way above, just as with bare sensations, I think "cool non-dual and luminosity stuff" is a positive lead indicator but not something to be fetishized or over-reified nor something that one should "try to get to stick."
 
 I sometimes say, a bunch of bits have stably flipped, somewhere, and I can go check and be like, "yup, they're still flipped" but otherwise my experience is pretty normal, natural, ordinary, something. Usually-but-not-necessarily, an oozing tendency towards quiet, clear, peaceful, well-being-full but possibly all over the place because of life stuff that couldn't (yetttttt) be completely proactively, meta-meta-meta-meta handled (lots of mundane things and especially interpersonal things) or something came out of unknown unknown territory.
+
+\*
+
+Added later:
+
+ok, so to clarify again, for both "bare sensations" type stuff, early-to-mid-to-late on the path, and for "supramundane" type stuff, like hanging in emptiness, luminosity, nonduality, centerlessness, doerlessness, watcherlessness, etc., etc., etc.:
+
+for all of these types of experiences, they're sort of keyhole or bottleneck or eye-of-needle or passthrough experiences (in an effortless, spontaneous, just happen sense).
+
+on *one* side of the keyhole you've got deconditioning, deconstructing, dissolving problems, de-automatizing, deprogramming, (redo-to-)undo, de-functional-fixedness-ing, de-fabrication, and so on.
+
+on the *other* side of the keyhole you've got reconditioning (in a good way), reconstructing (in a new way), solving problems (with reduced constraints), re-automatizing (better), reprogramming, new-do / non-do, creativity and invention, non-layery fabrication [all of this happens more "flatly" (in a good way), more isotropically, more structurally fluidly]
+
+so, if all is sort of going well, all things being equal, keyhole, bottleneck, eye-of-needle, passthrough, pivot point experiences are sort of brief, fleeting, transient. you go there, you need to go there, but you don't stay there. mountains become mountains again, afterwards, as it were, just a little bit different / better, but normal, ordinary, etc.
+
+you go there, sort of fractally, from different angles, at different degrees of "completeness" and "depth" and return there periodically, in temporally extended mixes of cycles, subcycles, supercycles.
+
+So, "bare sensations" and "supramundane experiences" are positive lead indicators but are not something to strive directly for, are not something to hold onto, and are not "the thing."
+
+The thing is sort of knowing things, self and world, everything, just exactly as they are. (That's one way to put it, anyway.)
+
+\*
+
+Some language drawn from here but the video is not an endorsement of my position:
+
+https://www.youtube.com/watch?v=Eg3cQXf4zSE [Last accessed: 2022-11-05] The Bayesian Brain and Meditation by Shamil Chandaria
+
 
 [<a href="#150ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
