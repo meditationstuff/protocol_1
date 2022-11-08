@@ -4153,6 +4153,7 @@ Notes:
 * "extra"
 * "rushing away"-ness (cf. vs. e.g. "just this"; "this is it"); (cf. haste, etc., above)
 * "escaping"
+* [backwards-]+to-go-forwards
 
 Notes:
 
@@ -9145,6 +9146,8 @@ at least one sense in which you don't need to figure anything out
 at least one sense in which there's nothing to figure out
 
 [temp catchall; draft] at least one sense in which, long-run, there's nothing left to do, nothing to be done, nothing left but death (in a good way; cf. parinirvana type things), impermanence and pattern are one, or rather everything is both "immortal" / "platonic" and impermanent / non-eternal (cf. emptiness is form and form is emptiness, cf. pattern and nebulosity, pace David Chapman's Meaningness, and cf. David Chapman's no god; no god's-eye-view) ;;;;;;;;;;;;; related: nowhere to go, nothing to do, never left, never were anywhere else, never could have, no discontinuity between before and  "then your life will start, then you can do the thing", just this, this is is, no such thing as wayfinding, contra wayfinding, wayfinding should eat itself or it should never have been, cf. suffering, death, void / oblivion / nothingness / nibanna cf. never prospectivity recognized, never realized never not something [sic]
+
+[more elaboration of determinism type stuff] at least one sense in which you are totally determined by your globality of inputs and self-inputs (cf. everything is empty, the experience qua the experience of it)
 
 (see also: David Chapman's meaningness work; Daniel Ingram's work; Greg Goode's work)
 
