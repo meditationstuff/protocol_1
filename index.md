@@ -13614,6 +13614,10 @@ More draft notes:
 
 "About is itself [sic] ultimately becomes a direct source of data or is adjacent / proximal to such [or a system impetus indirecty as such [sic]]. "
 
+\*
+
+\* The term "judo" here is used in the sense of "directly use its own energy '*against*' itself," but here in an *aligned* and *collaborative* way with itself. so, "skillful use of what appears as such", sort of. Tai chi push hands has a similar ethos, maybe. These ("judo," "tai chi") are used here a bit in shallow and stereotyped way.
+
 [<a href="#188dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="189"></span><a id="relating" href="#relating">relating:</a>
