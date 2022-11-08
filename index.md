@@ -13596,7 +13596,11 @@ Some pithy, cryptic notes to myself for this section:
 
 re judo, every still small voice, every suspicion, still small voice yet, every doubt, meta doubt meta meta doubt, and so on (don't worry meditation is infinite-regress-busting)
 
+“this is also in scope” “and this” ... "and this"
+
 Another way to think about this is "there's always something [there] to work with"; "if you're not done there's never not nothing there" (but sometimes, often, if there's not much too do or you can still be tapped out for the day, you should go take a walk, or whatever!) see e.g. (<a id="daily-limits" href="#daily-limits">daily limits</a>). 
+
+Eventually, sometimes, the *observation itself* directly *leads* to change, non-forcing-ly, spontaneously (but it typically doesn't *start* that way, closer to the beginning one's journey---there has to be lots and lots of structural fluidity for this to often be a viable option, but more and more....)--- cf. some instructions, techniques, practices work for some people but not others; but also matching degrees of freedom in redo-to-undo or smthg. In any case, there's sort of a reversal: problem dissolving / solving by making it safe to *not* know, to be wrong, to be stuck, to have no way forward, and the *knowledge of that as such, spontaneous attendance to that experience as such, is then how the system "knows" what to do next*, bottom-up, non-algorithmic, non-rule-based, not predictable in advance.
 
 In summary, "aboutness is indirect in its aboutness" but "aboutness it itself as such can be directly investigated," loosely as a source of data or as a signal to the rest of the system's endogenous and spontaneous and long-range problem-solving. (not to reify direct or investigate or problem-solving, etc.)
 
