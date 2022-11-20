@@ -1325,6 +1325,9 @@ https://en.wikipedia.org/wiki/Counterfactual_conditional
 * Hamburger, Käte. "The logic of literature." (1973).
 * Cohn, Dorrit Claire, and Dorrit Cohn. Transparent minds: Narrative modes for presenting consciousness in fiction. Princeton University Press, 1978.
 * Gulino, Paul Joseph. Screenwriting: the sequence approach. Bloomsbury Publishing USA, 2013.
+* Palmer, Alan. Fictional minds. U of Nebraska Press, 2004.
+* Palmer, Alan. Social minds in the novel. Columbus: Ohio State University Press, 2010.
+* A Poetics of Fiction by Tom Jenks [https://tomjenks.com/poetics-of-fiction-tom-jenks Last accessed: 2022-11-19]
 
 ---
 

@@ -13598,6 +13598,8 @@ re judo, every still small voice, every suspicion, still small voice yet, every 
 
 “this is also in scope” “and this” ... "and this"
 
+like there's e.g. no second-guessing even when there's second-guessing because nothing is left out. so like generally (not always) all "negative" states are simultaneously in some sense positive states
+
 Another way to think about this is "there's always something [there] to work with"; "if you're not done there's never not nothing there" (but sometimes, often, if there's not much too do or you can still be tapped out for the day, you should go take a walk, or whatever!) see e.g. (<a id="daily-limits" href="#daily-limits">daily limits</a>). 
 
 Eventually, sometimes, the *observation itself* directly *leads* to change, non-forcing-ly, spontaneously (but it typically doesn't *start* that way, closer to the beginning one's journey---there has to be lots and lots of structural fluidity for this to often be a viable option, but more and more....)--- cf. some instructions, techniques, practices work for some people but not others; but also matching degrees of freedom in redo-to-undo or smthg. In any case, there's sort of a reversal: problem dissolving / solving by making it safe to *not* know, to be wrong, to be stuck, to have no way forward, and the *knowledge of that as such, spontaneous attendance to that experience as such, is then how the system "knows" what to do next*, bottom-up, non-algorithmic, non-rule-based, not predictable in advance.
