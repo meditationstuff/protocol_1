@@ -13601,6 +13601,8 @@ re judo, every still small voice, every suspicion, still small voice yet, every 
 
 “this is also in scope” “and this” ... "and this"
 
+less “figuring” and more “feeling” because, long-run, feeling becomes a “first-class” object-level and meta-level participant/ component/ basis of groundless/ rational/ reasonable/ “cognition.”
+
 like there's e.g. no second-guessing even when there's second-guessing because nothing is left out. so like generally (not always) all "negative" states are simultaneously in some sense positive states
 
 Another way to think about this is "there's always something [there] to work with"; "if you're not done there's never not nothing there" (but sometimes, often, if there's not much too do or you can still be tapped out for the day, you should go take a walk, or whatever!) see e.g. (<a id="daily-limits" href="#daily-limits">daily limits</a>). 
