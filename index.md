@@ -1354,6 +1354,8 @@ Something like the HAS principle can maybe be used to explain some things (thoug
 
 (b) Valued stories maybe exemplify the actualized HAS principle. A protagonist-environment fit that, nearing the climax, narrows down to an utterly clear best plan and glory, whether success or failure (though success is preferred).
 
+[Note / added later: I've learned that at least a couple people (so probably more) have been hurt at least a little bit by my explication of the so-called HAS principle above --- I've been thinking about maybe taking it out of the document; some people were sort of taking it as "well I'm doing everything I can; I should feel ok; but I don't feel ok so I should 'doing everything' [sic] harder or somehow get myself to feel ok." This might not be quite right. But in any case, it wasn't doing something good for some people. I wrote it, at least in intention, as sort of mostly a long-term reassuring, asymptotic thing; it takes a long time for "the system" sort of "all way down," "breadth and depth," to kind of asymptotically fully self-interactively come to self-trust through and through that shaded-out-to-all-parts-at-a-finer-and-finer-grain that all-and-whole-thing-prereflectively [sic] is self-caring-ly, self-compassionately, self-trusting-ly, spontaneously-just-is doing its best. That it's an asymptotic, non-monotonic process that generally takes care of itself over time through wayfinding meditation. So the HAS principle generally-ish isn't a "tool to apply" or even a "functional lens," if that makes sense. And, to be fair, some sections in this document are kind of ambiguous or equivocating about sort of whether they're written as theory, phenomenological description, or practice suggestions or instructions. This last point is mentioned in at least one other place; I think maybe in the dialogue with (N).]
+
 \*\*\*
 
 So self-discovering and self-aligning with the principles above, and I’ve said things like this a bunch of times, is like a circa 10,000-hour Tower-of-Hanoi, constrained-evolving-state-space problem, involving arranging and rearranging millions of Tetris tetraminoes and LEGO bricks the size of quarks, or whatever.
@@ -2117,7 +2119,7 @@ An electronic dialogue (slightly edited):
 
 **Mark**  15 minutes ago
 
-to be fair, the protocol doc is me collecting 15,000+ words of highly detailed things to remember, for myself (and others). so there’s that. [in order to eventually "forget" it], to not need it, for it to become an inert pedagogical tool to share with others (edited)
+to be fair, the protocol doc is me collecting 15,000+ [now 250k+ words] words of highly detailed things to remember, for myself (and others). so there’s that. [in order to eventually "forget" it], to not need it, for it to become an inert pedagogical tool to share with others (edited)
 
 [...]
 
@@ -2279,7 +2281,7 @@ or at least my understanding/interpretion of it
 
 the way i’m thinking about it right now is there’s sort of micro-redo-to-undo, which can often be done in the context of main practice p2, conceptualized as such.
 
-and then there’s also sort of macro-redo-to-undo, which can easily involve forgetting about the protocol for a few months to go have desired experiences and experiments. and both may be very necessary. and needing to do that one to twenty times, big macro orbits that forget about the protocol completely and then maybe pick it up again later. (edited)
+and then there’s also sort of macro-redo-to-undo, which can easily involve forgetting about the protocol for a few months to go have desired experiences and experiments. and both may be very necessary. and needing to do that one to twenty times, big macro orbits that forget about the protocol completely and then maybe pick it up again later [added later: or for sure finding a practice system that works better for oneself and ideally transcending particular practice systems right off the bat or one already did so long ago or sooner or later]. (edited)
 
 **Collaborator**  7 minutes ago
 
@@ -2354,6 +2356,8 @@ Have been looking for a way to introduce the "healthy orbiting" idea. There’s 
 **Mark**  < 1 minute ago
 
 And for some people, there will be something much more direct than analytically deconstructing and insourcing a !5,000+ word document. Or they should do that first for X months or years and then fiddle with the document if they get stuck or something.
+
+[Added later: In the dialogue above, it feels like I was trying to toe some line between holding firm on one or more particular points (for better and worse) and being defensive, and I maybe was a bit too (feeling) on the defensive side. I want to honor and affirm something like, for some people, this document could potentially be "problematically sticky" in a way that it might have been better for them to never encounter the document at all---surely that's true, at the very least in principle, in at least edge cases for both meditators and non-meditators.]
 
 [<a href="#72h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -3253,6 +3257,15 @@ Alternative note: A future draft of this should maybe include percentages for "l
 * There is a "meta meta protocol" [sic] which is applying this protocol to itself. There are contextually better and worse ways to use this meta protocol and there are better and worse interpretations of how to use it. The "meta meta protocol" can help you move towards better and better interpretations and uses.
 * Note that the meta protocol can be used for other things besides meditation, such as problem solving, planning, or really anything, mental or physical.
 * Lots of things have the "flavor" or spirit of the meta protocol, without looking exactly like the below. You might feel like you’re "not doing the meta protocol" but you actually are! Any time you’re wondering whether you doing the right thing, or if a good or bad thing happened, or you’re asking other people and dialoguing about it—that’s "going meta." It doesn’t have to have the exact form of the below and it doesn’t have to be done explicitly.
+	* **Updates:** the above was intended to be reassuring, like, "you don't have to do the meta protocol or think about the meta protocol," but someone ([d]) offered a critique [and another commentator made a similar critique in the dialogue in this section: <a href="#preliminaries-and-vacations-conceptualization-as-su">preliminaries and vacations; conceptualization as such</a>]. [d]'s critique is in the bullet below:
+	* [d]\: *I don't like this note in the meta protocol. I think there's a distinction between engaging in the protocol vs executing habits learned from doing the protocol and doing things that you've already been doing but the protocol gets you to do more of. I think this functions to make the protocol more of a totalizing memetic object [ed. note: See section: <a href="#document-level-meta-warning">document-level meta-warning</a>] I think it kind of goes out and "captures" some good that doesn't belong to it.*
+	* I (Mark) agree with the latter point! A *lot* of stuff in this document will be things people are doing already anyway, because those things are natural and spontaneous. And part of practice is sometimes kind of collecting those things and putting them in different or new conceptual buckets, and often just leaving them alone and letting them do their thing! See also section: <a href="#practice-in-daily-life-or-no">practice in daily life or no?</a>
+	* [d] additionally offers these suggested phrasings:
+		* "this protocol can teach you skills which you can find yourself using independent of "using" the protocol"
+		* "using this protocol can create habits that you execute independent of "using" the protocol"
+	* [mo] adds: 
+		* "Maybe something like 'there's a need for going meta, but it doesn't have to look anything like this metaprotocol'?"
+		* "Maybe it would actually be worth renaming the meta-protocol to just say 'going meta' and then offer the current meta-protocol instructions as a starting point for that"
 * You might simply ask, what are all the options/&#8203;affordances, here, and which might be good right now to pick?
 * Intuition! Feeling! Body! You can ask the questions with the body, the mind, or the bodymind, or anything, or everything. And you can listen/&#8203;feel for answers with the body, the mind, or the bodymind, or anything, or everything.
 * A bit of a ramble: The second-most-minimal way to barely-there "do the meta protocol," the maybe almost least likely to jam or grind, is to maybe give yourself space and time to let what happened to have happen, a sort of liminal retrospective. And maybe the most minimal thing to do is to "fully and completely release the container while maintaining the context for just a little longer," so not even a liminal retrospective but just a liminal space, a little bit of time and space, between meditation and lost in life. So, not jumping into things right after meditation, but nor sort of letting meditation linger and then jumping into things. Just kind of a "release meditation [not that you were holding on to anything!!!] but don't get up / walk away," immediately, just yet... Let things recombobulate a bit, let the system come to its own conclusions. This could even be as long as half again the time you spent meditating, or even as long again as the whole length of time you were meditating, or just five minutes, etc. [Not to reify meditation(tm) as something crisp and thing-like!!!] (All of this might sort of naturally happen, too, sort of near the end of meditation proper, in any case.)
