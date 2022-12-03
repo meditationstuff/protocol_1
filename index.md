@@ -4157,7 +4157,8 @@ Notes:
 * "escaping"
 * [backwards-]+to-go-forwards
 * "\*-ing away from" (cf. past actions, irredeemability, (self-)forgiveness)
-* (")control(")
+* (")control\[ling\]\("\)
+* (")ignoring(")
 
 Notes:
 
