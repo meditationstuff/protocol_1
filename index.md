@@ -255,6 +255,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="136ah" href="#regarding-better-not-to-start-if-you-start-better-t">regarding "better not to start; if you start better to finish" (draft)</a>
 	* <a id="137h" href="#extremity-replay-and-creativity-panic-trauma-sexual">extremity replay and creativity: panic, trauma, sexual arousal</a>
 	* <a id="137ah" href="#x-desires-fulfillment-transformation-discussion">x-desires, fulfillment, transformation, discussion</a>
+	* <a id="137a1h" href="#how-to-know-what-you-want">how to know what you want or what your goals are (barely edited transcript excerpt):</a>
 	* <a id="137bh" href="#taking-refuge-can-reshape-the-local-environment-and">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
 	* <a id="138h" href="#on-falling-asleep-and-utilizing-sleep">on falling asleep and utilizing sleep</a>
 	* <a id="138ah" href="#note-on-letting-go">note on letting go</a>
@@ -5796,6 +5797,50 @@ In any case, too, it's also very possible that "safe-to-look, then look," etc., 
 
 [<a href="#137ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="how-to-know-what-you-want" href="#how-to-know-what-you-want">how to know what you want or what your goals are (barely edited transcript excerpt):</a>
+
+**Conversation partner [paraphrased]:** Often one is wrong about what one thinks one wants, and maybe it's better to "try to figure out your preferences" less and better to "try things" more.
+
+**Mark:** Yeah. Or just, or just sort of continually kind of keep aligning with like, how they're revealed personally. Um, I think, yeah. You know, trying to predict them and make sense of them is also really good because if someone invests like a lot of costly resources in something that is gonna change in two years, but they don't know it's gonna change in two years.
+
+Like, that's like, maybe like regrettable if the person could do something about it, but like, first pass, you know, if it's not too costly, like, you know, I'm, I'm always like just sort of indulge, indulge, indulge. Yeah. You know, if it's not hurting anybody and stuff like kinks, fetishes, paraphilia, lifestyles, uh, you know, um, like it's, it's there for a reason.
+
+Like until it's not, if ever, and, you know, maybe it's software, maybe it's hardware. Like you sort of don't know until it changes. If it does and, or if it continues to evolve. Even if it continues to evolve. You don't know if you sort of gotten to the bottom of it.
+
+**Conversation partner [paraphrased; composited]:** Sometimes I don't know (what I think I) want, so I can't (even) perform little, low cost experiments to get a better sense of whether to invest more into getting those things, to feel more motivated about going after them (if more than one step) or to one-step indulge them.
+
+**Mark:** When people talk about their goals or wants or desires or preferences or second order preferences, you know, desires about desires, preferences about preferences, that thought and language activity around such things is only going to, uh, will have some relationship usually to like, kind of what like the real underlying preferences or whatever are, but it will be like imperfect. So like if someone is kind of theory building like around like what they want or what they're going to want or like what they want to want, it's like, that's something that a person can get better at over time---
+
+---in part because like the whole kind of cognitive apparatus learns to get like better and better signals from like, the rest of the thing. And the whole thing kind of integrates like more and more. Um, and so like, I think at least, at least for me, like, I think, I think there's this continual process of error checking where it's like, you know, maybe I want this or I don't even know what I want.
+
+And then like you ideally, you know, you would sort of try to run like a little test. Cause sometimes like you do just sort of need more data or like serendipity, um, like, so it's like you can sort of keep looking for. Uh, anomalies or counterexamples kind of already available in the system. It's like, well, maybe I want this, but then it's like, well wait a second.
+
+Like, uh, maybe I want this. Um, but it's like, *last time* I did something kind of like that, I actually didn't quite like it for these reasons. Or like, you know, here's another time where I thought I really wanted something, but then when I got into that situation, It was less good than I thought.
+
+That can be initially discouraging, like, I *never* right about what I want---but one can get better at predicting to the point where felt desires become more and more endogenously motivating, because one has sufficient confidence in those felt desires to be moved by those felt desires.
+
+That is, if one doesn't like something they thought they would, it's like, what are the reasons for that? Um, so like, I'm, I'm, I'm sort of saying this in a very intellectual way. Like, I think, I think like that that figuring process becomes like less and less analytical and more and more embodied. Um, but it's like the system can mine its past data more and more effectively over time. 
+
+[And the system can, um, get better and better at like, finding cheap, safe experiments to run, to collect more data about the self. So it's like, it's like the experience of having preferences or desires or whatever is sort of co-enacted or like built with the system. Like as the system is running, like desires and goals are *not* platonic, they're *not* out there, they don't just exist in a vacuum. 
+
+And our interaction with our experience of desire and preference is in some sense not the exact same thing as like our, like, already living in the moment and having experiences. Um, so there's like a really complicated relationship of like, between what we actually find ourselves doing and how we actually find ourselves feeling about that, and then versus like what we think is gonna happen versus like our internal exploration of like what we think is gonna happen and what we want. 
+
+Um, but like all that can like sort of get better and better and better, and more integrated, uh, over time. Um,  
+
+\[...\]
+
+**Mark:** I I mean, in cases where it's costly, like to actually go out and do stuff, I think, I think the right thing to do is to kind of like sort of float back and like let scenarios and thoughts and related kind of like play out.
+
+Like Yeah. Uh, there will be ways in which it's wrong or detached from whatever, but also like if it's too costly to go run little experiments, reminiscience and reverie is sort of all you have and then you just do the best you can. Or, or some combination. 
+
+**Conversation partner [paraphrased]:** And conflicting desires? 
+
+**Mark:** Um, over time, like, I think that can get kind of worked out more and more. Um, there's, there's usually gonna, you know, I think, I think once one resolves some pair of hard trade offs, unifies the paradox, like, uh, you know, there's sort of like, uh, they'll sort of always be more, sometimes harder, sometimes easier, sometimes just more, um, there'll be new, new problems, new conflicts, just cuz the life situation continues to evolve.
+
+Um, you solve one thing and it creates a new set of problems or whatever, uh, and, and one sort of learns to anticipate that over time and like that, that's like fine, it's still better than the thing that was there before or so, yeah. 
+
+[<a href="#137a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="137b"></span><a id="taking-refuge-can-reshape-the-local-environment-and" href="#taking-refuge-can-reshape-the-local-environment-and">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that:</a>
