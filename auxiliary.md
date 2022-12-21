@@ -7695,4 +7695,18 @@ Find the exits, the edges, the ways out, but don’t leave immediately. (Don't m
 
 [<a href="#917auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+
+# <span id="918auxiliary"></span><a id="release-reality" href="#release-reality">release reality:</a>
+
+Release, temporarily, if you like, your grip on "reality": when safe, let yourself, allow yourself to not know what's real and what isn't.
+
+comment:
+
+And be careful about reifying "real" and "reality," in any case. In the best sense if probably means not what you think and less than you think, etc., etc. "Reality" is "empty," without essence, etc., etc., whether you think it's particles and forces and fields, the cosmological universe and everything else, dual aspect monism, panpsychic, telic, the pregnant void... etc. etc.
+
+releasing grip on "reality" --- allow yourself to locally not know what's real and what isn't (and careful about reifying "real" and "reality," of course.
+
+[<a href="#918auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
