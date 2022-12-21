@@ -5840,6 +5840,8 @@ Like Yeah. Uh, there will be ways in which it's wrong or detached from whatever,
 
 Um, you solve one thing and it creates a new set of problems or whatever, uh, and, and one sort of learns to anticipate that over time and like that, that's like fine, it's still better than the thing that was there before or so, yeah. 
 
+[Most of the above also applies to so-called "beliefs", anticipations, predictions, stances, expectations. It's often? usually? not super useful to kind try to reflectively articulate / explicate what you "believe," same as with "what you want" or "what your goals" are, but sometimes it can be very powerful or at least useful to messily scribble down things or to explore in words (sentences fragments or longer), as long as it's held lightly, written lightly, spoken lightly. It serves you; you don't serve it, etc. Sometimes there are tricksy ways to phrase things, like "what am I actually going to do?" but I think this only gives so much more mileage and risks pulling things too tight.]
+
 [<a href="#137a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
