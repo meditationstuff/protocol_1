@@ -287,6 +287,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="152h" href="#attention-is-not-fundamental">attention is not fundamental</a>
 	* <a id="153h" href="#-inner-space-and-physical-social-grace">"inner space" and physical/social grace</a>
 	* <a id="154h" href="#dark-phenomenology-and-presence-absence-conceptions">dark phenomenology and presence/absence conceptions</a>
+	* <a id="154a1ah" href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration</a>
+	* <a id="154a1bh" href="#upstream-causes-of-ordering-errors">upstream causes of ordering errors</a>
 	* <a id="154a1h" href="#prenatal-experiences-the-fetal-position-and-other-b">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 	* <a id="154ah" href="#daily-limits">daily limits</a>
 	* <a id="138a1h" href="#picking-up-where-you-left-off">picking up where you left off</a>
@@ -320,6 +322,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="158dbh" href="#-ball-of-string-analogy-and-more-on-posture-and-fee"> ball of string analogy and more on posture and feedback loops (draft)</a>
 	* <a id="158da1h" href="#far-reaches-of-meditation">far reaches of meditation (no particular order [yet])</a>
 		* <a id="158da1a1ah" href="#on-groundlessness-a-brief-note">on groundlessness, a brief note</a>
+		* <a id="158da1a1bh" href="#dreamlikeness">dreamlikeness</a>
 		* <a id="158da1ah" href="#naturalization">naturalization</a>
 		* <a id="158da1b1h" href="#impersonalization-and-environmentalization">impersonalization and environmentalization</a>
 		* <a id="158da1a1h" href="#vague-sketch-of-progression-with-respect-to-emptine">vague sketch of progression, with respect to emptiness and groundlessness</a>
@@ -368,6 +371,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="172h" href="#sketching-alternatives-to-straw-realism-internation">sketching alternatives to straw realism (international and group relations) [draft!][2500 words]</a>
 		* <a id="173h" href="#karma-losslessness-developmental-stage-models-viole">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
 	* <a id="192ah" href="#mark-s-approximate-practice-timeline-summary-highli">mark's approximate practice timeline summary highlights</a>
+	* <a id="192a1h" href="#farther-to-fall">farther to fall and sometimes just plain wrong</a>
 	* <a id="192bh" href="#miscellaneous-pith-notes">miscellaneous pith notes</a>
 * <a id="192ch" href="#neuroscience-speculative-snapshots">neuroscience speculative snapshots</a>
 	* <a id="192dh" href="#neuroscience-and-meditation-odds-and-ends-2-22-2-9">neuroscience and meditation, odds and ends [2022-02-09]</a>
@@ -6917,7 +6921,74 @@ Note:
 
 There are parallels, here, to "unvalenced" phenomenology and memories. (vs "valenced" as in phenomenology/sensations that is/are directly positive/pleasurable/good or negative/noxious/bad/etc or, more loosely, sensations or experiences that are associated with such.)
 
+\*
+
+See also: <a href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration</a>
+
 [<a href="#154h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="bad-chaos-dissolution-distintegration" href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration:</a>
+
+There are times in which the phenomenology of chaos, dissolution, distintegration can seem very "functionally real," like "going in that direction" IS dissolution, disintegration, chaos, madness, destruction, being eaten alive, and so on.
+
+There is a sense in which this has to be trusted. Generally, you can't and won't do something, e.g. "go towards," unless it's somehow "safe enough" "to the system."
+
+So like it's not safe until it is. No pushing, no forcing, etc.
+
+But it can be helpful to sometimes keep in mind that what SEEMS like ACTUAL chaos, dissolution, disintegration, destruction, fundamental disregulation ISN'T, in the sense that it's an interpretation of phenomenology that is known to be transparently real and actual but in fact that interpretation is sometimes in some sense false.
+
+That is, a little more patience, a little more hanging out, a little more self-subtle-interaction in just the right way, the (semi-)spontaneous solution to a dynamic <a href="#technical-debt-and-inverse-operations">inverse problem</a>, sometimes reveals that such "believing," "knowing" about that functional phenomenology was in fact in error. What seemed even metaphysical or cosmological or in some sense "real," was in fact "just" phenomenology. (Of course in some sense there is neither "just real" nor "just phenomenology.")
+
+
+
+This feels sort of weird to write because often, when the above kind of applies, it's often not "one step away," like sometimes that chaotic or disintegrative phenomenology needs to be not-quite-touched and circled back to for hundreds of hours before the system "finally realizes" that it's safe to sink into or it in fact wasn't in some sense safe and those hundreds of hours were needed to construct the right "equanimity cradle," to edge up to the right alterations in sense of cosmology and metaphysics and finally something new happens.
+
+So it's not just a matter of "oh, it has to be "just" phenomenology, no problem (and again nothing is "just phenomenology," it's sort of all de facto for something, it's not epiphenomenal, it's somehow causal even if sometimes or often confused, trust and indulgence and face value is usually the way to go and impatience or tough love is almost, in my experience, never the way to go), it's, like everything, *structural*, but sometimes written sections like this can make the navigation of such deep structure smoother.
+
+And then eventually, after hours or hundreds or thousands of hours, then, in a relatively short amount of time (and sometimes more than once, a bunch of times with variations, spread out in time): "oh, safe, relief, untangling, I was wrong about that, I know how to engage with that, I have engaged with that, unraveling", or not, etc.
+
+\*
+
+See also: <a href="#dark-phenomenology-and-presence-absence-conceptions">dark phenomenology and presence/absence conceptions</a>
+
+[<a href="#154a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="upstream-causes-of-ordering-errors" href="#upstream-causes-of-ordering-errors">upstream causes of ordering errors:</a>
+
+[draft]
+
+full title: some possible upstream causes of ordering errors
+
+Things to keep on eye out for that can have a dramatic impact on suboptimal ordering choices (and also it's fine, it's structural, there's a sense in which there is no way to smooth things out and everything happens as it happens)!:
+
+\[note: some of these can be quite phenomenological and gathered and quite "p3-able"\]
+
+* "would take infinite time" and "i have no time" \[also not enough but need to check "conceptual extremes"\]
+* don't have time for “this \[like processing something or some direction]”\]
+* don't have enough time for “this \[like processing something or some direction\]”
+* "will take infinity time \[and so "must" be skipped\]" --- false that “that \[like processing something or some direction]” will take infinity time and so must be skipped \[but skipping potentially leads to "disaster" until go back\]
+* will take forever to do “that \[like processing something or some direction\]”
+* “it” needs to happen imminently and immediately in the next moment 
+* "it" will happen any-second-now
+
+downstream:
+
+* ...hast, rushing, hurrying, speed, out-of-ordering...
+* "so maybe look and see if X implies an ordering thing or don't/can't do some particular dimension, direction, patch of processing"
+* ... so not worth going over there
+
+for all = patience, should be quiet and smooth as silk if slow trickle
+
+consider:
+
+* exploring ordering directly
+* sort of object-level, object-level meta protocol, objtect-level meta meta protocol and
+* meta-level meta protocol [this one], meta-level meta meta protocol
+
+
+[<a href="#154a1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="154a1"></span><a id="prenatal-experiences-the-fetal-position-and-other-b" href="#prenatal-experiences-the-fetal-position-and-other-b">prenatal experiences, the fetal position, and other 'be moved bottlenecks':</a>
@@ -8911,6 +8982,16 @@ Some messy thoughts: Regarding emptiness, I was equivocating a bit, above--is it
 
 
 [<a href="#158da1a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="dreamlikeness" href="#dreamlikeness">dreamlikeness:</a>
+
+stub under groundlessness cf. emptiness and groundlessness and centerlessness
+
+cf. "simulation"
+cf. "all representation"
+
+[<a href="#158da1a1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158da1a"></span><a id="naturalization" href="#naturalization">naturalization:</a>
@@ -11679,6 +11760,53 @@ cf. no-things which was much earlier for me.
 See: <a href="#void-nothingness-cessations-nibanna-stub-scratch">void (nothingness, cessation(s), nibbana, nirvana [stub/&#8203;scratch]</a>
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="farther-to-fall" href="#farther-to-fall">farther to fall and sometimes just plain wrong:</a>
+
+[Content warning: neuroticism, hypochondriasis, interaction with licensed medical and mental health professionals, anxiety, etc.]
+
+[Written 25 days after initial symptom onset of first covid infection of some unknown strain of ofc unknown initial viral load in some particular health regime etc. etc.]
+
+One of the challenging thing about advanced meditation is being more sensitive to subtle phenomenology of aging and illness and accidents.
+
+Basically, you can possibly feel yourself dying years or decades out.
+
+(I think there's a lot of "classical meditator lore" in preserved texts of advanced meditators knowing they're going to die tomorrow and stuff like that. (But selection bias, confirmation bias, what makes a good story, etc.))
+
+And, you can possibly feel big jumps in aging, like, if you catch a bad viral illness, you can potentially feel if there's neurological involvement or if organs get unhappy.
+
+Whereas before you might be like "I feel crappy," now you might be like "my heart is tired" or "my kidneys are struggling."
+
+If something particularly strange or notable happen in phenomenology, you might be asking, "is this hardware or software" (neuronal damage or support cell damage) or just a response to particularly weird phenomenology or the triggering of an evolutionary program or a normal response to surprise and changed plans.
+
+For example, if you are quite sick (or slightly sick) and feel anxiety or notice "new" delusion or unusual lack of capacity or other nonmonotonicity, is this because:
+
+1. a normal and transient part of "sickness behavior" triggered by the release of cytokines
+2. slightly altered neuronal behavior because of elevated temperature or inflammation
+3. neural or support cell apoptosis or necrosis because of viral infection that crossed the blood/brain barrier
+4. a not-yet-bubbled-up re-evaluation of health, priorities, plans, short-term or long-term, because you're surprised at how sick you feel
+5. "secondary correlation" because sickness phenomenology or behavior took you to places you don't ordinarily go, so a bunch of meditation-y stuff is happening, including nonmonotonicity, that's sort of a second-order effect; but it's hard, at least at first, to separate out from what's "direct sickness" vs indirect, knock-on etc.
+
+And depending where one is at in meditation, it can be stressful because you "notice more things," and there's more to think / "think" about regarding whether something is transient or the new normal, like how much you'll recover, and whether it's "full recovery" or you have "loss of reserve" that could lead to sudden and permanent loss of function because of a future accident or illness. And, at the time of this writing, because of the pace of scientic and medical advances, one can wonder somewhat about the relationship between illness, aging, prevention, and risk taking vis-a-vis rejuvenation, longevity, microstructural neurological repair (from e.g. vascular, fungal, viral, bacterial neurodegeneration), cryonics, etc.; at the time of this writing, not yet, not yet, not yet..)
+
+You might jump to quite apt conclusions, and sometimes this is useful for making bold and proactive treatment decisions, and sometimes it's interesting to file away but there's nothing you can really do about it right there and then. But sometimes, often, the conclusions the system jumps to are just wrong---about cause, what's going on, severity, duration, permanence of illness, injury, or loss of capacity, and the long-term implications thereof. This is normal hypochondriasis and anxiety stuff, but it can be amplified because a meditator has more and more subtle phenomenology to interpret and work with. As with anything: often worse before better. I don't know if this is true, but there's a joke that doctors make the worst patients. One could make a similar joke about meditators being the worst patients, or something.
+
+It can also be quite sobering, when, for example, an advanced meditator hasn't experienced some flavors of anxiety for decades, but then suddenly they have some generalized anxiety again (which can also be just plain interesting, for an advanced meditator!), first-pass, which one or more of the above numbered list is it from? It's certainly a lesson in impermanence and lack of control. In a lot of ways, sort of, an advanced meditator perhaps, sometimes(!), has "farther to fall" when misfortune occurs---"haven't had to deal with that since forever," which can also ~amplify a sense of sadness and loss or etc., even if sometimes one gets "back to where they were" (or not, or not at all) quite quickly and perhaps sometimes much faster than someone who is not a meditator.
+
+And, again, one might notice a lot of "quite creepy shit" that other people would sort of lump together and not notice or think / "think" about so much, for better and worse. And again one might be wrong about what any of that implies, wrong about what's actually going on, with respect to lots of it or most of it, at least the first few times around.
+
+But, as indicated in some parentheticals above, at the same time, being an advanced meditator can be an extraordinary boon, and in some ways it's arguably sort of the whole point of being a meditator, and it can be very gratifying to sort of battle test (not that it likely feels anything like battling or fighting, etc. etc.) and get or pleasantly exercise or indulge in or appreciate that payoff (perhaps even amidst feeling sick or scared or etc.).
+
+So one good thing is adapting to and managing and minimizing further harm with ongoing chronic conditions; possibly sensitivity to the inputs is better and flexibility and adaptibility are better.
+
+And another thing, especially, is that, in some sense, *nothing really changes*---for example, no matter what's going on, whether it's hardware or software, sickness behaviors or brain damage, or transient or permanent, or a chronic heart thing, or super transient, or intense or shocking, shaken to your core, bitterly disappointed, newly depressed, anxious, or whatever---
+
+\-\-\-there's just e.g. main practice p2 (or whatever) as a simplicity on the far side of complexity, or even on the far side of that if anything remotely like meditation has been eaten up with no remainder. As per usual, business as usual, nothing really changes, you still "know exactly what to do, even when you don't know what to do"; it's just global wayfinding. Whether you're "long range cleaning up" new weird phenomenology, or what the heck is this, or where is this going, or "is this "new" horrible thing (a) actually new or somehow (b) redo-to-undo," working through that, untangling provenance, constructing inverse operations, rewiring, whatever---which as per usual involves reverie, surrender, letting go, being lost in life---even if you have the misfortune of brain damage or a patch of your phenomenlogy is gone or is suddenly informing you that aliens are communicating with you and also you're Jesus and angels are talking to you, even if you're literally imminently dying, or whatever, it's all the same in a good way. A "user's manual" for everything or every situation, or whatever, "equanimous" or losing your shit or not, whatever you're into, whatever horrible-thing-or-not-sometimes-bad-things-are-or-lead-to-net-good-things is just happening to you, including when to throw away the manual and when or if to dig it out of the garbage.
+
+And that's pretty great~
+
+[<a href="#192a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <a id="holy-sacred-mystery-scratch-stub" href="#holy-sacred-mystery-scratch-stub">holy/&#8203;(sacred?) mystery (scratch/&#8203;stub):</a>
