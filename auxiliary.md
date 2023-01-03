@@ -1628,6 +1628,8 @@ Examine the passage of time (perhaps while attending to a particular sensation, 
 
 If it’s okay to do so, slow down in whatever you’re doing. Slow down more. And more. And juuuust a bit more.
 
+Also: Take something you do in a split second and do it over 2-15 seconds.
+
 
 
 [<a href="#201auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]

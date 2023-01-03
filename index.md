@@ -4554,6 +4554,13 @@ If that’s the case, just do the best you can. You might try, for each objectio
 
 Finally, all the above is the canonical, main practice. And/but, you can also try similar things with "the rest of the day," e.g. when you wake up you can concretely explore your ideal rest of the day. You can do something similar for "tomorrow" and finally "goals" and "milestones" if those sorts of things are in your felt ontology.
 
+\*
+
+A collaborator also suggests:
+
+How is this day already perfect? How might you look back on this as already perfect in many years' time?
+
+
 [<a href="#108h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="109"></span><a id="p10-experimental" href="#p10-experimental">p10 [experimental]:</a>
