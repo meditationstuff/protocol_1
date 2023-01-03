@@ -323,6 +323,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="158da1h" href="#far-reaches-of-meditation">far reaches of meditation (no particular order [yet])</a>
 		* <a id="158da1a1ah" href="#on-groundlessness-a-brief-note">on groundlessness, a brief note</a>
 		* <a id="158da1a1bh" href="#dreamlikeness">dreamlikeness</a>
+		* <a id="158da1a2bh" href="#stub158da1a2b">stub158da1a2b [intentional]</a>
 		* <a id="158da1ah" href="#naturalization">naturalization</a>
 		* <a id="158da1b1h" href="#impersonalization-and-environmentalization">impersonalization and environmentalization</a>
 		* <a id="158da1a1h" href="#vague-sketch-of-progression-with-respect-to-emptine">vague sketch of progression, with respect to emptiness and groundlessness</a>
@@ -8999,6 +9000,19 @@ cf. "simulation"
 cf. "all representation"
 
 [<a href="#158da1a1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="stub158da1a2b"></span><a id="stub158da1a2b" href="#stub158da1a2b">stub158da1a2b [intentional]</a>
+
+(this section intentionally has a nonsense name^)
+
+cf. centerlessness
+
+non-particularity / particularitylessness
+
+non-privilegedness / privilegedlessness
+
+[<a href="#158da1a2bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158da1a"></span><a id="naturalization" href="#naturalization">naturalization:</a>
