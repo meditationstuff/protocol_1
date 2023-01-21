@@ -293,6 +293,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="154ah" href="#daily-limits">daily limits</a>
 	* <a id="138a1h" href="#picking-up-where-you-left-off">picking up where you left off</a>
 	* <a id="154a2h" href="#menstrual-cycle">menstrual cycle</a>
+	* <a id="154a4h" href="#blood-pressure-etc">blood pressure, etc:</a>
 	* <a id="154a2ah" href="#equanimity-no-such-thing-and-lock-and-key-stuff">equanimity, no such thing and lock-and-key stuff</a>
 	* <a id="154a3h" href="#autonomic-vulnerability-autonomic-nudity">autonomic vulnerability, autonomic nudity, autonomic alignment (rough draft)</a>
 	* <a id="154bh" href="#pushing-away-holding-at-bay-preconceiving-direct-re">pushing away, holding at bay, preconceiving, direct-reifying</a>
@@ -7191,6 +7192,27 @@ BUT, that doesn't mean it wouldn't be super confusing and challenging and distin
 [to be continued]
 
 [<a href="#154a2h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="154a4"></span><a id="blood-pressure-etc" href="#blood-pressure-etc">blood pressure, etc:</a>
+
+This is not medical advice, etc., etc., but it can be helpful to check your blood pressure, every so often, or even frequently, if you'd like. I'm talking about the objective X/Y, but you can absolutely play with getting (a bit of, or very clearly) a referent not only for how "hard" (and other things, there's a lot going on there) your heart is beating (the top number) but sort of also how generally "pressurized" you are (the bottom number).
+
+One of the things that can happen in meditation is one can sort of lock on to something like "global sympathetic tone," which can facilitate meditation-y things, in some ways, but can drive up things like blood pressure and heart rate, in a way that's even kind of sticky. There is also "global parasympathetic tone," which can also faciliate meditation-y things. Of course, one wants a flexible, dynamic, contextually appropriate range, of both sympathetic and parasympathetic nervous system activity. And "global" is kind of a thing but also what the autonomic nervous system is concretely and fractally and specifically actually doing with sympathetic and parasympathetic input, throughout the body, is important, too. It's not necessarily helpful to deal in these concepts or this phenomenonlogy as such, but sometimes it is.
+
+Anyway, sometimes it can be helpful to focus on blood pressure as such. Again, average and below average blood pressure is probably a good thing to have generally going on, but blood pressure should generally go up during exercise and for other reasons or situations too. Nothing applies absolutely, globally, universally.
+
+Anyway, in addition to referents like heartbeat phenomenology and "pressure" phenomenology, because those can be vague and diffuse and can come and go because of attentional dynamics, layering dynamics, and how the brain is choosing to dial phenomenology, sensations, things up and down (which is influenced by meditation but attentional access to various things but is never guaranteed because of nonmonotonicity and tradeoffs), point being, it's not cheating, to, again, keep an eye on the actual blood pressure numbers, at the doctor's office or buying a home/device/phone cuff bluetooth thing (that probably super dated this section depending on what year you're reading this).
+
+It can be very informative, educational to explore directly (indirectly, gently, careful of grinding and jamming, surrender-y) *lowering* your objective blood pressure and/or heart rate. "Make (gently) number(s) go down." It's also interesting when that's available and when it isn't, how long it takes, etc. (And having fluid autonomic arousal and calibration when you sit down, lie down, stand up, start to exercise is a good thing. System, arousal levels, attentional arousal, physiological arousal like water.)
+
+As with anything, be careful of "trying to make lower blood pressure 'stick'," or anything like that. You want to indirectly, whole system-y find how blood pressure, and everything, can take care of itself, costlessly, effortlessly, over time.
+
+Blood pressure predicts lots of longevity and health outcome stuff. To your health.
+
+
+[<a href="#154a4h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <a id="equanimity-no-such-thing-and-lock-and-key-stuff" href="#equanimity-no-such-thing-and-lock-and-key-stuff">equanimity, no such thing and lock-and-key stuff:</a>
 
