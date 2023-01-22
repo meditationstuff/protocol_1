@@ -7210,6 +7210,16 @@ As with anything, be careful of "trying to make lower blood pressure 'stick'," o
 
 Blood pressure predicts lots of longevity and health outcome stuff. To your health.
 
+\*
+
+Notes:
+
+* parasympathetic tone:
+	* the ways in which you are safe in this moment
+	* the ways in which you don't need to be vigilant in this moment
+	* the ways in which you can rest in this moment
+	* ...
+
 
 [<a href="#154a4h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
