@@ -414,6 +414,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 * <a id="195h" href="#appendix-2-preliminary-auxiliary-practices-full">appendix 2: preliminary/auxiliary practices (full)</a>
 * <a id="196h" href="#appendix-3-main-practice-p1-appendix-usa-english-en">appendix 3: main practice p1 appendix (usa english; "en-us")</a>
 * <a id="197h" href="#appendix-4-worst-case-culture-community-stuff">appendix 4: worst case culture/&#8203;community stuff</a>
+* <a id="198h" href="#appendix-5-subtle-interaction">appendix 5: subtle interaction</a>
 
 <!-- When slugs or section titles change, thereby indicating a slug change, add a span in front of the new <a...>/link with the old id/slug, thereby preserving deep/anchor links out in the wild or wherever. -->
 
