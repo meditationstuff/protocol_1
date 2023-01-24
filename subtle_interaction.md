@@ -268,7 +268,7 @@ In this case, it's like the sender is playing something on a loop, very loudly, 
 
 ### Integrative fluidity, and processing old imprints, and de-encysting, and finding inverse operations, and seeing the lies in predatory and abusive imprints, and closing ports, and not being coercive oneself, and harmonizing all this with more usual overt communication channels, and deconstraining around sending and receiving (if desired) is a long, long, long process. Gentle unlimited patience makes it go smoother and faster. And most people don't need to bother with any of this, unless they feel like the need to or they just want to.
 
-(No content in this section, yet.)
+Be careful of reifying or "fixing" on metabolizing, integration, port closing, triangulation, generativity, self, other, string-escaping, any seeming technical term or jargon or word or word usage in this material, including the phenomenological "look and feel" or it as well as initial and subsequent impressions and experiments and workhorsing of "***how*** to do it." These don't have an essential or fixed pattern; what's beneath them or what they "apply" to or their intension [sic] can change;  the "how" of working with these or moving towards things, how that feels, what "you" "do,"" has no essential pattern or essential nature or essential permanence or stability, only the radically concrete direct aconceptual remains and not even that, and any "how" or "doing" needs to eat itself with no remainder on approach, as it were. (And "how," "doing," and "needs to" are empty as well.)
 
 ### Conclusion
 

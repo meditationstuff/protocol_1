@@ -8625,6 +8625,12 @@ Addendum:
 
 Finally, to emphasize, "pixel perfect" is an analogy for something that’s still structurally fluid, sensitive, responsive, creative, dynamic, vibrant, alert, proactive, anything...
 
+\*
+
+Notes:
+
+Again, said a different way, be careful of reifying what "pixel perfect" or successively moving closer to "pixel perfect" should look or feel or be like. Even more importantly, be careful of reifying or fixating on ***how*** to move toward "pixel perfect." Ultimately, "pixel perfect" is an idea; it's empty; the "how" of moving towards it has no essential pattern or essential nature or essential permanence or stability, only the radically concrete direct aconceptual remains and not even that, and any "how" or "doing" needs to eat itself with no remainder on approach, as it were. (And "how," "doing," and "needs to" are empty as well.)
+
 [<a href="#176h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
