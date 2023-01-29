@@ -291,6 +291,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="154a1bh" href="#upstream-causes-of-ordering-errors">upstream causes of ordering errors</a>
 	* <a id="154a1h" href="#prenatal-experiences-the-fetal-position-and-other-b">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 	* <a id="154ah" href="#daily-limits">daily limits</a>
+	* <a id="154a1a1h" href="#advanced-postures-and-pitfalls">advanced postures and pitfalls</a>
 	* <a id="138a1h" href="#picking-up-where-you-left-off">picking up where you left off</a>
 	* <a id="154a2h" href="#menstrual-cycle">menstrual cycle</a>
 	* <a id="154a4h" href="#blood-pressure-etc">blood pressure, etc:</a>
@@ -2590,6 +2591,7 @@ See also:
 
 * <a href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 * <a href="#158db">ball of string analogy and more on posture and feedback loops</a>
+* <a href="#advanced-postures-and-pitfalls">advanced postures and pitfalls</a>
 
 [<a href="#76h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7036,6 +7038,9 @@ See also:
 * <a href="#6auxiliary">be moved</a>
 * <a href="#78">states</a>
 * <a href="#167">prenatal experiences and subtle interaction</a>
+* <a href="#posture-section-needs-editing">posture (section needs editing)</a>
+* <a href="#158db">ball of string analogy and more on posture and feedback loops</a>
+* <a href="#advanced-postures-and-pitfalls">advanced postures and pitfalls</a>
 
 
 [<a href="#154a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -7086,6 +7091,53 @@ So this is one thing to keep an eye out for, in terms of meditative rhythms and 
 
 
 [<a href="#154ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <a id="advanced-postures-and-pitfalls" href="#advanced-postures-and-pitfalls">advanced postures and pitfalls:</a>
+
+
+A key guideline about "particular" or "weird" postures is that it can be a really good idea to keep track of what those have been.
+
+So, for example, if you spend some time meditating curled up in a favorite chair, where you're sort of wedged in between the back and an armrest, and the armrest is really puffy and the cushion is really soft and deep, which facilitated the wedging, and the back of the chair is just the right angle and shape and height so you can kinda lean and also rest your head and relax almost completely or something. Or, you've got this great corner of your bed which is in the corner of your bedroom and you can kind of really nestle back in there against the wall. Or you can stand on this really great anti-fatigue mat for hours and kind of drape your arms over this countertop that's like the perfect height and just kind of half hang there.
+
+So, I'm not saying I did anything like the above, well I did some things that are in the direction of stuff like that, on and off.
+
+But, in any case, if you do do things like that, it can be important to sort of be able to semi-recreate them. It's important because of redo-to-undo. Redo-to-undo never has to be perfect (in some sense!), otherwise meditation wouldn't work at all, and redo-to-undo, remember, can be a combination of going out in the world and re-having (something in the neighborhood of) the original experience, sometimes over and over. And redo-to-undo, of course, can happen in meditation, which is especially important for the gazillions of experiences that can't be recreated in the world, because you're not that age anymore, or some of the people involved have passed away or moved to the other side of the world, or someone else lives in the house you grew up in, etc.
+
+So, anyway, redo-to-undo can be "external" and "internal," as above. And/but, there's sort of something in "between" internal and external, which is the position your body is in.
+
+That is, where your limbs are, whether you're standing, sitting, curled up in the fetal position, etc., all things being equal, will sometimes have no effect on redo-to-undo but sometimes will greatly facilitate or challenge redo-to-undo. All things being equal, it can often be helpful to be in body configurations that are similar to the body configurations that you were in when you originally had an experience.
+
+But, there are endless exceptions to this—sometimes, often, maybe even usually, it's much easier to redo-to-undo with respect some super traumatic experience where you were running away from someone if you're curled up in bed under warm blankets or on a comfortable couch, or etc. But not always. As to when it's one or the other, there's some complicated relationship between will, effort, surrender, and physical action. In any case, wayfinding helps you find your way back to what you need to do, given what you can do, with respect to internal, external, etc. Do you act it out? Do you sit on the edge of your bed? Interleave the two? Mixed with what else, at the finest grain? Exactly how? It depends.
+
+Very importantly, all this applies sort of recursively to meditation. Remember that meditation comprises almost inevitable error propagation as well as error correction. Almost certainly, because of the former, meditation involves "going back over" "old meditation," and that's maybe even the bulk of meditation. And so, being able to access old meditation postures can greatly, greatly, greatly facilitate future meditation.
+
+And so, all things being equal, it can help to meditate in "neutral," "easily recreate-able," meditation postures like sitting on the edge of a bed, standing on a reasonably soft carpet, lying in bed without doing something too weird with pillows, etc. Because, what if your friend sells that weird chair in the common room or they move out? What if you move and your countertops are a different height? What if you're on vacation or on a business trip or on an extended visit with a friend or your long-distance intimate partner? And so on. You just kind of do the best you can, in any case.
+
+What's going on here, though? Why do "weird" postures, especially ones that don't seem obviously connected to old experiences, why do they help and hinder? Some of it's going to be connected to prenatal and early childhood postures and positions and behaviors.
+
+In general, what's going on, especially in meditation, as best I can tell, in part, is that postures, stances, etc., sort of create "(bounded) fluidity channels."
+
+That is, any time you're sort of resisting gravity, there will be muscles, in combination with surface friction (floor, cushion, chair, wall), plus bones and joints, that are sort of creating your "antigravity situation." That "configuration" is what prevents you from falling over or collapsing to the floor or whatever. And, any muscles and joints not participating in that have degrees of freedom to move and contract and relax, and so on. Those muscles and joints that have more freedom will be doing the bulk of redo-to-undo, both gross or overt and subtle—that is, visible movements of the body or sometimes subtle or very subtle muscular "shimmering." That's sort of your fluidity-within-structure. There's even additional complexity in that even the muscles involved in structure can also "shimmer" albeit less easily and creatively, and, additionally, there can be fast and subtle "switching" and "trading-off" of which muscles are providing and structure versus fluidity, more "shimmering," if you will, and this also happens between muscles and also *within* the same muscle. So there can be this tremendously complex thing going on, and one tacitly becomes "better and better" at it.
+
+Even so, and in any case, the choices and configuration and "details of the shimmering" are greatly, greatly, greatly influenced by the overt postural choices that one makes.
+
+One might ask, great question, why not just lie in bed and completely relax, be fully supported by the bed so every muscle has the greatest freedom to "shimmer" or whatever? Well, it's excellent to have this option! It almost surely should be a thing you do at times, but, redo-to-undo, sometimes, often, is greatly facilitated by gross motor movements (which surely are woven with subtle shimmering, too, everything all at once), some of which you just can't do in bed, all things being equal, perhaps even if you get very creative. That includes some neck stuff, some torso stuff, lots of other things, etc. So sometimes you need to do gross or overt movements to "unlock" other stuff, some of which just can't be done in bed, or whatever—
+
+—you need to use your "full athleticism" in addition to your "total creative problem solving" as part of global wayfinding and puzzle solving. (But what if you were in a car accident and you can't do things with your neck or back that you used to do a lot? What if you've had a limb amputated or you have a stroke and become partially paralyzed or have perceptual or cognitive or attentional stuff missing? Or you're recovering from an illness and super weak and low cognitive or physical stamina? Or you have post-viral brain fog? Your bodymind will still be able to figure out an alternative route, in the general case. Buddha nature in the technical sense. It just might take longer. You just do the best you can, and it's enough. The time savings can make it really worth it to get very, very, very creative, though, as best you can.)
+
+So, in conclusion, try to avoid "weird" meditation postures and props and body configurations, even though sometimes you'll really need them for inchoate early childhood and prenatal stuff, or if you (no judgment) did repetitive coping behaviors in the past or (also no judgment) previously doubled-down on earlier problematic meditation strategies. If you do do weird postural and prop stuff, try to take a picture or timed selfie or make a mental note or something to keep track of it so you can more easily find your way back in other contexts. Allow yourself to "be moved" to be drawn into weird postures, if you need them; don't resist them, generally, and let yourself find your way back to them or to new creative solutions. And, as best you can, try to meditate in "neutral," relaxed, "floaty," "weightless," "balanced," "low-efforting," postures, but don't be rigid or scrupulous. And again all you can do is your best and it is enough.
+
+\*
+
+See also:
+
+* <a href="#posture-section-needs-editing">posture (section needs editing)</a>
+* <a href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
+* <a href="#158db">ball of string analogy and more on posture and feedback loops</a>
+
+[<a href="#154a1a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <a id="picking-up-where-you-left-off" href="#picking-up-where-you-left-off">picking up where you left off</a>
@@ -8990,6 +9042,9 @@ Finally, if one does find themselves "scraping the bottom of the barrel," how do
 * [1] See the bottom of this section: <a href="#158">a note on "making progress," "regression," and redo-to-undo</a>
 * [2] <a href="#76">posture</a>
 * [3] <a href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
+* <a href="#posture-section-needs-editing">posture (section needs editing)</a>
+* <a href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
+* <a href="#advanced-postures-and-pitfalls">advanced postures and pitfalls</a>
 
 [<a href="#158dbh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
