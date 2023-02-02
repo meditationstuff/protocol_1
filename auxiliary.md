@@ -7711,4 +7711,36 @@ releasing grip on "reality" --- allow yourself to locally not know what's real a
 [<a href="#918auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="919auxiliary"></span><a id="notice-doing" href="#notice-doing">notice doing:</a>
+
+* (Simply) notice doing.
+* including willing, efforting, subtle (volitional (or not?)) muscular activity, karmic or karma generating activity, pushing, forcing
+* pairs/&#8203;combines well with simply notice, reverie, surrender, letting go, waiting, patiently waiting, daydreaming, effortlessness, relaxing, calming
+* cf. Daniel Ingram’s (Mahasi Sayadaw's) noting vs noticing distinction 
+* “caught” early enough can sort of be ghostly, barely there, "out of phase"
+* can be recursive/&#8203;meta; applies to itself (gently, release, or it tangles further)
+
+See also:
+
+* <a href="#simply-notice">simply notice</a>
+
+[<a href="#919auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="920auxiliary"></span><a id="simply-notice" href="#simply-notice">simply notice:</a>
+
+* Thus.
+* pairs/&#8203;combines well with notice doing, reverie, surrender, letting go, waiting, patiently waiting, daydreaming, effortlessness, relaxing, calming
+* “caught” early enough can sort of be ghostly, barely there, out of phase
+* can be recursive/&#8203;meta; applies to itself (gently, release, or it tangles further)
+* Recall how experience or having experience is inherently effortless and requires nothing (more/&#8203;extra).
+
+See also:
+
+* <a href="#notice-doing">notice doing</a>
+
+[<a href="#920auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
