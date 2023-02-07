@@ -7742,5 +7742,84 @@ See also:
 [<a href="#920auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="921auxiliary"></span><a id="wrong-direction" href="#wrong-direction">wrong direction:</a>
+
+Meditate in the wrong direction, the bad direction, in the opposite direction; do the wrong thing, do a worse thing. You might even (gently) try: Do the worst thing.
+
+comment:
+
+(sometimes bad is good)
+
+[<a href="#921auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="922auxiliary"></span><a id="keep-it-around" href="#keep-it-around">keep it around:</a>
+
+Gently, patiently keep X around, at least for a while; don't try to first-pass make X go away.
+
+[<a href="#922auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="923auxiliary"></span><a id="extra-body-parts" href="#extra-body-parts">extra body parts:</a>
+
+Look for extra bodyparts, like an arm or even a head. You might ask, who's arm is this? Who's head is this? and so on
+
+[<a href="#923auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="924auxiliary"></span><a id="enjoy-it" href="#YY-ZZ">enjoy it:</a>
+
+If it's safe, enjoy it---find the neutral, the pleasurable, enjoyable aspects, the not immedately bad, all of related to it, about it, and especially within it. Gently, gently, gently, maybe lightly even seek out enjoyment in it; let yourself enjoy it.
+
+[<a href="#924auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="925auxiliary"></span><a id="dont-push-it-away" href="#dont-push-it-away">don't push it away:</a>
+
+Thus.
+
+[<a href="#925auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="926auxiliary"></span><a id="mistrust-optimism-hope" href="#mistrust-optimism-hope">mistrust optimism/&#8203;hope:</a>
+
+Thus.
+
+[<a href="#926auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="927auxiliary"></span><a id="live-without-hope" href="#live-without-hope">live without hope:</a>
+
+Thus. (in a way / manner that's ultimately constructive and good)
+
+[<a href="#927auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="928auxiliary"></span><a id="if-not-now" href="#if-not-now">if not now:</a>
+
+Ask, for maybe doing X, if not now, when? If the answer is "never," this could indicate an ordering error or possibly an expectation that X is conceptually confused or will spontaneously be addressed, and so on.
+
+messy comment from original notes:
+
+look for not yet and make sure that the answer to when? isn't never
+sometimes turns out the thing dissolves and so when/never don't make sense. but other times this points to an ordering error if it's sort of a thing that one should sort of do eventually. if not never that doesn't necessarily mean "now" of course. maybe some other time. but if the never dissolves before that times comes, in that world where the thing is a thing, then that's probably net good.
+
+[<a href="#928auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="929auxiliary"></span><a id="enjoy-muscle-tension" href="#enjoy-muscle-tension">enjoy muscle tension:</a>
+
+If it's safe enough to do so, enjoy the muscle tension---find the neutral, the pleasurable, enjoyable aspects, the not immedately bad, all of related to it, about it, and especially within it. Gently, gently, gently, maybe lightly even seek out enjoyment in it; let yourself enjoy it.
+
+comment from original scratch notes:
+
+enjoy, don't push away, keep company muscle tension --- find everything pleasurable, enjoyable, good, valuable within, about, related to it, and then bask, enjoy, etc.
+
+[<a href="#929auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="930auxiliary"></span><a id="do-whats-not-allowed" href="#do-whats-not-allowed">do what's not allowed:</a>
+
+Do what's experientially/&#8203;phenomenologically not allowed.
+
+[<a href="#930auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="931auxiliary"></span><a id="transgress" href="#transgress">transgress:</a>
+
+Experientially/&#8203;phenomenologically transgress.
+
+[<a href="#931auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

@@ -930,6 +930,17 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="918auxiliary_names" href="#release-reality">release reality</a>
 * <a id="919auxiliary_names" href="#notice-doing">notice doing</a>
 * <a id="920auxiliary_names" href="#simply-notice">simply notice</a>
+* <a id="921auxiliary_names" href="#wrong-direction">wrong direction</a>
+* <a id="922auxiliary_names" href="#keep-it-around">keep it around</a>
+* <a id="923auxiliary_names" href="#extra-body-parts">extra body parts</a>
+* <a id="924auxiliary_names" href="#enjoy-it">enjoy it</a>
+* <a id="925auxiliary_names" href="#dont-push-it-away">don't push it away</a>
+* <a id="926auxiliary_names" href="#mistrust-optimism-hope">mistrust optimism/&#8203;hope</a>
+* <a id="927auxiliary_names" href="#live-without-hope">live without hope</a>
+* <a id="928auxiliary_names" href="#if-not-now">if not now</a>
+* <a id="929auxiliary_names" href="#enjoy-muscle-tension">enjoy muscle tension</a>
+* <a id="930auxiliary_names" href="#do-whats-not-allowed">do what's not allowed</a>
+* <a id="931auxiliary_names" href="#transgress">transgress</a>
 
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

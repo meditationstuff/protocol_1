@@ -6999,6 +6999,15 @@ consider:
 * sort of object-level, object-level meta protocol, objtect-level meta meta protocol and
 * meta-level meta protocol [this one], meta-level meta meta protocol
 
+\*
+
+You might ask, for maybe doing X, if not now, when? If the answer is never, this could indicate an ordering error or possibly an expectation that X is conceptually confused or will spontaneously be addressed, and so on. (This is also an auxiliary practice.)
+
+messy comment from original notes:
+
+look for not yet and make sure that the answer to when? isn't never
+sometimes turns out the thing dissolves and so when/never don't make sense. but other times this points to an ordering error if it's sort of a thing that one should sort of do eventually. if not never that doesn't necessarily mean "now" of course. maybe some other time. but if the never dissolves before that times comes, in that world where the thing is a thing, then that's probably net good.
+
 
 [<a href="#154a1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

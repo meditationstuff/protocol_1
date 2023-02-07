@@ -9,4 +9,11 @@
 
 
 &#8203;
+
 <a href="#X"></a>
+
+
+* <a id="9XXauxiliary_names" href="#YY-ZZ">YY ZZ</a>
+# <span id="9XXauxiliary"></span><a id="YY-ZZ" href="#YY-ZZ">YY ZZ:</a>
+[...]
+[<a href="#9XXauxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
