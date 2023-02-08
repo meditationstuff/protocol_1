@@ -7827,4 +7827,20 @@ Standing, let an imaginary string, anchored to the very top of your skull, sort 
 
 [<a href="#932auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="933auxiliary"></span><a id="be-outside" href="#be-outside">be "outside":</a>
+
+Be "outside;" "Be here now."
+
+Say, for example, when you're in a quiet room by yourself. Now you're in the room instead of "elsewhere" or "elsewhen." (stated maybe another way, of many ways, in a way, say, where, perhaps, something like "the reality or captivation of the inner world" sort of temporarily recedes)
+
+(gently, let it slip when it wants to slip)
+
+(nothing particular is otherwise required of attention, awareness, etc.)
+
+alternatives: let your self be here, now. encourage yourself to be here, now. help yourself feel safe being here, now. ...
+
+[<a href="#933auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
