@@ -7821,5 +7821,10 @@ Experientially/&#8203;phenomenologically transgress.
 
 [<a href="#931auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="932auxiliary"></span><a id="body-hang-check" href="#body-hang-check">body hang check:</a>
+
+Standing, let an imaginary string, anchored to the very top of your skull, sort of gently pull you up gently straight, erect, tall, and then sort of let your whole skeleton hang off of that string, or at least let everything hang off of your skull and spine. Check for tension, imbalances (front and back, side to side, higher and lower), "hmm that's weird or not quite right, maybe," throughout and across your body, and things like that. Use that information to continuously or subsequently decide or inform what to do next.
+
+[<a href="#932auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

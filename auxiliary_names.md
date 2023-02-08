@@ -941,6 +941,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="929auxiliary_names" href="#enjoy-muscle-tension">enjoy muscle tension</a>
 * <a id="930auxiliary_names" href="#do-whats-not-allowed">do what's not allowed</a>
 * <a id="931auxiliary_names" href="#transgress">transgress</a>
+* <a id="932auxiliary_names" href="#body-hang-check">body hang check</a>
 
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
