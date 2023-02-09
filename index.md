@@ -287,6 +287,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="152h" href="#attention-is-not-fundamental">attention is not fundamental</a>
 	* <a id="153h" href="#-inner-space-and-physical-social-grace">"inner space" and physical/social grace</a>
 	* <a id="154h" href="#dark-phenomenology-and-presence-absence-conceptions">dark phenomenology and presence/absence conceptions</a>
+	* <a id="154a1ch" href="#seeming-boundary-phenomenology">seeming "boundary" phenomenology</a>
 	* <a id="154a1ah" href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration</a>
 	* <a id="154a1bh" href="#upstream-causes-of-ordering-errors">upstream causes of ordering errors</a>
 	* <a id="154a1h" href="#prenatal-experiences-the-fetal-position-and-other-b">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
@@ -6935,10 +6936,33 @@ There are parallels, here, to "unvalenced" phenomenology and memories. (vs "vale
 
 \*
 
-See also: <a href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration</a>
+See also:
+
+* <a href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration</a>
+* <a href="#seeming-boundary-phenomenology">seeming "boundary" phenomenology</a>
 
 [<a href="#154h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="seeming-boundary-phenomenology" href="#seeming-boundary-phenomenology">seeming "boundary" phenomenology:</a>
+
+(draft)
+
+Sometimes it's almost like phenomenology (experience, "content," sensation...) can almost be taken as like a "boundary condition," almost like something *not* to be experienced but like something that circumscribes the limits of experience. It's almost like it's encouraging a "sliding off," almost like an "everything but this" flavor. It doesn't have an "avoidance" flavor, though. It's most just like a neutral, overlooked, "this is out of bounds and also it creates the bounds."
+
+For both "boundary condition"-like things and "avoidance" (that's a problematic concept), I don't recommend "pushing" to not slide off, sort of. It's maybe more like a "not losing track that it's there"-feeling, but *also* not pushing to keep track. The implication here is that, yes, generally speaking, eventually experiencing the seeming boundary condition as an experience as such (as well as experiencing things to be (at first) avoided, too) is good; but, again, the key thing is eventually, at the right time, in the right order, when it's safe. For avoidance-type things, it's more about safety (which cannot be rushed or corner-cut, generally). For a seeming boundary condition, it's more just knowing that there's a there, there, or knowing where or how to look, as it were. Because of structure and layering, there's precursor to this that generally can't be skipped, like there is no "there," there, until there is, or until there is again. In any case, sometimes "(almost) everything but" is needed to sort of triangulate, and other times "everything but" is at least partially on ordering error. And in any case one can sort of, when finally available, kind of allow for a bottom-up influencing of ordering to finally hone decisioning and prioritize experiencing the seeming boundary condition as such and that can often unravel a lot of things and de-bottleneck, because it can be so pernicious. And thereby a lot of stuff can get wrapped around it.
+
+\*
+
+Also, "when it's safe" can sometimes be an ordering error, too, in the sense that phenomenology can sort of mistaken as like "base structure," like, "if I touch that something bad will happen in a very general or mind-y way," but this can be in error, too, and actually it's safe to experience as such, sooner rather than later. But plenty of things can be very premature and destabilizing so it's best to trust the concern first and explore very carefully if or when that's even quickly possible. The bodymind might not itself be ready in any case, so it won't even be an option. Bottom-up-ness withstanding, etc., etc., not to imply ultimate separation between bodymind and "you."
+
+\*
+
+See also:
+
+* <a href="#dark-phenomenology-and-presence-absence-conceptions">dark phenomenology and presence/absence conceptions</a>
+* <a href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
+
+[<a href="#154a1ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <a id="bad-chaos-dissolution-distintegration" href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration:</a>
 
