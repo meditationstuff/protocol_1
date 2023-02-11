@@ -288,6 +288,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="153h" href="#-inner-space-and-physical-social-grace">"inner space" and physical/social grace</a>
 	* <a id="154h" href="#dark-phenomenology-and-presence-absence-conceptions">dark phenomenology and presence/absence conceptions</a>
 	* <a id="154a1ch" href="#seeming-boundary-phenomenology">seeming "boundary" phenomenology</a>
+	* <a id="154a1dh" href="#when-bad-is-good">when bad is good</a>
 	* <a id="154a1ah" href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration</a>
 	* <a id="154a1bh" href="#upstream-causes-of-ordering-errors">upstream causes of ordering errors</a>
 	* <a id="154a1h" href="#prenatal-experiences-the-fetal-position-and-other-b">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
@@ -4808,6 +4809,12 @@ Notes:
 * If you're very at a loss, you might go through preliminary/auxilliary practices you haven't tried. Or, whether or not you have tried them all, you might take p/a practices and change words or write them in your own words, and then that's your new thing. You can keep modifying them as per your intuitive interest or sense that they might be the right thing to do.
 * This might expand the space of things to do so much that it might be (even more) paralyzing, if you were already paralyzed on some dimensions. Will this work/terminate/something? Yes, Buddha nature, etc. Keep mixing in preliminary/auxiliary practices, main practices, the meta protocol, other tools, etc.
 
+\*
+
+See also:
+
+* <a href="#when-bad-is-good">when bad is good</a>
+
 [<a href="#114h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="115"></span><a id="interpersonal-practice" href="#interpersonal-practice">interpersonal practice:</a>
@@ -6963,6 +6970,44 @@ See also:
 * <a href="#147">a brief and incomplete theory of muscle tension risk in meditation</a>
 
 [<a href="#154a1ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
+# <a id="when-bad-is-good" href="#when-bad-is-good">when bad is good:</a>
+
+(draft)
+
+So this is a heuristic (not a rule, take with a grain of salt, one size does not fit all, etc etc)
+
+When meditation is sort of going downhill, in a good way, in the sense of like water flowing downhill, spontaneous---so there's all of:
+
+* (a) no pushing/&#8203;forcing,
+* (b) things are sort of bottom-up happening by themselves, potentially including your participation in that,
+* (c) and also you have choices or degrees of freedom or spaciousness in what you do or what happens next
+
+So it’s sort of like you're on a water slide and the water slide has forks in the road, as it were.
+
+(That would be weird and dangerous, though, for a literal water slide with like "forks," because people would hit the “angles” between the forks sometimes. So maybe here it’s more like train track forks where the track switching happens in plenty of time before the train actually gets there. So, ok, the water slide rejiggers so that when you go down a fork it’s smooth and you’re not going to hit anything.)
+
+Anyway, in this case, where you’re going downhill, and you have choices, heuristically, it can make sense often to choose/steer continuously in the direction of increasing badness, unpleasantness, horror, shame, muscle tension, whatever the thing (or things is/are), etc.
+
+Loosely speaking, ordinarily, not in this case of (abc), you might sometimes have to push or at least “do” to incline towards badness. But when you don’t, as in the case here, it’s a great opportunity to potentially find your way to redo-to-undo badness without incurring technical debt, and in fact this is possibly long-run necessary to process “everything.”
+
+This, here, in the case of (abc) is also potentially useful/&#8203;good when you’re sort of doing long-run triangulation and de-bottlenecking when things are kind of “gooey,” and/&#8203;or/&#8203;also like there are a lot of inchoate choices, or there are sort of discrete tangles/&#8203;strands but they're very "thick" and ropey and yet flexible and also you sort of "can't see very far ahead at all," and, when that’s the case, “downhill in the direction of increasing badness” is potentially one of the most efficient things you can do in terms of (typically fractionally) reducing overall timeline, because of how additional untangling can sort of sometimes tumble out for free over time, as part and parcel.
+
+Some things to watch out for is that going downhill can (a) shade into, turn into subtle pushing, so an increase in structural karma/&#8203;technical debt, as you sort inadvertently, sort of subliminally at first, "try to keep things going," or (b) can uncover latent or previously layered-over pushing and forcing. In the first case, heuristically, you then want to back off because there’s now that non-downhill component, not to mention the likely layering. In the latter case, where it’s sort of uncovered versus added, it sort of depends---you sort of have to try to discern whether that uncovered pushing is now (a) burning off, letting go, integrating, etc. or (b) whether it’s entrenching or layering. Even in that latter case it just depends, but sometimes in the latter case it’s good to do/&#8203;go something/somewhere else or to get up and take a walk, or to take a nap, etc. 
+
+Finally, even though downhill often feels good and correct, and often is the right thing to be happening, one should always sort of treat any kind of "momentum" with at least low-key caution, because potential partial error propagation and subtle layering of, sort of, the momentum itself which can pull things in a weird direction, over time, even when not meditating. Generally one wants momentum to kind of be eating itself continuously as its happening, kind of in the best case. But long-run all kinds of other things work too; technical debt is sometimes necessary and useful, etc., etc.
+
+\*
+
+See also:
+
+* <a href="#creativity-unsticking-protocol">creativity(/&#8203;unsticking) protocol</a>
+
+[<a href="#154a1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <a id="bad-chaos-dissolution-distintegration" href="#bad-chaos-dissolution-distintegration">bad chaos, dissolution, distintegration:</a>
 
