@@ -329,6 +329,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1a1bh" href="#dreamlikeness">dreamlikeness</a>
 		* <a id="158da1a2bh" href="#stub158da1a2b">stub158da1a2b [intentional]</a>
 		* <a id="158da1ah" href="#naturalization">naturalization</a>
+		* <a id="158da1b2h" href="#cautions-in-favor-of-mere-immediacy-as-sufficiency">cautions in favor of mere immediacy as sufficiency for any global grounding</a>
 		* <a id="158da1b1h" href="#impersonalization-and-environmentalization">impersonalization and environmentalization</a>
 		* <a id="158da1a1h" href="#vague-sketch-of-progression-with-respect-to-emptine">vague sketch of progression, with respect to emptiness and groundlessness</a>
 		* <a id="158da1bh" href="#touchstones-sort-of-leaving-out-or-only-weakly-inte">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
@@ -4531,6 +4532,7 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. What are you leaving out?
 1. What's your "job"?
 1. What's left that you can't self-generate, for yourself?
+1. What are you pushing away that you could safely not push away?
 
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -9243,6 +9245,45 @@ All of this is of course related to "nonduality" (in maybe several senses of the
 [<a href="#158da1b1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+# <a id="cautions-in-favor-of-mere-immediacy-as-sufficiency" href="#cautions-in-favor-of-mere-immediacy-as-sufficiency">cautions in favor of mere immediacy as sufficiency for any global grounding</a>
+
+(draft; not error-checked yet, possibly some "sign flips"; not that any section is ever super vouched for!)
+
+One thing that happens over time is the mind gets quieter. By this I mean there's sort of slowly less and less "reminding" and "prospecting" and "chattiness."
+
+I don't personally particularly fetishize this; it's just kind of a thing that happens, a long-run sort of "global lead indicator." But even so, the mind is sometimes very "loud"!
+
+Like if there's a complex and stressful situation, even if the mind is generally fairly quiet, the mind might get quite remind-y for minutes, hours, days, or weeks, and that's fine!
+
+Again, it's less about this being like an "absolute good thing" and, it's more like it's just like the (body)mind becomes more and more sensitively situationally responsive, based on current task demands and uncertainty, and so on.
+
+The getting relatively quieter and quieter thing is related to how "merely just having the sensory experience itself" kind of more and more replaces cognition (not all cognition!) as things are dynamically, moment-by-moment arranged so that less and less "data" needs to get shipped around after experiencing it. (You can search for the quoted phrase elsewhere in this document.)
+
+Another way to look at this is through the "package in front of the door" analogy. So if you have sort of a main front door that you almost always enter and leave from, say when you go to work or something, maybe your apartment door or your garage door or something, and you want to remember to mail a package. You can prop the package right in front of the door or even where the door meets the frame on the floor. And then the next time you leave it'll be quite hard to forget to take the package with you, because you naturally bump into it.
+
+This is kind of how the (body)mind optimizes itself over time, more and more. Things are proactively arranged so they come to mind, come to hand, as it were, at the right times, "triggered" by the contexts in which those things are needed, fractal packages in front of fractal doors. So there's fewer "out of context" reminders needed. (Note: It's sort of up to the mind what's "out of context"---and/or stuff needs to come up when it needs to come up! Also, I still use todo lists and project lists and checklists, sometimes long ones, and contextual reminders, for what it's worth.)
+
+This is partially "internal" as above, inner packages in front of inner doors, and it's also external, too.
+
+The bodymind sort of refactors itself learns to use the "mere immediacy of the world out there" as sort of sufficient to sustain the complexity of the "self" including that which refers to the non-immediate (e.g. long-term plans).
+
+So, like, yes, "groundlessness," and/but to the extent there's any grounding at all, previously, one heavily makes use of muscle tension, fixed points, fixation points, self-reference, interoception, etc., to sort of "refresh all of one's being," moment to moment, and that takes a lot of bandwidth, as it were.
+
+But, because there's sort of a way in which "the world out there," takes care of itself (not in a "myth of the given" sort of way), one can sort of come to learn, the whole system refactors itself over time, to sort of be able to use "the world out there" kind of in place of all that tension, fixed points, self-reference, interoception, etc. One can still do all those things! One just has more flexibility and optionality around doing so.
+
+So like ambient sound, the light in the room, the table in front of you, your experience of the person next to you, these become refreshing, reconstituting, somehow sufficient to moment-by-moment evoke the whole of "you."
+
+This is a slow process! The bodymind really wants to keep track of what it wants to keep track. It slowly, slowly, slowly, slowly and conservatively cuts over to using more and more "outside" stuff versus inside stuff, and  it only does it litle by little when it feels safe, and it can take it back! And, in any case, more and more it frees up the fluidity of the "internal" world because the immediacy and relative "stability" of the external world does a far better job of "grounding" to the degree that the bodymind likes to make use of that in a relatively "deep," rather, pervasive way.
+
+So again these are sort of structure-preserving transformations, this learning to use the "mere immediacy of the world out there." One might think the "world out there" is sort of too low density or low complexity to somehow serve as "basis" for constitution of the complexity of the self. But it's not! It's hard to explain (at the time of this writing). Nothing is lost in cutting over from rich interoception and nonsymbolic cognition to relatively more like tables, chairs, cooking food, etc. Again, interoception and nonsymbolic cognition can and are still happening, but sort of with less of a reliant, bandwidth-consuming tension.
+
+One of the reasons all this is important is because meditation can sort of give you too much rope to hang yourself, as it were. Once a person gets more and more facility with self-transformation, that might naturally start relying more and more on "write-access" to the inner world and start doubling down on *inner reliance* as opposed to *outer reliance*. At first it can seem like *inner reliance* is, well, the more reliable one, kind of "writing" more and and more detail and complexity into the warp and weft of the "inner world." This can be very compulsive and some of this is inevitable, at first---it can feel like tremendous progress and indeed value is created, insight, etc., that's sort of "written in to the flesh and density of the self," making fractal strings of knots in the self as sort of a memory device. (Dangerous when carried to the extreme, and you can go all the way in the opposite, "completely" unknotting direction!---) You might sort of feel like it's more reliable because there's maybe this sense that you might come to "completely control" the inner world---
+
+---but, impermanence-wise, and no-self-wise, and groundlessness-wise you will ultimately find you cannot! You still get to keep anything good that you've found or created or discovered, and so on, structure-preserving transformations (and see also "naturalization"), but the "right" move is to sort of, over time, more and more, untangle and unknot, to let the whole fullness, emptiness, no-essence-ness of stuff exist in dynamicity and flow as sustained, refreshed, reconstituted by the effortlessness of the mere "external" world or at least in addition to the "internal" world (still nonduality, still groundlessness, etc.). This is bandwidth-freeing, slack-creating, fluidity-enabling, and so on. 
+
+[<a href="#158da1b2h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 # <span id="158da1a1"></span><a id="vague-sketch-of-progression-with-respect-to-emptine" href="#vague-sketch-of-progression-with-respect-to-emptine">vague sketch of progression, with respect to emptiness and groundlessness:</a>
 
 
@@ -12456,6 +12497,7 @@ Er qualia-feel is really different but still all seamless something something, c
 
 * The "armature of attention"-y thing is like the initial heavyweight unnecessary-ness of attention, the thing-ness of it that’s like going out to things and sort of curling back to look back at itself-ish, that’s entangled too much with subtle muscle activity that becomes lighter and lighter and "flatter and flatter" and like recedes backwards into itself, spreads out, sort of (cf. luminosity / in the seeing, just the seen; in the hearing, just the heard, etc., etc.) as it self-untangles. See also: <a href="#attention-is-not-fundamental">attention is not fundamental</a>. "Armature" is also evocatively mentioned one or two other times if search in doc.
 
+* Layering sometimes kind of feels like "pushing something away" (and sometimes that's the right thing to do! technical debt is sometimes useful! also, sometimes you can't help it!) scratch note: "*not* 'pushing away'/'pushing elsewhere' is sort of the inverse operation of layering. or like takes advantage of superficial layering lability"
 
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
