@@ -4185,6 +4185,8 @@ Notes:
 * "\*-ing away from" (cf. past actions, irredeemability, (self-)forgiveness)
 * (")control\[ling\]\("\)
 * (")ignoring(")
+* protagonisting/&#8203;protagonist-ing/&#8203;personing/&#8203;person-ing/&#8203;imitating
+
 
 Notes:
 
