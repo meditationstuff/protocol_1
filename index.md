@@ -4185,7 +4185,7 @@ Notes:
 * "\*-ing away from" (cf. past actions, irredeemability, (self-)forgiveness)
 * (")control\[ling\]\("\)
 * (")ignoring(")
-* protagonisting/&#8203;protagonist-ing/&#8203;personing/&#8203;person-ing/&#8203;imitating
+* protagonisting/&#8203;protagonist-ing/&#8203;personing/&#8203;person-ing/&#8203;imitating/&#8203;identity-ing/&#8203;(!)willing(!)/&#8203;(!)will-ing(!)/&#8203;(!)meditating(!)/&#8203;me-ing
 
 
 Notes:
@@ -7355,6 +7355,11 @@ Notes:
 	* the ways in which you can rest in this moment
 	* ...
 
+\*
+
+* much of the brain is devoted to autonomic functions! \*\*
+* meditation (or maybe anything) that proceeds by “sympathetic override”/“sympathetic overdrive” is a form of accumulated technical debt. Sometimes you can go slow enough that the bodymind can keep up, catch up so as to not incur debt. (Sometimes debt is unavoidable or temporarily helpful, etc., etc., but other times it’s long-run very costly, etc., etc.)
+* When lipid/&#8203;fat burning downregulates  or “turns off”, that can feel like heavy limbs or being disinclined to move or get up. Sometimes that’s followed by an increase in cortisol/&#8203;adrenaline and increased blood pressure or heart rate for additional release of glucose as an alternative fuel source. 
 
 [<a href="#154a4h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -12500,6 +12505,8 @@ Er qualia-feel is really different but still all seamless something something, c
 * The "armature of attention"-y thing is like the initial heavyweight unnecessary-ness of attention, the thing-ness of it that’s like going out to things and sort of curling back to look back at itself-ish, that’s entangled too much with subtle muscle activity that becomes lighter and lighter and "flatter and flatter" and like recedes backwards into itself, spreads out, sort of (cf. luminosity / in the seeing, just the seen; in the hearing, just the heard, etc., etc.) as it self-untangles. See also: <a href="#attention-is-not-fundamental">attention is not fundamental</a>. "Armature" is also evocatively mentioned one or two other times if search in doc.
 
 * Layering sometimes kind of feels like "pushing something away" (and sometimes that's the right thing to do! technical debt is sometimes useful! also, sometimes you can't help it!) scratch note: "*not* 'pushing away'/'pushing elsewhere' is sort of the inverse operation of layering. or like takes advantage of superficial layering lability"
+
+* "strong negative preferences" like "just hate X" can sometimes have interesting reasons \*\*
 
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
