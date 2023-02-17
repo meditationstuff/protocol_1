@@ -12573,6 +12573,8 @@ Er qualia-feel is really different but still all seamless something something, c
 
 * noting isn't value neutral
 
+* (experimental note to self: Effortlessly notice — no-self, no witness, and non-registration)
+
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
