@@ -331,6 +331,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="158da1ah" href="#naturalization">naturalization</a>
 		* <a id="158da1b2h" href="#cautions-in-favor-of-mere-immediacy-as-sufficiency">cautions in favor of mere immediacy as sufficiency for any global grounding</a>
 		* <a id="158da1b1h" href="#impersonalization-and-environmentalization">impersonalization and environmentalization</a>
+		* <a id="158da1b3h" href="#rebalancing-effortlessness-doing">rebalancing/&#8203;balancing effortlessness and doing</a>
 		* <a id="158da1a1h" href="#vague-sketch-of-progression-with-respect-to-emptine">vague sketch of progression, with respect to emptiness and groundlessness</a>
 		* <a id="158da1bh" href="#touchstones-sort-of-leaving-out-or-only-weakly-inte">touchstones sort of leaving out or only weakly interacting with "wisdom" and morality ("at least one sense in which")</a>
 		* <a id="158da1ch" href="#tweets-shitposts">tweets / shitposts</a>
@@ -2636,6 +2637,12 @@ Finally: shoulder breathing? chest breathing? diaphragmatic breathing? (and post
 
 Generally, when all is well, the jaw is "magnetized" shut (teeth not touching or very lightly touching), or the tongue is "magnetized" to the room of the mouth, and breathing through the nose is effortless and barely perceptible (because breathing rate and volume are in dynamic equilibrium and therefore nose turbinates open). And of course breathing rhythms can change during exercise and emotional arousal, and also the mouth still might be open for thousands of hours in meditation, for all sorts of good reasons, though again will very long-run magnetize lightly closed, all things being equal.
 
+\* 
+
+See also:
+
+* (advanced section) <a href="#rebalancing-effortlessness-doing">rebalancing/&#8203;balancing effortlessness and doing</a>
+
 [<a href="#77h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="78"></span><a id="states" href="#states">states:</a>
@@ -2645,6 +2652,12 @@ Some traditions emphasize cultivation of altered states, residing in altered sta
 This meditation system doesn’t place particular emphasis on altered states and is of the position that systematic cultivation is unnecessary. Intermittent, gentle facilitation of potentially spontaneously arising altered states can be important, though. Through application of method, a meditator may spontaneously "stage"/"prepare" for entry into an altered state, "pop into" the state, "do whatever’s necessary" in that state, and quickly or eventually "pop back out." This can and will eventually, naturally, and spontaneously happen in the course of meditation and doesn’t need to be deliberately cultivated as such. It’s of course generally fine to incline towards interesting or attractive states (perhaps checked against something like the meta protocol) and it’s of course fine to explore and experiment with concentration and tranquility practices.
 
 Deliberate engagement with concentration and tranquility practices can sometimes "burn in" (reversibly!) habits of mind that eventually need to be undone for further progress, which can be a lengthy process. Sometimes light (or even moderate) deliberate cultivation *can* be strategic, on a person by person basis—many of the preliminary/auxiliary practices suggest concentration-/tranquility-like things to try and experiment with. That being said, there’s a right thing, right time, right way, right dose, gently, sensitively, responsively (with plenty of room for error and backtracking) ethos. And much or quite all of engagement with "altered states" can happen spontaneously and naturally, in the course of practice.
+
+\*
+
+See also:
+
+* (advanced section) <a href="#rebalancing-effortlessness-doing">rebalancing/&#8203;balancing effortlessness and doing</a>
 
 [<a href="#78h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7359,7 +7372,13 @@ Notes:
 
 * much of the brain is devoted to autonomic functions! \*\*
 * meditation (or maybe anything) that proceeds by “sympathetic override”/“sympathetic overdrive” is a form of accumulated technical debt. Sometimes you can go slow enough that the bodymind can keep up, catch up so as to not incur debt. (Sometimes debt is unavoidable or temporarily helpful, etc., etc., but other times it’s long-run very costly, etc., etc.)
-* When lipid/&#8203;fat burning downregulates  or “turns off”, that can feel like heavy limbs or being disinclined to move or get up. Sometimes that’s followed by an increase in cortisol/&#8203;adrenaline and increased blood pressure or heart rate for additional release of glucose as an alternative fuel source. 
+* When lipid/&#8203;fat burning downregulates  or “turns off”, that can feel like heavy limbs or being disinclined to move or get up. Sometimes that’s followed by an increase in cortisol/&#8203;adrenaline and increased blood pressure or heart rate for additional release of glucose as an alternative fuel source. Downregulation of adrenals can also cause a heavy limb feeling which can be a part of falling asleep, waking up, etc.
+
+\*
+
+See also:
+
+* <a href="#rebalancing-effortlessness-doing">rebalancing/&#8203;balancing effortlessness and doing</a>
 
 [<a href="#154a4h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -9289,6 +9308,50 @@ One of the reasons all this is important is because meditation can sort of give 
 ---but, impermanence-wise, and no-self-wise, and groundlessness-wise you will ultimately find you cannot! You do still get to keep anything good that you've found or created or discovered, and so on, structure-preserving transformations (and see also "naturalization"), but the "right" move is to sort of, over time, more and more, to untangle and unknot, to let the whole fullness, emptiness, no-essence-ness of stuff exist in dynamicity and flow as sustained, refreshed, reconstituted by the effortlessness of the mere "external" world or at least in addition to the "internal" world (still nonduality, still groundlessness, etc.). This is bandwidth-freeing, slack-creating, fluidity-enabling, and so on.
 
 [<a href="#158da1b2h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="rebalancing-effortlessness-doing" href="#rebalancing-effortlessness-doing">rebalancing/&#8203;balancing effortlessness and doing</a>
+
+(draft, experimental)
+
+This is a bit of an experimental section because there's an empirical component, in the meditator population, of how much it makes sense to emphasize this, depending on how likely people are to encounter things related to it. This section might be really good to have here in "far reaches" or it might be better in "lists and more" and/&#8203;or also better operationalized in the auxiliary practices (possibly forthcoming).
+
+Some people claim that one of the dimensions of "the far reaches of meditation," and perhaps also the most important one, has elements of centerlessness and agencylessness (no-watcher, no-doer). (See also "luminosity" / "in the seeing just the seen; in the hearing just the heard.") See Daniel Ingram here and elsewhere:
+
+https://dharmaoverground.org/web/guest/discussion/-/message_boards/message/2718243 [Last accessed: 2023-02-17]
+
+So there's some distinctions to make, and I feel like the conceptual ontology isn't quite right:
+
+So say there's something like effort, effortlessness, willing, doing in addition to, say, "no-watching" and "no-doing." Perhaps we could say no-self = no-watching and no-doing, at least in this section. And then there's also karma or layering. And then maybe there's also deliberateness.
+
+And then finally, currently, throughout this document, I make a big deal of effortlessness and non-pushing as really great heuristics. And/&#8203;but, there are times when latent "effort" and "pushing" "come up," to integrate, metabolize, burn-off, etc., as part of redo to undo. And, it can even make sense to deliberately effort or "push" under limited circumstances, or so I've generally maintained. This also factors into my position around letting breathing untangle itself and take care of itself, rather than controlling the breath. And, finally, I make points about eventually the whole bodymind system takes care of itself.
+
+And/&#8203;but, at the moment, I think there can be a thing where everything is "fully luminous, nondual" AND there's also a self, so sort of a Ken Wilber transpersonal thing, maybe. And, also, in any case, lots of people have a self for a large part of their meditation practice at the very least. Selves are very useful.
+
+So anyway, people have pointed out to me that there are times when "efforting" feels good and seems good, like at times while exercising, cardiovascular or weightlifting, etc., or playing sports or learning something, and so on. (Call this maybe "conditioning," cf. "deconditioning"---which refers to karma and layering and samskaras and etc., conditioning in the sense of conditioned propensities---whereas here "conditioning" is meant in the "get stronger muscles, increase aerobic capacity, increase neurological efficiency, etc." senses.) And some people claim that deliberate control of the breath, like breathing exercises or deep breathing, etc., can be long-run beneficial (as opposed to my claim that this is very, very prone to accidental layering). (Ditto for concentration practices, jhanas and jhanic factors and cultivating the brahmaviharas---my claim is these are very prone to accidental layering, very prone to being counterproductive even if practiced in some sense "correctly," though not all senses of correctly.)
+
+Whether or not we take centerlessness and agencyless as a stable, long-run asymptote, (now-ish think) there's at least a mediate situation where there has to be something like "non-karma-generating deliberate action." So, like, it's at least *deliberate* or *intentional* or something, or it *can* be, even it isn't always---like, it's an agentic act or an act of the self, which could be bottom-up or shade into bottom-up (i.e., it arises spontaneously) but also it can be deliberately or intentionally done, non-spontaneously done (in some sense), top-down. And it might or might not qualify as "doing," depending on how conceived. And it might or might not have some "effort." And it might or might not have some "will." But, in any case, critically, there are versions of this that are either perfectly non-karma-generating, perfectly non-layering, or any karma or layering that is generated is immediately dissolvable in principle.
+
+Like, it now/&#8203;currently seems to me that there has to be something like "(deliberate/&#8203;non-spontaneous/&#8203;self-laden)doing" that is both *deliberate* and *non-karma-generating*, no layering, no technical debt, as an in-principle possibility. So that "admits," under some conditions and regimes and qualities, striving(?) during exercise and competition and play and learning and "conditioning" etc., including like pranayama and autonomic regulation/&#8203;relaxation/&#8203;heart-rate-variability-enhancing-type breathing, and so on. A lesser claim might be something like, long-run or locally, such things are *net-de-layering* but contain all of layering, neutral, and delayering within them---and I think that's generally the case, especially pre-far-reaches. But I'm making a "stronger" claim that under some long-run, if not even-longer-run, conditions or regimes that one can have a self AND take actions that don't generate karma, at least in principle.
+
+Anyway, I'm still trying to tease apart some good-enough phenomenological combinatoric possibilities and (held loosely, concepts are fake) conceptual distinctions, because different people will experience some things in different orders, and it's relevant to practice in terms of reducing the likelihood of getting jammed up or being in unpleasant or debilitating territory for too long.
+
+So, say, you have a post-viral syndrome or something really stressful happened and for whatever reason your autonomic nervous system is disregulated in a way that's due to unhappy neurons or glands or is otherwise sticky somehow, and your sympathetic tone is too high or something. Or, meditatively, you're in a situation where it seems like every available direction is "uphill" AND it truly, truly, truly seems like patiently waiting is not the right option. Then, in the autonomic nervous system case, it might make sense to do some sort of "balanced breathing" or something. And in the meditative case, it might make sense to do things like (I still don't like these wordings; not quite...):
+
+(Perhaps when every direction is effortful or when all directions seem to involve uphill doing or pushing:)
+
+* Effortlessly effort
+* Effortlessly seek effort
+* Effortlessly allow effort to arise
+* Effortlessly inclined towards effortlessness while allowing a latent effort to effortlessly arise and work itself out
+* Effortlessly allow effort to arise and eat itself
+* Surrender to mere efforting
+
+In the meditative case, a reason why these distinctions or possibilities are important: So to partly summarize, "prior to far reaches, at least" heading in direction of X will be a combination of (a) delayering and burn-off and (b) suppression/&#8203;pushing-away, the latter, (b), inadvertently because of implicit/&#8203;unknowing error propagation. And then, eventually because of redo-to-undo, one has to constructively find/&#8203;"raise" remaining latent X for burn-off, without also adding new X. So one sort of needs a delicate increase/&#8203;find/&#8203;raise for integration/&#8203;burn-off/&#8203;redo-to-undo *instead-of/&#8203;without also* entrenching/&#8203;increasing X. X might be effort, muscle tension, and other "bad" stuff, except that there might be such a thing as non-karmically-generating effort/&#8203;self-ing and also general muscle tone and/&#8203;or strong muscle contractions are part of life and living and exercise and etc.
+
+Anyway, I think there are (greather than usual?) conceptual tangles, still, but there's something here.
+
+[<a href="#158da1b3h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="158da1a1"></span><a id="vague-sketch-of-progression-with-respect-to-emptine" href="#vague-sketch-of-progression-with-respect-to-emptine">vague sketch of progression, with respect to emptiness and groundlessness:</a>
@@ -12508,6 +12571,8 @@ Er qualia-feel is really different but still all seamless something something, c
 
 * "strong negative preferences" like "just hate X" can sometimes have interesting reasons \*\*
 
+* noting isn't value neutral
+
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
@@ -13974,6 +14039,16 @@ at least one sense in which there is no fact of the matter that is not "ultimate
 at least one sense in which you don't need to figure anything out
 
 at least one sense in which there's nothing to figure out
+
+\*
+
+> *"But when people become enlightened or whatever, they often say they’ve “become one with the Universe”. This has always seemed dubious; even the obscure species of aphid we haven’t catalogued yet? Even the galaxies outside our lightcone?"*
+
+> *"I propose a friendly amendment: they’re noticing that most of what they are - the vast majority of their brain - is a giant predictive model of the universe. This model is big enough that they have lived inside it their entire life, with only slight edits from lossy sensory information that help fit it to the real universe. I’ve written about this before in the context of lucid dreaming - a dreamer safe in bed can apparently wander their neighborhood, seeing each tree and car and dog in detail approximately equivalent to waking experience. No astral projection is involved - they’re wandering around their internal world-model, which contains 99% of the relevant information, with real sensory information filling in the missing 1%. Once you stop obsessing over the character you’re playing, you notice the GIANT SUPER-ACCURATE WORLD MODEL TAKING UP 99.99% OF YOUR BRAIN and you think huh, I guess I’m the Universe.*"
+
+---from https://astralcodexten.substack.com/p/janus-simulators [Last accessed: 2023-02-17]
+
+(This is really great, though it's leaving out something I haven't articulated, yet. I've said something similar (still not the just-aforementioned unarticulated thing) above in this section and in one or two other places if you search for "kosmos" in the document and possibly elsewhere, too.)
 
 [<a href="#188bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
