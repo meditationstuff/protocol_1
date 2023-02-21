@@ -7848,4 +7848,16 @@ Welcome (at-first-hidden) anxiety (if any).
 
 [<a href="#934auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="935auxiliary"></span><a id="treat-it-as-infinite" href="#treat-it-as-infinite">treat it as infinite:</a>
+
+Treat it (meditation) as infinite (no "done," [as per of course] but/&#8203;nor even "asymptotic done;" cf./&#8203;vs. impermanence, non-eternity).
+
+[<a href="#935auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="936auxiliary"></span><a id="flow-downhill" href="#flow-downhill">flow downhill:</a>
+
+Let meditation proceed as if by/&#8203;as water flowing downhill, let/&#8203;find it naturally, spontaneously doing its thing, all by itself, in spontaneous simplicity or complexity.
+
+[<a href="#936auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
