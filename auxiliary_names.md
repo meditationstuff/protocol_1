@@ -946,5 +946,6 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="934auxiliary_names" href="#welcome-anxiety">welcome anxiety</a>
 * <a id="935auxiliary_names" href="#treat-it-as-infinite">treat it as infinite</a>
 * <a id="936auxiliary_names" href="#flow-downhill">flow downhill</a>
+* <a id="937auxiliary_names" href="#instead-of">instead of</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
