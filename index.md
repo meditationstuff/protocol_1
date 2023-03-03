@@ -2166,7 +2166,7 @@ One can do a similar thing with self-improvement and meditation techniques. That
 
 That similar thing is to write better meditation manuals, and to keep improving them. Make them comprehensively explicit and conceptually clear. (My material has a long way to go, but it’s arguably pretty good. It seems like people do best when they’ve had some prior contact with other meditation techniques, and often it takes at least a tiny bit of question-answering with me, but some fraction of people on-ramp pretty quickly. And it’s my hope that skilled people will be able to de novo bootstrap with my material even if they have no contact with anyone who’s used it before, say if they find it on the internet somewhere.
 
-There’s still all sorts of dangers, here. It’s a trope of people destroying themselves with found texts and people mistintpreting texts or teachers, going too far too fast or perversely misterpreting, becoming dark wizards, cult leaders, arch nemeses, and so forth.
+There’s still all sorts of dangers, here. It’s a trope of people destroying themselves with found texts and people mistintpreting texts or teachers, going too far too fast or perversely misinterpreting, becoming dark wizards, cult leaders, arch nemeses, and so forth.
 
 But there’s something better, sometimes, about freely available, explicit meditation manuals versus esoteric knowledge mostly locked up in people. (Back in the day, by being esoteric, that’s how some traditions survived, I assume, making it possible for as to know about them and build on them. They kept the knowledge rare and valuable, so they could eat and keep the thing going. Hard problems, here. It sometimes also avoided the dangers in the above paragraph, probably, but the tropes still exist for a reason.)
 
