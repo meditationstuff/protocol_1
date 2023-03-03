@@ -2192,60 +2192,30 @@ See also, if twitter still exists when you’re reading this: https://twitter.co
 
 Well, he probably wouldn’t mind if I just pasted it here:
 
-Thread  
-See new Tweets  
-Conversation  
-Simon Wardley #EEA #Labour  
-@swardley  
-Me : Gosh, your work is truly amazing.  
-X : Thanks. I'd like to make it more widespread like your mapping.  
-Me : That's easy. Just make it open, creative commons. People will ignore for years but don't worry.  
-X : What if someone steals it.  
-Me : They can't steal what you give away.  
-5:23 PM · Nov 28, 2019·TweetDeck  
-18  
- Retweets  
-70  
- Likes  
-Simon Wardley #EEA #Labour  
-@swardley  
-·  
-22h  
-Replying to  
-@swardley  
-X : But wha if someone else makes money with it?  
-Me : That's good news. The more the better. You're trying to create a community, a space for your work to exist in. Do you seek irrelevance?  
-X : No  
-Me : Then open it up.  
-Simon Wardley #EEA #Labour  
-@swardley  
-·  
-22h  
-X : Can't I get some VC to sponsor or invest in me?  
-Me : You're more likely to get someone with capital to steal your idea, cut yourself out of a market and never expand it. Entire markets are lost over legal squabbles and attempts to "own" stuff ... see Unix.  
-Simon Wardley #EEA #Labour  
-@swardley  
-·  
-22h  
-X : I wasn't around at that time.  
-Me : Oh, no problem. The entire future of the operating system was lost by a bunch of squabbling execs backed up by over enthusiastic lawyers, none of which could spell strategy let alone play it. This is a common story throughout history.  
-Simon Wardley #EEA #Labour  
-@swardley  
-·  
-22h  
-... into the mix, an "unruly" individual played an open source hand and asked for help. It was mostly laughed at, dismissed as lacking any business acumen and then won the world. It's another reasonably common story.  
-Simon Wardley #EEA #Labour  
-@swardley  
-·  
-22h  
-X : Reasonably?  
-Me : Yes ... an open play doesn't exempt people from making utterly daft mistakes. See OpenStack and differentiation on APIs with AWS.  
-Simon Wardley #EEA #Labour  
-@swardley  
-·  
-22h  
-X : I'm nervous about this.  
-Me : Well, that's a good sign. The numero uno of daft moves is to open by default. You're struggling with this question which means you're on the open by thinking path. Even my opening of mapping all those years ago had a plan but no guarantees  
+Me: Gosh, your work is truly amazing.
+X: Thanks. I'd like to make it more widespread like your mapping.
+Me: That's easy. Just make it open, creative commons. People will ignore for years but don't worry.
+X: What if someone steals it.
+Me: They can't steal what you give away.
+
+X: But what if someone else makes money with it?
+Me: That's good news. The more the better. You're trying to create a community, a space for your work to exist in. Do you seek irrelevance?
+X: No
+Me: Then open it up.
+
+X: Can't I get some VC to sponsor or invest in me?
+Me: You're more likely to get someone with capital to steal your idea, cut yourself out of a market and never expand it. Entire markets are lost over legal squabbles and attempts to "own" stuff ... see Unix.
+
+X: I wasn't around at that time.
+Me: Oh, no problem. The entire future of the operating system was lost by a bunch of squabbling execs backed up by over enthusiastic lawyers, none of which could spell strategy let alone play it. This is a common story throughout history.
+
+... into the mix, an "unruly" individual played an open source hand and asked for help. It was mostly laughed at, dismissed as lacking any business acumen and then won the world. It's another reasonably common story.
+
+X: Reasonably?
+Me: Yes ... an open play doesn't exempt people from making utterly daft mistakes. See OpenStack and differentiation on APIs with AWS.
+
+X: I'm nervous about this.
+Me: Well, that's a good sign. The numero uno of daft moves is to open by default. You're struggling with this question which means you're on the open by thinking path. Even my opening of mapping all those years ago had a plan but no guarantees
 
 [<a href="#56h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
