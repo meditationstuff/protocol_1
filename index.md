@@ -4549,6 +4549,7 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. What's your "job"?
 1. What's left that you can't self-generate, for yourself?
 1. What are you pushing away that you could safely not push away?
+1. What will you do when you "finish" meditating? (Pretend there's a determinate "done" to the "entire meditation project.") Why not just do that [/those after-you-finish thing(s)] now? [There are both insensitive and profoundly practice-guiding dimensions of exploring this.] Why not also do that [/those after-you-finish thing(s)] now? (if you're not already) Are there good "reasons" not to? (Often! Of course! Duh! But! ---Are you sure!? And not to inappropriately reify "reasons.") [This can be good to explore for any seeming bottlenecks or pinch-points or roadblocks---after you're better, healthy, healthier, wealthy, loveable, etc. Of course, of course, meditation changes your "beliefs," "preferences," "plans," goals," etc., over time, making it challenging to explore the questions, here. But! etc.]
 
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
