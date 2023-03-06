@@ -3237,7 +3237,7 @@ This is a very, very, very, very rough breakdown of how you might use your time 
 	* meta protocol 15%
 	* creativity/unsticking practice 2%
 	* meta meta protocol 5%
-	* main practices 72%
+	* main practices 72% (note~ the sub-breakdown below adds up to 100% of this 72%)
 		* p0 1%
 		* p1 2%
 		* p2 80% [sic!]
