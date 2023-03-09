@@ -7879,21 +7879,28 @@ comment:
 
 # <span id="938auxiliary"></span><a id="surely-anxious" href="#surely-anxious">surely anxious:</a>
 
-Consider or pretend or entertain that you *have* to be anxious about something, that you *must* be anxious about something, that *surely* you're anxious about something. Now, what perhaps might that or those something(s) be? As one option, it's ok to just guess and see what comes up.
+Consider or pretend or entertain that you *have* to be anxious about *something*, that you *must* be anxious about *something*, that *surely* you're anxious about *something*. Now---what perhaps might that or those something(s) be??? As one option, it's ok to just guess and see what comes up.
 
 comment:
 
-You can do this for things that seem "purely physical," too---e.g., pretend that this sharp, burning pain you feel in the left side of your chest (that, say, even, was so bad you got it checked out by a doctor but they couldn't find anything), that, gently, provisionally, just for the sake of exploration and experimentation, *has* to be anxiety-related, *must* be anxiety-related, *surely* is anxiety-related. Now, what perhaps might that or those something(s) be? As one option, it's ok to just guess and see what comes up.
+You can do this for things that seem "purely physical," too---e.g., pretend that this sharp, burning pain you feel in the left side of your chest (that, say, even, was so bad you got it checked out by a doctor but they couldn't find anything by sight, palpation, labs, or imaging), that, gently, provisionally, just for the sake of exploration and experimentation, *has* to be anxiety-related, *must* be anxiety-related, *surely* is somehow anxiety-related. Now---what perhaps might that or those something(s) be??? As one option, it's ok to just guess and see what comes up.
 
 see also:
 
-At the not-even-that-extreme, "conversion disorder" or "functional neurological [symptom] disorder," e.g. https://en.wikipedia.org/wiki/Conversion_disorder [last accessed: 2023-03-08]
+At the not-even-that-extreme, "conversion disorder" or "functional neurological [symptom] disorder," are things. See maybe: https://en.wikipedia.org/wiki/Conversion_disorder [last accessed: 2023-03-08]
 
 other examples:
 
-Waking-up-at-3-A.M.-with-your-heart-pounding-type things, breathing-type things, etc., which can piggyback on, and amplify, mild or moderate "real stuff" (or even "completely unravel" leaving no "real stuff" behind whatsoever). Always get stuff checked out by a doctor when that makes sense, etc., etc., etc.
+Waking-up-at-3-A.M.-with-your-heart-pounding-type things, breathing-type things, etc., which can piggyback on, and amplify, mild or moderate (or intense) "real stuff" (or, not even piggybacking, they might even "completely unravel" leaving no "real stuff" behind whatsoever). Always get stuff checked out by a doctor when that makes sense, etc., etc., etc.
 
 [<a href="#938auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="939auxiliary"></span><a id="choiceless-awareness" href="#choiceless-awareness">choiceless awareness:</a>
+
+Surrender, let go, release, let your attention/&#8203;awareness be pulled, let your attention/&#8203;awareness perhaps alight on something (perhaps momentarily, perhaps right onto, right through to, the next thing---and on---and the next---and on---effortless, smoothly, quick-changing liquid, flowing downhill like water, path of least resistance.
+
+[<a href="#939auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
