@@ -7898,7 +7898,7 @@ Waking-up-at-3-A.M.-with-your-heart-pounding-type things, breathing-type things,
 
 # <span id="939auxiliary"></span><a id="choiceless-awareness" href="#choiceless-awareness">choiceless awareness:</a>
 
-Surrender, let go, release, unbiased, any-which-way let your attention/&#8203;awareness be pulled, let your attention/&#8203;awareness perhaps alight on something (perhaps momentarily, perhaps right onto, right through to, the next thing, stuff, anything, anything, anything,---and on,---and the next,---and on,---effortless, smoothly, quick-changing liquid, flowing downhill like water, path of least resistance.
+Surrender, let go, release, unbiased, any-which-way let your attention/&#8203;awareness be pulled, let your attention/&#8203;awareness perhaps alight on something (perhaps momentarily, perhaps right onto, right through to, the next thing, stuff, anything, anything, anything,---and on,---and the next,---and on,---effortless, smoothly, any-directional, fractal reverse-or-zig-or-zag-if-needed, any-manifold, quick-changing liquid, flowing downhill like water, path of least resistance.
 
 [<a href="#939auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
