@@ -2573,6 +2573,10 @@ For jaw tension, you might bite down on something or use a mouthguard, some thin
 
 Generally, if an irritated joint wants to move, having things to squeeze, press against, or slide against can slow things down, reduce currently problematic degrees of freedom and/or increase feedback through resistance or friction.
 
+Generally, hard surfaces (e.g. a meditation bench without a cushion or a wood floor when standing) give very good postural and proprioceptive feedback. Soft and comfortable surfaces can make it easier to "go inside oneself," when that makes sense, and it often does!
+
+Traditional meditation postures, all things being equal, can help one protect the neck, and are a good combination of sort of "hard" and "soft," depending on one's body type, and so on. And sometimes a traditional posture can be modified with a chair or a bench, and so on.
+
 In summary, it’s good to be able to meditate sitting or standing tall, but it’s also good to be able to arrange your environment when/if that’s the best thing, too.
 
 \*\*\*
