@@ -1,4 +1,4 @@
-# <a id="appendix-7-jhana-for-long-covid" href="#appendix-7-jhana-for-long-covid">appendix 7: jhana for long covid (and other things) (draft, experimental)</a>
+# <a id="appendix-7-jhana-for-long-covid" href="#appendix-7-jhana-for-long-covid">appendix 7: jhana for long covid (and other things) (draft, incomplete, experimental)</a>
 
 According to a least one recent peer-reviewed paper [~20230311], there are maybe rough "clusters" of long covid symptoms. One cluster is maybe characterized by breathing difficulties (tight chest, painful chest, the experience of respiratory depression), insomnia, and anxiety (and things maybe common to other clusters like low-energy, brain fog, fatigue, and post-exertional malaise).
 
