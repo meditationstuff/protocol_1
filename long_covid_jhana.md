@@ -32,4 +32,33 @@ Brasington, Leigh. Right concentration: A practical guide to the jhanas. Shambha
 
 At least at this time, I don't actually teach jhana and I am neither classically trained or qualified to teach jhana. Please seek the advice of experienced jhanic practioners and teachers as makes feels right to you.
 
+## a larger felt "envelope of safety" so that the bodymind relies less on adrenaline and catecholimines as safety responses
+
+One could make a distinction between, on the one hand, white-knuckling and teeth-gritting, and, on the other hand "actually looking." This is not a moralizing distinction. One only "actually looks / actually sees" when it's all-the-way-down believed-/&#8203;felt-safe to do so. That is real looking, made out of tiny little steps of progressive real looking, one after another, and it is spontaneous and effortless; it just happens, it happens *for* you.
+
+You can definitely take actions, help, around the edges, you can gently encourage, keep-company, suggest, nonverbally, or dialogue, or gently, provisionally, surrenderingly, participatingly negotiate or bargain with the bodymind. You can do things bobbo initiate gentle proximal experiments; gently, temporarily, experimentally, briefly, temporarily, maintain ground within a zone of tolerable discomfort or tolerable uncertainty. "If it's safe, if it's not *mean*, if it's not self-hateful, if loving, let it hurt, let it scream, the horror happens... ...and see what happens."
+let horror, let the *self-acceptable* possibility of disaster unfold...
+
+That last mile, that last moment just happens, though, when it's ready. It's sometimes just fine, pleasant, sometimes really scary, really unpleasant, sometimes even hellish, on and off, until then, and then "oh" or "oh!"
+
+## internal, external, self-compassionate epistemics
+
+This isn't just an "internal" thing---sometimes it can be *unhelpful* to read up on things, to google "\<horrible thing\> reddit," without the quotes, heh, and sometimes it can be *helpful* (oh, that is a good [horrifying!] explanation, but, maybe, and I'm a little closer to understanding, maybe") and sometimes it's a mixed bag or it's initially uncertain. But, generally, knowledge is power. If something is scary, long-run, it can often be helpful to read about it, to learn from other people's experiences, etc. If one is going "external" (and for "internal," too), ---epistemic hygiene--- yes people who have the worst of it never post or never come back, but also people for whom things went just fine ...
+
+Notes for incorporation:
+
+Prospective and retrospective engagement when you're there with what happens when you're not there. 
+
+Just a little, just a little, too much is too much, there is always a little less ever slighter
+
+The implications, the expectations
+
+Participating in that 
+
+Oh. *Oh.*
+
+Titration, just to the edge. You'll accidentally go past at first, too far at first, too much at first, that won't work, then back, then just a little (you won't know how at first), then just a little, there's the edge, that's not too much, learning occurs, there.
+
+
+
 [<a href="#200h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
