@@ -9,7 +9,7 @@
 
 Based on some remaining sticky stuff, I have increased my credence a bit (from nearly zero) that 4th jhana might be really important to "go all the way."
 
-So, possibly, the right thing to do is to only meditate outside jhana for the purposes of becoming able to achieve 4th jhana, then do nearly all meditation from there on in 4th jhana. And then all other heuristics and everything else from my doc still applies.
+So, possibly, the right thing to do is to only meditate outside jhana for the purposes of becoming able to achieve 4th jhana, then do nearly all meditation from there on in 4th jhana. And then all other heuristics and everything else from my doc still applies (e.g. you can achieve jhana in a problematically layery way; you can layer in jhana, etc.)
 
 The reason I'm wondering this, is that, because of the way that jhana may uncouple some body maps, it may permit certain reconfigurations much more flexibly than would otherwise be possible if someone was sort of in a more "normal" state and had all their body maps coupled up for going about doing stuff in the world.
 
