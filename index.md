@@ -4,6 +4,31 @@
 
 </center>
 
+
+# <a id="temporary-note-20230413" href="#temporary-note-20230413">temporary note 20230413:</a>
+
+Based on some remaining sticky stuff, I have increased my credence a bit (from nearly zero) that 4th jhana might be really important to "go all the way."
+
+So, possibly, the right thing to do is to only meditate outside jhana for the purposes of becoming able to achieve 4th jhana, then do nearly all meditation from there on in 4th jhana. And then all other heuristics and everything else from my doc still applies.
+
+The reason I'm wondering this, is that, because of the way that jhana may uncouple some body maps, it may permit certain reconfigurations much more flexibly than would otherwise be possible if someone was sort of in a more "normal" state and had all their body maps coupled up for going about doing stuff in the world.
+
+Relatedly, this would make me less "gotta play with all the postures" and more chill about gently maintaining a more "correct" meditation postures, rather, "neutral" meditation postures, for correct refactoring and distributing of "stuff" through the entire body map, because this would be more flexibly workable, maybe, in jhana. However, prior to achieving 4th jhana, someone should then use whatever creative and weird meditation postures they needed, in that world. Maybe!
+
+Credence from like 1% to idk 5%, so far, but I think I'm going to investigate. I'll update doc if I substantially change my mind about the importance of jhana.
+
+\*
+
+Further, I'm updating more on the dangers of meditating in "comfortable" postures, at least, that don't have good feedback loops, like cushy chairs and stuff that have "give" which makes it harder to know how muscle tension and things are redistributing through the body.
+
+I may add more about this too. I have some investigating to do!
+
+\*
+
+If you have strong opinions about any of this, I'd be interested in hearing from you. Please email me at meditationstuff at gmail dot com.
+
+\/end temporary note
+
 <span id="byline"></span> **by** Mark D Lippmann and collaborators
 
 <span id="collaborators-and-credits"></span> **Collaborators and Credits (needs to be updated):** ...JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, KQ, MO.)
@@ -2519,6 +2544,8 @@ If it’s hard to "sit down to meditate" or meditation has lately been "immediat
 
 # <span id="76"></span><a id="posture-section-needs-editing" href="#posture-section-needs-editing">posture (section needs editing):</a>
 
+IMPORTANT: See <a href="#temporary-note-20230413">temporary note 20230413</a>
+
 You should be continually cycling through different meditation postures, to vary the kinds of feedback you’re giving your system. This reduces risk, including the risk of muscle tension issues. You might sit and stand in a single day. Or you can sit for three days, stand for two days, be in bed or on the couch for a day, etc. Never trade increased muscle tension for "progress." It’s not worth it. I personally meditate pretty equally sitting, standing, and lying down (I might do one of these for several days in a row then switch). I do less walking (while "meditating-meditating," but see below) and yoga asanas. Sort of unrelatedly, but I wanted to add it somewhere, I also alternate earplugs versus no earplugs, blanket(s) or no blanket(s), sleep mask or pitch black room versus bright room or open space, eyes open versus eyes closed, laying on back, laying on my right side, laying on my left side, etc.
 
 Favorite meditation postures/combinations (unordered): sitting, lying down back/sides, Zhan Zhuang / standing, walking, running/jogging, yoga asanas, eyes open/closed, earplugs +/-, eye shades / complete darkness / pitch black +/-, netflix, amazon video, facebook, twitter, watching blog stats
@@ -2652,6 +2679,8 @@ See also:
 [<a href="#77h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="78"></span><a id="states" href="#states">states:</a>
+
+IMPORTANT: See <a href="#temporary-note-20230413">temporary note 20230413</a>
 
 Some traditions emphasize cultivation of altered states, residing in altered states, and/or mastery of altered states.
 
