@@ -60,7 +60,7 @@ Oh. *Oh.*
 Titration, just to the edge. You'll accidentally go past at first, too far at first, too much at first, that won't work, then back, then just a little (you won't know how at first), then just a little, there's the edge, that's not too much, learning occurs, there.
 
 
-## Tower-of-hanoi parallelizable safe reversibilities
+## tower-of-hanoi parallelizable safe reversibilities
 
 Apologies if I generate some insight porn here but it ends up not being the best way to look at this. There's lots of lindy (time-tested) material out there.
 
@@ -70,5 +70,8 @@ Given something like "layering theory" where "layering" is something like a chan
 
 Now accumulating all those parallelizable safe reversibilities is a puzzle, hence tower-of-hanoi.
 
+## movement
+
+Exploring full range of motion (every joint through every degree of freedom, against gravity carefully within tolerance) can help to rebalance the autonomic nervous system.
 
 [<a href="#200h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
