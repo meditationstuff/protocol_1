@@ -7915,6 +7915,8 @@ You might explore "reversibility," whether such redirection "does something" tha
 
 Redirecting attention could be "doing something else;" it's not limited to just/&#8203;only "attending to something else."
 
+The/&#8203;which particular "something else" or "(doing) something else" in any particular relevant (pre-)moment might matter more, sometimes, and matter less, sometimes.
+
 [<a href="#940auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
