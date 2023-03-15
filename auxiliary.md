@@ -7903,4 +7903,19 @@ Surrender, let go, release, unbiased, any-which-way let your attention/&#8203;aw
 [<a href="#939auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="940auxiliary"></span><a id="redirect-attention" href="#redirect-attention">redirect attention:</a>
+
+Deliberately redirect your attention, (away) from something that is tugging on, or would like to hold onto attention, to something else.
+
+comment:
+
+You might momentarily or briefly sustain this redirection of attention or simply let go afterwards and see what happens.
+
+You might explore "reversibility," whether such redirection "does something" that can be "one-step undone." It's not necessarily a bad thing if not or if "it doesn't seem to work that way."
+
+[<a href="#940auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
