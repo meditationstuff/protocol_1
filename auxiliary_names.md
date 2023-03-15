@@ -950,8 +950,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="938auxiliary_names" href="#surely-anxious">surely anxious</a>
 * <a id="939auxiliary_names" href="#choiceless-awareness">choiceless awareness</a>
 * <a id="940auxiliary_names" href="#redirect-attention">redirect attention</a>
-
-
+* <a id="941auxiliary_names" href="#environmental-attentional-pull">environmental attentional pull</a>
 
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

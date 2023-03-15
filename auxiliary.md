@@ -7916,6 +7916,15 @@ You might explore "reversibility," whether such redirection "does something" tha
 [<a href="#940auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="941auxiliary"></span><a id="environmental-attentional-pull" href="#environmental-attentional-pull">environmental attentional pull:</a>
+
+Add something that pulls attention to the environment, e.g. music, an open window, streaming video, netflix, an audiobook, a lightshow on the ceiling, etc.
+
+comment:
+
+This doesn't mean you should actively avoid the attentionally pulling thing, or that you should or shouldn't get lost in it or that you should or shouldn't enjoy it, or that you should or shouldn't "deconstruct" it, or anything, etc.
+
+[<a href="#941auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
