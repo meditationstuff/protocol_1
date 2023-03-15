@@ -7913,6 +7913,8 @@ You might momentarily or briefly sustain this redirection of attention or simply
 
 You might explore "reversibility," whether such redirection "does something" that can be "one-step undone." It's not necessarily a bad thing if not or if "it doesn't seem to work that way."
 
+Redirecting attention could be "doing something else;" it's not limited to just/&#8203;only "attending to something else."
+
 [<a href="#940auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
