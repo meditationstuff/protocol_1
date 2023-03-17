@@ -6467,15 +6467,17 @@ See also:
 
 It's important to have good CO2 tolerance, for a bunch of reasons. You want the body to not "blow off" too much CO2 (carbon dioxide). We can slowly lose CO2 tolerance over time if we "over breath," that is breath too fast or deep for our current level of metabolic output. Meditation untangles breathing and makes overbreathing less, over time, in general. But, even still, "anxietating," butt-in-chair stressful knowledge work, low-metabolic disease states, etc., can make losing CO2 tolerance more likely.
 
-One way to improve CO2 tolerance is to do various kinds of breathing exercises---note that most breathing exercises might blow off too much CO2. You want breathing exercises that somehow involve net inhalation or pausing the breath somewhere across the whole pattern.
+One way to improve CO2 tolerance is to do various kinds of breathing exercises---note that most breathing exercises might blow off too much CO2. You want breathing exercises that somehow involve net slowing the breath, pausing the breath, emphasizing exhalation somehow in duration or volume, or making the breath more shallow, somewhere across the whole pattern. Inhalation of relatively lower-CO2 air is what decreases the concentration of CO2 in the lungs and in the blood. Also, none of this is medical advice.
 
 One example, perhaps: "For a time, lightly modulate the breath so as to come to feel warm and good and relaxed and safe."
 
 BUT BUT BUT, by far, if possible, the absolute very best way to have good CO2 tolerance is to be physically active, if that's at all possible for your body, even a little bit.
 
-I find that walking doesn't quite do it for me, but that will be enough for a lot of people. A light mix of jogging and/&#8203;or sprinting might be better. Prior to untangling the breath, I needed to do something every 3-11 days. When I'm sick or sedentary, I need to do more, or even a walk is better than nothing if I've been super sedentary, for whatever reason.
+Because, structured breathing exercises can potentially tangle up the breathing rhythm (and maybe other things), even though I'll concede gazillions of people do regular breathing stuff. See also: <a href="#77">breath</a>. If you do do structured breathing stuff, I personally recommend doing it many hours before bedtime, to allow the breathing rhythm to sort and settle through the day.
 
-Meditators might be relatively prone to losing CO2 tolerance in the early stages of meditation if the are still more than their usual habitual behavior.
+Back to physical activity, I find that slow and even relatively brisk walking doesn't quite do it for me, but that will be enough for a lot of people. A light mix of jogging (durational heightened CO2) and/&#8203;or sprinting (CO2 spike) might be better. You might adapt as possible for ability/&#8203;disability, dysautonomia, and ME/CFS. Talk with your doctor, in any case; not medical advice. Prior to untangling the breath, I needed to do something every 3-11 days. When I'm sick or sedentary, I need to do more, or even a walk is better than nothing if I've been super sedentary, for whatever reason. 
+
+Meditators might be relatively prone to losing CO2 tolerance in the early and intermediate stages of meditation if the are more still and quiet, while the breath is still untangling, and thereby possibly "overbreathing," over the course of hundreds and thousands of hours, than their usual previous habitual behavior. Making sure to exercise, somehow, every few days, more for some and less for others, in addition to a meditation practice, should completely prevent this, as best I can tell.
 
 [<a href="#147a1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
