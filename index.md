@@ -6452,6 +6452,10 @@ For unpleasant desomatization, generally nobody likes to feel anxiety or panic o
 
 Sometimes: "Oh, I'm doing that, and, even though I know that, I can't stop." Or, or finally, "Oh, I'm doing that, and I can stop, and I have spontaneously stopped."
 
+Recommended:
+
+* <a href="#surely-anxious">surely anxious</a>
+
 See also:
 
 * <a href="#posture-section-needs-editing">posture (section needs editing)</a>
