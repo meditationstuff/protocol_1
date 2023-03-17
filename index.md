@@ -295,6 +295,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="145ah" href="#theory-driven-theory-harmonizing-equilibriating-int">theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating</a>
 	* <a id="146h" href="#historical-and-contemporary-difficulties-and-uncert">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
 	* <a id="147h" href="#a-brief-and-incomplete-theory-of-muscle-tension-ris">a brief and incomplete theory of muscle tension risk in meditation</a>
+	* <a id="147a1ah" href="#neutral-postures-somatization-desomatization">neutral postures, somatization, desomatization, muscle tension, etc.</a>
+	* <a id="147a1bh" href="#co2-tolerance">CO2 tolerance</a>
 	* <a id="147a0h" href="#clarification-on-muscle-contraction-and-stretching-">clarification on muscle contraction and stretching versus chronic muscle tension</a>
 	* <a id="147a1h" href="#positive-dwelling-in-inability">positive dwelling in inability</a>
 	* <a id="147ah" href="#when-things-get-worse-again-burn-off-integration-su">when things get worse again--burn-off, integration, suppression, unsuppression</a>
@@ -524,7 +526,7 @@ I make many bold assertions in this document, and sometimes I use words like usu
 
 # <span id="16"></span><a id="risks-maximally-cautious-warnings-directives-first-" href="#risks-maximally-cautious-warnings-directives-first-">risks; maximally cautious warnings/&#8203;directives (first-pass, without explanation):</a>
 
-1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
+1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), breathing disturbance, or sleep disturbance then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
 1. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
 1. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
 1. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
@@ -2629,6 +2631,7 @@ See also:
 * <a href="#154a1">prenatal experiences, the fetal position, and other 'be moved bottlenecks'</a>
 * <a href="#158db">ball of string analogy and more on posture and feedback loops</a>
 * <a href="#advanced-postures-and-pitfalls">advanced postures and pitfalls</a>
+* <a href="#neutral-postures-somatization-desomatization">neutral, elongated, light-but-almost-hanging postures, somatization, desomatization, muscle tension, etc.</a>
 
 [<a href="#76h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -6396,6 +6399,81 @@ See also:
 
 [<a href="#147h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="neutral-postures-somatization-desomatization" href="#neutral-postures-somatization-desomatization">neutral, elongated, light-but-almost-hanging postures, somatization, desomatization, muscle tension, etc.</a>
+
+Another lens on muscle tension and other things is "somatization." I'm using this term here non-clinically and informally, and this is not medical or mental health advice. I'm also using the term a little "slant" from its technical context. I also like to use the word "physicalization," but I think that's idiosyncratic.
+
+The basic idea is that "psychological stuff" can show up as "body stuff." This has been a cliche for decades or maybe since pre-history, but it's still absolutely shocking at times.
+
+Somatization can look like muscle tension, pinched nerves, sleep disturbance, breathing disturbance, chest pain (in all sorts of weird point and manifold configurationa and different kinds of sensations), weird heart stuff, chills, panic with respect to sensations or physical symptoms, and so on. Somatization interacts with viral and bacterial illness, post-acute sequelae (e.g. "long covid") and physical trauma, the latter four which can weirdly amplify the former and further confuse and confound things.
+
+If you have a new thing, depending on what's happening and your judgment, you should consider calling a triage line, or calling the equivalent of 911 in your country, or having someone drive you to the emergency room/&#8203;department, or going to urgent care, or making an appointment with your doctor. Generally, all things being equal, consider getting stuff checked out by a licensed professional, then consider somatization.
+
+### causing somatization and reducing the chances of somatization
+
+Sometimes somatization just happens; it just creeps up on you over minutes, hours, days, weeks, months, years.
+
+But, you can reduce the chances of it if you keep an eye out for "making-X-happen-ness"---for breath holding, quasi-deliberate exhalation, quasi-deliberate inhalation, holding an inhaled breath, holding an exhaled-breath state, quasi-deliberate "subtle inner pushing" within or along the surface of the body, clenched jaw, contorted facial expression, contorted neck and shoulder positions, force-y use prayer beads and tally counters, and things like that.
+
+Note, generally, the above are things to try not to do, but, if, at some point, you've *already* done a bunch of these things, possibly for an extended period of time, then it's ok and probably often or usually good to do them again, to allow them to come up and to happen again, sometimes to gently help that happen, as part of redo-to-undo!
+
+You might not remember whether you've done a particular thing in a past, so you might not be sure whether it's ok to "redo-to-undo" it, but effortlessness and spontaneity, sometimes with a little help, generally indicate redo-to-undo, that the things you're doing are good to be doing, and, as per usual, pushing or forcing generally indicate entrenching/&#8203;entrenchment. So, if it wants to happen, versus you're kind of almost doing it to get something to happen, and it can be a little mixed and blurry, you just do the best you can, it's probably at least net redo-to-undo.
+
+Sometimes, as part of redo-to-undo, something (doing, happening) seems spontaneous and effortless, and, so, "good to do or good that it's happening"---for a time, "but" then after a time we find that it's not spontaneous in that somehow, somewhere we've been pushing, clenching, something "there" all along, to make "that" go, and then, "oh," you let go of that pushing, clenching, something. That's normal! That's part of the process! It's working!
+
+Stated a little differently, it's probably ok if-it’s-as-if “stuff” is spontaneously "flowing" from one place to another, just as an example of one thing that can be happening (and is it really "flowing" or whatever, but anyway) *but* if you’re “pushing” stuff to---or into---somewhere else, to like “make something go,” to “make something work,” to “make something happen,” that’s likely problematic.
+
+### neutral, elongated, light-but-almost-hanging postures: reducing the chance of somatization
+
+The classic, imagining a string attached to and lightly tugging your head and spine to the sky, like a plumb line, chest maybe slightly expanded or simply neutral, shoulders neutral or ever-so-slightly forward or back, your vertebrae stacked liked dinner plates, skull perfectly balanced on your stacked spine, everything balanced on your perfectly angled pelvis (in a chair, on a cushion or etc.) can be helpful for reducing the chance of somatization. [The posture description might be shit. Check other descriptions and look at pictures and there are probably a few schools of posture.] If you "go out of alignment" then the posture takes more work, so that's a feedback loop. If something starts to tense, you're more likely to feel it, because you're sort of hanging there. You want your jaw kind of neutral too. And finally you want a cushion or seat that is as firm as possible while still being completely comfortable, to further maximize feedback. If you can't do some of these things for whatever reason, you just do the best you can.
+
+Again, because of redo-to-undo, if you've spent a ton of time outside a neutral meditation posture, i.e. living your life or meditating in all sorts of positions, or inevitably having done some pushing and contorting at some point, it's ok to deviate from neutral postures for seconds, minutes, days, hours, weeks, months, years redo-to-undo purposes!
+
+### de-somatization
+
+I sort of think of there being "directness" and "aboutness." Like directness is "non-immediately-meaning-laden sensations" and aboutness is like meaning-laden-sensations, "knowing," felt-sense-y type stuff, and so on. The boundary between directness and aboutness is blurry and the relationship between the two is inchoate, perhaps in principle.
+
+Importantly, I think generally speaking, while directness and aboutness are highly related, the relationship can be pretty indirect, and often is; generally, aboutness isn’t *in* the directness, if that makes sense?
+
+Like, in desomatization, what can happen is that, like, in the fractional conversion of directness to aboutness---
+
+---there might be, it might feel like a surge of anxiety or panic or overwhelming existential despair, paranoia, traumatic memories, and other things, and also of course positive insights and realizations, that kind of takes you over for a split second (or longer)---
+
+---so like it's happening before you realize it's happening; it's already (just now for for a bit been) happening---
+
+ ---that comes from a place you didn’t expect, where maybe you didn't even know there was a there, there, again before your realize it's happening---
+
+ ---and it’s not immediately obvious that there was any connection at all to what was just immediately happening, i.e. meditating or meditative-ish reverie or doing chores or something in reverie (sometime in the past second, thirty seconds, or hour or something) even though they followed so closely (or relatively closely) in time.
+
+ So like something like that, to compress all that it could be just kind of a surge of something, like a surge or whoa or another emotion, with a dash or insight or understanding, maybe some memory about something that was hard or didn't seem hard at the time.
+
+For unpleasant desomatization, generally nobody likes to feel anxiety or panic or etc., but generally the system does its very best (not to reify "the system," etc., etc.) to make it felt-safe-enough for it happen and only then it happens. And somatization at the extremes can become debilitating or even dangerous. So sometimes somatization is necessary for coping, trading off psychological to the physical. It can be absolutely necessary when we don't have the time or tools or support or knowledge or money or safety to immediately hold or experience or be or feel or work through things meditatively or psychologically or etc., alone, with friends, parents, therapists, etc. But, generally, eventually, you want to de-somatisize for physical health and safety and for psychological/&#8203;spiritual/&#8203;life flourishing in light of impermanence.
+
+Sometimes: "Oh, I'm doing that, and, even though I know that, I can't stop." Or, or finally, "Oh, I'm doing that, and I can stop, and I have spontaneously stopped."
+
+See also:
+
+* <a href="#posture-section-needs-editing">posture (section needs editing)</a>
+* <a href="#advanced-postures-and-pitfalls">advanced postures and pitfalls</a>
+
+[<a href="#147a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="co2-tolerance" href="#co2-tolerance">CO2 tolerance</a>
+
+It's important to have good CO2 tolerance, for a bunch of reasons. You want the body to not "blow off" too much CO2 (carbon dioxide). We can slowly lose CO2 tolerance over time if we "over breath," that is breath too fast or deep for our current level of metabolic output. Meditation untangles breathing and makes overbreathing less, over time, in general. But, even still, "anxietating," butt-in-chair stressful knowledge work, low-metabolic disease states, etc., can make losing CO2 tolerance more likely.
+
+One way to improve CO2 tolerance is to do various kinds of breathing exercises---note that most breathing exercises might blow off too much CO2. You want breathing exercises that somehow involve net inhalation or pausing the breath somewhere across the whole pattern.
+
+One example, perhaps: "For a time, lightly modulate the breath so as to come to feel warm and good and relaxed and safe."
+
+BUT BUT BUT, by far, if possible, the absolute very best way to have good CO2 tolerance is to be physically active, if that's at all possible for your body, even a little bit.
+
+I find that walking doesn't quite do it for me, but that will be enough for a lot of people. A light mix of jogging and/&#8203;or sprinting might be better. Prior to untangling the breath, I needed to do something every 3-11 days. When I'm sick or sedentary, I need to do more, or even a walk is better than nothing if I've been super sedentary, for whatever reason.
+
+Meditators might be relatively prone to losing CO2 tolerance in the early stages of meditation if the are still more than their usual habitual behavior.
+
+[<a href="#147a1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="147a0"></span><a id="clarification-on-muscle-contraction-and-stretching-" href="#clarification-on-muscle-contraction-and-stretching-">clarification on muscle contraction and stretching versus chronic muscle tension:</a>
 

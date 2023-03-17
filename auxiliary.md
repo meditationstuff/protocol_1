@@ -7887,7 +7887,7 @@ You can do this for things that seem "purely physical," too---e.g., pretend that
 
 see also:
 
-At the not-even-that-extreme, "conversion disorder" or "functional neurological [symptom] disorder," are things. See maybe: https://en.wikipedia.org/wiki/Conversion_disorder [last accessed: 2023-03-08]
+At the not-even-that-extreme, "conversion disorder" or "functional neurological [symptom] disorder," are things. See maybe: https://en.wikipedia.org/wiki/Conversion_disorder [last accessed: 2023-03-08] Also: https://en.wikipedia.org/wiki/Somatization [last accessed: 2023-03-17]
 
 other examples:
 
