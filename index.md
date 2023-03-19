@@ -6461,7 +6461,39 @@ See also:
 * <a href="#posture-section-needs-editing">posture (section needs editing)</a>
 * <a href="#advanced-postures-and-pitfalls">advanced postures and pitfalls</a>
 
+\*\*\*
+
+[Editing note: parts of the below are maybe tonally off, still; also general editing]
+
+We could make a distinctions between
+
+* burn-off (evaporation; nothing useful left OR "elegance collapse" into something just as good or better but simpler), 
+* integration (sort of: influence becomes information OR/&#8203;ALSO elegance collapse),
+* entrenchment (stable or increased propensity for something [unwanted]),
+* somatization (decreased propensity of some unwanted thing [e.g. anxiety, suffering] at the cost of subtle, cumulative increase in something off-balance with the body [breath, heart, blood pressure, immune system, muscle tension]; generally reversible).
+
+Something to keep in mind, in my current, never-enough-data opinion, if someone says something like that they no longer suffer, or they no longer experience anxiety (and other things), even or especially if they've been meditating like thirty-to-fifty years, at least 50% of the probability mass or whatever should be on that they have been somatisizing for decades (and there will be extraordinary achievements in there, too, generally, of course, sometimes "free and clear" (in some sense..) and again sometimes devil's bargain).
+
+> if someone says
+
+(This absolutely includes me, by the way. I'm still paying off big mistakes I made many years ago, and there's probably plenty more I'm not yet aware of.)
+
+It's just that meditation can be so hard; one generally wants to hold the hypothesis, gently, that somatization (and, more generally, layering) is/&#8203;are taking place, all things being equal, somehow, somewhere, perhaps steadily cumulatively, including often for very advanced practitioners, and holding this hypothesis is for self-protection and discernment with respect to extraordinary claims that others make and also personal error-correction processes, regarding oneself.
+
+Maybe good to emphasize, that’s not to say if a meditator has obvious or reported health problem that they are necessarily somatisizing. For example, long-term health problems could have driven someone to meditation, even at a young age, etc., etc., or it's chance, other misfortune, etc. 
+
+Other reasons for positive claims besides somatization and extraordinary achievement are mediate fortune (not necessarily good fortune in that sometimes mediate challenges can counterfactually reduce otherwise tremendous suffering later, e.g. gaining experience with the medical system and self-care and healthy habits for a medium-bad health thing, thereby avoiding or greatly ameliorating at least one much worse health thing later, for oneself or another; also, becoming more empathetic and compassionate with respect to other's suffering). And finally, there's, generally, grace, though extraordinary achievement is a subtype of grace and doesn't have explanatory power, in a vacuum.
+
+\*
+
+Say that, suffering, as such, in a vacuum, is bad, but not all contextual suffering is bad (you're the final arbiter), and you're not bad to/&#8203;if you suffer.
+
+\*
+
+To be clear, somatization is a subtype of layering. That is, de-somatization and pre-de-somatization involves ordering and delayering to "get to the right place" (if it's not already 1-step away) and then also during the de-somatization / delayering process, too. Sometimes you'll do some de-somatization, and then you need to wait minutes, hours, or days for other stuff to delayer possibly "quite far elsewhere" then more de-somatization in the "previous place" becomes available, and this can repeat. So, if someone has kind of been somatisizing (and layering) for X years, or they did a bunch and then successfully stopped (maybe without realizing that they had been doing it then that they stopped), it might take months or years to delayer enough that that particular desomatisizing can begin. Not always, though. It depends on the layer structure in the intervening years and it's possible that nothing got layered on top of that particular stuff when they stopped doing it.
+
 [<a href="#147a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <a id="co2-tolerance" href="#co2-tolerance">CO2 tolerance</a>
 
