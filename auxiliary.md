@@ -7887,7 +7887,9 @@ You can do this for things that seem "purely physical," too---e.g., pretend that
 
 see also:
 
-At the not-even-that-extreme, "conversion disorder" or "functional neurological [symptom] disorder," are things. See maybe: https://en.wikipedia.org/wiki/Conversion_disorder [last accessed: 2023-03-08] Also: https://en.wikipedia.org/wiki/Somatization [last accessed: 2023-03-17]
+* <a href="#surely-something-bad">surely "something bad\[-feeling\]"</a>
+* <a href="#neutral-postures-somatization-desomatization">neutral, elongated, light-but-almost-hanging postures, somatization, desomatization, muscle tension, etc.</a>
+* At the not-even-that-extreme, "conversion disorder" or "functional neurological [symptom] disorder," are things. See maybe: https://en.wikipedia.org/wiki/Conversion_disorder [last accessed: 2023-03-08] Also: https://en.wikipedia.org/wiki/Somatization [last accessed: 2023-03-17]
 
 other examples:
 
@@ -7929,6 +7931,15 @@ comment:
 This doesn't mean you should actively avoid the attentionally pulling thing, or that you should or shouldn't get lost in it or that you should or shouldn't enjoy it, or that you should or shouldn't "deconstruct" it, or anything, etc.
 
 [<a href="#941auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="942auxiliary"></span><a id="surely-something-bad" href="#surely-something-bad">surely "something bad\[-feeling\]":</a>
+
+This is a generalized version of <a href="#surely-anxious">surely anxious</a>. Please refer to that auxiliary practice as well. So it's something like, this:
+
+Consider or pretend or entertain that perhaps it *must* be the case, that it's *surely* the case, that there's *something* bad, or something bad happened, or somehow, somewhere you feel bad or awful or etc. about something that *did* happen, or *is* happening, or could happen, or might happen, or will happen, or may have happened, or is still happening, or will start to happen, or will cause bad things to happen, or can't be prevented, or will inevitably happen, as best you can tell, or feels terrible, or awful, or intolerable, or terrifying, or horrifying, or existentially despairing, in any case, as best you can tell. Now, gently, gently, gently, patiently, for short stints, with lots of breaks, over time, explore where, how, what, why, when, whither that might be.
+
+[<a href="#942auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

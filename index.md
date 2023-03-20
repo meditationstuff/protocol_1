@@ -6416,6 +6416,8 @@ Sometimes somatization just happens; it just creeps up on you over minutes, hour
 
 But, you can reduce the chances of it if you keep an eye out for "making-X-happen-ness"---for breath holding, quasi-deliberate exhalation, quasi-deliberate inhalation, holding an inhaled breath, holding an exhaled-breath state, quasi-deliberate "subtle inner pushing" within or along the surface of the body, clenched jaw, contorted facial expression, contorted neck and shoulder positions, force-y use prayer beads and tally counters, and things like that.
 
+(Note: Spontaneous sigh and yawns, small ones, big heaving ones---it's probably ok to gently help things like these get over the hump, as it were, if they need a tiny bit of help. The body wants to do it, and you're helping out. [This applies to some redo-to-undo body movements, too, sometimes many, many times.] At sommmmeeee point it probably blurs into force-y, like really grinding them out, kinda, or something. But this is one case where if the line is a little blurry, I think I'd err on the side of helping along yawns and sighs. Usually the line won't be blurry, though!)
+
 Note, generally, the above are things to try not to do, but, if, at some point, you've *already* done a bunch of these things, possibly for an extended period of time, then it's ok and probably often or usually good to do them again, to allow them to come up and to happen again, sometimes to gently help that happen, as part of redo-to-undo!
 
 You might not remember whether you've done a particular thing in a past, so you might not be sure whether it's ok to "redo-to-undo" it, but effortlessness and spontaneity, sometimes with a little help, generally indicate redo-to-undo, that the things you're doing are good to be doing, and, as per usual, pushing or forcing generally indicate entrenching/&#8203;entrenchment. So, if it wants to happen, versus you're kind of almost doing it to get something to happen, and it can be a little mixed and blurry, you just do the best you can, it's probably at least net redo-to-undo.
@@ -6455,6 +6457,7 @@ Sometimes: "Oh, I'm doing that, and, even though I know that, I can't stop." Or,
 Recommended:
 
 * <a href="#surely-anxious">surely anxious</a>
+* <a href="#surely-something-bad">surely "something bad\[-feeling\]"</a>
 
 See also:
 
@@ -6483,6 +6486,22 @@ It's just that meditation can be so hard; one generally wants to hold the hypoth
 Maybe good to emphasize, that’s not to say if a meditator has obvious or reported health problem that they are necessarily somatisizing. For example, long-term health problems could have driven someone to meditation, even at a young age, etc., etc., or it's chance, other misfortune, etc. 
 
 Other reasons for positive claims besides somatization and extraordinary achievement are mediate fortune (not necessarily good fortune in that sometimes mediate challenges can counterfactually reduce otherwise tremendous suffering later, e.g. gaining experience with the medical system and self-care and healthy habits for a medium-bad health thing, thereby avoiding or greatly ameliorating at least one much worse health thing later, for oneself or another; also, becoming more empathetic and compassionate with respect to other's suffering). And finally, there's, generally, grace, though extraordinary achievement is a subtype of grace and doesn't have explanatory power, in a vacuum.
+
+\*
+
+The connotations are sort of tonally off, but meditation is very much a "giving someone enough rope to hang themselves" sort of thing. I think someone said "meditation will amplify the neuroses you already have" (at least at first?).
+
+Basically, I think, people stumble upon the sort of push-away (--> somatization) maneuver, and layering in general, and think that it's doing something good enough to sort of double-down on (because bad feelings, etc., fractionally, iteratively go away when it's used), and, especially when one is a beginner or intermediate meditator, it can take 100+ hours or a few thousand hours, to notice something is going weird and maybe often not know why. Further, there can be large-scale somatization tangles, where a previous, latent somatization stint, even if no longer actively accumulating somatization, starts causing problems because of how it's getting tugged on or wrapped around, but it can take a long time to "get to it" because of delayering ordering, and so things could get worse for hundreds or thousands of hours before they get better, worst case. Besides somatization-type-things, there's also behavioral, cognitive, preferential, and emotional rigidity-type-things, that can happen from lots of layering, in general, mentioned elsewhere in this document, and those dynamics apply here, too.
+
+\*
+
+In any case, real change comes from, when safe, not even exactly inclining or going towards, though that's often gently ok (if no grinding or jamming), but something more, like, hanging out with; keeping company; being patient with; low-pressure, loose, ok to drift away for a (long) time, almost incidentally "staying with," when you do; neither moving towards, nor moving away; not amplifying nor facilitating, nor pushing away, nor trying to reduce or diminish, if safe... This patient, patient, in its own right revealed order order, un-rush-able, undoes it self, takes care of itself, comes to you, sometimes scary, sometimes soft, somethings big smears and sometimes the tiniest, most intricate things, encountering, encountering, encountering.
+
+(Daniel Ingram, when writing about equanimity, says something like "front of hand and fingers in contact with the water, maintains contact as the water undulates, back of the hand never gets wet." (I think that's not exactly what he said, but. It might be a classic analogy, or something he formulated, not sure.)
+
+> takes care of itself, comes to you
+
+And, of course, still, sometimes, you're trying stuff, experimenting, playing with auxiliary practices, main practices, reading, exploring teachers and systems, and finding the ways in which you've already been doing that thing or already know how to do that thing, in a way that's just right for you.
 
 \*
 
