@@ -449,6 +449,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 * <a id="198h" href="#appendix-5-subtle-interaction">appendix 5: subtle interaction</a>
 * <a id="199h" href="#appendix-6-death-larps">appendix 6: death LARPs</a>
 * <a id="200h" href="#appendix-7-jhana-for-long-covid">appendix 7: jhana for long covid (and other things) (draft, experimental)</a>
+* <a id="201h" href="#appendix-8-health-larps">appendix 8: acute and chronic ill-health LARPs</a>
 
 <!-- When slugs or section titles change, thereby indicating a slug change, add a span in front of the new <a...>/link with the old id/slug, thereby preserving deep/anchor links out in the wild or wherever. -->
 
@@ -6495,7 +6496,7 @@ Basically, I think, people stumble upon the sort of push-away (--> somatization)
 
 \*
 
-In any case, real change comes from, when safe, not even exactly inclining or going towards, though that's often gently ok (if no grinding or jamming), but something more, like, hanging out with; keeping company; being patient with; low-pressure, loose, ok to drift away for a (long) time, almost incidentally "staying with," when you do; neither moving towards, nor moving away; not amplifying nor facilitating, nor pushing away, nor trying to reduce or diminish, if safe... This patient, patient, in its own right revealed order order, un-rush-able, undoes it self, takes care of itself, comes to you, sometimes scary, sometimes soft, somethings big smears and sometimes the tiniest, most intricate things, encountering, encountering, encountering.
+In any case, real change comes from, when safe, not even exactly inclining or going towards, though that's often gently ok (if no grinding or jamming), but something more, like, hanging out with; keeping company; being patient with; low-pressure, loose, ok to drift away for a (long) time, almost incidentally "staying with," when you do; neither moving towards, nor moving away; not amplifying nor facilitating, nor pushing away, nor trying to reduce or diminish, if safe; let it/&#8203;things/&#8203;all come to you, relax and let go as best you can, arrange yourself to let the body move you... This patient, patient, in its own right revealed order order, un-rush-able, undoes it self, takes care of itself, comes to you, sometimes scary, sometimes soft, somethings big smears and sometimes the tiniest, most intricate things, encountering, encountering, encountering.
 
 (Daniel Ingram, when writing about equanimity, says something like "front of hand and fingers in contact with the water, maintains contact as the water undulates, back of the hand never gets wet." (I think that's not exactly what he said, but. It might be a classic analogy, or something he formulated, not sure.)
 
