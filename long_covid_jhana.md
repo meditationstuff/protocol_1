@@ -2,6 +2,10 @@
 
 According to a least one recent peer-reviewed paper [~20230311], there are maybe rough "clusters" of long covid symptoms. One cluster is maybe characterized by breathing difficulties (tight chest, painful chest, the experience of respiratory depression), insomnia, and anxiety (and things maybe common to other clusters like low-energy, brain fog, fatigue, and post-exertional malaise).
 
+Zhang, Hao, et al. "Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes." Nature Medicine 29.1 (2023): 226-235.
+
+[^I haven't looked at this paper yet nor updated the paragraph above, but this is what I was thinking about that was mentioned to me.]
+
 The above and what follows is not medical advice. Underlying conditions can look like long covid and be exposed by long covid. Please see a doctor if you have concerning symptoms to rule out and treat everything you can. Additionally, please look into diet, supplementation, peer and family support, the latest research, online communities of practice, everything, as you have desire and energy for. And this is an experimental, incomplete, and draft document.
 
 At least at the time of this writing [~20230311], I'm not a huge fan of jhana, though I think at least "ad-hoc" and "bespoke" altered states are very important for meditative progress.
