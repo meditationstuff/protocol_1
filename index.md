@@ -1311,6 +1311,18 @@ So, I think there’s just "development," of a single thing ("bodymind"), not ve
 
 To wrap up, to be fair, sophisticated assessors of meditative progress will pay less attention to phenomenology and more attention to (a) interpersonal sophistication (which, depending on niche, might look like impeccably kind, authentically empathetic, local-and-world-scale-win-win-win collaborative reliability) and (b) relative degree of winning at life (which will look different, depending on whether the person started out abused and poverty-stricken versus a childhood of complex and interesting experiences and wealthy, kind, empathetic, intelligent parents). And, from the inside, maybe one might ask, do I experience wellbeing, and do I have a good life, and are those the same thing?
 
+\*
+
+New postscript:
+
+Meditation is not a solution as such. There is no "meditate now *then* do X."
+
+Meditation won't directly solve your problems and it is not itself a solution as such to anything, but it can *help* you solve your problems, all things being equal[, until there's nothing left that could be considered meditation].
+
+This isn't my frame, but Daniel Ingram says maybe something like "make sure you have a life you want to wake up to," and this is related to the above.
+
+
+
 [<a href="#25h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="26"></span><a id="wellbeing-and-sacrifice" href="#wellbeing-and-sacrifice">wellbeing and sacrifice:</a>
