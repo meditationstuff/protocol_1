@@ -297,6 +297,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="147h" href="#a-brief-and-incomplete-theory-of-muscle-tension-ris">a brief and incomplete theory of muscle tension risk in meditation</a>
 	* <a id="147a1ah" href="#neutral-postures-somatization-desomatization">neutral postures, somatization, desomatization, muscle tension, etc.</a>
 	* <a id="147a1bh" href="#co2-tolerance">CO2 tolerance</a>
+	* <a id="147a1ch" href="#electrolytes">electrolytes</a>
 	* <a id="147a0h" href="#clarification-on-muscle-contraction-and-stretching-">clarification on muscle contraction and stretching versus chronic muscle tension</a>
 	* <a id="147a1h" href="#positive-dwelling-in-inability">positive dwelling in inability</a>
 	* <a id="147ah" href="#when-things-get-worse-again-burn-off-integration-su">when things get worse again--burn-off, integration, suppression, unsuppression</a>
@@ -1315,7 +1316,7 @@ To wrap up, to be fair, sophisticated assessors of meditative progress will pay 
 
 New postscript:
 
-Meditation is not a solution as such. There is no "meditate now *then* do X."
+Meditation is not a solution as such. There is no "meditate now *then* do X." You're already always X-ing, and meditation is not separate from life and meditation isn't separable from life; it's not other than life, and it's not a thing. And meditation can be cool and interesting, but, generally speaking, it's not the point, and it has no fixed point, and it has no fixed goal because it undoes itself until only turning towards your life remains.
 
 Meditation won't directly solve your problems and it is not itself a solution as such to anything, but it can *help* you solve your problems, all things being equal[, until there's nothing left that could be considered meditation].
 
@@ -6527,7 +6528,7 @@ To be clear, somatization is a subtype of layering. That is, de-somatization and
 [<a href="#147a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <a id="co2-tolerance" href="#co2-tolerance">CO2 tolerance</a>
+# <a id="co2-tolerance" href="#co2-tolerance">CO2 tolerance:</a>
 
 It's important to have good CO2 tolerance, for a bunch of reasons. You want the body to not "blow off" too much CO2 (carbon dioxide). We can slowly lose CO2 tolerance over time if we "over breath," that is breath too fast or deep for our current level of metabolic output. Meditation untangles breathing and makes overbreathing less, over time, in general. But, even still, "anxietating," butt-in-chair stressful knowledge work, low-metabolic disease states, etc., can make losing CO2 tolerance more likely.
 
@@ -6544,6 +6545,21 @@ Back to physical activity, I find that slow and even relatively brisk walking do
 Meditators might be relatively prone to losing CO2 tolerance in the early and intermediate stages of meditation if the are more still and quiet, while the breath is still untangling, and thereby possibly "overbreathing," over the course of hundreds and thousands of hours, than their usual previous habitual behavior. Making sure to exercise, somehow, every few days, more for some and less for others, in addition to a meditation practice, should completely prevent this, as best I can tell.
 
 [<a href="#147a1bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="electrolytes" href="#electrolytes">electrolytes:</a>
+
+[especially not edited]
+
+Not medical or nutritional advice, etc., etc.; definitely talk with your doctor about weird gotchas and blood pressure and kidney stuff. But it is said that lots of people don't get enough potassium, magnesium, even sodium. (Calcium? More?) This is a very personal thing, as some people maybe do fine with less, and some foods or supplements agree with some people and not others. And some electrolytes aren't safe to supplement longterm and others aren't safe for people with kidney disease. For what it's worth, I've found that meditation "gets stuck" less (whatever that means---I sort of don't believe in meditation getting "stuck," though "jamming" or "coiling" or "it seems like nothing's happening," yes, so I'm using "stuck" here in a really weird way, see creativity protocol and other places for like "when nothing seems to be happening for days, weeks, or months"), again gets stuck less, when my body is "loaded" with plenty of potassium, magnesium, and sodium (and etc.). So if you're "stuck in a weird rut," (again, "stuck?" "rut?"---I don't mean "nonmonotoncity" but "rut") you may find you're eating way less sodium than you could be, or almost no potassium, and so on. Careful with your blood pressure with sodium, but maybe consider really trying to meet something around 100% of like the USA RDA (maybe try to work up to it over a week and see what happens). Careful with your kidneys with potassium, ditto, here, too, and so on. You could try to hit like 60% with supplements and get the rest from food, modulo fast food re sodium, and so on. Careful to balance electrolytes, in general, as one makes another safer or taste better, or something.
+
+The following is very personal speculation and not medical or nutritional advice: this is sort of cliche I guess, and I kind of knew this, but recent personal experience has driven home that even if something is somewhere in the "reference range," via a blood test, it might, for some things where this matters, and not other things, be low in the body tissues (because the tissues are a storage tank to tightly control blood levels), and something being on the low end of a reference range can be mild-moderate evidence for low in the tissues. And if something gets low in the tissues, the body might pull all sorts of horrible-feeling tricks to try to continue to keep things tightly controlled in the blood. I think sodium is especially an important upstream enabler, to keep an eye on and to make sure you have plenty of (and, well potassium too and other things) because sodium increases fluid retention, which means there's a larger interstitial and intercellular "storage tank" for just about everything, including water soluble stuff that especially doesn't have a good way to stay in the body long. As long as your blood pressure is ok or good, you want a "big tank," I think--not 100% sure on that, though. And there could be blood pressure nonmonotonicities on the way to expanding your tank size, or something. You might talk to your doctor about whether temporary increases in blood pressure, if any, are safe for you, and how to properly monitor, and etc. Wild speculation on my part, not medical advice, etc.
+
+https://en.wikipedia.org/wiki/Electrolyte#Physiological_importance [last accessed: 2023-03-23]
+
+[<a href="#147a1ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 # <span id="147a0"></span><a id="clarification-on-muscle-contraction-and-stretching-" href="#clarification-on-muscle-contraction-and-stretching-">clarification on muscle contraction and stretching versus chronic muscle tension:</a>
 
