@@ -58,6 +58,11 @@ Be, like, huh, that’s funny, huh that seems weird, huh why do/did I think that
 
 To the degree you can allow yourself, to the degree you feel it’s safe or safe enough to be moved, to just find yourself doing/moving/vocalizing/twitching/acting/dramatizing/being/expressing/enacting/reenacting/feeling/dreaming/wanting/desiring/indulging, and to allow it to continue, to go with it, to go with the flow of it, do so.
 
+comment:
+
+e.g. shoulders hiking up and all manner of things --- you can gently participate, gently facilitate, gently help*; that's not always the right thing to do, but it often is.
+
+\*(but recommend against pushing, forcing, "making something go," etc., etc.)
 
 
 [<a href="#6auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
@@ -7825,6 +7830,12 @@ Experientially/&#8203;phenomenologically transgress.
 
 Standing, let an imaginary string, anchored to the very top of your skull, sort of gently pull you up gently straight, erect, tall, and then sort of let your whole skeleton hang off of that string, or at least let everything hang off of your skull and spine. Check for tension, imbalances (front and back, side to side, higher and lower), "hmm that's weird or not quite right, maybe," throughout and across your body, and things like that. Use that information to continuously or subsequently decide or inform what to do next.
 
+comment:
+
+You can definitely do this sitting or kneeling, and you should do those too, if you are able, but I strong recommend generally exploring / playing with this standing, if you are able.
+
+Pairs well with <a id="be-moved" href="#be-moved">be moved</a>.
+
 [<a href="#932auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 # <span id="933auxiliary"></span><a id="be-outside" href="#be-outside">be "outside":</a>
@@ -7940,6 +7951,15 @@ This is a generalized version of <a href="#surely-anxious">surely anxious</a>. P
 Consider or pretend or entertain that perhaps it *must* be the case, that it's *surely* the case, that there's *something* bad, or something bad happened, or somehow, somewhere you feel bad or awful or etc. about something that *did* happen, or *is* happening, or could happen, or might happen, or will happen, or may have happened, or is still happening, or will start to happen, or will cause bad things to happen, or can't be prevented, or will inevitably happen, as best you can tell, or feels terrible, or awful, or intolerable, or terrifying, or horrifying, or existentially despairing, in any case, as best you can tell. Now, gently, gently, gently, patiently, for short stints, with lots of breaks, over time, explore where, how, what, why, when, whither that might be.
 
 [<a href="#942auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="943auxiliary"></span><a id="maybe-this-is-it" href="#maybe-this-is-it">maybe this is it:</a>
+
+For the seeming-or-actually-intolerable seeming-or-actually \[e.g. doom\] thing (seeming-or-actually acute or chronic or terminal health emergency or thing; life situation; money situation; career or job situation; relationship or romantic situation; social situation), explore "maybe this it," no going back, everything different "forever," it will be like this "from now on," "irrecovable," "irreversible," "this is how things are and/or will be, going forward, no going back, not like the past," "this is how it is[, maybe]"---"maybe this is it."
+
+[especially credit to several people for this formulation]
+
+[<a href="#943auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
