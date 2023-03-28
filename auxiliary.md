@@ -7962,4 +7962,14 @@ For the seeming-or-actually-intolerable seeming-or-actually \[e.g. doom\] thing 
 [<a href="#943auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="944auxiliary"></span><a id="worst-of" href="#worst-of">worst of:</a>
+
+Gently experiment with or try both:
+
+* If safe, ask, what's the worst of this/&#8203;that? (Or, what might be the worst of this/&#8203;that, and so on.)
+* If safe, let the worst of this/&#8203;that come to you, show itself to you. (And/&#8203;or, let the maybe-worst [case scenario] come to you, and so on, in its own time, in its own way.) (Or, let the worst of what's implied or the worst of what might be implied come to you, and son on.)
+
+[<a href="#944auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

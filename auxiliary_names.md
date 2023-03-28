@@ -953,5 +953,6 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="941auxiliary_names" href="#environmental-attentional-pull">environmental attentional pull</a>
 * <a id="942auxiliary_names" href="#surely-something-bad">surely "something bad\[-feeling\]"</a>
 * <a id="943auxiliary_names" href="#maybe-this-is-it">"maybe this is it"</a>
+* <a id="944auxiliary_names" href="#worst-of">worst of</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
