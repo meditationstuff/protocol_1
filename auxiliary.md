@@ -7972,4 +7972,40 @@ Gently experiment with or try both:
 [<a href="#944auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="945auxiliary"></span><a id="ask-it-to-stop" href="#ask-it-to-stop">ask it to stop:</a>
+
+If felt-safe for you to do so, ask it to (temporarily) stop.
+
+comment:
+
+Try to request not demand. Might have to actually engage with it, fear of actually engaging with out-of-control-ness or something that might not listen or something for which asking might be a type error, or fear that it might say no initially or perpetually, or might not be "reasonable-enough," in some sense, or it can't or won't or doesn't (yet) know how (you can try to help it figure out how), or it won't be understand or care about why you want it to stop, or it won't know how to win-win synergize and negotiate across a longer time horizon (you can try to teach it; you can try asking what it wants and needs). And of course sometimes it's better to eat more protein or take a vitamin or something than to try to negotiate out of something downstream of a nutrient deficiency or that you are a little dehydrated or etc., etc., etc.
+
+[<a href="#945auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="946auxiliary"></span><a id="dont-make-it-worse" href="#dont-make-it-worse">don't make it worse:</a>
+
+
+Don’t\[/\[lightly, reversibly\] try not to] (directly) make it/that/anything (locally) worse.
+
+comment:
+
+Things might nonmonotonically *get* worse, and/&#8203;or of course improve, in some pattern, locally or “somewhere else,” but in exploring this aux it’s not directly\[\/immediately\] following as a result of something you’re doing, though it may be enabled/&#8203;ungated spontaneously *indirectly*/&#8203;indirectly [sic]. 
+
+[<a href="#946auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="947auxiliary"></span><a id="plausive-and-benign" href="#plausive-and-benign">plausible and benign:</a>
+
+Generate amd explore at least favorite one plausible and completely (or at least more) benign (alternative) explanation for some disturbing phenomenon or experience you’ve had or are having or for an inference or conclusion or prediction or expectation or assertion \[that\] you’re considering or that you’ve just drawn or are chewing on, pondering, fearing, or reacting to, or acting upon (or are possibly about to). 
+
+[<a href="#947auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="948auxiliary"></span><a id="emergency-yes-no" href="#emergency-yes-no">emergency yes no something else:</a>
+
+Gently ask, is this/&#8203;there/&#8203;it/&#8203;X an \[\[\[actual/&#8203;"actual"/&#8203;actual-actual [sic]\]\]\] [sic [sic]] emergency?
+
+[<a href="#948auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
