@@ -298,6 +298,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="147a1ah" href="#neutral-postures-somatization-desomatization">neutral postures, somatization, desomatization, muscle tension, etc.</a>
 	* <a id="147a1bh" href="#co2-tolerance">CO2 tolerance</a>
 	* <a id="147a1ch" href="#electrolytes">electrolytes</a>
+	* <a id="147a1dh" href="#metabolic-traps">metabolic traps with respect to meditation</a>
 	* <a id="147a0h" href="#clarification-on-muscle-contraction-and-stretching-">clarification on muscle contraction and stretching versus chronic muscle tension</a>
 	* <a id="147a1h" href="#positive-dwelling-in-inability">positive dwelling in inability</a>
 	* <a id="147ah" href="#when-things-get-worse-again-burn-off-integration-su">when things get worse again--burn-off, integration, suppression, unsuppression</a>
@@ -6594,6 +6595,18 @@ https://meditationbook.page/#77
 
 
 [<a href="#147a0h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="metabolic-traps" href="#metabolic-traps">metabolic traps with respect to meditation:</a>
+
+(I am not a doctor, this is not medical advice. This is speculative. This is an incomplete and experimental draft.)
+
+(cf. jaw head neck)
+
+* sodium, blood volume
+* magnesium + tryptophan + [e.g. sucrose] --> serotonin
+
+[<a href="#147a1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="147a1"></span><a id="positive-dwelling-in-inability" href="#positive-dwelling-in-inability">positive dwelling in inability:</a>
