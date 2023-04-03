@@ -6601,10 +6601,16 @@ https://meditationbook.page/#77
 
 (I am not a doctor, this is not medical advice. This is speculative. This is an incomplete and experimental draft.)
 
-(cf. jaw head neck)
+(cf. jaw head neck) / (cf. "unwinding lift")
 
-* sodium, blood volume
-* magnesium + tryptophan + [e.g. sucrose] --> serotonin
+* sodium [+ magnesium + potassium] --> blood volume
+* magnesium + tryptophan - [sic] too much branched chain amino acids* + [e.g. sucrose / tryptophan transport [+ adequate B vitamins, chromium]] --> serotonin [+ melatonin]
+
+serotonin cf. horror, derealization, anxiety, depression, safety, refuge, sleep
+
+\*relatively or absolutely too much branched chain amino acids is bad (though bcaas are still essential amino acids)
+
+\*ah, branched chain amino acids --> competing out tryptophan --> reduced serotonin --> messing with melatonin = why my "circadian rhythm was spinning-clock-hands in freefall" when I was consuming too much pea protein
 
 [<a href="#147a1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
