@@ -958,6 +958,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="946auxiliary_names" href="#dont-make-it-worse">don't make it worse</a>
 * <a id="947auxiliary_names" href="#plausive-and-benign">plausible and benign</a>
 * <a id="948auxiliary_names" href="#emergency-yes-no">emergency yes no something else</a>
+* <a id="949auxiliary_names" href="#jaw-tongue-check">jaw tongue check</a>
 
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
