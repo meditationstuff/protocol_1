@@ -78,4 +78,9 @@ Now accumulating all those parallelizable safe reversibilities is a puzzle, henc
 
 Exploring full range of motion (every joint through every degree of freedom, against gravity carefully within tolerance) can help to rebalance the autonomic nervous system.
 
+Notes:
+
+* (a) state cultivation and (b) state modulation and (c) stable, non-layering carryover and integration, per se
+
+
 [<a href="#200h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
