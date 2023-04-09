@@ -24,6 +24,12 @@ Anxiety can be very "physiological" and it can also be sort of very "specific," 
 
 * <a href="#surely-anxious">surely anxious</a>
 
+There can be many meta-reasons for suffering:
+
+* <a href="#vigilance-and-suffering">vigilance and suffering</a>
+
+\*
+
 Generally, the ability to enter jhanic states is entangled with gently, over time, getting one's entire life in order, and doing that in the right, gentle, no-rush order. You are sort of in a partnership with your bodymind to negotiate together the safety of entering jhana (as well as learning how to do it). So, if you are sitting down to practice, and you're five minutes in, or zero minutes in, and suddenly you find yourself doing chores (or surfing the internet), or reminded of something you need to do, those might be exactly the right things to do or the right thing to be reminded of. Untangling all, and what to do when, and when to think about or remember things or do things, and in what order, is part of the process of learning.
 
 It's important to mix in other tools and no tools, as needed.

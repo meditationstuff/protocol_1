@@ -8015,6 +8015,40 @@ Gently play with, as one of many options, gently refraining from meditation unle
 [<a href="#949auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="950auxiliary"></span><a id="vigilance-and-suffering" href="#vigilance-and-suffering">vigilance and suffering:</a>
+
+Gently ask/explore:
+
+What is an as good or better alternative that doesn't involve [as much or any] suffering (and again is as good or better than the previous thing [e.g. that you were doing]? [= feel better]
+
+Or, gently, gently, patiently, is there a better way that doesn't involve suffering?
+
+Gently ask/explore:
+
+What is an as good or better alternative that doesn't involve [as much or any] vigilance? (and again is as good or better than the previous thing [e.g. that you were doing]? [= free up resources]
+
+Or, is there a better way that involves much less or no vigilance?
+
+comment:
+
+* Ask what's good about the suffering as such-ish?
+* Or what's necessary about suffering as such-ish?
+* Or what's important about suffering as such-ish?
+* Or what is suffering as such-ish for for you?
+* What would be bad if anything about not suffering as such-ish?
+  
+* Ask what's good about being vigilant as such-ish?
+* Or what's necessary about being vigiilant as such-ish?
+* Or what's important about being vigilant as such-ish?
+* Or what is being vigilant as such-ish for, for you?
+* What would be bad if anything about not being vigilant as such-ish?
+
+Transcript shared with persmission:
+
+"I guess suffering is really important to me. It let's me know that I'm alive. It justifies my craziness to other people and makes me less embarrassed about myself. It makes me hate myself less. It creates a surface area to be loved. It's diffficult for me to know how to be loved otherwise. I'm not sure I know how to relate to people if I'm not suffering. I'm not sure I know what people expect from me if I'm not suffering. I was going to say something about hating myself or hating life or something but it's more like punishing myself, punishing other people, and punishing the world for me not getting what I want. I do want to be unique and special and suffering with respect to not getting what I want confirms that I'm unique and special—and misunderstood. I'm just so sad about the things... I'm not sure what to do with the sadness and grief. I feel like I was promised these things; I don't know by who or whom or how. I deserve to suffer. I hoped I was going to outrun suffering or something—cutting edge of everything; maybe would go different for me [no control but can make choices]. There's no point of I'm not sufferig. There's no meaning if I'm not suffering. It's not real if I'm not suffering. Way to justify my "bad behavior" to other people. s[sense of entitlement/narcissism — felt owed and angry/furious weren't delivered / outrage / so angry, mean, entitled, spoiled, do want to hurt people]"
+
+
+[<a href="#950auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
