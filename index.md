@@ -299,6 +299,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="147a1bh" href="#co2-tolerance">CO2 tolerance</a>
 	* <a id="147a1ch" href="#electrolytes">electrolytes</a>
 	* <a id="147a1dh" href="#metabolic-traps">metabolic traps with respect to meditation</a>
+	* <a id="147a1eh" href="#balancing-solve-and-dissolve">balancing solve and dissolve</a>
+	* <a id="147a1fh" href="#sleep-and-distraction">sleep and distraction</a>
 	* <a id="147a0h" href="#clarification-on-muscle-contraction-and-stretching-">clarification on muscle contraction and stretching versus chronic muscle tension</a>
 	* <a id="147a1h" href="#positive-dwelling-in-inability">positive dwelling in inability</a>
 	* <a id="147ah" href="#when-things-get-worse-again-burn-off-integration-su">when things get worse again--burn-off, integration, suppression, unsuppression</a>
@@ -6606,8 +6608,9 @@ https://meditationbook.page/#77
 
 * sodium [+ magnesium + potassium] --> blood volume
 * magnesium + tryptophan - [sic] too much branched chain amino acids* + [e.g. sucrose / tryptophan transport [+ adequate B vitamins, chromium]] --> serotonin [+ melatonin]
+* thiamine
 
-serotonin cf. horror, derealization, anxiety, depression, safety, refuge, sleep
+serotonin cf. horror, derealization, anxiety, depression, safety, refuge, sleep, energy
 
 \*relatively or absolutely too much branched chain amino acids is bad (though bcaas are still essential amino acids)
 
@@ -6615,6 +6618,38 @@ serotonin cf. horror, derealization, anxiety, depression, safety, refuge, sleep
 
 [<a href="#147a1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="balancing-solve-and-dissolve" href="#balancing-solve-and-dissolve">balancing solve and dissolve:</a>
+
+(stub)
+
+Sometimes one can emphasis "solve" too much which can lead to "coiling." It can be good to balance "solve" with "dissolve."
+
+* <a href="#vigilance-and-suffering">vigilance and suffering</a>
+* <a href="#neutral-postures-somatization-desomatization">neutral postures, somatization, desomatization, muscle tension, etc.</a>
+
+[<a href="#147a1eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="sleep-and-distraction" href="#sleep-and-distraction">sleep and distraction:</a>
+
+I generally like to sleep with earplugs, sleep mask, a completely quiet room, etc., if I'm sleeping alone. And then I typically meditate or daydream to sleep.
+
+This kind of backfired when I was dealing with some new chronic (well, prolonged) pain and illness stuff, when my body became very loud. Absolutely, gentle engagement with my body during that time helped with autonomic rebalancing that eased symptoms and definitely negotiated down a bunch of pain and intensity. So that was good. But, my tendency towards engagement sort of backfired when there were things that weren't going to resolve or that I wasn't going to be able to work through in one night before sleep or even one week.
+
+So I had to reverse a lot of sleep habits: Still, shades down and no blue light, but I wore no sleep mask and I added some yellow, orange, or red light in the room. No earplugs, and I added a little bit of white noise or mechanical noise (like a humidifier or a quiet fan).
+
+In general, I think a dark room is better for melatonin and I think all things being equal the less noise the better**, but adding a little bit of external sensory stimulation subliminally took exclusive attention off the interoceptive body (which is generally fine/fun, all things being equal) and facilitated sleep in the presence of (temporarily chronic and relatively pretty loud) unhappy body stuff.
+
+\* Not medical advice, but protein with tryptophan in small, frequent meals, or protein with tryptophan in the reduced presence of other competing amino acids, as well as light exposure in the morning and noon, as well as no blue light or blue-blocking glasses after sunset, can also help with melatonin production, etc., etc.
+
+\*\* And indeed, environmental noise can temporarily interfere with some types of meditative refactoring. It's a good idea to find ways to vary environmental noise because different noise qualities can get in the way of different meditative things. Of course, one wants to engage with environmental noise and vibration, too, at the right times, which itself is a driver of sensory refactoring and resilience. See other environment sections in the document. And if one sort of isn't doing meditative-y things before or after sleep or between bouts of sleep in the middle of the night, then this potentially doesn't really matter, anyway.
+
+See also:
+
+* <a href="#environmental-attentional-pull">environmental attentional pull</a>
+
+[<a href="#147a1fh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="147a1"></span><a id="positive-dwelling-in-inability" href="#positive-dwelling-in-inability">positive dwelling in inability:</a>
 

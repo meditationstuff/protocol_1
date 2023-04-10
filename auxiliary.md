@@ -7941,6 +7941,10 @@ comment:
 
 This doesn't mean you should actively avoid the attentionally pulling thing, or that you should or shouldn't get lost in it or that you should or shouldn't enjoy it, or that you should or shouldn't "deconstruct" it, or anything, etc.
 
+See also:
+
+* <a href="#sleep-and-distraction">sleep and distraction:</a>
+
 [<a href="#941auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
