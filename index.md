@@ -6296,6 +6296,8 @@ If you’re eating fewer, larger meals, be careful with your kidney’s and live
 
 Consider a multivitamin in powder form or in many pills per day, so you can titrate. I know multivitamins are supposed to do nothing or be detrimental, but you might find subdoses to be seemingly very helpful.
 
+[Update 20230410 (xposted in a couple places): I'm becoming more distrustful of *one-shot* (at least) taste stuff because I think my body is saying no to things, but if I put it in my stomach anyway, my body is like "oh, huh, interesting" after a few hours. Or like "no, what?!" but after a couple days (or even longer) my body is more on board. Gotta do outside view stuff too, which of course I was, but I'm more outside view than I was.]
+
 [<a href="#145h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
@@ -6349,6 +6351,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * Some nutrients need to be in particular ratios (including macronutrients), so if you don't want food that you usually like, for example, sometimes you need more of something not in the food, and sometimes you need less of something in that food or elsewhere. There's probably a sprinkling of other insights / gotchas like this.
 * meditatively working through waves of diffuse, low-key "food insecurity" (micronutrient, macronutrient, meal planning, parental ignorance) at the (a) sensory/phenomenological/interoceptive level and (b) cognitive level. // seem to be losing weight or changing body composition. // working through a thing seems to instantaneously resolve low-key macro and micronutrient cravings. // that wouldn't make sense but e.g. "objective dehydration" and "subjective thirst" are 2 separate brain systems that are phase-lag coupled. // I like the phrase "autonomic harmony." // For me, I didn't remotely have access to a lot of this kind of thing until thousands of hours of meditation had passed, at least. Some vagus-mediated allergy stuff was more quickly accessible. This stuff goes deeeeeeeeep [ https://twitter.com/meditationstuff/status/1520806875297718276 Last accessed: 2022-05-01 ]
 * Maybe whereever I talk about "radically concrete" and "post-conceptual" (or maybe elsewhere), I need to add something like "yes 'deterministic' but non-algorithmic, non-rule based, pre-conceptual, post-conceptual, post-pattern..", after something like Popperian or Deutschian something.
+* [Update 20230410 (xposted in a couple places): I'm becoming more distrustful of *one-shot* (at least) taste stuff because I think my body is saying no to things, but if I put it in my stomach anyway, my body is like "oh, huh, interesting" after a few hours. Or like "no, what?!" but after a couple days (or even longer) my body is more on board. Gotta do outside view stuff too, which of course I was, but I'm more outside view than I was.]
 
 
 
@@ -6565,6 +6568,7 @@ Notes:
 * Potassium *might* generally increase sympathetic tone. Maybe just for some people in some regimes.
 * Sodiuim seems to maybe generally increase parasympathetic tone and might facilitate sleep. Maybe just for some people in some regimes.
 * After a few days of much more sodium, for my part (again still somewhere within USA RDA) I'm also noticing I want quite a bit less potassium and magnesium now that I have a lot more sodium in my system. It's possible I was overloaded with them, somehow, and things are correcting. This might be a very transient and noisy observation but I'll just stick it here.
+* [Update 20230410 (xposted in a couple places): I'm becoming more distrustful of *one-shot* (at least) taste stuff because I think my body is saying no to things, but if I put it in my stomach anyway, my body is like "oh, huh, interesting" after a few hours. Or like "no, what?!" but after a couple days (or even longer) my body is more on board. Gotta do outside view stuff too, which of course I was, but I'm more outside view than I was.]
 
 https://en.wikipedia.org/wiki/Electrolyte#Physiological_importance [last accessed: 2023-03-23]
 
