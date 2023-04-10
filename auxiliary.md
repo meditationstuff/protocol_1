@@ -8051,6 +8051,16 @@ Transcript shared with persmission:
 
 "I guess suffering is really important to me. It let's me know that I'm alive. It justifies my craziness to other people and makes me less embarrassed about myself. It makes me hate myself less. It creates a surface area to be loved. It's diffficult for me to know how to be loved otherwise. I'm not sure I know how to relate to people if I'm not suffering. I'm not sure I know what people expect from me if I'm not suffering. I was going to say something about hating myself or hating life or something but it's more like punishing myself, punishing other people, and punishing the world for me not getting what I want. I do want to be unique and special and suffering with respect to not getting what I want confirms that I'm unique and special—and misunderstood. I'm just so sad about the things... I'm not sure what to do with the sadness and grief. I feel like I was promised these things; I don't know by who or whom or how. I deserve to suffer. I hoped I was going to outrun suffering or something—cutting edge of everything; maybe would go different for me [no control but can make choices]. There's no point of I'm not sufferig. There's no meaning if I'm not suffering. It's not real if I'm not suffering. Way to justify my "bad behavior" to other people. s[sense of entitlement/narcissism — felt owed and angry/furious weren't delivered / outrage / so angry, mean, entitled, spoiled, do want to hurt people]"
 
+more:
+
+* suffering justifies my existence
+* people won't know I'm suffering (hurting? need help?) if I don't (visibly?) suffer
+* suffering is the texture of life
+* suffering gives meaning
+* suffering makes it so there's stakes
+* suffering makes good things all worth it
+* suffering makes good things better
+* things that happened to me won't matter if there was no suffering; suffering marks their meaning
 
 [<a href="#950auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
