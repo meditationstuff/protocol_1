@@ -6610,11 +6610,10 @@ https://meditationbook.page/#77
 
 (cf. jaw head neck) / (cf. "unwinding lift")
 
-* sodium [+ magnesium + potassium] --> blood volume
-* magnesium + tryptophan - [sic] too much branched chain amino acids* + [e.g. sucrose / tryptophan transport [+ adequate B vitamins, chromium]] --> serotonin [+ melatonin]
+* sodium [+ magnesium + potassium] --> blood volume [easy to unroll and unravel and untwist things]
+* magnesium + tryptophan - [sic] too much branched chain amino acids* + [e.g. sucrose or glucose / tryptophan transport [+ adequate B vitamins, chromium]] --> serotonin [+ melatonin] cf. horror, derealization, anxiety, depression, safety, refuge, sleep, energy
 * thiamine
-
-serotonin cf. horror, derealization, anxiety, depression, safety, refuge, sleep, energy
+* calcium — not medical advice — calcium supplements above like 300mg/day are probably pretty bad for you but not getting enough calcium is probably much worse (get it all from food if you can). Supplementing spread out throughout the day might be totally fine. If something in your body or world is truly intolerable (not just nearly intolerable) then you may be low on calcium. If something is an *emergency* (and you’re *not* experiencing a “thunderclap headache” or 12/10 chest pain) then you may be low on calcium. If you nibble on a tums or something your body may learn to tell you exactly when to stop nibbling. 
 
 \*relatively or absolutely too much branched chain amino acids is bad (though bcaas are still essential amino acids)
 
