@@ -1,5 +1,9 @@
 # <a id="appendix-7-jhana-for-long-covid" href="#appendix-7-jhana-for-long-covid">appendix 7: jhana and yoga nidra for long covid (and other things) (draft, incomplete, experimental)</a>
 
+Preliminary note: If there's anything useful below, it's probably going to be **much** more important or at least *as* important to focus on the basics, i.e. properly time nutrition and properly timed adequate calories and sleep. It's *always* that way for me. Not medical advice: <a href="#electrolytes">electrolytes</a>, <a href="#theory-driven-theory-harmonizing-equilibriating-int">theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating</a>, <a href="#metabolic-traps">metabolic traps with respect to meditation:</a>, <a href="#nutrition">nutrition</a>
+
+\*
+
 According to a least one recent peer-reviewed paper [~20230311], there are maybe rough "clusters" of long covid symptoms. One cluster is maybe characterized by breathing difficulties (tight chest, painful chest, the experience of respiratory depression), insomnia, and anxiety (and things maybe common to other clusters like low-energy, brain fog, fatigue, and post-exertional malaise).
 
 Zhang, Hao, et al. "Data-driven identification of post-acute SARS-CoV-2 infection subphenotypes." Nature Medicine 29.1 (2023): 226-235.

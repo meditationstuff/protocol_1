@@ -6280,6 +6280,8 @@ for they are already enduring it.
 
 # <span id="145"></span><a id="nutrition" href="#nutrition">nutrition:</a>
 
+[Note 20230416: This section is maybe pretty deprecated. For example, I'm a much bigger fan of well-formulated multivitamins and smaller, more frequent meals (under some conditions) than I used to be.]
+
 I am not a doctor or other kind of licensed health professional, and this is not medical or nutritional advice.
 
 If you are lacking mental or physical stamina for meditation, you might try adding butter and/or MCT oil to your diet. (Some MCT oils have three different lengths and some just have two lengths. Sometimes just two lengths is advertised as "better" in some way, but I felt like I was getting some kind of weird metabolic deficiency on the two lengths variety. That last longer length chain seemed to really be good to have in there, for some reason, at least prior to adaptation, which I didn’t try to do.) Less likely to be helpful, but depends, you might try adding a bit more cheese or other animal saturated fat to your diet. (Each will have different chain length profiles.) You might also try adding a bit of choline, which can take a few weeks to month for you to notice any difference.
