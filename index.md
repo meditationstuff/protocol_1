@@ -452,7 +452,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 * <a id="197h" href="#appendix-4-worst-case-culture-community-stuff">appendix 4: worst case culture/&#8203;community stuff</a>
 * <a id="198h" href="#appendix-5-subtle-interaction">appendix 5: subtle interaction</a>
 * <a id="199h" href="#appendix-6-death-larps">appendix 6: death LARPs</a>
-* <a id="200h" href="#appendix-7-jhana-for-long-covid">appendix 7: jhana for long covid (and other things) (draft, experimental)</a>
+* <a id="200h" href="#appendix-7-jhana-for-long-covid">appendix 7: jhana and yoga nidra for long covid (and other things) (draft, experimental)</a>
 * <a id="201h" href="#appendix-8-health-larps">appendix 8: acute and chronic ill-health LARPs</a>
 
 <!-- When slugs or section titles change, thereby indicating a slug change, add a span in front of the new <a...>/link with the old id/slug, thereby preserving deep/anchor links out in the wild or wherever. -->
@@ -6613,7 +6613,7 @@ https://meditationbook.page/#77
 * sodium [+ magnesium + potassium] --> blood volume [easy to unroll and unravel and untwist things]
 * magnesium + tryptophan - [sic] too much branched chain amino acids* + [e.g. sucrose or glucose / tryptophan transport [+ adequate B vitamins, chromium]] --> serotonin [+ melatonin] cf. horror, derealization, anxiety, depression, safety, refuge, sleep, energy
 * thiamine
-* calcium — not medical advice — calcium supplements above like 300mg/day are probably pretty bad for you but not getting enough calcium is probably much worse (get it all from food if you can). Supplementing spread out throughout the day might be totally fine. If something in your body or world is truly intolerable (not just nearly intolerable) then you may be low on calcium. If something is an *emergency* (and you’re *not* experiencing a “thunderclap headache” or 12/10 chest pain) then you may be low on calcium. If you nibble on a tums or something your body may learn to tell you exactly when to stop nibbling. 
+* calcium — not medical advice — calcium supplements above like 300mg/day are probably pretty bad for you but not getting enough calcium is probably much worse (get it all from food if you can). Supplementing spread out throughout the day might be totally fine. If something in your body or world is truly intolerable (not just nearly intolerable) then you may be low on calcium. If something is an *emergency* (and you’re *not* experiencing a “thunderclap headache” or 12/10 chest pain [ok a few other things too]) then you may be low on calcium. If you nibble on a tums or something your body may learn to tell you exactly when to stop nibbling. careful of your calcium/&#8203;magnesium ratio (and all the other electrolytes, etc. etc.)
 
 \*relatively or absolutely too much branched chain amino acids is bad (though bcaas are still essential amino acids)
 
