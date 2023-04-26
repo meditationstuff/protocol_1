@@ -721,7 +721,7 @@ What might we do together that’s better than what we’ll do apart?
 * Sometimes, one or more people from the outside can extract value from poison, without being destroyed, and can ultimately provide and share wisdom and healing that wouldn’t have been possible before.
 * Evil is real; it incidentally destroys goodness or directly tries to destroy goodness (and sometimes succeeds).
 * Evil is illusory; In its place is myopic, selfish desperation that would be (safe and) good, instantly, if it knew how.
-* It will ok in the end. If it’s not ok, then it’s not the end.
+* It will be ok in the end. If it’s not ok, then it’s not the end. [adapted quote]
 
 \*
 

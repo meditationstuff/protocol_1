@@ -77,6 +77,7 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
 	* *See these sections:*
 		* <a id="177q" href="#guided-on-ramp-for-main-practice-p2-draft">guided on-ramp for main practice p2 [draft]</a>
 		* <a id="178q" href="#pith-instructions-experimental">pith instructions (experimental)</a>
+		* <a id="178aq" href="#more-compressed-pith-instructions">more compressed pith instructions</a>
 		* <a id="179q" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
 * **Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.**
 	* *See these sections:*
@@ -293,6 +294,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="144h" href="#invitation-of-acceptance">invitation of acceptance</a>
 	* <a id="145h" href="#nutrition">nutrition</a>
 	* <a id="145ah" href="#theory-driven-theory-harmonizing-equilibriating-int">theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating</a>
+	* <a id="145a1h" href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental)</a>
 	* <a id="146h" href="#historical-and-contemporary-difficulties-and-uncert">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
 	* <a id="147h" href="#a-brief-and-incomplete-theory-of-muscle-tension-ris">a brief and incomplete theory of muscle tension risk in meditation</a>
 	* <a id="147a1ah" href="#neutral-postures-somatization-desomatization">neutral postures, somatization, desomatization, muscle tension, etc.</a>
@@ -422,6 +424,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="175h" href="#teaching">teaching</a>
 		* <a id="177h" href="#guided-on-ramp-for-main-practice-p2-draft">guided on-ramp for main practice p2 [draft]</a>
 		* <a id="178h" href="#pith-instructions-experimental">pith instructions (experimental)</a>
+		* <a id="178ah" href="#more-compressed-pith-instructions">more compressed pith instructions</a>
 		* <a id="179h" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
 	* <a id="180h" href="#embodied-learning">embodied learning</a>
 		* <a id="181h" href="#technical-debt-meditation-and-minds">technical debt, meditation, and minds</a>
@@ -6359,6 +6362,26 @@ Miscellaneous messy scratch notes (added by Mark):
 
 [<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation" href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental):</a>
+
+(experimental)
+
+* upstream psychological pain
+* upstream autonomic imbalance pain
+* upstream metabolic problem pain
+* upstream nutrient deficiency pain
+* upstream caloric deficiency pain
+* upstream visceral damage or unhappiness pain
+* upstream musculoskeletal and joint pain
+* upstream nerve ennervation pain
+* upstream nerve pain
+
+right tool for right job, wrong tool can make worse. some things look like other things but at root are the other thing. 
+
+
+
+[<a href="#145a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="146"></span><a id="historical-and-contemporary-difficulties-and-uncert" href="#historical-and-contemporary-difficulties-and-uncert">historical and contemporary difficulties and uncertainties of life [experimental section]:</a>
 
@@ -13613,6 +13636,14 @@ Unintegrated scratch pieces:
 * Find the proper places for love, compassion, gratitude (and fear, and hate, and etc.)
 
 [<a href="#178h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="more-compressed-pith-instructions" href="#more-compressed-pith-instructions">more compressed pith instructions:</a>
+
+Puzzle-solve-ily, find your way to allow, just a little. Don't push things away. Don't push. Don't try to make things happen. Choose, turn towards, or surrender to effortlessness, deeper and deeper, subtler and subtler. Choose, turn towards, surrender to non-doing, deeper and deeper, subtler and subtler. Don't let expect. Let things come to you. Let things happen ([inner] see, feel, remember, non-think, etc.). Let the "wrong" things happen (e.g. pushing) if they do happen—[choose to] stop them if you zero-step/&#8203;immediately/&#8203;non-directly can, but, for example, don't add pushing to try to stop pushing, or don't push away pushing, or don't push to "let things happen," or push "to allow," and so on. Be moved. Help things out, help things over humps, sometimes. If something is "going wrong,"" for now, redirect attention. Be patient (don't rush; non hurrying; no haste; no corner-cutting; no-blood-from-stone-ing; no squeezing; no eking out just a little more; it doesn’t work; only spontaneous works; only-it-just-happens works; let fluidity and slack come to you). Enjoy. Allow. Relax. Experience. Just this. Nothing more. (Nothing less.) Stop when there's nothing left for today or things start to “go too wrong, including "non-constructive flow."" When in doubt, when possible, focus on nutrition, sleep, relaxation, de-stressing, distraction, socializing and support, and patience. 
+
+[<a href="#178ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="179"></span><a id="a-bare-bones-bottom-up-noting-esque-practice-withou" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling):</a>
 
