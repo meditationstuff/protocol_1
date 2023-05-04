@@ -6636,13 +6636,15 @@ https://meditationbook.page/#77
 (cf. jaw head neck) / (cf. "unwinding lift")
 
 * sodium [+ magnesium + potassium] --> blood volume [easy to unroll and unravel and untwist things]
-* magnesium + tryptophan - [sic] too much branched chain amino acids* + [e.g. sucrose or glucose / tryptophan transport [+ adequate B vitamins, chromium]] --> serotonin [+ melatonin] cf. horror, derealization, anxiety, depression, safety, refuge, sleep, energy
+* magnesium + tryptophan - [sic] too much branched chain amino acids* + [e.g. sucrose or glucose / tryptophan transport [+ adequate B vitamins, chromium]] --> serotonin [+ melatonin] cf. horror, derealization, anxiety, depression, safety, refuge, sleep, energy (NAD, NAD+...) \[1\]
 * thiamine
 * calcium — not medical advice — calcium supplements above like 300mg/day are probably pretty bad for you but not getting enough calcium is probably much worse (get it all from food if you can). Supplementing spread out throughout the day might be totally fine. If something in your body or world is truly intolerable (not just nearly intolerable) then you may be low on calcium. If something is an *emergency* (and you’re *not* experiencing a “thunderclap headache” or 12/10 chest pain [ok a few other things too]) then you may be low on calcium. If you nibble on a tums or something your body may learn to tell you exactly when to stop nibbling. careful of your calcium/&#8203;magnesium ratio (and all the other electrolytes, etc. etc.)
 
 \*relatively or absolutely too much branched chain amino acids is bad (though bcaas are still essential amino acids)
 
 \*ah, branched chain amino acids --> competing out tryptophan --> reduced serotonin --> messing with melatonin = why my "circadian rhythm was spinning-clock-hands in freefall" when I was consuming too much pea protein
+
+\[1\] Richard, Dawn M., et al. "L-tryptophan: basic metabolic functions, behavioral research and therapeutic indications." International Journal of Tryptophan Research 2 (2009): IJTR-S2129.
 
 [<a href="#147a1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
