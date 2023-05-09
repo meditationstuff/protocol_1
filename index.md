@@ -6642,9 +6642,27 @@ https://meditationbook.page/#77
 
 \*relatively or absolutely too much branched chain amino acids is bad (though bcaas are still essential amino acids)
 
-\*ah, branched chain amino acids --> competing out tryptophan --> reduced serotonin --> messing with melatonin = why my "circadian rhythm was spinning-clock-hands in freefall" when I was consuming too much pea protein
+\*ah, branched chain amino acids --> competing out tryptophan --> reduced serotonin --> messing with melatonin = why my "circadian rhythm was spinning-clock-hands in freefall" when I was consuming too much pea protein. a bunch of large neutral amino acids compete with tryptophan to enter the brain, and tryptophan is the lowest concentration amino acid in protein-rich foods. [1, 2] sometimes it's better to eat carbohydrates by themselves to absorb more tryptophan into the brain because of how it changes relative blood concentrations of amino acids, and to time alternation of protein and carbohydrates over hours. [3] exercise can also elevate tryptophan relative to other amino acids in the blood because of differential use of amino acids. [4]
+
+\*note that 
 
 \[1\] Richard, Dawn M., et al. "L-tryptophan: basic metabolic functions, behavioral research and therapeutic indications." International Journal of Tryptophan Research 2 (2009): IJTR-S2129.
+
+\[2\] Choi, S., DiSilvio, B., Fernstrom, M. H., & Fernstrom, J. D. (2009). Meal ingestion, amino acids and brain neurotransmitters: effects of dietary protein source on serotonin and catecholamine synthesis rates. Physiology & behavior, 98(1-2), 156-162.
+
+[also] Fernstrom, J. D., Langham, K. A., Marcelino, L. M., Irvine, Z. L., Fernstrom, M. H., & Kaye, W. H. (2013). The ingestion of different dietary proteins by humans induces large changes in the plasma tryptophan ratio, a predictor of brain tryptophan uptake and serotonin synthesis. Clinical nutrition, 32(6), 1073-1076.
+
+[also] Fernstrom, J. D. (1988). Carbohydrate ingestion and brain serotonin synthesis: relevance to a putative control loop for regulating carbohydrate ingestion, and effects of aspartame consumption. Appetite, 11, 35-41.
+
+[also] Choi, SuJean, et al. "Meal ingestion, amino acids and brain neurotransmitters: effects of dietary protein source on serotonin and catecholamine synthesis rates." Physiology & behavior 98.1-2 (2009): 156-162.
+
+[also] Wurtman, Richard J., F. Hefti, and E. Melamed. "Precursor control of neurotransmitter synthesis." Pharmacological reviews 32.4 (1980): 315-335.
+
+\[3\] [in rats] Fernstrom, Madelyn H., and John D. Fernstrom. "Brain tryptophan concentrations and serotonin synthesis remain responsive to food consumption after the ingestion of sequential meals." The American journal of clinical nutrition 61.2 (1995): 312-319.
+
+\[4\] Young, Simon N. "How to increase serotonin in the human brain without drugs." Journal of psychiatry & neuroscience: JPN 32.6 (2007): 394.
+
+
 
 [<a href="#147a1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
