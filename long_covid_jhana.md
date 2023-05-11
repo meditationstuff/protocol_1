@@ -88,6 +88,40 @@ Now accumulating all those parallelizable safe reversibilities is a puzzle, henc
 
 Exploring full range of motion (every joint through every degree of freedom, against gravity carefully within tolerance) can help to rebalance the autonomic nervous system.
 
+## categorization and clarification
+
+Here is a way to categorize practices (that may leave out lots of things; I haven't thought about it too much; this is quick and dirty, and I think it borrows from at least two people, including Shinzen Young and I think someone else). Also, it maybe leaves out or conflates a bunch of distinctions like "top-down vs bottom-up," maybe some stuff like "attention vs awareness," "intermediate goals and attainments vs the whole point," what the point even is, and things like that:
+
+"note"/&#8203;"notice"/&#8203;"participate-in":
+
+* this, that (noting, choiceless awareness\[, but maybe not open focus type practices?]; indirect pointing [at emptiness? luminosity? void?] via exhaustiveness)
+* not this, not that (indirect pointing by exclusion)
+* arising, passing/&#8203;going, gone (direct-ish pointing by dynamics)
+* nothing (direct-ish pointing by dynamics if not result (which then flips around to include all phenomena, not exactly emptiness and form, for all of this, but [sic]))
+* do[ing] less/&#8203;nothing (something a bit more general than Shinzen's formulation, maybe)
+
+And then one last one might be "experience less/&#8203;nothing," and loosely I think that's a big chunk of the value in the jhanic state space and maybe doesn't necessarily need some or all specific jhanic factors or jhanas to get all the value, maybe:
+* experience less/nothing
+
+Really, both of this are sort jhana-/jhanic-esque:
+
+* do[ing] less/&#8203;nothing (something a bit more general than Shinzen's formulation, maybe)
+* experience less/&#8203;nothing
+
+As mentioned above, there's sort of more layery and less (and less, and less) layery ways to explore these, in an integrated fashion. It may be that some things can only be redo[ne]-to-undo[ne] by exposing subtler and subtler phenomena, untangled from other phenomena, and it can make it easier to find one's way there (cf. bespoke altered states), but having useful frameworks around all this, e.g. aspects of this section and traditional and contemporary jhana maps.
+
+So, anyway, one is sort of letting things come up and sort of asking for "not this, right now; not that, right now," more and more subtly and more and more pervasively, relaxed, but alert, but not too alert, and loose, and etc. I haven't borrowed the phrase "subtle dullness" from other systems or used it anywhere in this whole document, because of the inherent "error correction" in main practice p2 and the meta protocol; I've said it's fine to meditate while falling asleep, etc., because of as-needed error correction over time, if ever needed. But, this might be the one sort of space where a more delicate balance and harmony between relaxedness and alertness may be important. I'm still not employing the concept "sensory clarity" or "vividness" (in a particular sense), here, because I'm concerned that's too reifying.
+
+Anyway, for "not this, right now; not that, right now," this sort of needs patience, participation, and subtle negotiation. It's sort of a life-complete (cf. NP-complete) sort of thing, for it to be safe to temporary let go of experiencing things, because you and the rest of the (body)mind trust that it will come back at the right time in the right way, when needed. So that's a subtle, ordering and planning and integration and refactoring process that can take a long time, and meditation in other ways, working through things all through the mind, and handling life stuff, *and sufficiently living life*, as a part of you knows that's the whole point, is part of all that. As per usual, even with all this, here, in some sense, not "meditation *then*" but "meditation *and*", even if you're on retreat or something. Anyway, generally speaking, we err on the side of letting things come up so as to work through them, so as to not layer or incur technical debt which might accrue enough to block further progress and which will need to be paid off eventually, anyway, in any case.
+
+# goal without pushing
+
+Unlike with lots of meditation (and I usually suggest it's good to let go of order, because of natural ordering inherent in contingent bodymind structure) or aspects of meditation; here, you're sort of having a even a "goal" or, rather, at least a direction in mind, a bit more mediately than "be enlightened" or "have good or better things happen". But, that's sort of distinct from having any particular local or mediate expectation and also it's important to let one's conception and understanding of the goal be fluid and loose and integrative or untangly or refactor-y with other things.
+
+# illness
+
+Sometimes meditating amidst illness is useful (in general and/&#8203;or for the illness) and sometimes it's better to redirect and wait. It depends on the illness (i.e. present symptomology and timecourse) and it depends on the meditative regime (i.e. what you're doing in meditation).
+
 Notes:
 
 * (a) state cultivation and (b) state modulation and (c) stable, non-layering carryover and integration, per se
