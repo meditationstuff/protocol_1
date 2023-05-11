@@ -12907,6 +12907,8 @@ Er qualia-feel is really different but still all seamless something something, c
 
 * X does not need to be managed, for often or usually or generally quite extreme, or extreme feeling, X
 
+* X takes care of itself. Don’t need to add anything. Happening now. Things change.
+
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
