@@ -6644,7 +6644,12 @@ https://meditationbook.page/#77
 
 \*ah, branched chain amino acids --> competing out tryptophan --> reduced serotonin --> messing with melatonin = why my "circadian rhythm was spinning-clock-hands in freefall" when I was consuming too much pea protein. a bunch of large neutral amino acids compete with tryptophan to enter the brain, and tryptophan is the lowest concentration amino acid in protein-rich foods. [1, 2] sometimes it's better to eat carbohydrates by themselves to absorb more tryptophan into the brain because of how it changes relative blood concentrations of amino acids, and to time alternation of protein and carbohydrates over hours. [3] exercise can also elevate tryptophan relative to other amino acids in the blood because of differential use of amino acids. [4]
 
-\*note that 
+UPDATE: primates might work pretty differently than rats:
+
+Grimes, Michael A., Judy L. Cameron, and John D. Fernstrom. "Cerebrospinal fluid concentrations of tryptophan and 5-hydroxyindoleacetic acid in Macaca mulatta: diurnal variations and response to chronic changes in dietary protein intake." Neurochemical research 25 (2000): 413-422.
+APA
+
+\*
 
 \[1\] Richard, Dawn M., et al. "L-tryptophan: basic metabolic functions, behavioral research and therapeutic indications." International Journal of Tryptophan Research 2 (2009): IJTR-S2129.
 
@@ -12908,6 +12913,10 @@ Er qualia-feel is really different but still all seamless something something, c
 * X does not need to be managed, for often or usually or generally quite extreme, or extreme feeling, X
 
 * X takes care of itself. Don’t need to add anything. Happening now. Things change.
+
+	* Don’t need to add anything. --> essence of non-escalatory
+
+	* Happening now. / Things change. --> (.) Freedom?
 
 [<a href="#192bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
