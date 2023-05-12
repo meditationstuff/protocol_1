@@ -8016,6 +8016,8 @@ Gently ask, is this/&#8203;there/&#8203;it/&#8203;X an \[\[\[actual/&#8203;"actu
 
 Gently play with, as one of many options, gently refraining from meditation unless your jaw and mouth are naturally, lightly "magnetized" closed, taking care of themselves, and you're generally not really thinking about it, and maybe also your tongue is lightly "magnetized" to the roof of your mouth, gently taking care of itself and you're generally not really thinking about it.
 
+You might exercise, or take a walk, and so on.
+
 [<a href="#949auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
@@ -8064,5 +8066,11 @@ more:
 
 [<a href="#950auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+
+# <span id="951auxiliary"></span><a id="make-friends-with-your-digestion" href="#make-friends-with-your-digestion">make friends with your digestion:</a>
+
+Thus.
+
+[<a href="#951auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
