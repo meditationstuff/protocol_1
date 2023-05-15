@@ -8073,4 +8073,25 @@ Thus.
 
 [<a href="#951auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+
+# <span id="952auxiliary"></span><a id="find-the-now" href="#find-the-now">quiet mind reveals the now:</a>
+
+Look around for some way to "automatically" quiet the mind. This won't always work, depending on what's going on in your life, if you're particularly experiencing a strong emotion or anxiety (though often even then), or when you last ate, or what you last ate, and how long ago, and so on.
+
+Find something to gently pay attention to, that's safe to pay attention to; Sometimes it's something outside of yourself, like sounds; sometimes it's a bodypart or something interoceptive. You want to find something that draws you in a little bit, that's here and now. You might find if you do this that the mind becomes quiet and you find yourself in space, in a room or outside, in the now, where sight and sounds are clearer and your body is peaceful, nothing to do, really.
+
+It's something of a matter of finding the right thing to attend to or also the right "how," so it could be a "move" different than "attending." For some time, I found "making friends with my digestion" to be useful; my digestive system, and being friendly and helpful towards it, even if it didn't need it, was a nice place to rest for a few moments. And what "works" for you might change over time. As with anything, be careful with button-pushing. Treat this as an experiment and something to play with, not something to rely on but certainly something you can try when it seems like it'd be useful.
+
+\*
+
+You might find in this state that thoughts, thinking, mind arises *in* that spatiousness and quietness and experiential nowness, or somewhere *proximal*, and *adjacent elsewhereness*, almost with spatiality.
+
+See also:
+
+* <a href="#-headyness-heady-ness-headiness">"headyness"/"heady-ness"/"headiness"</a>
+* <a href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
+
+[<a href="#952auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

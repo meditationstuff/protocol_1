@@ -961,5 +961,6 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="949auxiliary_names" href="#jaw-tongue-check">jaw tongue check</a>
 * <a id="950auxiliary_names" href="#vigilance-and-suffering">vigilance and suffering</a>
 * <a id="951auxiliary_names" href="#make-friends-with-your-digestion">make friends with your digestion</a>
+* <a id="952auxiliary_names" href="#find-the-now">quiet mind reveals the now</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

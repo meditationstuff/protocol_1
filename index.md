@@ -2773,6 +2773,13 @@ Below are notes from a call with a collaborator (jd), with further maybe-helpful
 
 * arriving at all this was confusing because didn’t seem like what mark was doing. [Mark: makes sense. all seems right to me and I’ve done a ton of just wandering around, maybe not in remote nature, but away from people, in parks or where I knew that I knew nobody even if there were people around 20-50 feet away, and i knew it was completely safe so I could just space out[, be in reverie or landscape-absorbed] for hours.]
 
+
+See also:
+
+* <a href="#find-the-now">quiet mind reveals the now</a>
+* <a href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
+
+
 [<a href="#79h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="80"></span><a id="-subtle-energy-and-energy-work-and-mental-models" href="#-subtle-energy-and-energy-work-and-mental-models">"subtle energy" and "energy work" and mental models:</a>
@@ -6344,6 +6351,8 @@ Consider a multivitamin in powder form or in many pills per day, so you can titr
 
 Miscellaneous messy scratch notes (added by Mark):
 
+"misc pith"
+
 * I didn't try to try download the original reference, but anecdotally there was a study where they let toddlers choose from a wide array of foods over some time period. And the toddlers came up with really weird food combinations but converged on eating in a nutritionally complete way. (If someone sends me a citation I'll add it here.)
 * Brunstrom, Jeffrey M., and Mark Schatzker. "Micronutrients and food choice: A case of ‘nutritional wisdom’in humans?." Appetite (2022): 106055.
 * "Little bets" and "little experiments" are good.
@@ -6357,6 +6366,14 @@ Miscellaneous messy scratch notes (added by Mark):
 * meditatively working through waves of diffuse, low-key "food insecurity" (micronutrient, macronutrient, meal planning, parental ignorance) at the (a) sensory/phenomenological/interoceptive level and (b) cognitive level. // seem to be losing weight or changing body composition. // working through a thing seems to instantaneously resolve low-key macro and micronutrient cravings. // that wouldn't make sense but e.g. "objective dehydration" and "subjective thirst" are 2 separate brain systems that are phase-lag coupled. // I like the phrase "autonomic harmony." // For me, I didn't remotely have access to a lot of this kind of thing until thousands of hours of meditation had passed, at least. Some vagus-mediated allergy stuff was more quickly accessible. This stuff goes deeeeeeeeep [ https://twitter.com/meditationstuff/status/1520806875297718276 Last accessed: 2022-05-01 ]
 * Maybe whereever I talk about "radically concrete" and "post-conceptual" (or maybe elsewhere), I need to add something like "yes 'deterministic' but non-algorithmic, non-rule based, pre-conceptual, post-conceptual, post-pattern..", after something like Popperian or Deutschian something.
 * [Update 20230410 (xposted in a couple places): I'm becoming more distrustful of *one-shot* (at least) taste stuff because I think my body is saying no to things, but if I put it in my stomach anyway, my body is like "oh, huh, interesting" after a few hours. Or like "no, what?!" but after a couple days (or even longer) my body is more on board. Gotta do outside view stuff too, which of course I was, but I'm more outside view than I was.]
+* key path elements:
+	* effortlessness
+	* hereness [really, say, hereness-and-now-ness, but, still, not to reify]
+	* nowness [really, say, hereness-and-now-ness, but, still, not to reify]
+	* [not trying to change anythingness, including not trying to not try to change anythingness]
+* everything not grounded and happening [within]in the experience of here and now is wrong
+* nothing really can do, except be moved by """""""reallity"""""""" and that's already happening
+* no behind me until I turn
 
 
 
@@ -6441,6 +6458,7 @@ See also:
 
 * <a href="#147a0">clarification on muscle contraction and stretching versus chronic muscle tension</a>
 * <a href="#147a1">positive dwelling in inability</a>
+* <a href="#more-compressed-pith-instructions">more compressed pith instructions</a>
 
 [<a href="#147h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -13679,7 +13697,7 @@ Unintegrated scratch pieces:
 
 # <a id="more-compressed-pith-instructions" href="#more-compressed-pith-instructions">more compressed pith instructions:</a>
 
-Puzzle-solve-ily, find your way to allow, just a little. Don't push things away\*. Don't push\*\*. Don't push past\*\*\*\*. [When safe (and only when safe!), perhaps temporarily, experimentally stop resisting (if you can and it's ok if you can't).] Don't try to make things happen\*\*\*. Choose, turn towards, or surrender to effortlessness, subtler and subtler (...). [sic] Choose, turn towards, surrender to non-doing, subtler and subtler. Don't expect. Let things come to you. Let it/&#8203;things happen ([inner] see, feel, remember, non-think, etc.). Let the "wrong" things happen (e.g. pushing) if they do happen—[choose to] stop them, if it's smooth, fluid, non-jam-y, non-bump-y, [at best, flowing, participating-ly] if things don't "pile up," if you zero-step/&#8203;immediately/&#8203;non-directly can, but, for example, don't add pushing to try to stop pushing, or don't push away pushing, or don't push to "let things happen," or don't push "to allow," [or don't push "to stop resisting,"] and so on. [If you try something and it doesn't smoothly happen, gently try to make sure you stop that trying completely, including then/&#8203;with the trying to stop trying, no remainder, but it's ok if you can't and don't push to stop trying, and don't push away the trying or the trying to stop trying; let them happen if they don't participatingly release and they're still happening.] Be moved. Sometimes help things out, help things over humps (but again don't push), sometimes. If something is "going wrong," for right now, redirect (e.g. attention)/&#8203;do/&#8203;choose/&#8203;allow otherwise. If safe enough, optionally let yourself be pulled in; if not safe enough gently do/&#8203;choose/&#8203;/allow something else. Be patient; non-wait (don't rush; non-hurrying; no haste; no corner-cutting; no-blood-from-stone-ing; no squeezing; no eking out just a little more; it doesn’t work; only spontaneous works; only-it-just-happens works; let fluidity and slack come to you). Enjoy. Allow. Relax. Experience. Just this. Nothing more. (Nothing less.) Stop when there's nothing left for today or things start to “tip/&#8203;go too wrong," including "non-constructive flow." When in doubt, when possible, focus on nutrition, sleep, relaxation, de-stressing, distraction, socializing and support, and patience.
+Don't do anything in particular. Puzzle-solve-ily, find your way to allow, just a little. Don't push things away\*. Don't push\*\*. Don't push past\*\*\*\*. [When safe (and only when safe!), perhaps temporarily, experimentally stop resisting (if you can and it's ok if you can't).] Don't try to make things happen\*\*\*, don't even (directly or even indirectly) try to change anything, even [sic; "even"], including not trying to not try to change things [sic]. Choose, turn towards, or surrender to effortlessness, subtler and subtler (...). [sic] Choose, turn towards, surrender to non-doing, subtler and subtler. Don't expect. Let things come to you. Let it/&#8203;things happen ([inner] seeing, feeling, remembering, non-thinking, etc.). Let the "wrong" things happen (e.g. pushing) if they do happen---if you zero-step/&#8203;immediately/&#8203;non-directly can, [you might spontaneously choose to] stop them, if it's smooth, fluid, non-jam-y, non-bump-y, [at best, flowing, participating-ly] and if things don't/&#8203;won't "pile up," but, for example, don't add pushing to try to stop pushing, or don't push away pushing, or don't push to "let things happen," or don't push "to allow," [or don't push "to stop resisting,"] and so on. [[for the previous and anything], If you try something and it doesn't smoothly happen, gently try to make sure you stop that trying completely, including then/&#8203;with the trying to stop trying, no remainder, but it's ok if you can't and don't push to stop trying, and don't push away the trying or the trying to stop trying; let them happen if they don't participatingly release and they're still happening.] If you find pushing, etc., let [it] self-unravel, self-evaporate, if it does, and it's ok if it doesn't right then. Be moved. Sometimes help things out, help things over humps (but again don't push), sometimes. If something is "going wrong," for right now, redirect (e.g. attention)/&#8203;do/&#8203;choose/&#8203;allow otherwise. If safe enough, optionally let yourself be pulled in; if not safe enough gently do/&#8203;choose/&#8203;/allow something else. Be patient; non-wait (don't rush; non-hurrying; no haste; no corner-cutting; no-blood-from-stone-ing; no squeezing; no eking out just a little more; it doesn’t work; only spontaneous works; only-it-just-happens works; let fluidity and slack come to you). Enjoy. Allow. Relax. Experience. Just this. Nothing more. (Nothing less.) Stop when there's nothing left for today or things start to “tip/&#8203;go too wrong," including "non-constructive flow." When in doubt, when possible, focus on nutrition, sleep, relaxation, de-stressing, distraction, socializing and support, and patience.
 
 In the above, you can generally replace/alternate "pushing" with "managing." ; As best you can, "don't manage," subtler and subtler.
 
@@ -13688,8 +13706,11 @@ In the above, you can generally replace/alternate "pushing" with "managing." ; A
 \*\*\*(...etc.)  
 \*\*\*\*"Push past" means to force/&#8203;push/&#8203;get in front of something else maybe without regard to that thing/&#8203;something else[-ness].
 
+See also:
 
-
+* <a href="#find-the-now">quiet mind reveals the now</a>
+* <a href="#-headyness-heady-ness-headiness">"headyness"/"heady-ness"/"headiness"</a>
+* <a href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
 
 [<a href="#178ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
