@@ -245,6 +245,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="108h" href="#p9">p9</a>
 					* <a id="109h" href="#p10-experimental">p10 [experimental]</a>
 					* <a id="109ah" href="#p11">p11</a>
+					* <a id="109a1h" href="#p12">p12</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -4690,6 +4691,20 @@ Notes:
 
 [<a href="#109ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="p12" href="#p12">p12:</a>
+
+The official practice-ish: "Don't try to change anything, including not trying to not try to change things." [sic]
+
+Broken down a little bit and phrased a little bit differently:
+
+Try to let things be and happen and change as they are without [you yourself] trying to make anything different in each moment, and the next. If you find yourself trying to do that ("Try to let things be and happen and change..."), that is itself trying to change things, but don't try to change that...
+
+See also:
+
+* <a href="#more-compressed-pith-instructions">more compressed pith instructions</a>
+
+[<a href="#109a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
@@ -13708,6 +13723,7 @@ In the above, you can generally replace/alternate "pushing" with "managing." ; A
 
 See also:
 
+* <a href="#p12">p12</a>
 * <a href="#find-the-now">quiet mind reveals the now</a>
 * <a href="#-headyness-heady-ness-headiness">"headyness"/"heady-ness"/"headiness"</a>
 * <a href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
