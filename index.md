@@ -4700,6 +4700,10 @@ Broken down a little bit and phrased a little bit differently:
 
 Try to let things be and happen and change as they are without [you yourself] trying to make anything different in each moment, and the next. If you find yourself trying to do that ("Try to let things be and happen and change..."), that is itself trying to change things, but don't try to change that...
 
+notes:
+
+When you exploring trying to not change anything, for a time, maybe find yourself intermittently noticing ways you're trying to make things different, pushing, pushing away, managing, forcing. What can effortlessly take care of itself? And then what happens? And now? Also, does trying have to have any pushing in it; can trying itself be effortless and weightless? What would that back then have been like (or just right now, and now) with buddha mind?
+
 See also:
 
 * <a href="#more-compressed-pith-instructions">more compressed pith instructions</a>
@@ -6700,6 +6704,9 @@ APA
 
 \[4\] Young, Simon N. "How to increase serotonin in the human brain without drugs." Journal of psychiatry & neuroscience: JPN 32.6 (2007): 394.
 
+newer / stated differently:
+
+(Not medical advice: One pretty important thing is to make sure your protein has a relatively high ratio of tryptophan to leucine, isoleucine, phenylalanine, tyrosine, and valine, i.e. tryp/&#8203;(leu+&#8203;iso+&#8203;phe+&#8203;tyr+&#8203;val) approximately by weight is more than good enough. The ratio may be way more important than the total amount of tryptophan. So, just as an example, dairy or salmon is better than beef is better than pea protein (if I recall correctly), and nuts like cashews and possibly some fruits and plantains (careful with stimulating coconut oil if plantain chips) may be even better than salmon or dairy, even though they have much less protein. I don't supplement with straight l-tryptophan because it might be dangerous if you have any immune stuff, or even in any case, and anecdotally is physiologically confusing for the body. Also, after your last bite, it can take as long as 3.75 hours for serotonin and melatonin synthesis to begin, and, not critical at all, but the body prefers to ideally be synthesizing many hours in advance, like 8-10+ hours in advance is even better. Alternatively, if you do have circulating amino acids already, eating carbohydrates->&#8203;insulin can differentially shunt already circulating tryptophan into the brain. So ~zero hours instead of 3.75, but there has to be already-circulating tryptophan to do this and a larger ratio of tryptophan to those other amino acids is still better.) [this paragraph can be found elsewhere in document, too]
 
 
 [<a href="#147a1dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
