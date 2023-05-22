@@ -1003,6 +1003,10 @@ n/a
 - (\*) https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem
 - (\*) https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction
 - (\*) Casagrande, June. It was the best of sentences, it was the worst of sentences: A writer's guide to crafting killer sentences. Random House Digital, Inc., 2010.
+- (\*) Benjamin Opipari. “To Go Boldly Without the Bold (and Italics and Underlining and All Caps).”
+Perspectives: Teaching Legal Research and Writing 16.2 (Winter 2008): 131-138. [https://www.persuasivematters.com/s/BoldlyWithoutBold.pdf Last accessed: 2023-05-22]
+- (\*) George Gopen. Sense of Structure, The: Writing from the Reader's Perspective. Pearson; 1st edition (January 8, 2004)
+- (\*) Huddleston, Rodney D. and Pullum, Geoffrey K.. The Cambridge Grammar of the English Language. : Cambridge University Press, 2002.
 - ============
 - tenses/aspects/modes/etc
 	- tense/aspect
