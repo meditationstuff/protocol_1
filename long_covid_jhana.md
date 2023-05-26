@@ -137,6 +137,7 @@ So again: Try to stay as awake as you can while laying in bed (in a position you
 Notes:
 
 * (a) state cultivation and (b) state modulation and (c) stable, non-layering carryover and integration, per se
-* elsewhere voids, anxiety, regrowth and rewiring, hippocampus, location, and body map
+* <span id="lcj1"></span>elsewhere voids, anxiety, regrowth and rewiring, hippocampus, location, and body map
+* see also: 
 
 [<a href="#200h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

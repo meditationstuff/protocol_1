@@ -4694,11 +4694,15 @@ Notes:
 
 # <a id="p12" href="#p12">p12:</a>
 
-The official practice-ish: "Don't try to change anything, including not trying to not try to change things." [sic]
+The official practice-ish: "Don't try to change anything, including not trying to not try to change things. [Neither try to prevent change/&#8203;happening/&#8203;etc., nor try to not prevent change, and so on.]" [sic]
 
 Broken down a little bit and phrased a little bit differently:
 
 Try to let things be and happen and change as they are without [you yourself] trying to make anything different in each moment, and the next. If you find yourself trying to do that ("Try to let things be and happen and change..."), that is itself trying to change things, but don't try to change that...
+
+> [Neither try to prevent change/&#8203;happening/&#8203;etc., nor try to not prevent change, and so on.]
+
+Change will still happen, cf. impermanence, etc.
 
 notes:
 
@@ -6393,6 +6397,8 @@ Miscellaneous messy scratch notes (added by Mark):
 * everything not grounded and happening [within]in the experience of here and now is wrong
 * nothing really can do, except be moved by """""""reallity"""""""" and that's already happening
 * no behind me until I turn
+* don't be afraid of old states and old practices cf. redo-to-undo; if "old practices" "come up" let them
+* <span id="miscpith1"></span>uncoupling preference from control, cf. "superstitious meditation" / inappropriate use of meditation [see <a href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental)</a>
 
 
 
@@ -6413,9 +6419,21 @@ Miscellaneous messy scratch notes (added by Mark):
 * upstream nerve ennervation pain
 * upstream nerve pain
 
-right tool for right job, wrong tool can make worse. some things look like other things but at root are the other thing. 
+right tool for right job, wrong tool can make worse. some things look like other things but at root are the other thing. meditation can't directly fix some things that might initially seem like they can directly be fixed by meditation. (instead time, nutrition, medicine, physical intervention, etc. is needed.)
 
+the "error mode" is sort of creatively-but-superstitiously doubling down on an unfortunately "pushy" (layering) meditative action that is believed/&#8203;hoped to fix something that then sort of systemically "piles up against" or "wraps around" the thing that can't actually fixed with meditation, taking slack out of the system, leading to muscle tension eventually, and ultimately needing to be fixed/untwirled eventually to make further progress.
 
+that said, there is a "phenomenological interaction boundary" between the thing that can't be directly/&#8203;immediately fixed and "everything else," and the rest of the system can be "untwirled" with respect to the not-directly-fixable thing. and new illnesses and nerve injuries can make new focal points suitable for local and global untwirling/&#8203;commensuration with respect to the new thing, though sometimes it's better to wait to see what happens for days, weeks, or months because if the new thing heals completely then the system will want to rebalance back to the way it was before (feels on the inside like usual-ish  "things that can be done / things that could happen / potentiality," possibly with significant "bubble-up delay" and has objective correlates [1]).  could also split the difference. also, generally, these explicit decisions matter less and less the more spontaneity in the system there is.
+
+[1] <a href="#neuroscience-and-meditation-odds-and-ends-2-22-2-9">neuroscience and meditation, odds and ends [2022-02-09]</a> "[...] It might be a little surprising how reversible these changes can be. [...]"
+
+see also:
+
+* <a href="#metabolic-traps">metabolic traps with respect to meditation</a>
+* <a href="#miscpith1">superstitious meditation</a> [one-liner scratch link]
+* <a href="#lcj1">elsewhere voids</a> [one-liner scratch link]
+* <a href="#appendix-7-jhana-for-long-covid">appendix 7: jhana and yoga nidra for long covid (and other things) (draft, incomplete, experimental)</a>
+* [more to go here]
 
 [<a href="#145a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
