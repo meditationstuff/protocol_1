@@ -2696,6 +2696,12 @@ Generally, when all is well, the jaw is "magnetized" shut (teeth not touching or
 
 \* 
 
+And / but also see e.g.:
+
+* Nestor, J. (2020). Breath: The new science of a lost art. Penguin.
+
+\*
+
 See also:
 
 * (advanced section) <a href="#rebalancing-effortlessness-doing">rebalancing/&#8203;balancing effortlessness and doing</a>
