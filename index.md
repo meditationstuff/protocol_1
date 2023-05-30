@@ -15033,5 +15033,8 @@ In some ways the document might have the implicit premise of "thinking and rigor
 	* Stavy, Ruth, ed. U-shaped behavioral growth. Elsevier, 2012.
 	* https://news.ycombinator.com/item?id=35683754 [Last accessed: 2023-04-26]
 	* [end Nonmonotonicity in human learning and machine learning:]
+* Setiya, Kieran. "The midlife crisis." Philosophers 14 (2014). [https://quod.lib.umich.edu/cgi/p/pod/dod-idx/midlife-crisis.pdf?c=phimp;idno=3521354.0014.031;format=pdf  Last accessed: 2023-05-26]
+* Nestor, J. (2020). Breath: The new science of a lost art. Penguin.
+
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
