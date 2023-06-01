@@ -4717,6 +4717,7 @@ When you exploring trying to not change anything, for a time, maybe find yoursel
 See also:
 
 * <a href="#more-compressed-pith-instructions">more compressed pith instructions</a>
+* <a href="#miscpith1">uncoupling preference from control</a> [one-liner scratch link]
 
 [<a href="#109a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -6405,6 +6406,10 @@ Miscellaneous messy scratch notes (added by Mark):
 * no behind me until I turn
 * don't be afraid of old states and old practices cf. redo-to-undo; if "old practices" "come up" let them
 * <span id="miscpith1"></span>uncoupling preference from control, cf. "superstitious meditation" / inappropriate use of meditation [see <a href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental)</a>
+* the whole world is within you; the feel of the whole world is within you
+* everything interfaces somehow with here and now
+* X won't fall apart or even be set back if you put it down completely for a few days or even a few weeks
+* experimental: deepest intuition that you can change things versus "things" "just" "inherently" "change"
 
 
 
