@@ -246,6 +246,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109h" href="#p10-experimental">p10 [experimental]</a>
 					* <a id="109ah" href="#p11">p11</a>
 					* <a id="109a1h" href="#p12">p12</a>
+					* <a id="109a2h" href="#p13">p13</a>
+					* <a id="109a3h" href="#p14">p14</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -535,7 +537,7 @@ I make many bold assertions in this document, and sometimes I use words like usu
 
 # <span id="16"></span><a id="risks-maximally-cautious-warnings-directives-first-" href="#risks-maximally-cautious-warnings-directives-first-">risks; maximally cautious warnings/&#8203;directives (first-pass, without explanation):</a>
 
-1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), breathing disturbance, or sleep disturbance then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
+1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), breathing disturbance, dysautonomia, or sleep disturbance then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
 1. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
 1. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
 1. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
@@ -551,7 +553,7 @@ I make many bold assertions in this document, and sometimes I use words like usu
 
 The stuff below has a mild and transient version all the way up to an extreme and chronic version. I describe sort of the worst-case scenarios below. In the worst case, you might need to drop everything, or as much as you  possibly can, for weeks, months, or longer to solve it, on your own or finding a teacher or teachers who can help. This could be very costly to finances and relationships. If you experience flickers of any of the below, and you likely will, it happens, a lot, it certainly doesn’t mean you’re on your way to a worst-case scenario, but you should treat flickers calmly but with great seriousness. Don’t make seeming "progress" at the expense of even a slight uptick in the direction of any of the below. Again, you will likely skirt the faint or even moderate edges of all this stuff, so don’t freak out, and/but this is all very, very serious stuff.
 
-1. At the very, very worst, some people will run into extreme 24-7 muscle tension somewhere in their body lasting months if not a couple years. (Some people also have a less terrible version where the muscle tension is only present while actually sitting down to meditate.) That’s fine though super not great at all if it’s in your thigh or something. But, if it’s in your head, then you’ve got significantly increased intracranial pressure or something, depending on how your body downregulates blood pressure or vasodilates or etc. I imagine this could be really risky for someone who is at risk for stroke. Additionally, if it happens in your neck or spine then you could be a risk for nerve root impingement and permanent structural or neuromuscular impairment or other disc injury sequelae. And your sleep could get really fucked up depending on how skillful you managing weird musculoskeletal stuff with pillows. These are real risks. It can mess up exercise, intimacy, finances, daily life, etc. [...]
+1. At the very, very worst, some people will run into extreme 24-7 muscle tension somewhere in their body lasting months if not a couple years. (Some people also have a less terrible version where the muscle tension is only present while actually sitting down to meditate.) That’s fine though super not great at all if it’s in your thigh or something. But, if it’s in your head, then you’ve got significantly increased intracranial pressure or something, which at worst can cause lingering or permanent dysautonomia of some form, depending on how your body downregulates blood pressure or vasodilates or etc.. I imagine this could be really risky for someone who is at risk for stroke. Additionally, if it happens in your neck or spine then you could be a risk for nerve root impingement and permanent structural or neuromuscular impairment or other disc injury sequelae. And your sleep could get really fucked up depending on how skillful you managing weird musculoskeletal stuff with pillows. These are real risks. It can mess up exercise, intimacy, finances, daily life, etc. [...]
 
 1. At the very worst, due to weird subtle stuff that you’ll begin experience extreme sensitivity to other people. Like, being around people, working shoulder-to-shoulder with people, being on the phone or video chat with people, sleeping next to someone you care about, will become radically intolerable for some number of weeks or months. This is a real risk. This could destroy relationships both intimate and financial. Due to the same weird subtle stuff, people might come to find being around you to become completely intolerable even if you’re fine being around them. And this as well could destroy relationships both intimate and financial. (To me, this means that meditation and pregnancy or even having kids under eighteen probably don’t mix or mix in risky ways.)
 
@@ -3481,7 +3483,7 @@ Don’t take these too seriously. Don’t reify them. They might or might not po
 
 You don’t have to do all or any these. Eventually you’ll throw almost all of them away, or at least they’ll be essentialized and seamlessly convolved with so much.
 
-Something being in a preliminary/auxiliary practice isn’t committing to any particular ontology. Take these as experiential games, dialogues between words and experience, physical or mental action and result.
+Something being in a preliminary/auxiliary practice isn’t committing to any particular ontology. Take these as experiential games, brief playful experiments (and not buttons to press and mechanically keep pressing), dialogues between words and experience, physical or mental action and result.
 
 Because the preliminary/auxiliary practices are an ad hoc, open-ended list, the current set of practices became too large to be manageably contained in the current document.
 
@@ -4720,6 +4722,37 @@ See also:
 * <a href="#miscpith1">uncoupling preference from control</a> [one-liner scratch link]
 
 [<a href="#109a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="p13" href="#p13">p13:</a>
+
+(Effortlessly) be aware of being aware.
+
+scratch notes:
+
+not a panacea, direct path sort of ignores or makes implicit/tacit all the delayering (and deconditioning) and reconditioning that needs to take place before actually works. 
+
+scratch note:
+
+the higher main practice numbers not to indicate it's the final practice, best practice, most advanced practice, only true practice, etc.
+
+resources (in no particular order; I mostly endorse Greg Goode's material but not sure if this is the best resource for the above; didn't think hard about whether a good idea to recommend the others and haven't read more than a couple pages of the Spiro one):
+
+* Goode, Greg. After Awareness: The End of the Path. New Harbinger Publications, 2016.
+* The Direct Means to Eternal Bliss; 7th edition (June 19, 2015). by Michael Langford ISBN-10: 1937995895. ISBN-13 : 978-1937995898.
+* Being Aware of Being Aware (The Essence of Meditation Series) by Rupert Spira. ASIN: B01LVUV9RY. Publisher : Sahaja; 1st edition (November 1, 2017).
+
+[<a href="#109a2h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p14" href="#p14">p14:</a>
+
+(Effortlessly) be here, now.
+
+scratch note:
+
+the higher main practice numbers not to indicate it's the final practice, best practice, most advanced practice, only true practice, etc.
+
+[<a href="#109a3h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
@@ -6410,7 +6443,15 @@ Miscellaneous messy scratch notes (added by Mark):
 * everything interfaces somehow with here and now
 * X won't fall apart or even be set back if you put it down completely for a few days or even a few weeks
 * experimental: deepest intuition that you can change things versus "things" "just" "inherently" "change"
-
+* you can divide breathing into autogenic and volitional components, and more generally there's autonomic behavior (e.g. breathing in general and peristalsis and one's heartbeat, etc.) and like skeletal muscle or volitional behavior (and we can indirectly, it's relative) affect autonomic behavior, too. but, to abuse the term autonomic, even skeletal muscle is "autonomic or "spontaneous". in some sense there's no difference between autonomic behavior and like skeletal muscle behavior. in some sense it's "all autonomic" and coming to realize this is etc etc.
+* "no heaven, no hell, no spiritual realm, no fantasy realm, no alternate timeline, no alternate future; 'resurrection' would happen here, where the past would always have happened"
+* "just this universe; just this timeline" [as a frame] [cf. extreme value of counterfactuals and possible worlds, though]
+* [meditation as] "awesome vs fantastical vs ordinary"
+* generally won't lose place/&#8203;position and momentum on creative/&#8203;elsewhere/&#8203;elsewhen projects if spend time in here and now
+* definitely some value in *occasional* rigorous classical retreat conditions (no phone, no internet, 0-2 books, nothing to do at all except meditate and exercise and chores and eat) for, say, a week or two every 1-2 years. and then lighter conditions for longer times, when possible, are also important (again if possible)---e.g. working only 0-15 hours per week for 2-36+ months with more meditation and self-care, every 1-4 years.
+* sometimes the best thing to do is to not meditate or really not do anything at all, even if excruciatingly boring or stressful to "not be doing anything" or to "not be making progress"
+* "You're going to lose." ht @RomeoStevens76
+* re risks or at least planning ahead: potentially periods where can't do intellectual or creative labor or work including stuff you do for money---ideally would plan ahead for times can't program or write while all that is refactoring. eventually could become a bottleneck or inadvertently lose it and can't get it back until you go "through". can even be periods (usually more brief and intermittent) where can't do non-essential household chores, and so on.
 
 
 [<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

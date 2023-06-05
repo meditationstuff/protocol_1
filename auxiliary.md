@@ -8094,4 +8094,12 @@ See also:
 [<a href="#952auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
+# <span id="953auxiliary"></span><a id="excruciating-boredom" href="#excruciating-boredom">boredom:</a>
+
+Temporarily make choices the lead to boredom.
+
+(the boredom might be very unpleasant (or neutral or fun), but whatever valence isn't the main focus or any particular requirement)
+
+[<a href="#953auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
