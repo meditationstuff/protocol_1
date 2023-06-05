@@ -4748,6 +4748,14 @@ resources (in no particular order; I mostly endorse Greg Goode's material but no
 
 (Effortlessly) be here, now.
 
+notes:
+
+* common reactions: "pointless and intolerable/excruciating"; "can't do anything here"; boring; will myself become boring; will lose track of something important, will lose cognitive momentum on something, will lose track of goals; literally painful
+* good nutrition helps
+* it might be useful for illuminating to temporarily avoid the "feel" of "fantasy worlds" e.g. from movies or books or video games, or to distinguish from illumination (bears usefully on the """""real""""" [sic] world versus impinging/&#8203;obscuring. But temporary is recommended because of redo-to-undo.)
+* <a href="#160">don't be here now, to start</a>
+* <a href="#taking-refuge-can-reshape-the-local-environment-and">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
+
 scratch note:
 
 the higher main practice numbers not to indicate it's the final practice, best practice, most advanced practice, only true practice, etc.
@@ -15087,6 +15095,6 @@ In some ways the document might have the implicit premise of "thinking and rigor
 	* [end Nonmonotonicity in human learning and machine learning:]
 * Setiya, Kieran. "The midlife crisis." Philosophers 14 (2014). [https://quod.lib.umich.edu/cgi/p/pod/dod-idx/midlife-crisis.pdf?c=phimp;idno=3521354.0014.031;format=pdf  Last accessed: 2023-05-26]
 * Nestor, J. (2020). Breath: The new science of a lost art. Penguin.
-
+* Being Aware of Being Aware (The Essence of Meditation Series) by Rupert Spira. ASIN: B01LVUV9RY. Publisher : Sahaja; 1st edition (November 1, 2017).
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
