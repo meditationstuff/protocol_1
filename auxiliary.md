@@ -8084,12 +8084,13 @@ It's something of a matter of finding the right thing to attend to or also the r
 
 \*
 
-You might find in this state that thoughts, thinking, mind arises *in* that spatiousness and quietness and experiential nowness, or somewhere *proximal*, and *adjacent elsewhereness*, almost with spatiality.
+You might find in this state that thoughts, thinking, mind arises *in* that spatiousness and quietness and experiential nowness, or somewhere *proximal*, and *adjacent elsewhereness*, almost with quasi-spatiality. [this line also elsewhere in document]
 
 See also:
 
 * <a href="#-headyness-heady-ness-headiness">"headyness"/"heady-ness"/"headiness"</a>
 * <a href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
+* <a href="#p14">p14</a>
 
 [<a href="#952auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 

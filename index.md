@@ -4750,11 +4750,12 @@ resources (in no particular order; I mostly endorse Greg Goode's material but no
 
 notes:
 
-* common reactions: "pointless and intolerable/excruciating"; "can't do anything here"; boring; will myself become boring; will lose track of something important, will lose cognitive momentum on something, will lose track of goals; literally painful
+* common reactions: "pointless and intolerable/excruciating"; "can't do anything here"; boring; nothing to do here; I myself will become boring; will lose track of something important, will lose cognitive momentum on something, will lose track of goals; literally painful
 * good nutrition helps
 * it might be useful for illuminating to temporarily avoid the "feel" of "fantasy worlds" e.g. from movies or books or video games, or to distinguish from illumination (bears usefully on the """""real""""" [sic] world versus impinging/&#8203;obscuring. But temporary is recommended because of redo-to-undo.)
 * <a href="#160">don't be here now, to start</a>
 * <a href="#taking-refuge-can-reshape-the-local-environment-and">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
+* You might find in this state that thoughts, thinking, mind arises *in* that spatiousness and quietness and experiential nowness, or somewhere *proximal*, and *adjacent elsewhereness*, almost with quasi-spatiality. [etc etc.] [this line also elsewhere in document]
 
 scratch note:
 
@@ -13809,6 +13810,8 @@ In the above, you can generally replace/alternate "pushing" with "managing." ; A
 See also:
 
 * <a href="#p12">p12</a>
+* <a href="#p12">p13</a>
+* <a href="#p12">p14</a>
 * <a href="#find-the-now">quiet mind reveals the now</a>
 * <a href="#-headyness-heady-ness-headiness">"headyness"/"heady-ness"/"headiness"</a>
 * <a href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
