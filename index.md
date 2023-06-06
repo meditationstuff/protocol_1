@@ -299,6 +299,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="145ah" href="#theory-driven-theory-harmonizing-equilibriating-int">theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating</a>
 	* <a id="145a1h" href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental)</a>
 	* <a id="146h" href="#historical-and-contemporary-difficulties-and-uncert">historical and contemporary difficulties and uncertainties of life [experimental section]</a>
+	* <a id="146ah" href="#superstitious-meditation-muscle-tension-and-will">superstitious meditation, muscle tension, and will</a>
 	* <a id="147h" href="#a-brief-and-incomplete-theory-of-muscle-tension-ris">a brief and incomplete theory of muscle tension risk in meditation</a>
 	* <a id="147a1ah" href="#neutral-postures-somatization-desomatization">neutral postures, somatization, desomatization, muscle tension, etc.</a>
 	* <a id="147a1bh" href="#co2-tolerance">CO2 tolerance</a>
@@ -1875,6 +1876,10 @@ I want to emphasize, though, that ALMOST EVERYONE inevitably starts with magical
 
 Be precise, patient, and gentle.
 
+See also:
+
+* <a href="#superstitious-meditation-muscle-tension-and-will">superstitious meditation, muscle tension, and will</a>
+* (And much more could be added here.)
 
 [<a href="#61h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -3316,12 +3321,16 @@ This is a very, very, very, very rough breakdown of how you might use your time 
 		* p2 80% [sic!]
 		* p3 2%
 		* p4 2%
-		* p5 3%
+		* p5 2%
 		* p6 2%
 		* p7 2%
 		* p8 2%
 		* p9 2%
 		* p10 2%
+		* p11 X%
+		* p12 X%
+		* p13 X%
+		* p14 X% (todo: get all these back to adding up to 100%)
 
 Important: It’s normal to "orbit" this document and the practices, to read this and put it down for a while, or to do the practices and then do other life things for a while. There are many paths up the mountain and many often necessary "detours," which aren’t detours at all, of course.
 
@@ -3529,6 +3538,10 @@ In a similar vein to the above, some people have that the tweet below is one-pit
 
 https://twitter.com/meditationstuff/status/1360397644498165763  
 "If you're solo working w/ Internal Family Systems Therapy (IFS; e.g. w/ the Self-Therapy Jay Earley book) or Feeding Your Demons (see appendices in the back of both books), & they've come to feel laborious or heavyweight, you can do them NONVERBALLY & SELF-TELEPATHICALLY, too."
+
+See also:
+
+* <a href="#superstitious-meditation-muscle-tension-and-will">superstitious meditation, muscle tension, and will</a>
 
 [<a href="#95h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -3776,8 +3789,8 @@ Language is bodymind-"full stack" or "bodymind-complete", or even bodymindworld-
 
 **Will Instructions Part 2 (the "opposite" or "absence" or "antidote" of/&#8203;to will):**
 
-* If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as "volitional-you-proper" is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/&#8203;destiny/&#8203;inevitability/&#8203;choicelessness/&#8203;expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality][release preconceptions], forget, dream, daydream, fantasize, reverie, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, let [it] relax, let [it] recede, let it undo itself, dream, get lost, be lost, forget, allow, surrender, suffer, free-associate, be confused, be uncertain, be out of control, let go, ‘controlled/&#8203;channelized "falling backwards [into]")’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.  
-* If you become aware that it would be bad to have faith or forbearance or resignation or surrender or giving up, etc. about something relative to your fate/&#8203;destiny/&#8203;inevitability/&#8203;choicelessness/&#8203;expectation[e.g.][(temporarily?) (locally or globally) abdicate responsibility ][(temporarily?) (locally or globally) disclaim volitionality], to forget, dream, hypnogogia, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, ‘controlled/&#8203;channelized "falling backwards [into]", fall-backwards-into, fall-forwards-backwards-into)’ [...], etc.,  and you can (not) do so, do not surrender to that, don’t do that. [e.g./&#8203;for example maybe: fight, resist, will, try everything, try different things, go back to the drawing board, exhaust every possibility, give it everything you have, try more things, etc., or not, or don’t]
+* If you become aware that it would be good to have faith [re faith: it or something will work out; something agentic or inevitable or spontaneous causally working on your behalf—the rest of you, or deeper parts of you, or entropic dissipation, or causal law, or the minimization of free energy, or god, or the entire experiential field, Buddha nature, synchronicity, something that you don’t directly and immediately identify as "volitional-you-proper" is figuring it out for you and changing you] or acceptance or forbearance or [even] resignation about something relative to your fate/&#8203;destiny/&#8203;inevitability/&#8203;choicelessness/&#8203;expectation, and you can do so, surrender into, or surrender into facing that[(temporarily?) (locally or globally) abdicate responsibility \]\[(temporarily?) (locally or globally) disclaim volitionality\]\[release preconceptions], forget, dream, daydream, fantasize, reverie, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, let [it] relax, let [it] recede, let it undo itself, dream, get lost, be lost, forget, allow, surrender, suffer, free-associate, be confused, be uncertain, be out of control, let go, ‘controlled/&#8203;channelized "falling backwards [into]")’, give up, fail, give up completely be overtaken, be overwhelmed, be undone, be overcome, fail, give up, fail forever, give up completely, give up forever, forget, forget forever, forget temporarily, forget permanently. Easy in the harness.  
+* If you become aware that it would be bad to have faith or forbearance or resignation or surrender or giving up, etc. about something relative to your fate/&#8203;destiny/&#8203;inevitability/&#8203;choicelessness/&#8203;expectation[e.g.\]\[(temporarily?) (locally or globally) abdicate responsibility \]\[(temporarily?) (locally or globally) disclaim volitionality], to forget, dream, hypnogogia, entrance, be moved, be drawn towards, have experience, non-effort, non-force, forcelessness, effortlessness, ‘controlled/&#8203;channelized "falling backwards [into]", fall-backwards-into, fall-forwards-backwards-into)’ [...], etc.,  and you can (not) do so, do not surrender to that, don’t do that. [e.g./&#8203;for example maybe: fight, resist, will, try everything, try different things, go back to the drawing board, exhaust every possibility, give it everything you have, try more things, etc., or not, or don’t]
 * If you find you can’t do one of the two above, then stop trying completely, will that you have the absence of trying and ultimately release even that; allow or participate in that happening.
 
 **Action Instructions Part 1:**
@@ -3794,6 +3807,7 @@ Language is bodymind-"full stack" or "bodymind-complete", or even bodymindworld-
 
 Notes:
 
+* <a href="#superstitious-meditation-muscle-tension-and-will">superstitious meditation, muscle tension, and will</a>
 * good; cf. ok, good, better, best
 * bad; cf. bad, worse, worst
 * The order in which you do things matters. Some things will be bad to do now but good to do later and vice versa.
@@ -4771,6 +4785,8 @@ the higher main practice numbers not to indicate it's the final practice, best p
 [<a href="#110h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="111"></span><a id="incomplete-alternative-renderings" href="#incomplete-alternative-renderings">incomplete, alternative renderings:</a>
+
+[See also: <a href="#superstitious-meditation-muscle-tension-and-will">superstitious meditation, muscle tension, and will</a>]
 
 A collaborator (mh) notes:
 
@@ -6447,7 +6463,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * nothing really can do, except be moved by """""""reallity"""""""" and that's already happening
 * no behind me until I turn
 * don't be afraid of old states and old practices cf. redo-to-undo; if "old practices" "come up" let them
-* <span id="miscpith1"></span>uncoupling preference from control, cf. "superstitious meditation" / inappropriate use of meditation [see <a href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental)</a>
+* <span id="miscpith1"></span>uncoupling preference from control, cf. "superstitious meditation" / inappropriate use of meditation [see <a href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental)</a> Also see: <a href="#superstitious-meditation-muscle-tension-and-will">superstitious meditation, muscle tension, and will</a>
 * the whole world is within you; the feel of the whole world is within you
 * everything interfaces somehow with here and now
 * X won't fall apart or even be set back if you put it down completely for a few days or even a few weeks
@@ -6490,6 +6506,7 @@ that said, there is a "phenomenological interaction boundary" between the thing 
 
 see also:
 
+* <a href="#superstitious-meditation-muscle-tension-and-will">superstitious meditation, muscle tension, and will</a>
 * <a href="#metabolic-traps">metabolic traps with respect to meditation</a>
 * <a href="#miscpith1">superstitious meditation</a> [one-liner scratch link]
 * <a href="#lcj1">elsewhere voids</a> [one-liner scratch link]
@@ -6505,6 +6522,68 @@ Warning: This section is experimental and should be approached with caution if y
 In no particular order: deaths of parents, significant others, children, other family, natural disaster, solar flares, pandemics, war, invasion, food insecurity, authoritarian surveillance states, violent feuds, systemically messed up and flawed healthcare, accidents, nuclear war, phishing, failure of cryogenic preservation if you go that route or being tortured and unable to die when you wake up until some very large energy source runs out, Alzheimer’s, Parkinson’s, chronic fatigue, physical disability, nation/state/country failure, sudden death, cancer, stroke, agents of power knowing exactly who you are and the uncertain threat of them coming to harm, kill, or take you away (in front of significant others, children, or other family of friends).
 
 [<a href="#146h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="superstitious-meditation-muscle-tension-and-will" href="#superstitious-meditation-muscle-tension-and-will">superstitious meditation, muscle tension, and will:</a>
+
+These are rhetorical or koan-ish sorts of questions (more phenomenological than mechanism-related, neuroscientific, causal, or even-ish teleological):
+
+How do you move your body? Or how does your body move? Or if you can make your hands heat up or stop hiccuping or deliberately open up your nasal turbinates or stimulate intestinal peristalsis, how do you do that? Or, if you're a yogi(ni), how do you temporarily stop your heart (more like subtle atrial fibrillation, maybe, but anyway). What about entering nirodha samapatti or something? Or old research studies of people stimulating their immune system? Do you do these things "directly"? (and what does that mean?) Or "indirectly"? For example, if your breathing slows, that raises CO2, and that can cause your nasal turbinates to open up, and that's something that you can do deliberately/&#8203;intentionally/&#8203;consciously; or, you might not realize you're doing it, if you're "concentrating" or something. Or is, e.g. weight loss, when it works, "all technical," the right combination of macros, micros, timing, etc., and then it happens by itself; or is there a mental component, or both, and when is that a false dichotomy, and so on.
+
+Anyway, what are all the ways you directly or indirectly cause (or not) something bodymind-related (or otherwise) to happen? Or the ways in which things just happen? (This is also rhetorical or koan-ish.):
+
+There's, loosely speaking, with overlap and vagueness, intention, intending, will/&#8203;volition, deliberate action, bottom-up action, spontaneous happening, "participation," intercessory prayer, asking the universe, doing magic, trigger-action plans, commanding yourself, and so on, and so on. 
+
+And, like, as a hypothetical, non-presupposing example, do you "momentarily" "intend," as an example, or do "you" "maintain" an "intention" in the "background" or "foreground" or does "something else" "take over" or do you "set it and forget it" or return intermittently or regularly to it, like ringing a bell, or something. And what about in the far reaches of meditation? Does the "intending self" sort of "eat itself with no remainder"? Or, what's "really going on"? And/&#8203;or is that ineffable? And,  aren't self, body, mind, bodymind, etc., empty in the technical sense? How does that all fit together?
+
+\*
+
+The point of all the above is something like, over the course of our lives, we build up a lot of assumptions about how the bodymind moves and functions and acts upon itself, and so on. And, in meditation, those assumptions can be magnified or doubled-down-upon, before they're eventually corrected, and dimensions that persist longer, before they're corrected, can lead to things like muscle tension.
+
+As an example, leaving aside the ethics of the original experiment, which I haven't thought through at the time of this writing, and, so the story goes, B.F. Skinner would have pigeons peck buttons that would light up in order to receive food. But, when the button lit up, it wouldn't always dispense food. So, the pigeons would sort of develop these elaborate behavioral dances, before, after, and between pecks, as, perhaps, they tried to figure out they connection between their behavior and how to get food to actually dispense. In some sense, arguably, the pigeons were acting "superstitiously." Here, that would be something like "acting erroneously or elaborately on the basis of incorrect or hopeful beliefs about the relationship between cause and effect."
+
+So, a lot of *human* behavior, down to really subtle levels can be "superstitious," in some sense. Or, a lot of what we do, even when it does work, can have a lot of "extra" stuff that comes along with it, that can come before or after the thing that actually does the thing or concurrently. Or, the thing that actually does the thing can be really indirect and almost incidental with respect to how we're (trying) to produce the effect, consciously and unconsciously.
+
+And a lot of what meditation is "raising" and working through all that superstition, including presupposed ontology, along with a lot of initial "error propagation" and "doubling down" and making things worse, sometimes a lot worse, along some pervasive and subtle dimensions, before those dimensions get better and better.
+
+So, here's a simple, toy model:
+
+Say, first-pass, you're composed of an (a) "I" and (b) a "me." Or (a) "self" and (b) "parts." Or something like that.
+
+A lot of problems are caused by clashes or confusions between (a) and (b). Say that one is trying to take the other's jobs. Or one is trying to become infinitely or perfectly strong and to clobber or completely control or even erase the other. Or one believes it or the other is the only "true" one and that the other is an illusion. Or one or even something else is trying to "merge" the two or treat them the same. And so on. (You of course may find that interacting constructively with parts causes them to become less and less part-like and more and more integrated or that "I" and "me" do or don't eventually dissolve into awareness or centerlessness or agencylessness or something, or sensations can't directly affect other sensations, etc., etc., and/&#8203;but empty isn't the same as illusory, and so on and so forth. In any case, models are useful for as long as they're somewhat phenomenologically resonant or usefully evocative.)
+
+So, you might provisionally assume or play with the idea that there's an "I" and "me" or an "I" and "parts" or "self" and "parts," and so on.
+
+And whether it's "I" interacting with "I" or "I" interacting with "parts" or "parts" interacting with "parts," or the world or univesre (cf. "asking the universe," cf. your current tacit or explicit beliefs about how the bodymind works or your cosmology and so on), you might distinguish between things like:
+
+* action,
+* will,
+* requesting, 
+* imperatively "telling" or commanding,
+* spontaneous happening, and so on.
+
+Or, more simply, are you "telling" or are you "asking"? And can the other part safely say "no"? Can you or the asking or telling part safely hear a "no"? And/&#8203;or are you or the asking or telling part going to try to make it happen anyway? (cf. pushing and forcing and so on)
+
+And if you/&#8203;"I" can safely *hear* a "no," and the "me" or other part can safely *say* no, and there's not habitual "trying to make it happen, no matter what," then there's a possibility of dialogue or negotiation, which could be heavyweight and verbal (and one can always play with that, even in far reaches, for pockets of redo-to-undo or as a fluidly settled thing), and/&#8203;but can get more and more liminally verbal, nonverbal and self-telepathic, subtler and subtler untanglings and refactorings and resortings and more and more and finally ever-always spontaneous. (And even this toy model is too reifying. The full space is something like all the auxiliary and main practices and beyond, not just "negotiation," but this is a potentially very helpful and useful toy (and actionable, depending on regime, loosely speaking) model.)
+
+So, cf. global-wayfinding-aware and with respect to subtler and subtler tangles, are you being superstitious about voltionality or your capacity to directly cause? Say, are you confusing "I" with "me"?
+
+Are you asking or telling? Who (or what) is asking or telling? And to whom (or what)?
+
+\*
+
+Notes:
+
+* Why is "will" so prominent in main practice p2 if it's sort of so fraught and prone to misunderstanding? Won't people be more likely to double-down and error propagate on something superstitious in there? Possibly. This is somewhat empirical. A lot of people reify something like "will" and people might find and uncover their errors more quickly if it's front-and-center; and, also, sort of saying the same thing, it may put redo-to-undo up-front in service of that. But it depends on the reader/practioners interpretation, personal ordering, and so on. There are tradeoffs, and something else might be better.
+
+See also:
+
+* Search for "muscle tension" in the document.
+* <a href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental)</a>
+* <a href="#miscpith1">superstitious meditation</a> [one-liner scratch link]
+
+[<a href="#146ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="147"></span><a id="a-brief-and-incomplete-theory-of-muscle-tension-ris" href="#a-brief-and-incomplete-theory-of-muscle-tension-ris">a brief and incomplete theory of muscle tension risk in meditation:</a>
 
@@ -13810,8 +13889,8 @@ In the above, you can generally replace/alternate "pushing" with "managing." ; A
 See also:
 
 * <a href="#p12">p12</a>
-* <a href="#p12">p13</a>
-* <a href="#p12">p14</a>
+* <a href="#p13">p13</a>
+* <a href="#p14">p14</a>
 * <a href="#find-the-now">quiet mind reveals the now</a>
 * <a href="#-headyness-heady-ness-headiness">"headyness"/"heady-ness"/"headiness"</a>
 * <a href="#don-t-be-here-now-to-start">don't be here now (to start)</a>
