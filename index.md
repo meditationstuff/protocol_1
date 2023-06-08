@@ -248,6 +248,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a1h" href="#p12">p12</a>
 					* <a id="109a2h" href="#p13">p13</a>
 					* <a id="109a3h" href="#p14">p14</a>
+					* <a id="109a4h" href="#p15">p15</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -4778,6 +4779,27 @@ the higher main practice numbers not to indicate it's the final practice, best p
 [<a href="#109a3h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+# <a id="p15" href="#p15">p15:</a>
+
+(Effortlessly) emphasize (and/&#8203;or err on side of) receptivity (or openness/&#8203;vulnerability \[to being changed by experience, environment, self] (over doing (and effortlessly guarding against or deeply implicit or explicit fixed or presupposed goals) or presupposition in general (and receptivity can optionally include fluid/&#8203;nebulous/&#8203;empty questions and fluid requests (fluid asker and fluid answerer and fluid answering and fluid answer and fluid requester, fluid requestee, fluid response, and so on.) \[most parentheses not closed at this time]
+
+Miscellaneous (may be split out into a p16):
+
+nothing left to do, accept X when safe, open focus, allow the periphery
+
+Notes: 
+
+* cf. key terms: receptivity, questions, requester
+* cf. generalized “listening”
+* cf. receptivity here is with respect to sensory, interoceptive, doxastic, existential, metaphysical, cosmological, the world, the universe, etc.
+
+scratch note:
+
+the higher main practice numbers not to indicate it's the final practice, best practice, most advanced practice, only true practice, etc.
+
+[<a href="#109a4h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
@@ -6477,6 +6499,9 @@ Miscellaneous messy scratch notes (added by Mark):
 * sometimes the best thing to do is to not meditate or really not do anything at all, even if excruciatingly boring or stressful to "not be doing anything" or to "not be making progress"
 * "You're going to lose." ht @RomeoStevens76
 * re risks or at least planning ahead: potentially periods where can't do intellectual or creative labor or work including stuff you do for money---ideally would plan ahead for times can't program or write while all that is refactoring. eventually could become a bottleneck or inadvertently lose it and can't get it back until you go "through". can even be periods (usually more brief and intermittent) where can't do non-essential household chores, and so on.
+* doing, receptivity, sympathetic arousal, parasympathetic arousal
+	* super wrong: doing and undoing train motor / "belief" systems; receptivity trains perceptual system
+* doing, undoing, receptivity
 
 
 [<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -6575,12 +6600,14 @@ Are you asking or telling? Who (or what) is asking or telling? And to whom (or w
 Notes:
 
 * Why is "will" so prominent in main practice p2 if it's sort of so fraught and prone to misunderstanding? Won't people be more likely to double-down and error propagate on something superstitious in there? Possibly. This is somewhat empirical. A lot of people reify something like "will" and people might find and uncover their errors more quickly if it's front-and-center; and, also, sort of saying the same thing, it may put redo-to-undo up-front in service of that. But it depends on the reader/practioners interpretation, personal ordering, and so on. There are tradeoffs, and something else might be better.
+* cf. ineffable (without connotations of great or extreme, though)
+* doing vs doing vs telling vs asking /vs [sic] (general) receptivity // &#8203;.."listening"
 
 See also:
 
 * Search for "muscle tension" in the document.
 * <a href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">typology of pain and suffering in terms of when to try meditation (experimental)</a>
-* <a href="#miscpith1">superstitious meditation</a> [one-liner scratch link]
+* <a href="#miscpith1">superstitious meditation / uncoupling preference from control</a> [one-liner scratch link]
 
 [<a href="#146ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
