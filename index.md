@@ -4717,7 +4717,7 @@ Notes:
 
 # <a id="p12" href="#p12">p12:</a>
 
-The official practice-ish: "Don't try to change anything, including not trying to not try to change things. [Neither try to prevent change/&#8203;happening/&#8203;etc., nor try to not prevent change, and so on.]" [sic]
+The full/&#8203;complete official practice-ish: "Don't try to change anything, including not trying to not try to change things. [Neither try to prevent change/&#8203;happening/&#8203;etc., nor try to not prevent change, and so on.]" [sic]
 
 Broken down a little bit and phrased a little bit differently:
 
@@ -4741,7 +4741,7 @@ See also:
 
 # <a id="p13" href="#p13">p13:</a>
 
-(Effortlessly) be aware of being aware.
+Full/&#8203;complete pith practice instructions: (Effortlessly) be aware of being aware.
 
 scratch notes:
 
@@ -4761,7 +4761,7 @@ resources (in no particular order; I mostly endorse Greg Goode's material but no
 
 # <a id="p14" href="#p14">p14:</a>
 
-(Effortlessly) be here, now.
+Full/&#8203;complete pith practice instructions: (Effortlessly) be here, now.
 
 notes:
 
@@ -4792,6 +4792,10 @@ Notes:
 * cf. key terms: receptivity, questions, requester
 * cf. generalized “listening”
 * cf. receptivity here is with respect to sensory, interoceptive, doxastic, existential, metaphysical, cosmological, the world, the universe, etc.
+
+temp:
+
+\[nowhere left to go]
 
 scratch note:
 
@@ -6502,6 +6506,8 @@ Miscellaneous messy scratch notes (added by Mark):
 * doing, receptivity, sympathetic arousal, parasympathetic arousal
 	* super wrong: doing and undoing train motor / "belief" systems; receptivity trains perceptual system
 * doing, undoing, receptivity
+* "You don't win; but, nobody loses." [https://twitter.com/meditationstuff/status/1667747604250128384; Last accessed: 2023-06-11]
+* 
 
 
 [<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -13011,9 +13017,42 @@ cf. "positionless position" cf. groundlessness and no */fixed/* goal(s)
 
 \*
 
+say there's (a) non-automatized top-down managing and (b) automatized top-down managing.
+
+and then there's (c) bottom-up spontaneity
+
+interleaved, "you":
+
+(1) de-automatize (b) top-down managing during/after which the system learns how to bottom-up (effortlessly) automatize the thing or refactor it or everything (existential, cosmological, metaphysical, mundane and meaningful solve and dissolve of seemingly or initially or heartfelt important and critical problems) such that that can be a thing for the bottom-up system to do. so (b) transforms into (c).
+
+(2) sort of teach the bottom-up system how to do (a)'s job, or, one learns how to trust (b) and how to teach (b) to be trustworthy and when (a) didn't actually need to be a thing at all (e.g.) confusions, superstition
+
+(3) and, the bottom-up system needs lots indirect of de-automatizing and re-automatizing, too, which happens in the course of all this.
+
+(in the course of this you sort of learn even (a) and (b) are bottom-up (c), but. [sic])
+
+the bottom-up system has vastly more capacity than the (a) top-down non-automatized and (b) the top-down automatized. eventually you / the system sort of run out of stuff that needs to be managed ((a) and (b)) because the whole system (top-down and bottom-up) working together figured out any of: 
+
+a bottom-up (effortless) solution via solving, refactoring, or realizing it didn't need to be (effortlessly) managed before or now, or that there's a better way (c)
+
+eventually just run out of stuff to be top-down managed, which involves sometimes multiple near-global involutions and untwists and so-on. one sees that "doing" or pushing or managing or controlling involves a  fluctuating narrowing of attention or darkening of the attentional/awareness periphery and involves sort of a "going into" like an empty (in the technical sense) inner space that isn't necessary or essential, sort of.
+
+(in the course of this you find deeper and deeper and subtler and subtler pockets of doing, willing, pushing, controlling, managing, forcing, etc., through unwrapping and untwisting and unraveling and opening and exposing and so on. "deeper" is a little problematic as a term, sort of since ultimately it's all "surfaces," sort of, with little dips into pockets, sort of, but it's mostly exposing and letting things come to you versus like trying to get somewhere deep, also altered states are sort of the exception and not the norm though are on and off a part of this.)
+
+thus, spontaneity, [non-deliberateness [in a good sense]], non-controlling, non-managing, but/though nevertheless still preference [in a good sense]
+
+and also there's a series of phenomenological-conceptual-cosmological-metaphysical corrections, over time, including realizing that "you're the whole universe" rather, "you" are a phenomenological world model that models contains/models "everything". [thx to scott alexander for this formulation. he doesn't necessarily endorse even 0.000001% of any this or even that formulation, etc., etc.] [find where he says this, i'll have it linked in doc also elsewhere.]
+
+also that "narrowing" or "going elsewhere" runs out or stops and the periphery (and everything/&#8203;"everything") becomes the foreground, sort of, first-pass
+
+and again all this takes on the order of 10,000 hours because of sort of the nebulous combinatorial all-to-all-ness as the system transforms globally via the what-there-is-right-now local[ly "raised"] and then fundamental rate limits on synaptic potentiation and depotentiation plus synaptic renormalization during sleeping, or something [see other sections for more on this]
+
+\*
+
 scratch:
 
 * knowing of the self versus knowing of the world cf. behindness / knowingness with respect to "sensations" / body sensations versus self sensations versus world sensations and [at first] siloed knowingness for each thereof
+* cf. centerlessness, agencylessness, no-doer, no-watcher, a la Daniel Ingram
 
 [<a href="#158da1rh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
