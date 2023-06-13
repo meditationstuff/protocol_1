@@ -6507,7 +6507,11 @@ Miscellaneous messy scratch notes (added by Mark):
 	* super wrong: doing and undoing train motor / "belief" systems; receptivity trains perceptual system
 * doing, undoing, receptivity
 * "You don't win; but, nobody loses." [https://twitter.com/meditationstuff/status/1667747604250128384; Last accessed: 2023-06-11]
-* 
+* "can't change even a single drop, a single dot"
+* "I/&#8203;self mistaken about its own influence cf. '\[sensations] can't directly change other sensations'"
+* "experience and 'change' come to you; you don't go to it"
+* issues with "trying to get somewhere" \["inside of yourself or outside of yourself", whether meditating or in life] / problematic connotations or implicature of "global *wayfinding*" metaphor
+	* "no trying to 'ratchet', or "get somewhere", or 'permanently get somewhere'
 
 
 [<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
