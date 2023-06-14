@@ -4791,11 +4791,22 @@ Notes:
 
 * cf. key terms: receptivity, questions, requester
 * cf. generalized “listening”
-* cf. receptivity here is with respect to sensory, interoceptive, doxastic, existential, metaphysical, cosmological, the world, the universe, etc.
+* cf. receptivity here is with respect to sensory, interoceptive, doxastic, existential, metaphysical, cosmological, the world, the universe, "inner space," "subtle body space," etc.
+* "can't change even a single drop, a single dot"
+* "I/&#8203;self mistaken about its own influence cf. '\[sensations] can't directly change other sensations'"
+* "experience and 'change' come to you; you don't go to it"
+* issues with "trying to get somewhere" \["inside of yourself or outside of yourself", whether meditating or in life] / problematic connotations or implicature of "global *wayfinding*" metaphor
+	* "no/&#8203;t trying to 'ratchet', or "get somewhere", or 'permanently get somewhere' \[almost with in an implicit "else" as in e.g. get somewhere else, permanently get somewhere else, where the "else" is partly "you", so sort of a combination of "I do something to (in order to) become different in a different (or future) place and time.]" or "I make or cause something to happen (in order) to, so that I, such that I, become different in, or am (directly or iteratedly or ratcheted-ly) transported to, a different (or future) place and time." / "Actively trying to get to a different future, now." [Compare with "just this".]
+	* alternative eventually credible and workable strategy to trying to change self is strategy (of bodymind changing to become safe to) let the world """update""" (""")you(""")
+		* self-knowing, self-"updating"
 
 temp:
 
 \[nowhere left to go]
+
+see also:
+
+* <a href="#nonduality-far-reaches">nonduality (far reaches)</a>
 
 scratch note:
 
@@ -6507,11 +6518,6 @@ Miscellaneous messy scratch notes (added by Mark):
 	* super wrong: doing and undoing train motor / "belief" systems; receptivity trains perceptual system
 * doing, undoing, receptivity
 * "You don't win; but, nobody loses." [https://twitter.com/meditationstuff/status/1667747604250128384; Last accessed: 2023-06-11]
-* "can't change even a single drop, a single dot"
-* "I/&#8203;self mistaken about its own influence cf. '\[sensations] can't directly change other sensations'"
-* "experience and 'change' come to you; you don't go to it"
-* issues with "trying to get somewhere" \["inside of yourself or outside of yourself", whether meditating or in life] / problematic connotations or implicature of "global *wayfinding*" metaphor
-	* "no/&#8203;t trying to 'ratchet', or "get somewhere", or 'permanently get somewhere' \[almost with in an implicit "else" as in e.g. get somewhere else, permanently get somewhere else, where the "else" is partly "you", so sort of a combination of "I do something to (in order to) become different in a different (or future) place and time.]" or "I make or cause something to happen (in order) to, so that I, such that I, become different in, or am (directly or iteratedly or ratcheted-ly) transported to, a different (or future) place and time." / "Actively trying to get to a different future, now."
 
 
 [<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
