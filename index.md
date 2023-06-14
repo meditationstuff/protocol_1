@@ -4799,6 +4799,7 @@ Notes:
 	* "no/&#8203;t trying to 'ratchet', or "get somewhere", or 'permanently get somewhere' \[almost with in an implicit "else" as in e.g. get somewhere else, permanently get somewhere else, where the "else" is partly "you", so sort of a combination of "I do something to (in order to) become different in a different (or future) place and time.]" or "I make or cause something to happen (in order) to, so that I, such that I, become different in, or am (directly or iteratedly or ratcheted-ly) transported to, a different (or future) place and time." / "Actively trying to get to a different future, now." [Compare with "just this".]
 	* alternative eventually credible and workable strategy to trying to change self is strategy (of bodymind changing to become safe to) let the world """update""" (""")you(""")
 		* self-knowing, self-"updating"
+	* Re "progressing" (cf. pushing, forcing, controlling, making progress, advancing...) Not wrong to "progress," just we’re generally doing it, pervasively, inefficiently and counterproductively, and better ways are ridiculously counterintuitive and potentially short-run costly (sometimes to the point of prohibitive risk and opportunity cost).
 
 temp:
 
