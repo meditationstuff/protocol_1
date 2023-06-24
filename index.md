@@ -6436,6 +6436,40 @@ Consider a multivitamin in powder form or in many pills per day, so you can titr
 
 [Update 20230410 (xposted in a couple places): I'm becoming more distrustful of *one-shot* (at least) taste stuff because I think my body is saying no to things, but if I put it in my stomach anyway, my body is like "oh, huh, interesting" after a few hours. Or like "no, what?!" but after a couple days (or even longer) my body is more on board. Gotta do outside view stuff too, which of course I was, but I'm more outside view than I was.]
 
+[Update 20230614:]
+
+* possibly useful some ppl. not super error checked:
+* these are very approximate:
+* if meal was average macro ratios and 500+ calories, emptying starts somewhere between 1.5-2.5 hours.
+* if meal was average macro ratios and <500 calories, emptying starts somewhere around 1.5 hours.
+* if meal was mostly carbs, emptying can start around 40-60 min or less.
+* if meal was medium-high in red meat, emptying might start as late as 3-5 hours.
+* if meal was high in fat then emptying can take additional hours (instead of usual 1-2.5 hours(???))
+* "slow metabolism" or "overeating" (for whatever reason) can cause delayed or prolonged stomach emptying, too.
+* stomach emptying (and everything else) happens in brief pulses (lasting X-6 seconds??) with variable delays between pulses, though with some regularity, of course
+* full transition for a meal between small and large intestine seems to take about one hour but sometimes up to two hours or three hours?
+* it generally takes 6-8 hours to go from mouth to all the way through the small intestine (includes average mouth to complete stomach emptying time of about three hours???)
+* it takes 24-36 hours (i think) to from mouth to all the way through the large intestine.
+* i'm not sure how long eating times would affect things. I think the stomach starts emptying when all the food is digested and pauses emptying if new food is added to digest that, even if the last meal was fully digested but stomach wasn't fully empty. so pauses are shorter if just a little bit of food is added.
+* (can google some of these and verify)
+* stomach emptying, transition between small and large intestine, and pre-/post-pooping can cause increase in various symptoms if something is going on (dysbiosis, vagal nerve issues). one can also have symptoms for the full length of transit through the small intestine.
+* if one is eating regularly, it can be hard to tell which meal or which part of the digestive system is causing issues.
+one way to get better information is to eat the same for a couple days and then change one thing (amount or meal composition), and then see if one notices a change in symptoms of good stuff like energy, mood, etc. (new absence presence or greater or lesser intensity of negative symptoms or a feeling of relief) over the next 0-36 hours. if there is a change, then one can use the time guidelines above to try to figure out where in the tract the issue is happening.
+* note that sometimes good and bad stuff can happen with some delay after nutrient absorption, which starts when food hits the small intestine. for example, serotonin synthesis takes about 3.5-3.75 hours to start after food enters the mouth. and some mood and energy stuff can improve within 0-20 minutes after food hits the small intestine.
+* a collaborator also suggests sentinal meals, corn, beets, etc., "that can easily be distinguished in stool."
+
+\*
+
+Chewing food down to "microscopic" pieces, and thoroughly mixing it with saliva before swallowing, can potentially make a big difference if you have an autoimmune condition, allergies, other inflammatory conditions, or a digestive condition. Saliva has "pre-digestive" enzymes that can break down carbs, fats, and protein, which greatly facilitates downstream digestion, and the more contact food has with mouth mucosa, the more opportunities there are for "oral tolerance" mechanisms to downregulate immune response to harmless food epitopes, over time.
+
+\*
+
+A small and conservative amount of exogenous digestive enzymes, once in a while, even just for a single meal, can sometimes somehow kickstart or reboot exogenous digestive enzymes (maybe increases supply of building blocks for endogenous enzymes or fortuitiously tweaks feedback loops) and stomach acid if digestion is disrupted and gets into a bad cycle by illness or stress or other factors.
+
+\*
+
+Electrolytes (e.g. sodium) and hydration, affect appetite and digestion quite a bit.
+
 [<a href="#145h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
@@ -6519,6 +6553,8 @@ Miscellaneous messy scratch notes (added by Mark):
 	* super wrong: doing and undoing train motor / "belief" systems; receptivity trains perceptual system
 * doing, undoing, receptivity
 * "You don't win; but, nobody loses." [https://twitter.com/meditationstuff/status/1667747604250128384; Last accessed: 2023-06-11]
+* whole world changes with you (sense, feel, cosmology, metaphysics, future or lack thereof, etc. of the whole thing), for better and worse---liberation but also neurodegeneration or neuroinflammation or traumatic brain injury or aging, dying, etc.
+* love and beauty [see also: <a href="#enlightenment-sensorimotor-processing-love">enlightenment, sensorimotor processing, love</a>]
 
 
 [<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -13046,7 +13082,7 @@ the bottom-up system has vastly more capacity than the (a) top-down non-automati
 
 a bottom-up (effortless) solution via solving, refactoring, or realizing it didn't need to be (effortlessly) managed before or now, or that there's a better way (c)
 
-eventually just run out of stuff to be top-down managed, which involves sometimes multiple near-global involutions and untwists and so-on. one sees that "doing" or pushing or managing or controlling involves a  fluctuating narrowing of attention or darkening of the attentional/awareness periphery and involves sort of a "going into" like an empty (in the technical sense) inner space that isn't necessary or essential, sort of.
+eventually just run out of stuff to be top-down managed, which involves sometimes multiple near-global involutions and untwists and so-on. one sees that "doing" or pushing or managing or controlling involves a fluctuating narrowing of attention or darkening of the attentional/awareness periphery and involves sort of a "going into" like an empty (in the technical sense) inner space that isn't necessary or essential, sort of.
 
 (in the course of this you find deeper and deeper and subtler and subtler pockets of doing, willing, pushing, controlling, managing, forcing, etc., through unwrapping and untwisting and unraveling and opening and exposing and so on. "deeper" is a little problematic as a term, sort of since ultimately it's all "surfaces," sort of, with little dips into pockets, sort of, but it's mostly exposing and letting things come to you versus like trying to get somewhere deep, also altered states are sort of the exception and not the norm though are on and off a part of this.)
 
