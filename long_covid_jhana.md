@@ -134,6 +134,20 @@ It can be helpful to try to stay as awake as you possibly can while working to e
 
 So again: Try to stay as awake as you can while laying in bed (in a position you could sleep in) as "actively" relaxed and comfortable and enjoying as you can. When in doubt, try to be ever more awake while still relaxed and comfortable, eyes closed if safe, and err on the side of more awake! Small or large movement is ok. As you get good at this, mix in more and more interesting or enjoyable reverie. And let sleep, or not, take care of itself; not your problem or your job. 
 
+# unusual parts of the state space
+
+A few weeks into the beginning of when I had long covid, I had new-onset anxiety and "hyperadrenergia" or "hyperadrenaline" as well as sleep-onset "breathing stuff." (For me, breathing during sleep was/&#8203;is fine; it was just the wake-sleep transition that was a little rocky. This is not uncommon, is my understanding.) Months later, if there's any sleep-onset breathing stuff, it's just a simple (although unwanted) "gently coming back awake," but, at the time, it was accompanied by primal terror and heart palpitations ("I'm not breathing." / "I'll stop breathing if I fall asleep.") There was also some intermittent vagal/gastrointestinal respiratory stuff that sometimes did transiently stop my breathing in my sleep, which further complicated things... Not a good time; understatement. But, anyway---&#8203;I write elsewhere in the document that the (body)mind learns to find its way to "bespoke" altered states as needed also that meditation ultimately proceeds by exhaustive process of elimination.
+
+Eventually, a few months later, I started getting intermittently drawn "towards unconsciousness" during meditation, and I had the option of "helping out" a bit, even while it was very aversive. When safe, I would dip "down there," and I found raw primal terror. I've only taken a few dips; it's just been a couple days; get two or three opportunities each meditation session. With each dip, there's been like five percent less terror each time.
+
+Now, the question is, would the jhanas make it easier or smoother for people to make their way to "places" like this, if needed? I'm mostly not a fan of in training specific meditative skills because I don't think such skills really generalize, except in retrospect. But? And, how many people need to "go down there" to such places(???) kind of like(???) this---&#8203;there might be no place and each "thing" like this is pretty unique and "far away" from the others. And how much "stuff" tends to be down there, for people? How usual or unusual is it? And/or, again, are jhanas just a really different part of the state space? I still haven't played with jhanas enough to personally have good answers here. The last time I played with the first and second jhana, many years ago, they were not in this "direction" but perhaps the higher ones. Also how does so-called subtle dullness factor in, here? They may yet be a different (or a few different) parts of the state space.
+
+Jhana does teach people how to stay upright in very altered states of concsciousness and that alone could potentially be helpful to some people for when not meditating in bed (and *not* meditating in bed, meditating elsewhere besides in bed, long run, should be at least, I don't know two-thirds of meditation time? Three-quarters? Fifty percent? Dunno.).
+
+Some open questions.
+
+\*
+
 Notes:
 
 * (a) state cultivation and (b) state modulation and (c) stable, non-layering carryover and integration, per se
