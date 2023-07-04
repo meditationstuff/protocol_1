@@ -249,6 +249,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a2h" href="#p13">p13</a>
 					* <a id="109a3h" href="#p14">p14</a>
 					* <a id="109a4h" href="#p15">p15</a>
+					* <a id="109a5h" href="#p16">p16</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -4288,6 +4289,9 @@ Notes:
 * (")control\[ling\]\("\)
 * (")ignoring(")
 * protagonisting/&#8203;protagonist-ing/&#8203;personing/&#8203;person-ing/&#8203;imitating/&#8203;identity-ing/&#8203;(!)willing(!)/&#8203;(!)will-ing(!)/&#8203;(!)meditating(!)/&#8203;me-ing
+* managing \[cf. pushing, pushing away\]
+* acquiring \[cf. pushing, pushing away\]
+* \[\[\[\[achieving, succeeding\]\]\]\]
 
 
 Notes:
@@ -4814,6 +4818,26 @@ scratch note:
 the higher main practice numbers not to indicate it's the final practice, best practice, most advanced practice, only true practice, etc.
 
 [<a href="#109a4h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="p16" href="#p16">p16:</a>
+
+gloss: "'patiently relax' (diaphragm first)"
+
+Relax completely, including the breathing muscles; focus on relaxing the diaphragm, and all other breathing muscles, and everything, in that priority order, except, minimally, for anything needed posturally, for whatever posture you're in (e.g. seated, standing). (Alignment with gravity, if possible, can also reduce use of postural muscles---) but, let yourself drift slowly towards contortion, if the body is atttracted into contorted positions. Eyes can be open or closed.
+
+Breathing may come to feel faster or deeper at times, and that's ok. Gently, indirectly incline towards breathing less in rate and depth/volume, indirectly because the driver comes from the relaxed diaphragm (and other breathing muscles). You might breath solely using the diaphragm and that's fine. Generally, let autogenic breathing (versus volitional breathing) fully take over.
+
+Let attention, etc. drift to the diaphragm, etc., as per above; let it find you; don't force or push it there, etc.; try for karmically free action.
+
+Finally, let meditation or non-meditation happen in background; drifting in and out of reverie is okay.
+
+\*
+
+(Inspired by the Ānāpānasati Sutta / Ānāpānasmṛti Sūtra and Relaxed Diaphragmatic Breathing in Advanced Buteyko Breathing Exercises by Artour Rakhimov, 2013)
+
+[<a href="#109a5h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
@@ -6557,7 +6581,10 @@ Miscellaneous messy scratch notes (added by Mark):
 * love and beauty [see also: <a href="#enlightenment-sensorimotor-processing-love">enlightenment, sensorimotor processing, love</a>]
 * This should probably be expanded to a full section, soon. But there's this tension between, on the one hand, sort of "doing," even "efforting," even fighting or struggling, in daily life and also in case of illness, and so on. And, on the other hand, the more "spiritually usual," surrendering, letting go, etc. Certainly, it's ok to incline towards letting go, and so on. This is facilitative. But doing and even struggling isn't sort of a sign of moral or spiritual failure or something. It's natural to, when sort of hit by unknown unknowns or even sort of not-yet-known/&#8203;unknown knowns, to kind of flail. And that's the case whether ten minutes into meditation or thousands of hours. It's very hard to "generalize," so we're encountering newness all the time. In any case, generally, letting go happens after it becomes safe to let go. It's ok to struggle and we don't have to struggle not to struggle. Sometimes struggling makes all the difference, even if it incurs technical debt. Technical debt is often wholly or at least mostly good when paid eyes-open. As an extreme example, sometimes it makes sense, even though it's suffering-y or horrible, to puzzle out or track down some arcane treatment if you're sick. And other times it makes sense to just be patient. Sometimes it makes sense to do both. Slowly, over time, the tension or paradox between doing and surrender, striving and letting go, clarifies and untangles. Sometimes something was safe all along and sometimes something becomes safe, through spiritual practice, sometimes in very concrete ways, and the bodymind learns to takes care of itself, and then we let go. It's ok to test whether it's safe to let go, anytime, and also careful not to "struggle to not struggle."
 	* """so you want to change things? how, to what, and when? / ok to want to change things, to want, to have preferences to prefer, but usually all wound up in self-perpetuating error propogation that goes deep
+* re skill aquisition "on the cushion," as it were: couldn't ride bike night before, sleep on it, then sort of can for a few feet or even more, is possible to acquire high dimensional and complex real-time capabilities "on the cushion," given have collected data (and always have collected some data); will be imperfect, can be wrong. but not that differen than figuring out a math problem, or a key insight, away from computer or pencil and paper
+* managing --> acquiring, \[achieving, succeeding]
 
+end "misc pith"
 
 [<a href="#145ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -13998,7 +14025,7 @@ Unintegrated scratch pieces:
 
 Don't do anything in particular. Puzzle-solve-ily, find your way to allow, just a little. Don't push things away\*. Don't push\*\*. Don't push past\*\*\*\*. [When safe (and only when safe!), perhaps temporarily, experimentally stop resisting (if you can and it's ok if you can't).] Don't try to make things happen\*\*\*, don't even (directly or even indirectly) try to change anything, even [sic; "even"], including not trying to not try to change things [sic]. Choose, turn towards, or surrender to effortlessness, subtler and subtler (...). [sic] Choose, turn towards, surrender to non-doing, subtler and subtler. Don't expect. Let things come to you. Let it/&#8203;things happen ([inner] seeing, feeling, remembering, non-thinking, etc.). Let the "wrong" things happen (e.g. pushing) if they do happen---if you zero-step/&#8203;immediately/&#8203;non-directly can, [you might spontaneously choose to] stop them, if it's smooth, fluid, non-jam-y, non-bump-y, [at best, flowing, participating-ly] and if things don't/&#8203;won't "pile up," but, for example, don't add pushing to try to stop pushing, or don't push away pushing, or don't push to "let things happen," or don't push "to allow," [or don't push "to stop resisting,"] and so on. [[for the previous and anything], If you try something and it doesn't smoothly happen, gently try to make sure you stop that trying completely, including then/&#8203;with the trying to stop trying, no remainder, but it's ok if you can't and don't push to stop trying, and don't push away the trying or the trying to stop trying; let them happen if they don't participatingly release and they're still happening.] If you find pushing, etc., let [it] self-unravel, self-evaporate, if it does, and it's ok if it doesn't right then. Be moved. Sometimes help things out, help things over humps (but again don't push), sometimes. If something is "going wrong," for right now, redirect (e.g. attention)/&#8203;do/&#8203;choose/&#8203;allow otherwise. If safe enough, optionally let yourself be pulled in; if not safe enough gently do/&#8203;choose/&#8203;/allow something else. Be patient; non-wait (don't rush; non-hurrying; no haste; no corner-cutting; no-blood-from-stone-ing; no squeezing; no eking out just a little more; it doesn’t work; only spontaneous works; only-it-just-happens works; let fluidity and slack come to you). Enjoy. Allow. Relax. Experience. Just this. Nothing more. (Nothing less.) Stop when there's nothing left for today or things start to “tip/&#8203;go too wrong," including "non-constructive flow." When in doubt, when possible, focus on nutrition, sleep, relaxation, de-stressing, distraction, socializing and support, and patience.
 
-In the above, you can generally replace/alternate "pushing" with "managing." ; As best you can, "don't manage," subtler and subtler.
+In the above, you can generally replace/alternate "pushing" with "managing." ; As best you can, "don't manage," subtler and subtler. (Also: not quite the same but nearby, "acquiring")
 
 \*(...when safe)  
 \*\*(...if you have the option not to)  
