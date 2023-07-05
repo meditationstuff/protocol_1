@@ -4791,7 +4791,7 @@ the higher main practice numbers not to indicate it's the final practice, best p
 
 (Effortlessly) emphasize (and/&#8203;or err on side of) receptivity (or openness/&#8203;vulnerability \[to being changed by experience, environment, self] (over doing (and effortlessly guarding against or deeply implicit or explicit fixed or presupposed goals) or presupposition in general (and receptivity can optionally include fluid/&#8203;nebulous/&#8203;empty questions and fluid requests (fluid asker and fluid answerer and fluid answering and fluid answer and fluid requester, fluid requestee, fluid response, and so on.) \[most parentheses not closed at this time]
 
-Miscellaneous (may be split out into a p16):
+Miscellaneous (may be split out into a pX):
 
 nothing left to do, accept X when safe, open focus, allow the periphery
 
@@ -4854,6 +4854,11 @@ say, versus "global wayfinding" --> (instead:) "global balancing, in the now" / 
 * Seven factors of awakening \[ https://en.wikipedia.org/wiki/Seven_Factors_of_Awakening ; Last accessed: 2023-07-05 ; there are probably much better takes out there]
 
 )
+
+See also:
+
+* <a href="#exhaustivity-and-bottlenecks">exhaustivity and bottlenecks</a>
+* <a href="#184a">the scale analogy</a>
 
 [<a href="#109a5h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
