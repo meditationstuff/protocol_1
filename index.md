@@ -2606,7 +2606,7 @@ Also, ad hoc dancing, bouncing, rocking, fidgeting, stretching, yoga pretzels...
 
 Earplugs can enhance sensitivity to subtle muscle movement and body creaking in head and neck and elsewhere but make sure meditate plenty without earplugs, too.
 
-Long-sleeve clothing, pants (vs shorts/skirts) or blankets reduce subtle air current and temperature changes on skin which can make it easier to attend to other things. (So, sometimes this is good to do and sometimes it’s better to be exposed to the elements.)
+Long-sleeve clothing, pants (vs shorts/&#8203;skirts) or blankets reduce subtle air current and temperature changes on skin which can make it easier to attend to other things. (So, sometimes this is good to do and sometimes it’s better to be exposed to the elements.)
 
 Long-run, retrospectively, you might have spent equal time sitting, standing, and laying down while meditating. Sometimes it’s good to switch every day or every hour.
 
@@ -2662,6 +2662,10 @@ See also:
 * <a href="#158db">ball of string analogy and more on posture and feedback loops</a>
 * <a href="#advanced-postures-and-pitfalls">advanced postures and pitfalls</a>
 * <a href="#neutral-postures-somatization-desomatization">neutral, elongated, light-but-almost-hanging postures, somatization, desomatization, muscle tension, etc.</a>
+
+Scratch notes to integrate above:
+
+* If you don't want to or can't stand, you can get an upper body closer to standing by sitting on a more narrow stool (with no back) or more narrow chair (in needed), so that you arms can hang at your sides in a more natural way without hitting the \[sides of the seat of the chair], as if you were standing. And this can be helpful for upper-body balancing and alignment and feedback that's relatively harder to get a sense of while seated with e.g. one's arms/&#8203;hands in one's lap (though hands in lap is generally quite fine, all things being equal.)
 
 [<a href="#76h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -4822,7 +4826,7 @@ the higher main practice numbers not to indicate it's the final practice, best p
 
 # <a id="p16" href="#p16">p16:</a>
 
-gloss: "'patiently relax' (diaphragm first)"
+gloss: "'patiently relax' (diaphragm first)" / or "global (re-)balancing"
 
 Relax completely, including the breathing muscles; focus on relaxing the diaphragm, and all other breathing muscles, and everything, in that priority order, except, minimally, for anything needed posturally, for whatever posture you're in (e.g. seated, standing). (Alignment with gravity, if possible, can also reduce use of postural muscles---) but, let yourself drift slowly towards contortion, if the body is atttracted into contorted positions. Eyes can be open or closed.
 
@@ -4832,9 +4836,24 @@ Let attention, etc. drift to the diaphragm, etc., as per above; let it find you;
 
 Finally, let meditation or non-meditation happen in background; drifting in and out of reverie is okay.
 
+> in that priority order
+
+Overall, overall, \[sic] top priority is not (just) muscular/&#8203;respiratory but also mental/&#8203;emotional/&#8203;attentional/&#8203;"awareness-al" relaxation (--> perhaps, wellbeing/&#8203;ease/&#8203;balance, rather), including as much "omni-directional 'anti-'relaxation (energy, tone, arousal, alertness, doing, attending, aware-ing, letting-go-ing, surrendering, breath...)," as/&#8203;when needed to facilitate that relaxation (well not "anti-" because synergistic; or, say, "balancing" though that's too separating and still oppositional, and etc.... situationally-complementary?).
+
 \*
 
-(Inspired by the Ānāpānasati Sutta / Ānāpānasmṛti Sūtra and Relaxed Diaphragmatic Breathing in Advanced Buteyko Breathing Exercises by Artour Rakhimov, 2013)
+say, versus "global wayfinding" --> (instead:) "global balancing, in the now" / "global momentary balancing" / global moment-by-moment-continuous balancing". sort of finer-/&#8203;finest-grain, subtler-/&#8203;subtlest-grain (or whatever) main practice p2 with emphasis on right here and now in each each-simultaneity-within-as-moment-all-at-the-same-time-ish-ness-ish \[sic] vs moment-by-moment (not to over-reify "moments" or time or etc.) and/&#8203;rather for sure minimally-and-balanced-disparate-local-sequential and correcting for some of the "getting somewhere in the future and not here"-ness problematicness of the "global *wayfinding*" metaphor
+
+\*
+
+(Inspired by:
+
+* the Ānāpānasati Sutta / Ānāpānasmṛti Sūtra
+* Relaxed Diaphragmatic Breathing in Advanced Buteyko Breathing Exercises by Artour Rakhimov, 2013)
+* Tilopa's six words of advice \[ https://en.wikipedia.org/wiki/Tilopa#Six_Precepts_or_Words_of_Advice ; Last accessed: 2023-07-05]
+* Seven factors of awakening \[ https://en.wikipedia.org/wiki/Seven_Factors_of_Awakening ; Last accessed: 2023-07-05 ; there are probably much better takes out there]
+
+)
 
 [<a href="#109a5h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
