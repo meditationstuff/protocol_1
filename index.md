@@ -4830,7 +4830,7 @@ the higher main practice numbers not to indicate it's the final practice, best p
 
 # <a id="p16" href="#p16">p16:</a>
 
-gloss: "'patiently relax' (diaphragm first)" / or "global (re-)balancing"
+gloss: "'patiently relax' (maybe sometimes: diaphragm first)" / or "global (re-)balancing"
 
 Relax completely, including the breathing muscles; focus on relaxing the diaphragm, and all other breathing muscles, and everything, in that priority order, except, minimally, for anything needed posturally, for whatever posture you're in (e.g. seated, standing). (Alignment with gravity, if possible, can also reduce use of postural muscles---) but, let yourself drift slowly towards contortion, if the body is atttracted into contorted positions. Eyes can be open or closed.
 
@@ -6611,6 +6611,7 @@ Miscellaneous messy scratch notes (added by Mark):
 	* """so you want to change things? how, to what, and when? / ok to want to change things, to want, to have preferences to prefer, but usually all wound up in self-perpetuating error propogation that goes deep
 * re skill aquisition "on the cushion," as it were: couldn't ride bike night before, sleep on it, then sort of can for a few feet or even more, is possible to acquire high dimensional and complex real-time capabilities "on the cushion," given have collected data (and always have collected some data); will be imperfect, can be wrong. but not that differen than figuring out a math problem, or a key insight, away from computer or pencil and paper
 * managing --> acquiring, \[achieving, succeeding]
+* sense in which there's no difference between (a) "autnomic nervous system" and "autonomic functions" and (b) skeletal muscle, volitional system, and everything else, in terms of consciousness, awareness, change, possibility
 
 end "misc pith"
 
@@ -14053,7 +14054,7 @@ Unintegrated scratch pieces:
 
 Don't do anything in particular. Puzzle-solve-ily, find your way to allow, just a little. Don't push things away\*. Don't push\*\*. Don't push past\*\*\*\*. [When safe (and only when safe!), perhaps temporarily, experimentally stop resisting (if you can and it's ok if you can't).] Don't try to make things happen\*\*\*, don't even (directly or even indirectly) try to change anything, even [sic; "even"], including not trying to not try to change things [sic]. Choose, turn towards, or surrender to effortlessness, subtler and subtler (...). [sic] Choose, turn towards, surrender to non-doing, subtler and subtler. Don't expect. Let things come to you. Let it/&#8203;things happen ([inner] seeing, feeling, remembering, non-thinking, etc.). Let the "wrong" things happen (e.g. pushing) if they do happen---if you zero-step/&#8203;immediately/&#8203;non-directly can, [you might spontaneously choose to] stop them, if it's smooth, fluid, non-jam-y, non-bump-y, [at best, flowing, participating-ly] and if things don't/&#8203;won't "pile up," but, for example, don't add pushing to try to stop pushing, or don't push away pushing, or don't push to "let things happen," or don't push "to allow," [or don't push "to stop resisting,"] and so on. [[for the previous and anything], If you try something and it doesn't smoothly happen, gently try to make sure you stop that trying completely, including then/&#8203;with the trying to stop trying, no remainder, but it's ok if you can't and don't push to stop trying, and don't push away the trying or the trying to stop trying; let them happen if they don't participatingly release and they're still happening.] If you find pushing, etc., let [it] self-unravel, self-evaporate, if it does, and it's ok if it doesn't right then. Be moved. Sometimes help things out, help things over humps (but again don't push), sometimes. If something is "going wrong," for right now, redirect (e.g. attention)/&#8203;do/&#8203;choose/&#8203;allow otherwise. If safe enough, optionally let yourself be pulled in; if not safe enough gently do/&#8203;choose/&#8203;/allow something else. Be patient; non-wait (don't rush; non-hurrying; no haste; no corner-cutting; no-blood-from-stone-ing; no squeezing; no eking out just a little more; it doesn’t work; only spontaneous works; only-it-just-happens works; let fluidity and slack come to you). Enjoy. Allow. Relax. Experience. Just this. Nothing more. (Nothing less.) Stop when there's nothing left for today or things start to “tip/&#8203;go too wrong," including "non-constructive flow." When in doubt, when possible, focus on nutrition, sleep, relaxation, de-stressing, distraction, socializing and support, and patience.
 
-In the above, you can generally replace/alternate "pushing" with "managing." ; As best you can, "don't manage," subtler and subtler. (Also: not quite the same but nearby, "acquiring")
+In the above, you can generally replace/alternate "pushing" with "managing." ; As best you can, "don't manage," subtler and subtler. (Also: not quite the same but nearby, "acquiring"; also: non-self-gaslighting)
 
 \*(...when safe)  
 \*\*(...if you have the option not to)  
