@@ -250,6 +250,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a3h" href="#p14">p14</a>
 					* <a id="109a4h" href="#p15">p15</a>
 					* <a id="109a5h" href="#p16">p16</a>
+					* <a id="109a6h" href="#p16">p17</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -2715,7 +2716,7 @@ And / but also see e.g.:
 
 \*
 
-20230706 Bit of an update, here: Fully untangling volitional and autogenic breathing is important but then the volitional aspect of the breathing muscles, in interaction with autogenic component, and the rest of posture, movement, carbon dioxide and oxygen, and the skeletal muscles is still important. Just as movement of other skeletal muscles facilitates meditation, redo-to-undo, etc., the breathing muscles, as well as breathing itself, can be an important part of further meditative untangling as well as ultimately participate in karmically free action. So, sometimes it makes sense to deliberately do things with the breath, including deliberately inhaling or exhaling, infinitesimally or more than that, with all sorts of subtle variation in muscle activation patterns, and to affect carbon dioxide and oxygen, and so on, and lots of other things. See other sections about CO2 tolerance, and so on.
+20230706 Bit of an update, here: Fully untangling volitional and autogenic breathing is important but then the volitional aspect of the breathing muscles, in interaction with autogenic component, and the rest of posture, movement, carbon dioxide and oxygen, and the skeletal muscles is still important. Just as movement of other skeletal muscles facilitates meditation, redo-to-undo, etc., the breathing muscles (diaphragm and multiple in chest, shoulders, also including neck, throat, jaw, tongue, palate, etc.), as well as breathing itself, can be an important part of further meditative untangling as well as ultimately participate in karmically free action. So, sometimes it makes sense to deliberately do things (as well as "be moved," of course) with the breath, etc., including deliberately inhaling or exhaling, infinitesimally or more than that, with all sorts of subtle variation in muscle activation patterns, and to affect carbon dioxide and oxygen, and so on, and lots of other things. See other sections about CO2 tolerance, and so on.
 
 \*
 
@@ -4866,6 +4867,30 @@ See also:
 
 [<a href="#109a5h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="p17" href="#p17">p17:</a>
+
+If safe/non-force-y: 
+
+Surrender to [some] relevant senses of misfortune, loss, aging, decay, sickness, loss-of-//non-control, not knowing, uncertainty, neuroinflammation, neurodegeneration, sleep disturbance, dying and death.
+
+\*
+
+You might be exploring how to integrate the above with e.g. acting on the basis of the possibility of (e.g. suffering, dying, or being "irrecoverably" diminished before---) e.g. in your lifetime disseminated breakthroughs in longevity, rejuvenation, or sufficiently comprehensively competently benevolent artificial/machine general-/superintelligence, etc. etc. In light of some of this---
+
+\*
+
+You might also additionally explore surrendering to impermanence, oblivion, "discontinuity," finitude, limitation, non-infinity, non-eternity, incompleteness, non-perfection.
+
+\*
+
+It's important to not inappropriately reify ANY of the above, cf. emptiness, provisionality, including "surrender", "death," "acting on the basis of," any of it. Cf. "just don't know," "emptiness," weird far future stuff that finitely enumerates all possible humans that would want to be resurrected each in some particular desired "starting" state, if you're into that sort of thing. Also Russian Cosmism, panpsychism, something-something wavefunction of the universe, omnibenevolence, """quantum immortality,""" losslessness, just really any number of things. Possibly helpful: "You just don't know [what happens,]" and so on. 
+
+\*
+
+And/but/also, careful of self-gaslighting in any direction, cf. emptiness, provisionality (e.g. ok-ness of death, goodness of death, badness of death, belief in X after death, ok-ness of X after death, various "solutions" being good or bad, etc.
+
+[<a href="#109a6h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
@@ -14054,7 +14079,7 @@ Unintegrated scratch pieces:
 
 Don't do anything in particular. Puzzle-solve-ily, find your way to allow, just a little. Don't push things away\*. Don't push\*\*. Don't push past\*\*\*\*. [When safe (and only when safe!), perhaps temporarily, experimentally stop resisting (if you can and it's ok if you can't).] Don't try to make things happen\*\*\*, don't even (directly or even indirectly) try to change anything, even [sic; "even"], including not trying to not try to change things [sic]. Choose, turn towards, or surrender to effortlessness, subtler and subtler (...). [sic] Choose, turn towards, surrender to non-doing, subtler and subtler. Don't expect. Let things come to you. Let it/&#8203;things happen ([inner] seeing, feeling, remembering, non-thinking, etc.). Let the "wrong" things happen (e.g. pushing) if they do happen---if you zero-step/&#8203;immediately/&#8203;non-directly can, [you might spontaneously choose to] stop them, if it's smooth, fluid, non-jam-y, non-bump-y, [at best, flowing, participating-ly] and if things don't/&#8203;won't "pile up," but, for example, don't add pushing to try to stop pushing, or don't push away pushing, or don't push to "let things happen," or don't push "to allow," [or don't push "to stop resisting,"] and so on. [[for the previous and anything], If you try something and it doesn't smoothly happen, gently try to make sure you stop that trying completely, including then/&#8203;with the trying to stop trying, no remainder, but it's ok if you can't and don't push to stop trying, and don't push away the trying or the trying to stop trying; let them happen if they don't participatingly release and they're still happening.] If you find pushing, etc., let [it] self-unravel, self-evaporate, if it does, and it's ok if it doesn't right then. Be moved. Sometimes help things out, help things over humps (but again don't push), sometimes. If something is "going wrong," for right now, redirect (e.g. attention)/&#8203;do/&#8203;choose/&#8203;allow otherwise. If safe enough, optionally let yourself be pulled in; if not safe enough gently do/&#8203;choose/&#8203;/allow something else. Be patient; non-wait (don't rush; non-hurrying; no haste; no corner-cutting; no-blood-from-stone-ing; no squeezing; no eking out just a little more; it doesn’t work; only spontaneous works; only-it-just-happens works; let fluidity and slack come to you). Enjoy. Allow. Relax. Experience. Just this. Nothing more. (Nothing less.) Stop when there's nothing left for today or things start to “tip/&#8203;go too wrong," including "non-constructive flow." When in doubt, when possible, focus on nutrition, sleep, relaxation, de-stressing, distraction, socializing and support, and patience.
 
-In the above, you can generally replace/alternate "pushing" with "managing." ; As best you can, "don't manage," subtler and subtler. (Also: not quite the same but nearby, "acquiring"; also: non-self-gaslighting)
+In the above, you can generally replace/alternate "pushing" with "managing." ; As best you can, "don't manage," subtler and subtler. (Also: not quite the same but nearby, "acquiring"; nearby: non-self-gaslighting)
 
 \*(...when safe)  
 \*\*(...if you have the option not to)  
