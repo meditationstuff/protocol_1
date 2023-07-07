@@ -4842,7 +4842,7 @@ Finally, let meditation or non-meditation happen in background; drifting in and 
 
 > in that priority order
 
-Overall, overall, \[sic] top priority is not (just) muscular/&#8203;respiratory but also mental/&#8203;emotional/&#8203;attentional/&#8203;"awareness-al" relaxation (--> perhaps, wellbeing/&#8203;ease/&#8203;balance, rather), including as much "omni-directional 'anti-'relaxation (energy, tone, arousal, alertness, doing, attending, aware-ing, letting-go-ing, surrendering, breath...)," as/&#8203;when needed to facilitate that relaxation (well not "anti-" because synergistic; or, say, "balancing" though that's too separating and still oppositional, and etc.... situationally-complementary?).
+Overall, overall, \[sic] top priority is not (just) muscular/&#8203;respiratory but also mental/&#8203;emotional/&#8203;attentional/&#8203;"awareness-al" relaxation (--> perhaps, wellbeing/&#8203;ease/&#8203;balance, rather), including as much "omni-directional 'anti-'relaxation (energy, tone, arousal, alertness, doing, attending, aware-ing, letting-go-ing, surrendering, breath...)," as/&#8203;when needed to facilitate that relaxation (well not "anti-" because synergistic; or, say, "balancing" though that's too separating and still oppositional, and etc.... situationally-complementary?). (So, let go of the diaphragm thing if it gets weird, and just consider breathing as a whole gestalt; or, let go of breathing entirely, except perhaps intermittently or as needed, and, etc.)
 
 \*
 
