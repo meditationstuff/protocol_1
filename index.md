@@ -4892,7 +4892,7 @@ You might also additionally explore surrendering to impermanence, oblivion, "dis
 
 \*
 
-It's important to not inappropriately reify ANY of the above, cf. emptiness, provisionality, including "surrender", "death," "acting on the basis of," any of it. Cf. "just don't know," "emptiness," weird far future stuff that finitely enumerates all possible humans that would want to be resurrected each in some particular desired "starting" state, if you're into that sort of thing. Also Russian Cosmism, panpsychism, something-something wavefunction of the universe, omnibenevolence, """quantum immortality,""" losslessness, just really any number of things. Possibly helpful: "You just don't know [what happens,]" and so on. 
+It's important to not inappropriately reify ANY of the above, cf. emptiness, provisionality, including "surrender", "death," "acting on the basis of," any of it. Cf. "just don't know," "emptiness," weird far future stuff that finitely enumerates all possible humans that would want to be resurrected each in some particular desired "starting" state, if you're into that sort of thing. Also Russian Cosmism, panpsychism, something-something wavefunction of the universe, omnibenevolence, """quantum immortality,""" losslessness, just really any number of things. Possibly helpful: "You just don't know \[what happens,\]" and so on. 
 
 \*
 
@@ -4903,7 +4903,7 @@ And/but/also, careful of self-gaslighting in any direction, cf. emptiness, provi
 
 # <a id="p18" href="#p18">p18:</a>
 
-Explore the It-ness-in-itself-ness / it-as-itself-ness / self-evident-ness of sensations, especially-but-not-exclusively with respect to "self" related sensations and/or/also what Bruce Mangan calls the "nonsensory fringe of consciousness" ("(non-)sensory," here, being  "not the typical/traditional sense doors.")
+Explore the it-ness-in-itself-ness / it-as-itself-ness / self-evident-ness of sensations, especially-but-not-exclusively with respect to "self" related sensations and/or/also what Bruce Mangan calls the "nonsensory fringe of consciousness" ("(non-)sensory," here, being  "not the typical/traditional sense doors.")
 
 I sometimes call this/these “back-and-beside-and-behind” phenomenology, sort of peripheral, sort of inner space, sort of locational but not, and so on. 
 
@@ -4913,7 +4913,7 @@ There might also be a bit of "whole-field" / "all at once" type stuff or dynamic
 
 (cf. also "luminosity" ; "in the seeing, just the seen; in the hearing, just the heard")
 
-It might be helpful to explore things like "perfect-no-doing-interaction" or "awareness-in[-momentary-]stillness." Or, don’t try to make it different, see it for what it is, find the “sensate source of inference, the sensate source of mediate knowing”
+It might be helpful to explore things like "perfect-no-doing-interaction" or "awareness-in\[-momentary-\]stillness." Or, don’t try to make it different, see it for what it is, find the “sensate source of inference, the sensate source of mediate knowing”
 
 * If "X" how do you know "X"? (cf. self-illuminated with no movement and no remainder)
 * Where/"where" are the sensations/"sensations" from which you infer e.g. doing itself, "attending" itself, """knowing""" itself, and so on. 
@@ -4922,11 +4922,12 @@ It might be helpful to explore things like "perfect-no-doing-interaction" or "aw
 * (a) "Apparentness" and/compared with the (b) immediate or direct or apparent or seeming phenomenological basis of that inference
 * (a) Knowing and/compared with the (b) immediate or direct or apparent or seeming phenomenological basis of that inference
 
-You can probably get a taste of all this anytime, but you might find this “works” "better" when “not much left to do,” little layering left, and so on. 
+You can probably get a taste of all this anytime, but you might find this “works” "better" when “not much left to do,” little layering left, and so on. But also can be helpful to explore a bit or a lot if things are stuck in some way. Ok to try front-loading, at best will have safely temporarily diminishing returns, but can jam in its own way, too, so be careful, etc. Ordering, ordering, ordering, etc.
 
-None of this has to be perfect or necessarily even particularly exhaustive. Just play with it, experiment with it, as you get stuck or it calls to you or you fall into it.
+None of this has to be perfect or necessarily even particularly exhaustive (as such / in itself / or/&#8203;and whatever). Just play with it, experiment with it, as you get stuck or it calls to you or you fall into it.
 
 [<a href="#109a7h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
