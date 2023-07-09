@@ -250,7 +250,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a3h" href="#p14">p14</a>
 					* <a id="109a4h" href="#p15">p15</a>
 					* <a id="109a5h" href="#p16">p16</a>
-					* <a id="109a6h" href="#p16">p17</a>
+					* <a id="109a6h" href="#p17">p17</a>
+					* <a id="109a7h" href="#p18">p18</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -4835,7 +4836,7 @@ gloss: "'patiently relax' (maybe sometimes: diaphragm first)" / or "global (re-)
 
 Relax completely, including the breathing muscles; focus on relaxing the diaphragm, and all other breathing muscles, and everything, in that priority order, except, minimally, for anything needed posturally, for whatever posture you're in (e.g. seated, standing). (Alignment with gravity, if possible, can also reduce use of postural muscles---) but, let yourself drift slowly towards contortion, if the body is atttracted into contorted positions. Eyes can be open or closed.
 
-Breathing may come to feel faster or deeper at times, and that's ok. Gently, indirectly incline towards breathing less in rate and depth/volume, indirectly because the driver comes from the relaxed diaphragm (and other breathing muscles). You might breath solely using the diaphragm and that's fine. Generally, let autogenic breathing (versus volitional breathing) fully take over.
+Breathing may come to feel faster or deeper at times, and that's ok. Gently, indirectly incline towards breathing less in rate and depth/volume, and smoothly, balanced-ly, indirectly because the driver comes from the relaxed diaphragm (and other breathing muscles). You might breath solely using the diaphragm and that's fine. Generally, let autogenic breathing (versus volitional breathing) fully take over.
 
 Let attention, etc. drift to the diaphragm, etc., as per above; let it find you; don't force or push it there, etc.; try for karmically free action.
 
@@ -4844,6 +4845,12 @@ Finally, let meditation or non-meditation happen in background; drifting in and 
 > in that priority order
 
 Overall, overall, \[sic] top priority is not (just) muscular/&#8203;respiratory but also mental/&#8203;emotional/&#8203;attentional/&#8203;"awareness-al" relaxation (--> perhaps, wellbeing/&#8203;ease/&#8203;balance, rather), including as much "omni-directional 'anti-'relaxation (energy, tone, arousal, alertness, doing, attending, aware-ing, letting-go-ing, surrendering, breath...)," as/&#8203;when needed to facilitate that relaxation (well not "anti-" because synergistic; or, say, "balancing" though that's too separating and still oppositional, and etc.... situationally-complementary?). (So, let go of the diaphragm thing if it gets weird, and just consider breathing as a whole gestalt; or, let go of breathing entirely, except perhaps intermittently or as needed, and, etc.)
+
+\*
+
+* (It's ok to drift into and out of or allow or help out weird theta and delta states, sleepy and drowsy states, hypnogogia, retreat from the sense doors, stuff like that. Being seated without use of a backrest can be the perfect balance between relaxed and alert while that kind of stuff is going on, on and off. Don't be afraid to lean back or watch youtube or lay down, too, as always.)
+* Scratch notes: "autonomic safety pendulation" ; "respiratory safety pendulation" ; alertness/&#8203;arousal/&#8203;calmness balancing ; "deep autonomic liminally true cognitive preflective reflective" with respect to all of that
+* Breath might get fast, jerky, might want to squeeze or stop a bunch, including throat, jaw, tongue stuff. Consciousness might want to get really weird. Sort of want to manage when not felt safe and sort of ease into and allow when safe. Sort of self-ish unravels from within, from the inside out when safe enough to open up and to find one's way in.
 
 \*
 
@@ -4866,6 +4873,7 @@ See also:
 * <a href="#184a">the scale analogy</a>
 
 [<a href="#109a5h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 
 # <a id="p17" href="#p17">p17:</a>
@@ -4892,6 +4900,33 @@ And/but/also, careful of self-gaslighting in any direction, cf. emptiness, provi
 
 [<a href="#109a6h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="p18" href="#p18">p18:</a>
+
+Explore the It-ness-in-itself-ness / it-as-itself-ness / self-evident-ness of sensations, especially-but-not-exclusively with respect to "self" related sensations and/or/also what Bruce Mangan calls the "nonsensory fringe of consciousness" ("(non-)sensory," here, being  "not the typical/traditional sense doors.")
+
+I sometimes call this/these “back-and-beside-and-behind” phenomenology, sort of peripheral, sort of inner space, sort of locational but not, and so on. 
+
+You might also be sort of detecting sometimes a sort of "sliding" or "slush" or "slack" between "awareness" and "contents."
+
+There might also be a bit of "whole-field" / "all at once" type stuff or dynamics or like at least an interplay between something like "big awareness" and "small awareness." (cf. contraction and expansion, not-two, something something)
+
+(cf. also "luminosity" ; "in the seeing, just the seen; in the hearing, just the heard")
+
+It might be helpful to explore things like "perfect-no-doing-interaction" or "awareness-in[-momentary-]stillness." Or, don’t try to make it different, see it for what it is, find the “sensate source of inference, the sensate source of mediate knowing”
+
+* If "X" how do you know "X"? (cf. self-illuminated with no movement and no remainder)
+* Where/"where" are the sensations/"sensations" from which you infer e.g. doing itself, "attending" itself, """knowing""" itself, and so on. 
+* (a) Inference and/compared with the (b) immediate or direct or apparent or seeming phenomenological basis of that inference
+* (a) Seeming and/compared with the (b) immediate or direct or apparent or seeming phenomenological basis of that inference
+* (a) "Apparentness" and/compared with the (b) immediate or direct or apparent or seeming phenomenological basis of that inference
+* (a) Knowing and/compared with the (b) immediate or direct or apparent or seeming phenomenological basis of that inference
+
+You can probably get a taste of all this anytime, but you might find this “works” "better" when “not much left to do,” little layering left, and so on. 
+
+None of this has to be perfect or necessarily even particularly exhaustive. Just play with it, experiment with it, as you get stuck or it calls to you or you fall into it.
+
+[<a href="#109a7h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
@@ -6637,6 +6672,13 @@ Miscellaneous messy scratch notes (added by Mark):
 * re skill aquisition "on the cushion," as it were: couldn't ride bike night before, sleep on it, then sort of can for a few feet or even more, is possible to acquire high dimensional and complex real-time capabilities "on the cushion," given have collected data (and always have collected some data); will be imperfect, can be wrong. but not that differen than figuring out a math problem, or a key insight, away from computer or pencil and paper
 * managing --> acquiring, \[achieving, succeeding]
 * sense in which there's no difference between (a) "autnomic nervous system" and "autonomic functions" and (b) skeletal muscle, volitional system, and everything else, in terms of consciousness, awareness, change, possibility
+* related: 
+	* subtle/liminal vigilance/arousal that's "anti-relaxation", which is a different axis than alertness or poised-ness. So like "relaxation (as a good-positive, i.e. you want more of it) axis," "anti-relaxation (which is a bad-positive axis, i.e. you want less of it) axis," and "simple alertness or wakefulness or readiness or poisedness or in-moment capacity and activity (as a good-positive axis)" are all like separate axes that can change somewhat independently.
+		* anti-relaxation reduces only through legitimate, credible, non-gaslighting, safe-to-look / hanging out in at-least-now-possible-threat territory. only safe to relax when actually-deemed safe to relax (or found a way for it to be safe), which only happens when actually happens; anything else layering, etc.
+		* (less anti-relaxation may correlate with significant reduced need for sleep)
+			* less anti-relaxation may correlate with reduced respiratory rate and depth; may correlate with less "extraneous" subtle muscle tone
+	* near-sleep part of state space
+		* cf. including yoga nidra type asleep-while-awake sorts of things, including while sitting up and just inclining towards that. (cf. awake cf. contra some traditions "subtle dullness" etc.)
 
 end "misc pith"
 
