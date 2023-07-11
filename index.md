@@ -4936,6 +4936,13 @@ Another """trick"""(...) is sort of lean into the analogy of peripheral vision a
 
 None of this has to be perfect or necessarily even particularly exhaustive (as such / in itself / or/&#8203;and whatever). Just play with it, experiment with it, as you get stuck or it calls to you or you fall into it.
 
+\*
+
+* How do you know you have a back? How do you know you have a back of the head, when you're not touching it or looking in the mirror and the air in the room is still, and so on?
+* How do you know you just heard a sound (that you can't hear anymore)?
+* How do you know you were about to say something (that you can't remember just now)?
+* If you put something down nearby but you've turned, and it's not even in your peripheral vision, how are you able to successfully reach for it without looking?
+
 [<a href="#109a7h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
