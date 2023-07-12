@@ -4943,6 +4943,15 @@ None of this has to be perfect or necessarily even particularly exhaustive (as s
 * How do you know you were about to say something (that you can't remember just now)?
 * If you put something down nearby but you've turned, and it's not even in your peripheral vision, how are you able to successfully reach for it without looking?
 
+\*
+
+* In some sense, you are not in the world; the world is in you, etc., etc.
+* In some sense, the "phenomenological field" is "flat," what you see is what you get; that's all there is, etc., etc.
+* In some sense, you don't have a head, etc., etc. (cf. Headless Way, Douglas Harding)
+* \[Boundaryless, centerless, agencyless, watcherless, etc., etc.] (cf. some of my mangled terms, but Daniel Ingram, dash of David Chapman \[meaningness guy])]
+* long run phenomenological separation / independence /  untangling (in the positive sense)
+* \[cf. interdependence, etc., etc.] (in the buddhist sense)
+
 [<a href="#109a7h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
