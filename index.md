@@ -4775,7 +4775,7 @@ resources (in no particular order; I mostly endorse Greg Goode's material but no
 
 # <a id="p14" href="#p14">p14:</a>
 
-Full/&#8203;complete pith practice instructions: (Effortlessly) be here, now.
+Full/&#8203;complete pith practice instructions: (Effortlessly) be here, now. Or, find yourself here and now.
 
 notes:
 
