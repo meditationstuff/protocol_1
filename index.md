@@ -252,6 +252,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a5h" href="#p16">p16</a>
 					* <a id="109a6h" href="#p17">p17</a>
 					* <a id="109a7h" href="#p18">p18</a>
+					* <a id="109a8h" href="#p19">p19</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -4956,11 +4957,55 @@ None of this has to be perfect or necessarily even particularly exhaustive (as s
 [<a href="#109a7h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+
+# <a id="p19" href="#p19">p19:</a>
+
+Practice pith gloss: Be aware of everything.
+
+Or, be aware of the whole phenomenological field at once, but *without* forcing it and *with* surrendering and participating in the dynamics of all this.
+
+So, every sense door, every modality, all interoception, so-called "nonsensory fringe", and....
+
+"It" (the "whole" "thing") might not be "flat" or (quasi-)"spherical"; it might be messy, involuted*, and so on (or is that still flat?, and so on [sic]). It might be unbounded.
+
+There will be dynamics; say, have some care to not try force or resist any dynamics; rolling with what happens will likely get you more "more moments" [sic], not to reify moments, and not that more moments or more of the "field" at once is necessarily better. "Getting it perfect" is not not not [sic] the goal of the practice.
+
+It's ok to take time to do other things, other practices amidst this, as you're called to. This "practice" is just the baseline default while you're doing it.
+
+Regarding much of the above, said a different way, one wants doing this practice to be as minimally karma-generating / minimally layering as possible (as with other practices; mentioned explicitly here because of it's relatively more prescribed nature than some. Of course, one wouldn't be doing it if it weren't locally, or even better, long-run, net-delayering, of course, of course.)
+
+As with other practices, this is not a panacea, and it can just as easily jam depending on the when (including interleaving dynamics) and the how (how interpreted, what's contingently in or out, so conceived or structurally contingently) ; quasi-spatial awareness is only one of the very large number(less) things that the (body)mind can do / non-do. Is this, is or isn't this, front-end exploring stuff like: "you're not in the universe; the universe is in you?" How does that overlap or not? Depending on where you are in your practice?
+
+Cliched but: Let yourself be with what's actually there, right then and there, versus what you think is there or should be there. "Parts" of the field might pop in, like your back or an involution*, which might flicker between being an "in" or "three dimensional" or being "flat." (Not to reify space.) Don't try to make anything any particular way, etc., but you can play around.
+
+\*
+
+If non-layery, you could gently non-verbally ask "what am I missing, what am i leaving out," but roll with dynamics and don't push anything, etc., etc. Again goal is not to "get it all" or "get it all at once." Flow into locality or etc. as etc.
+
+\*
+
+I've avoided adding this one until later because of issues with over-reifying or "stipulating" as Seigfried Engelmann would put it.
+
+\*
+
+\*I am using the word "involution" completely wrong. I want it to mean sort of a depression or pocket but I don't want to use those words. Invagination is maybe exactly the right word, but I didn't want to use that word either.
+
+\*
+
+see also:
+
+* <a href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/&#8203;unsticking) protocol</a>
+
+[<a href="#109a8h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 [<a href="#110h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 
 
 # <span id="111"></span><a id="incomplete-alternative-renderings" href="#incomplete-alternative-renderings">incomplete, alternative renderings:</a>
@@ -5164,6 +5209,7 @@ Notes:
 See also:
 
 * <a href="#when-bad-is-good">when bad is good</a>
+* <a href="#p19">p19</a>
 
 [<a href="#114h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
