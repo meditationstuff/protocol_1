@@ -4758,6 +4758,10 @@ See also:
 
 Full/&#8203;complete pith practice instructions: (Effortlessly) be aware of being aware.
 
+scratch note:
+
+cf. boundless, centerless, etc. --- taking whole phenomenological field as (boundless, centerless) object
+
 scratch notes:
 
 not a panacea, direct path sort of ignores or makes implicit/tacit all the delayering (and deconditioning) and reconditioning that needs to take place before actually works. 
@@ -4984,7 +4988,7 @@ If non-layery, you could gently non-verbally ask "what am I missing, what am i l
 
 \*
 
-I've avoided adding this one until later because of issues with over-reifying or "stipulating" as Seigfried Engelmann would put it.
+I've avoided adding this one until later because of issues with over-reifying or "stipulating" as Seigfried Engelmann would put it (and other things) .
 
 \*
 
@@ -5203,6 +5207,7 @@ Notes:
 * In addition to "safe enough" and "ok," you might also choose things that are fun, interesting, tolerable, engaging, attractive, exciting, strange, weird, things that youre curious about...
 * If you're very at a loss, you might go through preliminary/auxilliary practices you haven't tried. Or, whether or not you have tried them all, you might take p/a practices and change words or write them in your own words, and then that's your new thing. You can keep modifying them as per your intuitive interest or sense that they might be the right thing to do.
 * This might expand the space of things to do so much that it might be (even more) paralyzing, if you were already paralyzed on some dimensions. Will this work/terminate/something? Yes, Buddha nature, etc. Keep mixing in preliminary/auxiliary practices, main practices, the meta protocol, other tools, etc.
+* Remember that in addition to exploring NEW things, it's just as important to experimentally revisit OLD things, sometimes, to see if there's more redo-to-undo of that "type" available or if there's additional "passes" to now be done because newly understood error correction is indicated. Loosely speaking, this process is sort of 5% top-down (until very long-run) and 95% spontaneous, takes care of itself, un-managed, and bottom up.. 
 
 \*
 
