@@ -292,6 +292,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="137a1h" href="#how-to-know-what-you-want">how to know what you want or what your goals are (barely edited transcript excerpt):</a>
 	* <a id="137bh" href="#taking-refuge-can-reshape-the-local-environment-and">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
 	* <a id="138h" href="#on-falling-asleep-and-utilizing-sleep">on falling asleep and utilizing sleep</a>
+	* <a id="138a1ah" href="#hypoarousal-and-medical-fear">working with hypoarousal and (and somewhat separately but relatedly) medical fear and uncertainty (draft):</a>
 	* <a id="138ah" href="#note-on-letting-go">note on letting go</a>
 	* <a id="139h" href="#a-gentle-onramp">a gentle onramp</a>
 	* <a id="140h" href="#good-ness-bad-ness">good(ness) bad(ness)</a>
@@ -6375,6 +6376,77 @@ Note that metaphysically speaking, for what it's worth, I'm aware of at least on
 
 
 [<a href="#138h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="hypoarousal-and-medical-fear" href="#hypoarousal-and-medical-fear">working with hypoarousal (and somewhat separately but relatedly) medical fear and uncertainty (draft):</a>
+
+Sometimes things like sleepiness can be pleasant and luxurious, and other times they can be a source of great stress. These can be from childhood fears that were never fully worked through ("If I sleep, the monster will get me.", night terrors, sleep paralysis) to adult illness or sleep trauma ("If I sleep I'll absolutely definitely certainly stop breathing", "If I sleep my blood pressure will do weird things.", "If I'm tired that means I'm getting worse."
+
+Here are some related things that don't exactly fit under "hypoarousal," but that's the word that came to mind, first-pass: sleepiness, drowsiness, fatigue, tiredness, weariness, weakness. (It's my understanding that sleepiness and drowsiness are closer to "could easily fall asleep" / "can't keep eyes open", and fatigue is more "don't have the physical or mental energy to do things", and weakness is e.g. "can't lift this thing.") Sometimes fatigue, etc., are more normal, and sometimes there are extreme or pernicious versions related to acute or chronic conditions.
+
+Anyway, none of this is medical advice; talk to your doctor*, and/&#8203;but then what?
+
+Often such states are avoided, resisted, fought, or at least "managed" ("feeling sleepy is scary or morally *bad*") and, if there's "karmic stuff" "in" these states, then they can eventually bottleneck meditative progress. Even some meditation systems seem to suggest avoiding some of these states (cf. "subtle dullness"), but some of those very same traditions limit sleep on retreats. I have some suspicion that facilitating access to some of these states is one of the reasons that sleep is traditionally restricted on retreat.
+
+Anyway, there is some "trick" or "balance" with respect to working with ("in"?) states like sleepiness, and so on; there's some combination of how some (not all) of these states are intrinsically somehow less "alert," or etc., but nevertheless some alertness, arousal, or wakefulness can nevertheless be brought into it. Sometimes it's as simple as sitting with an unsupported back, like on the edge of a bed, and letting yourself get really sleepy, but you don't fall asleep because you're upright and you'd fall over, and that causes a perfect blend of really sleepy, almost dozing, but also alert in some precise, narrow way, and meditation proceeds. So that's one piece, that balance.
+
+And then the other piece is first, potentially fear, concern with respect to the state (concerns about intrinsic harm or what it further implies about e.g. health, longevity, etc.), and then, second, the potential avoidance, resistance, superstitious layering action, fighting, paradoxical arousal, and management with respect to the state.
+
+I don't mean to gaslight: there are *chronic* conditions with respect to sleep and fatigue (either causally or correlationally) that will statistically shorten lifespan somewhat (with any individual being an exception), sometimes due to heightened risk of acute events (whose likelihood nevertheless remain quite low in an absoslute sense). And, there are rare *acute* situations where it makes sense to only sleep one sleep cycle at a time and then be upright a bit, and so on.
+
+And/&#8203;but, generally speaking:
+
+1. "Management" (gotta keep an eye on this, gotta keep this at bay, etc.) of mental or somatic states wasn't needed in the first place (though it's abosolutely understandable that management came to be), or
+1. Management was needed at some point but is now no longer needed (though usually there's a lot of "extra" that wasn't needed), or
+1. Management is needed right now, but the bodymind can learn to handle something so deeply, fully, automatically, and completely and comprehensively and generally evolvingly that management can come to be completely surrendered all the way to buddhamind, or etc., or
+1. personal or medical interventions can alleviate the need for overt or subtle management
+
+And, so, part of meditation is untangling all that. And sometimes this is mostly just patient intricacy, and sometimes it can be "merely" terrifying and other times quite physical. If you had night terrors as a child or were (or are) terrified of sleep paralysis, then immersive terror might come up, along with altered breathing, and so on (not always, not for everybody). If you had an illness where you were so congested that you did wake up a few times coughing or choking, or something like covid or untreated sleep apnea, where you didn't understand what was happening or even if you did, under uncertainty, where breathing or throat activity or sensations were altered---you might find then that in meditation your throat and tongue and breathing want to do all sorts of sometimes quite intense things, a bunch of times, over days, to work out any subtle or overt or latent management that is potentially no longer needed. Sometimes throat closing, and so on, can be to the point of causing some air hunger. Generally speaking, you can take breaks---you can do a lot of this stuff a little bit at a time and it'll still untangle just fine. Check with your doctor if you any concerns about mild-moderate affects on breathing, blood pressure, or anything, and so on. (And also, things like the gentlest versions of Buteyko breathing, which can itself be medically contraindicated, can reduce edge-case air hunger.)
+
+In addition to meditation, it can sometimes help to collect self-credible information, to alleviate concerns that something medical might be going on, based on what your concerns are. You might request an at-home sleep study to see that your oxygen or breathing or heart rate are fine. If you have a consumer all-night device, you might dig up a study that says it's quite normal for blood oxygen saturation to be around 91%, give or take, for 10% of the night, and so on. You might end up doing an in-clinic sleep study. Any of these can have their own issues, like time or financial expense, diminishing returns, or ambiguity (like if you get an in-clinic sleep study, do you sleep on your back or your side, it's just one night, etc., etc.) The point is something like, gently, patiently, whether you come to the conclusion that everything is locally fine, through meditation alone, or you collect additional information, through your own research, or working with a doctor, and other professionals, and add its interpretation into the mix, you're sort of gently, patiently, working through everything all the way to the unraveling end, until things turn inside out, it's safe to let go, etc.
+
+It's a combination of objective and subjective that in any cases sort of "grounds out" (nevertheless alive, responsive) in something like ultimate uncertainty combined with something like "skillful surrender" and release and relaxation, which isn't always fun (understatement), but is a way to self-compassionately endure hardship, in a way that harmonizes proactivity, patience, surrender, self-care, and so on. Sometimes you have to just wait or be truly be like (for whatever reason), "well, I guess I'll die," and other times there's something to do, "I can always relax; I can always self-care as needed; I can always manage if warranted; or, I can write down something to do a little research on, tomorrow."
+
+\*
+
+It can be hard to know where to put time and attention. Maybe a sort of abstract not-case-study would be kind of illustrative. None of the below is medical advice; it could sort of be considered like a fictional metaphor that might or might not line up with the real world in some ways. (The below isn't me and is not a composite of people I know, but it's inspired by a couple tiny pieces from my life in a couple places and even tinier pieces from people who would not mind my borrowing, and is combined with further imperfect research.)
+
+So say you wake up gasping a couple times from deep sleep or you have dreams where your can't breath, and then you do wake up and it's hard to breath, and you're groggy and you find it terrifying, and you're afraid to sleep. Let's say the first time or even couple times, you have a massive panic attack, but anyway your heart's going crazy so you have someone drive you to emergency care or you even call an ambulance. And you feel terrible, but they can't find anything wrong, so they say talk to your primary doctor and maybe hint that you should get treatment for anxiety, one way or another.
+
+So then your doctor is like sure, here do an at-home sleep study and a 24-hour heart monitor. And you do that, and there's maybe one irregularity that could just be an artifact. So you get referred to a sleep clinic and eventually do an in-clinic sleep study, and they're like "well it's not like classic obstructive sleep apnea, and we didn't see any of the gasping thing, but there's little microarousals, maybe, and maybe a CPAP would help."
+
+And so you know that lots of people find a CPAP utterly life changing, and also lots of people can't tolerate it, and also you'd prefer not to have to get used to one or travel with one and what if your intimate partner thinks it's weird and loud.
+
+And then you go down an internet rabbithole and it loops like these Buteyko breathing people claim that it helps with sleep, and some of their reasoning makes sense, but some of it seems contradictory, and also there isn't a ton of evidence or even negative evidence, but some people swear by it. And also there's growing evidence that tongue and throat exercises can help with sleep stuff quite a bit, but would that have any impact in your situation. And also CPAP can even cause central apnea in a percentage of people even while it improves obstructive sleep apnea. And also there's this inspiratory resistance training that has a lot of anecdotes of improving sleep and sleep breathing. And also there's new non-CPAP devices but are they even available yet.
+
+And/&#8203;but also, you did have a ton of fears around sleep as a kid, and maybe that's finally coming up in meditation, and what is this weird choking sensation that's even been getting worse during the day, and what if there's something wrong with my vagus nerve, and is there even a test or treatment for that, and...
+
+\#
+
+Ok, so the point of the above is that someone might have a lot of fears from childhood, and also meditation is maybe stirring things up, and also someone might have real "medical" stuff going on, but also it's uncertain whether the medical establishment has something to offer that does more good than harm, and also that might require some research and decisions that are not costless that also affect loved ones (both the time to research as well as impacts of decisions), and also there's some stuff one might try at home, but that also requires time and research and might get scoffed at by medical professionals (which might or might not matter, if it's even useful to tell them) or might be concerning to one's partner, and also the whole thing might be a transient meditation thing or a combination or a synergy of a physical thing and a meditation thing, and also there's a lot of fear around it, and it's greatly affecting sleep which is making everything worse, and that's affecting money or career or relating, and so on.
+
+And sometimes all one can do is sort of muddle through---some combination of epistemically vicious non-meditation proactiveness, patience (self-care, investing in relationships), and meditation (which feeds into epistemics and also is its own clarifying and unraveling). And, of course the latter, but also the former two, are compatible with surrender but can also take time away from meditation, and it's complicated.
+
+\*
+
+Not medical advice, talk to your doctor, involve loved ones, and it's complicated. Or, in lots of cases, again just an example, you just feel like you're choking a bit during meditation, on off, for a few weeks, or your feel simultaneously really drowsy and panicky at the same time, and kind of panickingly surrender into that, on and off, as skillfully as you can, and then you kind of work through all that and it's not really a thing again. This section is sort of meant to encompass both ends of the spectrum, like some weird throat or breathing or sleep stuff that goes away on its own, very a thing, on the one hand, and then going down the medical rabbithole (at least touch base with your doctor), on the other hand.
+
+\*
+
+Scratch notes:
+
+* (And sometimes anxiety or doom is "especially neurological" and is tightly tied to meal timing and digestive phases, and so logging things on a spreadsheet can be super useful for tracking patterns. And then simultaneously relaxation---through breath, etc. So there's both synergy and balance.)
+* I sort of treat relaxation and meditation separately. They can synergize but they don't have to synergize, though long-run they sort of dovetail. Meditation a bunch of the time isn't inherently relaxing.
+* By relaxation I sort of mean autonomic harmony that combined with credible recognition of safety that emphasizes a particular autonomic configuration that could still be quite alert. Anyway, just sort of the colloquial meaning of relaxation and / but one can learn to bring that deeper into the viscera and skeletal muscles, speaking loosely.
+* Relaxation can come from breath awareness and even some breath management (but be careful of layering and karma).
+* Lots of pop relaxation emphasizes deep breaths but the Buteyko people emphasize breathing less and I'm currently more on that side. Lots of details left out here.
+* Lots of crosslinking should be done to / from a bunch of the altered state type sections, breath sections, sleep sections, intense state sections. Not done yet!
+* It's really complicated when there is a medical thing going on, but it's not acutely dangerous, but it's still unhealthy, and / or there is really something going on, but the emergency doctor or even primary is lke "there's nothing wrong." And the anxiety or doom can be  physiological and / but also there's real indicative sensations but sometimes sensations are completely misinterpreted or not actually relevant but get over-weighted. And self-credible "objective" information can also a really important piece in interpreting sensations or relaxing. Anyway, self, friends, or family will eventually encounter medical stuff at some point during one's life. And also weird sensations are totally a thing that has to be worked with in meditation. But I'm still working out what's in scope and out of scope for this document.
+	* And then discussion of licensed mental health professionals and what's in scope there, and etc. Another huge topic. Anyway, not health advice. Not mental health advice. Therapists can be great. Historically, I (Mark) talk to a therapist for a few weeks at a time, once or year or so, every few years.)
+* draft!!!
+
+[<a href="#138a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <a id="note-on-letting-go" href="#note-on-letting-go">note on letting go:</a>
 
