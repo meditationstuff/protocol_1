@@ -254,6 +254,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a7h" href="#p18">p18</a>
 					* <a id="109a8h" href="#p19">p19</a>
 					* <a id="109a9h" href="#p20">p20</a>
+					* <a id="109a10h" href="#p21">p21</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5011,19 +5012,37 @@ Surrender (in)to unconsciousness; surrender to/&#8203;as effortless, spontaneous
 
 Scratch experimental pith notes:
 
+* paradoxical narrow consciousness in """reduced""" consciousness states
 * As delayered, unwrapped, etc., sense re sensations just as they are.
 * Something something intrinsic valence of fully delayered sensations.
 * That which is intrinsically neither good nor bad.
 * That which is not intrinsically meaningful.
 * Sense in which completely at the mercy of uncertain this.
 * Sense in which already lost, long ago. Sense in which will always have already lost.
-* \[At least one ]Sense in which nothing changes, before and after; no difference. 
+* \[At least one ]Sense in which nothing changes, before and after; no difference.
+* Will still have 99.9999% of the problems currently have, and perhaps more, etc.
 
 See also:
 
 * <a href="#hypoarousal-and-medical-fear">working with hypoarousal (and somewhat separately but relatedly) medical fear and uncertainty (draft)</a>
 
 [<a href="#109a9h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="p21" href="#p21">p21:</a>
+
+(draft)
+
+Consider the possibility of your experiencing fully delayered, self-aligned*, ego-syntonic*, quasi-“unconditional,” effortless, spontaneous, unmanaged, non-twisty, imperfect, life-embracing, life-indulging happiness* and joy* and satisfaction\*.
+
+\* = empty\* and impermanent\* and interdependent\* but not unreal\*,  like, not a consolation prize or a cope, though potentially coexisting with uncertainty, sorrow, loss, and grief (though probably less than you’d think at various points or not what/which/where you thought, also provisionality, provisionality, provisionality, and assume I’m (Mark) massively wrong and pathologically confused somehow and don’t take my word or frame about anything as per usual etc etc etc)
+
+Still getting the wording on this one right. Might add or delete some stuff. 
+
+cf. Buddhism of course. Go Buddhism! --- "nibbana with remainder" / "happiness without conditions" stuff (compare w Buddhism's conditioned happiness, too)
+
+[<a href="#109a10h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
