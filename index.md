@@ -5041,6 +5041,11 @@ Still getting the wording on this one right. Might add or delete some stuff.
 
 cf. Buddhism of course. Go Buddhism! --- "nibbana with remainder" / "happiness without conditions" stuff (compare w Buddhism's conditioned happiness, too)
 
+Scratch notes:
+
+* The idea being something like, through successive rearrangements of self (bodymind) and world (and intersubjective, I/&#8203;thou relating), eventually/&#8203;asymptotically happiness (in some relevant, non-cope sense) becomes or emerges as part and parcel of a relatively intertemporally stably dominating body mind "strategy." Not a hack, just natural, ordinary, resiliently, responsively, anti-fragile-ly self-stabilizing, etc., because of what humans are and what the world is.
+* Given misfortune, illness, aging, loss, death, etc,. etc., etc., this is potentially a long and counterintuitive and nonmonotonic (worse before better) and even accidentally perverse (trying gets in the way, etc.; false "alarms"/&#8203;"""attainments,""" etc.) road, but global wayfinding / global balancing, etc., etc.
+
 [<a href="#109a10h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
