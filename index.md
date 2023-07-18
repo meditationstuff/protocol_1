@@ -4915,6 +4915,10 @@ It's important to not inappropriately reify ANY of the above, cf. emptiness, pro
 
 And/but/also, careful of self-gaslighting in any direction, cf. emptiness, provisionality (e.g. ok-ness of death, goodness of death, badness of death, belief in X after death, ok-ness of X after death, various "solutions" being good or bad, etc.
 
+\*
+
+Another possible rendering: If safe, surrender to the \[likely possibility of] death [being a thing of some sort], what\[ever] that means to you, right now, inevitable, provisional, empty, and so on. 
+
 [<a href="#109a6h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
