@@ -4796,7 +4796,9 @@ notes:
 
 scratch note:
 
-the higher main practice numbers not to indicate it's the final practice, best practice, most advanced practice, only true practice, etc.
+* the higher main practice numbers not to indicate it's the final practice, best practice, most advanced practice, only true practice, etc.
+* re many flavors and senses of “just this” (some more on point than others) but it’s not “””reductive”””? Like “the whole of everything” is sort of auto-tracked in the background. It doesn’t need foreground attention. Or like it's "suffused" "within" foreground attention or something or like it's the "lens" of foreground attention. (cf. though/&#8203;vs awareness)
+* Not that there isn’t past, future, and elsewhere but effortlessly and completely accounted-for in/as the present and also empty, provisional, conditioned, etc.
 
 [<a href="#109a3h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -4913,11 +4915,21 @@ It's important to not inappropriately reify ANY of the above, cf. emptiness, pro
 
 \*
 
+Something may or may not remain \[somatically felt as] true/"true" but, in any case, over time, one will relax into better, and better, and better ways of relating to that thing maybe being the case (e.g. less "reactive", because one finds their way to stable, anti-fragile, "normal," "ordinary," non-hacky dominating "strategies", just better in all ways, e.g. less reactive, clear, calm, relaxed, and/&#8203;yet net more effective along most or all dimensions.)
+
+\*
+
 And/but/also, careful of self-gaslighting in any direction, cf. emptiness, provisionality (e.g. ok-ness of death, goodness of death, badness of death, belief in X after death, ok-ness of X after death, various "solutions" being good or bad, etc.
 
 \*
 
-Another possible rendering: If safe, surrender to the \[likely possibility of] death [being a thing of some sort], what\[ever] that means to you, right now, inevitable, provisional, empty, and so on. 
+Another possible rendering: If safe, surrender to the \[likely possibility of] death [being a thing of some sort], what\[ever] that means to you, right now, inevitable, provisional, empty, and so on.
+
+\*
+
+phrases that may or may not be useful:
+
+* “‘All’ ‘goes’ to the same ‘place’.”
 
 [<a href="#109a6h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -5043,7 +5055,7 @@ Consider the possibility of your experiencing fully delayered, self-aligned*, eg
 
 Still getting the wording on this one right. Might add or delete some stuff. 
 
-cf. Buddhism of course. Go Buddhism! --- "nibbana with remainder" / "happiness without conditions" stuff (compare w Buddhism's conditioned happiness, too)
+cf. Buddhism of course. Go Buddhism! --- "nibbana with remainder" (nirvana) / "happiness without conditions" stuff (compare w Buddhism's conditioned happiness, too)
 
 Scratch notes:
 
@@ -6891,6 +6903,8 @@ Miscellaneous messy scratch notes (added by Mark):
 * you're not in the universe, not moving around in the universe, the universe is in you, etc., etc., etc. (the better version of this); cf. phenomenological / conceptual reorganization that matters
 * stop, wait, account for the unaccounted-for, where's the unaccounted-for in your actions, plans, goals, where's the magic, where's the will figure it out later, where's the pushed-away no idea? you DON'T have to solve it or dissolve it; you just have to account for it, when it's safe to account for it
 * "independence always an illusion; only radical interdependence all the way down. acknowledging includes loss of individuality and separate self"
+* Layering or micro-layering is when some change (a) now prevents some other thing (b) from changing until/unless (a) is undone or delayered. In that case, (b) is now (once again) labile/changeable. Layering and layers “stack” and can create complex structure. Eventually it can be safe for like everything to be labile and the system “updates” itself and takes care of itself, spontaneously, effortlessly, costlessly, more effectively and fine-grain-Lu and responsively than “you” can, etc., etc.
+
 
 
 end "misc pith"
