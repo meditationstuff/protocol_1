@@ -255,6 +255,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a8h" href="#p19">p19</a>
 					* <a id="109a9h" href="#p20">p20</a>
 					* <a id="109a10h" href="#p21">p21</a>
+					* <a id="109a11h" href="#p22">p22</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5064,6 +5065,32 @@ Scratch notes:
 
 [<a href="#109a10h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="p22" href="#p22">p22:</a>
+
+sort of: don't try to escape [or grasp] sensations\*\*\* you're already having [when safe, when ready; selectively, at first, or ongoingly, ]
+
+\*
+
+* The sense in which there is no "after [you're done with] meditation"
+* no [perceptual] "after" [but see \*\*]
+* no [perceptual] "next" [but see \*\*]
+* no [perceptual] "end[ing]" [but see \*\*]
+* no [perceptual] "escape" [but see \*\*]
+* actually looking, actually seeing, etc., but without karmic layering in the [non-doing] of such/it/that
+* no accumulating, no claiming, no making progress, no acquiring, no locking-in, no future [that is not empty and now]
+* no end / will never be "over" / no immediate-perceptual escape; it's already happening\*\*
+
+\*
+
+* may find the sensory field hurts, at first (maybe many firsts), in ways didn't realize it is or would
+* \*\*paradoxical contra impermanence, arising, passing away
+* again, never have to do this unless ready, becomes safe [cf. "you are the music while the music lasts"]
+* (((scholarly note: cf. valence, pleasant, unpleasant, neutral, but it's more complicated than that, not to over-reify or over-apply that schema)))
+* already true, already real, already happening in the lightest senses of all these words
+* \*\*\*[don't try to escape...] also thoughts, fears, anticipations, etc., etc. [...you're already having] --- careful of limited or preconceived ontologies, etc., etc.
+
+[<a href="#109a11h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
