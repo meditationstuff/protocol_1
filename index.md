@@ -3784,6 +3784,10 @@ Yet another brief sparse note:
 
 Language is bodymind-"full stack" or "bodymind-complete", or even bodymindworld-"full stack" or "bodymindworld-complete. And, there's a practically "infinite" number of language games, in the Wittgenstein-ian Philosophical Investigations sense. Language use can of course be both self-directed and other-directed. Language use nebulously shades into "thought", verbal self-talk, and non-symbolic cognition, and all of these nebulously shade into, and mix with, (all) other phenomenology. It's all nebulous, and it functions and is "phenomenologically seated" differently between people. (Remember, 99% software and 1% hardware.) That's not to say that language use is arbitrary--it's definitely not--there is an envelope of tradeoffs constrained by the physical body and brain, but there are large degrees of freedom. People using the same words may have very different things going on "under the hood," so to speak, with ultimately different behavioral (and etc.) implications. Through high quality self-transformative practice, one's relationship to language in general may subjectively converge, in some ways. When people talk about language, when people use meta-language, and talk about concepts, meanings, referents, intentions [sic], intensions [sic], aboutness, reference, definitions, etc., it's important to guard against inappropriate reification. Meta-languages are themselves nebulous language games that nebulously shade into other language games and nebulously enmesh with all other behavior and experience. Over time, self-transformative practice allows one to wayfind through "where language games come from", which is coextensive with the bodymindworld system. And that can mean that learning new language games, whether other's or one's own inventions, happens on the same timescale as other meditation-y things, which is over thousands of hours. But one might get an itch that there's something new that can be done with language, or a new way to writes stories or give voice to ideas, or to express oneself. Self-transformative practice, over time, unlocks extraordinary capacity for self-renewal and exploration, beneath culture, in pursuit of what one wants, which transforms in tandem with language, which can end up yielding art and progress and paradigmatic shifts, and so on. In short, p1 is just one language game.
 
+\*
+
+* https://en.wikipedia.org/wiki/Enactivism [Last accessed: 2023-07-20]
+* https://en.wikipedia.org/wiki/Language_game_(philosophy) [Last accessed: 2023-07-20]
 
 [<a href="#196">Go to appendix 3: main practice p1 appendix (usa english; "en-us"</a>]
 
@@ -5089,6 +5093,14 @@ sort of: don't try to escape [or grasp] sensations\*\*\* you're already having [
 * (((scholarly note: cf. valence, pleasant, unpleasant, neutral, but it's more complicated than that, not to over-reify or over-apply that schema)))
 * already true, already real, already happening in the lightest senses of all these words
 * \*\*\*[don't try to escape...] also thoughts, fears, anticipations, etc., etc. [...you're already having] --- careful of limited or preconceived ontologies, etc., etc.
+* If safe enough for the feared truth to be true/“true”/“…”, if safe enough for feared truth to be known, if safe enough to feel the fear/terror/pain/uncertainty/anything/etc. related, then “…”
+* cf. “in this exact very moment you are safe right now”
+* cf. “but you’re not dead, and now, and now, and now…”
+* cf. “but you are breathing… and now… and now… and now…”
+* cf. “previously had to rely on anxiety/‘anxiety’ for readiness but now can rely on ‘calm effortless spontaneous ‘alertness’ / “””clarity””” for readiness
+* can wait \[in stillness] for '''sensations''' to come up and maybe even ‘help’ a tiny bit but cf, karma, layering careful about going looking and careful about making, pushing of course, and of course not ‘excavating’; cf. wayfinding and subtlest p2; openings, options, opportunities 
+* e.g. non-anxiety through patient ... over thousands of hours becomes a dominating strategy; cannot be rushed or hacked, has to be natively noticed as genuinely better option all the way down plus anti-fragile transformation such becomes better option
+
 
 [<a href="#109a11h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -6931,6 +6943,11 @@ Miscellaneous messy scratch notes (added by Mark):
 * stop, wait, account for the unaccounted-for, where's the unaccounted-for in your actions, plans, goals, where's the magic, where's the will figure it out later, where's the pushed-away no idea? you DON'T have to solve it or dissolve it; you just have to account for it, when it's safe to account for it
 * "independence always an illusion; only radical interdependence all the way down. acknowledging includes loss of individuality and separate self"
 * Layering or micro-layering is when some change (a) now prevents some other thing (b) from changing until/unless (a) is undone or delayered. In that case, (b) is now (once again) labile/changeable. Layering and layers “stack” and can create complex structure. Eventually it can be safe for like everything to be labile and the system “updates” itself and takes care of itself, spontaneously, effortlessly, costlessly, more effectively and fine-grain-Lu and responsively than “you” can, etc., etc.
+* "knowing what to do" (or "knowing exactly what to do") may have a similar "yellow flag" profile as "momentum" (could be fine or good but something to give lots and lots of extra scrutiny)
+* elsewhere/&#8203;elsewhen/&#8203;otherwhere/&#8203;otherwhen/&#8203;there/&#8203;then/&#8203;goal/&#8203;planning/&#8203;action/&#8203;telos/&#8203;billiard-ball-in-three-dimensional-space/&#8203;/body-puppeteer--driven vs here/&#8203;now-driven / you're-in-the-universe--driven vs the-universe-is-in-you/"everything"--driven (in a manner of speaking, etc.)
+	* the sense in which you don't move through space; space moves through you, etc., etc.
+	* sense in which there is no "\[right] over there"
+	* sense in which there is no "way over there and \[e.g. future] then"
 
 
 
