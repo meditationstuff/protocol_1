@@ -243,7 +243,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="106h" href="#p7">p7</a>
 					* <a id="107h" href="#p8">p8</a>
 					* <a id="108h" href="#p9">p9</a>
-					* <a id="109h" href="#p10-experimental">p10 [experimental]</a>
+					* <a id="109h" href="#p10">p10</a>
 					* <a id="109ah" href="#p11">p11</a>
 					* <a id="109a1h" href="#p12">p12</a>
 					* <a id="109a2h" href="#p13">p13</a>
@@ -256,6 +256,9 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a9h" href="#p20">p20</a>
 					* <a id="109a10h" href="#p21">p21</a>
 					* <a id="109a11h" href="#p22">p22</a>
+					* <a id="109a12h" href="#p23">p23 (stub)</a>
+					* <a id="109a13h" href="#p24">p24 (experimental)</a>
+					* <a id="109a14h" href="#p25">p25</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -4700,7 +4703,7 @@ How is this day already perfect? How might you look back on this as already perf
 
 [<a href="#108h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <span id="109"></span><a id="p10-experimental" href="#p10-experimental">p10 [experimental]:</a>
+# <span id="109"></span><span id="p10-experimental"></span><a id="p10" href="#p10">p10:</a>
 
 This practice might be called "minimal unit partially ordered imaginative/generative concrete planning." That is, in some sense, it is a planning practice.
 
@@ -5103,6 +5106,54 @@ sort of: don't try to escape [or grasp] sensations\*\*\* you're already having [
 
 
 [<a href="#109a11h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="p23" href="#p23">p23: (stub)</a>
+
+Exploring, allowing: 
+
+no choice, no optionality, no free will, no free won't no space, no freedom (and how that’s ok though maybe a little claustrophobic and slow-growing surprising and frustrating at first)
+
+* cf. 'determinism', no-self, no elsewhere, no elsewhen, emptiness
+
+[<a href="#109a12h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="p24" href="#p24">p24: (draft)</a>
+
+Allowing, welcoming:
+
+* not transforming yourself
+* \[not seeing reality clearly]
+* no becoming whatsoever
+* ????????impersonal achievement
+* ?????????align[...]????????
+* don't know why i'm doing it except that i am doing it, except that i find myself doing it
+* i'm not even sure what i want to happen
+* only really action is my finding myself in action
+* \[don't know what doing]
+* \[don't know what want]
+* \[don't know what anything means]
+* \[don't know who am]
+* no idea what's going on or what it means
+* something keeps happening and don't know what and even "something" is too much a thing
+* don't know what things are or what they mean and yet still acting
+* no idea what i'm doing, no idea why i'm doing it
+
+[<a href="#109a13h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="p25" href="#p25">p25:</a>
+
+Non-suppressive-ly, non-push-ily, allowing-ly, non-layer-y-ly, find the natural, ordinary, self-stable, global stillpoint; find global stillpoint---the part/&#8203;configuration of state space where all \[subtle, change-causing, self-changing] processes, movement, “momentums”/momenta are still \[in the not moving sense], quiet, absent, or in balance. Allow for things/&#8203;stuff/&#8203;oldness/&#8203;newness to come up, to bloom/&#8203;sift out of increasing stillness or initial, temporary moments or patches thereof. This might at first feel like balancing on the head of a pin, or painstakingly balancing many interrelating balance-scales simultaneously, or other things. It may feel very un-natural on and off, while/&#8203;before becoming more natural (not because you're getting used to something but because you're finding the under-already-naturalness..) Gross/&#8203;overt body movements are ok, departures from stillness and surges and prolonged periods of non-stillness and intensification of movement (or whatever), along the way, are ok.
+
+See also:
+
+* <a href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/&#8203;unsticking) protocol [solo and otherwise]</a>
+* <a href="#more-compressed-pith-instructions">more compressed pith instructions</a>
+
+[<a href="#109a14h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
