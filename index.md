@@ -259,6 +259,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a12h" href="#p23">p23 (stub)</a>
 					* <a id="109a13h" href="#p24">p24 (experimental)</a>
 					* <a id="109a14h" href="#p25">p25</a>
+					* <a id="109a15h" href="#p26">p26</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5147,6 +5148,14 @@ Allowing, welcoming:
 
 Non-suppressive-ly, non-push-ily, allowing-ly, non-layer-y-ly, find the natural, ordinary, self-stable, global stillpoint; find global stillpoint---the part/&#8203;configuration of state space where all \[subtle, change-causing, self-changing] processes, movement, “momentums”/momenta are still \[in the not moving sense], quiet, absent, or in balance. Allow for things/&#8203;stuff/&#8203;oldness/&#8203;newness to come up, to bloom/&#8203;sift out of increasing stillness or initial, temporary moments or patches thereof. This might at first feel like balancing on the head of a pin, or painstakingly balancing many interrelating balance-scales simultaneously, or other things. It may feel very un-natural on and off, while/&#8203;before becoming more natural (not because you're getting used to something but because you're finding the under-already-naturalness..) Gross/&#8203;overt body movements are ok, departures from stillness and surges and brief and prolonged periods of non-stillness and intensification of \[subtle] movement (or whatever), along the way, are ok.
 
+\*
+
+Along the way: You may find yourself in quiet stillness, you may find yourself "just in the room" (or "just outside"), you may find thoughts diminishing, you may find I-ness, diminishing.
+
+Draft: /////// \~Don't get stuck on any particular movement, asdfasdfasdf local/&#8203;/&#8203;balance/&#8203;global, local/&#8203;global, local/&#8203;global...
+
+\*
+
 See also:
 
 * <a href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/&#8203;unsticking) protocol [solo and otherwise]</a>
@@ -5154,6 +5163,30 @@ See also:
 
 [<a href="#109a14h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="p26" href="#p26">p26:</a>
+
+Practice pith gloss: "Rest in grace."
+
+The way I'm using "grace" is sort of borrowed and adapted from Buddhism and Christianity and other places.
+
+It's sort of the recognition that enlightenment, the path, whatever, is a product of causes and conditions such as reading about Buddhism, or coming across my stuff on twitter, or getting a link from a friend, or seeing a poster or an ad for a meditation retreat for the first time. And of course it's something one can self-stumble upon too and it's "real" independent of e.g. Buddhism, or whatever, so there's that very-loosely-speaking independent existence sense, but, here, is like a radically contingent sense, even if possibly overdetermined.
+
+So like there's some sense in which "enlightenment," etc., is utterly and completely out of your control, always has been, factors you don't control and you never controlled, and so on, in some sense.
+
+And it can become safe to rest in that, and, at first, hints of this might have a trapped, scary feeling (or even more than that), and over time it can become safe that it's intrinsic nature is one of legitimate safety and freedom (and always was, etc., etc.)
+
+\*
+
+My initial scratch notes:
+
+> \[Intrinsic i personal goodness or benevolence, higher power, disinterested non-malicious, impartiality] \[ed. note: depending on current cosmology, something in here might be useful]
+
+> Grace, progress, “enlightenment,” meditating at all, meditating being a thing as such, for better and worse, massively/&#8203;completely dependent on hearing about it somehow, somewhere, as it were, being exposed to the idea sort of ish solely depends on hearing about the dharma, it’s about the inputs (nature and nurture and adult nurture) and you don’t control those and you never controlled those
+Determinism type stuff can be cool or terrifying but sort of gets transformed over time into legitimate safety and freedom (and always was, etc, etc)
+
+
+[<a href="#109a15h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
@@ -6042,6 +6075,11 @@ So when someone is “doing a practice,” like investigation, noting, concentra
 
 Note: The above may seem super top-down, but it's sort of a corrective on other pespectives on meditation. Main practice p2, loosely speaking, is 25-50% "surrender," "let it happen," etc. For more qualifiers, search elsewhere in this document for "homunculi" (without the quotes).
 
+\*
+
+Something to possibly play with a couple times:
+
+You might ask, what's the very last thing \[you'll look at]? Is it possible to do that now? Not that you necessarily should or can, and not to inappropriately reify "last," "thing," etc. This is just something to play with to try examining deep implicit assumptions, that might be a little useful a couple times, depending on where language and any number of other things are currently at.
 
 [<a href="#129ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
