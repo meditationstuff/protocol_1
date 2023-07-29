@@ -260,6 +260,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a13h" href="#p24">p24 (experimental)</a>
 					* <a id="109a14h" href="#p25">p25</a>
 					* <a id="109a15h" href="#p26">p26</a>
+					* <a id="109a16h" href="#p27">p27 (stub)</a>
+					* <a id="109a17h" href="#p28">p28 (scratch notes)</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5189,6 +5191,28 @@ Determinism type stuff can be cool or terrifying but sort of gets transformed ov
 [<a href="#109a15h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+# <a id="p27" href="#p27">p27: (stub)</a>
+
+explore already enlightened (or already whatever)
+
+"always already"
+
+cf. grace, nothing you ever do will do it, has to be already sort of. Paradoxically, nothing you’ve ever done or will ever do will make you enlightened (or make you whatever)
+
+[<a href="#109a16h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p28" href="#p28">p28: (scratch notes)</a>
+
+stainless mirror, moonlight on (~still) water
+
+Sort of anything that’s not “out there”  
+
+Ownership, credit, authorship, pride...  
+
+Stainless mirror (includes kinesthetic, interoceptive, proprioceptive!!!!) vs self-ing and/vs subtle movement (loose categories, what’s in and out, but a lot can go bc actually layering and constraint! Global puzzle)
+
+[<a href="#109a17h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
@@ -7037,6 +7061,7 @@ Miscellaneous messy scratch notes (added by Mark):
 	* the sense in which you don't move through space; space moves through you, etc., etc.
 	* sense in which there is no "\[right] over there"
 	* sense in which there is no "way over there and \[e.g. future] then"
+* when in doubt take long, slow, reverie walks in safe, quiet-enough places and find a floor or a mat or a bed and roll around and do lots of stretching and extending and lengthening and curling into a ball and yoga-y things
 
 
 
