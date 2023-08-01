@@ -5218,7 +5218,7 @@ Stainless mirror (includes kinesthetic, interoceptive, proprioceptive!!!!) vs se
 
 # <a id="p29" href="#p29">p29: (stub/&#8203;scratch)</a>
 
-\[\[When safe,] let/allow yourself to] be \[completely] at the mercy of "the process."
+\[\[When safe,] let/&#8203;allow yourself \[to] be \[completely] at the mercy of "the process."
 
 scratch:
 
@@ -5227,7 +5227,8 @@ scratch:
 Notes:
 
 * p2 incorporates surrender, p22 has don't try to escape \[...], many other pXs have surrender or something nearby, and here's yet another sort of surrender-y one. Each one is trying to capture a slightly different thing/shade. It's less that they're all trying to overlap and overdetermine in the direction of the same thing and more that they're trying to achieve nuance and gentle-non-reified-distinction and point to different, though (closely) related and interrelated, things. Not to reify any of this, etc., etc. Worth exploring and coming back to each one, every so often, depending, etc. Some will draw quite a bunch of time, for some people, etc.. And all of it, etc., etc., should be seamless in a p2 + meta protocol nothing-left-out sort of way.
-
+* somewhere in the neighborhood of this: "(*idiomatic*) In the power of; defenceless/defenseless against." \[https://en.wiktionary.org/wiki/at_the_mercy_of Last accessed: 2023-08-01]
+* (idiomatic)at the mercy of body, world, mind, meditation, 'past mistakes,' etc.
 
 [<a href="#109a18h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
