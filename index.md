@@ -262,6 +262,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a15h" href="#p26">p26</a>
 					* <a id="109a16h" href="#p27">p27 (stub)</a>
 					* <a id="109a17h" href="#p28">p28 (scratch notes)</a>
+					* <a id="109a18h" href="#p29">p29 (stub/&#8203;scratch)</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5118,6 +5119,7 @@ Exploring, allowing:
 no choice, no optionality, no free will, no free won't no space, no freedom (and how that’s ok though maybe a little claustrophobic and slow-growing surprising and frustrating at first)
 
 * cf. 'determinism', no-self, no elsewhere, no elsewhen, emptiness
+* "choicelessness" ("always already," critically also wrt the past, cf. regret, "if only," yet at the same time something important about counterfactuals and "would have, could have" in positive, constructive sense)
 
 [<a href="#109a12h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -5213,11 +5215,29 @@ Stainless mirror (includes kinesthetic, interoceptive, proprioceptive!!!!) vs se
 
 [<a href="#109a17h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <a id="p29" href="#p29">p29: (stub/&#8203;scratch)</a>
+
+\[\[When safe,] let/allow yourself to] be \[completely] at the mercy of "the process."
+
+scratch:
+
+* """""\~perfect subjective object"""""
+
+Notes:
+
+* p2 incorporates surrender, p22 has don't try to escape \[...], many other pXs have surrender or something nearby, and here's yet another sort of surrender-y one. Each one is trying to capture a slightly different thing/shade. It's less that they're all trying to overlap and overdetermine in the direction of the same thing and more that they're trying to achieve nuance and gentle-non-reified-distinction and point to different, though (closely) related and interrelated, things. Not to reify any of this, etc., etc. Worth exploring and coming back to each one, every so often, depending, etc. Some will draw quite a bunch of time, for some people, etc.. And all of it, etc., etc., should be seamless in a p2 + meta protocol nothing-left-out sort of way.
+
+
+[<a href="#109a18h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
 
 [<a href="#110h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 
 
