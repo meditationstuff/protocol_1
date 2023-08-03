@@ -5223,6 +5223,8 @@ Stainless mirror (includes kinesthetic, interoceptive, proprioceptive!!!!) vs se
 scratch:
 
 * """""\~perfect subjective object"""""
+* ~volitionlessness \[also not quite right] / ~"not trying to fight it"
+* perfect subject / patient \[in a sense of being acted upon]
 
 Notes:
 
