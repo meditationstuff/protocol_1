@@ -4989,6 +4989,11 @@ None of this has to be perfect or necessarily even particularly exhaustive (as s
 * long run phenomenological separation / independence /  untangling (in the positive sense)
 * \[cf. interdependence, etc., etc.] (in the buddhist sense)
 
+\*
+
+* quasi-spatial, non-triangulate-able / counterintuitively minimally- or non-conceiveable except (sometimes! maybe!) exhaustive process of elimination
+* surprising that there's a "there" "there" [sic]
+
 [<a href="#109a7h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
@@ -15832,5 +15837,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Setiya, Kieran. "The midlife crisis." Philosophers 14 (2014). [https://quod.lib.umich.edu/cgi/p/pod/dod-idx/midlife-crisis.pdf?c=phimp;idno=3521354.0014.031;format=pdf  Last accessed: 2023-05-26]
 * Nestor, J. (2020). Breath: The new science of a lost art. Penguin.
 * Being Aware of Being Aware (The Essence of Meditation Series) by Rupert Spira. ASIN: B01LVUV9RY. Publisher : Sahaja; 1st edition (November 1, 2017).
+* Gordon, Alan, and Alon Ziv. The way out: A revolutionary, scientifically proven approach to healing chronic pain. Penguin, 2021.
+* Leahy, Robert L. The worry cure: Seven steps to stop worry from stopping you. Harmony, 2006.
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
