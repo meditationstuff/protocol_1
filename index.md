@@ -4993,6 +4993,7 @@ None of this has to be perfect or necessarily even particularly exhaustive (as s
 
 * quasi-spatial, non-triangulate-able / counterintuitively minimally- or non-conceiveable except (sometimes! maybe!) exhaustive process of elimination
 * surprising that there's a "there" "there" [sic]
+* extra-body-map / extra-space-map confusions (at least one set is sort of "into" "inner space" ; and there's another set that's sort of in "nondual space") --- can be muscle tension related
 
 [<a href="#109a7h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
