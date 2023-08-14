@@ -263,6 +263,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a16h" href="#p27">p27 (stub)</a>
 					* <a id="109a17h" href="#p28">p28 (scratch notes)</a>
 					* <a id="109a18h" href="#p29">p29 (stub/&#8203;scratch)</a>
+					* <a id="109a19h" href="#p30">p30 (stub)</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5237,8 +5238,30 @@ Notes:
 * p2 incorporates surrender, p22 has don't try to escape \[...], many other pXs have surrender or something nearby, and here's yet another sort of surrender-y one. Each one is trying to capture a slightly different thing/shade. It's less that they're all trying to overlap and overdetermine in the direction of the same thing and more that they're trying to achieve nuance and gentle-non-reified-distinction and point to different, though (closely) related and interrelated, things. Not to reify any of this, etc., etc. Worth exploring and coming back to each one, every so often, depending, etc. Some will draw quite a bunch of time, for some people, etc.. And all of it, etc., etc., should be seamless in a p2 + meta protocol nothing-left-out sort of way.
 * somewhere in the neighborhood of this: "(*idiomatic*) In the power of; defenceless/defenseless against." \[https://en.wiktionary.org/wiki/at_the_mercy_of Last accessed: 2023-08-01]
 * (idiomatic)at the mercy of body, world, mind, meditation, 'past mistakes,' etc.
+* (superbullet intentionally left blank)
+	* all the times you were a person in a place doing a thing
+	* all the times there were persons/people in places doing things
+	* First usually maybe need to fully become a person
+	* Versus eternal objects moving around in an infinite three-dimensional space 
+
 
 [<a href="#109a18h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <a id="p30" href="#p30">p30: (stub)</a>
+
+Non-mindfully explore suffering itself.
+
+Or, Non-mindfully explore suffering/bummer[1] and pleasure/fuck-yeahhhhh/fuck-yessssss themselves.
+
+Non-mindfully here means to do so on net without reifying or strengthening a “witness” or a separation between experience and experiencer. 
+
+(---when safe, when not just an exercise in “self-torturing”! That is sometimes, in some parts of the "space," may have to de-layer for thousands of hours before this is constructive! Probably a little helpful immediately in lots of places but not comprehensively helpful immediately. All other meditation-y things and main practices and personal self-management and self-care and self-distracting strategies are always ok!!!!!!)
+
+* Experiencing suffering is a deep and highly effective “strategy” for the organism and can gradually be replaced with dominatingly/strictly superior/ more effective strategies that don’t involve suffering. That is, as the bodymind finds/realizes locally safe ways to not suffer, or ways to be that are truly better than suffering, then suffering is released as a strategy. 
+	* some suffering can be “deeper” than personhood/selfing 
+
+[<a href="#109a19h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
@@ -15840,5 +15863,6 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Being Aware of Being Aware (The Essence of Meditation Series) by Rupert Spira. ASIN: B01LVUV9RY. Publisher : Sahaja; 1st edition (November 1, 2017).
 * Gordon, Alan, and Alon Ziv. The way out: A revolutionary, scientifically proven approach to healing chronic pain. Penguin, 2021.
 * Leahy, Robert L. The worry cure: Seven steps to stop worry from stopping you. Harmony, 2006.
+* Stephen Proctor's MIDL meditation system https://midlmeditation.com/ https://www.reddit.com/r/midlmeditation/ [Last accessed: 2023-08-14]
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
