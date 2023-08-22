@@ -5227,6 +5227,8 @@ Stainless mirror (includes kinesthetic, interoceptive, proprioceptive!!!!) vs se
 
 \[\[When safe,] let/&#8203;allow yourself \[to] be \[completely] at the mercy of "the process."
 
+(Alternate: When/&#8203;where/&#8203;"how" safe, progressively, iteratively, comprehensively surrender.)
+
 scratch:
 
 * """""\~perfect subjective object"""""
