@@ -264,6 +264,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a17h" href="#p28">p28 (scratch notes)</a>
 					* <a id="109a18h" href="#p29">p29 (stub/&#8203;scratch)</a>
 					* <a id="109a19h" href="#p30">p30 (stub)</a>
+					* <a id="109a20h" href="#p31">p31 (draft)</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5266,6 +5267,29 @@ Non-mindfully here means to do so on net without reifying or strengthening a “
 [<a href="#109a19h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+# <a id="p31" href="#p31">p31: (draft)</a>
+
+gloss: gently experiment/&#8203;incline towards meditation serves life; sort of no more \[or less and less] mediate "meditative goals as such" whatsoever \[if you ever had these anyway]; no "ongoing management through meditative" whatsoever
+
+\[eventually naturally unravels until "just in the cracks," anyway, or "spontaneous and not separate from movement, 'thinking,' etc."]
+
+e.g. if meditating makes some things better for a bit then get worse until meditate again; then, if/when/“how”/as safe, don’t meditate as a strategy, during which the some things might get (maximally) worse and worse and worse (advanced "moves" needed: cf. surrender, at mercy, etc., etc., etc.); so like if meditation is a periodic antidote, explore not using meditation in that way, or in any way that makes something "temporarily better,” for a few days or weeks (or hours or minutes) \[momentary exceptions or experiments as makes sense, etc.].
+
+this is for (finally) working through that (maybe) (pernicious) have to do something special or some little "oomph" ("push," something) to begin meditating, no matter how small. no oomphs in the limit; totally seamless transitions
+
+* different “meditative vantage points”
+* \[Low-key “no more separate meditation time” in some sense; giving up meditation time entirely, sort of, sometimes, for a time]
+* \[Low-key "no more 'just' meditating, or where meditating is the "primary activity"]
+* \*no longer such a thing as "meditation" just bodymind activity seamless with life and in stolen moments
+* just living, choosing life, socializing, service, leadership, whatever, creative projects over meditation, meditation in the cracks of that (might already be in the cracks of life, but if it's not)
+* integration, finally; not meditation /then/ life but meditation /and/ life then life and meditation then mostly just life
+* safely becoming more receptive, thereby changing self in process, versus “going within and changing a reified self (e.g. becoming an enlightened person or an x person)” (“bad” except almost incidentally as part of the former, sort of )
+* (indirectly) transforming so as to safely transform via safe receptivity vs transformation via will, transformation via a will is very limited and eventually all of it has to be completely undone to make further progress, sort of
+
+[<a href="#109a20h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
 [This (super)section intentionally left blank. Scroll down for the contentful subsections!]
@@ -7116,7 +7140,14 @@ Miscellaneous messy scratch notes (added by Mark):
 	* sense in which there is no "\[right] over there"
 	* sense in which there is no "way over there and \[e.g. future] then"
 * when in doubt take long, slow, reverie walks in safe, quiet-enough places and find a floor or a mat or a bed and roll around and do lots of stretching and extending and lengthening and curling into a ball and yoga-y things
-
+* Stuff re-seats in “spontaneity,” —sometimes cutover is a bit confusing/rough—that is no longer needed deliberation/planning/prep, a sort of nothingness beforehand that can relax into and then right thing comes out / happens at right time e.g. with speech [in misc pith]
+* "global indirectness" \[wayfinding]
+* something that transcends and includes, and critiques and deconstructs the body map
+* no forward motion, no advancement, no achievement no completion no passage of time
+* At late stages of efficient but somewhat out-of-order meditation, progress can actual bottleneck on pandiculation-type things, all over the body. As in have to wait for pandiculation to repeatedly manifest over hours or days before meditation proceeds (of defining meditation narrowly) /// when in doubt take a long walk! /// relax with arms over your head; try a position you haven't been in for a while
+* very scratch note: Not xyz, (somewhat playfully) riding along in Robot spontaneous, no deliberate, willful, intentional actions —- can put in determinism section? Or even etc.; something to do when not much else is available or not sure what to do that sort of is trajecotoru aligning cf. determinism
+* cf. “dystonia” and fatigue
+* To prevent out-of-order tension stuff, sort of want eventually whole system sort of “inert” except for whatever’s needed to exhaustively find everything that’s been “left behind,” whether “narrow and deep” or “scattered and diffuse” or anything.
 
 
 end "misc pith"
@@ -13615,6 +13646,8 @@ See also David Chapman's "meaningness" material (see bibliography).
 [<a href="#158da1qh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <a id="nonduality-far-reaches" href="#nonduality-far-reaches">nonduality (far reaches) [stub/&#8203;scratch]:</a>
+
+\[much of this is extremely deprecated / inadequate but i'm going to leave it here at least for now]
 
 I'm going to use "not two; not one," here, and I'm probably not using it right, but.
 
