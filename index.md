@@ -7148,7 +7148,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * very scratch note: Not xyz, (somewhat playfully) riding along in Robot spontaneous, no deliberate, willful, intentional actions —- can put in determinism section? Or even etc.; something to do when not much else is available or not sure what to do that sort of is trajecotoru aligning cf. determinism
 * cf. “dystonia” and fatigue
 * To prevent out-of-order tension stuff, sort of want eventually whole system sort of “inert” except for whatever’s needed to exhaustively find everything that’s been “left behind,” whether “narrow and deep” or “scattered and diffuse” or anything.
-
+* From meditating to almost (temporarily) keep meditation from happening wayfinding without forward-ness, without becoming 
 
 end "misc pith"
 
@@ -15899,5 +15899,8 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Gordon, Alan, and Alon Ziv. The way out: A revolutionary, scientifically proven approach to healing chronic pain. Penguin, 2021.
 * Leahy, Robert L. The worry cure: Seven steps to stop worry from stopping you. Harmony, 2006.
 * Stephen Proctor's MIDL meditation system https://midlmeditation.com/ https://www.reddit.com/r/midlmeditation/ [Last accessed: 2023-08-14]
+* Leighton, Taigen Dan. Just this is it: Dongshan and the practice of suchness. Shambhala Publications, 2015.
+	* Chödrön, Pema. The wisdom of no escape: And the path of loving-kindness. Shambhala Publications, 2010.
+* the one sutra(???) that i can't find right now that uses the allusion of even a little bit of feces with respect to "not even one bit of becoming" or something like that
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
