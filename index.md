@@ -15902,5 +15902,9 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Leighton, Taigen Dan. Just this is it: Dongshan and the practice of suchness. Shambhala Publications, 2015.
 	* Chödrön, Pema. The wisdom of no escape: And the path of loving-kindness. Shambhala Publications, 2010.
 * the one sutra(???) that i can't find right now that uses the allusion of even a little bit of feces with respect to "not even one bit of becoming" or something like that
+* Kelly, Loch. Shift into freedom: The science and practice of open-hearted awareness. Sounds True, 2015.
+* The Nature of Mind: The Dzogchen Instructions of Aro Yeshe Jungne. Khenchen Sherab, Khenpo Tsewang Dongyal, Patrul Rinpoche. Snow Lion; Illustrated edition (April 26, 2016) ISBN-10 1559394498 ISBN-13 978-1559394499 [ht N]
+* Rinpoche, Tulku Urgyen. As It Is, Volumes I and II: Essential Teachings from the Dzogchen Perspective. Vols. 1 and 2. Rangjung Yeshe Publications, 2004.
+
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
