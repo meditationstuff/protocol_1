@@ -78,6 +78,7 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
 		* <a id="177q" href="#guided-on-ramp-for-main-practice-p2-draft">guided on-ramp for main practice p2 [draft]</a>
 		* <a id="178q" href="#pith-instructions-experimental">pith instructions (experimental)</a>
 		* <a id="178aq" href="#more-compressed-pith-instructions">more compressed pith instructions</a>
+		* <a id="178bq" href="#yet-another-pith-instruction-formulation">yet another pith instruction formulation (experimental)</a>
 		* <a id="179q" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
 * **Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.**
 	* *See these sections:*
@@ -447,6 +448,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="177h" href="#guided-on-ramp-for-main-practice-p2-draft">guided on-ramp for main practice p2 [draft]</a>
 		* <a id="178h" href="#pith-instructions-experimental">pith instructions (experimental)</a>
 		* <a id="178ah" href="#more-compressed-pith-instructions">more compressed pith instructions</a>
+		* <a id="178bh" href="#yet-another-pith-instruction-formulation">yet another pith instruction formulation (experimental)</a>
 		* <a id="179h" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
 	* <a id="180h" href="#embodied-learning">embodied learning</a>
 		* <a id="181h" href="#technical-debt-meditation-and-minds">technical debt, meditation, and minds</a>
@@ -14615,6 +14617,40 @@ See also:
 
 [<a href="#178ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="yet-another-pith-instruction-formulation" href="#yet-another-pith-instruction-formulation">yet another pith instruction formulation (experimental):</a>
+
+Say there is PROACTIVE SELF-CARE (pushing, pushing away, forcing, managing, controlling, "forward-ing," deliberate doing, making, blocking, preventing, willing, deliberate doing, haste, rushing, completing, becoming...)
+
+Say there is RECEPTIVE SELF-CARE (patience, surrender, non-interference, allowing, keeping company, hanging out with, letting be, going-along-with, even-enjoying, just-enjoying, participating-in, including, non-resistance, choosing...)
+
+Say there is SPONTANEOUS SELF-CARE (spontaneity, positive-automaticity, non-extra-ness, nothing-added, just-this, inexertion, non-doing, non-controlling-attention, non-deliberate-awareness, non-exertion, non-efforting, ease, effortlessness, free-fall, fluidity, flowing, path-of-least resistance, being, non-becoming...)
+
+Say there is (a) SAFE suffering, (b) currently UNSAFE suffering that CAN be affected, and (c) currently UNSAFE suffering that currently CANNOT be affected.
+
+\*
+
+When there is UNSAFE suffering that CAN be affected, gently participate in proactive self-care.
+
+When there is UNSAFE suffering that CANNOT be affected, gently participate in receptive self-care.
+
+When there is SAFE suffering, gently **DISCOURAGE** (prevent, block, avoid...) **NEW** proactive self-care; **AND**, gently **ENCOURAGE** (allow, surrender-to, non-interfere-with, help-out...) **OLD** proactive self-care; **AND**, gently **encourage** receptive self-care, **AND** relax-into, allow, release-into, let-go-into, let spontaneous self-care reveal itself.
+
+\*
+
+When safe (or whenever you want, etc.), forget these instructions; you will remember them if or when it's net-helpful.
+
+When safe (or whenever you want, etc.), forget these meditation; you will remember it's a thing if or when it's net-helpful.
+
+\end
+
+\*
+
+Notes:
+
+* Experimental in the sense that I don't know how people will empirically interact with this such that it works like I hope---essentially coaxing burnoff/&#8203;delayering all the way to the "end," very smoothly. General warnings in main doc still apply.
+
+
+[<a href="#178bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="179"></span><a id="a-bare-bones-bottom-up-noting-esque-practice-withou" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling):</a>
 
