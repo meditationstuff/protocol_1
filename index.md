@@ -7151,6 +7151,9 @@ Miscellaneous messy scratch notes (added by Mark):
 * cf. “dystonia” and fatigue
 * To prevent out-of-order tension stuff, sort of want eventually whole system sort of “inert” except for whatever’s needed to exhaustively find everything that’s been “left behind,” whether “narrow and deep” or “scattered and diffuse” or anything.
 * From meditating to almost (temporarily) keep meditation from happening wayfinding without forward-ness, without becoming 
+* autonomic functions untangle given bandwidth/priority at the right times
+* key multidimensional non-monotonic heuristics, loosely exhaustive: (a) effortless/&#8203;spontaneous action and (b) “resistanceless”/&#8203;resistance-less experience/awareness
+	* [see also shinzen young and wu wei]
 
 end "misc pith"
 
@@ -14648,7 +14651,8 @@ When safe (or whenever you want, etc.), forget these meditation; you will rememb
 Notes:
 
 * Experimental in the sense that I don't know how people will empirically interact with this such that it works like I hope---essentially coaxing burnoff/&#8203;delayering all the way to the "end," very smoothly. General warnings in main doc still apply.
-
+* "hmm hmm hmm gave this a ponder and a try and there is something subtle here about "can" and "can't" - there are sufferings that maybe can be affected but it's the wrong time right now to affect it, or the amount of effort you would need to put in right now is inappropriate, etc" / "there's a clause maybe about how one might need to be receptive at a given moment even to suffering that "theoretically could" be affected because of practical factors and constraints? / big thing here about people having different "can"s because of frames and agency, I suppose" [https://twitter.com/captain_mrs/status/1713096371094290942 Last accessed: 2023-10-16]
+* "I worry the degree to which the focus is on safety and self-care will over time push people away from nobility (and potentially towards narcissism)" [XX]
 
 [<a href="#178bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
