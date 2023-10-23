@@ -7176,6 +7176,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * autonomic functions untangle given bandwidth/priority at the right times
 * key multidimensional non-monotonic heuristics, loosely exhaustive: (a) effortless/&#8203;spontaneous action and (b) “resistanceless”/&#8203;resistance-less experience/awareness
 	* [see also shinzen young and wu wei]
+* "lack of reference points" https://twitter.com/peak_valley_pea/status/1716500738841452941 [Last accessed: 2023-10-23]
 
 end "misc pith"
 
