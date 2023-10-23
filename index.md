@@ -15985,5 +15985,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Burns, David. Feeling good together: The secret to making troubled relationships work. Random House, 2010.
 * Blanton, Brad. Radical honesty: How to transform your life by telling the truth. Dell, 1996.
 * https://en.wikipedia.org/wiki/Irony [Last accessed: 2023-10-23]
+* What You Might Not Know about Jhāna & Samādhi PUBLIC DRAFT (10 FEB 2022) by Kumāra Bhikkhu 
+* https://www.google.com/search?q=jhana+wars [Last accessed: 2023-10-23]
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
