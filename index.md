@@ -5,6 +5,17 @@
 </center>
 
 
+# <a id="temporary-note-20231023" href="#temporary-note-20231023">temporary note 20231023:</a>
+
+1) I'm getting closer to changing the previous jhana temporary note (immediately below). Less and less credence that "light jhana proper 1-4" is necessary in general or in principle (and especially not "jhanic mastery 1-8") but perhaps it's practically critical for a subset of people; not sure---it would be nice to really clarify that. I do think that people who would benefit a little or a lot from jhana will be drawn to it (in my stuff/&#8203;"framework" e.g. via p2 and the meta protocol, or anything, bottom-up, etc.). I think I hopefully mentioned somewhere that a very long time ago I investigated the first and second jhana, experienced some fizzy exhilaration and then effortless maintenance a couple times and got bored with it. More recently, based on landscape and trajectory, I thought I was maybe about to start spontaneously entering and spending at least, I don't know, one hundred hours, or a month or two, in fairly canonical jhana-esque states, with maybe some gentle inclining from me, but that never really happened except for the initial week or so of "distantly around the edges," and I moved out of that regime. In any case, back down to around 1% credence, as per above (below), but still not zero. That said there's a little bit more nuance to be said around altered states, that is all here in the doc as best I can tell but maybe could be gathered a bit better into one place and slightly clarified. This includes some material that's in what's currently labeled: "appendix 7: jhana and yoga nidra for long covid (and other things) (draft\[...]". If you're interested in jhana, based on skimming, I'm guessing a decent place to start, written-resource-wise, would be "Right Concentration: A Practical Guide to the Jhanas" by Leigh Brasington, but I'm not sure. I think if I were starting now, I would, regardless of my gender, pick one male-ish presenting jhana teacher and one female-ish presenting jhana teacher, and go from there.
+
+2) I think the way I've been using "10,000 hours" is maybe still an underestimate. And my current estimate is now like 17,000-23,000, maybe. That said, I might want to keep 10,000 but increase the right-tailed variance or something a lot more. Just not enough data at this time about what's sort of empirically typical given distribution of bodymindworld structures in the world crossed with the material in this book (book thing). I need to go back over my own timeline and some vague published timelines and some sparse colleague and cohort stuff. And then I have to update all the places I use 10,000 hours. And then hopefully at some point it'll make sense to more carefully collect data over a decade from like 10-100+ people and publish that.
+
+3) Now that this 500k+word thing exists, which will continue to get cleaned up, one of my main interests now is increasingly the relationships between 1) "right view" and 2) nonmonotonicity and 3) minimalism and how to get people the smoothest possible (non-stalling!!!!!) ride with the least intellectual investment. So that is going to be a long-term thing for me and my writing and teaching, maybe. 
+
+\/end temporary note
+
+
 # <a id="temporary-note-20230413" href="#temporary-note-20230413">temporary note 20230413:</a>
 
 Based on some remaining sticky stuff, I have increased my credence a bit (from nearly zero) that 4th jhana might be really important to "go all the way."
@@ -27,7 +38,12 @@ I may add more about this too. I have some investigating to do!
 
 If you have strong opinions about any of this, I'd be interested in hearing from you. Please email me at meditationstuff at gmail dot com.
 
+\*
+
+See updates to this note: <a href="#temporary-note-20231023">temporary note 20231023:</a>
+
 \/end temporary note
+
 
 <span id="byline"></span> **by** Mark D Lippmann and collaborators
 
@@ -160,6 +176,8 @@ Sometimes I revise the anchor links to different sections in the document. When 
 # <span id="11"></span><a id="full-table-of-contents" href="#full-table-of-contents">Full Table of Contents:</a>
 
 * <a id="1h" href="#working-title">working title</a>
+* <a href="#temporary-note-20231023">temporary note 20231023</a>
+* <a href="#temporary-note-20230413">temporary note 20230413</a>
 * <a id="1ah" href="#work-in-progress-note">work-in-progress note</a>
 * <a id="2h" href="#byline">byline</a>
 * <a id="3h" href="#collaborators-and-credits">collaborators and credits</a>
@@ -4324,12 +4342,14 @@ Notes:
 * \[\[\[\[achieving, succeeding\]\]\]\]
 * "&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"fighting"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"
 * "&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"resisting/&#8203;resistance"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"
+* <span id="p3g11"></span>"non-groundlessness" / "thing" / "a 'the thing'" [sic] / "a 'a thing'" [sic] / "&#8203;"&#8203;"&#8203;"attachment"&#8203;"&#8203;"&#8203;" / touchstone / shrine / idol / gimmick / "fetish" / handhold / "objectified reliance" / \["object"] 
+[See: <a href="#158da1a1a">on groundlessness, a brief note</a>]
 
 
 Notes:
 
 * There doesn't have to be any labeling when doing p3. There can just be noticing or recognizing or knowing, including shading into aconceptuality and sensation.
-* The gist or pith of p3 is "leave it alone as best you can," or "drop all voltionality with respect to it as best you can," and maybe it'll usefully self-stabilize a little, or self-change, or self-transform, or self-interact with the things around it.
+* The gist or pith of p3 is "leave it alone as best you can," or "drop all voltionality with respect to it as best you can," and maybe it'll usefully self-stabilize a little, or self-change, or self-transform, or self-interact with the things around it. "keep it company", "hang out with", subtle self-interaction, neither too close nor too far
 * Sometimes p3 can have a top-down flavor, and as much, or more often, or sometimes even almost exclusively, p3 is or can have more of a "self-gathering" or self-offering” type of thing, happening almost entirely bottom-up. The flavor can be very similar to "having insights."
 
 
@@ -10411,6 +10431,11 @@ One might ask, what's the relationship between groundlessness and other things l
 
 Some messy thoughts: Regarding emptiness, I was equivocating a bit, above--is it e.g. "the universe" that participates in groundlessness or, sort of, "one's representation of the universe." I would say "yes, both" in sort of the sense that we only know about "out there" by what we experience "in here," and we might find, over time, that there maybe must be a sense in which anything "out there" must lack essence (and is thus impermanent, non-eternal, interdependent, and radically dependent/&#8203;contingent on causes and conditions), must lack essential nature, and at the same time our representations thereof must indicate provisionality and nebulosity. And there's another sense in which there are no representations and no referents, anywhere--and this ties into luminosity (in the seeing, just the seen; in the hearing, just the heard.) This paragraph is a bit philosophically muddled and it gets some of the arrows wrong. Very compressed, just a confused taste. Bare sensations kind of connect up with all this in that, on the one hand, they're not a "special ontology," they're empty, conceived as such, just like everything else. And they're not really a resting place--we need coffee mugs and cars, not just patches of light and color and blips of sound, or whatever. But on the other hand, they sort of point the way out of "inner space," i.e. sort of a whole bunch of unnecessary, out-of-phase stuff (e.g. some senses of self-ing and thinking) that the bodymind is doing "in here," that is/&#8203;are ultimately optional. (I use scare quotes, "out there," "in here" because ultimately there's no real boundary between "inside" and "outside,"" cf. nonduality, etc.; "In here" is sort of that which untangles and untwists and un-wraps and un-spikes, in participation with the changing of the very being and seeming of the world, and also the musculature, and...) And, bare sensations are sort of the "surfaces that glow," cf. luminosity and sort of that which is one-dimensional or flat manifolds, hanging in "empty(!) space." This is very gestural and maybe not super prominent in experience, cf. normal-ness, naturalness, ordinary-ness, etc. (Thanks to a collaborator for helping to elicit this.))
 
+\*
+
+Notes:
+
+* related p3 <a href="#p3g11">here</a>
 
 [<a href="#158da1a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -15759,7 +15784,6 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Meditation for the Love of It Kempton
 * https://vividness.live/2015/11/27/emptiness-form-and-dzogchen-ethics/ last accessed: 20200413
 * Maté, Gabor. Scattered minds: The origins and healing of attention deficit disorder. Vintage Canada, 2011.
-* Bollas, Christopher. The shadow of the object: Psychoanalysis of the unthought known. Columbia University Press, 1987.
 * Bollas, Christopher, and Sacha Bollas. Catch them before they fall: The psychoanalysis of breakdown. Vol. 978. No. 0-63726. Routledge, 2012.
 * Sidman, Murray. Coercion and its fallout. Boston: Authors Cooperative, 1989.
 * Walker, Pete. Complex PTSD: From surviving to thriving: A guide and map for recovering from childhood trauma. Createspace Independent Pub, 2013.
@@ -15915,6 +15939,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 	* Loevinger, Jane. "Ego Development Jossey-Bass." Inc, San Francisco, CA (1976).
 	* Loevinger, Jane. Technical foundations for measuring ego development: The Washington University sentence completion test. Psychology Press, 1998.
 	* Cook-Greuter, Susanne Regina. Postautonomous ego development: A study of its nature and measurement. Harvard University, 1999.
+	* Cook-Greuter, Susanne R. "Ego development: Nine levels of increasing embrace." Unpublished manuscript (2005).
 	* Measuring Ego Development, Volume 1: Construction and Use of a Sentence Completion Test (The Jossey-Bass Behavioral Science Series) 1st Edition by Jane Loevinger, Ruth Wessler 1970
 	* Measuring Ego Development Vol. Two Scoring Manual for Women and Girls Hardcover – January 1, 1970 by Carolyn Loevinger, Jane; Wessler, Ruth; Redmore
 	* Stinchcombe, Arthur L. When formality works: Authority and abstraction in law and organizations. University of Chicago Press, 2001.
@@ -15947,6 +15972,18 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Kelly, Loch. Shift into freedom: The science and practice of open-hearted awareness. Sounds True, 2015.
 * The Nature of Mind: The Dzogchen Instructions of Aro Yeshe Jungne. Khenchen Sherab, Khenpo Tsewang Dongyal, Patrul Rinpoche. Snow Lion; Illustrated edition (April 26, 2016) ISBN-10 1559394498 ISBN-13 978-1559394499 [ht N]
 * Rinpoche, Tulku Urgyen. As It Is, Volumes I and II: Essential Teachings from the Dzogchen Perspective. Vols. 1 and 2. Rangjung Yeshe Publications, 2004.
-
+* Jinpa, Thupten. Self, reality and reason in Tibetan philosophy: Tsongkhapa's quest for the middle way. No. 18. Psychology Press, 2002.
+* https://www.lotsawahouse.org/tibetan-masters/mipham/lamp-to-dispel-darkness [Last accessed: 2023-10-23]
+* Dreyfus, Hubert L. Being-in-the-world: A commentary on Heidegger's being in time, Division I. Vol. 1. Mit Press, 1990.
+* Freeden, Michael. Concealed silences and inaudible voices in political thinking. Oxford University Press, 2022.
+* Shah, Dhwani. "The Analyst's Torment: Unbearable Mental States in Countertransference." The Analyst's Torment (2022): 1-212.
+* Spotnitz, Hyman. Psychotherapy of preoedipal conditions: Schizophrenia and severe character disorders. Jason Aronson, Incorporated, 1995.
+* Gabbard, Glen O., and Sallye M. Wilkinson. Management of countertransference with borderline patients. Jason Aronson, 2000.
+* Bollas, Christopher. The shadow of the object: Psychoanalysis of the unthought known. Columbia University Press, 1987.
+* Reik, Theodor. Listening with the third ear. Macmillan, 1983.
+* Levine, Howard B., Gail S. Reed, and Dominique Scarfone, eds. Unrepresented states and the construction of meaning: Clinical and theoretical contributions. Routledge, 2018.
+* Burns, David. Feeling good together: The secret to making troubled relationships work. Random House, 2010.
+* Blanton, Brad. Radical honesty: How to transform your life by telling the truth. Dell, 1996.
+* https://en.wikipedia.org/wiki/Irony [Last accessed: 2023-10-23]
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
