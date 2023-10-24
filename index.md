@@ -13,6 +13,10 @@
 
 3) Now that this 500k+word thing exists, which will continue to get cleaned up, one of my main interests now is increasingly the relationships between 1) "right view" and 2) nonmonotonicity and 3) minimalism and how to get people the smoothest possible (non-stalling!!!!!) ride with the least intellectual investment. So that is going to be a long-term thing for me and my writing and teaching, maybe. 
 
+\*
+
+Update 20231024: Possibly clarifying in general: "I don't teach or practice jhana, and I mostly don't refer to primary source suttas, but I have HUGE respect for original systematic technical jargon and translations. This is cool: WHAT YOU MIGHT NOT KNOW ABOUT JHĀNA & SAMĀDHI PUBLIC DRAFT (10 FEB 2022)" "What You Might Not Know about Jhāna & Samādhi (PUBLIC DRAFT).pdf" https://drive.google.com/file/d/1gT1rCJ3K4Hk_1cOAVi0CO6TSRLbvzcuX/ [Last accessed: 2023-10-24]  https://twitter.com/meditationstuff/status/1716851001423016257 
+
 \/end temporary note
 
 
@@ -801,6 +805,7 @@ Notes:
 * "If something feels wrong then something is wrong somehow, somewhere, maybe it itself, somehow, or maybe something else."
 * "[...] sure, could be you, or "part of you [could be confused or lost in the past]; or acutely sensitive to a really real and important thing, even if not handled super constructively, or it's fine]" or multiple things, or nebulously some of or all the things or 'no things,' but something is wrong, somewhere, and if you're not ok with that then you're not ok with that [that's the sense of "wrongness," here--something, somehow, somewhere, is nebulously unacceptable, at least currently; and that's just that--self-evident--modulo fluidity and flux, but it's not not until it is/&#8203;not.]"
 * "If it feels wrong in any way then it is wrong in some way" https://twitter.com/captain_mrs/status/1476478905838149633
+* "I'd say the converse holds too: //// Something like "if it feels attractive in any way it is attractive in some way" //// "I say attractive here rather than right, because using right feels too open to interpretations that "feel wrong in some way" to me 😅 ///// But right can work too." https://x.com/phantom_opus/status/1477749936938749956 https://twitter.com/phantom_opus/status/1477750423960367105
 
 [<a href="#18h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
