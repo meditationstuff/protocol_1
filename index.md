@@ -64,6 +64,16 @@ See updates to this note: <a href="#temporary-note-20231023">temporary note 2023
 SEE ALSO: <a href="#closely-related-external-resources">closely related external resources</a>  
 [this note is repeated in like three places])
 
+(ANOTHER NOTE: I've tried to assemble a "popular introduction or alternative" to my stuff, comprised of books by other people. Some of these books I haven't read, but they seem to get at the vibe or spirit of what I'm going for in this big document. I will disagree with lots of what's in them or even think they're almost net-misleading, but also they're pointing vaguely in the direction that I'm trying to point, like vaguely in the direction of the "'deepest', most important stuff, and collectively, comprehensively so":
+
+* Slingerland, Edward. **Trying not to try**: Ancient China, modern science, and the power of spontaneity. Crown, 2015. \[Mark comment: my whole deal, which asymptotically includes most of all buddhist attainments may exactly equivalent to the asymptotic "perfection" of wu wei. not sure yet.]
+* Siff, Jason. **Unlearning meditation**: What to do when the instructions get in the way. Shambhala Publications, 2010.
+* Burns, David. **Feeling good together**: The secret to making troubled relationships work. Random House, 2010. \[Mark comment: subtly hyperanalytical and brilliant, though imperfect. I don't recommend any of other Burns' stuff, fwiw.]
+* Grant, Adam. **Give and take**: A revolutionary approach to success. Penguin, 2013. \[Mark comment: cf. buddhist "interdependence"]
+* Kay, John, and Shiva Kumar Srinivasan. "**Obliquity**: Why Our Goals are Best Achieved Indirectly."
+ \[Mark comment: cf. meditation as as-needed maximally indirect ultimately-concrete problem-solving]
+* Wilber, Ken. **The religion of tomorrow**: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017. \[maybe very overly-reifying and I'm aware there's a ton of Wilber-criticism])
+
 <span id="who-is-this-document-for"></span> **Who is this document for?**
 
 This document is for people are curious about, serious about (and anything in between) *very long-term, goal-oriented meditation*, as in years and a lifetime. (And "goal-oriented" includes "no goal" and/or radical, self-determined, open-ended provisionality!) 
@@ -7183,6 +7193,8 @@ Miscellaneous messy scratch notes (added by Mark):
 	* [see also shinzen young and wu wei]
 	* cf. "total surrender" \[cf. safety]
 * "lack of reference points" https://twitter.com/peak_valley_pea/status/1716500738841452941 [Last accessed: 2023-10-23]
+* "I didn't know it could be that good, and it's too late or now impossible for that for me."
+* 'Maybe, gently: Try to temporarily treat other parts of you as "completely drained of *your* volition." Disclaimed (and eventually reclaimed) volitionality. And then you can only make suggestions, requests, ask question, etc., across an "interface" presented by that "part."' https://twitter.com/meditationstuff/status/1360399334068674562 
 
 end "misc pith"
 
@@ -15993,6 +16005,14 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Blanton, Brad. Radical honesty: How to transform your life by telling the truth. Dell, 1996.
 * https://en.wikipedia.org/wiki/Irony [Last accessed: 2023-10-23]
 * What You Might Not Know about Jhāna & Samādhi PUBLIC DRAFT (10 FEB 2022) by Kumāra Bhikkhu 
+* Becoming One and Being Without Self: The Practice of Samadhi & Dhyana in Zen Buddhism by Jeff Shore
 * https://www.google.com/search?q=jhana+wars [Last accessed: 2023-10-23]
+* From the quick start guide section; some repeats with other bibliography entries above:
+	* Slingerland, Edward. Trying not to try: Ancient China, modern science, and the power of spontaneity. Crown, 2015. [Mark comment: my whole deal, which asymptotically includes most of all buddhist attainments may exactly equivalent to the asymptotic "perfection" of wu wei. not sure yet.]
+	* Siff, Jason. Unlearning meditation: What to do when the instructions get in the way. Shambhala Publications, 2010.
+	* Burns, David. Feeling good together: The secret to making troubled relationships work. Random House, 2010. [Mark comment: subtly hyperanalytical and brilliant, though imperfect. I don't recommend any of other Burns' stuff, fwiw.]
+	* Grant, Adam. Give and take: A revolutionary approach to success. Penguin, 2013. [Mark comment: cf. buddhist "interdependence"]
+	* Kay, John, and Shiva Kumar Srinivasan. "Obliquity: Why Our Goals are Best Achieved Indirectly." [Mark comment: cf. meditation as as-needed maximally indirect ultimately-concrete problem-solving]
+	* Wilber, Ken. The religion of tomorrow: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017. [maybe very overly-reifying and I'm aware there's a ton of Wilber-criticism])
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
