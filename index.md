@@ -66,7 +66,7 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
 
 (ANOTHER NOTE: I've tried to assemble a "popular introduction or alternative" to my stuff, comprised of books by other people. Some of these books I haven't read, but they seem to get at the vibe or spirit of what I'm going for in this big document. I will disagree with lots of what's in them or even think they're almost net-misleading, but also they're pointing vaguely in the direction that I'm trying to point, like vaguely in the direction of the "'deepest', most important stuff, and collectively, comprehensively so":
 
-* Slingerland, Edward. **Trying not to try**: Ancient China, modern science, and the power of spontaneity. Crown, 2015. \[Mark comment: my whole deal, which asymptotically includes most of all buddhist attainments may exactly equivalent to the asymptotic "perfection" of wu wei. not sure yet.]
+* Slingerland, Edward. **Trying not to try**: Ancient China, modern science, and the power of spontaneity. Crown, 2015. \[Mark comment: I haven't read this, and I don't know if Slingerland is a meditative practitioner, so this may be too wordy and totally miss the point, BUT my whole deal, which asymptotically includes many of the early and tibetan buddhist classical attainments, may also be exactly equivalent to the asymptotic "perfection" of wu wei. not sure yet, but it's sure looking like it at the time of this writing]
 * Siff, Jason. **Unlearning meditation**: What to do when the instructions get in the way. Shambhala Publications, 2010.
 * Burns, David. **Feeling good together**: The secret to making troubled relationships work. Random House, 2010. \[Mark comment: subtly hyperanalytical and brilliant, though imperfect. I don't recommend any of other Burns' stuff, fwiw.]
 * Grant, Adam. **Give and take**: A revolutionary approach to success. Penguin, 2013. \[Mark comment: cf. buddhist "interdependence"]
@@ -16008,11 +16008,11 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Becoming One and Being Without Self: The Practice of Samadhi & Dhyana in Zen Buddhism by Jeff Shore
 * https://www.google.com/search?q=jhana+wars [Last accessed: 2023-10-23]
 * From the quick start guide section; some repeats with other bibliography entries above:
-	* Slingerland, Edward. Trying not to try: Ancient China, modern science, and the power of spontaneity. Crown, 2015. [Mark comment: my whole deal, which asymptotically includes most of all buddhist attainments may exactly equivalent to the asymptotic "perfection" of wu wei. not sure yet.]
+	* Slingerland, Edward. Trying not to try: Ancient China, modern science, and the power of spontaneity. Crown, 2015.
 	* Siff, Jason. Unlearning meditation: What to do when the instructions get in the way. Shambhala Publications, 2010.
-	* Burns, David. Feeling good together: The secret to making troubled relationships work. Random House, 2010. [Mark comment: subtly hyperanalytical and brilliant, though imperfect. I don't recommend any of other Burns' stuff, fwiw.]
-	* Grant, Adam. Give and take: A revolutionary approach to success. Penguin, 2013. [Mark comment: cf. buddhist "interdependence"]
-	* Kay, John, and Shiva Kumar Srinivasan. "Obliquity: Why Our Goals are Best Achieved Indirectly." [Mark comment: cf. meditation as as-needed maximally indirect ultimately-concrete problem-solving]
-	* Wilber, Ken. The religion of tomorrow: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017. [maybe very overly-reifying and I'm aware there's a ton of Wilber-criticism])
+	* Burns, David. Feeling good together: The secret to making troubled relationships work. Random House, 2010.
+	* Grant, Adam. Give and take: A revolutionary approach to success. Penguin, 2013.
+	* Kay, John, and Shiva Kumar Srinivasan. "Obliquity: Why Our Goals are Best Achieved Indirectly."
+	* Wilber, Ken. The religion of tomorrow: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017.
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
