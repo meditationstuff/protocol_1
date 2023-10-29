@@ -298,6 +298,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a18h" href="#p29">p29 (stub/&#8203;scratch)</a>
 					* <a id="109a19h" href="#p30">p30 (stub)</a>
 					* <a id="109a20h" href="#p31">p31 (draft)</a>
+					* <a id="109a21h" href="#p32">p32</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5328,6 +5329,18 @@ this is for (finally) working through that (maybe) (pernicious) have to do somet
 [<a href="#109a20h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
+# <a id="p32" href="#p32">p32:</a>
+
+Release effort / Release "I-fort" ; puzzle-solve safe-all-the-way-down-and-global effortlessness.
+
+Notes:
+
+* (cf. wu wei)
+* Related: https://x.com/meditationstuff/status/1718224443762266616 (bonkers, sloppy tweet, but, etc.)
+	* 'I’m starting to get a little suspicious that Taoism might be low key the strictly superior product but Buddhism has both extensive technical manuals and better marketing. Buddhism sells the problem and then the solution and Taoism is just like “It’s useless ¯\\\_(ツ)\_/¯"'
+
+
+[<a href="#109a21h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
