@@ -5337,8 +5337,11 @@ Notes:
 
 * (cf. wu wei)
 	* inexertion, inaction, non-doing, non-action, no doing, non-striving, non-forcing, non-strength-of-will-ing, non-willpower-ing, non-efforting, effortless action, spontaneous action...
+	* See also: “Just sit” / “Don’t (intellectually) solve anything”
+	* perhaps vaguely Shikantaza (but very minus any extreme will, diligence, etc.) 
 * Related: https://x.com/meditationstuff/status/1718224443762266616 (bonkers, sloppy tweet, but, etc.)
 	* 'I’m starting to get a little suspicious that Taoism might be low key the strictly superior product but Buddhism has both extensive technical manuals and better marketing. Buddhism sells the problem and then the solution and Taoism is just like “It’s useless ¯\\\_(ツ)\_/¯"'
+
 
 
 [<a href="#109a21h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
