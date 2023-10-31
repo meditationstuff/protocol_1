@@ -5337,6 +5337,7 @@ Notes:
 
 * (cf. wu wei)
 	* inexertion, inaction, non-doing, non-action, no doing, non-striving, non-forcing, non-strength-of-will-ing, non-willpower-ing, non-efforting, effortless action, spontaneous action...
+	* non-thinking, non-solving, non-intellectualizing, no "problem-solving-pressure"
 	* See also: “Just sit” / “Don’t (intellectually) solve anything”
 	* perhaps vaguely Shikantaza (but very minus any extreme will, diligence, etc.) 
 * Related: https://x.com/meditationstuff/status/1718224443762266616 (bonkers, sloppy tweet, but, etc.)
@@ -7212,6 +7213,30 @@ Miscellaneous messy scratch notes (added by Mark):
 * "lack of reference points" https://twitter.com/peak_valley_pea/status/1716500738841452941 [Last accessed: 2023-10-23]
 * "I didn't know it could be that good, and it's too late or now impossible for that for me."
 * 'Maybe, gently: Try to temporarily treat other parts of you as "completely drained of *your* volition." Disclaimed (and eventually reclaimed) volitionality. And then you can only make suggestions, requests, ask question, etc., across an "interface" presented by that "part."' https://twitter.com/meditationstuff/status/1360399334068674562 
+* interdependence scratch notes:
+	* Objects driven by world not self (nor other injected if it’s their self object)  
+	* Indulgence
+	* Narcissism
+	* Self-indulgent or interdependent?
+	* “Having a thing” interfering with interdependence
+	* Sort of “finish” or “complete”spending time on yourself and then attention and time outward doesn’t cost anything, sort of.
+	* Plus love as solving puzzle of giving to get, and giving without dissolution.
+	* Radical understanding of embeddedness all the way down produces new total life solutions
+	* Reality sort of refactors as self unravels and reravels to afford this
+	* interpersonal interdependence buddhism for westerners book
+* flawed pith instructions draft:  
+	* Get out of the way
+	* Let yourself be moved
+	* Allow spontaneous effort
+	* Help yourself out/help out the body (e.g. yawn, sigh, stretch)
+	* Monitor/&#8203;choose \[active] safety
+	* Choose/&#8203;allow effortlessness
+	* Choose/&#8203;allow surrender
+	* Choose/&#8203;allow receptivity
+	* Allow/&#8203;\[surrender to] reverie
+	* Suffer, enjoy, try to enjoy any suffering
+	* Surrender unto death, worthlessness / what would it mean if you were not the most important thing? De-centering without devaluing / you are not the most important thing you are.
+	* Don’t try to achieve, to accumulate, succeed, \[sic]
 
 end "misc pith"
 
