@@ -5343,6 +5343,9 @@ Notes:
 * Related: https://x.com/meditationstuff/status/1718224443762266616 (bonkers, sloppy tweet, but, etc.)
 	* 'I’m starting to get a little suspicious that Taoism might be low key the strictly superior product but Buddhism has both extensive technical manuals and better marketing. Buddhism sells the problem and then the solution and Taoism is just like “It’s useless ¯\\\_(ツ)\_/¯"'
 
+Related / see also:
+
+* Awbery, Charlie. Opening Awareness: A guide to finding vividness in spacious clarity. Evolving Ground Ltd, 2023.
 
 
 [<a href="#109a21h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -7237,6 +7240,9 @@ Miscellaneous messy scratch notes (added by Mark):
 	* Suffer, enjoy, try to enjoy any suffering
 	* Surrender unto death, worthlessness / what would it mean if you were not the most important thing? De-centering without devaluing / you are not the most important thing you are.
 	* Don’t try to achieve, to accumulate, succeed, \[sic]
+* Fighting that the entire world is just this here and now
+* Problems with keeping track of fantasy places in same manner as “real” places
+* effective "arbitrariness" vs "rigid ego"
 
 end "misc pith"
 
@@ -16056,5 +16062,9 @@ In some ways the document might have the implicit premise of "thinking and rigor
 	* Grant, Adam. Give and take: A revolutionary approach to success. Penguin, 2013.
 	* Kay, John, and Shiva Kumar Srinivasan. "Obliquity: Why Our Goals are Best Achieved Indirectly."
 	* Wilber, Ken. The religion of tomorrow: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017.
+* Freeden, Michael. Concealed silences and inaudible voices in political thinking. Oxford University Press, 2022.
+* Billias, Nancy, and Sivaram Vemuri. The Ethics of Silence: An Interdisciplinary Case Analysis Approach. Springer, 2017.
+* Rogers, Annie G. The unsayable: The hidden language of trauma. Random House Incorporated, 2006.
+* Awbery, Charlie. Opening Awareness: A guide to finding vividness in spacious clarity. Evolving Ground Ltd, 2023.
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
