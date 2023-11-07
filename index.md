@@ -5347,6 +5347,16 @@ Related / see also:
 
 * Awbery, Charlie. Opening Awareness: A guide to finding vividness in spacious clarity. Evolving Ground Ltd, 2023.
 
+Notes:
+
+* cf. rhetoric around "ego" and "all problem caused by the ego" and "ego is the enemy" and "rigid ego" and "'big ego' in a bad way" type stuff (including or esp. wrt to interpersonal stuff and "problems in the world")
+	* cf. maybe: Trungpa, Chogyam. Cutting through spiritual materialism. Shambhala Publications, 2002., all caveats, etc.
+	* more here...
+* cf. Tillich's ~"What is of ultimate concern?" via Ken Wilber, all caveats, etc.
+* cf. problematic misconceptions of "no-self" vs also I-I type stuff, via Ken Wilber, all caveats, etc.
+* cf. overlap and not ego in the sense of Loevinger, Cook-Greuter, etc., and "spiritual cross training" via Ken Wilber, all caveats, etc.
+	* also: Wilber, Ken. The Religion of Tomorrow: A Vision for the Future of the Great Traditions-More Inclusive, More Comprehensive, More Complete. Shambhala Publications, 2017., all caveats, etc.
+
 
 [<a href="#109a21h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
