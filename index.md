@@ -514,6 +514,10 @@ Sometimes I revise the anchor links to different sections in the document. When 
 * <a id="199h" href="#appendix-6-death-larps">appendix 6: death LARPs</a>
 * <a id="200h" href="#appendix-7-jhana-for-long-covid">appendix 7: jhana and yoga nidra for long covid (and other things) (draft, experimental)</a>
 * <a id="201h" href="#appendix-8-health-larps">appendix 8: acute and chronic ill-health LARPs</a>
+* <a id="202h" href="#appendix-9-gricean-yin-yang-analysis">appendix 9: gricean and yin-yang analysis</a>
+* <a id="203h" href="#appendix-10-communicating-feelings">appendix 10: communicating feelings (spicy) (draft)</a>
+* <a id="204h" href="#appendix-11-language-causal-body">appendix 11: language and the "causal body" (scratch; draft)</a>
+* <a id="205h" href="#appendix-12-language-and-perspective-taking">appendix 12: language and perspective taking (scratch; draft)</a>
 
 <!-- When slugs or section titles change, thereby indicating a slug change, add a span in front of the new <a...>/link with the old id/slug, thereby preserving deep/anchor links out in the wild or wherever. -->
 
@@ -5356,6 +5360,7 @@ Notes:
 * cf. problematic misconceptions of "no-self" vs also I-I type stuff, via Ken Wilber, all caveats, etc.
 * cf. overlap and not ego in the sense of Loevinger, Cook-Greuter, etc., and "spiritual cross training" via Ken Wilber, all caveats, etc.
 	* also: Wilber, Ken. The Religion of Tomorrow: A Vision for the Future of the Great Traditions-More Inclusive, More Comprehensive, More Complete. Shambhala Publications, 2017., all caveats, etc.
+* draft/&#8203;scratch note; ignore maybe: compare with e.g. (and other things) "choiceless awareness" which could be sort of thought of as "reducing friction" and letting awareness continguously move/&#8203;untwist/&#8203;reconfigure whereas this is choosing/&#8203;allowing/&#8203;surrendering/&#8203;... with respect to sense of effort/&#8203"I-fort"
 
 
 [<a href="#109a21h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
@@ -7253,6 +7258,8 @@ Miscellaneous messy scratch notes (added by Mark):
 * Fighting that the entire world is just this here and now
 * Problems with keeping track of fantasy places in same manner as “real” places
 * effective "arbitrariness" vs "rigid ego"
+* (concern of absence or lack or missing something being a presence as such which now or eventually, directly or indirectly can be engaged with, etc.)
+* not exactly re \[...]: concern about lack or self-harm is a phenomenological presence as such which can [not always immediately] be interacted with directly or or indirectly. sovereignity-in-interdependence
 
 end "misc pith"
 
@@ -16075,6 +16082,12 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Freeden, Michael. Concealed silences and inaudible voices in political thinking. Oxford University Press, 2022.
 * Billias, Nancy, and Sivaram Vemuri. The Ethics of Silence: An Interdisciplinary Case Analysis Approach. Springer, 2017.
 * Rogers, Annie G. The unsayable: The hidden language of trauma. Random House Incorporated, 2006.
+* Bandler, Richard, and John Grinder. The structure of magic. Vol. 1. Palo Alto, CA: Science and Behavior Books, 1975.
 * Awbery, Charlie. Opening Awareness: A guide to finding vividness in spacious clarity. Evolving Ground Ltd, 2023.
+* Guskin, Harold. How to stop acting. Macmillan, 2003.
+* Johnstone, Keith. Impro: Improvisation and the theatre. Routledge, 2012.
+* Wile, Daniel B. After the fight: Using your disagreements to build a stronger relationship. Guilford Press, 1995.
+* Wile, Daniel B. "After the honeymoon: How conflict can improve your relationship." (1988).
+
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
