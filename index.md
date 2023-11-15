@@ -5279,6 +5279,7 @@ scratch:
 * """""\~perfect subjective object"""""
 * ~volitionlessness \[also not quite right] / ~"not trying to fight it"
 * perfect subject / patient \[in a sense of being acted upon]
+* ~"resistanceless”/&#8203;resistance-less" \[see: <a href=#mp4u5yu>misc pith</a>]
 
 Notes:
 
@@ -7225,7 +7226,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * To prevent out-of-order tension stuff, sort of want eventually whole system sort of “inert” except for whatever’s needed to exhaustively find everything that’s been “left behind,” whether “narrow and deep” or “scattered and diffuse” or anything.
 * From meditating to almost (temporarily) keep meditation from happening wayfinding without forward-ness, without becoming 
 * autonomic functions untangle given bandwidth/priority at the right times
-* key multidimensional non-monotonic heuristics, loosely exhaustive: (a) effortless/&#8203;spontaneous action and (b) “resistanceless”/&#8203;resistance-less experience/awareness
+* <span id="mp4u5yu"></span>key multidimensional non-monotonic heuristics, loosely exhaustive: (a) effortless/&#8203;spontaneous action and (b) “resistanceless”/&#8203;resistance-less experience/awareness
 	* [see also shinzen young and wu wei]
 	* cf. "total surrender" \[cf. safety]
 * "lack of reference points" https://twitter.com/peak_valley_pea/status/1716500738841452941 [Last accessed: 2023-10-23]
