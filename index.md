@@ -7229,6 +7229,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * <span id="mp4u5yu"></span>key multidimensional non-monotonic heuristics, loosely exhaustive: (a) effortless/&#8203;spontaneous action and (b) “resistanceless”/&#8203;resistance-less experience/awareness
 	* [see also shinzen young and wu wei]
 	* cf. "total surrender" \[cf. safety]
+	* "effortlessness" and "resistancelessness"
 * "lack of reference points" https://twitter.com/peak_valley_pea/status/1716500738841452941 [Last accessed: 2023-10-23]
 * "I didn't know it could be that good, and it's too late or now impossible for that for me."
 * 'Maybe, gently: Try to temporarily treat other parts of you as "completely drained of *your* volition." Disclaimed (and eventually reclaimed) volitionality. And then you can only make suggestions, requests, ask question, etc., across an "interface" presented by that "part."' https://twitter.com/meditationstuff/status/1360399334068674562 
