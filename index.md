@@ -14820,7 +14820,7 @@ See also:
 Sort of in this genre:
 
 * Some things in here: A Cascading Waterfall of Nectar, Thinley Norbu Rinpoche
-	* From The Specially Requested Sutra (and what it's embedded in)
+	* From The Specially Requested Sutra (and what it's embedded in )
 * https://twitter.com/PoemsWeBurned/status/1727547819509113044
 
 [<a href="#178ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
