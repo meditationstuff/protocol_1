@@ -5281,6 +5281,7 @@ scratch:
 * ~volitionlessness \[also not quite right] / ~"not trying to fight it"
 * perfect subject / patient \[in a sense of being acted upon]
 * ~"resistanceless”/&#8203;resistance-less" \[see: <a href=#mp4u5yu>misc pith</a>]
+* <a href="#advanced-or-whatever-pith">"advanced" (or whatever) pith instructions (work in progress)</a>
 
 Notes:
 
@@ -7267,6 +7268,7 @@ Miscellaneous messy scratch notes (added by Mark):
 	* [see also shinzen young and wu wei]
 	* cf. "total surrender" \[cf. safety]
 	* "effortlessness" and "resistancelessness"
+	* <a href="#advanced-or-whatever-pith">"advanced" (or whatever) pith instructions (work in progress)</a>
 * "lack of reference points" https://twitter.com/peak_valley_pea/status/1716500738841452941 [Last accessed: 2023-10-23]
 * "I didn't know it could be that good, and it's too late or now impossible for that for me."
 * 'Maybe, gently: Try to temporarily treat other parts of you as "completely drained of *your* volition." Disclaimed (and eventually reclaimed) volitionality. And then you can only make suggestions, requests, ask question, etc., across an "interface" presented by that "part."' https://twitter.com/meditationstuff/status/1360399334068674562 
@@ -14817,6 +14819,8 @@ No mind whatsoever, no becoming whatsoever (but can get back?? if willing/&#8203
 [no vigilance, no seeking, no self-reflection, no self-preservation whatsoever][and yet. say paradox? ]  
 \[...]and selflessness used idiosyncratically and sort of literally  
 
+but yes reverie, not reverielessness! and yes dreams/&#8203;dreaminess, not dreamlessness
+
 \*
 
 See also:
@@ -14826,6 +14830,7 @@ Sort of in this genre (lots, I think):
 * e.g. some things in here: A Cascading Waterfall of Nectar, Thinley Norbu Rinpoche
 	* "From The Specially Requested Sutra" (and what it's embedded in / above)
 * https://twitter.com/PoemsWeBurned/status/1727547819509113044
+* ~"resistanceless”/&#8203;resistance-less" \[see: <a href=#mp4u5yu>misc pith</a>]
 
 [<a href="#178ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
