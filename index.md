@@ -482,6 +482,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="178h" href="#pith-instructions-experimental">pith instructions (experimental)</a>
 		* <a id="178ah" href="#more-compressed-pith-instructions">more compressed pith instructions</a>
 		* <a id="178bh" href="#yet-another-pith-instruction-formulation">yet another pith instruction formulation (experimental)</a>
+		* <a id="178ch" href="#advanced-or-whatever-pith">"advanced" (or whatever) pith instructions (work in progress)</a>
 		* <a id="179h" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
 	* <a id="180h" href="#embodied-learning">embodied learning</a>
 		* <a id="181h" href="#technical-debt-meditation-and-minds">technical debt, meditation, and minds</a>
@@ -5351,6 +5352,7 @@ Notes:
 Related / see also:
 
 * Awbery, Charlie. Opening Awareness: A guide to finding vividness in spacious clarity. Evolving Ground Ltd, 2023.
+* <a href="#advanced-or-whatever-pith">"advanced" (or whatever) pith instructions (work in progress)</a>
 
 Notes:
 
@@ -7051,6 +7053,37 @@ for they are already enduring it.
 [<a href="#144h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="145"></span><a id="nutrition" href="#nutrition">nutrition:</a>
+
+Latest update heh 20231123:
+
+https://twitter.com/meditationstuff/status/1727683530128322840
+
+I’m sort of MAYBE first-pass self-convinced now that 3 square meals a day is bad & ppl are meant to alternate FEAST-maxx (as many meals as it takes to fill tanks) & FAST-maxx. Key piece is normal diet doesn’t have enough B vitamins & electrolytes+&#8203;minerals to do it. Maybe.
+
+I am sort of late to the party because it’s taken me this long to solve to solve my fasting intolerance. In my defense masterjohn is on another level and it took him a very long time to solve his deal.
+
+> how do you get your electrolytes and minerals?
+
+LMNT and brain forza super fast and magnesium and algae/&#8203;d3/&#8203;k2 calcium and oatmeal and orange juice and dehydrated sweet potato and dehydrated fruit and a bit of vegetables
+
+And like a partial dose of a kresser style multivitamin that goes over the USA rda
+
+To taste/&#8203;tolerance for all of this
+
+Cronometer synergizes well with intuition if ignore suggested amounts of everything and use as intuition pump
+
+And unfortified gluten-free brewers yeast
+Mark
+
+squash/&#8203;zucchini for even more potassium
+
+And high-quality marine collagen
+
+\[...]
+
+It seems like nutrient replete fasting might be the body’s least stressed state
+
+\*
 
 [Note 20230416: This section is maybe pretty deprecated. For example, I'm a much bigger fan of well-formulated multivitamins and smaller, more frequent meals (under some conditions) than I used to be.]
 
@@ -14769,13 +14802,36 @@ Notes:
 
 [<a href="#178bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="advanced-or-whatever-pith" href="#advanced-or-whatever-pith">"advanced" (or whatever) pith instructions (work in progress):</a>
+
+Effortlessness, resistancelessness, unknowableness, safety  
+(ego and goal(s))  
+[goallessness, selflessness]  
+[knowinglessness, knowledgelessness, ditto understanding cf. figuring out][blankness, "deadness", [even no emptiness anywhere, no one left alive, yet luminosity, vividness, wonder?????]  
+\[uncontrollability, uncausability]\[yet tremendous agency, figuring out, self-preservation, nothing left undone]  
+No mind whatsoever, no becoming whatsoever (but can get back?? if willing/&#8203;able to give up completely?)[not blankness but nonregistration, no grasping, like a vivid mirror with no understanding or recognition whatsoever]  
+[no vigilance, no seeking, no self-reflection, no self-preservation whatsoever][and yet. say paradox? ]  
+\[...]and selflessness used idiosyncratically and sort of literally  
+
+\*
+
+See also:
+
+Sort of in this genre:
+
+* Some things in here: A Cascading Waterfall of Nectar, Thinley Norbu Rinpoche
+	* From The Specially Requested Sutra (and what it's embedded in)
+* https://twitter.com/PoemsWeBurned/status/1727547819509113044
+
+[<a href="#178ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 # <span id="179"></span><a id="a-bare-bones-bottom-up-noting-esque-practice-withou" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling):</a>
 
 * Participate, tinker, experiment, allow (simultaneously and continuously sequentially):
 	* Deliberately (lightly, minimally) attend (or pay attention) to things or raw sensations as such
 	* Effortlessly allow yourself to passively notice whatever you (happen to passively) notice or are noticing
 	* Let go, take a break, daydream, be lost in thought, be lost in memory, be in reverie, forget
-	* Find/realize yourself doing or experiencing whatever you find yourself to be ([just] now already [have been]) doing or experiencing
+	* Find/&#8203;realize yourself doing or experiencing whatever you find yourself to be ([just] now already [have been]) doing or experiencing
 		* (Do the above [finding/realizing] minimally, barely there, liminally--back off, let it [the doing or experiencing] be, let it maybe undo itself, let it maybe release [itself].)
 	* (Usually but nothing always, neither encourage nor suppress language/language-ing)
 	* (Sit, stand, lay down, readjust)
