@@ -7062,6 +7062,10 @@ I’m sort of MAYBE first-pass self-convinced now that 3 square meals a day is b
 
 I am sort of late to the party because it’s taken me this long to solve to solve my fasting intolerance. In my defense masterjohn is on another level and it took him a very long time to solve his deal.
 
+\[Tbc by feasting I mean eat like it’s your job for 1.5\[or 0.75]-4.0 days.]
+
+\[tbc tbc once in ballpark listen to one's body re starting and stopping feasting/&#8203;fasting regimes]
+
 > how do you get your electrolytes and minerals?
 
 LMNT and brain forza super fast and magnesium and algae/&#8203;d3/&#8203;k2 calcium and oatmeal and orange juice and dehydrated sweet potato and dehydrated fruit and a bit of vegetables
@@ -14817,10 +14821,10 @@ No mind whatsoever, no becoming whatsoever (but can get back?? if willing/&#8203
 
 See also:
 
-Sort of in this genre:
+Sort of in this genre (lots, I think):
 
-* Some things in here: A Cascading Waterfall of Nectar, Thinley Norbu Rinpoche
-	* From The Specially Requested Sutra (and what it's embedded in )
+* e.g. some things in here: A Cascading Waterfall of Nectar, Thinley Norbu Rinpoche
+	* "From The Specially Requested Sutra" (and what it's embedded in / above)
 * https://twitter.com/PoemsWeBurned/status/1727547819509113044
 
 [<a href="#178ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
