@@ -4741,7 +4741,7 @@ If you find that the concreteness is "too much detail" in that you "don’t care
 
 You might find you can’t do parts of this or can’t do any of it at all. You might be blocked or cut off or cut out. This might be because you have the experience of being not allowed, or too selfish, or what you want is too childish, impossible, immoral, evil, pathetic, hurtful, dangerous, too hard, to risky, imaginary, a fantasy.
 
-If that’s the case, just do the best you can. You might try, for each objection, to see if you can correct or handle that objection. If you cannot, just let it go for now; choose another practice and come back later, as with all the practices. Here you can also mix in practice [p2], the willing/doing practice.
+If that’s the case, just do the best you can. You might try, for each objection, to see if you can correct or handle that objection. If you cannot, just let it go for now; choose another practice and come back later, as with all the practices. Here you can also mix in practice [p2], the willing/&#8203;doing practice.
 
 Finally, all the above is the canonical, main practice. And/but, you can also try similar things with "the rest of the day," e.g. when you wake up you can concretely explore your ideal rest of the day. You can do something similar for "tomorrow" and finally "goals" and "milestones" if those sorts of things are in your felt ontology.
 
@@ -4751,6 +4751,11 @@ A collaborator also suggests:
 
 How is this day already perfect? How might you look back on this as already perfect in many years' time?
 
+\*
+
+And/&#8203;or/&#8203;similarly/&#8203;additionally, especially for interpersonal interactions:
+
+What are your radically concretely particular "raw" "bare" "immediate" "sensory-level" sensation-desires (not to reify any of the previous) with respect to, say, ideal interpersonal interaction and scenarios (intimacy, sex, friendship, ...) --- so, e.g. sight and sound and so on? What's desired, undesired, critically avoided, don't-care? These are shaped-and vice versa by the attendant implications, expectations, what-would-happen-next, nth-order consequences and effects along all dimensions, of those would-be (or happened once perhaps in part and hopefully again, thin or thick slices of possibility) and so on. So let there be an interplay between the imaginatively/&#8203;experientially concrete, and next, and the abstract, as you explore that imaginative sensory stuff that you want (and don't want, and etc.), that perhaps you ideally really truly want to realize, or do you, or don't you, and let the particulars fluidly flow as you explore them, let go while also letting yoursself want exactly what you want as you want it and then maybe it's different in the next moment as it all imaginatively and experientially unfolds or or not, vividly or quasi-imagery, or just-known, and so on, and so on.
 
 [<a href="#108h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
