@@ -4365,7 +4365,9 @@ Notes:
 * "&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"resisting/&#8203;resistance"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"
 * <span id="p3g11"></span>"non-groundlessness" / "thing" / "a 'the thing'" [sic] / "a 'a thing'" [sic] / "&#8203;"&#8203;"&#8203;"attachment"&#8203;"&#8203;"&#8203;" / touchstone / shrine / idol / gimmick / "fetish" / handhold / "objectified reliance" / \["object"] 
 [See: <a href="#158da1a1a">on groundlessness, a brief note</a>]
-
+* boring/&#8203;boredom; interesting/&#8203;interestingness
+* effort
+* \[pleasant; unpleasant; neutral/&#8203;ignored]
 
 Notes:
 
@@ -4755,7 +4757,7 @@ How is this day already perfect? How might you look back on this as already perf
 
 And/&#8203;or/&#8203;similarly/&#8203;additionally, especially for interpersonal interactions:
 
-What are your radically concretely particular "raw" "bare" "immediate" "sensory-level" sensation-desires (not to reify any of the previous) with respect to, say, ideal interpersonal interaction and scenarios (intimacy, sex, friendship, ...) --- so, e.g. sight and sound and so on? What's desired, undesired, critically avoided, don't-care? These are shaped-and vice versa by the attendant implications, expectations, what-would-happen-next, nth-order consequences and effects along all dimensions, of those would-be (or happened once perhaps in part and hopefully again, thin or thick slices of possibility) and so on. So let there be an interplay between the imaginatively/&#8203;experientially concrete, and next, and the abstract, as you explore that imaginative sensory stuff that you want (and don't want, and etc.), that perhaps you ideally really truly want to realize, or do you, or don't you, and let the particulars fluidly flow as you explore them, let go while also letting yoursself want exactly what you want as you want it and then maybe it's different in the next moment as it all imaginatively and experientially unfolds or or not, vividly or quasi-imagery, or just-known, and so on, and so on. Skip time, have little "flashbulb" moments, let yourself slip into reverie; this isn't a "rigorous" practice.
+What are your radically concretely particular "raw" "bare" "immediate" "sensory-level" sensation-desires (not to reify any of the previous) with respect to, say, ideal interpersonal interaction and scenarios (intimacy, sex, friendship, ...) --- so, e.g. sight and sound and so on? What's desired, undesired, critically avoided, don't-care? These are shaped-and vice versa by the attendant implications, expectations, \[feelings,] what-would-happen-next, nth-order consequences and effects along all dimensions, etc., of those would-be (or happened once perhaps in part and hopefully again, thin or thick slices of possibility) and so on. So let there be an interplay between the imaginatively/&#8203;experientially concrete, and next, and the abstract, as you explore that imaginative sensory stuff that you want (and don't want, and etc.), that perhaps you ideally really truly want to realize, or do you, or don't you, and let the particulars fluidly flow as you explore them, let go while also letting yourself want exactly what you want as you want it and then maybe it's different in the next moment as it all imaginatively and experientially unfolds or or not, vividly or quasi-imagery, or just-known, and so on, and so on. Skip time, have little "flashbulb" moments, let yourself slip into reverie; this isn't a "rigorous" practice.
 
 [<a href="#108h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7306,6 +7308,12 @@ Miscellaneous messy scratch notes (added by Mark):
 * effective "arbitrariness" vs "rigid ego"
 * (concern of absence or lack or missing something being a presence as such which now or eventually, directly or indirectly can be engaged with, etc.)
 * not exactly re \[...]: concern about lack or self-harm is a phenomenological presence as such which can [not always immediately] be interacted with directly or or indirectly. sovereignity-in-interdependence
+* "Important to distinguish between never being bored & perpetually avoiding boredom. The former can be a patch on the latter. Being bored is like being confused; both are gifts to patiently, sometimes agonizingly, dwell in or surrender to on the way to smthg better. (Imo/ime ymmv!)" https://x.com/meditationstuff/status/1729569406106136970
+	* "deep attention" ; "'interesting' and 'boring'" ; \[...]
+* redo-to-undo cf. dependent origination / "reversing the chain"
+* careful/&#8203;beware trying to use meditation to "have particular qualities," or, rather, "to become such a way for some goal and/&#8203;or/&#8203;including so as to think of oneself a certain way"; or at least not functionally routed through self-concept, ego, I, etc.
+	* I achieve, I accomplish, I accumulate, I acquire, I own, I become, I am...
+	* I will become..., I will X..., I did X, I was X, I used to X...
 
 end "misc pith"
 
