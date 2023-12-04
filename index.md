@@ -4367,6 +4367,7 @@ Notes:
 [See: <a href="#158da1a1a">on groundlessness, a brief note</a>]
 * boring/&#8203;boredom; interesting/&#8203;interestingness
 * effort
+* I-desire/&#8203;I-want + ~3p ❤️ [::heart emoji::; sic]
 * \[pleasant; unpleasant; neutral/&#8203;ignored]
 
 Notes:
@@ -6228,6 +6229,7 @@ don’t skip anything, don’t bypass anything, don’t force anything. don’t 
 
 So sometimes things can look a lot like "contemporary classical noting practice." [sic]
 
+Test "relevance, ordering, importance" hypotheses; challengea assumptions, e.g. interoception vs exteroception, etc.
 
 [<a href="#129h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7314,6 +7316,9 @@ Miscellaneous messy scratch notes (added by Mark):
 * careful/&#8203;beware trying to use meditation to "have particular qualities," or, rather, "to become such a way for some goal and/&#8203;or/&#8203;including so as to think of oneself a certain way"; or at least not functionally routed through self-concept, ego, I, etc.
 	* I achieve, I accomplish, I accumulate, I acquire, I own, I become, I am...
 	* I will become..., I will X..., I did X, I was X, I used to X...
+* entangled with the world, whole phenomenological field is you, etc., etc., indirect realism, etc., etc., sense in which you experience your model of the people not the people in themselves,,,
+* look for ways you're reaching for the sense doors, e.g. the visual field,like you're "going out to" or "grasping" the visual field or things in the visual field, including words and video and etc.; instead, try "let\[ting] the visual field come to you," and so on; cf. "water flowing downhill" and "be moved"; e.g. "relax the eyes," (eyes, eyelids, tongue, jaw, face muscles), be moved (with respect to these) and so on, and so on
+	* ditto for more abstract "things" like\~ "attention," "working memory" (not to inappropriately reify these, partially borrowing from cognitive science and sutta technical terms, vague handwave) and so on
 
 end "misc pith"
 
