@@ -4369,6 +4369,11 @@ Notes:
 * effort
 * I-desire/&#8203;I-want + ~3p ❤️ [::heart emoji::; sic]
 * \[pleasant; unpleasant; neutral/&#8203;ignored]
+* "dying"
+* [prior non-meditative (or meditative) needle-threading; "constraint channels felt as such"]
+* (maybe or definitely) "last time" ("will ever do or experience that") or "maybe again"
+* doesn't satisfy / won't satisfy / "even X"
+
 
 Notes:
 
@@ -4719,6 +4724,8 @@ Rambling minimally edited scratch note, may especially contain errors: This is s
 1. What are you pushing away that you could safely not push away?
 1. What will you do when/&#8203;after you "finish" meditating? (Pretend there's a determinate "done" to the "entire meditation project.") Why not just do that [/those after-you-finish thing(s)] now? [There are both insensitive and profoundly practice-guiding dimensions of exploring this.] Why not also do that [/those after-you-finish thing(s)] now? (if you're not already) Are there good "reasons" not to? (Often! Of course! Duh! But! ---Are you sure!? And not to inappropriately reify "reasons.") [This can be good to explore for any seeming bottlenecks or pinch-points or roadblocks---after you're better, healthy, healthier, wealthy, loveable, etc. Of course, of course, meditation changes your "beliefs," "preferences," "plans," goals," etc., over time, making it challenging to explore the questions, here. But! etc.]
 1. Are you meditating because you are (perhaps very unstandably!) afraid of being a person? [You'll probably, though not necessarily, have to become a person, at some point, if you're not already, somewhere in the course of your meditation "journey," to make further "progress." (not to inappropriately reify "journey" or "progress"...)]
+1. Even X won't fix Y; what are some pairs of X's and Y's?
+1. What is a source of judgment or Judgment?
 
 [<a href="#107h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -5374,8 +5381,37 @@ Notes:
 	* also: Wilber, Ken. The Religion of Tomorrow: A Vision for the Future of the Great Traditions-More Inclusive, More Comprehensive, More Complete. Shambhala Publications, 2017., all caveats, etc.
 * draft/&#8203;scratch note; ignore maybe: compare with e.g. (and other things) "choiceless awareness" which could be sort of thought of as "reducing friction" and letting awareness continguously move/&#8203;untwist/&#8203;reconfigure whereas this is choosing/&#8203;allowing/&#8203;surrendering/&#8203;... with respect to sense of effort/&#8203"I-fort"
 
-
 [<a href="#109a21h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p33" href="#p33">p33:</a>
+
+[<a href="#109a22h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p34" href="#p34">p34:</a>
+
+IN PROGRESS
+
+I am-ness / I am X \[specific person] / I am being X \[specific person]:
+
+Explore X's, specific people known to you, personally and from afar, who you are, sometimes or all the time, "being." (Credit to a collaborator for part of this formulation.) You can do this "self-telepathically," verbally or nonverbally or liminally verbally or with quasi-imagery or just-knowing and so on. You're maybe sort of looking for your own personal "I am" or "I am \[your name]" and then, "who else, who also, pretty similarly to just like that."
+
+If this isn't possible or safe it may 
+
+trans. Personal container, still not entirely clear. Generally OK to patchwork be other people in addition to yourself along the way to being something else. Stuff routed through ego, routed through self-concept, routed through I am. Can untangle. Who all are you being right now? Including yourself. Credit to someone for this question. Acknowledging and allowing that you are being them, when safe. Desire, aversion, safety, and safety acceptance.
+
+[<a href="#109a23h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p35" href="#p35">p35:</a>
+
+[<a href="#109a24h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p36" href="#p36">p36:</a>
+
+[<a href="#109a25h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p37" href="#p37">p37:</a>
+
+[<a href="#109a26h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
@@ -7317,8 +7353,10 @@ Miscellaneous messy scratch notes (added by Mark):
 	* I achieve, I accomplish, I accumulate, I acquire, I own, I become, I am...
 	* I will become..., I will X..., I did X, I was X, I used to X...
 * entangled with the world, whole phenomenological field is you, etc., etc., indirect realism, etc., etc., sense in which you experience your model of the people not the people in themselves,,,
-* look for ways you're reaching for the sense doors, e.g. the visual field,like you're "going out to" or "grasping" the visual field or things in the visual field, including words and video and etc.; instead, try "let\[ting] the visual field come to you," and so on; cf. "water flowing downhill" and "be moved"; e.g. "relax the eyes," (eyes, eyelids, tongue, jaw, face muscles), be moved (with respect to these) and so on, and so on
+* look for ways you're reaching for the sense doors, e.g. the visual field,like you're "going out to" or "grasping" the visual field or things in the visual field, including words and video and etc.; instead, try "let\[ting] the visual field come to you," "let go of the visual field," "don't need the visual field need to be anything in particular," "release all visual field projects or goals," and so on; cf. "water flowing downhill" and "be moved"; e.g. "relax the eyes," (eyes, eyelids, tongue, jaw, face muscles, back-of-the-head-back-base-of-the-skull, neck), be moved (with respect to these) and so on, and so on
 	* ditto for more abstract "things" like\~ "attention," "working memory" (not to inappropriately reify these, partially borrowing from cognitive science and sutta technical terms, vague handwave) and so on
+		* also ditto for learning, remembering...
+* falling backwards, whirlpool, "sensory whirlpool"
 
 end "misc pith"
 
@@ -13570,6 +13608,7 @@ As with anything, working with this is something like, let yourself be as evil a
 * (2) ...
 * (3) ...
 * <a href="#20221030">(4) New: 20221030</a>
+* <a href="#20231217">(5) New: 20231217</a>
 
 ## (1)
 
@@ -13787,6 +13826,23 @@ And finally it's not just emptiness but a deeper and deeper understanding of “
 
 All of this, so far, has made me seemingly feel a whole lot more chill about "the whole shape of my life,"" grasped all at once-ish, cleanly and aware-ed-ly bounded by accident, stroke, heart attack, death—--felt-saner choices around who I associate with and how I spend my time, my interests, cares, concerns, envies, jealousies, aspirations, enjoyment, more practical about what’s within reach, yet more flexibly audacious in what grand risks I take and what I hold in my roster of “possible aspirations.” Even if longevity and rejuvenation and cryonic technologies become a thing, even if death is generally defeated and we can backup and re-print people, nothingness/void still “exists” and we still return to it ever-presently? Something profound and important would remain that would practically inform choices even then and this can be explored now, and / or / relatedly there are accidents, natural disasters, heat death of the universe or some future theoretical equivalent might be a thing. Again with each human uncertainty “marshaled,” brought to heel, nothingness / oblivion I think still “exists,” still demands a dialogue, still informs what it means to be a “sane”, mature, moral individual. And / but / finally / too a deep understanding of buddhist-style impermanence sort of "credibly guarantees," enough to leave the door open, at the moment, at least, that there’s nothing like “eternity”? Maybe “eternal recurrence,” in any case things keep changing, even cosmologically; like nothing is forever, including non-existence, especially if you are like finite-ly enumerable out of a space of possible humans or something. Anyway provisionality and nebulosity and emptiness and unknown unknowns currently leave a lot of wiggle room (in the map if not some territory, as it were), and eventually something relaxes, and more, and more. 
 
+## <span id="20231217">(5) New: 20231217</span>
+
+This is new, so it'll probably change, but it's interesting:
+
+In pretty quick succession (over like four or five days):
+
+* partial resolution of a sense of being somehow "irrecoverably separated" sort of from the world that had been growing for months and which had become quite extreme
+* sort of untangled to a really surprising "thoughtform" of the Jewish god, sort of Judgment inescapably, sort of fractally and inescapably, vastly pervading ("inner"?) space, as well as my everpresent and continued failure to meet the standards of that judgment
+* beginning of resolution of difficulty looking at screens, composing text, and some aphasia, and more, at first perhaps seemingly wholly long covid related, but worse over past few weeks
+* a lot of pretty extreme old age, sickness, and nihilism with respect to death and possibly stable non-consciousness, etc.
+* beginning of the resolution of a sort of vertigo when seeing or imagining depictions of "mega objects," like stuff on the scale of or (much) bigger than the earth, including interstellar objects and fantasy stuff. scratch notes; this stuff was mostly fun and interesting before, except for black holes being unsettling: "related to time space scale, distance. Sort of preceded by also megalophobia, microphobia, black hole, and interstellar stuff and fantasy size and scale stuff for weeks" 
+
+And shortly after I noticed something had moved:
+
+Non-existence and nothingness (and/&#8203;but neither yet/&#8203;“neither yet nor…”, just concepts etc.) are sort of a bit more a (“)pleasant(”) and complementary alternative to existence, and/&#8203;but there's still zest and appetite for fun and life and health and longevity and legacy behaviors, including moonshots hedged against other values. 
+
+So---interesting... Still some nihilism in there. Expecting it'll be something like once all confusions are untangled there was never a problem in the first place, etc., etc.
 
 [<a href="#163h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
