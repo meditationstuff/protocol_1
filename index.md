@@ -4,6 +4,13 @@
 
 </center>
 
+"*Everything will be okay in the end. If it's not okay, it's not the end.*" ---John Lennon
+
+"*The only true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is\[.]*" ---Marcel Proust
+
+"*When you knock on poop's door, do not be surprised when poop answers.*"\* ---unknown
+
+\*A tiny bit of discussion: https://twitter.com/meditationstuff/status/1737165737708405206
 
 # <a id="temporary-note-20231023" href="#temporary-note-20231023">temporary note 20231023:</a>
 
@@ -299,6 +306,12 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a19h" href="#p30">p30 (stub)</a>
 					* <a id="109a20h" href="#p31">p31 (draft)</a>
 					* <a id="109a21h" href="#p32">p32</a>
+					* <a id="109a22h" href="#p33">p33 (scratch)</a>
+					* <a id="109a23h" href="#p34">p34 (scratch dictated)</a>
+					* <a id="109a24h" href="#p35">p35 (scratch)</a>
+					* <a id="109a25h" href="#p36">p36 (scratch)</a>
+					* <a id="109a26h" href="#p37">p37 (scratch dictated)</a>
+					* <a id="109a27h" href="#p38">p38 (scratch dictated)</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5364,6 +5377,8 @@ Notes:
 	* perhaps vaguely Shikantaza (but very minus any extreme will, diligence, etc.) 
 * Related: https://x.com/meditationstuff/status/1718224443762266616 (bonkers, sloppy tweet, but, etc.)
 	* 'I’m starting to get a little suspicious that Taoism might be low key the strictly superior product but Buddhism has both extensive technical manuals and better marketing. Buddhism sells the problem and then the solution and Taoism is just like “It’s useless ¯\\\_(ツ)\_/¯"'
+		* I'm probably being really dumb in this tweet and riffing off of poor translations
+* this is maybe for some people sort of a "heavy-hitter" that should be reflected in the percentages section where I indicate a ton of p2, when I update that
 
 Related / see also:
 
@@ -5383,13 +5398,7 @@ Notes:
 
 [<a href="#109a21h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="p33" href="#p33">p33:</a>
-
-[<a href="#109a22h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
-
-# <a id="p34" href="#p34">p34:</a>
-
-IN PROGRESS
+# <a id="p33" href="#p33">p33: (scratch)</a>
 
 I am-ness / I am X \[specific person] / I am being X \[specific person]:
 
@@ -5399,19 +5408,45 @@ If this isn't possible or safe it may
 
 trans. Personal container, still not entirely clear. Generally OK to patchwork be other people in addition to yourself along the way to being something else. Stuff routed through ego, routed through self-concept, routed through I am. Can untangle. Who all are you being right now? Including yourself. Credit to someone for this question. Acknowledging and allowing that you are being them, when safe. Desire, aversion, safety, and safety acceptance.
 
+[<a href="#109a22h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p34" href="#p34">p34: (scratch dictated)</a>
+
+dwell in inability, let go of all skills, let go of all ability to plan to know to discern to intend and carry out deliver it planned. Skillful complicated things become entirely useless, if safe and safe. Let yourself have no idea what you’re looking at. There’s some technical term for this in the suttas. If you’re inclined to fight, it try not to fight it when safe as per usual. Or what to do with it. Possible very very large nonmonotonicity for most people and huge one for some very basic stuff like bills and looking at screens and other stuff. having support becomes really important
+
 [<a href="#109a23h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="p35" href="#p35">p35:</a>
+# <a id="p35" href="#p35">p35: (scratch)</a>
+
+have no expectations (for something good and/or to happen, depending)
+
+notes:
+
+* possibly also especially a heavy-hitter for some people
 
 [<a href="#109a24h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="p36" href="#p36">p36:</a>
+# <a id="p36" href="#p36">p36: (scratch)</a>
+
+explore the goodness of wishing things were otherwise. Explore the goodness of if you had perfect control over your life.
 
 [<a href="#109a25h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
-# <a id="p37" href="#p37">p37:</a>
+# <a id="p37" href="#p37">p37: (scratch dictated)</a>
+
+have optionality around, trying to make sense of anything. Verbal,  liminally verbal, nonverbal, non-symbolic cognition, felt sense, etc..
 
 [<a href="#109a26h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p38" href="#p38">p38: (scratch dictated)</a>
+
+let yourself be (")attentionally(") pulled by the autonomic nervous system / let the autonomic nervous system participate in priortization:
+
+for example Follow the breath all the way down to the bottom as low and down long as it wants to go. Might be unpleasant or even scary, especially in cases of Covid type things (wait until well out of acute, probably), but air hunger generally won’t hurt you part of surrender and resistance business and so on and non fighting and so on. Cross-link CF blending. Or, rather let yourself be pulled without resistance or fighting, releasing effort. Not medical advice talk to your doctor
+
+for example digestive stuff
+
+[<a href="#109a27h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
