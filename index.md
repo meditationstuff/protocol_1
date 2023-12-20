@@ -331,6 +331,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 			* <a id="121bh" href="#social-honor-versus-eternal-soul-theory-of-mind-ide">social honor(?) versus eternal soul theory of mind/identity (stub)</a>
 			* <a id="121ch" href="#on-friendship-and-found-family-stub">on friendship and (found) family (stub)</a>
 			* <a id="121dh" href="#fight-fights">fight-fights (draft)</a>
+			* <a id="121eh" href="#scratch-notes">scratch notes</a>
 * <a id="122h" href="#lists-and-more">lists and more</a>
 	* <a id="123h" href="#nonmonotonicity">nonmonotonicity</a>
 	* <a id="124h" href="#definitions">definitions</a>
@@ -6098,6 +6099,37 @@ Shades of gray and nebulosity and partialness wrt all of this. Not necessarily c
 
 [<a href="#121dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="scratch-notes" href="#scratch-notes">scratch notes:</a>
+
+non-momentum, non-reactivity —> still receptivity + omnidirectionality — in conversation and interaction 
+
+Spontaneously (non-censoring, non-deliberately, non-reflectively, non-doing-ly, non-thinking-ly, non-filter-ing-ly), nonviolently, benevolently AND 
+Add to many prot: Don’t act guskin book, impro book, all book recs from emo book, religion of tomorrow book, Clint fuhs thing, excerpt C, gigagloss appendix, cook grueter 2 things, else? After the honeymoon, after the fight [representational transference shadow stuff???]
+Philosophical investigations
+
+What if I want to do/&#8203;say/&#8203;express that I want / dont want to e.g. fuck, violate, harm, love, or do something shameful, embarrassing, illegal, antisocial
+
+see x-desires and 
+
+* <a href="#appendix-9-gricean-yin-yang-analysis">appendix 9: gricean and yin-yang analysis</a>
+* <a href="#appendix-10-communicating-feelings">appendix 10: communicating feelings (spicy) (draft)</a>
+* <a href="#appendix-11-language-causal-body">appendix 11: language and the "causal body" (scratch; draft)</a>
+* <a href="#appendix-12-language-and-perspective-taking">appendix 12: language and perspective taking (scratch; draft)</a>
+
+bib:
+
+* Structure of magic 
+* Deep and surface anaphora 
+* guskin
+* transpersonal actor
+* Guskin, Harold. How to stop acting. Macmillan, 2003.
+* (transpersonal acting book (maybe) ned medina or whatever maybe)
+* Guskin, Harold. How to stop acting. Macmillan, 2003.
+* Johnstone, Keith. Impro: Improvisation and the theatre. Routledge, 2012.
+* Wile, Daniel B. After the fight: Using your disagreements to build a stronger relationship. Guilford Press, 1995.
+* Wile, Daniel B. "After the honeymoon: How conflict can improve your relationship." (1988).
+
+[<a href="#121eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="122"></span><a id="lists-and-more" href="#lists-and-more">lists and more:</a>
 
@@ -7432,19 +7464,33 @@ Miscellaneous messy scratch notes (added by Mark):
 * Learns to self-regulate; learns to give to itself 100% #somethingwrongwiththis
 * notice and allow the shape of the can't
 * What are the nth-order effects/&#8203;consequences of X and are each of those good or bad, and therefore X is permitted, forbidden, necessary/&#8203;obligatory. #maybeaddtosection
-* "Don't presume to know what you're trying to do/&#8203;accomplish/&#8203;achieve/&#8203;complete"  “may be inappropriate reification that ‘you‘ or ‘trying to do‘ anything, etc.“ the “whole thing” not just the i or the me separately but both together as a unified and covertly (or overtly or etc) #maybesectiontodo
-	* Ego presumptuously thinking it knows what the goal is
-	* “Don’t know what the goal is” (maybe cf. halting problem)
-	* Can’t [ultimateknow or presume to know 
-	* Inadequacy of immediate and mediate desires/preferences; revealed/actual “ultimate” goal (distal or immediate/&#8203;incarnate); Implicit (immediate, mediate, ultimate) goal behind the meditation goal; Effortless/&#8203;de-involvement to unravel ~cohere/reveal \[\~\~\~\~false \~\~\~ultimate goals, constrained goals…]
-	* Deeper and deeper \[redo-to-undo-ing] layers of “goal-ing”, “angling internally” (“goals/plans/intentions figuring on”) and “meta-goal-ing” (figuring on to get better at goal-ing or to improve goals)
-	* #somethingwrongwiththis
-	* Simultaneous inside-outside view, input output deterministic reflective self-model cf. transpersonal—
-		* What’s going to make this guy (gender neutral) happy? Vs what’s going to make me happy ; duty of care, or not \[???”i” wants vs “me” wants] [What do I want versus what’s going to/will make this guy happy?]
-		* related aurobindo
-	* sensation-level like numinous rave bioluminescence
+* "unity" conceptions and misconceptions and transcendence
+	* "Don't presume to know what you're trying to do/&#8203;accomplish/&#8203;achieve/&#8203;complete"  “may be inappropriate reification that ‘you‘ or ‘trying to do‘ anything, etc.“ the “whole thing” not just the i or the me separately but both together as a unified and covertly (or overtly or etc) #somethingwrongwiththis #maybesectiontodo
+		* Ego presumptuously thinking it knows what the goal is
+		* “Don’t know what the goal is” (maybe cf. halting problem)
+		* Can’t [ultimateknow or presume to know 
+		* Inadequacy of immediate and mediate desires/preferences; revealed/actual “ultimate” goal (distal or immediate/&#8203;incarnate); Implicit (immediate, mediate, ultimate) goal behind the meditation goal; Effortless/&#8203;de-involvement to unravel ~cohere/reveal \[\~\~\~\~false \~\~\~ultimate goals, constrained goals…]
+		* Deeper and deeper \[redo-to-undo-ing] layers of “goal-ing”, “angling internally” (“goals/plans/intentions figuring on”) and “meta-goal-ing” (figuring on to get better at goal-ing or to improve goals)
+		* #somethingwrongwiththis
+		* Simultaneous inside-outside view, input output deterministic reflective self-model cf. transpersonal—
+			* What’s going to make this guy (gender neutral) happy? Vs what’s going to make me happy ; duty of care, or not \[???”i” wants vs “me” wants] [What do I want versus what’s going to/will make this guy happy?]
+			* related aurobindo
+		* sensation-level like numinous rave bioluminescence
+	* _Unified_ counterfactual explanatory causal-historical tree \[Sss] #somethingwrongwiththis
+		* Answers Q: Why is that the case (w smthg further to be explained) \[c..]
+		* What are some possible reasons for why that would have been the case?
+		* Why would have that been the case INSTEAD of THIS/&#8203;ACTUAL/&#8203;HERE/&#8203;NOW? —
+		* For “in story” counterfactuals: …instead of “what happened in this/the story”
+		* xxWhy wouldn’t have this been the case?xx
+		* q
+		* \[an explanation for everything and everything counterfactual]..
+		* —How did this come to be INSTEAD of this/&#8203;actual/&#8203;here/&#8203;now?
+		* But can ground in inexplicableness inexplicable = art (cf. evocations) — luminous, self-apparent, and some sense of self explaining, but rather also rather not in need of explanation./&#8203;unnecessary etc.
+		* “Don’t have to explain everything “ / explanation is communication tech and analytical tech but not itself reality 
+		* Language game, double-folded
 * content warning nihilism adjacent: Nothing protects against impermanence. No way out, no later, all joy is here.And then, ironically, you can perhaps truly play for the first time. And also if you have more time for responsibilities, or whatever that enable play, because you are doing less things that are trying to do a perhaps impossible thing etc #somethingwrongwiththis
 * Misconceiving/&#8203;misembodying, like you need to generate a feeling or imagery of immensity, in order to conceive of something big. The sort of optimization and correction of this is a similar thing to naturalization. Also, where the future is CF no elsewhere. No else  when no self. These latter are sort of more broader conceptualization versions of kind of reconsider re-reconceptualization of phenomenology. Inc how goals phenomenologically, and work (dictated) #maybeaddtosectiontodo
+* no elsewhere no elsewhen
 
 
 
