@@ -4394,7 +4394,12 @@ Notes:
 * [prior non-meditative (or meditative) needle-threading; "constraint channels felt as such"]
 * (maybe or definitely) "last time" ("will ever do or experience that") or "maybe again"
 * doesn't satisfy / won't satisfy / "even X"
-* \[could go back \[in theory] but] wouldn't be the same
+* \[could go back \[in theory\] but\] wouldn't be the same
+* \[xx\]
+	* “don’t/&#8203;shouldn’t interfere with X” \[xx\]
+	* “looking/&#8203;interfering/&#8203;acting will only make it worse” \[xx\]
+	* “if X was supposed to happen/&#8203;get better/\[…\] it already would \[have\] \[on its own\]” \[xx\]
+	* “X can only get better if I don’t look at it or interfere with it” \[xx]
 
 
 Notes:
@@ -5392,11 +5397,6 @@ Notes:
 	* 'I’m starting to get a little suspicious that Taoism might be low key the strictly superior product but Buddhism has both extensive technical manuals and better marketing. Buddhism sells the problem and then the solution and Taoism is just like “It’s useless ¯\\\_(ツ)\_/¯"'
 		* I'm probably being really dumb in this tweet and riffing off of poor translations
 * this is maybe for some people sort of a "heavy-hitter" that should be reflected in the percentages section where I indicate a ton of p2, when I update that
-* list from a practioner, my thought to put it here:
-	* “don’t/&#8203;shouldn’t interfere with X”
-	* “looking/&#8203;interfering/&#8203;acting will only make it worse”
-	* “if X was supposed to happen/&#8203;get better/\[…] it already would \[have] \[on its own]”
-	* “X can only get better if I don’t look at it or interfere with it”
 
 Related / see also:
 
