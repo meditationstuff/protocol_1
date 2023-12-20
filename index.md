@@ -4,13 +4,15 @@
 
 </center>
 
-"*Everything will be okay in the end. If it's not okay, it's not the end.*" ---John Lennon
+<span id="front-quotes"></span>"*Everything will be okay in the end. If it's not okay, it's not the end.*" ---John Lennon
 
 "*The only true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is\[.]*" ---Marcel Proust
 
 "*When you knock on poop's door, do not be surprised when poop answers.*"\* ---unknown
 
-\*A tiny bit of discussion: https://twitter.com/meditationstuff/status/1737165737708405206
+"Meditate for X,000+ hours (>10,000) like water effortlessly and spontaneously flowing downhill." ---author
+
+\*A tiny bit of discussion, maybe: https://twitter.com/meditationstuff/status/1737165737708405206
 
 # <a id="temporary-note-20231023" href="#temporary-note-20231023">temporary note 20231023:</a>
 
@@ -197,6 +199,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 # <span id="11"></span><a id="full-table-of-contents" href="#full-table-of-contents">Full Table of Contents:</a>
 
 * <a id="1h" href="#working-title">working title</a>
+* <a id="quotesh" href="#front-quotes">quotes</a>
 * <a href="#temporary-note-20231023">temporary note 20231023</a>
 * <a href="#temporary-note-20230413">temporary note 20230413</a>
 * <a id="1ah" href="#work-in-progress-note">work-in-progress note</a>
@@ -4382,10 +4385,16 @@ Notes:
 * effort
 * I-desire/&#8203;I-want + ~3p ❤️ [::heart emoji::; sic]
 * \[pleasant; unpleasant; neutral/&#8203;ignored]
+* (“forward(s) and backward(s)”)
+* grasping [attachment, latching, clutching , clasping, layering]
+* arrogance, theory, humility, surprise (, learning)
+* locationness, spatiality, cause and effect, dependency, 
+* inability, reflective non-knowhow, reflective ability-stuckness (cf. “I don’t know how to not know how.”)
 * "dying"
 * [prior non-meditative (or meditative) needle-threading; "constraint channels felt as such"]
 * (maybe or definitely) "last time" ("will ever do or experience that") or "maybe again"
 * doesn't satisfy / won't satisfy / "even X"
+* \[could go back \[in theory] but] wouldn't be the same
 
 
 Notes:
@@ -4767,6 +4776,10 @@ You might find you can’t do parts of this or can’t do any of it at all. You 
 If that’s the case, just do the best you can. You might try, for each objection, to see if you can correct or handle that objection. If you cannot, just let it go for now; choose another practice and come back later, as with all the practices. Here you can also mix in practice [p2], the willing/&#8203;doing practice.
 
 Finally, all the above is the canonical, main practice. And/but, you can also try similar things with "the rest of the day," e.g. when you wake up you can concretely explore your ideal rest of the day. You can do something similar for "tomorrow" and finally "goals" and "milestones" if those sorts of things are in your felt ontology.
+
+\*
+
+Also good: "perfect institution" or being cared for perfectly by an institution or directly by a group of people or by / also a bureaucratic process
 
 \*
 
@@ -7392,6 +7405,29 @@ Miscellaneous messy scratch notes (added by Mark):
 	* ditto for more abstract "things" like\~ "attention," "working memory" (not to inappropriately reify these, partially borrowing from cognitive science and sutta technical terms, vague handwave) and so on
 		* also ditto for learning, remembering...
 * falling backwards, whirlpool, "sensory whirlpool"
+* As best I can tell, I sort of think that "regret" is just a signal that there's relevant learning left to be mined from past experiences, and as far as I can tell, it goes away when that learning is complete. / https://x.com/meditationstuff/status/1552401919548788747
+	* And any holding onto regret, or sort of spontaneous flares of regret, is part of all that. Like it's ok to (fiercely) regret until/&#8203;unless you don't, etc., etc. "If only!!!!!!!!!!" /
+	* And I think there's a version of free-of-regret that is "clean" that really has hunted down all the like "you're fooling yourself that you're actually ok with that" and worked through everything of that nature. /
+	* And it might look less like cutting losses and more like fully inhabiting one's own story, fully finding oneself, or something like that. That's been my experience so far fwiw. /fin
+	* (lots (all??) emotions / feelings are maybe like this; and thoughts and...)
+* Speaking super loosely, it seems like the body wants homeostasis & the mind wants enlightenment. Enlightenment is at the bottom of some high-dimensional energy well & the right experiences and meditation (also an experience) unstick from local minima. Enlightenment is “natural.” https://x.com/meditationstuff/status/1716560634953818333
+	* When conditions are right, again and again, the mind spontaneously drops irrevocably closer to enlightenment, just a little bit more each time, like something under the force of gravity, an invariance relation always true everywhere.
+* Contextual goodness where context is one’s entire life, opportunity vigilance, vigilance cost is variable. The goodness of even the most felt good things (holy, sacred, sexy) sort of becomes radically contingent, instead of sort of fixed. Radically concrete instead of abstract but still think-about-able. No fixed goals no fixed good no fixed bad. cf. groundlessness and fluidity. #somethingwrongwiththis #maybesectiontodo
+* Metaphysical Theory of evil (credit XX), theory of misfortune, (theory of a good death) (theory of judgment and punishment) theory of victimhood;;; for evil credit coherence therapy drop off; theory of good fortune, theory of success;;;;; telic theories vs causal theories??? Moral theories?? CF, relationship to consequentialism and desire and preference; arbitrariness, contingency, necessity… Possibility, impossibility permission; forgiveness, redemption, destiny, fate; meaning, sensibleness, meaninglessness purposelessness; fault, blame determinism;; guilt, shame, embarrassment, serves-you-right,
+	* Theories of goodness, and how to protect against badness, and how to \[...] goodness theories of evil, and how to protect against evil, how to protect against badness
+* example "thoughtform": Near infinite Abrahamic judgment, pervading, all of time and space
+* ideas, meaning and mattering (tradeoffs?), relationship between public and private ideas
+* Can’t bypass ultimately "best do you think you can get," CF what you deserve and CF stuff worth but it’s going to Everything eventually. Deeper than lots of classical attainment stuff I think for most people and so on
+* Every moment is the last, and it’s always the end of everything CF Snowpiercer; oh is at the end of all humanity, a split-second away, sort of; always, at least something for the last time ever and ever #somethingwrongwiththis
+* universalizing (Naturalizing versus cf.) – – actually not that different than like any person in history, countless other people in history,  and then somehow !!! that’s good instead of, or at least, in addition to bad; actually not that different from a analogous class of people in history; would’ve had to deal with that at some point if not now or something similar or analogous or close enough #maybesectiontodo
+* Large scale, flow re-rotation, settlings and again and so on; late stage, large scale, metaphysical, re-factoring 
+* content warning example nihilism: This, probably for the last time that probably for the last time… where, previously in theory could have done again, and maybe start to be fair, you never know Nothing solves it.  ends horrifically.  negates all value negates all goodness. All solutions and solutions pieces collected throughout life fail. Nothing will be OK ever again.  Not even that will help and not even that.  Thought you were going towards something good at least on net, and it at least seems like that might not be the case.
+* Words, sort of fail here, except for things, like it is what it is it is what it immediately reveals itself as it is to be and so on #somethingwrongwiththis #maybesectiontodo
+* All thought, and goal and theory and religion at base is theories of the impulses and sensations of the body, guarding against predicting satisfying, protecting against e.g. with respect to sexuality and being slammed by it #somethingwrongwiththis
+* Learns to self-regulate; learns to give to itself 100% #somethingwrongwiththis
+* notice and allow the shape of the can't
+* What are the nth-order effects/&#8203;consequences of X and are each of those good or bad, and therefore X is permitted, forbidden, necessary/&#8203;obligatory. #maybeaddtosection
+
 
 end "misc pith"
 
@@ -7669,6 +7705,10 @@ Say that, suffering, as such, in a vacuum, is bad, but not all contextual suffer
 \*
 
 To be clear, somatization is a subtype of layering. That is, de-somatization and pre-de-somatization involves ordering and delayering to "get to the right place" (if it's not already 1-step away) and then also during the de-somatization / delayering process, too. Sometimes you'll do some de-somatization, and then you need to wait minutes, hours, or days for other stuff to delayer possibly "quite far elsewhere" then more de-somatization in the "previous place" becomes available, and this can repeat. So, if someone has kind of been somatisizing (and layering) for X years, or they did a bunch and then successfully stopped (maybe without realizing that they had been doing it then that they stopped), it might take months or years to delayer enough that that particular desomatisizing can begin. Not always, though. It depends on the layer structure in the intervening years and it's possible that nothing got layered on top of that particular stuff when they stopped doing it.
+
+\*
+
+Theories of the body and / or hypochondriasis can hide somatization not like in a morally bad way but sometimes you can think a body or brain thing best has a body or brain explanation but sometimes those sorts of things unravel in a "purely meditative way" and you were sort of wrong about the proper type of explanation for it (and that's ok). Like something that felt "thoroughly and obviously neurological" was like a phenomenological-conceptual thing that got stretched to its limit and bottlenecked somehow before it meditatively unraveled. Ditto for digestive stuff, breathing stuff, and so on. But check with your doctor etc. etc. and electrolytes and vitamins and etc. matter.
 
 [<a href="#147a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -11060,6 +11100,10 @@ at least one sense in which you don't need to figure anything out
 at least one sense in which there's nothing to figure out
 
 at least one sense in which (a) there's no platonic, "looks the same from any angle," context-free knowledge in a vacuum; (b) everything learned is somehow learned for; (c) this learning just happens
+
+at least one sense in which there's nothing that's not ok to experience
+
+at least one sense in which everything is experienced for the last time
 
 [temp catchall; draft] at least one sense in which, long-run, there's nothing left to do, nothing to be done, nothing left but death (in a good way; cf. parinirvana type things), impermanence and pattern are one, or rather everything is both "immortal" / "platonic" and impermanent / non-eternal (cf. emptiness is form and form is emptiness, cf. pattern and nebulosity, pace David Chapman's Meaningness, and cf. David Chapman's no god; no god's-eye-view) ;;;;;;;;;;;;; related: nowhere to go, nothing to do, never left, never were anywhere else, never could have, no discontinuity between before and  "then your life will start, then you can do the thing", just this, this is is, no such thing as wayfinding, contra wayfinding, wayfinding should eat itself or it should never have been, cf. suffering, death, void / oblivion / nothingness / nibanna cf. never prospectivity recognized, never realized never not something [sic]
 
