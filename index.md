@@ -7464,7 +7464,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * Learns to self-regulate; learns to give to itself 100% #somethingwrongwiththis
 * notice and allow the shape of the can't
 * What are the nth-order effects/&#8203;consequences of X and are each of those good or bad, and therefore X is permitted, forbidden, necessary/&#8203;obligatory. #maybeaddtosection
-* "unity" conceptions and misconceptions and transcendence
+* "unity" conceptions and misconceptions and transcendence \[unity just a concept etc. etc. transcendence of form] these subbullets possibly particularly misleading / "wrong" cf. emptiness and nebulosity
 	* "Don't presume to know what you're trying to do/&#8203;accomplish/&#8203;achieve/&#8203;complete"  “may be inappropriate reification that ‘you‘ or ‘trying to do‘ anything, etc.“ the “whole thing” not just the i or the me separately but both together as a unified and covertly (or overtly or etc) #somethingwrongwiththis #maybesectiontodo
 		* Ego presumptuously thinking it knows what the goal is
 		* “Don’t know what the goal is” (maybe cf. halting problem)
@@ -7491,6 +7491,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * content warning nihilism adjacent: Nothing protects against impermanence. No way out, no later, all joy is here.And then, ironically, you can perhaps truly play for the first time. And also if you have more time for responsibilities, or whatever that enable play, because you are doing less things that are trying to do a perhaps impossible thing etc #somethingwrongwiththis
 * Misconceiving/&#8203;misembodying, like you need to generate a feeling or imagery of immensity, in order to conceive of something big. The sort of optimization and correction of this is a similar thing to naturalization. Also, where the future is CF no elsewhere. No else  when no self. These latter are sort of more broader conceptualization versions of kind of reconsider re-reconceptualization of phenomenology. Inc how goals phenomenologically, and work (dictated) #maybeaddtosectiontodo
 * no elsewhere no elsewhen
+* #sectiontodo I should be more explicit about what i mean by emptiness because it's such a translation of such a buddhist word and i use it a lot unlike lots of buddhist stuff. specifically phenomenological experience of emptiness and implications of it being a thing. i guess i do tie it to provisionality which is probably very orienting. also how nonstandard is this usage etc.
 
 
 
