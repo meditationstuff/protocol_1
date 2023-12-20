@@ -7432,6 +7432,20 @@ Miscellaneous messy scratch notes (added by Mark):
 * Learns to self-regulate; learns to give to itself 100% #somethingwrongwiththis
 * notice and allow the shape of the can't
 * What are the nth-order effects/&#8203;consequences of X and are each of those good or bad, and therefore X is permitted, forbidden, necessary/&#8203;obligatory. #maybeaddtosection
+* "Don't presume to know what you're trying to do/&#8203;accomplish/&#8203;achieve/&#8203;complete"  “may be inappropriate reification that ‘you‘ or ‘trying to do‘ anything, etc.“ the “whole thing” not just the i or the me separately but both together as a unified and covertly (or overtly or etc) #maybesectiontodo
+	* Ego presumptuously thinking it knows what the goal is
+	* “Don’t know what the goal is” (maybe cf. halting problem)
+	* Can’t [ultimateknow or presume to know 
+	* Inadequacy of immediate and mediate desires/preferences; revealed/actual “ultimate” goal (distal or immediate/&#8203;incarnate); Implicit (immediate, mediate, ultimate) goal behind the meditation goal; Effortless/&#8203;de-involvement to unravel ~cohere/reveal \[\~\~\~\~false \~\~\~ultimate goals, constrained goals…]
+	* Deeper and deeper \[redo-to-undo-ing] layers of “goal-ing”, “angling internally” (“goals/plans/intentions figuring on”) and “meta-goal-ing” (figuring on to get better at goal-ing or to improve goals)
+	* #somethingwrongwiththis
+	* Simultaneous inside-outside view, input output deterministic reflective self-model cf. transpersonal—
+		* What’s going to make this guy (gender neutral) happy? Vs what’s going to make me happy ; duty of care, or not \[???”i” wants vs “me” wants] [What do I want versus what’s going to/will make this guy happy?]
+		* related aurobindo
+	* sensation-level like numinous rave bioluminescence
+* content warning nihilism adjacent: Nothing protects against impermanence. No way out, no later, all joy is here.And then, ironically, you can perhaps truly play for the first time. And also if you have more time for responsibilities, or whatever that enable play, because you are doing less things that are trying to do a perhaps impossible thing etc #somethingwrongwiththis
+* Misconceiving/&#8203;misembodying, like you need to generate a feeling or imagery of immensity, in order to conceive of something big. The sort of optimization and correction of this is a similar thing to naturalization. Also, where the future is CF no elsewhere. No else  when no self. These latter are sort of more broader conceptualization versions of kind of reconsider re-reconceptualization of phenomenology. Inc how goals phenomenologically, and work (dictated) #maybeaddtosectiontodo
+
 
 
 end "misc pith"
@@ -14978,6 +14992,10 @@ No mind whatsoever, no becoming whatsoever (but can get back?? if willing/&#8203
 \[...]and selflessness used idiosyncratically and sort of literally  
 
 but yes reverie, not reverielessness! and yes dreams/&#8203;dreaminess, not dreamlessness
+
+\*
+
+(unexplainableness) but relative explanations and explanation games are excellent
 
 \*
 
