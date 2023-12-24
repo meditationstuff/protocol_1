@@ -713,7 +713,7 @@ What might we do together that’s better than what we’ll do apart?
 
 * Unfortunate sequences of events produce ignorance, inability, fear, and (perceived or actual) resource contsraints.
 * Ignorance, inability, fear and (perceived or actual) resource contsraints produce myopic, selfish desperation (that can skillfully hide for a long time from itself and from others).
-* Myopic, selfish desperation can be extremely generative and can produce tremendous value.
+* Myopic, selfish desperation can be extremely generative and can produce tremendous value. \[ https://x.com/aella_girl/status/1738124133937115418 ]
 * That value production usually comes with spreading, lasting collateral harm (e.g. overt or covert authoritarianism, self-coercion, etc.).
 * And, that (sometimes tremendous) value produced will have poisonous, toxic components woven deeply into it, usually to the very core, that in some way hurts everything it touches, even as it also can do good things.
 * Sometimes, evil can self-transcend, de-toxify itself, repair the harm it caused, and provide acceptable restitution and reparation.

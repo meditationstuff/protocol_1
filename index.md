@@ -8,9 +8,9 @@
 
 "*The only true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is\[.]*" ---Marcel Proust
 
-"*When you knock on poop's door, do not be surprised when poop answers.*"\* ---unknown
+"*something both irreverent and cautionary, here*"\* ---tbd/&#8203;unknown
 
-"Meditate for X,000+ hours (>10,000) like water effortlessly and spontaneously flowing downhill." ---author
+"*Meditate for X,000+ hours (>10,000) like water effortlessly and spontaneously flowing downhill.*" ---author
 
 \*A tiny bit of discussion, maybe: https://twitter.com/meditationstuff/status/1737165737708405206
 
@@ -4391,6 +4391,7 @@ Notes:
 * arrogance, theory, humility, surprise (, learning)
 * locationness, spatiality, cause and effect, dependency, 
 * inability, reflective non-knowhow, reflective ability-stuckness (cf. “I don’t know how to not know how.”)
+* boring[, useless, etc.]
 * "dying"
 * [prior non-meditative (or meditative) needle-threading; "constraint channels felt as such"]
 * (maybe or definitely) "last time" ("will ever do or experience that") or "maybe again"
@@ -4866,6 +4867,10 @@ See also:
 # <a id="p13" href="#p13">p13:</a>
 
 Full/&#8203;complete pith practice instructions: (Effortlessly) be aware of being aware.
+
+Be aware of awareness itself as such
+
+Be aware of being aware itself as such as itself as such
 
 scratch note:
 
@@ -6116,6 +6121,39 @@ see x-desires and
 * <a href="#appendix-11-language-causal-body">appendix 11: language and the "causal body" (scratch; draft)</a>
 * <a href="#appendix-12-language-and-perspective-taking">appendix 12: language and perspective taking (scratch; draft)</a>
 
+\*\*\*
+
+Safe/&#8203;unsafe good/&#8203;bad ok/&#8203;not-ok necessary/&#8203;permitted/&#8203;forbidden green/&#8203;yellow/&#8203;red for them to:  
+do, don’t, may, please:
+
+* believe \[X] about me/&#8203;you
+* think \[X] about me/&#8203;you
+* get/&#8203;become/&#8203;feel \[X] about me/&#8203;you
+* feel \[X] near/&#8203;around/&#8203;at/&#8203;with/&#8203;for/&#8203;to me/&#8203;you
+* think \[X] about me/&#8203;you
+* express \[X] near/&#8203;around/&#8203;at/&#8203;with/&#8203;for/&#8203;to me/&#8203;you
+* \[do] \[X] near/&#8203;around/&#8203;at/&#8203;with/&#8203;for/&#8203;to me/&#8203;you
+* \[be] \[X] near/&#8203;around/&#8203;at/&#8203;with/&#8203;for/&#8203;to me/&#8203;you
+* assert \[X] \[e.g. about me/&#8203;you] to me/&#8203;you
+* assume \[X]
+* lie about \[X] to me/&#8203;you
+* vibe \[X] to me/&#8203;you
+* know \[X] about me/&#8203;you 
+* say/tell \[X] to me/&#8203;you \[e.g. about me/&#8203;you]
+* ask me/&#8203;you \[X]
+* request \[X] of or from me/&#8203;you \[could be denied etc.]
+* emote \[X]  to me/&#8203;you
+* express \[X] to me/&#8203;you
+* to inform me/&#8203;you of \[X] 
+
+<!-- -->
+
+* May/&#8203;might I please e.g. Y X of you?
+* Would/&#8203;could/&#8203;might you please e.g. Y X of me?
+* Would/&#8203;could/&#8203;might you please permit me to e.g. Y X of you?
+
+\*\*\*
+
 bib:
 
 * Structure of magic 
@@ -6123,6 +6161,7 @@ bib:
 * guskin
 * transpersonal actor
 * Guskin, Harold. How to stop acting. Macmillan, 2003.
+* radical honesty
 * (transpersonal acting book (maybe) ned medina or whatever maybe)
 * Guskin, Harold. How to stop acting. Macmillan, 2003.
 * Johnstone, Keith. Impro: Improvisation and the theatre. Routledge, 2012.
@@ -7492,7 +7531,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * Misconceiving/&#8203;misembodying, like you need to generate a feeling or imagery of immensity, in order to conceive of something big. The sort of optimization and correction of this is a similar thing to naturalization. Also, where the future is CF no elsewhere. No else  when no self. These latter are sort of more broader conceptualization versions of kind of reconsider re-reconceptualization of phenomenology. Inc how goals phenomenologically, and work (dictated) #maybeaddtosectiontodo
 * no elsewhere no elsewhen
 * #sectiontodo I should be more explicit about what i mean by emptiness because it's such a translation of such a buddhist word and i use it a lot unlike lots of buddhist stuff. specifically phenomenological experience of emptiness and implications of it being a thing. i guess i do tie it to provisionality which is probably very orienting. also how nonstandard is this usage etc.
-
+* “Filling in the kinds of things that could and could have been ok but were not ok”
 
 
 end "misc pith"
