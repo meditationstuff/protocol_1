@@ -4400,6 +4400,7 @@ Notes:
 	* “looking/&#8203;interfering/&#8203;acting will only make it worse” \[xx\]
 	* “if X was supposed to happen/&#8203;get better/\[…\] it already would \[have\] \[on its own\]” \[xx\]
 	* “X can only get better if I don’t look at it or interfere with it” \[xx]
+* \[\[\[\[\[\[\["blind alley"]
 
 
 Notes:
@@ -7530,6 +7531,8 @@ Miscellaneous messy scratch notes (added by Mark):
 * no elsewhere no elsewhen
 * #sectiontodo I should be more explicit about what i mean by emptiness because it's such a translation of such a buddhist word and i use it a lot unlike lots of buddhist stuff. specifically phenomenological experience of emptiness and implications of it being a thing. i guess i do tie it to provisionality which is probably very orienting. also how nonstandard is this usage etc.
 * “Filling in the kinds of things that could and could have been ok but were not ok”
+* "instead of trying to find your way around the contraints or to break the contraints, try hanging out patiently with the constraints" --> "solving for freedom" #somethingnotquiterightaboutthis
+* \[\[nonmonotonicity sharper e.g. 48 hours vs two months if "successful" outside trigger and "roll with it" vs inside wayfinding...]] \[\[ok to let driven by life]] \[\[re old conditioning doesn't mean it was bad or wasted time or that surface actions will be that different after]] \[\[balancing multiple infinities and tradeoff]]
 
 
 end "misc pith"
