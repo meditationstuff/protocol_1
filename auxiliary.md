@@ -805,7 +805,7 @@ Thus.
 
 [<a href="#97auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
-# <span id="98auxiliary"></span> explore reluctance to forgive; explore grudgingness: 
+# <span id="98auxiliary"></span><a id="explore-reluctance-to-forgive-explore-grudgingness" href="#explore-reluctance-to-forgive-explore-grudgingness">explore reluctance to forgive; explore grudgingness:</a>
 
 Thus.
 

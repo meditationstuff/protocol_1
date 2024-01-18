@@ -16420,5 +16420,6 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Wile, Daniel B. "After the honeymoon: How conflict can improve your relationship." (1988).
 * Gause, Donald C., and Gerald M. Weinberg. "Are your lights on." Dorset House (1990).
 * Profound Instruction on the View of the Middle Way by Mipham Rinpoche
+* The Vimalakirti Sutra (maybe Thurman translation)
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
