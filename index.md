@@ -4401,6 +4401,7 @@ Notes:
 	* “if X was supposed to happen/&#8203;get better/\[…\] it already would \[have\] \[on its own\]” \[xx\]
 	* “X can only get better if I don’t look at it or interfere with it” \[xx]
 * \[\[\[\[\[\[\["blind alley"]
+* "particular" experiences of suffering "as such"
 
 
 Notes:
@@ -6577,7 +6578,7 @@ Notes:
 
 Mark  1 day ago
 
-have you ever heard of so-called "coding by coincidence" i think from dykstra? he’s kind of a dinosaur and it’s not the right thing to write careful proofs for one’s code before coding 99% of the time. but there’s a nice thing in there, something like:
+have you ever heard of so-called "programming by coincidence" i think from dykstra? he’s kind of a dinosaur and it’s not the right thing to write careful proofs for one’s code before coding 99% of the time. but there’s a nice thing in there, something like:
 maybe hope
 yes experiment
 but don’t guess? kind of?
@@ -7533,7 +7534,17 @@ Miscellaneous messy scratch notes (added by Mark):
 * “Filling in the kinds of things that could and could have been ok but were not ok”
 * "instead of trying to find your way around the contraints or to break the contraints, try hanging out patiently with the constraints" --> "solving for freedom" #somethingnotquiterightaboutthis
 * \[\[nonmonotonicity sharper e.g. 48 hours vs two months if "successful" outside trigger and "roll with it" vs inside wayfinding...]] \[\[ok to let driven by life]] \[\[re old conditioning doesn't mean it was bad or wasted time or that surface actions will be that different after]] \[\[balancing multiple infinities and tradeoff]]
-
+* Belief in infinity or not and belief in objects or not I think are meaningfully upstream of a lot of the cultural scissor effects I see on the TL https://x.com/meditationstuff/status/1754900125174878338
+* Do not (“fully” or at all; depends) a meditation teacher (or whatever) who claims enlightenment (or whatever) if they have postural or movement stuff going on due to chronic muscle tension with no other organic cause. / https://x.com/meditationstuff/status/1755202737078243710
+	* Lindy-theory-wise, they likely have thousands of hours or years to decades of work left to do, and/or they’re stuck or actively making things worse, and their will be psychological and social/behavioral rigidity and blindspots lurking. /
+	* (Ofc, don’t “fully” trust any teacher anywhere ever. “If something feels wrong, somewhere, even just a little, then something *is* wrong, somewhere, somehow.”)
+	* (Blindspots, pre and post “layering,” ultimately, are relative to context and unknown unknowns. Everybody got blindspots in the limit, at minimum.)
+	* \> if they have postural or movement stuff going on due to chronic muscle tension \/\/ Even “just a little bit.” Yellow flag. // (Tho like a bit of stiffness when just getting up is ok or w/ever. Talking about chronically tight stuff that keeps coming back after stretching or massage.)
+	* Fetters/&#8203;obscurations/&#8203;etc and stable/&#8203;persistent/&#8203;recurring physical muscle tension are common-caused (modulo electrolyte status, autonomic health, and some other things) https://twitter.com/meditationstuff/status/1755227582558032007
+* \> Is it possible to fix chronic muscle tension with meditation? \/\/ yes but it can take on average thousands of hours and has to be tension that's purely or mostly "functional," not because of electrolytes, dysautonomia, nerve issues, etc. (this is my informal personal opinion, not medical advice, not diagnosis, etc., etc.) https://twitter.com/meditationstuff/status/1755254409741701463
+	* As an example, sometimes when someone is emotional, they belatedly realize their hand hurts, and they look down and see that they're making a tight fist and they didn't realize it. /
+	* Then they relax their hand. One can imagine that some chronic muscle tension is like this except we've forgotten *how* to relax the muscle, so we can't just "relax the hand." That's "functional." Meditation is one way of "finding one's way back" to that forgotten how.
+	* It can be hard to tell what's functional and what isn't, though it gets easier to tell over time, as little relaxations occur. Waxing and waning is also a good sign. But sometimes it's a non-functional situation or combination.
 
 end "misc pith"
 
