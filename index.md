@@ -837,6 +837,8 @@ Notes:
 * "[...] sure, could be you, or "part of you [could be confused or lost in the past]; or acutely sensitive to a really real and important thing, even if not handled super constructively, or it's fine]" or multiple things, or nebulously some of or all the things or 'no things,' but something is wrong, somewhere, and if you're not ok with that then you're not ok with that [that's the sense of "wrongness," here--something, somehow, somewhere, is nebulously unacceptable, at least currently; and that's just that--self-evident--modulo fluidity and flux, but it's not not until it is/&#8203;not.]"
 * "If it feels wrong in any way then it is wrong in some way" https://twitter.com/captain_mrs/status/1476478905838149633
 * "I'd say the converse holds too: //// Something like "if it feels attractive in any way it is attractive in some way" //// "I say attractive here rather than right, because using right feels too open to interpretations that "feel wrong in some way" to me 😅 ///// But right can work too." https://x.com/phantom_opus/status/1477749936938749956 https://twitter.com/phantom_opus/status/1477750423960367105
+* "If your monitoring system reports an error, than there IS an error - you just can't necessarily tell whether it's in the monitored or monitoring systems." https://twitter.com/SquaresToCubes/status/1476566838444101640
+* "if you feel something, if you intuit something, you’re almost certainly sensing something real—it just may not mean what you think it means" https://twitter.com/z_nightwind/status/1516804594633895939 ht \[...]
 
 [<a href="#18h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7545,6 +7547,12 @@ Miscellaneous messy scratch notes (added by Mark):
 	* As an example, sometimes when someone is emotional, they belatedly realize their hand hurts, and they look down and see that they're making a tight fist and they didn't realize it. /
 	* Then they relax their hand. One can imagine that some chronic muscle tension is like this except we've forgotten *how* to relax the muscle, so we can't just "relax the hand." That's "functional." Meditation is one way of "finding one's way back" to that forgotten how.
 	* It can be hard to tell what's functional and what isn't, though it gets easier to tell over time, as little relaxations occur. Waxing and waning is also a good sign. But sometimes it's a non-functional situation or combination.
+* autonomic nervous system (e.g. digestive perstalsis, heart rate and blood pressure, etc.) demand more and more "attentional bandwidth" at times before further reintegration
+* relax your muscles, your attention, and your will or intentionality, at rest in all positions and postures and in motion and while doing things (but not in a way that gets in the way of doing those things) \#todomaybepithoraux
+	* crappy paraphrase of: https://x.com/tasshinfogleman/status/1754189050506809403
+* snowball of ever-increasing legitmate/&#8203;earned/&#8203;witnessed/&#8203;evidenced trust/&#8203;faith in surrendering to spontaneous self-change
+	* crappy paraphrase of timestamped youtube link at qt: https://x.com/meditationstuff/status/1760659840391635193
+* first approximation: "doesn't decrease intensity of things it decreases frequency of intense things"
 
 end "misc pith"
 
