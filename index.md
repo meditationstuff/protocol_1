@@ -15093,8 +15093,10 @@ Effortlessness, resistancelessness, unknowableness, safety
 [goallessness, selflessness]  
 [knowinglessness, knowledgelessness, ditto understanding cf. figuring out][blankness, "deadness", [even no emptiness anywhere, no one left alive, yet luminosity, vividness, wonder?????]  
 \[uncontrollability, uncausability]\[yet tremendous agency, figuring out, self-preservation, nothing left undone]  
+\[un-ownability]  
 No mind whatsoever, no becoming whatsoever (but can get back?? if willing/&#8203;able to give up completely?)[not blankness but nonregistration, no grasping, like a vivid mirror with no understanding or recognition whatsoever]  
-[no vigilance, no seeking, no self-reflection, no self-preservation whatsoever][and yet. say paradox? ]  
+\[no soul, no essence]  
+\[no vigilance, no seeking, no self-reflection, no self-preservation whatsoever]\[and yet. say paradox? ]  
 \[...]and selflessness used idiosyncratically and sort of literally  
 
 but yes reverie, not reverielessness! and yes dreams/&#8203;dreaminess, not dreamlessness
