@@ -7553,6 +7553,13 @@ Miscellaneous messy scratch notes (added by Mark):
 * snowball of ever-increasing legitmate/&#8203;earned/&#8203;witnessed/&#8203;evidenced trust/&#8203;faith in surrendering to spontaneous self-change
 	* crappy paraphrase of timestamped youtube link at qt: https://x.com/meditationstuff/status/1760659840391635193
 * first approximation: "doesn't decrease intensity of things it decreases frequency of intense things"
+* meditation as orientation (versus action) https://twitter.com/sarabollman/status/1762873832178696290
+* muscular tension and "phenomenological obscurations" (I typically don't use this terminology, so \~twists, tangles, whorls, etc.) are deep-down ("under the layers") come to be realized as exactly coincident and coextensive, sort of https://x.com/meditationstuff/status/1763576571531522142
+* to flesh out later, somewhat separated by semicolons and maybe these would make more sense together in a different order: sensory nerve damage---sometimes can be disentangled from anxiety but still "bare wire" can intermittently ping; vagus nerve damage and endothelial and sympahetic damage---sometimes esp. blood pressure or breathing can have an "inherent" anxiety component so (after checking with doctor) can over time disentangle second arrow and have forebearance, and long-run can also eventually "compassionately love"\/enjoy remaining suffering component; often will heal over a long time but not necessarily; sometimes regrown sensory neurons come back online but in a "layered" fashion and inject anxiety into system until delayered and reorganized; if a damaged nerve have to (re-)learn how to interpret so as know how to "engage" with respect to that phenomenology and everything else. letting self be drawn and general seeking effortlessness are almost always excellent heuristics for both "normal" sensory input and "damaged" sensory input. \#todosectionmaybe maybe combine and refactor with related appendix content and type of intervention content (1) <a href="#typology-of-pain-and-suffering-in-terms-of-when-to-try-meditation">pain typology</a> and (2) <a href="#appendix-7-jhana-for-long-covid">"and other things"</a>
+* equanimity does not imply lack of proactivity \[hat-tip xx]
+* deconvolve "default" trajectory and intervening trajectory / delta is "contribution" under "no fixed goal"
+* <span id="memmiscpith1"></span>effortless-compulsion to remember, sleep is for positive forgetting---gisting, essentializing, combining, compressing. meditation causes more efficient remembering and slowly enables positive forgetting while awake, synaptic renormalization and gisting while awake, cf. increased delta; requires "attention" \[speculative] <a href="#mempith1">see also here</a>
+
 
 end "misc pith"
 
@@ -15105,6 +15112,8 @@ but yes reverie, not reverielessness! and yes dreams/&#8203;dreaminess, not drea
 
 (unexplainableness) but relative explanations and explanation games are excellent
 
+<span id="mempith1"></span>???un-remember-able-ness ("along what dimensions is it important to know I'm not encountering this for the first time and along what dimensions does it not matter?") <a href="#memmiscpith1">\[see also here]</a>
+
 \*
 
 See also:
@@ -16442,5 +16451,8 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Gause, Donald C., and Gerald M. Weinberg. "Are your lights on." Dorset House (1990).
 * Profound Instruction on the View of the Middle Way by Mipham Rinpoche
 * The Vimalakirti Sutra (maybe Thurman translation)
+* https://eigenposts.github.io/thoughts/listen-how-children-learn/ [Last accessed: 2024-03-08]
+	* Listen: Five Simple Tools to Meet Your Everyday Parenting Challenges by Patty Wipfler. Hand in Hand Parenting. 2016.
+	* How Children Learn by John Holt. 
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
