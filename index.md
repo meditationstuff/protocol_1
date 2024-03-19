@@ -7559,7 +7559,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * equanimity does not imply lack of proactivity \[hat-tip xx]
 * deconvolve "default" trajectory and intervening trajectory / delta is "contribution" under "no fixed goal"
 * <span id="memmiscpith1"></span>effortless-compulsion to remember, sleep is for positive forgetting---gisting, essentializing, combining, compressing. meditation causes more efficient remembering and slowly enables positive forgetting while awake, synaptic renormalization and gisting while awake, cf. theta and delta; requires """attention""" \[speculative] <a href="#mempith1">see also here</a>
-
+* cf. otherwhere and otherwhen---seeking "shiny happy people". positive aspirational and often do have to "leave behind" people who are bad for you, but can neglect "real people" and family, and etc., wisdom of knowing where to put resources, towards people who do and don't exist and who can come into being and can't and broadening possibility of fulfillment with wider range of people, here, now, interdependence, unraveling blindspots, cf. fake people and fictional people and fantasy people
 
 end "misc pith"
 
@@ -15111,6 +15111,10 @@ but yes reverie, not reverielessness! and yes dreams/&#8203;dreaminess, not drea
 \*
 
 (unexplainableness) but relative explanations and explanation games are excellent
+
+\*
+
+(centerlessness, boundarylessness(, luminosity, etc.))
 
 <span id="mempith1"></span>???un-remember-able-ness ("along what dimensions is it important to know I'm not encountering this for the first time and along what dimensions does it not matter?") <a href="#memmiscpith1">\[see also here]</a>
 
