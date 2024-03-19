@@ -16303,7 +16303,10 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * https://vividness.live/unclogging [Last accessed: 2021-02-24]
 * Ecker, Bruce, Robin Ticic, and Laurel Hulley. Unlocking the emotional brain: Eliminating symptoms at their roots using memory reconsolidation. Routledge, 2012.
 * Coherence Therapy Practice Manual
-* A COMPILATION OF DANIEL'S POSTS AT DHARMAOVERGROUND.ORG https://danielpostscompilation.blogspot.com/p/blog-page.html [Ingram; Last accessed: 2021-03-06]
+* A COMPILATION OF DANIEL'S POSTS AT DHARMAOVERGROUND.ORG https://danielpostscompilation.blogspot.com/p/blog-page.html [Ingram; Last accessed: 2024-03-19]
+	* "Technical/MCTB 4th Path vs a more sophisticated discussion of the goals and promises of practice and what is possible, and how developments may occur in a non-parallel fashion sometimes." https://danielpostscompilation.blogspot.com/p/blog-page.html#jump-to-180 [Last accessed: 2024-03-19]
+	* "RE: After 4th Path: What do to?" https://www.dharmaoverground.org/discussion/-/message_boards/view_message/2715189#_com_liferay_message_boards_web_portlet_MBPortlet_message_2718243 [Last accessed: 2024-03-19]
+* Clarifying the Natural State: A Principal Guidance Manual for Mahamudra by Dakpo Tashi Namgyal
 * Slingerland, Edward. Effortless action: Wu-wei as conceptual metaphor and spiritual ideal in early China. Oxford University Press, 2007.
 * Frantzis, Bruce Kumar. Opening the Energy Gates of Your Body: Qigong for Lifelong Health. Blue Snake Books, 2006.
 * Lam, Kam Chuen, and Master Lam Kam-Chuen. The Way of Energy: A Gaia Original. Simon and Schuster, 1991.
