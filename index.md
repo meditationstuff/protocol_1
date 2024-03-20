@@ -7560,6 +7560,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * deconvolve "default" trajectory and intervening trajectory / delta is "contribution" under "no fixed goal"
 * <span id="memmiscpith1"></span>effortless-compulsion to remember, sleep is for positive forgetting---gisting, essentializing, combining, compressing. meditation causes more efficient remembering and slowly enables positive forgetting while awake, synaptic renormalization and gisting while awake, cf. theta and delta; requires """attention""" \[speculative] <a href="#mempith1">see also here</a>
 * cf. otherwhere and otherwhen---seeking "shiny happy people". positive aspirational and often do have to "leave behind" people who are bad for you, but can neglect "real people" and family, and etc., wisdom of knowing where to put resources, towards people who do and don't exist and who can come into being and can't and broadening possibility of fulfillment with wider range of people, here, now, interdependence, unraveling blindspots, cf. fake people and fictional people and fantasy people
+* skillful nonmonotonicity of "allowing yourself to hallucinate" as an enabling condition to developing new perceptual-interpretive "capacities" https://twitter.com/meditationstuff/status/1770525833188298878 [Last accessed: 2024-03-20]
 
 end "misc pith"
 
