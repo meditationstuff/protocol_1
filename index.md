@@ -24,6 +24,10 @@
 
 Update 20231024: Possibly clarifying in general: "I don't teach or practice jhana, and I mostly don't refer to primary source suttas, but I have HUGE respect for original systematic technical jargon and translations. This is cool: WHAT YOU MIGHT NOT KNOW ABOUT JHĀNA & SAMĀDHI PUBLIC DRAFT (10 FEB 2022)" "What You Might Not Know about Jhāna & Samādhi (PUBLIC DRAFT).pdf" https://drive.google.com/file/d/1gT1rCJ3K4Hk_1cOAVi0CO6TSRLbvzcuX/ [Last accessed: 2023-10-24]  https://twitter.com/meditationstuff/status/1716851001423016257 
 
+\*
+
+\[Resolution note will go here plus will be moved to appendix.]
+
 \/end temporary note
 
 
@@ -52,6 +56,10 @@ If you have strong opinions about any of this, I'd be interested in hearing from
 \*
 
 See updates to this note: <a href="#temporary-note-20231023">temporary note 20231023:</a>
+
+\*
+
+\[Resolution note will go here plus will be moved to appendix.]
 
 \/end temporary note
 
@@ -7561,6 +7569,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * <span id="memmiscpith1"></span>effortless-compulsion to remember, sleep is for positive forgetting---gisting, essentializing, combining, compressing. meditation causes more efficient remembering and slowly enables positive forgetting while awake, synaptic renormalization and gisting while awake, cf. theta and delta; requires """attention""" \[speculative] <a href="#mempith1">see also here</a>
 * cf. otherwhere and otherwhen---seeking "shiny happy people". positive aspirational and often do have to "leave behind" people who are bad for you, but can neglect "real people" and family, and etc., wisdom of knowing where to put resources, towards people who do and don't exist and who can come into being and can't and broadening possibility of fulfillment with wider range of people, here, now, interdependence, unraveling blindspots, cf. fake people and fictional people and fantasy people
 * skillful nonmonotonicity of "allowing yourself to hallucinate" as an enabling condition to developing new perceptual-interpretive "capacities" https://twitter.com/meditationstuff/status/1770525833188298878 [Last accessed: 2024-03-20]
+* writing fiction might make you smarter, cf. "indulgence" / "write that novel," as it were, etc. https://x.com/esyudkowsky/status/1770898631824216241 [Last accessed: 2024-03-21]
 
 end "misc pith"
 
@@ -15113,9 +15122,20 @@ but yes reverie, not reverielessness! and yes dreams/&#8203;dreaminess, not drea
 
 (unexplainableness) but relative explanations and explanation games are excellent
 
+unknowableness  
+inconceivableness  
+(unsensibleness) --- in the "makes sense" sense  
+
 \*
 
 (centerlessness, boundarylessness(, luminosity, etc.))
+
+(agencylessness, watcherlessness)
+
+(cf. e.g. Daniel Ingram, \[...])
+
+> non-infinity, non-eternalism, impermanence  
+> d) boundlessness, endlessness, boundarylessness [no-things]  
 
 <span id="mempith1"></span>???un-remember-able-ness ("along what dimensions is it important to know I'm not encountering this for the first time and along what dimensions does it not matter?") <a href="#memmiscpith1">\[see also here]</a>
 
@@ -16458,7 +16478,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Wile, Daniel B. "After the honeymoon: How conflict can improve your relationship." (1988).
 * Gause, Donald C., and Gerald M. Weinberg. "Are your lights on." Dorset House (1990).
 * Profound Instruction on the View of the Middle Way by Mipham Rinpoche
-* The Vimalakirti Sutra (maybe Thurman translation)
+* The Vimalakirti Sutra (KF highly praises Burton Watson translation)
 * https://eigenposts.github.io/thoughts/listen-how-children-learn/ [Last accessed: 2024-03-08]
 	* Listen: Five Simple Tools to Meet Your Everyday Parenting Challenges by Patty Wipfler. Hand in Hand Parenting. 2016.
 	* How Children Learn by John Holt. 

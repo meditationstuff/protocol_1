@@ -154,4 +154,8 @@ Notes:
 * <span id="lcj1"></span>elsewhere voids, anxiety, regrowth and rewiring, hippocampus, location, and body map
 * see also: 
 
+\*
+
+TODO: rename / refactor / dissolve this appendix into relevant places
+
 [<a href="#200h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
