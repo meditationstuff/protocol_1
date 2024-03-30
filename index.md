@@ -14095,7 +14095,7 @@ Mediately or directly related, depending:
 
 Notes:
 
-safe (or not) to be not conscious / now aware
+safe (or not) to be not conscious / not aware  
 safe (or not) to "not be there"  
 and so on  
 
