@@ -6177,6 +6177,8 @@ bib:
 * Johnstone, Keith. Impro: Improvisation and the theatre. Routledge, 2012.
 * Wile, Daniel B. After the fight: Using your disagreements to build a stronger relationship. Guilford Press, 1995.
 * Wile, Daniel B. "After the honeymoon: How conflict can improve your relationship." (1988).
+* Fruzzetti, Alan. The high-conflict couple: A dialectical behavior therapy guide to finding peace, intimacy, and validation. New Harbinger Publications, 2006.
+
 
 [<a href="#121eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7570,6 +7572,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * cf. otherwhere and otherwhen---seeking "shiny happy people". positive aspirational and often do have to "leave behind" people who are bad for you, but can neglect "real people" and family, and etc., wisdom of knowing where to put resources, towards people who do and don't exist and who can come into being and can't and broadening possibility of fulfillment with wider range of people, here, now, interdependence, unraveling blindspots, cf. fake people and fictional people and fantasy people
 * skillful nonmonotonicity of "allowing yourself to hallucinate" as an enabling condition to developing new perceptual-interpretive "capacities" https://twitter.com/meditationstuff/status/1770525833188298878 [Last accessed: 2024-03-20]
 * writing fiction might make you smarter, cf. "indulgence" / "write that novel," as it were, etc. https://x.com/esyudkowsky/status/1770898631824216241 [Last accessed: 2024-03-21]
+* pithy pointing out instructions, what's the same about rendering "out there" and rendering "in here" https://x.com/stephen_zerfas/status/1772625210669416495
 
 end "misc pith"
 
@@ -14063,9 +14066,41 @@ And shortly after I noticed something had moved:
 
 Non-existence and nothingness (and/&#8203;but neither yet/&#8203;“neither yet nor…”, just concepts etc.) are sort of a bit more a (“)pleasant(”) and complementary alternative to existence, and/&#8203;but there's still zest and appetite for fun and life and health and longevity and legacy behaviors, including moonshots hedged against other values. 
 
-So---interesting... Still some nihilism in there. Expecting it'll be something like once all confusions are untangled there was never a problem in the first place, etc., etc.
+So---interesting... Still some nihilism in there. Expecting it'll be something like *once all confusions are untangled there was never a problem in the first place*, etc., etc.
+
+\*
+
+Regarding, "was never a problem in the first place," it's worth making a distinction between like intellectual beliefs and like anticipations/&#8203;"aliefs", or one could just say particular parts might intellectually believe or bodily-knowingly-anticipate different things (including at different and deeper "layers," in the technical sense).
+
+We might---just as an example---intellectually believe that death is "nothingness" or "nonexistence" or "unconsciousness" (or not, etc.), whether good or bad. But, in any case, other parts of us might viscerally anticipate things like "infinite loneliness, "infinite pain," "infinite coldness," "infinite paralysis," "infinite can't breath," too long, too lonely, too something, etc.
+
+We're accumulating/&#8203;computing/&#8203;arriving at stuff about death long before object permanence and it really hits us that like something somehow is going on, there, like somewhere around age 4-8 on average in at least the west, and so we've got like a vast amount of stuff there already and then with each passing year just more and more and more on top of that, and so meditation-wise it can take a long time to get back there, a long time (maybe concurrently) for safe to look even when there, even if tendrils of it are accessible immediately.
+
+And so through meditation all of this just keeps (slowly, eventually, then perhaps more and more) getting unlayered and detangled, stuff you didn't even realize was there (just like with say sex or gender and even more so)...
+
+And again as per usual, you're not making yourself believe or not believe anything, "belief" is spontaneous (and "belief" is too reified). Just untangling, just process, when safe, patient, find what you find, nebulously non-thing-ing-ly little-by-little (again not in anyway* \[sic] thing-like), and so on.
+
+\*for some reason "anyway" \[sic] instead of "any way"
+
+See also:
+
+* https://en.wikipedia.org/wiki/Alief_(mental_state) \[Last accessed: 2024-03-30]
+* https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy)
+
+Mediately or directly related, depending:
+
+* https://en.wikipedia.org/wiki/Dhyana_in_Buddhism#Nirodha-sam%C4%81patti
+* https://en.wikipedia.org/wiki/Nirvana_(Buddhism)
+* https://en.wikipedia.org/wiki/Nirodha
+
+Notes:
+
+safe (or not) to be not conscious / now aware
+safe (or not) to "not be there"  
+and so on  
 
 [<a href="#163h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <a id="emptiness-far-reaches" href="#emptiness-far-reaches">emptiness (far reaches) [stub/&#8203;scratch]:</a>
 
@@ -15855,6 +15890,20 @@ Terms of art:
 * principle of charity
 * curse of knowledge
 
+\*
+
+"It’s just like u also have to grateful that something is pointing to a there, there, no u’re wrong not that one x30, that might otherwise get lost for another 3000-10000 years"
+
+https://twitter.com/meditationstuff/status/1773737266931716535 [Last accessed: 2024-03-29]
+
+'Most practitioners don’t go all the way and there’s a risk of forgetting there is an “all the way” or maybe worse coming to think a lesser thing is “all the way” and that becoming the new norm. And the traditions put a lot of time into  distinguishing bt these cases'
+
+https://twitter.com/meditationstuff/status/1773737266931716535
+
+Ideally want healthy tradition (extremely careful knowledge preservation) and healthy avante-garde (nimble, contextually-aware knowledge reformulation and invention) and mixing between the two
+
+https://twitter.com/meditationstuff/status/1773739371834794224
+
 [<a href="#188ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <a id="brief-notes-and-qualifiers" href="#brief-notes-and-qualifiers">brief notes and qualifiers:</a>
@@ -16482,5 +16531,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * https://eigenposts.github.io/thoughts/listen-how-children-learn/ [Last accessed: 2024-03-08]
 	* Listen: Five Simple Tools to Meet Your Everyday Parenting Challenges by Patty Wipfler. Hand in Hand Parenting. 2016.
 	* How Children Learn by John Holt. 
+* Fruzzetti, Alan. The high-conflict couple: A dialectical behavior therapy guide to finding peace, intimacy, and validation. New Harbinger Publications, 2006.
+* Bāhiya Sutta \[cf. luminosity e.g. see page 6 of https://www.themindingcentre.org/dharmafarer/wp-content/uploads/2010/02/33.7-Arahatta-Bahiya-S-u1.10-piya.pdf Last accessed: 2024-03-28]
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
