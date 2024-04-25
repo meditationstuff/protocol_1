@@ -1971,7 +1971,7 @@ See also:
 
 [Originally published: https://meditationstuff.wordpress.com/2020/01/20/meditation-is-not-strength-training/ (Last accessed: 2020-09-06)]
 
-I think the repetition/strength-training/functional-reserve model of meditation is pretty misleading. The mind isn’t a muscle. It’s better to think of it as a digital state machine that can self-modify its state transition function, even though this borrows from the dubious computing metaphor. The mind is not analog and not mushy. It is shockingly digital and lossless. Seeming muscle-ness is an abstraction on more fine-grain dynamics. To succeed, one must eventually engage with those dynamics as they are (of course, but models matter). "Strength training" causes people to accumulate a great deal of momentum and cruft that they then have to reverse and undo. I’ve heard stories of people who wish they’d had a better sense of "right effort," earlier on.* I personally think it’s better to think in terms of puzzle-solving, test-check, and wayfinding right from the start.
+I think the repetition/&#8203;strength-training/&#8203;functional-reserve model of meditation is pretty misleading. The mind isn’t a muscle. It’s better to think of it as a digital state machine that can self-modify its state transition function, even though this borrows from the dubious computing metaphor. The mind is not analog and not mushy. It is shockingly digital and lossless. Seeming muscle-ness is an abstraction on more fine-grain dynamics. To succeed, one must eventually engage with those dynamics as they are (of course, but models matter). "Strength training" causes people to accumulate a great deal of momentum and cruft that they then have to reverse and undo. I’ve heard stories of people who wish they’d had a better sense of "right effort," earlier on.* I personally think it’s better to think in terms of puzzle-solving, test-check, and wayfinding right from the start.
 
 An analogy I use is that the mind is made of a tangle of perfectly flexible, perfectly fluid steel cables that are also perfectly incompressible and inelastic. Maybe like cooked spaghetti or heavy rope, but "indestructible" or "unforgiving." And you can reweave the cables but nothing can be created or destroyed. (This isn’t entirely true because experience tangles in new cable(s) and correct reweavings cause cables to losslessly become one ["elegance collapse"].] No escape but ultimately clear directionality in the space of play.
 
@@ -1986,6 +1986,10 @@ To back off a little bit more, I can imagine the strength-training analogy can b
 But mind as collaborative puzzle-solving coconspirator (albeit with potentially miles and miles of terrible, torturous, self-reflexive, strange-loop confusion) might be better.
 
 \*Of the people in the wild who have succeeded or seem to be making inexorable progress, it does seem that "overshooting and correcting" does work. And the more likely failure mode is "not reaching escape velocity." But, I think explicit wayfinding might be best thing. Not enough theory/data, yet. And, I don’t know how much selection bias is in my (contemporary) "historical" data.
+
+\* 
+
+"In a real and important neuroscientific sense, repetition will potentiate synapses, increase total number of synapses, synchronize neurons, increase brain volume, and so on. And, state/behavior, etc., will become more/less likely. But—" / but, even still, this is a misleading way to think about long-term mind training. Short-term & medium-term it’s maybe ok. But, long-term, local optimizations trade off against global state & entrench medium-scale maxima. Long-term meditation, at least, is not strength-training. https://x.com/meditationstuff/status/1783510728604844464?s=46
 
 [<a href="#62h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -4388,6 +4392,8 @@ Notes:
 * \[\[\[\[achieving, succeeding\]\]\]\]
 * "&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"fighting"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"
 * "&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"resisting/&#8203;resistance"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"&#8203;"
+	* defending, protecting
+		* see also: welcoming
 * <span id="p3g11"></span>"non-groundlessness" / "thing" / "a 'the thing'" [sic] / "a 'a thing'" [sic] / "&#8203;"&#8203;"&#8203;"attachment"&#8203;"&#8203;"&#8203;" / touchstone / shrine / idol / gimmick / "fetish" / handhold / "objectified reliance" / \["object"] 
 [See: <a href="#158da1a1a">on groundlessness, a brief note</a>]
 * boring/&#8203;boredom; interesting/&#8203;interestingness
@@ -4412,6 +4418,7 @@ Notes:
 	* “X can only get better if I don’t look at it or interfere with it” \[xx]
 * \[\[\[\[\[\[\["blind alley"]
 * "particular" experiences of suffering "as such"
+* welcoming
 
 
 Notes:
@@ -7573,6 +7580,13 @@ Miscellaneous messy scratch notes (added by Mark):
 * skillful nonmonotonicity of "allowing yourself to hallucinate" as an enabling condition to developing new perceptual-interpretive "capacities" https://twitter.com/meditationstuff/status/1770525833188298878 [Last accessed: 2024-03-20]
 * writing fiction might make you smarter, cf. "indulgence" / "write that novel," as it were, etc. https://x.com/esyudkowsky/status/1770898631824216241 [Last accessed: 2024-03-21]
 * pithy pointing out instructions, what's the same about rendering "out there" and rendering "in here" https://x.com/stephen_zerfas/status/1772625210669416495
+* "need" / "ethically" --- maybe strictly true for some def of need and ethically but something maybe a little cursed in original interaction ht xx / no everyday ethics or everyday ethos / morality except indirectly ???
+* at-home retreats https://x.com/sarabollman/status/1781296499323769024
+	* I like one-to-three five-hour blocks per day where something designated for an hour or so /could/ happen, but doesn’t have to happen, amidst eating or wandering outside or doing chores, etc. / the hour-ish (or 0-5 minutes or three hours) can be anywhere in the five-hour block. Like complete flexibility inside the “mere context / container” of the five hours.  Back burner nudging oneself with a feather to sit down (or stand or etc) and meditate. Sort of working with the grain of the mind, letting the mind prepare itself in its own time, versus a rigid schedule
+* meditation is usually though not always "smooth" and slow; life ca be sharp and sudden and that can be hard; some times one is more vulnerable than other times, ofc, ofc and that sucks / is hard too; interface of meditation and life, part of meditation, sometimes easier sometimes harder, element of risk
+* scratch note wrt breath and breathing: Non-controlling and unpleasantness tolerance Including places / pockets that lead to simultaneous fast breathing and unpleasant non-physiological(?) air hunger 
+* "Have you tried gently “going into the sleepiness”? And then if you do fall asleep and wake up, gently going into the sleepiness again, and again, and so on? Instead of fighting, actively participating/surrendering. Maybe there’s lots and lots of importance “down there.” Ymmv!" https://x.com/meditationstuff/status/1783332757562708435?s=46 \[should be cross-linked to a slightly more in depth discussion elsewhere in this document]
+* "have to trust yourself and then like don't trust yourself within yourself but like don't listen to other people telling you not to trust yourself"
 
 end "misc pith"
 
@@ -15165,12 +15179,16 @@ inconceivableness
 
 (centerlessness, boundarylessness(, luminosity, etc.))
 
-(agencylessness, watcherlessness)
+(agencylessness, watcherlessness) / "awarenesslessness" (cf. luminosity) (cf. e.g. Daniel Ingram, \[...])
 
-(cf. e.g. Daniel Ingram, \[...])
+(ownerlessness / ownershiplessnes
+
+(unsatisfactoriness)
 
 > non-infinity, non-eternalism, impermanence  
 > d) boundlessness, endlessness, boundarylessness [no-things]  
+
+* \[~unwinnability-but-also ] can't win / and/&#8203;but can't lose etc.
 
 <span id="mempith1"></span>???un-remember-able-ness ("along what dimensions is it important to know I'm not encountering this for the first time and along what dimensions does it not matter?") <a href="#memmiscpith1">\[see also here]</a>
 
@@ -16393,8 +16411,9 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * [Comment: Harwick is on the now-separation between the sacred and financial. Zelizer is on the still-continuing integrations.]
 * Chwe, Michael Suk-Young. Rational ritual: Culture, coordination, and common knowledge. Princeton University Press, 2013.
 * Seligman, Adam B., et al. Ritual and its consequences: An essay on the limits of sincerity. OUP USA, 2008.
-* https://meaningness.com/further-reading [Last accessed: 2021-04-05]
 * End Interlude
+* https://meaningness.com/further-reading [Last accessed: 2021-04-05]
+* Sartre
 * https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/
 * Wilber, Ken. The Religion of Tomorrow: A Vision for the Future of the Great Traditions-More Inclusive, More Comprehensive, More Complete. Shambhala Publications, 2017.
 * Sun, Chen Lee. Laozi's Daodejing--From Philosophical and Hermeneutical Perspectives: The English and Chinese Translations Based on Laozi’S Original Daoism. iUniverse, 2011.
@@ -16533,5 +16552,8 @@ In some ways the document might have the implicit premise of "thinking and rigor
 	* How Children Learn by John Holt. 
 * Fruzzetti, Alan. The high-conflict couple: A dialectical behavior therapy guide to finding peace, intimacy, and validation. New Harbinger Publications, 2006.
 * Bāhiya Sutta \[cf. luminosity e.g. see page 6 of https://www.themindingcentre.org/dharmafarer/wp-content/uploads/2010/02/33.7-Arahatta-Bahiya-S-u1.10-piya.pdf Last accessed: 2024-03-28]
+* https://en.wikipedia.org/wiki/The_old_man_lost_his_horse \[Last accessed: 2024-04-02]
+* https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse \[\*unrelated in intention to immediately above, more p1, but thought of it while including above; Last accessed: 2024-04-02]
+* The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession by Robert Falconer (April 2023)
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
