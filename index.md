@@ -64,7 +64,7 @@ See updates to this note: <a href="#temporary-note-20231023">temporary note 2023
 \/end temporary note
 
 
-<span id="byline"></span> **by** Mark D Lippmann and collaborators
+<span id="byline"></span> **by** "meditationstuff" and collaborators
 
 <span id="collaborators-and-credits"></span> **Collaborators and Credits (needs to be updated):** ...JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, KQ, MO.)
 
@@ -361,6 +361,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="137a1h" href="#how-to-know-what-you-want">how to know what you want or what your goals are (barely edited transcript excerpt):</a>
 	* <a id="137bh" href="#taking-refuge-can-reshape-the-local-environment-and">taking refuge (can reshape the local environment and world; global wayfinding through late-stage); art, creativity as whole, part, or beginning of that</a>
 	* <a id="138h" href="#on-falling-asleep-and-utilizing-sleep">on falling asleep and utilizing sleep</a>
+	* <a id="138a1a1h" href="#complex-breathing-related-puzzles">complex breathing-related puzzles</a>
 	* <a id="138a1ah" href="#hypoarousal-and-medical-fear">working with hypoarousal and (and somewhat separately but relatedly) medical fear and uncertainty (draft):</a>
 	* <a id="138ah" href="#note-on-letting-go">note on letting go</a>
 	* <a id="139h" href="#a-gentle-onramp">a gentle onramp</a>
@@ -2175,7 +2176,7 @@ What I’m pointing at, too, here, is something like,
 
 That was a messy mouthful. Slightly shorter is "nth-order consequentialism across all time horizons." This is just my gloss, my handle.
 
-(Added later: Consequentialism that understands nth-order effects of means (i.e. the ends "justify" the means only if you take into account all the ends of all the means // if you think that's impossible do note that you're already imperfectly doing it as the basis of all your behavior! and one can come to do it better over time, which is wisdom // this post brought to you by my being upset at how the word consequentialism is getting thrown around atm. also i am not a moral/ethical scholar though // "that you're already imperfectly doing it as the basis of all your behavior" this phrase should be taken as shitpost-grade. // hmm, there's a causality/&#8203;telicity equivocation in here // More discussion, here, including replies: https://twitter.com/meditationstuff/status/1592974670894026752 [Last accessed: 2022-11-21] // Anyway, I'm trying to point at something like knowing the consequences of one's behavior, including such that there are "no" unaccounted-for externalities (up to "true" phenomenological-edge-and-beyond unknown unknowns), at all time horizons from immediate to "???" (impermanence / non-eternity applies) and this takes durational time but is simultaneous costless, effortless, etc., and even all this eats itself with no remainder in spontaneity, etc. So maybe consequentialism is a misnomer or at least has problematic connotations, because far from "the ends justify the means" I'm saying the exact opposite of that.... e.g. even things even that "no one will ever find out" still have karmic effects in the (body)mindscape sense, but nor am I saying be rule-bound or scrupulous, and so on, and so on.)
+(Added later: Consequentialism that understands nth-order effects of means (i.e. the ends "justify" the means only if you take into account all the ends of all the means // if you think that's impossible do note that you're already imperfectly doing it as the basis of all your behavior! and one can come to do it better over time, which is wisdom // this post brought to you by my being upset at how the word consequentialism is getting thrown around atm. also i am not a moral/ethical scholar though // "that you're already imperfectly doing it as the basis of all your behavior" this phrase should be taken as shitpost-grade. // hmm, there's a causality/&#8203;telicity equivocation in here // More discussion, here, including replies: https://twitter.com/meditationstuff/status/1592974670894026752 [Last accessed: 2022-11-21] // Anyway, I'm trying to point at something like \[tacitly!!! effortlessly, spontaneously, always-already, globally-being-knowing, being-as-knowing-as, sort of] knowing the consequences of one's behavior, including such that there are "no" unaccounted-for externalities (up to "true" phenomenological-edge-and-beyond unknown unknowns), at all time horizons from immediate to "???" (impermanence / non-eternity applies) and this takes durational time but is simultaneous costless, effortless, etc., and even all this eats itself with no remainder in spontaneity, etc. So maybe consequentialism is a misnomer or at least has problematic connotations, because far from "the ends justify the means" I'm saying the exact opposite of that.... e.g. even things even that "no one will ever find out" still have karmic effects in the (body)mindscape sense, but nor am I saying be rule-bound \[cf. nebulosity, emptiness, etc.] or scrupulous, and so on, and so on.)
 
 To say more, it's something like, just, given *this*, in front of me, what’s *going* to happen, "*exactly*" what's going to happen (holding that loosely, not clenching around that or fixating on "exactly," it's just words) and is *that* good or bad, all of it, the whole of it, local-in-the-context-of-global? (not to inappropriately reify "global")
 
@@ -6936,6 +6937,25 @@ Note that metaphysically speaking, for what it's worth, I'm aware of at least on
 
 [<a href="#138h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="complex-breathing-related-puzzles" href="#complex-breathing-related-puzzles">complex breathing-related puzzles:</a>
+
+For myself, based on prior actions and "karma," I've encountered a collection of a series of [sic] intermittent puzzles where a few things together have to be (mostly) surrendered and lightly coordinated at the same time. It's something like this:
+
+1. Some breathing-related muscles want to tighten which feels creepy and restrictive, so have to figure out how to feel safe letting that happen.
+
+2. And that, re creepy and restrictive, does indeed then generate a sort of combination pseudo air hunger and anxiety(?). And [yet] /that/ sometimes causes a series of “quick breaths” (sometimes with the originally involved muscles and sometimes yet other muscles), if you can figure out how to allow them, which are some sort of good redo-to-undo and/but actually heighten the pseudo-air-hunger and anxiety while they’re happening. Have to figure out how to feel comfortable letting these happen, the quick breaths and the pseudo air hunger and anxiety(?) that they heighten.
+
+3. Also periods of not breathing [during this] that will eventually lead to [also/&#8203;additionally] [safe but] “*real* air hunger.” Have to figure out how to breathe (or allow breathing) “around” the tight breathing muscles so that they’re not disrupted from whatever they are wanting to do. AND, have to /not/ breathe “around” if the quick-breaths are the thing that want to be happening INSTEAD; let THEM be responsible for all breathing if they’re happening.
+
+4. Kind of have to LET this whole aversive, evolving process-complex FORM and then evolve and sort of have to minimally-actively (as effortlessly as possible) help it maintain itself while staying out of its way and breathing around it when needed, again without getting in its way, without disrupting it, so it can move through its whole thing. And first you unintentionally disrupt its formation a bunch of times but you’ll always get another chance immediately or eventually and you just do the best you can.
+
+(These are often deeply layered! It may be several thousands of hours before you encounter something like all this, or it may take some time before all the parts gather together so it's recognizable as such. That doesn't mean you're doing anything wrong at all. It's just the long-run "ordering of [the undoing of] the layer structure".)
+
+5. And sort of from felt-within that complex configuration you sort of settle, wait, surrender, let go, be patient allow for effortlessness (again maybe with some light managing around the edges, depending) as it does its thing.
+
+(Sometimes there can be additional some or any of jaw, mouth, neck, throat, tongue, etc. wanting to settle into or let be helped or gently stabilized into a particular complex, evolving-dynamic-equilibrium muscular configuration, position, set of dynamic tensions, too.)
+
+[<a href="#138a1a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <a id="hypoarousal-and-medical-fear" href="#hypoarousal-and-medical-fear">working with hypoarousal (and somewhat separately but relatedly) medical fear and uncertainty (draft):</a>
 
@@ -7587,6 +7607,11 @@ Miscellaneous messy scratch notes (added by Mark):
 * scratch note wrt breath and breathing: Non-controlling and unpleasantness tolerance Including places / pockets that lead to simultaneous fast breathing and unpleasant non-physiological(?) air hunger 
 * "Have you tried gently “going into the sleepiness”? And then if you do fall asleep and wake up, gently going into the sleepiness again, and again, and so on? Instead of fighting, actively participating/surrendering. Maybe there’s lots and lots of importance “down there.” Ymmv!" https://x.com/meditationstuff/status/1783332757562708435?s=46 \[should be cross-linked to a slightly more in depth discussion elsewhere in this document]
 * "have to trust yourself and then like don't trust yourself within yourself but like don't listen to other people telling you not to trust yourself"
+* Bodymind structure/&#8203;state is subject to local/&#8203;immediate transformation rules and global invariance laws. https://x.com/meditationstuff/status/1783658049372139782
+	* What this means practically is that you can't meditate "in a particular direction" forever (a stereotyped and narrow meditation practice) without eventually causing behavioral, emotional, cognitive/conceptual, or muscular rigidity.
+	* A meditation practice must eventually transcend any particular practice (and also must eventually eat itself until there's no remainder).
+	* \> eventually causing behavioral, emotional, cognitive/conceptual, or muscular rigidity.
+		* \*eventually causing \/reversible\/ behavioral, emotional, cognitive/conceptual, or muscular rigidity, albeit potentially "laboriously" or at least lengthily.
 
 end "misc pith"
 
@@ -13729,6 +13754,19 @@ cf. no-things which was much earlier for me.
 * 20220711:
 
 See: <a href="#void-nothingness-cessations-nibanna-stub-scratch">void (nothingness, cessation(s), nibbana, nirvana [stub/&#8203;scratch]</a>
+
+* pre 20240426a:
+
+lots of non-model-breaking meditation stuff, illness and no meditation for months, more non-model-breaking meditation stuff
+
+* pre 20240426b:
+
+possibly want to add something here
+
+* 20240426
+
+ For months and months prior up in there: Lots of jaw, neck, tongue, throat, sleep, breathing stuff (over many, many night and mornings—effortlessness, discomfort tolerance, patience, allowing, non-control, surrender, many somatic puzzles, “volitional unraveling puzzles,” always ultimately via effortlessness and spontaneity, and leading-edge lightest-gentle-touch-fear puzzles \[ditto]). No history/evidence of childhood or adult sleep apnea though some childhood mouth breathing and childhood insomnia. Maybe some airway resistance syndrome? Partial mystery (because some of this has to be from the prior force-y stuff), so far, anyway.  
+
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
