@@ -7612,6 +7612,8 @@ Miscellaneous messy scratch notes (added by Mark):
 	* A meditation practice must eventually transcend any particular practice (and also must eventually eat itself until there's no remainder).
 	* \> eventually causing behavioral, emotional, cognitive/conceptual, or muscular rigidity.
 		* \*eventually causing \/reversible\/ behavioral, emotional, cognitive/conceptual, or muscular rigidity, albeit potentially "laboriously" or at least lengthily.
+* I think this is getting at that some traditions think a particular type of (repeated) experience “cessation” is critical for enlightenment and other traditions don’t. (Kinda similar with jhana. I’m in the no-cessation-/no-jhana-needed camp, tho can be helpful for some people.) https://x.com/meditationstuff/status/1786832276656890041
+
 
 end "misc pith"
 
@@ -16591,6 +16593,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Fruzzetti, Alan. The high-conflict couple: A dialectical behavior therapy guide to finding peace, intimacy, and validation. New Harbinger Publications, 2006.
 * Bāhiya Sutta \[cf. luminosity e.g. see page 6 of https://www.themindingcentre.org/dharmafarer/wp-content/uploads/2010/02/33.7-Arahatta-Bahiya-S-u1.10-piya.pdf Last accessed: 2024-03-28]
 * https://en.wikipedia.org/wiki/The_old_man_lost_his_horse \[Last accessed: 2024-04-02]
+	* Related: "You never know what worse luck your bad luck has saved you from." --- Cormac McCarthy
 * https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse \[\*unrelated in intention to immediately above, more p1, but thought of it while including above; Last accessed: 2024-04-02]
 * The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession by Robert Falconer (April 2023)
 
