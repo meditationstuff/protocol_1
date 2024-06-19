@@ -6955,6 +6955,8 @@ For myself, based on prior actions and "karma," I've encountered a collection of
 
 (Sometimes there can be additional some or any of jaw, mouth, neck, throat, tongue, etc. wanting to settle into or let be helped or gently stabilized into a particular complex, evolving-dynamic-equilibrium muscular configuration, position, set of dynamic tensions, too.)
 
+(Not everyone will have stuff like this! It's really dependent on prior everything. Might be like pretty close to a "worst case" type of thing---and they're untangleable! In practice and in principle bc buddha nature, etc., etc.)
+
 [<a href="#138a1a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <a id="hypoarousal-and-medical-fear" href="#hypoarousal-and-medical-fear">working with hypoarousal (and somewhat separately but relatedly) medical fear and uncertainty (draft):</a>
@@ -7613,7 +7615,15 @@ Miscellaneous messy scratch notes (added by Mark):
 	* \> eventually causing behavioral, emotional, cognitive/conceptual, or muscular rigidity.
 		* \*eventually causing \/reversible\/ behavioral, emotional, cognitive/conceptual, or muscular rigidity, albeit potentially "laboriously" or at least lengthily.
 * I think this is getting at that some traditions think a particular type of (repeated) experience “cessation” is critical for enlightenment and other traditions don’t. (Kinda similar with jhana. I’m in the no-cessation-/no-jhana-needed camp, tho can be helpful for some people.) https://x.com/meditationstuff/status/1786832276656890041
-
+* acute illness or injury with respect to meditation can get a little confusing:
+	* tl;dr: If intolerable or otherwise concerning, or just because you want to, it's ok to try to escape when that seems to be the right thing to do. If inescapable, ok to actively-self-caringly surrender to it and that, as best you can.
+		* Longer thing:
+			* For illness, injury, or anything, (a) when pain or suffering or discomfort or painful emotion is intolerable or concerningly intense (directly or because of knock-on effects), do distract, redirect, try to diminish, play tetris or watch tv, or otherwise go elsewhere (if you can). (b) If tolerable and seems good to tolerate, and can do so, then explore, surrender to, let go to, hang out with, enjoy, etc. [and if can't then try to stop trying completely, etc.] (c) If pain, suffering, discomfort, etc. is both intolerable and  inescapable, alternatingly try to (c1) self-caringly surrender to it completely and (d2) also (first) try to indirectly mitigate through emergency or primary healthcare, research and self-interventions, interpersonal advice and support, etc.
+* I completely obey my body’s tastes for things (unless I don’t have a taste for something—then I experiment until I do) and I also track everything in cronometer, as a sanity check and also for watching trends: 
+	* Sometimes for example my collagen or magnesium requirement/&#8203;taste will double for a few days and stuff like that. And I can watch the numbers and then see what change must have caused that. And sometimes it’s even more dramatic, like an illness will cause taste for saturated fat or a particular b vitamin to go through the roof for a few weeks.
+	* I’m always hunting for deeper wellbeing levers, common causes that shift the equilibrium of the whole system in a more positive direction.
+* weirdly, the most minimal evocation* of meditation, pre-enlightenment, is the evocation** of a "container," since first-pass both meditation & regular life have a sensory stream. // it could be sitting on a cushion, ringing a bell, setting a timer, or... putting on a (funny) hat... // ...\*, \*\* I am not sure why I really wanted to use the word evocation twice. // \> [both have a sensory stream] // I mean, what IS the difference between meditation and non-meditation, anyway? There IS one, but ultimately it's not conceptual and then not anything... // ...there is still something I personally struggle to put into words, here. // and then leaving the cushion, ringing the bell again, stopping the timer or letting it go off, or taking off the hat, to complete the container https://x.com/meditationstuff/status/1796659531692363946 [has QT] 
+* fluid, "pre-anticipated" transitions [cf. synchrony or self-alignment] 1s transition, so see if can help it out and do in 0.5s, creates spaciousness for autopilot because you've done its job for it; where gonna get pulled next and can i get there first? truly doing what it wants as long as it does so it has space to reconfigure
 
 end "misc pith"
 
@@ -16596,5 +16606,8 @@ In some ways the document might have the implicit premise of "thinking and rigor
 	* Related: "You never know what worse luck your bad luck has saved you from." --- Cormac McCarthy
 * https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse \[\*unrelated in intention to immediately above, more p1, but thought of it while including above; Last accessed: 2024-04-02]
 * The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession by Robert Falconer (April 2023)
+* Nguyen, C. Thi. "Transparency is surveillance." Philosophy and Phenomenological Research 105.2 (2022): 331-361.
+	* https://x.com/Malcolm_Ocean/status/1793721160980746731 [Last accessed: 2024-05-23]
+* Self-Arising Three-fold Embodiment of Enlightenment [of Bon Dzogchen Meditation] Shar rDza Rinpoche 2022 Mustang Bon Foundation [ht XX]
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
