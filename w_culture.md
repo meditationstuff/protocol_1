@@ -32,6 +32,7 @@
 	* <a id="53h" href="#creativity">creativity</a>
 	* <a id="54h" href="#the-creativity-of-evil-plus-sequence-commentary">the creativity of evil (plus sequence commentary)</a>
 	* <a id="55h" href="#joy-stub">joy (stub)</a>
+	* <a id="56cch" href="#scratch">scratch material</a>
 
 
 # <span id="31"></span><a id="an-orienting-model-layers-and-tangles-from-parts-to" href="#an-orienting-model-layers-and-tangles-from-parts-to">an orienting model; layers and tangles; from "parts" to people to groups:</a>
@@ -744,5 +745,17 @@ safety + creativity = joy
 
 [<a href="#55h">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <a id="scratch" href="#scratch">scratch material:</a>
+
+* \*\*\*\*\*individual/&#8203;community [community even at expense of individual]
+* \*\*\*argument: even independent of community, document might too permissive or too useable to be manipulative or too licensing
+* in some non-absolute sense, "best order for individual might not be best order for community", all things being equal --- even though long-run dovetails and harming community undermines etc. etc. karma in the technical sense etc. etc. interdependence etc. etc.
+* as above, e.g. more fine-grained = more dangerous = greater need for e.g. chill-ness, etc., i.e. possibly more recognition or build-out of escalating harm risks "below" or "in parallel" to "dark wizard-ness path"
+* cf. more traditional lineage / wisdom / religious material re ego, pride, etc. and buddhist material and debates re "compassion before enlightenment"
+* See also the (a) vulnerability/&#8203;responsiveness/&#8203;reachability/&#8203;openness/&#8203;learning versus (b) self-preservation/&#8203;self-resilience/&#8203;self-protection/&#8203;etc. dual polarity resolution:
+	* <a href="#enlightenment-sensorimotor-processing-love">enlightenment, sensorimotor processing, love</a>
+
+
+[<a href="#56cch">Go up to this section's line in the Appendix Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 [<a href="#197h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

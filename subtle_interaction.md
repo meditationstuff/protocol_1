@@ -278,6 +278,15 @@ Again, from the beginning:
 
 > A collaborator noted, "there's a kind of 'it all adds up to normality'* thing that I need to do in order to metabolize this stuff." I agreed, and replied, "we’ve been swimming in this since the first moments of consciousness (and, developmentally, technically even before), and since we were born, and we’re swimming in it everyday, and it is and has been and will be like 99% all ok, business as usual. as with lots of stuff, normal than weird than back to a new normal on the far side of weird. it’ll /make sense/, will find its proper sense and contextualization."
 
+### Appendix: (a) indirect "weaponization" of teacher by student through teacher interaction + (b) negative teacher/&#8203;student/&#8203;community dynamics:
+
+* student using teacher imprint to spoof as teacher
+* student using teacher imprint/&#8203;processing to refine/&#8203;launder/&#8203;augment/&#8203;re-present student material
+* student (inappropriately) using/&#8203;wielding local-fine-grain-ness acquired from teacher interaction
+* student justifying their behavior via apparent licensing/&#8203;warranting/&#8203;justification of their behavior via teacher interaction
+
+(all apply to both subtle and explicit dynamics)
+
 ### See also:
 
 From main:
@@ -312,3 +321,4 @@ From culture appendix:
 * ...
 
 [<a href="#198h">Go up to this appendix' line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
