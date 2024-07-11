@@ -16338,6 +16338,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 
 [<a href="#56bh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+<span id="section-begins-bibliography"></span>
 # <span id="193"></span><a id="bibliography-incomplete" href="#bibliography-incomplete">bibliography (incomplete):</a>
 
 * https://jhanajenny.com/paragon-tantric-practice/ (Last accessed: 2019-07-04; 11:16 CDT)
@@ -16613,3 +16614,5 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Self-Arising Three-fold Embodiment of Enlightenment [of Bon Dzogchen Meditation] Shar rDza Rinpoche 2022 Mustang Bon Foundation [ht XX]
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+<span id="section-begins-appendices"></span>
