@@ -86,6 +86,20 @@ name="viewport" content="width=device-width, initial-scale=1">
         top: 2%; /* Adjust the distance from the top as needed */
         left: 2%; /* Adjust the distance from the left as needed */
         z-index: 1000; /* Ensures the button stays on top of other elements */
+
+    @media print {
+    body {
+        max-width: inherit;
+        padding: 2em;
+    }
+    #darkmode,
+    .paypal-button,
+    .paypal-button + ul
+    {
+        display: none;
+    }
+    }
+
     }
 
     </style>
@@ -139,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </br></br>
 <em><strong>Note:</strong> <a href="https://github.com/meditationstuff/protocol_1/commits/master">Click here to see what's recently changed!</a></em>
 </br></br>
-<em><strong>Note:</strong> This whole book is a single, static webpage, with no external resources, which you're reading right now. Save a local copy with a single command-s or ctrl-s! For better functioning internal links use (from command line): wget - m https://meditationbook.page </em>
+<em><strong>Note:</strong> This whole book is a single, static webpage, with no external resources, which you're reading right now. Save a local copy with a single command-s or ctrl-s! For better functioning internal links use (from command line): wget -m https://meditationbook.page </em>
 </br></br>
 <span id="work-in-progress-note"></span> <em><strong>Note:</strong> This book is a versioned, long-term work-in-progress, a living document. It’s very "useably complete," and/but there are typos, rough patches, risks, and uncertainties; and, improvements, rewrites, refactorings, and additions continue to happen.</em>
 

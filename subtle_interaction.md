@@ -285,6 +285,10 @@ Again, from the beginning:
 * student (inappropriately) using/&#8203;wielding local-fine-grain-ness acquired from teacher interaction
 * student justifying their behavior via apparent licensing/&#8203;warranting/&#8203;justification of their behavior via teacher interaction
 
+### Appendix: N>2 person dynamics
+
+(* one-many vs allergy transfer / communicable allergies)
+
 (all apply to both subtle and explicit dynamics)
 
 ### See also:
