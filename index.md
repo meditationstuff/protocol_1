@@ -144,7 +144,7 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
 		* <a id="18q" href="#an-exoteric-doctrine-v0-2">an exoteric doctrine v0.2</a>
 		* <a id="18aq" href="#an-esoteric-doctrine-going-full-buddhist-is-this-fu">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
 		* <a id="21q" href="#goal-draft">goal (draft)</a>
-		* <a id="22q" href="#end-state">end state</a>
+		* <a id="22q" href="#end-state-draft">end state (draft!)</a>
 		* <a id="23q" href="#no-fixed-conceptualized-goal-or-end-state-part-one-">no fixed conceptualized goal or end state part one ("goodness")</a>
 		* <a id="24q" href="#no-fixed-conceptualized-goal-or-end-state-part-two-">no fixed conceptualized goal or end state part two ("better")</a>
 		* <a id="25q" href="#meditation-is-concrete-problem-solving">meditation is concrete problem solving</a>
@@ -1002,7 +1002,7 @@ Anyway, all of this applies to this written section, itself, too. Try not to tak
 
 # <span id="21"></span><a id="goal-draft" href="#goal-draft">goal (draft):</a>
 
-The goal of the practice is to have a good life, in the most broad and ordinary sense, on your terms, in your words, in your frame, or in no frame. That might look still, quiet, and intimate. That might look big and beautiful. (That might or might not include a good death.) That might look superficially normative and be quite nonnormative under the hood and in the cracks. Or that might quite normative in lots of ways. But the important thing is that it is good for and everyone you care about (which might be no one, everyone, etc.). It might end too soon or go on too long or who knows. In some sense you might fail: Maybe you or people you care about will get hit by a bus, a heart attack, a meteor, or a nuclear war. But the goal is to have a good (peaceful, interesting, exciting, fun, intimate, quiet, safe, stable, normal, extraordinary) life. That’s the point of all of this. (Asymptotically, nonmonotonically approaching self-perfection might be an interesting, fun, mediately traumatizing, opportunity-costly, incidental side effect.)
+The goal of the practice is to have a good life, in the most broad and ordinary sense, on your terms, in your words, in your frame, or in no frame. That might look still, quiet, and intimate. That might look big and beautiful. (That might or might not include a good death.) That might look superficially normative and be quite nonnormative under the hood and in the cracks. Or that might quite normative in lots of ways. But the important thing is that it is good for you and everyone you care about (which might be no one, everyone, etc.). It might end too soon or go on too long or who knows. In some sense you might fail: Maybe you or people you care about will get hit by a bus, a heart attack, a meteor, or a nuclear war. But the goal is to have a good (peaceful, interesting, exciting, fun, intimate, quiet, safe, stable, normal, extraordinary) life. That’s the point of all of this. (Asymptotically, nonmonotonically approaching self-perfection might be an interesting, fun, mediately traumatizing, opportunity-costly, incidental side effect.)
 
 Part of having a good life is preparing and account for (the likely possibility of) death such that you actually have a good life. One can have a dispreference for death, while not fearing it, while competently and proactively avoiding it, while seamlessly having that be a part of everything else that is good.
 
