@@ -34,6 +34,9 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* Elugardo, Reinaldo, and Robert J. Stainton. "Logical Form and the Vernacular." Mind & language 16.4 (2001): 393-424.
 	* Clark, Billy. "Explicature and Implicature" Relevance theory. Cambridge University Press, 2013.
 * Markels, Robin Bell. A new perspective on cohesion in expository paragraphs. SIU Press, 1984.
+* Scheibman, Joanne. Point of View and Grammar: Structural Patterns of Subjectivity in American English Conversation. Studies in Discourse and Grammar, John Benjamins Publishing Company, 2002.
+* Caenepeel, Mimo. "Aspect, temporal ordering and perspective in narrative fiction." Dissertation. 1989.
+
 
 
 # ---

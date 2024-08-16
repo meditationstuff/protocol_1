@@ -1,4 +1,22 @@
-# <a id="appendix-7-jhana-for-long-covid" href="#appendix-7-jhana-for-long-covid">appendix 7: jhana and yoga nidra for long covid (and other things) (draft, incomplete, experimental)</a>
+# <a id="appendix-7-jhana-for-long-covid" href="#appendix-7-jhana-for-long-covid">appendix 7: working with near-unconsciousness, falling asleep, drifting into and out of sleep, and brief memoryless wakings (changing positions during the night, early morning coziness, etc.), etc.</a>
+
+This appendix was originally called: "appendix 7: jhana and yoga nidra for long covid (and other things) (draft, incomplete, experimental)"
+
+(What happened to jhana and yoga nidra? For a while, because of some structural stuff in my practice, I had a mild increase in credence that I'd have to do some more explicit and canonical jhana-esque stuff, but it never fully materialized and practice was business-as-usual; I never got around to really playing with it. So I once again downgraded my credence. I.e., I still and moreso think that at least a large chunk of people won't need to ever spend time in anything that checks the boxes of canonical light or heavy jhanas. But, as always, I still think practioners do/will navigate into and out of lots and lots of "bespoke altered states" in the course of practice. Things "getting weird" isn't necessarily a good thing, but it often is, cf. positive and negative lead indicators. The precise details are the thing. Things in the spirit of the meta protocol can help with provisionally deciding with something is good, a nonmonotonicity (near-term bad but long-term good), or "just bad".)
+
+I think I may slowly shape this into something more fitting for it's current title: working with near-unconsciousness, falling asleep, drifting into and out of sleep, and brief memoryless wakings (changing positions during the night, early morning coziness, etc.), etc.
+
+You may sort of get "pulled" in this direction, maybe a few times, or just once or never. It might be like temporary narrowing down to "no degrees of freedom except 'towards unconsciousness' or 'up and back towards nothingness' ", stuff like that.
+
+So you don't have to set out to work with it explicitly; it might not even be immediately available for that, but it's ok to look for it.
+
+When in doubt (and 99% of the time), let sleep be (enjoyable)sleep, etc.
+
+\*
+
+Again this appendix used to be called "appendix 7: jhana and yoga nidra for long covid (and other things) (draft, incomplete, experimental)", and I'm not very far along in reworking it.
+
+\*
 
 Preliminary note: If there's anything useful below, it's probably going to be **much** more important or at least *as* important to focus on the basics, i.e. properly time nutrition and properly timed adequate calories and sleep. It's *always* that way for me. Not medical advice: <a href="#electrolytes">electrolytes</a>, <a href="#theory-driven-theory-harmonizing-equilibriating-int">theory-driven (/ theory-harmonizing-equilibriating) intuitive/&#8203;interoceptive nutrition and eating</a>, <a href="#metabolic-traps">metabolic traps with respect to meditation:</a>, <a href="#nutrition">nutrition</a>
 
