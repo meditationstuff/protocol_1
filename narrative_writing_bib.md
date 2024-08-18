@@ -38,6 +38,10 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Caenepeel, Mimo. "Aspect, temporal ordering and perspective in narrative fiction." Dissertation. 1989.
 
 
+# ---
+
+* Bell, Matt. "Exercise #5: Story Time vs. Discourse Time" https://mattbell.substack.com/p/exercise-5-story-time-vs-discourse [Last accessed: 2024-08-18]
+* https://nathanbransford.com/blog/2023/04/how-to-write-clear-physical-description [Last accessed: 2024-08-18]
 
 # ---
 
