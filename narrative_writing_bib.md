@@ -14,6 +14,36 @@ Messy list of mostly very academic references I found helpful (directly or indir
 (At time of this commit, closer to the top is roughly newer in terms of additions.)
 
 # -
+* Dry, Helen. "Syntax and Point of View in Jane Austen's" Emma"." Studies in Romanticism (1977): 87-99.
+	* Ehrlich, Susan L. Point of View (Routledge Revivals): A Linguistic Analysis of Literary Style. Routledge, 2014.
+		* **Oltean, S. (1993). A Survey of the Pragmatic and Referential Functions of Free Indirect Discourse. Poetics Today, 14(4), 691.**
+			* **Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.**
+				* **Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.**
+		* Banfield, Ann. "Reflective and non-reflective consciousness in the language of fiction." Poetics today 2.2 (1981): 61-76.
+		* Reinhart, Tanya. "Point of view in language: The use of parentheticals." Essays on deixis 188 (1983): 169-194.
+		* Koev, Todor. "Parentheticality, assertion strength, and polarity." Linguistics and Philosophy 44 (2021): 113-140.
+		* https://en.wikipedia.org/wiki/Slifting [Last accessed: 2024-08-26]
+* Givón, T. (1998). The usual suspects: The grammar of perspective in narrative fiction. University of Oregon Institute of Cognitive and decision sciences: Technical report no. 98-06.
+	* Wiebe, Janyce Marbury. Recognizing subjective sentences: a computational investigation of narrative text. State University of New York at Buffalo, 1990.
+	* Giora, Rachel. "Segmentation and segment cohesion: On the thematic organization of the text." Text-Interdisciplinary Journal for the Study of Discourse 3.2 (1983): 155-182.
+	* Wiebe, Janyce M. "Tracking point of view in narrative." arXiv preprint cmp-lg/9407019 (1994).
+* **Dry, Helen Aristar. "The Movement of Narrative Time." Journal of Literary Semantics, vol. 12, no. 2, 1983, pp. 19-53.**
+	* Dry, Helen. "Sentence aspect and the movement of narrative time." Text-Interdisciplinary Journal for the Study of Discourse 1.3 (1981): 233-240.
+	* Depraetere, Ilse. "On the necessity of distinguishing between (un) boundedness and (a) telicity." Linguistics and philosophy 18 (1995): 1-19.
+* -
+	* Gournay, Lucie. "Locative Inversion In Discourse: a strategy of non-commitment." Discours. Revue de linguistique, psycholinguistique et informatique. A journal of linguistics, psycholinguistics and computational linguistics 5 (2009).
+	* Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.
+
+* Dry, Helen Aristar, and Susan Kucinkas. "Ghostly Ambiguity: Presuppositional Constructions in" The Turn of the Screw"." Style (1991): 71-88.
+* Dry, H. "Free indirect discourse in Doris Lessing’s “One off the short list”,’." Twentieth Century Fiction: from Text to Context, London: Routledge (1995): 96-112.
+* Dry, Helen Aristar. "LANGUAGE CHANCE AND "NATURALIZATION" IN FREE INDIRECT SPEECH" Journal of Literary Semantics, vol. 19, no. 3, 1990, pp. 135-149.
+
+
+<!-- -->
+* Markels, Robin Bell. A new perspective on cohesion in expository paragraphs. SIU Press, 1984.
+* Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.
+
+# -
 
 * Depraetere, Ilse. "On the necessity of distinguishing between (un) boundedness and (a) telicity." Linguistics and philosophy 18 (1995): 1-19.
 * Linhares-Dias, Rui. How to show things with words: a study on logic, language and literature. Vol. 155. Walter de Gruyter, 2011.
@@ -37,6 +67,24 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Scheibman, Joanne. Point of View and Grammar: Structural Patterns of Subjectivity in American English Conversation. Studies in Discourse and Grammar, John Benjamins Publishing Company, 2002.
 * Caenepeel, Mimo. "Aspect, temporal ordering and perspective in narrative fiction." Dissertation. 1989.
 
+# ---
+
+* Givón, T. (1998). The usual suspects: The grammar of perspective in narrative fiction. University of Oregon Institute of Cognitive and decision sciences: Technical report no. 98-06.
+* Oltean, S. (1993). A Survey of the Pragmatic and Referential Functions of Free Indirect Discourse. Poetics Today, 14(4), 691.
+	* Ehrlich, Susan L. Point of View (Routledge Revivals): A Linguistic Analysis of Literary Style. Routledge, 2014.
+* Banfield, Ann. "Reflective and non-reflective consciousness in the language of fiction." Poetics today 2.2 (1981): 61-76.
+* Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.
+
+<!-- -->
+* Stirling, Lesley (1993). "Logophoricity". Switch-reference and discourse representation. Cambridge University Press. p. 259.
+	* https://en.wikipedia.org/wiki/Logophoricity
+* Koev, Todor. Parenthetical meaning. Oxford Studies in Semantics and Pragmatics Vol. 14. Oxford University Press, 2022.
+* Dehé, Nicole. Parentheticals in spoken English: The syntax-prosody relation. Studies in English Language. Cambridge University Press, 2014.
+* Cui, Yaxiao. "Parentheticals and Shifts in Point of View in Virginia Woolf’s Novels." (2013).
+* Blakemore, Diane. "Parentheticals and point of view in free indirect style." Language and Literature 18.2 (2009): 129-153.
+* Ikeo, Reiko. "Connectives ‘but’and ‘for’in viewpoint shifting in Woolf’s To the Lighthouse." Language and Literature 23.4 (2014): 331-346.
+* Cui, Y. (2014). Parentheticals and the presentation of multipersonal consciousness: A stylistic analysis of Mrs Dalloway. Language and Literature, 23(2), 175–187.
+* narrative parentheticals reflective unreflective OR nonreflective
 
 # ---
 
@@ -100,6 +148,7 @@ Messy list of mostly very academic references I found helpful (directly or indir
 		* Dorgeloh, Heidrun. "Viewpoint and subjectivity in English inversion." The Construal of Space in Language and Thought (1996): 509-526.
 		* Penhallurick, John. "Full‐verb inversion in English." Australian Journal of Linguistics 4.1 (1984): 33-56.
 		* Kuno, Susumo. Functional syntax: Anaphora, discourse and empathy. Chicago: University of Chicago Press, 1987
+			* Uehara, Satoshi. "Toward a typology of linguistic subjectivity: A cognitive and cross-linguistic approach to grammaticalized deixis." Subjectification: Various paths to subjectivity (2006): 75-117.
 		* Ehrlich, Susan L. Point of View (Routledge Revivals): A Linguistic Analysis of Literary Style. Routledge, 2014.
 		* Smith, C.S. (1980) "Temporal structures in discourse', in H. Brekle, H. Heringer, C. Rohrer, H. Vater, and O. Werner. Time, Tense, and Quantifiers, Tubingen: Max Niemeyer Verlag.
 
