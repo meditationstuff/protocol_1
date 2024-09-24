@@ -14,6 +14,24 @@ Messy list of mostly very academic references I found helpful (directly or indir
 (At time of this commit, closer to the top is roughly newer in terms of additions.)
 
 # -
+
+* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
+* Dry, Helen Aristar. "The Movement of Narrative Time." Journal of Literary Semantics, vol. 12, no. 2, 1983, pp. 19-53.
+* Dry, Helen Aristar, and Susan Kucinkas. "Ghostly Ambiguity: Presuppositional Constructions in" The Turn of the Screw"." Style (1991): 71-88.
+* Jasinskaja, Katja. "Not at issue any more." Ms. University of Cologne (2016).
+	* Simons, Mandy, et al. "What projects and why." Semantics and linguistic theory. 2010.
+	* Beaver, David, and Henk Zeevat, ' Accommodation', in Gillian Ramchand, and Charles Reiss (eds), The Oxford Handbook of Linguistic Interfaces (2007; online edn, Oxford Academic, 18 Sept. 2012)
+* https://en.wiktionary.org/w/index.php?title=Category:English_interjections
+https://en.wiktionary.org/wiki/Category:English_lemmas [cf. expressives; Last accessed: 2024-09-23]
+* https://www.reddit.com/r/writing/comments/1fh35i7/a_super_easy_page_one_fix/ [Last accessed: 2024-09-23]
+* *Markels, Robin Bell. A new perspective on cohesion in expository paragraphs. SIU Press, 1984.*
+* *Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.*
+* *Giora, Rachel. "Segmentation and segment cohesion: On the thematic organization of the text."*
+* *Gold, Jami. "Cause and Effect: Understanding Story Flow" https://jamigold.com/2014/10/cause-and-effect-understanding-story-flow/ [Last accessed: 2024-09-10]*
+* *Chafe, Wallace. Discourse, consciousness, and time: The flow and displacement of conscious experience in speaking and writing. University of Chicago Press, 1994.*
+
+<!-- -->
+
 * Dry, Helen. "Syntax and Point of View in Jane Austen's" Emma"." Studies in Romanticism (1977): 87-99.
 	* Ehrlich, Susan L. Point of View (Routledge Revivals): A Linguistic Analysis of Literary Style. Routledge, 2014.
 		* **Oltean, S. (1993). A Survey of the Pragmatic and Referential Functions of Free Indirect Discourse. Poetics Today, 14(4), 691.**
@@ -27,6 +45,18 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* Wiebe, Janyce Marbury. Recognizing subjective sentences: a computational investigation of narrative text. State University of New York at Buffalo, 1990.
 	* Giora, Rachel. "Segmentation and segment cohesion: On the thematic organization of the text." Text-Interdisciplinary Journal for the Study of Discourse 3.2 (1983): 155-182.
 	* Wiebe, Janyce M. "Tracking point of view in narrative." arXiv preprint cmp-lg/9407019 (1994).
+* Jauss, David. “What We Talk About When We Talk About
+Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Penguin, 2011.
+	* Brecheen, Chris. "Prose Rhythm" https://www.chrisbrecheen.com/2013/06/prose-rhythm.html [Last accessed: 2024-09-17]
+	* Glaser, Stephanie A. "Space, Time and Narrative: The Literary Unfolding of Architecture." Text-Architekturen. Die Baukunst der Literatur (2014): 13-30.
+	* Gough, Julian. "How to Edit Your Own Lousy Writing" https://stingingfly.org/2017/10/24/edit-lousy-writing/ [Last accessed: 2024-09-10]
+		* Kaplan, David. Revision a Creative Approach to Writing and Rewriting Fiction. Story Press. Cincinnati, Ohio. 1997.
+	* Gold, Jami. "Cause and Effect: Understanding Story Flow" https://jamigold.com/2014/10/cause-and-effect-understanding-story-flow/ [Last accessed: 2024-09-10]
+		* -
+			* https://en.wikipedia.org/wiki/Swimlane
+			* https://en.wikipedia.org/wiki/Concrete_poetry
+			* https://en.wikipedia.org/wiki/Tab_stop
+		* Booth, Stephen. Precious Nonsense: The Gettysburg Address, Ben Jonson's Epitaphs on His Children, and Twelfth Night. Univ of California Press, 1998.
 * **Dry, Helen Aristar. "The Movement of Narrative Time." Journal of Literary Semantics, vol. 12, no. 2, 1983, pp. 19-53.**
 	* Dry, Helen. "Sentence aspect and the movement of narrative time." Text-Interdisciplinary Journal for the Study of Discourse 1.3 (1981): 233-240.
 	* Depraetere, Ilse. "On the necessity of distinguishing between (un) boundedness and (a) telicity." Linguistics and philosophy 18 (1995): 1-19.
@@ -38,10 +68,55 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Dry, H. "Free indirect discourse in Doris Lessing’s “One off the short list”,’." Twentieth Century Fiction: from Text to Context, London: Routledge (1995): 96-112.
 * Dry, Helen Aristar. "LANGUAGE CHANCE AND "NATURALIZATION" IN FREE INDIRECT SPEECH" Journal of Literary Semantics, vol. 19, no. 3, 1990, pp. 135-149.
 
+<!-- -->
+
+* 
+* Altshuler, Daniel, and Emar Maier. "Coping with imaginative resistance." Journal of Semantics 39.3 (2022): 523-549.
+* Harris, J. (2014), Signaling Non-Speaker commitment in
+Transparent Free Relatives: A paired Speaker-Hearer judgment
+study, in V. Rieser & P. Muller, eds, ‘Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue’,
+Edinburgh, pp. 71–79.
+	* Alexander Grosu. 2003. A unified theory of standard
+and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247–331.
+* Krifka, M. (2020), Layers of Assertive Clauses: Propositions, Judgements, Commitments, Acts.
+* Hess, L. M. Perspective and Word Choice. A Study of Expressives, Slurs, and Narrative. Diss. sl: sn, 2019.
 
 <!-- -->
+
+* Blakemore, Diane. Understanding utterances: an introduction to pragmatics. Oxford: Basil Blackwell, 1992.
+* Blakemore, Diane. Relevance and linguistic meaning: The semantics and pragmatics of discourse markers. Cambridge University Press, 2002.
+* Urgelles-Coll, Miriam.  The Syntax and Semantics of Discourse Markers. Bloomsbury Publishing, 2010
+* Carston, Robyn. "Conjunction, explanation and relevance." (1993).
+* Blakemore, D. L. (1986). Semantic constraints on relevance (Doctoral dissertation).
+* Blakemore, Diane. "Restatement and exemplification: A relevance theoretic reassessment of elaboration." Pragmatics & Cognition 5.1 (1997): 1-19.
+* Blakemore, Diane. "Are apposition markers discourse markers? 1." Journal of linguistics 32.2 (1996): 325-347.
+* Fraser, Bruce. "On the conceptual-procedural distinction." Style 40.1-2 (2006): 24-32.
+* Bordería, Salvador Pons. "Do discourse markers exist? On the treatment of discourse markers in Relevance Theory." Journal of Pragmatics 40.8 (2008): 1411-1434.
+* Blakemore, Diane, and Fabrizio Gallai. "Discourse markers in free indirect style and interpreting." Journal of Pragmatics 60 (2014): 106-120.
+	* Romero-Trillo, J. (2018). Prosodic modeling and position analysis of pragmatic markers in English conversation. Corpus Linguistics and Linguistic Theory, 14(1), 169–195.
+	* Gallai, Fabrizio. "Point of view in free indirect thought and in community interpreting." Lingua 175 (2016): 97-121.
+	* Blakemore, Diane. "On the descriptive ineffability of expressive meaning." Journal of Pragmatics 43.14 (2011): 3537-3550.
+	* Blakemore, Diane. "Voice and expressivity in free indirect thought representations: imitation and representation." Mind & language 28.5 (2013): 579-605.
+	* Blakemore, Diane. "Communication and the representation of thought: The use of audience-directed expressions in free indirect thought representations1." Journal of Linguistics 46.3 (2010): 575-599.
+	* Gallai, Fabrizio. "Point of view in free indirect thought and in community interpreting." Lingua 175 (2016): 97-121.
+		* Wharton, Tim. "That bloody so-and-so has retired: Expressives revisited." Lingua 175 (2016): 20-35.
+			* Scott, K. (2016). Pronouns and procedures: Reference and beyond. Lingua, 175-176, 69–82.
+				* Carston, Robyn. "The heterogeneity of procedural meaning." Lingua 175 (2016): 154-166.
+					* https://en.wiktionary.org/wiki/Category:English_interjections
+* Blakemore, Diane. "Indicators and procedures: nevertheless and but." Journal of Linguistics 36.3 (2000): 463-486.
+* Blakemore, D. (1997). On Non-Truth Conditional Meaning. In: Rolf, E. (eds) Pragmatik. Linguistische Berichte. VS Verlag für Sozialwissenschaften, Wiesbaden.
+
+<!-- -->
+
+* Roy, Isabelle. Nonverbal predication: Copular sentences at the syntax-semantics interface. No. 45. Oxford University Press, USA, 2013.
+* Reich, Ingo. "Toward a uniform analysis of short answers and gapping." On information structure, meaning and form 100 (2007): 467-484.
+
+<!-- -->
+
 * Markels, Robin Bell. A new perspective on cohesion in expository paragraphs. SIU Press, 1984.
 * Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.
+<!-- -->
+* Sternberg, Meir. Expositional modes and temporal ordering in fiction. Indiana University Press, 1993.
 
 # -
 
