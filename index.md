@@ -7579,6 +7579,7 @@ Miscellaneous messy scratch notes (added by Mark):
 	* I’m always hunting for deeper wellbeing levers, common causes that shift the equilibrium of the whole system in a more positive direction.
 * weirdly, the most minimal evocation* of meditation, pre-enlightenment, is the evocation** of a "container," since first-pass both meditation & regular life have a sensory stream. // it could be sitting on a cushion, ringing a bell, setting a timer, or... putting on a (funny) hat... // ...\*, \*\* I am not sure why I really wanted to use the word evocation twice. // \> [both have a sensory stream] // I mean, what IS the difference between meditation and non-meditation, anyway? There IS one, but ultimately it's not conceptual and then not anything... // ...there is still something I personally struggle to put into words, here. // and then leaving the cushion, ringing the bell again, stopping the timer or letting it go off, or taking off the hat, to complete the container https://x.com/meditationstuff/status/1796659531692363946 [has QT] 
 * fluid, "pre-anticipated" transitions [cf. synchrony or self-alignment] 1s transition, so see if can help it out and do in 0.5s, creates spaciousness for autopilot because you've done its job for it; where gonna get pulled next and can i get there first? truly doing what it wants as long as it does so it has space to reconfigure
+* embrace / allow self-concept contradictions (to settle) (post-intolerability)
 
 end "misc pith"
 

@@ -30,6 +30,12 @@ https://en.wiktionary.org/wiki/Category:English_lemmas [cf. expressives; Last ac
 * *Gold, Jami. "Cause and Effect: Understanding Story Flow" https://jamigold.com/2014/10/cause-and-effect-understanding-story-flow/ [Last accessed: 2024-09-10]*
 * *Chafe, Wallace. Discourse, consciousness, and time: The flow and displacement of conscious experience in speaking and writing. University of Chicago Press, 1994.*
 
+* Cowley, Katherine. "#33: Use Familiar and Invisible Settings" https://www.katherinecowley.com/jawl/familiar-settings/ [Last accessed: 2024-09-24]
+
+* Terlunen, Milan. All Along…! The Pre-History of the Plot Twist in Nineteenth-Century Fiction. Columbia University, 2022.
+
+* Philip, Gill, et al. "Negotiating narrative: Dialogic dynamics of known, unknown and believed in Harry Potter and the Deathly Hallows." Language and Dialogue 3.1 (2013): 7-33.
+
 <!-- -->
 
 * Dry, Helen. "Syntax and Point of View in Jane Austen's" Emma"." Studies in Romanticism (1977): 87-99.
