@@ -15,7 +15,35 @@ Messy list of mostly very academic references I found helpful (directly or indir
 
 # -
 
+* Hough, Graham. "Narrative and dialogue in Jane Austen" Selected essays. CUP Archive, 1978. Originally published: The Critical Quarterly, 1970.
+* Murphy, Terence Patrick, and Kelly S. Walsh. "Unreliable third person narration? The case of Katherine Mansfield." Journal of Literary Semantics 46.1 (2017): 67-85.
+* Gunn, Daniel P. "Free indirect discourse and narrative authority in" Emma"." Narrative 12.1 (2004): 35-54.
+* -
+	* Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.**
+		* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
+
+<!-- -->
+
+* Gundel, Jeanette K., Nancy Hedberg, and Ron Zacharski. "Definite descriptions and cognitive status in English: Why accommodation is unnecessary." English Language & Linguistics 5.2 (2001): 273-295.
+* Gundel, Jeanette K. "Information structure and referential givenness/newness. How much belongs in the grammar." Journal of Cognitive Science 4.2 (2003): 177-199.
+* Werth, Paul. "Accomodation and the myth of presupposition: The view from discourse." Lingua 89.1 (1993): 39-95.
+* Hardy, Donald E. "Towards a stylistic typology of narrative gaps: knowledge gapping in Flannery O’Connor’s fiction." Language and Literature 14.4 (2005): 363-375.
+
+<!-- -->
+
+* Fludernik, Monika. The fictions of language and the languages of fiction. Routledge, 2003.
+	* Manganaro, Thomas Salem. "Free Indirect Discourse and the Problem of the Will in Two Novels by William Godwin." Studies in Romanticism 57.2 (2018): 301-323.
+* Paul, Dawson. "The Return of the Omniscient Narrator: Authorship and Authority in Twenty-First Century Fiction." Ohio: Ohio UP (2013).
+* Caro, Robert A. Working. Vintage, 2020.
+
+<!-- -->
+
 * Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
+* Kratzer, Angelika, and E. Selkirk. "Deconstructing information structure. Glossa: A Journal of General Linguistics, 5 (1), 113." (2020).
+* Manganaro, Thomas Salem. "Free Indirect Discourse and the Problem of the Will in Two Novels by William Godwin." Studies in Romanticism 57.2 (2018): 301-323.
+	* Wolff, Phillip, and Grace Song. "Models of causation and the semantics of causal verbs." Cognitive psychology 47.3 (2003): 276-332.
+	* Chatman, Seymour. The structure of narrative transmission. na, 1975.
+* Meuser, Sara (2022). How Free is Free Indirect Discourse? Empirical Approaches to the Anchoring Mechanisms of Perspective-taking. PhD thesis, Universität zu Köln.
 * Dry, Helen Aristar. "The Movement of Narrative Time." Journal of Literary Semantics, vol. 12, no. 2, 1983, pp. 19-53.
 * Dry, Helen Aristar, and Susan Kucinkas. "Ghostly Ambiguity: Presuppositional Constructions in" The Turn of the Screw"." Style (1991): 71-88.
 * Jasinskaja, Katja. "Not at issue any more." Ms. University of Cologne (2016).
@@ -76,7 +104,15 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 
 <!-- -->
 
-* 
+* Bache, C. (2019). Narrative until in English. Acta Linguistica Hafniensia, 51(1), 1–30. https://doi.org/10.1080/03740463.2019.1603070
+* Gugin, David. Of literature and language: Flannery O'Connor and the pseudo-cleft. Northern Illinois University ProQuest Dissertations & Theses, 2004. 3146146.
+* Guéron, Jacqueline. "Beyond narrative: On the syntax and semantics of ly-Adverbs". Elements of Comparative Syntax: Theory and Description, edited by Enoch Aboh, Eric Haeberli, Genoveva Puskás and Manuela Schönenberger, Berlin, Boston: De Gruyter Mouton, 2017, pp. 57-98. https://doi.org/10.1515/9781501504037-004
+* Komen, E.R. Finding focus: a study of the historical development of focus in English. 2013, Dissertation 
+* Focalization matters. On focus typology, feature checking and the position(s) of focus. Dal Farra, Chiara <1991>
+* Meuser, Sara (2022). How Free is Free Indirect Discourse? Empirical Approaches to the Anchoring Mechanisms of Perspective-taking. PhD thesis, Universität zu Köln.
+
+<!-- -->
+
 * Altshuler, Daniel, and Emar Maier. "Coping with imaginative resistance." Journal of Semantics 39.3 (2022): 523-549.
 * Harris, J. (2014), Signaling Non-Speaker commitment in
 Transparent Free Relatives: A paired Speaker-Hearer judgment

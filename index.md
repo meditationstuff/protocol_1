@@ -270,6 +270,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 					* <a id="109a25h" href="#p36">p36 (scratch)</a>
 					* <a id="109a26h" href="#p37">p37 (scratch dictated)</a>
 					* <a id="109a27h" href="#p38">p38 (scratch dictated)</a>
+					* <a id="109a28h" href="#p39">p39</a>
 				* <a id="110h" href="#theory">theory</a>
 					* <a id="111h" href="#incomplete-alternative-renderings">incomplete, alternative renderings</a>
 		* <a id="112h" href="#creativity-unsticking-protocol-solo-and-otherwise">creativity(/unsticking) protocol [solo and otherwise]</a>
@@ -5363,7 +5364,9 @@ this is for (finally) working through that (maybe) (pernicious) have to do somet
 
 # <a id="p32" href="#p32">p32:</a>
 
-Release effort / Release "I-fort" ; puzzle-solve safe-all-the-way-down-and-global effortlessness.
+Release effort / Release "I-fort" ; puzzle-solve / seek safe-all-the-way-down-and-global effortlessness.
+
+seek effortlessness
 
 Notes:
 
@@ -5444,6 +5447,18 @@ for example Follow the breath all the way down to the bottom as low and down lon
 for example digestive stuff
 
 [<a href="#109a27h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="p39" href="#p39">p39:</a>
+
+Let go of meditation needing to feel like anything (in particular)
+
+Let go of meditation needing to feel like anything (at all)
+
+\*
+
+Incidental note: if you're skimming all the main practices, have you skimmed all the pith instructions?
+
+[<a href="#109a28h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="110"></span><a id="theory" href="#theory">theory:</a>
 
@@ -7580,6 +7595,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * weirdly, the most minimal evocation* of meditation, pre-enlightenment, is the evocation** of a "container," since first-pass both meditation & regular life have a sensory stream. // it could be sitting on a cushion, ringing a bell, setting a timer, or... putting on a (funny) hat... // ...\*, \*\* I am not sure why I really wanted to use the word evocation twice. // \> [both have a sensory stream] // I mean, what IS the difference between meditation and non-meditation, anyway? There IS one, but ultimately it's not conceptual and then not anything... // ...there is still something I personally struggle to put into words, here. // and then leaving the cushion, ringing the bell again, stopping the timer or letting it go off, or taking off the hat, to complete the container https://x.com/meditationstuff/status/1796659531692363946 [has QT] 
 * fluid, "pre-anticipated" transitions [cf. synchrony or self-alignment] 1s transition, so see if can help it out and do in 0.5s, creates spaciousness for autopilot because you've done its job for it; where gonna get pulled next and can i get there first? truly doing what it wants as long as it does so it has space to reconfigure
 * embrace / allow self-concept contradictions (to settle) (post-intolerability)
+* While distraction and avoidance of leading edge intolerability and disregulation is totally kosher and awesome, those who have the misfortune of learning to successfully block suffering-as-such trade it for emotional-doxastic-behavioral rigidity somewhere else in the system—the inability to learn or change—very mechanistic; not metaphorical. It is a devil's bargain and not a long-run winning/not-losing strategy. (tweet brought to u by technical meditation small group discussion today) https://twitter.com/meditationstuff/status/1842265929327271950
 
 end "misc pith"
 
@@ -14611,6 +14627,10 @@ Wen, Haiguang, and Zhongming Liu. "Separating fractal and oscillatory components
 
 Maniscalco, Brian, Jennifer L. Lee, Patrice Abry, Amy Lin, Tom Holroyd, and Biyu J. He. "Neural integration of stimulus history underlies prediction for naturalistically evolving sequences." Journal of Neuroscience 38, no. 6 (2018): 1541-1557.
 
+See also:
+
+* <a href="#a-speculative-comment-on-language-learning">a speculative comment on language learning:</a>
+
 [<a href="#192dh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="192e"></span><a id="more-neuroscience-odds-and-ends-2-22-2-1" href="#more-neuroscience-odds-and-ends-2-22-2-1">more neuroscience odds and ends 2022-02-10:</a>
@@ -15287,6 +15307,11 @@ There are lots of cool things in this space, for social interaction, sports, int
 I currently believe that this works almost just as well for an eighty-year-old as a twenty-five-year-old meditator. The eighty-year-old may need a few thousand more hours to get to the bottom, depending on how learning and compression actually work, because they’ve been alive longer, but I imagine it’s pretty practically finite, all things being equal.
 
 I believe that the ways in which some subset of eighty-year-olds (or forty-year-olds or fifty-year-olds or thirty-five-year-olds) are mentally X is often or even usually because of "technical debt" and not some sort of cellular senescence or something. I think the operating characteristics are the same from one acquiring one’s first couple of wired-together neurons until (a little after) medical death. I think that the "technical debt" explanation is more elegant because there are sharp-as-a-tack 80-year-olds walking around, and even a confused 80-year-old is doing astonishingly complex real-time learning with their mind, in every waking moment, that is not really different in kind from a baby’s mind. I claim.
+
+See also:
+
+* https://x.com/catherineols/status/1058143950849007616 [Last accessed: 2024-10-03]
+* See also speculative neuroscience section.
 
 [<a href="#182h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
