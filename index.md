@@ -13751,6 +13751,13 @@ possibly want to add something here
 
  For months and months prior up in there: Lots of jaw, neck, tongue, throat, sleep, breathing stuff (over many, many night and mornings—effortlessness, discomfort tolerance, patience, allowing, non-control, surrender, many somatic puzzles, “volitional unraveling puzzles,” always ultimately via effortlessness and spontaneity, and leading-edge lightest-gentle-touch-fear puzzles \[ditto]). No history/evidence of childhood or adult sleep apnea though some childhood mouth breathing and childhood insomnia. Maybe some airway resistance syndrome? Partial mystery (because some of this has to be from the prior force-y stuff), so far, anyway.  
 
+* 20241015
+
+From somewhere age(s) 2-5; "core personality stuff":
+
+* capitalism(?!),
+* skepticism / (epistemic) paranoia, calling bullshit, calling full of shit, knee-jerk anti-authoritarianism,
+* social warmth / belonging
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

@@ -15,12 +15,23 @@ Messy list of mostly very academic references I found helpful (directly or indir
 
 # -
 
+* Smith, Paul. "Hemingway's Early Manuscripts: The Theory and Practice of Omission." Journal of Modern Literature 10.2 (1983): 268-288.
+* Hemingway. The Art Of The Short Story. La Consula, Churriana, Malaga, Spain. June, 1959.
+* Mafi, Tehereh. Shatter Me. Harper Collins, 2011.
+
+<!-- -->
+
 * Hough, Graham. "Narrative and dialogue in Jane Austen" Selected essays. CUP Archive, 1978. Originally published: The Critical Quarterly, 1970.
 * Murphy, Terence Patrick, and Kelly S. Walsh. "Unreliable third person narration? The case of Katherine Mansfield." Journal of Literary Semantics 46.1 (2017): 67-85.
 * Gunn, Daniel P. "Free indirect discourse and narrative authority in" Emma"." Narrative 12.1 (2004): 35-54.
 * -
+	* Manganaro, Thomas Salem. "Free Indirect Discourse and the Problem of the Will in Two Novels by William Godwin." Studies in Romanticism 57.2 (2018): 301-323.
 	* Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.**
 		* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
+
+<!-- -->
+
+* Samek-Lodovici, Vieri. "Contrast, contrastive focus, and focus fronting." ms., University College London.
 
 <!-- -->
 
