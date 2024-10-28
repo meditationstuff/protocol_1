@@ -3,21 +3,44 @@
 
 Messy list of mostly very academic references I found helpful (directly or indirectly) for narrative writing. cf. redo-to-undo, among other things. Compare with p1 appendix, see regarding x-desires, and other sections, too.
 
-(Unfortunately, there are big chunks of duplication in here, and / but I didn't want to sort it out at this time. If anyone were game to take a stab at removing duplicates while preserving idiosyncratic formatting and figuring out the "right" place to remove the duplicated material, then doing so and then error checking nothing was lost, that would be great..! I can't promise I'd merge, but I'd very interestedly look at the PR.)
-
-(I think putting every line in a spreadsheet and sorting and de-duping would lose some interesting co-locations---some of which are duplications that I think are interesting / suggestive enough that they're good to keep there. And I don't think LLMs are good enough to the right thing though maybe letting one try and the checking their work would be an ok workflow.)
+(Lots and lots of duplication of entries, at the moment.)
 
 # -
 
-(Overall, very co-located but sort of in no particular order:)
+* Ball, David. Backwards and forwards: A technical manual for reading plays. SIU Press, 1983.
+* https://en.wikipedia.org/wiki/Allegory
+* Strauss, Leo. Persecution and the Art of Writing. University of Chicago Press, 1988.
 
-(At time of this commit, closer to the top is roughly newer in terms of additions.)
+<!-- -->
 
-# -
+* Allan, Rutger J. "Construal and immersion: A cognitive linguistic approach to Homeric immersivity." The Routledge Handbook of Classics and Cognitive Theory. Routledge, 2018. 59-78.
+* Lopes, José M. "Foregrounded Description in Prose Fiction: Five Cross-Literary Studies." (1995).
+
+<!-- -->
+
+* Furst, Lilian R. All is true: the claims and strategies of realist fiction. Duke University Press, 1995.
+* Reed, John R. Dickens's Hyperrealism. The Ohio State University Press, 2010.
+* https://en.wikipedia.org/wiki/Hypotyposis [Last accessed: 2024-10-28]
+
+<!-- -->
+
+* John Hinds (1977) Paragraph structure and pronominalization, Paper in Linguistics, 10:1-2, 77-99
+* Padučeva, E. V.. "On the structure of the paragraph" Linguistics, vol. 12, no. 131, 1974, pp. 49-58.
+* Fox, Barbara. "Anaphora in popular written English narratives." Coherence and grounding in discourse 11 (1987): 157-174.
+* Bentivoglio, Paola, and Mercedes Sedano. "The light subject constraint in spoken Spanish." Lodz Papers in Pragmatics 3.1 (2007): 195-205.
+* Vonk, Wietske, Lettica GMM Hustinx, and Wim HG Simons. "The use of referential expressions in structuring discourse." Language and cognitive processes 7.3-4 (1992): 301-333.
+	* -
+		* Henschel, Renate, Hua Cheng, and Massimo Poesio. "Pronominalization revisited." COLING 2000 Volume 1: The 18th International Conference on Computational Linguistics. 2000.
+			* Passonneau, R. J. (1996). Using Centering to Relax Gricean Informational Constraints on Discourse Anaphoric Noun Phrases. Language and Speech, 39(2-3), 229–264.
+
+<!-- -->
 
 * Smith, Paul. "Hemingway's Early Manuscripts: The Theory and Practice of Omission." Journal of Modern Literature 10.2 (1983): 268-288.
-* Hemingway. The Art Of The Short Story. La Consula, Churriana, Malaga, Spain. June, 1959.
+	* Hemingway. The Art Of The Short Story. La Consula, Churriana, Malaga, Spain. June, 1959.
 * Mafi, Tehereh. Shatter Me. Harper Collins, 2011.
+* Hough, Graham. "Narrative and dialogue in Jane Austen" Selected essays. CUP Archive, 1978. Originally published: The Critical Quarterly, 1970.
+* Bollas, Christopher. The shadow of the object: Psychoanalysis of the unthought known. Columbia University Press, 1987.
+* Stern, D. B. (2015). Unrepresented States and the Construction of Meaning: Clinical and Theoretical Contributions. The International Journal of Psychoanalysis, 96(2), 493–498. https://doi.org/10.1111/1745-8315.12275
 
 <!-- -->
 
