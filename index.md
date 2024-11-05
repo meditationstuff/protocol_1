@@ -344,7 +344,6 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="148ch" href="#can-t-talk">can't talk</a>
 	* <a id="148dh" href="#when-if-things-are-bad-not-your-fault-determinism">when/&#8203;if things are bad / (not your) fault / determinism</a>
 	* <a id="149h" href="#being-not-ok-tangles">being (not) ok tangles</a>
-	* <a id="149h2" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles</a>
 	* <a id="150h" href="#brief-note-on-space-and-sensations">brief note on space and sensations</a>
 	* <a id="150ah" href="#raw-bare-sensations-contra-alway-on-possibly-mislea">raw/&#8203;bare sensations contra "always on" (possibly misleading early draft)</a>
 	* <a id="151h" href="#brief-loosely-related-notes-on-unknotting-untwistin">brief, loosely related notes on unknotting, untwisting, untangling</a>
@@ -8448,60 +8447,6 @@ Being ok is against my belief system/ideology. Being not ok is what makes people
 Furthermore, it’s not ok to bask in the goodness of not being ok. Given that I’m not ok, it’s also not ok to fully enjoy not being ok. It’s not ok to enjoy how being broken is incredibly delicious.
 
 [<a href="#149h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
-
-
-# <span id="149b"></span><a id="being-forcibly-ok-tangles" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles:</a>
-
-being (forcibly) ok tangles:
-
-If I'm not ok, I'll be a burden on everyone else around me. Being not ok taps the finite well of others' patience and care. Being not ok is a social currency I can't afford to spend.
-
-<!-- If I'm not ok, I'll be a burden on everyone around me, and I can't bear to be that weight, so I have to be ok. I must be ok to deserve connection with others. -->
-
-<!--I must be ok in order to deserve love from others.--> People won't love me if I'm not ok. People only love those who are put-together, reliable, composed, and healthy. If I stop being ok I'll stop being lovable. <!--If I'm not ok, I'll stop deserving love, and I desperately need those things, so it's vital that I be ok.-->
-
-<!-- If I let myself not be ok, I'll lose all the stability I've built. Being ok makes me reliable, responsible, worthy of trust and respect. I need those things desperately, and I can only keep them if I stay ok. -->
-
-People won't accept who I am if I'm not ok (because falling apart isn't something I'm allowed to be), and it's critically important that I remain acceptable to others.
-
-<!-- People won't want me if I'm not ok.--> I'll be abandoned if I'm not ok. People only want to be with those who have it together<!--, who can be counted on,--> and who don't need too much. Only people who are ok get to keep their relationships.
-
-<!-- I'll be abandoned if I'm actually not ok. Being not ok isn't survivable. Being not ok makes one disposable. -->
-
-Being not ok is a moral failure. Being not ok represents<!-- a collapse of willpower, a lack the discipline, and --> a surrender to weakness<!-- that reflects poorly on my character -->. I have to be good and strong, and being good and strong means being ok.
-
-<!-- Being ok is what makes people worthwhile. Being ok is what makes people deserving. Being not ok is an unforgivable weakness. -->
-
-If I'm not ok even for a moment, everything will unravel and my life will come undone. There is no space between "completely ok" and "complete collapse." I must maintain okayness or risk total disaster.
-
-<!-- The second I admit to being not ok, I'll become unfixable. Okayness is the only thing keeping me from becoming irreparably broken. Once admitted, the not-okayness becomes real, becomes permanent, becomes me. -->
-
-Being not ok would be shameful and embarrassing. It would mean I've failed at the basic task of holding myself together. Everyone else manages to be ok; being not ok would mean there's something wrong with me. <!--I'm defective and would only confirm my fears of inadequacy.-->
-
-I’ll be taken advantage of if I'm not ok. Being not ok isn't safe. Being not ok makes one prey to others.
-
-Being ok is what makes me valuable to others. By being ok, I can play a role and have a place in the world. If I stop being ok I'll become unnecessary and lose my place. <!-- become costly, unneeded, and disposable. -->
-
-<!-- Only people who are ok are valued and respected by others. To be not ok is to be worthless and expendable. -->
-
-Being ok is the price of admission for existing in the world. If I'm not ok, I lose my right to take up space, to have needs, to be seen. Not being ok is a luxury reserved for people who have earned the right to fall apart.
-
-<!-- To be not ok is to admit that all my efforts at self-improvement have failed. It would mean facing that perhaps I can't actually effort my way into being fixed. It would mean all the meditation, books, and carefully cultivated habits were insufficient. And if they weren't enough, what else could ever be? -->
-
-To be not ok is to admit that all my efforts at self-improvement have failed. It would mean that everything I've done to improve my condition has been a waste of time and that I have nothing to show for my effort. It would mean facing the possbility that I am unfixable. <!-- possibility that I can't actually will my way into being fixed.-->
-
-<!-- There's safety in okayness. It's familiar and chosen. Numb okayness is better than falling apart. Better to be bent than broken. Better empty than exposed. -->
-
-The world needs me to be ok. My family needs me to be ok. My future self needs me to be ok. There is too much depending on me for me to ever be not ok. <!-- The weight of their needs is preferable to the weightlessness of letting go. -->
-
-Furthermore, it's not ok to question my okness. Given that I must be ok, it's also not ok to examine how exhausting this is. It's not ok to acknowledge how being constantly ok is incredibly lonely.
-
-<!-- something something if I reveal that I'm not ok, no one will love me. It will confirm the fact that no one cares about me. -->
-
-<!-- something about the dishonor of not being ok (c.f. fear/honor/guilt cultures) -->
-
-[<a href="#149h2">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
-
 
 # <span id="150"></span><a id="brief-note-on-space-and-sensations" href="#brief-note-on-space-and-sensations">brief note on space and sensations:</a>
 
