@@ -8494,7 +8494,7 @@ To be not ok is to admit that all my efforts at self-improvement have failed. It
 
 The world needs me to be ok. My family needs me to be ok. My future self needs me to be ok. There is too much depending on me for me to ever be not ok. <!-- The weight of their needs is preferable to the weightlessness of letting go. -->
 
-Furthermore, it's not ok to question my being ok. Given that I must be ok, it's also not ok to examine how exhausting this is. It's not ok to acknowledge how being constantly ok is incredibly lonely.
+Furthermore, it's not ok to question my okness. Given that I must be ok, it's also not ok to examine how exhausting this is. It's not ok to acknowledge how being constantly ok is incredibly lonely.
 
 <!-- something something if I reveal that I'm not ok, no one will love me. It will confirm the fact that no one cares about me. -->
 
