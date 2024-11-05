@@ -19,13 +19,16 @@ Messy list of mostly very academic references I found helpful (directly or indir
 <!-- -->
 
 * Ireland, Ken. The sequential dynamics of narrative: Energies at the margins of fiction. Fairleigh Dickinson Univ Press, 2001.
-* Alkon, Paul K. Defoe and fictional time. University of Georgia Press, 2010.
-* Caracciolo, Marco. "Tell-tale rhythms: Embodiment and narrative discourse." Storyworlds: A Journal of Narrative Studies 6.2 (2014): 49-73.
-* Martinec, Radan. "Rhythmic hierarchy in monologue and dialogue." Functions of language 9.1 (2002): 39-59.
-* Auer, Peter, Elizabeth Couper-Kuhlen, and Frank Muller. Language in time: The rhythm and tempo of spoken interaction. Oxford University Press, 1999.
-* Maszerowska, Anna, Anna Matamala, and Pilar Orero, eds. Audio description: New perspectives illustrated. Vol. 112. John Benjamins Publishing Company, 2014.
-* Sternberg, Meir. Expositional modes and temporal ordering in fiction. Indiana University Press, 1993.
-* Segal, Eyal. "Narrative Beginnings: Relations between First Full-Fledged Scenes and the Beginning of the Main Action." Narrative 32.1 (2024): 1-20.
+	* Alkon, Paul K. Defoe and fictional time. University of Georgia Press, 2010.
+	* Caracciolo, Marco. "Tell-tale rhythms: Embodiment and narrative discourse." Storyworlds: A Journal of Narrative Studies 6.2 (2014): 49-73.
+	* Martinec, Radan. "Rhythmic hierarchy in monologue and dialogue." Functions of language 9.1 (2002): 39-59.
+	* Auer, Peter, Elizabeth Couper-Kuhlen, and Frank Muller. Language in time: The rhythm and tempo of spoken interaction. Oxford University Press, 1999.
+	* Maszerowska, Anna, Anna Matamala, and Pilar Orero, eds. Audio description: New perspectives illustrated. Vol. 112. John Benjamins Publishing Company, 2014.
+	* Sternberg, Meir. Expositional modes and temporal ordering in fiction. Indiana University Press, 1993.
+	* Segal, Eyal. "Narrative Beginnings: Relations between First Full-Fledged Scenes and the Beginning of the Main Action." Narrative 32.1 (2024): 1-20.
+	* Gingrich, Brian. The pace of fiction: Narrative movement and the novel. Oxford University Press, 2021.
+
+
 
 <!-- -->
 
@@ -148,6 +151,9 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * **Dry, Helen Aristar. "The Movement of Narrative Time." Journal of Literary Semantics, vol. 12, no. 2, 1983, pp. 19-53.**
 	* Dry, Helen. "Sentence aspect and the movement of narrative time." Text-Interdisciplinary Journal for the Study of Discourse 1.3 (1981): 233-240.
 	* Depraetere, Ilse. "On the necessity of distinguishing between (un) boundedness and (a) telicity." Linguistics and philosophy 18 (1995): 1-19.
+	* DEPRAETERE, ILSE. "Foregrounding in English relative clauses" Linguistics, vol. 34, no. 4, 1996, pp. 699-732.
+	* Bache, Carl. "Narrative when in English1." English Language & Linguistics 20.2 (2016): 273-294.
+	* Bache, Carl. "Narrative before in English." Journal of English Linguistics 46.1 (2018): 23-51.
 * -
 	* Gournay, Lucie. "Locative Inversion In Discourse: a strategy of non-commitment." Discours. Revue de linguistique, psycholinguistique et informatique. A journal of linguistics, psycholinguistics and computational linguistics 5 (2009).
 	* Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.
