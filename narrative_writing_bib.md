@@ -11,16 +11,29 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * https://en.wikipedia.org/wiki/Allegory
 * Strauss, Leo. Persecution and the Art of Writing. University of Chicago Press, 1988.
 
+* Arijon, Daniel. Grammar of the Film Language. Silman-James Press, 1991.
+* Smith, Tim J. "The attentional theory of cinematic continuity." Projections 6.1 (2012): 1-27.
+* Cumming, Samuel, et al. "Showing seeing in film." Ergo an Open Access Journal of Philosophy 7 (2021).
+* Cumming, Samuel, Gabriel Greenberg, and Rory Kelly. "Conventions of viewpoint coherence in film." (2017).
+
+<!-- -->
+
+* Ireland, Ken. The sequential dynamics of narrative: Energies at the margins of fiction. Fairleigh Dickinson Univ Press, 2001.
+* Alkon, Paul K. Defoe and fictional time. University of Georgia Press, 2010.
+* Caracciolo, Marco. "Tell-tale rhythms: Embodiment and narrative discourse." Storyworlds: A Journal of Narrative Studies 6.2 (2014): 49-73.
+* Martinec, Radan. "Rhythmic hierarchy in monologue and dialogue." Functions of language 9.1 (2002): 39-59.
+* Auer, Peter, Elizabeth Couper-Kuhlen, and Frank Muller. Language in time: The rhythm and tempo of spoken interaction. Oxford University Press, 1999.
+
 <!-- -->
 
 * Allan, Rutger J. "Construal and immersion: A cognitive linguistic approach to Homeric immersivity." The Routledge Handbook of Classics and Cognitive Theory. Routledge, 2018. 59-78.
 * Lopes, José M. "Foregrounded Description in Prose Fiction: Five Cross-Literary Studies." (1995).
 
-<!-- -->
-
 * Furst, Lilian R. All is true: the claims and strategies of realist fiction. Duke University Press, 1995.
 * Reed, John R. Dickens's Hyperrealism. The Ohio State University Press, 2010.
 * https://en.wikipedia.org/wiki/Hypotyposis [Last accessed: 2024-10-28]
+
+* Jean, Ricardou. Nouveaux problèmes du roman. Seuil, 1978.
 
 <!-- -->
 
@@ -32,6 +45,7 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* -
 		* Henschel, Renate, Hua Cheng, and Massimo Poesio. "Pronominalization revisited." COLING 2000 Volume 1: The 18th International Conference on Computational Linguistics. 2000.
 			* Passonneau, R. J. (1996). Using Centering to Relax Gricean Informational Constraints on Discourse Anaphoric Noun Phrases. Language and Speech, 39(2-3), 229–264.
+* Jean, Ricardou. Nouveaux problèmes du roman. Seuil, 1978.
 
 <!-- -->
 
@@ -45,11 +59,14 @@ Messy list of mostly very academic references I found helpful (directly or indir
 <!-- -->
 
 * Hough, Graham. "Narrative and dialogue in Jane Austen" Selected essays. CUP Archive, 1978. Originally published: The Critical Quarterly, 1970.
+	* Ikeo, R. (2007). Unambiguous free indirect discourse? a comparison between “straightforward” free indirect speech and thought presentation and cases ambiguous with narration. Language and Literature, 16(4), 367–387.
+		* Semino, E. and Short, M. (2004) Corpus Stylistics: Speech, Writing and Thought Presentation in a Corpus of English Writing. London: Routledge.
+	* Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.
 * Murphy, Terence Patrick, and Kelly S. Walsh. "Unreliable third person narration? The case of Katherine Mansfield." Journal of Literary Semantics 46.1 (2017): 67-85.
 * Gunn, Daniel P. "Free indirect discourse and narrative authority in" Emma"." Narrative 12.1 (2004): 35-54.
 * -
 	* Manganaro, Thomas Salem. "Free Indirect Discourse and the Problem of the Will in Two Novels by William Godwin." Studies in Romanticism 57.2 (2018): 301-323.
-	* Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.**
+	* Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.
 		* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
 
 <!-- -->
@@ -210,6 +227,26 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 	* https://www.google.com/search?q=%22she+herself%22+OR+%22he+himself%22+OR+%22they+themself%22+OR+%22they+themselves%22+free+indirect&tbm=bks
 	* Corazza, Eros. "She and Herself." Indirect Reports and Pragmatics: Interdisciplinary Studies (2016): 507-519.
 		* Capone, Alessandro. "Impure ‘de se’Thoughts and Pragmatics (and How This Is Relevant to Pragmatics and IEM)." The Pragmatics of Indirect Reports: Socio-philosophical Considerations (2016): 287-306.
+		* Stirling, Lesley (1993). "Logophoricity". Switch-reference and discourse representation. Cambridge University Press. p. 259.
+		* https://en.wikipedia.org/wiki/Logophoricity
+		* Heim, Irene. Pranav Anand. Diss. Massachusetts Institute of Technology, 2006.
+		* Lewis, David (1979). "Attitudes De Dicto and De Se" The Philosophical Review, 88, pp. 513–543.
+		* Charnavel, I., Bryant, S. The whole picture: Disentangling locality, logophoricity and subjecthood in English picture noun anaphora. Nat Lang Linguist Theory 41, 547–610 (2023).
+		* Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.
+		* CULY, CHRISTOPHER. "Aspects of logophoric marking" Linguistics, vol. 32, no. 6, 1994, pp. 1055-1094. 
+		* Zribi-Hertz, Anne. "On Stroik's analysis of English middle constructions." Linguistic inquiry 24.3 (1993): 583-589.
+		* Nikitina, Tatiana and Bugaeva, Anna. "Logophoric speech is not indirect: towards a syntactic approach to reported speech constructions" Linguistics, vol. 59, no. 3, 2021, pp. 609-633.
+		* Charnavel, Isabelle. "Free Indirect Discourse as logophoric context." (2024).
+		* Charnavel, Isabelle Carole, and Christina Diane Zlogar. "English reflexive logophors." (2015).
+		* Zwicky, A. "Hey, Whatsyourname!" (1974?).
+		* Eckardt, Regine. "Dear Ede!: Semantics and Pragmatics of Vocatives." Approaches to Meaning (2014): 223-249.
+		* -
+			* Mäkelä, Maria. "Masters of Interiority: Figural Voices as Discursive Appropriators and as Loopholes in Narrative Communication." Strange Voices in Narrative Fiction (2011): 191-218.
+				* Bray, Joe. "The epistolary novel: Representations of consciousness." (2003).
+			* Wolf, Werner. "Framing Borders in Frame Stories." Framing Borders in Literature and Other Media (2006): 179-206.
+			* Caro, Robert A. Working. Vintage, 2020.
+			* Ryan, Marie-Laure. "Embedded narratives and tellability." Style (1986): 319-340.
+			* Norrick, Neal R. "The dark side of tellability." Narrative Inquiry 15.2 (2005): 323-343.
 * Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.
 	* Bach, Kent. "Words and Thoughts: Subsentences, Ellipsis, and the Philosophy of Language." (2008): 739-742.
 	* Elugardo, Reinaldo, and Robert J. Stainton. "Logical Form and the Vernacular." Mind & language 16.4 (2001): 393-424.
@@ -227,8 +264,7 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 * Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.
 
 <!-- -->
-* Stirling, Lesley (1993). "Logophoricity". Switch-reference and discourse representation. Cambridge University Press. p. 259.
-	* https://en.wikipedia.org/wiki/Logophoricity
+
 * Koev, Todor. Parenthetical meaning. Oxford Studies in Semantics and Pragmatics Vol. 14. Oxford University Press, 2022.
 * Dehé, Nicole. Parentheticals in spoken English: The syntax-prosody relation. Studies in English Language. Cambridge University Press, 2014.
 * Cui, Yaxiao. "Parentheticals and Shifts in Point of View in Virginia Woolf’s Novels." (2013).
