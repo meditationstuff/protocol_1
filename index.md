@@ -344,7 +344,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="148ch" href="#can-t-talk">can't talk</a>
 	* <a id="148dh" href="#when-if-things-are-bad-not-your-fault-determinism">when/&#8203;if things are bad / (not your) fault / determinism</a>
 	* <a id="149h" href="#being-not-ok-tangles">being (not) ok tangles</a>
-	* <a id="149h2" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles</a>
+	* <a id="149h2" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles (h)</a>
 	* <a id="150h" href="#brief-note-on-space-and-sensations">brief note on space and sensations</a>
 	* <a id="150ah" href="#raw-bare-sensations-contra-alway-on-possibly-mislea">raw/&#8203;bare sensations contra "always on" (possibly misleading early draft)</a>
 	* <a id="151h" href="#brief-loosely-related-notes-on-unknotting-untwistin">brief, loosely related notes on unknotting, untwisting, untangling</a>
@@ -8450,7 +8450,7 @@ Furthermore, it’s not ok to bask in the goodness of not being ok. Given that I
 [<a href="#149h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="149b"></span><a id="being-forcibly-ok-tangles" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles:</a>
+# <span id="149b"></span><a id="being-forcibly-ok-tangles" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles (h):</a>
 
 being (forcibly) ok tangles:
 
