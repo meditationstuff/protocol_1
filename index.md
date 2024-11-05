@@ -8468,7 +8468,7 @@ People won't accept who I am if I'm not ok (because falling apart isn't somethin
 
 <!-- I'll be abandoned if I'm actually not ok. Being not ok isn't survivable. Being not ok makes one disposable. -->
 
-Being not ok is a moral failure. It represents<!-- a collapse of willpower, a lack the discipline, and --> a surrender to weakness<!-- that reflects poorly on my character -->. It's important to be good and strong, and being good and strong means being ok.
+Being not ok is a moral failure. Being not ok represents<!-- a collapse of willpower, a lack the discipline, and --> a surrender to weakness<!-- that reflects poorly on my character -->. I have to be good and strong, and being good and strong means being ok.
 
 <!-- Being ok is what makes people worthwhile. Being ok is what makes people deserving. Being not ok is an unforgivable weakness. -->
 
