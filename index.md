@@ -344,6 +344,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="148ch" href="#can-t-talk">can't talk</a>
 	* <a id="148dh" href="#when-if-things-are-bad-not-your-fault-determinism">when/&#8203;if things are bad / (not your) fault / determinism</a>
 	* <a id="149h" href="#being-not-ok-tangles">being (not) ok tangles</a>
+	* <a id="149h2" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles</a>
 	* <a id="150h" href="#brief-note-on-space-and-sensations">brief note on space and sensations</a>
 	* <a id="150ah" href="#raw-bare-sensations-contra-alway-on-possibly-mislea">raw/&#8203;bare sensations contra "always on" (possibly misleading early draft)</a>
 	* <a id="151h" href="#brief-loosely-related-notes-on-unknotting-untwistin">brief, loosely related notes on unknotting, untwisting, untangling</a>
@@ -5733,7 +5734,7 @@ alternative presentation: [yay = good; bleh = bad] "Many Protocol" (Last updated
 
 (1) Let there be A and B, which comprise a group G. A is a single person. B could be a single person or multiple people.
 
-(2) Person A considers a move M. M can be (a) physically verbal, physical nonverbal, mental, or even (b) a "non-move that’s still a move." Examples of (a): a verbal observation, verbal question, a verbal request, a quizzical look, a shrug, eye contact... Examples of (b): thinking about what to say, waiting patiently, waiting patiently with an open mind, leaving the vicinity temporarily...
+(2) Person A considers a move M. M can be (a) physically verbal, physical nonverbal, mental, or even (b) a "non-move that’s still a move." Examples of (a): a verbal observation, verbal question, a verbal request, a quizzical look, a shrug, eye contact... Examples of (b): thinking about what to say, waiting patiently, waiting patiently with an open mind, leaving the vicinity temporarily...
 Moves can be complex, that is, moves can be made of submoves that are simultaneous and/or sequential in time.
 
 (3) Now, say, something can be "yay" or "bleh" for someone. And, something can be *believed* to be yay or bleh for someone, *by* someone. And, two or more people, at a particular time, might disagree as to whether a particular something is yay or bleh (for someone or in general). Also, say, for our purposes, that there’s a fact of the matter or a ground truth, that that particular something is actually/truly (contextually, for a particular person at a particular time) yay or bleh, with no other possibilities. And let those possibilities be possibilities for M. That is, we can have a big list (exactly 64 items) of things that could be the case for M, where only one entry/line in the list is true at a particular time. That list is in Appendix 1.
@@ -5821,7 +5822,7 @@ Moves can be complex, that is, moves can be made of submoves that are simultaneo
 * resignation = deciding (perhaps in the distant past and having forgotten) to never (try to) get some good thing, person, place, situation, context, experience
 * deferral = deciding (perhaps in the distant past and having forgotten) to get a good thing (perhaps much, much, much later)
 disgust/revulsion/hate/rejection = response to being seemingly or actually choicelessly/inevitably felt subject to past or expected, seeming or actual (felt) harm/hurt you currently lack the ability to [i.e. can’t] adequately predict, control, or repair with negligible enough opportunity cost
-* atonement/&#8203;reparations/&#8203;restitution/&#8203;redemption/&#8203;apology/&#8203;repair = 
+* atonement/&#8203;reparations/&#8203;restitution/&#8203;redemption/&#8203;apology/&#8203;repair = 
 * love = abstract and/or felt and/or skillful concrete actions arising from accepting a person, place, or thing exactly as they are, have been, and will be/become (it is, has been, and will be/become)
 * compassion/care = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be free from suffering
 * loving-kindess/kindness/care (metta) = abstract and/or (heart)felt and/or skillful concrete actions arising from the felt desire/want, need, longing of a person (or persons, specific or general or universal) or other feeling/mindful being near or far to be happy/&#8203;joyful/&#8203;satisfied/&#8203;satiated/&#8203;complete/&#8203;content
@@ -8127,7 +8128,7 @@ If something got much better during meditation (like e.g. "self attacking" was v
 
 Because, it can mean that previously suppressed things are becoming unsuppressed.
 
-If something is suppressed, unsuppression is necessary for burn off or integration to ultimately occur: the mind can't go directly from suppressed to integrated--there has to be an intermediate step of things being unsuppressed and conscious. And then, from consciousness, integration or burn off can (eventually!!) occur.
+If something is suppressed, unsuppression is necessary for burn off or integration to ultimately occur: the mind can't go directly from suppressed to integrated--there has to be an intermediate step of things being unsuppressed and conscious. And then, from consciousness, integration or burn off can (eventually!!) occur.
 
 It's hard to tell, at least at first--sometimes despair, fragmentation, etc., can mean one is doing something wrong.
 
@@ -8447,6 +8448,60 @@ Being ok is against my belief system/ideology. Being not ok is what makes people
 Furthermore, it’s not ok to bask in the goodness of not being ok. Given that I’m not ok, it’s also not ok to fully enjoy not being ok. It’s not ok to enjoy how being broken is incredibly delicious.
 
 [<a href="#149h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
+# <span id="149b"></span><a id="being-forcibly-ok-tangles" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles:</a>
+
+being (forcibly) ok tangles:
+
+If I'm not ok, I'll be a burden on everyone else around me. Being not ok taps the finite well of others' patience and care. Being not ok is a social currency I can't afford to spend.
+
+<!-- If I'm not ok, I'll be a burden on everyone around me, and I can't bear to be that weight, so I have to be ok. I must be ok to deserve connection with others. -->
+
+<!--I must be ok in order to deserve love from others.--> People won't love me if I'm not ok. People only love those who are put-together, reliable, composed, and healthy. If I stop being ok I'll stop being lovable. <!--If I'm not ok, I'll stop deserving love, and I desperately need those things, so it's vital that I be ok.-->
+
+<!-- If I let myself not be ok, I'll lose all the stability I've built. Being ok makes me reliable, responsible, worthy of trust and respect. I need those things desperately, and I can only keep them if I stay ok. -->
+
+People won't accept who I am if I'm not ok (because falling apart isn't something I'm allowed to be), and it's critically important that I remain acceptable to others.
+
+<!-- People won't want me if I'm not ok.--> I'll be abandoned if I'm not ok. People only want to be with those who have it together<!--, who can be counted on,--> and who don't need too much. Only people who are ok get to keep their relationships.
+
+<!-- I'll be abandoned if I'm actually not ok. Being not ok isn't survivable. Being not ok makes one disposable. -->
+
+Being not ok is a moral failure. It represents<!-- a collapse of willpower, a lack the discipline, and --> a surrender to weakness<!-- that reflects poorly on my character -->. It's important to be good and strong, and being good and strong means being ok.
+
+<!-- Being ok is what makes people worthwhile. Being ok is what makes people deserving. Being not ok is an unforgivable weakness. -->
+
+If I'm not ok even for a moment, everything will unravel and my life will come undone. There is no space between "completely ok" and "complete collapse." I must maintain okayness or risk total disaster.
+
+<!-- The second I admit to being not ok, I'll become unfixable. Okayness is the only thing keeping me from becoming irreparably broken. Once admitted, the not-okayness becomes real, becomes permanent, becomes me. -->
+
+Being not ok would be shameful and embarrassing. It would mean I've failed at the basic task of holding myself together. Everyone else manages to be ok; being not ok would mean there's something wrong with me. <!--I'm defective and would only confirm my fears of inadequacy.-->
+
+I’ll be taken advantage of if I'm not ok. Being not ok isn't safe. Being not ok makes one prey to others.
+
+Being ok is what makes me valuable to others. By being ok, I can play a role and have a place in the world. If I stop being ok I'll become unnecessary and lose my place. <!-- become costly, unneeded, and disposable. -->
+
+<!-- Only people who are ok are valued and respected by others. To be not ok is to be worthless and expendable. -->
+
+Being ok is the price of admission for existing in the world. If I'm not ok, I lose my right to take up space, to have needs, to be seen. Not being ok is a luxury reserved for people who have earned the right to fall apart.
+
+<!-- To be not ok is to admit that all my efforts at self-improvement have failed. It would mean facing that perhaps I can't actually effort my way into being fixed. It would mean all the meditation, books, and carefully cultivated habits were insufficient. And if they weren't enough, what else could ever be? -->
+
+To be not ok is to admit that all my efforts at self-improvement have failed. It would mean that everything I've done to improve my condition has been a waste of time and that I have nothing to show for my effort. It would mean facing the possbility that I am unfixable. <!-- possibility that I can't actually will my way into being fixed.-->
+
+<!-- There's safety in okayness. It's familiar and chosen. Numb okayness is better than falling apart. Better to be bent than broken. Better empty than exposed. -->
+
+The world needs me to be ok. My family needs me to be ok. My future self needs me to be ok. There is too much depending on me for me to ever be not ok. <!-- The weight of their needs is preferable to the weightlessness of letting go. -->
+
+Furthermore, it's not ok to question this endless okayness. Given that I must be ok, it's also not ok to examine how exhausting this is. It's not ok to acknowledge how being constantly ok is incredibly lonely.
+
+<!-- something something if I reveal that I'm not ok, no one will love me. It will confirm the fact that no one cares about me. -->
+
+<!-- something about the dishonor of not being ok (c.f. fear/honor/guilt cultures) -->
+
+[<a href="#149h2">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="150"></span><a id="brief-note-on-space-and-sensations" href="#brief-note-on-space-and-sensations">brief note on space and sensations:</a>
 
@@ -12336,9 +12391,9 @@ In conclusion, one could be thought of as sometimes having a scattering of "deep
 
 [I’m indebted to a few collaborators for initial salience that a bunch of this was even a thing, and more.]
 
-It’s maybe less controversial that, if one eventually encounters pretty much everything, including very early life stuff, that one will eventually come across things like surgeries under general anesthesia and traumatic medical or ritual events like circumcision (depending on decade born, where in the world, and parental culture.) 
+It’s maybe less controversial that, if one eventually encounters pretty much everything, including very early life stuff, that one will eventually come across things like surgeries under general anesthesia and traumatic medical or ritual events like circumcision (depending on decade born, where in the world, and parental culture.) 
 
-As a side note, it seems like people, the bodymind, actually is/are unconscious while under general anesthesia—there’s not some ultimately recoverable, intensely painful memory, or maybe even any sense of pain. It does seem like there’s maybe the faintest, diffuse shadow of pain and/or some mild "blurring" around the edges of the system, as it were. But this seems to be straightforward to clean up in meditation and doesn’t seem to heavily bottleneck people, as far as I can tell. It might be different for different people. 
+As a side note, it seems like people, the bodymind, actually is/are unconscious while under general anesthesia—there’s not some ultimately recoverable, intensely painful memory, or maybe even any sense of pain. It does seem like there’s maybe the faintest, diffuse shadow of pain and/or some mild "blurring" around the edges of the system, as it were. But this seems to be straightforward to clean up in meditation and doesn’t seem to heavily bottleneck people, as far as I can tell. It might be different for different people. 
 
 Anyway, regarding "everything," one might note that these are things that can happen preverbally and in the seeming "amnesia period" of early life events. So, one point, here, is that people do, in some relatively typically, fairly discretely sense, sometimes, have recoverable early life and preverbal memories. And these, quickly or eventually, are indeed recovered, re-experienced, and re-interpreted, etc., in meditation.
 
