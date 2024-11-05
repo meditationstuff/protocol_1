@@ -23,6 +23,9 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Caracciolo, Marco. "Tell-tale rhythms: Embodiment and narrative discourse." Storyworlds: A Journal of Narrative Studies 6.2 (2014): 49-73.
 * Martinec, Radan. "Rhythmic hierarchy in monologue and dialogue." Functions of language 9.1 (2002): 39-59.
 * Auer, Peter, Elizabeth Couper-Kuhlen, and Frank Muller. Language in time: The rhythm and tempo of spoken interaction. Oxford University Press, 1999.
+* Maszerowska, Anna, Anna Matamala, and Pilar Orero, eds. Audio description: New perspectives illustrated. Vol. 112. John Benjamins Publishing Company, 2014.
+* Sternberg, Meir. Expositional modes and temporal ordering in fiction. Indiana University Press, 1993.
+* Segal, Eyal. "Narrative Beginnings: Relations between First Full-Fledged Scenes and the Beginning of the Main Action." Narrative 32.1 (2024): 1-20.
 
 <!-- -->
 
