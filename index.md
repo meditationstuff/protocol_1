@@ -8468,7 +8468,7 @@ People won't accept who I am if I'm not ok (because falling apart isn't somethin
 
 <!-- I'll be abandoned if I'm actually not ok. Being not ok isn't survivable. Being not ok makes one disposable. -->
 
-Being not ok is a moral failure. It represents<!-- a collapse of willpower, a lack the discipline, and --> a surrender to weakness<!-- that reflects poorly on my character -->. It's important to be good and strong, and being good and strong means being ok.
+Being not ok is a moral failure. Being not ok represents<!-- a collapse of willpower, a lack the discipline, and --> a surrender to weakness<!-- that reflects poorly on my character -->. I have to be good and strong, and being good and strong means being ok.
 
 <!-- Being ok is what makes people worthwhile. Being ok is what makes people deserving. Being not ok is an unforgivable weakness. -->
 
@@ -8494,7 +8494,7 @@ To be not ok is to admit that all my efforts at self-improvement have failed. It
 
 The world needs me to be ok. My family needs me to be ok. My future self needs me to be ok. There is too much depending on me for me to ever be not ok. <!-- The weight of their needs is preferable to the weightlessness of letting go. -->
 
-Furthermore, it's not ok to question this endless okayness. Given that I must be ok, it's also not ok to examine how exhausting this is. It's not ok to acknowledge how being constantly ok is incredibly lonely.
+Furthermore, it's not ok to question my okayness. Given that I must be ok, it's also not ok to examine how exhausting this is. It's not ok to acknowledge how being constantly ok is incredibly lonely.
 
 <!-- something something if I reveal that I'm not ok, no one will love me. It will confirm the fact that no one cares about me. -->
 
