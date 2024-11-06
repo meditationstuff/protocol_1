@@ -8452,8 +8452,6 @@ Furthermore, it’s not ok to bask in the goodness of not being ok. Given that I
 
 # <span id="149b"></span><a id="being-forcibly-ok-tangles" href="#being-forcibly-ok-tangles">being (forcibly) ok tangles (h):</a>
 
-being (forcibly) ok tangles:
-
 If I'm not ok, I'll be a burden on everyone else around me. Being not ok taps the finite well of others' patience and care. Being not ok is a social currency I can't afford to spend.
 
 <!-- If I'm not ok, I'll be a burden on everyone around me, and I can't bear to be that weight, so I have to be ok. I must be ok to deserve connection with others. -->
