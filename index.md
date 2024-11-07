@@ -13812,6 +13812,10 @@ From somewhere age(s) 2-5; "core personality stuff":
 * skepticism / (epistemic) paranoia, calling bullshit, calling full of shit, knee-jerk anti-authoritarianism,
 * social warmth / belonging
 
+* 20241107
+
+Ken Wilber / Aurobindo --- overmind / supermind type stuff (not the first time; last time was in past year and I think I didn't record it) ; See maybe Wilber's Religion of Tommorow (maybe better discussion in earlier works, too). Note: Ken Wilber is not uncontroversial if you search around.
+
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
