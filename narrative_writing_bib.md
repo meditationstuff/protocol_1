@@ -154,6 +154,16 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* DEPRAETERE, ILSE. "Foregrounding in English relative clauses" Linguistics, vol. 34, no. 4, 1996, pp. 699-732.
 	* Bache, Carl. "Narrative when in English1." English Language & Linguistics 20.2 (2016): 273-294.
 	* Bache, Carl. "Narrative before in English." Journal of English Linguistics 46.1 (2018): 23-51.
+	* Bertinetto, Pier Marco, and Alessandro Lenci. "Iterativity vs. habituality (and gnomic imperfectivity)." (2010).
+	* \#semelfactive habitual, intermittent habitual, iterative habitual, dispositional aspect, sporadic habitual
+	* Lund, Gunnar. Pluractionality in progress. Harvard University, 2021.
+	* Hendersen, R. "Pluractionality and distributivity." Handbook of North American Languages (2019).
+	* Chierchia, Gennaro. "Kinds, properties and atelicity." Semantics and Linguistic Theory. 2023.
+		* "durative modifers"
+	* King, Harold V. "Punctual versus durative as covert categories 1." Language Learning 19.3‐4 (1969): 185-190.
+	* https://www.reddit.com/r/RPGdesign/comments/k1rrzu/the_d8_system_poisson_dice/ [Last accessed: 2024-11-08]
+	* https://antipodes.substack.com/p/the-d8-role-playing-system [Last accessed: 2024-11-08]
+	* Binnick, Robert I. "The markers of habitual aspect in English." Journal of English Linguistics 33.4 (2005): 339-369.
 * -
 	* Gournay, Lucie. "Locative Inversion In Discourse: a strategy of non-commitment." Discours. Revue de linguistique, psycholinguistique et informatique. A journal of linguistics, psycholinguistics and computational linguistics 5 (2009).
 	* Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.

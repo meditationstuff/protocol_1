@@ -5367,7 +5367,7 @@ this is for (finally) working through that (maybe) (pernicious) have to do somet
 
 Release effort / Release "I-fort" ; puzzle-solve / seek safe-all-the-way-down-and-global effortlessness.
 
-seek effortlessness
+seek effortlessness / incline towards effortlessness
 
 Notes:
 
@@ -5380,6 +5380,7 @@ Notes:
 	* 'I’m starting to get a little suspicious that Taoism might be low key the strictly superior product but Buddhism has both extensive technical manuals and better marketing. Buddhism sells the problem and then the solution and Taoism is just like “It’s useless ¯\\\_(ツ)\_/¯"'
 		* I'm probably being really dumb in this tweet and riffing off of poor translations
 * this is maybe for some people sort of a "heavy-hitter" that should be reflected in the percentages section where I indicate a ton of p2, when I update that
+* a related formulation: notice / rest-in-how awareness, experiencing, etc. is effortless, takes no effort, no action, no doing, no intention, no will, etc.
 
 Related / see also:
 
