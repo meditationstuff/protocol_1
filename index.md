@@ -38,6 +38,7 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
 * Grant, Adam. **Give and take**: A revolutionary approach to success. Penguin, 2013. \[Mark comment: cf. buddhist "interdependence"]
 * Kay, John, and Shiva Kumar Srinivasan. "**Obliquity**: Why Our Goals are Best Achieved Indirectly."
  \[Mark comment: cf. meditation as as-needed maximally indirect ultimately-concrete problem-solving]
+ 	* Kenneth O. O. Stanley, Kenneth O. O. and Joel Lehman. **Why Greatness Cannot Be Planned**: The Myth of the Objective. Springer, 2015 edition. \[hat-tip: JC]
 * Wilber, Ken. **The religion of tomorrow**: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017. \[maybe very overly-reifying and I'm aware there's a ton of Wilber-criticism])
 
 <span id="who-is-this-document-for"></span> **Who is this document for?**
@@ -4976,6 +4977,7 @@ See also:
 
 * <a href="#exhaustivity-and-bottlenecks">exhaustivity and bottlenecks</a>
 * <a href="#184a">the scale analogy</a>
+* Something by Julie Henderson; I think it's: The Lover Within, near the very beginning of the book.
 
 [<a href="#109a5h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -7598,6 +7600,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * fluid, "pre-anticipated" transitions [cf. synchrony or self-alignment] 1s transition, so see if can help it out and do in 0.5s, creates spaciousness for autopilot because you've done its job for it; where gonna get pulled next and can i get there first? truly doing what it wants as long as it does so it has space to reconfigure
 * embrace / allow self-concept contradictions (to settle) (post-intolerability)
 * While distraction and avoidance of leading edge intolerability and disregulation is totally kosher and awesome, those who have the misfortune of learning to successfully block suffering-as-such trade it for emotional-doxastic-behavioral rigidity somewhere else in the system—the inability to learn or change—very mechanistic; not metaphorical. It is a devil's bargain and not a long-run winning/not-losing strategy. (tweet brought to u by technical meditation small group discussion today) https://twitter.com/meditationstuff/status/1842265929327271950
+* stay close to inability; don't "puzzle solve" *away* from it
 
 end "misc pith"
 

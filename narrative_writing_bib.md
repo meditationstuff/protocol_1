@@ -7,6 +7,8 @@ Messy list of mostly very academic references I found helpful (directly or indir
 
 # -
 
+* Playful Narrative: A Toolbox for Story-Rich Mechanics https://polarisgamedesign.com/wp-content/uploads/2023/02/Playful-Narrative_-A-Toolbox-for-Story-Rich-Mechanics_Polaris2022.pdf [Last accessed: 2024-11-13]
+
 * Ball, David. Backwards and forwards: A technical manual for reading plays. SIU Press, 1983.
 * https://en.wikipedia.org/wiki/Allegory
 * Strauss, Leo. Persecution and the Art of Writing. University of Chicago Press, 1988.
