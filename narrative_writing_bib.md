@@ -9,6 +9,8 @@ Messy list of mostly very academic references I found helpful (directly or indir
 
 * Playful Narrative: A Toolbox for Story-Rich Mechanics https://polarisgamedesign.com/wp-content/uploads/2023/02/Playful-Narrative_-A-Toolbox-for-Story-Rich-Mechanics_Polaris2022.pdf [Last accessed: 2024-11-13]
 
+* Esipova, Maria. "On not-at-issueness in pictures." Glossa: a journal of general linguistics 6.1 (2021): 83.
+
 * Ball, David. Backwards and forwards: A technical manual for reading plays. SIU Press, 1983.
 * https://en.wikipedia.org/wiki/Allegory
 * Strauss, Leo. Persecution and the Art of Writing. University of Chicago Press, 1988.
@@ -168,7 +170,43 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* Binnick, Robert I. "The markers of habitual aspect in English." Journal of English Linguistics 33.4 (2005): 339-369.
 * -
 	* Gournay, Lucie. "Locative Inversion In Discourse: a strategy of non-commitment." Discours. Revue de linguistique, psycholinguistique et informatique. A journal of linguistics, psycholinguistics and computational linguistics 5 (2009).
+		* Miller, Philip. "Subject Inversion and Information Structure." (2024).
+		* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
+		* Shizawa, Takashi. "The Rhetorical Effect of Locative Inversion Constructions from the Perspective of the Three-Tier Model of Language Use." English Linguistics 32.1 (2015): 156-176.
+		* -
+			* Wyld, Henry. "Degrés de subjectivisation dans la représentation linguistique de la perception: le cas de la perception directe dans les récits en anglais." Anglophonia. French Journal of English Linguistics 31 (2021).
+			* Fuchs, Catherine, et al. "A paradoxical case of locative inversion in French." Adverbials use: From predicative to discourse functions (2014): 39-71.
+			* Mélis, Gérard. "Analyse de la composante sémantique lexicale de l’inversion locative en anglais." e-Rea. Revue électronique d’études sur le monde anglophone 11.1 (2013).
+			* Gournay, Lucie. "Les auxiliaires modaux et l’inversion du sujet nominal en français et en anglais." Linx. Revue des linguistes de l’université Paris X Nanterre 70-71 (2014): 165-183.
+			* Malchukov, Andrej, and Akio Ogawa. "Towards a typology of impersonal constructions." Impersonal constructions: A cross-linguistic perspective (2011): 19-56.
+				* https://scholar.google.com/scholar?hl=en&as_sdt=0%2C50&q=towards+a+typology+of+impersonal+constructions&btnG= [Last accessed: 2024-11-17]
+				* Creissels, Denis. "Impersonal constructions in typological perspective." Sixteenth Conference on Typology and Grammar for Young Scholars, Saint Petersburg. 2019.
+				* Siewierska, Anna, ed. Impersonal constructions: A cross-linguistic perspective. Vol. 124. John Benjamins Publishing, 2011.
+				* Babby, Leonard H. "Prolegomenon to any future typology of impersonal sentences." (2009).
+			* -
+				* 志澤剛. "Locative Inversion as Viewed from the Perspective of Evidentiality: A Usage-Based Approach." 群馬県立女子大学紀要 36 (2015): 45-56.
+					* Shizawa, Takashi. "The Rhetorical Effect of Locative Inversion Constructions from the Perspective of the Three-Tier Model of Language Use." English Linguistics 32.1 (2015): 156-176.
+				* Honda, Masatoshi. "Notes on Deictic Inversion and Quotative Inversion in English." 宮崎大学教育学部紀要 100 (2023): 21-40.
+				* Otzinger, Dagmar Thea Lola. A quantitative partitive determiner analysis of “there” with or without locative inversion. Faculty of Graduate Studies and Research, University of Regina, 2004.
+				* Kärnebro, Malin. "English Locative Inversion A corpus based analysis of differences between genres, years and varieties." (2010).
+				* Prado-Alonso, Carlos. "Verb Phrase Inversion in Fictional and Non-Fictional Written English." English Studies 95.2 (2014): 177-194.
+				* Typology of Inversion & Inversion-triggering Elements in English Linguistics - Rabin Kumar Das - IJFMR Volume 5, Issue 5, September-October 2023.
+			* - [Last accessed: 2024-11-18]
+				* https://en.wikipedia.org/wiki/Subject%E2%80%93auxiliary_inversion
+				* https://en.wikipedia.org/wiki/English_conditional_sentences#Inversion_in_condition_clauses
+				* https://en.wikipedia.org/wiki/Subject%E2%80%93verb_inversion_in_English
+				* https://en.wikipedia.org/wiki/Subject%E2%80%93verb_inversion_in_English
+				* https://en.wikipedia.org/wiki/English_subjunctive
+				* https://en.wikipedia.org/wiki/Inverse_copular_constructions
+				* https://en.wikipedia.org/wiki/Discontinuity_(linguistics)
+
 	* Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.
+
+* -
+	* pirateaba. The Wandering Inn. https://wanderinginn.com/2017/03/03/rw1-00/ [Last accessed: 2024-11-18]
+	* Tanaka, Yoshiki. Legend of the Galactic Heroes.
+	* Erikson, Steven. Malazan Book of the Fallen.
+	* Ian Cameron Esslemont, Ian C.. Novels of the Malazan Empire.
 
 * Dry, Helen Aristar, and Susan Kucinkas. "Ghostly Ambiguity: Presuppositional Constructions in" The Turn of the Screw"." Style (1991): 71-88.
 * Dry, H. "Free indirect discourse in Doris Lessing’s “One off the short list”,’." Twentieth Century Fiction: from Text to Context, London: Routledge (1995): 96-112.
@@ -540,6 +578,10 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 * Clark, Herbert H. "Bridging." Theoretical issues in natural language processing. 1975.
 
 * Crystalwizard and Don Webb. Camera, Action: Complex Scenes. http://www.bewilderingstories.com/issue235/cc_complex_scenes.html [Last accessed: 2024-05-09]
+* https://questingauthor.wordpress.com/2016/10/10/dynamic-v-s-static-description/ [Last accessed: 2024-11-16]
+* https://en.wikipedia.org/wiki/Frequentative [Last accessed: 2024-11-16]
+* Epstein, Richard. "The definite article, accessibility, and the construction of discourse referents." (2002): 333-378.
+* Stanzel, Franz K. "Teller-characters and reflector-characters in narrative theory." Poetics Today 2.2 (1981): 5-15.
 
 * https://www.google.com/search?q=complement+clause [Last accessed: 2024-05-08]
 
