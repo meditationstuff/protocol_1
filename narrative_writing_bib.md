@@ -173,6 +173,32 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 		* Miller, Philip. "Subject Inversion and Information Structure." (2024).
 		* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
 		* Shizawa, Takashi. "The Rhetorical Effect of Locative Inversion Constructions from the Perspective of the Three-Tier Model of Language Use." English Linguistics 32.1 (2015): 156-176.
+		* Hasegawa, Nobuko. "Thetic judgment as presentational" Journal of Japanese Linguistics, vol. 26, no. 1, 2010, pp. 5-26.
+		* Ojea, Ana. "Syntax meets discourse: Locative and deictic (directional) inversion in English" Poznan Studies in Contemporary Linguistics, vol. 56, no. 2, 2020, pp. 251-276. [tag: thetic]
+			* Ojea, Ana. "The syntax of thetic statements in English." Atlantis 42.1 (2020): 143-162.
+				* - [Last accessed: 2024-11-20]
+					* https://en.wikipedia.org/wiki/Unaccusative_verb
+					* https://en.wikipedia.org/wiki/Unergative_verb
+					* https://en.wikipedia.org/wiki/Labile_verb
+					* https://en.wikipedia.org/wiki/Ambitransitive_verb
+					* https://en.wikipedia.org/wiki/Applicative_voice
+					* https://en.wikipedia.org/wiki/Causative
+					* https://en.wikipedia.org/wiki/Passive_voice
+					* https://en.wikipedia.org/wiki/Antipassive_voice
+					* https://en.wikipedia.org/wiki/Impersonal_passive_voice
+					* https://en.wikipedia.org/wiki/Dative_shift
+					* https://en.wikipedia.org/wiki/Ditransitive_verb
+					* Morneau, Rick. The Lexical Semantics of a Machine Translation Interlingua. http://www.rickmor.x10.mx/lexical_semantics.html
+					* https://en.wikipedia.org/wiki/Patient_(grammar)#:~:text=The%20grammatical%20patient%20is%20often,the%20structure%20of%20a%20sentence.
+					* https://en.wikipedia.org/wiki/Autocausative_verb
+					* https://en.wikipedia.org/wiki/Anticausative_verb
+					* https://en.wikipedia.org/wiki/Valency_(linguistics)
+					* https://en.wikipedia.org/wiki/Argument_(linguistics)
+					* -
+						* https://www.google.com/search?q=%22thetic%22+OR+%22locative+inversion%22+screenwriting
+						* Blumenberg, Richard M. "Cohesion and fragmentation in narrative screenwriting: A prolegomenon toward perceiving alternative and non-classical approaches." Journal of Film and Video (1990): 59-65.
+						* Rossholm, Anna Sofia. "The playfulness of Ingmar Bergman: Screenwriting from notebooks to screenplays." NECSUS. European Journal of Media Studies 7.2 (2018): 23-42.
+						* Stam, Robert. "Beyond fidelity: The dialogics of adaptation." Film adaptation (2000): 54-76.
 		* -
 			* Wyld, Henry. "Degrés de subjectivisation dans la représentation linguistique de la perception: le cas de la perception directe dans les récits en anglais." Anglophonia. French Journal of English Linguistics 31 (2021).
 			* Fuchs, Catherine, et al. "A paradoxical case of locative inversion in French." Adverbials use: From predicative to discourse functions (2014): 39-71.
