@@ -175,6 +175,10 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 		* Shizawa, Takashi. "The Rhetorical Effect of Locative Inversion Constructions from the Perspective of the Three-Tier Model of Language Use." English Linguistics 32.1 (2015): 156-176.
 		* Hasegawa, Nobuko. "Thetic judgment as presentational" Journal of Japanese Linguistics, vol. 26, no. 1, 2010, pp. 5-26.
 		* Ojea, Ana. "Syntax meets discourse: Locative and deictic (directional) inversion in English" Poznan Studies in Contemporary Linguistics, vol. 56, no. 2, 2020, pp. 251-276. [tag: thetic]
+			* - 
+				* Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
+				* Hill, Walter., Bryan Gindoff, and Bruce Henstell. Screenplay of the 1975 film Hard Times.
+				* TheBig_W. "Lessons learned from 6 books, and ten years of writing." https://www.reddit.com/r/writing/comments/1gvqf56/lessons_learned_from_6_books_and_ten_years_of/ [Last accessed: 2024-11-21]
 			* Ojea, Ana. "The syntax of thetic statements in English." Atlantis 42.1 (2020): 143-162.
 				* - [Last accessed: 2024-11-20]
 					* https://en.wikipedia.org/wiki/Unaccusative_verb
@@ -306,6 +310,8 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 	* Dorgeloh, Heidrun. "Viewpoint and subjectivity in English inversion." The Construal of Space in Language and Thought (1996): 509-526.
 * Chafe, Wallace. Discourse, consciousness, and time: The flow and displacement of conscious experience in speaking and writing. University of Chicago Press, 1994.
 	* Sasse, Hans-Jürgen. "The thetic/categorical distinction revisited." (1987): 511-580.
+		* Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
+		* Wilson, Daniel J. "The thetic/categorical distinction as difference in common ground update." Thetics and Categoricals 262 (2020): 311.
 * https://en.wikipedia.org/wiki/Restrictiveness [Last accessed: 2024-07-25]
 * https://en.wikipedia.org/wiki/Inalienable_possession [Last accessed: 2024-07-25]
 * Corazza, Eros. Reflecting the mind: Indexicality and quasi-indexicality. Clarendon Press, 2004.
