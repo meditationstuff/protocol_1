@@ -8103,4 +8103,32 @@ Temporarily make choices the lead to boredom.
 
 [<a href="#953auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+
+# <span id="954auxiliary"></span><a id="whats-already-there" href="#whats-already-there">what's already there:</a>
+
+Try-to-see\*-without-trying what's-there-before-you-\[try-to]-look\*.
+
+\[Try to see\* without trying] \[what's there before you \[try to] look\*].
+
+What already there before you look\*?
+
+cf. awareness/&#8203;experience is effortless; it's already there, already happening
+
+\*see, \*look = see, look; hear, listen; "interocept," feel-for; feel, emote; savor, taste; smell, smell; know, incline...... \[don't take these too seriously; just the general idea in general-general \[sic]] 
+
+\*look = look, hear, sense, experience, know, feel, taste, smell, interocept...
+
+See also:
+
+* Daniel Ingram's(?) or Kenneth Folk's(?) (very paraphrasing?) "gateway to more is exactly what's already there" (material in general not recommended without extreme meta protocol-esque capability and unless calls to you)
+
+* <a href="#some-narrowly-conceived-phenomenological-investigat">some narrowly conceived phenomenological investigations that may or may not be useful</a>
+
+Notes:
+
+* cf. luminosity as in "in the seeing just the seen," "in the hearing just the heard" (but if taking this as an auxiliary practice, don't worry about this at all right now, unless you already are or want to! no deep "unlocks everything" secrets here, unironically)
+
+[<a href="#954auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
