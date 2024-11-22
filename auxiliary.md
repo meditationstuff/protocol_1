@@ -8135,7 +8135,7 @@ Notes:
 [<a href="#954auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
 
-# <span id="955auxiliary"></span><a id="lay-all-your-cards-on-the-table" href="#lay-all-your-cards-on-the-table">lay all your cards on the table:</a>
+# <span id="955auxiliary"></span><a id="lay-all-your-cards-on-the-table-h" href="#lay-all-your-cards-on-the-table-h">lay all your cards on the table (h):</a>
 
 If it's ok, see if it's ok to "lay all your cards on the table", to stop concealing facts or intentions and to be completely honest about the situation.
 
