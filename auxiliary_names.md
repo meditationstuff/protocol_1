@@ -964,7 +964,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="952auxiliary_names" href="#find-the-now">quiet mind reveals the now</a>
 * <a id="953auxiliary_names" href="#excruciating-boredom">boredom</a>
 * <a id="954auxiliary_names" href="#whats-already-there">what's already there</a>
-* <a id="955auxiliary_names" href="#lay-all-your-cards-on-the-table">lay all your cards on the table</a>
+* <a id="955auxiliary_names" href="#lay-all-your-cards-on-the-table-h">lay all your cards on the table (h)</a>
 
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
