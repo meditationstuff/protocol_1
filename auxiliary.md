@@ -8120,9 +8120,13 @@ cf. awareness/&#8203;experience is effortless; it's already there, already happe
 
 See also:
 
+* search for "safe to look" in this document
+
 * Daniel Ingram's(?) or Kenneth Folk's(?) (very paraphrasing?) "gateway to more is exactly what's already there" (material in general not recommended without extreme meta protocol-esque capability and unless calls to you)
 
 * <a href="#some-narrowly-conceived-phenomenological-investigat">some narrowly conceived phenomenological investigations that may or may not be useful</a>
+
+* <a href="#invitation-of-acceptance">invitation of acceptance (so-called litany of gendlin)</a> but again also search for "safe to look" in this document.
 
 Notes:
 
