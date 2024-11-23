@@ -8139,7 +8139,15 @@ Notes:
 
 If it's ok, see if it's ok to "lay all your cards on the table", to stop concealing facts or intentions and to be completely honest about the situation.
 
-[<a href="#954auxil5ary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+[<a href="#955auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+# <span id="956auxiliary"></span><a id="trust-the-instantaneous-body" href="#trust-the-instantaneous-body">trust the instantaneous body:</a>
+
+Thus.
+
+[<a href="#956auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 
 
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
