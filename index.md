@@ -3368,7 +3368,7 @@ UPDATE 20241123 (this section needs to be edited)
 
 > > why all the new pN????????????? Like 40+???????????
 
-> just sort of elaborating, clarifying while [at the time] in the throes of acute neurodegeneration and dysautonomia [upside down smiley]. it sort of all flows from p2, but might make the journey smoother/safer to see things elaborated out for some people. i might eventually try to refactor it all down to a smaller number again, tweak the emphases on everything, put more of the essence of latter stuff into lower numbers.
+> just sort of elaborating, clarifying while [at the time] in the throes of acute neurodegeneration and dysautonomia [upside down smiley] \[\[from long covid, not a meditation injury]]. it sort of all flows from p2, but might make the journey smoother/safer to see things elaborated out for some people. i might eventually try to refactor it all down to a smaller number again, tweak the emphases on everything, put more of the essence of latter stuff into lower numbers.
 
 > these days i'm sort of suggesting people kinda of explore them starting from both lower numbers and higher numbers and moving towards the middle, and that's not yet reflected here [in this section]
 
@@ -15340,7 +15340,7 @@ Sort of in this genre (lots, I think):
 	* Sometimes = 
 		* when you're cautiously, minimally, gently experimentally unsure, or
 		* when it's good, or more good than bad, to do so (as best you can currently tell)
-	* Sometimes DON'T manipulate:
+	* Sometimes DON'T manipulate (light as the lightest feather, even lighter, pure spontaneity, corner of your eye...):
 		* experience: 
 			* Don't try to generate/&#8203;create/&#8203;manifest (an) experience(s).
 			* Don't try to dispel/&#8203;destroy (an) experience(s).
