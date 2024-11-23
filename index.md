@@ -460,6 +460,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="178bh" href="#yet-another-pith-instruction-formulation">yet another pith instruction formulation (experimental)</a>
 		* <a id="178ch" href="#advanced-or-whatever-pith">"advanced" (or whatever) pith instructions (work in progress)</a>
 		* <a id="179h" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
+		* <a id="179ah" href="#manipulation-themed-pith-instructions">manipulation-themed pith instructions</a>
 	* <a id="180h" href="#embodied-learning">embodied learning</a>
 		* <a id="181h" href="#technical-debt-meditation-and-minds">technical debt, meditation, and minds</a>
 		* <a id="182h" href="#a-speculative-comment-on-language-learning">a speculative comment on language learning</a>
@@ -3832,6 +3833,10 @@ Language is bodymind-"full stack" or "bodymind-complete", or even bodymindworld-
 [<a href="#100h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="101"></span><a id="p2" href="#p2">p2:</a>
+
+(New, see also: <a href="#manipulation-themed-pith-instructions">manipulation-themed pith instructions</a>)
+
+(Note, compare with: <a href="#p32">p32 (effortlessness)</a>)
 
 * will = will(/&#8203;intend/&#8203;plan) [that P]; do something volitional that alters expectations for future in a specific way; willing[/&#8203;intending/&#8203;planning/&#8203;expecting/&#8203;intent [to produce (an) effect (that)]; goal, purpose, for-what-purpose, for-what-further-good(ness)-If-any, for-ness, in-the-service-of
 * acting/&#8203;doing/&#8203;do = do/&#8203;act/&#8203;cause/&#8203;maintain/&#8203;enable/&#8203;incept/&#8203;start/&#8203;prevent/&#8203;block/&#8203;stop/&#8203;end/&#8203;facilitate/&#8203;retard/&#8203;stabilize/&#8203;change/&#8203;think/&#8203;know/&#8203;sense/&#8203;judge/&#8203;evaluate/&#8203; compare/&#8203;differentiate/&#8203;hear/&#8203;see/&#8203;smell/&#8203;taste/&#8203;look/&#8203;listen/&#8203;appreciate/&#8203;enjoy/&#8203;contemplate/&#8203;imagine/&#8203;grasp/&#8203;accumulate/&#8203;suffer/&#8203;think/&#8203;feel/&#8203;have part in/&#8203;querying/&#8203;asking/&#8203;wondering/&#8203;imagining/&#8203;storytelling/&#8203;narrating/&#8203;what-if-ing/&#8203;solving/&#8203;solutioning/&#8203;what-would-they-do-ing/&#8203;questioning/&#8203;assessing/&#8203;judging/&#8203;evaluating/&#8203;participate in/&#8203;push/&#8203;pull/&#8203;raise/&#8203;lower/&#8203;attend/&#8203;image/&#8203;envision/&#8203;visualize/&#8203;interrupt/&#8203;preempt/&#8203;interleave/&#8203;substitute/&#8203;switch/&#8203;meaning-making/&#8203;meaning-dissolving, [language-ing, say-ing, word-ing, verbalizing, phrase-ing, sentence-ing, meaning-ing,] experimenting, waiting, observing, interrupting, moving, stabilizing, tuning, sounding, querying, testing, assessing, aligning, rearrangeing, ideating, simulating, gesturing, projecting, anticipating, predicting, expecting [A]/&#8203;A
@@ -15311,6 +15316,82 @@ Sort of in this genre (lots, I think):
 	* (Sit, stand, lay down, readjust)
 
 [<a href="#179h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <a id="manipulation-themed-pith-instructions" href="#manipulation-themed-pith-instructions">manipulation-themed pith instructions:</a>
+
+* Pith-of-the-pith:
+	* Sometimes don't manipulate "bodymindworld" (relax, wait, patience, receptiveness, effortlessness), and sometimes do manipulate "bodymindworld."
+* Full pith instructions:
+	* Sometimes = 
+		* when you're cautiously, minimally, gently experimentally unsure, or
+		* when it's good, or more good than bad, to do so (as best you can currently tell)
+	* Sometimes DON'T manipulate:
+		* experience: 
+			* Don't try to generate/&#8203;create/&#8203;manifest (an) experience(s).
+			* Don't try to dispel/&#8203;destroy (an) experience(s).
+			* Don't try to find/&#8203;call-forth/&#8203;recover (an) experience(s).
+			* Don't try to bury/&#8203;push-away (an) experience(s).
+			* Don't try to control/&#8203;change the qualities/&#8203;process/&#8203;evolution of (an) experience(s).
+			* Don't try to stabilize/&#8203;hold-onto/&#8203;crystallize/&#8203;keep (an) experience(s).
+			* Don't try to increase or decrease the intensity/&#8203;magnitude of (an) experience(s).
+			* Don't try to push, pull, or otherwise manipulate (an) experience(s).
+		* attention:
+			* Don't try to stay/&#8203;remain with (an) experience(s).
+			* Don't try leave/&#8203;flee (an) experience(s).
+			* Don't try to find (an) experience(s).
+			* Don't try return to (an) experience(s).
+			* Don't try to avoid (an) experience(s).
+			* Don't try to resist avoiding (an) experience(s).
+			* Okay to avoid, okay to find, okay to be fixated, okay to be magnetized, okay to be compelled...
+		* mind:
+			* Don't try to know.
+			* Don't try to not know.
+			* Don't try to think.
+			* Don't try to not think.
+			* Don't try to figure out.
+			* Don't try to not figure out.
+			* Don't try to realize.
+			* Don't try to not realize.
+			* Let yourself be sure.
+			* Let yourself be unsure.
+		* body:
+			* Let yourself relax.
+			* Let yourself be tight.
+			* Let yourself be constricted.
+			* Let yourself be open.
+			* Let yourself be still.
+			* Let yourself move, adjust, readjust, balance, be in equipoise, be comfortable.
+			* Let yourself be moved, spontaneous.
+		* action/&#8203;doing (including for all the above and below):
+			* Okay to find you can...
+			* Okay to find you can't...
+			* Don't try to try...
+			* Don't try to not try...
+			* Don't try to do...
+			* Don't try to not do...
+			* Don't try to not try to...
+			* Okay to find yourself doing...
+			* Okay to find yourself not doing...
+			* Okay to perseverate...
+			* Okay to not persist...
+			* Okay to let go of...
+			* Okay to let go of completely (when it is)...
+			* Okay to find you can't let go of...
+			* Okay to forget, to daydream, be in reverie, to go, to return...
+		* world:
+			* Okay to temporarily or completely let go of intentions, plans, goals, preferences, outcomes...
+			* Okay to have intentions, plans, goals, preferences, outcomes...
+	* Sometimes DO manipulate:
+		* Sometimes do manipulate world, attention, mind, body as you are called to do so, urged to do so, or find yourself doing so.
+		* Okay to find yourself doing the opposite of any of the "don't"'s, for seconds, minutes, hours, days, weeks, months, years...
+	* Sometimes cleanly, smoothly INTERLEAVE* manipulating and not manipulating and daydreaming and reverie and movement and walking...
+
+Note: Regarding "interleaving," interleaving meditation and LIFE isn't particularly recommended, except for cautiously stolen moments, because the ultimate combination of meditation and life is just life. Perhaps keep meditation and life somewhat separate and let them sift into each other naturally so/&#8203;until only life remains. But also ignore/&#8203;adapt this, too, if it doesn't feel right.
+
+Note: Don't take too seriously all the "ontology" and "categorization" above. Let it be fluid and playful and provisional, discardable. 
+
+[<a href="#179ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="180"></span><a id="embodied-learning" href="#embodied-learning">embodied learning:</a>
 
