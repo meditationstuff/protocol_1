@@ -77,6 +77,7 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
 		* <a id="178aq" href="#more-compressed-pith-instructions">more compressed pith instructions</a>
 		* <a id="178bq" href="#yet-another-pith-instruction-formulation">yet another pith instruction formulation (experimental)</a>
 		* <a id="179q" href="#a-bare-bones-bottom-up-noting-esque-practice-withou">a bare-bones, bottom-up, noting-esque practice (without labeling)</a>
+		* <a id="179aq" href="#manipulation-themed-pith-instructions">manipulation-themed pith instructions</a>
 * **Does meditation carry risks? Yes, meditation is psychologically, physically, and financially risky, for oneself and even others.**
 	* *See these sections:*
 		* <a id="19aqh" href="#preconceiving-direct-reifying-draft">preconceiving, direct reifying [draft]</a>
@@ -3362,6 +3363,20 @@ Note: In some ways the distinction between pre-zone and in-the-zone is real or a
 [<a href="#86h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 # <span id="87"></span><a id="what-to-do-when" href="#what-to-do-when">what to do when:</a>
+
+UPDATE 20241123 (this section needs to be edited)
+
+> > why all the new pN????????????? Like 40+???????????
+
+> just sort of elaborating, clarifying while [at the time] in the throes of acute neurodegeneration and dysautonomia [upside down smiley]. it sort of all flows from p2, but might make the journey smoother/safer to see things elaborated out for some people. i might eventually try to refactor it all down to a smaller number again, tweak the emphases on everything, put more of the essence of latter stuff into lower numbers.
+
+> these days i'm sort of suggesting people kinda of explore them starting from both lower numbers and higher numbers and moving towards the middle, and that's not yet reflected here [in this section]
+
+> see also the various pith instructions (and etc., etc.), etc.
+
+> remember that some pN are sort of experiments to realize that the instructions fully or partly "don't work" or are somehow impossible
+
+/UPDATE
 
 This is a very, very, very, very rough breakdown of how you might use your time while practicing. It could be more granular, and all the percentages could be tweaked more. Note that each "level" adds up to 100%. For example, it’s ballpark suggested that p2 might be 80% of 72% of your total practice time. Or, stated more imprecisely, if you’re doing the protocol proper, explore doing lots of p2. These percentages may change as we learn more. For example, the ballpark suggestion for doing the meta protocol might go down or up. Also, in the beginning you might spend much more time on the preliminary/auxiliary practices, and so forth. These are intended to be the very-long-run breakdowns.
 
