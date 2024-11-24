@@ -15340,7 +15340,7 @@ Sort of in this genre (lots, I think):
 	* Sometimes = 
 		* when you're cautiously, minimally, gently experimentally unsure, or
 		* when it's good, or more good than bad, to do so (as best you can currently tell)
-	* Sometimes DON'T manipulate (light as the lightest feather, even lighter, pure spontaneity, corner of your eye...):
+	* Sometimes DON'T manipulate (That's "don't" with the lightest of light touches, as light as you can, light as the lightest feather, even lighter, pure spontaneity, corner of your eye...):
 		* experience: 
 			* Don't try to generate/&#8203;create/&#8203;manifest (an) experience(s).
 			* Don't try to dispel/&#8203;destroy (an) experience(s).
@@ -15397,9 +15397,11 @@ Sort of in this genre (lots, I think):
 			* Okay to temporarily or completely let go of intentions, plans, goals, preferences, outcomes...
 			* Okay to have intentions, plans, goals, preferences, outcomes...
 	* Sometimes DO manipulate:
-		* Sometimes do manipulate world, attention, mind, body as you are called to do so, urged to do so, or find yourself doing so.
+		* Sometimes do manipulate world, attention, mind, body as you are called to do so, urged to do so, or find yourself doing so. (As in, think, figure out...)
 		* Okay to find yourself doing the opposite of any of the "don't"'s, for seconds, minutes, hours, days, weeks, months, years...
 	* Sometimes cleanly, smoothly INTERLEAVE* manipulating and not manipulating and daydreaming and reverie and movement and walking...
+		* Regarding interleaving, this is NOT a "rigorously continuous application" practice, like some classical concentration practices. (Search for maybe "hammer" and "button," in this document, for reasons why.) This practice IS loose, gentle, jazzy, even forgetful. That is, it's actually ESSENTIAL to lose yourself for a time, to think, puzzle, daydream, etc., amidst meditation. (Search for maybe "reverie" in this document for reasons why.) As an edge case, it's okay to even like set a timer and daydream, instead of meditating, or to get up and wander off.
+			* So, the three interleaved "parts" of this meditation could be: 1) Don't, 2) do, as per above, and 3) daydream. Or, don't, do, and reverie. Or...
 
 Note: Regarding "interleaving," interleaving meditation and LIFE isn't particularly recommended, except for cautiously stolen moments, because the ultimate combination of meditation and life is just life. Perhaps keep meditation and life somewhat separate and let them sift into each other naturally so/&#8203;until only life remains. But also ignore/&#8203;adapt this, too, if it doesn't feel right.
 
