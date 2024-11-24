@@ -10,6 +10,13 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Tolkien, John Ronald Reuel. "On fairy-stories." (1947).
 * Frye, Northrop. Anatomy of criticism: Four essays. Vol. 69. Princeton University Press, 2020.
 * Knight, G. Wilson. "The embassy of death: An essay on Hamlet." The Wheel of Fire (1930): 17-46.
+* Stokes, Patricia D. Creativity from constraints: The psychology of breakthrough. Springer Publishing Company, 2005.
+* Deacon, Terrence W. Incomplete nature: How mind emerged from matter. WW Norton & Company, 2011.
+* Hall, Rayne. The Word-Loss Diet: Professional Self-Editing Techniques for Authors. Writer's Craft Series (book 4). 2014.
+* Brohaugh, William. Write tight: say exactly what you mean with precision and power. Sourcebooks, Inc., 2007.
+* https://en.wikipedia.org/wiki/Patient_(grammar) [Last accessed: 2024-11-24]
+* https://en.wikipedia.org/wiki/Object_(grammar) [Last accessed: 2024-11-24]
+
 
 * Playful Narrative: A Toolbox for Story-Rich Mechanics https://polarisgamedesign.com/wp-content/uploads/2023/02/Playful-Narrative_-A-Toolbox-for-Story-Rich-Mechanics_Polaris2022.pdf [Last accessed: 2024-11-13]
 
