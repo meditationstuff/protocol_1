@@ -7,6 +7,10 @@ Messy list of mostly very academic references I found helpful (directly or indir
 
 # -
 
+* Tolkien, John Ronald Reuel. "On fairy-stories." (1947).
+* Frye, Northrop. Anatomy of criticism: Four essays. Vol. 69. Princeton University Press, 2020.
+* Knight, G. Wilson. "The embassy of death: An essay on Hamlet." The Wheel of Fire (1930): 17-46.
+
 * Playful Narrative: A Toolbox for Story-Rich Mechanics https://polarisgamedesign.com/wp-content/uploads/2023/02/Playful-Narrative_-A-Toolbox-for-Story-Rich-Mechanics_Polaris2022.pdf [Last accessed: 2024-11-13]
 
 * Esipova, Maria. "On not-at-issueness in pictures." Glossa: a journal of general linguistics 6.1 (2021): 83.
