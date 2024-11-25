@@ -16,7 +16,29 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Brohaugh, William. Write tight: say exactly what you mean with precision and power. Sourcebooks, Inc., 2007.
 * https://en.wikipedia.org/wiki/Patient_(grammar) [Last accessed: 2024-11-24]
 * https://en.wikipedia.org/wiki/Object_(grammar) [Last accessed: 2024-11-24]
+* Umstattd Jr, Thomas. From Page to Screen: How to Adapt Your Novel Into a Screenplay. https://www.authormedia.com/from-page-to-screen-how-to-adapt-your-novel-into-a-screenplay/ [Last accessed: 2024-11-24]
 
+* Fox, Barbara. "Anaphora in popular written English narratives." Coherence and grounding in discourse 11 (1987): 157-174.
+* Vonk, Wietske, Lettica GMM Hustinx, and Wim HG Simons. "The use of referential expressions in structuring discourse." Language and cognitive processes 7.3-4 (1992): 301-333.
+	* John Hinds (1977) Paragraph structure and pronominalization, Paper in Linguistics, 10:1-2, 77-99
+	* Padučeva, E. V.. "On the structure of the paragraph" Linguistics, vol. 12, no. 131, 1974, pp. 49-58.
+* -
+	*	Point of View: How to pass the baton of perspective in a short story — A Flash Critique of “The Erlking” by Sarah Shun-Ben — Craft based Analysis of New Yorker Stories — Newwordsmiths' Blog https://newwordsmiths.wordpress.com/2010/07/09/point-of-view-how-to-pass-the-baton-of-perspective-in-a-short-story/ [Last accessed: 2023-10-15]
+		* "The Erlking” by Sarah Shun-Ben Bynum in The New Yorker
+	* Gold, Jami. 7 Methods for Handling Point-of-View Changes. https://jamigold.com/2013/07/7-methods-for-handling-point-of-view/ [Last accessed: 2024-11-25]
+	* Larter, Simon. The Neil Gaiman Master class in Writing*—Part 2: Headhopping vs. POV Shifts. https://web.archive.org/web/20111213070955/https://constantrevisions.blogspot.com/2011/01/neil-gaiman-master-class-in-writingpart.html [Last accessed: 2024-11-25]
+	* Baton Pass POV Change. https://absolutewrite.com/forums/index.php?threads/baton-pass-pov-change.297492/ [Last accessed: 2024-11-25]
+	* https://www.reddit.com/r/writing/comments/jgmedr/why_is_head_hopping_considered_bad/ [Last accessed: 2024-11-25]
+* -
+	* https://en.wikipedia.org/wiki/Epithet
+	* https://en.wikipedia.org/wiki/Apposition
+
+<!-- --> 
+
+* Spiegel, Alan Harvey. FICTION AND THE CAMERA EYE: A STUDY OF VISUAL FORM IN THE MODERN NOVEL. University of Virginia, 1973.
+* Nielsen, Henrik Skov. "The impersonal voice in first-person narrative fiction." Narrative 12.2 (2004): 133-150.
+
+<!-- -->
 
 * Playful Narrative: A Toolbox for Story-Rich Mechanics https://polarisgamedesign.com/wp-content/uploads/2023/02/Playful-Narrative_-A-Toolbox-for-Story-Rich-Mechanics_Polaris2022.pdf [Last accessed: 2024-11-13]
 
