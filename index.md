@@ -15370,13 +15370,15 @@ Sort of in this genre (lots, I think):
 			* Let yourself be sure.
 			* Let yourself be unsure.
 		* body:
+			* Let yourself be physically open, receptive, when safe.
 			* Let yourself relax.
-			* Let yourself be tight.
+			* Don't try to relax/&#8203;un-tense (pinpoint and in general).
 			* Let yourself be constricted.
-			* Let yourself be open.
-			* Let yourself be still.
+			* Let yourself be tight; don't try to mitigate it.
+			* Let yourself get tighter; don't try to stop it.
+			* Let yourself be/&#8203;become still.
 			* Let yourself move, adjust, readjust, balance, be in equipoise, be comfortable.
-			* Let yourself be moved, spontaneous.
+			* Let yourself BE moved, spontaneous, effortless; find yourself \[already in the act of] moving.
 		* action/&#8203;doing (including/&#8203;prefixed to/&#8203;for all the above and below):
 			* Okay to find you can...
 			* Okay to find you can't...

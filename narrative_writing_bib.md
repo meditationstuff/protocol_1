@@ -33,6 +33,10 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* https://en.wikipedia.org/wiki/Epithet
 	* https://en.wikipedia.org/wiki/Apposition
 
+* Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
+* Hill, Walter., Bryan Gindoff, and Bruce Henstell. Screenplay of the 1975 film "Hard Times".
+*  Hill, Walter and David Giler. Screenplay of the 1979 film "Alien".
+
 <!-- --> 
 
 * Spiegel, Alan Harvey. FICTION AND THE CAMERA EYE: A STUDY OF VISUAL FORM IN THE MODERN NOVEL. University of Virginia, 1973.
