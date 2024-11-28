@@ -29,13 +29,28 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* Larter, Simon. The Neil Gaiman Master class in Writing*—Part 2: Headhopping vs. POV Shifts. https://web.archive.org/web/20111213070955/https://constantrevisions.blogspot.com/2011/01/neil-gaiman-master-class-in-writingpart.html [Last accessed: 2024-11-25]
 	* Baton Pass POV Change. https://absolutewrite.com/forums/index.php?threads/baton-pass-pov-change.297492/ [Last accessed: 2024-11-25]
 	* https://www.reddit.com/r/writing/comments/jgmedr/why_is_head_hopping_considered_bad/ [Last accessed: 2024-11-25]
-* -
-	* https://en.wikipedia.org/wiki/Epithet
+* -[Last accessed: 2024-11-26]
+	* https://en.wikipedia.org/wiki/Epithet 
+		* https://www.reddit.com/r/FanFiction/comments/14477tr/why_are_epithets_so_hated/ 
+		* https://www.reddit.com/r/FanFiction/comments/7sv1ot/comment/dt7sv3z/
 	* https://en.wikipedia.org/wiki/Apposition
+* -
+	* https://www.google.com/search?q=%22is+of+identity%22+%22is+of+predication%22 [Last accessed: 2024-11-26]
+	* https://en.wikipedia.org/wiki/The [Last accessed: 2024-11-26]
+	* https://en.wikipedia.org/wiki/Restrictiveness [Last accessed: 2024-07-25]
 
 * Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
 * Hill, Walter., Bryan Gindoff, and Bruce Henstell. Screenplay of the 1975 film "Hard Times".
 *  Hill, Walter and David Giler. Screenplay of the 1979 film "Alien".
+
+* Jauss, David. From Long Shots to X-Rays: Distance & Point of View in Fiction Writing. 2000. https://web.archive.org/web/20200925095630/https://www.awpwriter.org/magazine_media/writers_chronicle_view/1731/from_long_shots_to_x-rays_distance_point_of_view_in_fiction_writing [Last accessed: 2024-11-28]
+* Darwin, Emma. https://emmadarwin.substack.com/p/psychic-distance-what-it-is-and-how 2024. [Last accessed: 2024-11-28]
+	* https://emmadarwin.typepad.com/thisitchofwriting/2016/04/psychic-distance-not-just-long-shot-but-wide-angle.html
+	* https://emmadarwin.typepad.com/thisitchofwriting/2011/10/point-of-view-narrators-4-moving-point-of-view-and-other-stories.html
+	* https://emmadarwin.typepad.com/thisitchofwriting/2014/11/ten-ways-to-move-point-of-view-and-dont-let-the-self-appointed-experts-tell-you-otherwise.html
+	* https://emmadarwin.typepad.com/thisitchofwriting/2011/10/point-of-view-narrators-2-internal-narrators.html
+	* https://emmadarwin.typepad.com/thisitchofwriting/2011/10/point-of-view-narrators-3-external-narrators.html
+* https://www.reddit.com/r/writing/comments/65rg8v/how_to_improve_your_writing_with_psychic_distance/ [Last accessed: 2024-11-28]
 
 <!-- --> 
 
@@ -275,6 +290,26 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* Erikson, Steven. Malazan Book of the Fallen.
 	* Ian Cameron Esslemont, Ian C.. Novels of the Malazan Empire.
 
+<!-- -->
+
+* Mackie, John Leslie. The cement of the universe: A study of causation. Clarendon Press, 1980.
+* Grishakova, Marina. "Narrative Causality Denaturalized." Unnatural Narratives—Unnatural Narratology (2011): 127-44.
+* Nelson, Roy Jay. Causality and narrative in French fiction from Zola to Robbe-Grillet. The Ohio State University Press, 1990.
+* Meyer, Paul Georg. "The relevance of causality." Topics in English Linguistics 33 (2000): 9-34.
+* Bordwell, David. Narration in the fiction film. Routledge, 2013.
+
+<!-- -->
+
+
+
+
+<!-- -->
+
+* Ogihara, Toshiyuki. Temporal reference in English and Japanese. The University of Texas at Austin, 1989.
+* Moens, Marc. "Tense, aspect and temporal reference." (1987).
+* Mani, Inderjeet, James Pustejovsky, and Robert Gaizauskas, eds. The language of time: a reader. OUP Oxford, 2005.
+
+<!-- -->
 * Dry, Helen Aristar, and Susan Kucinkas. "Ghostly Ambiguity: Presuppositional Constructions in" The Turn of the Screw"." Style (1991): 71-88.
 * Dry, H. "Free indirect discourse in Doris Lessing’s “One off the short list”,’." Twentieth Century Fiction: from Text to Context, London: Routledge (1995): 96-112.
 * Dry, Helen Aristar. "LANGUAGE CHANCE AND "NATURALIZATION" IN FREE INDIRECT SPEECH" Journal of Literary Semantics, vol. 19, no. 3, 1990, pp. 135-149.

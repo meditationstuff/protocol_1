@@ -15337,7 +15337,8 @@ Sort of in this genre (lots, I think):
 * Pith-of-the-pith:
 	* Sometimes don't manipulate "bodymindworld" (relax, wait, patience, receptiveness, effortlessness), and sometimes do manipulate "bodymindworld."
 * Full pith instructions:
-	* Sometimes = 
+	* (an) experience(s) = an experience OR some experience OR experience OR experiences OR...
+	* sometimes = 
 		* when you're cautiously, minimally, gently experimentally unsure, or
 		* when it's good, or more good than bad, to do so (as best you can currently tell)
 	* Sometimes DON'T manipulate (That's "don't" with the lightest of light touches, as light as you can, light as the lightest feather, even lighter, pure spontaneity, corner of your eye...):
