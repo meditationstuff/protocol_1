@@ -22,6 +22,7 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Vonk, Wietske, Lettica GMM Hustinx, and Wim HG Simons. "The use of referential expressions in structuring discourse." Language and cognitive processes 7.3-4 (1992): 301-333.
 	* John Hinds (1977) Paragraph structure and pronominalization, Paper in Linguistics, 10:1-2, 77-99
 	* Padučeva, E. V.. "On the structure of the paragraph" Linguistics, vol. 12, no. 131, 1974, pp. 49-58.
+	* Wårvik, Brita. "Continuity and quantity: Testing iconicity hypotheses on the continuities of time and participants in Old English narrative prose." Journal of Historical Pragmatics 15.1 (2014): 93-122.
 * -
 	*	Point of View: How to pass the baton of perspective in a short story — A Flash Critique of “The Erlking” by Sarah Shun-Ben — Craft based Analysis of New Yorker Stories — Newwordsmiths' Blog https://newwordsmiths.wordpress.com/2010/07/09/point-of-view-how-to-pass-the-baton-of-perspective-in-a-short-story/ [Last accessed: 2023-10-15]
 		* "The Erlking” by Sarah Shun-Ben Bynum in The New Yorker
@@ -162,6 +163,11 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Jasinskaja, Katja. "Not at issue any more." Ms. University of Cologne (2016).
 	* Simons, Mandy, et al. "What projects and why." Semantics and linguistic theory. 2010.
 	* Beaver, David, and Henk Zeevat, ' Accommodation', in Gillian Ramchand, and Charles Reiss (eds), The Oxford Handbook of Linguistic Interfaces (2007; online edn, Oxford Academic, 18 Sept. 2012)
+* Lanyi, Gabriel. "On Narrative Transitions in Nabokov's Prose." PTL: A Journal for Descriptive Poetics and Theory of Literature, vol. 2, 1977, pp. 73–87. North-Holland Publishing Company.
+* Fleischauer, John F. "Simultaneity in Nabokov's Prose Style." Style (1971): 57-69.
+* Grishakova, Marina. The models of space, time and vision in V. Nabokov’s fiction: Narrative strategies and cultural frames. University of Tartu Press, 2012.
+* Rodden, John. "How do stories convince us? Notes towards a rhetoric of narrative." College Literature (2008): 148-173.
+* Koch, David. Authenticating Details. https://www.writingclasses.com/toolbox/articles/authenticating-details [Last accessed: 2024-11-30]
 * https://en.wiktionary.org/w/index.php?title=Category:English_interjections
 https://en.wiktionary.org/wiki/Category:English_lemmas [cf. expressives; Last accessed: 2024-09-23]
 * https://www.reddit.com/r/writing/comments/1fh35i7/a_super_easy_page_one_fix/ [Last accessed: 2024-09-23]
@@ -172,6 +178,8 @@ https://en.wiktionary.org/wiki/Category:English_lemmas [cf. expressives; Last ac
 * *Chafe, Wallace. Discourse, consciousness, and time: The flow and displacement of conscious experience in speaking and writing. University of Chicago Press, 1994.*
 
 * Cowley, Katherine. "#33: Use Familiar and Invisible Settings" https://www.katherinecowley.com/jawl/familiar-settings/ [Last accessed: 2024-09-24]
+
+* https://www.google.com/search?q=theme+determines+setting
 
 * Terlunen, Milan. All Along…! The Pre-History of the Plot Twist in Nineteenth-Century Fiction. Columbia University, 2022.
 
@@ -300,7 +308,15 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 
 <!-- -->
 
-
+* "fictional narrative prose adjuncts"
+	* Casagrande, June. It was the best of sentences, it was the worst of sentences: A writer's guide to crafting killer sentences. Ten Speed Press, 2010.
+	* Hadidi, Yaser. "Comments on Nonfinite Adverbial Patterns in English Prose Fiction: A Simple Model for Analysis and Use." Journal of Research in Applied Linguistics, vol. 7, no. 2, 2016, pp. 16–33. Shahid Chamran University of Ahvaz.
+	* Šaldová, Pavlína. "The Distribution of Finite and Participial Postmodifiers in Fiction and Academic Prose." Prague Studies in English, vol. 24, 2005, pp. 59–73.
+	* Leláková, Eva, and Nikola Šavelová. "Conjunctive Adverbials Used by Charlotte Brontë in the Novel Jane Eyre." International Journal of English Linguistics, vol. 10, no. 3, 2020, pp. 48–58.
+	* Hadidi, Yaser, and S. Ghankaran-Shotorban. "Investigating Possible Evolutionary Reduction in Subject Nominal Group Complexity in Prose Fiction Text." Journal for the Study of English Linguistics, vol. 3, no. 1, 2015, pp. 1–12.
+	* Stewart, Garrett. The Value of Style in Fiction. Cambridge University Press, 2018.
+	* Virtanen, Tuija. "Discourse Functions of Adverbial Placement in English: Clause-Initial Adverbials of Time and Place in Narratives and Procedural Place Descriptions." ERIC, 1992.
+	* Murphy, Terence Patrick. "Levels of Style in Narrative Fiction." Situations, vol. 5, 2011, pp. 48–68.
 
 
 <!-- -->

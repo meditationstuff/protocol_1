@@ -7621,6 +7621,9 @@ Miscellaneous messy scratch notes (added by Mark):
 * embrace / allow self-concept contradictions (to settle) (post-intolerability)
 * While distraction and avoidance of leading edge intolerability and disregulation is totally kosher and awesome, those who have the misfortune of learning to successfully block suffering-as-such trade it for emotional-doxastic-behavioral rigidity somewhere else in the system—the inability to learn or change—very mechanistic; not metaphorical. It is a devil's bargain and not a long-run winning/not-losing strategy. (tweet brought to u by technical meditation small group discussion today) https://twitter.com/meditationstuff/status/1842265929327271950
 * stay close to inability; don't "puzzle solve" *away* from it
+* i find "often" that figuring out smthng that isn't written down anywhere involves undoing—learning/realizing that something previously learned/believed is wrong, by a sort of exhaustive process of elimination. sometimes this takes 100s (1000s) of hours, but it's so cool. // not always worth it, but highly leveraged when it matters // learning how to be this dogged without inappropriately or futilely perseverating is the same skillset as meditation https://x.com/meditationstuff/status/1862692114607276340 [Last accessed: 2024-11-29]
+	* note: unrelated to above misc pith
+
 
 end "misc pith"
 
