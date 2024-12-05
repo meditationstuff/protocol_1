@@ -7624,6 +7624,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * i find "often" that figuring out smthng that isn't written down anywhere involves undoing—learning/realizing that something previously learned/believed is wrong, by a sort of exhaustive process of elimination. sometimes this takes 100s (1000s) of hours, but it's so cool. // not always worth it, but highly leveraged when it matters // learning how to be this dogged without inappropriately or futilely perseverating is the same skillset as meditation https://x.com/meditationstuff/status/1862692114607276340 [Last accessed: 2024-11-29]
 	* note: unrelated to above misc pith
 * ROUGHLY, meditation long-tail reduces the FREQUENCY but NOT the INTENSITY of emotional rxns (seeming intensity reduction is the uncoupling of previously simultaneous rxns) // YES: 10-10-10----10--------10-//---never again (after 5000+ hours) // NO: 10-9-8-7------6-------5-------etc. // huge confusion imo that makes people think meditation is not working in themselves and others, and why a huge 10/10 reaction out of nowhere after 6000 hours of meditation shouldn't be discouraging, etc. // and often there is an "extinction burst" near the end with lots of 10's. so like everything seems gone forever then at least one more huge freakout after some delay // <a href="#last-gasps">last gasps</a> also other sections // I maybe shouldn't have said "extinction burst" because that implies something that can be reactivated. It's actually memory reconsolidation—actually truly completely gone. The burst of increased frequency is because of "generator access" not behaviorist principles. My bad // There can be "bad copies" ("spreading") that have their own sub-generators, which can entail more complex dynamics than just a final thing. See my stuff for full-complexity model. https://x.com/meditationstuff/status/1863321287080243505 [Last accessed: 2024-12-1]
+* crowdsourced possible alternatives to term "emptiness" https://x.com/louisvarge/status/1863727823011098764 [Last accessed: 2024-12-03] 
 
 end "misc pith"
 
@@ -15344,7 +15345,7 @@ Sort of in this genre (lots, I think):
 	* sometimes = 
 		* when you're cautiously, minimally, gently experimentally unsure, or
 		* when it's good, or more good than bad, to do so (as best you can currently tell)
-	* Sometimes DON'T manipulate (That's "don't" with the lightest of light touches, as light as you can, light as the lightest feather, even lighter, pure spontaneity, corner of your eye...):
+	* Sometimes DON'T manipulate (That's "don't" with the lightest of light touches, as light as you can, light as the lightest feather, even lighter, effortless, pure spontaneity, corner of your eye...):
 		* experience: 
 			* Don't try to generate/&#8203;create/&#8203;manifest (an) experience(s).
 			* Don't try to dispel/&#8203;destroy (an) experience(s).
@@ -15402,6 +15403,11 @@ Sort of in this genre (lots, I think):
 		* world:
 			* Okay to temporarily or completely let go of intentions, plans, goals, preferences, outcomes...
 			* Okay to have intentions, plans, goals, preferences, outcomes...
+		* self
+			* Relax, let go of, release, drop the "doing personality"
+			* Relax, let go of, release, drop the "reactive personality"
+			* Release, allow, sink, (temporarily) collapse, let your breathing return to "only default\*breathing"
+				* \*i.e., autogenic, as opposed to volitional breathing
 	* Sometimes DO manipulate:
 		* Sometimes DO manipulate world, attention, mind, body as you are called to do so, urged to do so, or find yourself doing so. (As in, think, figure out...)
 		* Okay to find yourself doing the opposite of any of the "don't"'s, for seconds, minutes, hours, days, weeks, months, years...

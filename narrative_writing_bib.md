@@ -41,8 +41,15 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* https://en.wikipedia.org/wiki/Restrictiveness [Last accessed: 2024-07-25]
 
 * Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
+	* Atkinson, Ian Thomas. In pursuit of a more comprehensive framework for fronting in classical BH prose. Diss. Stellenbosch: Stellenbosch University, 2021.
+	* Rochemont, Michael, et al. "Discourse new, focused, and given." Approaches to Hungarian 13 (2013).
+	* Bolinger, Dwight. "Accent is predictable (if you're a mind-reader)." Language (1972): 633-644.
 * Hill, Walter., Bryan Gindoff, and Bruce Henstell. Screenplay of the 1975 film "Hard Times".
 *  Hill, Walter and David Giler. Screenplay of the 1979 film "Alien".
+* - [Last accessed: 2024-12-05]
+	* https://gointothestory.blcklst.com/so-called-screenwriting-rule-do-not-use-we-see-we-hear-b7a7edcd1820
+	* https://www.reddit.com/r/Screenwriting/s/uOxzYHhl4K
+		* https://www.reddit.com/r/Screenwriting/s/UO7260zFv5
 
 * Jauss, David. From Long Shots to X-Rays: Distance & Point of View in Fiction Writing. 2000. https://web.archive.org/web/20200925095630/https://www.awpwriter.org/magazine_media/writers_chronicle_view/1731/from_long_shots_to_x-rays_distance_point_of_view_in_fiction_writing [Last accessed: 2024-11-28]
 * Darwin, Emma. https://emmadarwin.substack.com/p/psychic-distance-what-it-is-and-how 2024. [Last accessed: 2024-11-28]
