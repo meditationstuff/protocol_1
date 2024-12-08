@@ -244,6 +244,7 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 		* Ojea, Ana. "Syntax meets discourse: Locative and deictic (directional) inversion in English" Poznan Studies in Contemporary Linguistics, vol. 56, no. 2, 2020, pp. 251-276. [tag: thetic]
 			* - 
 				* Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
+					* Sasse, Hans-Jürgen. "The thetic/categorical distinction revisited." (1987): 511-580.
 				* Hill, Walter., Bryan Gindoff, and Bruce Henstell. Screenplay of the 1975 film Hard Times.
 				* TheBig_W. "Lessons learned from 6 books, and ten years of writing." https://www.reddit.com/r/writing/comments/1gvqf56/lessons_learned_from_6_books_and_ten_years_of/ [Last accessed: 2024-11-21]
 			* Ojea, Ana. "The syntax of thetic statements in English." Atlantis 42.1 (2020): 143-162.
