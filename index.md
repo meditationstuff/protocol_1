@@ -15287,6 +15287,10 @@ but yes reverie, not reverielessness! and yes dreams/&#8203;dreaminess, not drea
 
 \*
 
+try-less-ness (no outcome-attachment; no completion-grasping; including "sensory" and "cognitive" "doings" / "actions")
+
+\*
+
 (unexplainableness) but relative explanations and explanation games are excellent
 
 unknowableness  
