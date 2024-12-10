@@ -14308,7 +14308,7 @@ eventually just run out of stuff to be top-down managed, which involves sometime
 
 thus, spontaneity, [non-deliberateness [in a good sense]], non-controlling, non-managing, but/though nevertheless still preference [in a good sense]
 
-and also there's a series of phenomenological-conceptual-cosmological-metaphysical corrections, over time, including realizing that "you're the whole universe" rather, "you" are a phenomenological world model that models contains/models "everything". [thx to scott alexander for this formulation. he doesn't necessarily endorse even 0.000001% of any this or even that formulation, etc., etc.] [find where he says this, i'll have it linked in doc also elsewhere.]
+<span id="universe"></span>and also there's a series of phenomenological-conceptual-cosmological-metaphysical corrections, over time, including realizing that "you're the whole universe" rather, "you" are a phenomenological world model that models contains/models "everything". [thx to scott alexander for this formulation. he doesn't necessarily endorse even 0.000001% of any this or even that formulation, etc., etc.] [find where he says this, i'll have it linked in doc also elsewhere.]
 
 also that "narrowing" or "going elsewhere" runs out or stops and the periphery (and everything/&#8203;"everything") becomes the foreground, sort of, first-pass
 
@@ -15275,7 +15275,7 @@ Notes:
 Effortlessness, resistancelessness, unknowableness, safety  
 (ego and goal(s))  
 [goallessness, selflessness]  
-[knowinglessness, knowledgelessness, ditto understanding cf. figuring out][blankness, "deadness", [even no emptiness anywhere, no one left alive, yet luminosity, vividness, wonder?????]  
+[knowinglessness, knowledgelessness, ditto understanding cf. figuring out]\[blankness, "deadness", [even no emptiness anywhere, no one left alive, yet luminosity, vividness, wonder?????]  
 \[uncontrollability, uncausability]\[yet tremendous agency, figuring out, self-preservation, nothing left undone]  
 \[un-ownability]  
 No mind whatsoever, no becoming whatsoever (but can get back?? if willing/&#8203;able to give up completely?)[not blankness but nonregistration, no grasping, like a vivid mirror with no understanding or recognition whatsoever]  
@@ -15287,7 +15287,7 @@ but yes reverie, not reverielessness! and yes dreams/&#8203;dreaminess, not drea
 
 \*
 
-try-less-ness (no outcome-attachment; no completion-grasping; including "sensory" and "cognitive" "doings" / "actions")
+try-less-ness (no outcome-attachment, no completion-grasping; including "sensory" and "cognitive" "doings" / "actions")
 
 \*
 
@@ -15316,6 +15316,10 @@ inconceivableness
 
 \*
 
+Might add: "everything" and "nothing" cf. " 'literally' 'everything' "; see also: <a href=#universe>very temp re: ~potentially corrective formulations</a>
+
+\*
+
 See also:
 
 Sort of in this genre (lots, I think):
@@ -15324,6 +15328,7 @@ Sort of in this genre (lots, I think):
 	* "From The Specially Requested Sutra" (and what it's embedded in / above)
 * https://twitter.com/PoemsWeBurned/status/1727547819509113044
 * ~"resistanceless”/&#8203;resistance-less" \[see: <a href=#mp4u5yu>misc pith</a>]
+* ~The Vimalakirti Sutra (KF highly praises Burton Watson translation)
 
 [<a href="#178ch">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
