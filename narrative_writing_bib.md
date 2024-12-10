@@ -22,6 +22,11 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Vonk, Wietske, Lettica GMM Hustinx, and Wim HG Simons. "The use of referential expressions in structuring discourse." Language and cognitive processes 7.3-4 (1992): 301-333.
 	* John Hinds (1977) Paragraph structure and pronominalization, Paper in Linguistics, 10:1-2, 77-99
 	* Padučeva, E. V.. "On the structure of the paragraph" Linguistics, vol. 12, no. 131, 1974, pp. 49-58.
+		* Vercauteren, Aleksandra. A conspiracy theory for clefts: The syntax and interpretation of cleft constructions. Diss. Ghent University, 2016.
+		* Reinhart, Tanya. "Conditions for text coherence." Poetics today 1.4 (1980): 161-180.
+			* Reinhart, Tanya. "Pragmatics and linguistics: An analysis of sentence topics." Philosophica 27 (1981)
+			* Rooth, Mats. "Association with focus." (1985).
+			* Goodhue, Daniel. "All focus is contrastive: On polarity (verum) focus, answer focus, contrastive focus and givenness." Journal of Semantics 39.1 (2022): 117-158.
 	* Wårvik, Brita. "Continuity and quantity: Testing iconicity hypotheses on the continuities of time and participants in Old English narrative prose." Journal of Historical Pragmatics 15.1 (2014): 93-122.
 * -
 	*	Point of View: How to pass the baton of perspective in a short story — A Flash Critique of “The Erlking” by Sarah Shun-Ben — Craft based Analysis of New Yorker Stories — Newwordsmiths' Blog https://newwordsmiths.wordpress.com/2010/07/09/point-of-view-how-to-pass-the-baton-of-perspective-in-a-short-story/ [Last accessed: 2023-10-15]
@@ -116,6 +121,26 @@ Messy list of mostly very academic references I found helpful (directly or indir
 		* Henschel, Renate, Hua Cheng, and Massimo Poesio. "Pronominalization revisited." COLING 2000 Volume 1: The 18th International Conference on Computational Linguistics. 2000.
 			* Passonneau, R. J. (1996). Using Centering to Relax Gricean Informational Constraints on Discourse Anaphoric Noun Phrases. Language and Speech, 39(2-3), 229–264.
 * Jean, Ricardou. Nouveaux problèmes du roman. Seuil, 1978.
+
+<!-- -->
+
+* Bruening, Benjamin. "Light verbs are just regular verbs." Proceedings of the 39th Annual Penn Linguistics Conference (U. Penn Working Papers in Linguistics). Vol. 22. No. 1. 2016.
+	* Kearns, Kate. "Light verbs in English." 2002.
+	* https://en.wikipedia.org/wiki/Light_verb [Last accessed: 2024-12-10]
+* Ojea, Ana. "On the Eventive Structure of Adjectives and Adverbs." Atlantis (1998): 159-175.
+	* https://en.wikipedia.org/wiki/Small_clause [Last accessed: 2024-12-10]
+	* https://en.wikipedia.org/wiki/Secondary_predicate [Last accessed: 2024-12-10] \[resultative, depictive, subject-oriented depictive, object-oriented depictive]
+	* - 
+		* Grimshaw, Jane, and Sten Vikner. "Obligatory adjuncts and the structure of events." Knowledge and Language: Volume II Lexical and Conceptual Structure. Dordrecht: Springer Netherlands, 1993. 143-155.
+		* Rapoport, Tova R. "Stage and adjunct predicates: Licensing and structure in secondary predication constructions." Knowledge and Language: Volume II Lexical and Conceptual Structure. Dordrecht: Springer Netherlands, 1993. 157-182.
+* -
+	* Collins, Peter. "The indirect object construction in English: An informational approach." (1995): 35-50.
+	* Allerton, David J. "Generating indirect objects in English." Journal of Linguistics 14.1 (1978): 21-33.
+	* Hawkins, Roger. "On ‘Generating indirect objects in English’: a reply to Allerton1." Journal of Linguistics 17.1 (1981): 1-9.
+	* Halamásková, Jana. "The position of direct and indirect objects of selected English ditransitive verbs." (2011).
+	* Emonds, Joseph. "Projecting indirect objects." (1993): 211-264.
+
+
 
 <!-- -->
 
@@ -237,6 +262,7 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* Binnick, Robert I. "The markers of habitual aspect in English." Journal of English Linguistics 33.4 (2005): 339-369.
 * -
 	* Gournay, Lucie. "Locative Inversion In Discourse: a strategy of non-commitment." Discours. Revue de linguistique, psycholinguistique et informatique. A journal of linguistics, psycholinguistics and computational linguistics 5 (2009).
+		* Birner, Betty Jean. The discourse function of inversion in English. Northwestern University, 1992.
 		* Miller, Philip. "Subject Inversion and Information Structure." (2024).
 		* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
 		* Shizawa, Takashi. "The Rhetorical Effect of Locative Inversion Constructions from the Perspective of the Three-Tier Model of Language Use." English Linguistics 32.1 (2015): 156-176.
@@ -493,8 +519,6 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 * Ariel, Mira. Accessing noun-phrase antecedents (rle linguistics b: Grammar). Routledge, 2014.
 	* https://en.wikipedia.org/wiki/Mira_Ariel
 
-* Asher, Nicholas, and Alex Lascarides. "Bridging." Journal of Semantics 15.1 (1998): 83-113.
-
 * Asher, Nicholas, et al. "Complex discourse units and their semantics." CID 2011-Constraints In Discourse. 2011.
 
 * Banfield, Ann. "Reflective and non-reflective consciousness in the language of fiction." Poetics today 2.2 (1981): 61-76.
@@ -533,6 +557,10 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 		* Thompson, Sandra A. "Grammar and written discourse: Initial vs. final purpose clauses in English." Text-Interdisciplinary Journal for the Study of Discourse 5.1-2 (1985): 55-84.
 
 * Clark, Herbert H. "Bridging." Theoretical issues in natural language processing. 1975.
+	* Asher, Nicholas, and Alex Lascarides. "Bridging." Journal of Semantics 15.1 (1998): 83-113.
+	* Irmer, Matthias. Bridging inferences: Constraining and resolving underspecification in discourse interpretation. Vol. 11. Walter de Gruyter, 2011.
+	* Irmer, Matthias. "Bridging reference to eventualities." Proceedings of Sinn und Bedeutung. Vol. 13. No. 1. 2009.
+
 
 * Crystalwizard and Don Webb. Camera, Action: Complex Scenes. http://www.bewilderingstories.com/issue235/cc_complex_scenes.html [Last accessed: 2024-05-09]
 
