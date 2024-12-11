@@ -13840,9 +13840,17 @@ From somewhere age(s) 2-5; "core personality stuff":
 * skepticism / (epistemic) paranoia, calling bullshit, calling full of shit, knee-jerk anti-authoritarianism,
 * social warmth / belonging
 
-* 20241107
+**20241107**
 
 Ken Wilber / Aurobindo --- overmind / supermind type stuff (not the first time; last time was in past year and I think I didn't record it) ; See maybe Wilber's Religion of Tommorow (maybe better discussion in earlier works, too). Note: Ken Wilber is not uncontroversial if you search around.
+
+**20241211**
+
+* trying the ketogenic diet, at least temporarilly, finally, only with the help of lots of different powders said shamefaced-ly. lots less "\[~very] subtle static," and other good things. i don't think it's making meditation faster, but it's interesting.
+* recently some sort of "hippocampal" integrations. doesn't feel like the final thing. spatial pathfinding, visual document navigation, learning, memory are all-ish the same thing-ish. vaguely. again doesn't feel completely correct or finished.
+* more self-is-leaving-out-world untwisting
+* some visual stuff over past year, as well as hippocampal thing and some other things feel like the beginning of sense-door integration (cf. centerlessness, etc.), finally
+* not doing anything different, same old (interesting / agonizing / etc.) practice; recent slight uptick in more explicit-ish meta-protocol-ish stuff versus last couple years, versus more spontaneous revelatory "oh this is next" or "oh this was wrong"
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
