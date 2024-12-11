@@ -13705,7 +13705,7 @@ Mark L  7:50 PM
 So I’m going to call the muscle tension done**, at least there’s no big twists/pressures left in the system, muscle-y or otherwise. **What’s left is sort of fractal cleanup.  
 There’s alllllmost nothing “meditation-y” left to do, in general (phenomenologically, metaphysically[, deep childhood/prenatal refactoring]…). More and more things feel like “post-meditation,” which is maybe “embodied thinking.”  
 That said, I’m guessing probably a couple more small-medium size “shifts” at some point (like more Ingram-style centerlessness or agencylessness or smthg).  
-What’s next I guess is continued improvements in physical/social grace and like “life planning”/“embodied action” stuff. Post-meditation is meditation, no end in sight! But more interleaved with everything else (noodling, de-stressing, planning, writing, learning, integrating, “thinking”).  (edited)  
+What’s next I guess is continued improvements in physical/social grace and like “life planning”/“embodied action” stuff. Post-meditation is meditation, no end in sight! But more interleaved with everything else (noodling, de-stressing, planning, writing, learning, integrating, “thinking”).  (edited)**
 
 
 Mark L  8:01 PM  
@@ -13765,7 +13765,7 @@ In some ways, at least one of the following has to make sense for someone to eng
 [...]  
 <<<
 
-* 20220415:
+**20220415:**
 
 ([if I publish this elsewhere] I feel comfortable commoditizing this a little in part because it's exemplifying, and it happened many years ago, and my family doesn't regularly read my writing.)
 
@@ -13781,7 +13781,7 @@ First-pass, in terms of happiness and friendships and relating and intimacy---ge
 
 [Life-affecting muscle tension did come back, up from a little present but not life-intefering, the above-as-a-twist-in-the-system clarifying, while approaching the above, and is now receding again, as best I can first-pass tell, to even lower levels. Will update if doesn't now smoothly dissipate utterly and completely. There could be even still a few more things. Recall, as best I understand it, it got so bad in the first place because of problematic things I did pre-p2 and pre-meta protocol.]
 
-* 20220513:
+**20220513:**
 
 I am finally jogging again, joy joy joy~~~~~~
 
@@ -13803,7 +13803,7 @@ metabolically and feeling into differential recovery rates across different musc
 
 and seeking "perfect" form, global optimum basin---non-impact, footfalls, glide, breath, floatiness---which can take weeks or months to find and even when you do it continuously changes as the above change at different rates
 
-* 20220619:
+**20220619:**
 
 See <a href="#endlessness-vs-impermanence">endlessness vs impermanence (scratch/&#8203;stub)</a>
 
@@ -13812,27 +13812,27 @@ The edges around everything are getting blurry, like sort of both blurry and tur
 cf. no-things which was much earlier for me.
 
 
-* 20220726:
+**20220726:**
 
 [This doesn't feel quite accurate but better than nothing~] [Once again] I'm finding more pockets of metaphysical/cosmological phenological-belief-y bases-for-action, emotion, motivation, etc. Not this exactly, but kind of like meaning, intimacy, afterlife, this-life stuff, as entangled with day-to-day action and implicit (or explicit) long-term goals, interests, projects. More and more sort of [bodymindworld-phenomenological-everything] "don't know" replacing previously implicit "this is utterly how it is" and then losing that as carrot or stick, and then have to further and further "fall back on" or rely on the "the spontaneity of what's having happened as it's happening" [sic] as "basis" (for action and being) or something like that.
 
-* 20220711:
+**20220711:**
 
 See: <a href="#void-nothingness-cessations-nibanna-stub-scratch">void (nothingness, cessation(s), nibbana, nirvana [stub/&#8203;scratch]</a>
 
-* pre 20240426a:
+**pre 20240426a:**
 
 lots of non-model-breaking meditation stuff, illness and no meditation for months, more non-model-breaking meditation stuff
 
-* pre 20240426b:
+**pre 20240426b:**
 
 possibly want to add something here
 
-* 20240426
+**20240426**
 
  For months and months prior up in there: Lots of jaw, neck, tongue, throat, sleep, breathing stuff (over many, many night and mornings—effortlessness, discomfort tolerance, patience, allowing, non-control, surrender, many somatic puzzles, “volitional unraveling puzzles,” always ultimately via effortlessness and spontaneity, and leading-edge lightest-gentle-touch-fear puzzles \[ditto]). No history/evidence of childhood or adult sleep apnea though some childhood mouth breathing and childhood insomnia. Maybe some airway resistance syndrome? Partial mystery (because some of this has to be from the prior force-y stuff), so far, anyway.  
 
-* 20241015
+**20241015**
 
 From somewhere age(s) 2-5; "core personality stuff":
 
