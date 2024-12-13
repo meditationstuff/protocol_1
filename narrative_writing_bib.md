@@ -140,6 +140,11 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* Halamásková, Jana. "The position of direct and indirect objects of selected English ditransitive verbs." (2011).
 	* Emonds, Joseph. "Projecting indirect objects." (1993): 211-264.
 
+* Heine, Bernd. The grammar of interactives. Oxford University Press, 2023.
+* Neveux, Julie. "Grammar and feelings: a study of Wh-exclamatives in Katherine Mansfield’s short stories." Études de stylistique anglaise 12 (2018): 193-222.
+* O’Connell, Daniel C., and Sabine Kowal. "Interjections in the Performance of Jane Austen’s Pride and Prejudice." Journal of psycholinguistic research 39 (2010): 285-304.
+* Rett, Jessica. "Exclamatives, degrees and speech acts." Linguistics and philosophy 34 (2011): 411-442.
+* Taavitsainen, Irma. "Narrative Patterns of Affect in Four Genres of the" Canterbury Tales"." The Chaucer Review (1995): 191-210.
 
 
 <!-- -->
