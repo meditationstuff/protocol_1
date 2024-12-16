@@ -15375,6 +15375,7 @@ Sort of in this genre (lots, I think):
 			* Don't try to control/&#8203;change the qualities/&#8203;process/&#8203;evolution of (an) experience(s).
 			* Don't try to stabilize/&#8203;hold-onto/&#8203;crystallize/&#8203;keep (an) experience(s).
 			* Don't try to increase or decrease the intensity/&#8203;magnitude of (an) experience(s).
+			* Don't try to add or remove/&#8203;subtract \[(a) particular] thing(s)/&#8203;quality(/ies)/&#8203;experience(s)/&#8203;action(s)/&#8203;doing(s)/&#8203;stances/&#8203;postures/&#8203;orientations/&#8203;etc. to/&#8203;from (an) experience(s).
 			* Don't try to push, pull, or otherwise manipulate (an) experience(s).
 		* attention:
 			* Don't try to stay/&#8203;remain with (an) experience(s).

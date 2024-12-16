@@ -130,6 +130,13 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Ojea, Ana. "On the Eventive Structure of Adjectives and Adverbs." Atlantis (1998): 159-175.
 	* https://en.wikipedia.org/wiki/Small_clause [Last accessed: 2024-12-10]
 	* https://en.wikipedia.org/wiki/Secondary_predicate [Last accessed: 2024-12-10] \[resultative, depictive, subject-oriented depictive, object-oriented depictive]
+		* https://ell.stackexchange.com/questions/46364/waterway-flowed-sombre-should-joseph-conrad-have-used-an-adverb-not-an/46391#46391 [Last accessed: 2024-12-14]
+		* https://books.google.ru/books?id=CktoAgAAQBAJ&lpg=PA343&ots=mg8f6V8d0I&dq=Depictive%20construction&hl=ru&pg=PA344#v=onepage&q=Depictive%20construction&f=false [Last accessed: 2024-12-14]
+			* Croft, William. Verbs: Aspect and causal structure. OUP Oxford, 2012.
+			* Schultze-Berndt, Eva, and Nikolaus P. Himmelmann. "Depictive secondary predicates in crosslinguistic perspective." (2004): 59-131.
+			* Asada, Yuko. "Against the complex predicate analysis of secondary predication." Proceedings of ConSOLE XVII 17 (2012): 53-76.
+			* Rothstein, Susan. "Secondary predication and aspectual structure." ZAS papers in linguistics 17 (2000): 241-264.
+			* CAROL, L. TENNY. "Core events and adverbial modification." Events as grammatical objects (2000): 285-334.
 	* - 
 		* Grimshaw, Jane, and Sten Vikner. "Obligatory adjuncts and the structure of events." Knowledge and Language: Volume II Lexical and Conceptual Structure. Dordrecht: Springer Netherlands, 1993. 143-155.
 		* Rapoport, Tova R. "Stage and adjunct predicates: Licensing and structure in secondary predication constructions." Knowledge and Language: Volume II Lexical and Conceptual Structure. Dordrecht: Springer Netherlands, 1993. 157-182.
@@ -274,8 +281,13 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 		* Hasegawa, Nobuko. "Thetic judgment as presentational" Journal of Japanese Linguistics, vol. 26, no. 1, 2010, pp. 5-26.
 		* Ojea, Ana. "Syntax meets discourse: Locative and deictic (directional) inversion in English" Poznan Studies in Contemporary Linguistics, vol. 56, no. 2, 2020, pp. 251-276. [tag: thetic]
 			* - 
-				* Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
-					* Sasse, Hans-Jürgen. "The thetic/categorical distinction revisited." (1987): 511-580.
+				* Rosengren, Inger. "The thetic/&#8203;categorical distinction revisited once more." (1997): 439-480.
+					* Sasse, Hans-Jürgen. "The thetic/&#8203;categorical distinction revisited." (1987): 511-580.
+					* Lambrecht, Knud. "When subjects behave like objects: An analysis of the merging of S and O in sentence-focus constructions across languages." Studies in Language. International Journal sponsored by the Foundation “Foundations of Language” 24.3 (2000): 611-682.
+					* Ernst, Thomas. "Modification of stative predicates." Language (2016): 237-274.
+					* Lambrecht, Knud. Information structure and sentence form: Topic, focus, and the mental representations of discourse referents. Vol. 71. Cambridge university press, 1994.
+					* Chafe, Wallace. "Givenness, contrastiveness, definiteness, subjects, topics, and point of view." Subject and topic/&#8203;Academic 30 (1976).
+					* Landau, Idan. "The explicit syntax of implicit arguments." Linguistic Inquiry 41.3 (2010): 357-388.
 				* Hill, Walter., Bryan Gindoff, and Bruce Henstell. Screenplay of the 1975 film Hard Times.
 				* TheBig_W. "Lessons learned from 6 books, and ten years of writing." https://www.reddit.com/r/writing/comments/1gvqf56/lessons_learned_from_6_books_and_ten_years_of/ [Last accessed: 2024-11-21]
 			* Ojea, Ana. "The syntax of thetic statements in English." Atlantis 42.1 (2020): 143-162.
