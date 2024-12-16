@@ -14,9 +14,9 @@
 
 "*It will be ok, but it will be different.*" ---unknown
 
-"*Ce qui nous précède est actuel en nous.*" "*That which precedes us is current within us*" ---Spinoza \[https://x.com/nicoscosc/status/1868341920470348196 https://x.com/nicoscosc/status/1868342424533426248]
+"*Ce qui nous précède est actuel en nous.*" "*That which precedes us is current within us*" ---Spinoza \[https://x.com/nicoscosc/status/1868341920470348196 https://x.com/nicoscosc/status/1868342424533426248 \[Last accessed: 2024-12-16]]
 
-"*Ce qui s’est perdu éperdument rayonne encore.*" "*That which is hopelessly lost still shines out.*" ---Pascal Quignard \[https://x.com/nicoscosc/status/1868341920470348196 https://x.com/nicoscosc/status/1868342424533426248]
+"*Ce qui s’est perdu éperdument rayonne encore.*" "*That which is hopelessly lost still shines out.*" ---Pascal Quignard \[https://x.com/nicoscosc/status/1868341920470348196 https://x.com/nicoscosc/status/1868342424533426248 \[Last accessed: 2024-12-16]]
 
 <span id="byline"></span> **by** "meditationstuff" and collaborators
 
