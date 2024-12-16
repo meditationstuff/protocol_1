@@ -11012,7 +11012,11 @@ There might be a loose dependency ordering:
 * unified will, free of contradiction
 * bodymind fully deconditioned (and reconditioned)
 
-Each former sort of needs to happen before the latter, and/&#8203;but all of them are sort of asymptotic and shade into each other and are artificial distinctions. And also they are all sort of toy models that don't perfectly hew to the territory, as it were, and will in some ways be misleading with respect to doing the thing. 
+Each former sort of needs to happen before the latter, and/&#8203;but all of them are sort of asymptotic and shade into each other and are artificial distinctions. And also they are all sort of toy models that don't perfectly hew to the territory, as it were, and will in some ways be misleading with respect to doing the thing.
+
+Note:
+
+The above discussion also applies to "goodness models." For example, if you see, say, an "interpersonal relationship quality," or, say, an interpersonal experience, that's attractive to you in some way, in a piece of media, like a book or a tv/&#8203;streaming show or movie, then you might thereafter, deep-down implicitly, or explicitly, *reference* that goodness via that piece of media. Like, it lives *in* the media, for you, and you may go to the media in memory, or you watch/&#8203;read it again, to remember or to refresh yourself or to remind yourself that that goodness exists or is a thing, for comfort, hope, etc. Eventually, through naturalization, you come to *embody* that goodness, its stance, its pursuit or at least possibility in principle, without needing reference *through/&#8203;by/&#8203;via* that media (also with probably lots of "error correction," etc., like some aspects of it might provisionally turn out to be not so good). You still get to like the media! You can watch it as much as you want! But something's been "de-twingled," you're free of it, lighter, in a way, and so on, and on.
 
 [<a href="#158da1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
