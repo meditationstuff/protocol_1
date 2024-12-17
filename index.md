@@ -36,13 +36,14 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
 (ANOTHER NOTE: I've tried to assemble a "popular introduction or alternative" to my stuff, comprised of books by other people. Some of these books I haven't read, but they seem to get at the vibe or spirit of what I'm going for in this big document. I will disagree with lots of what's in them or even think they're almost net-misleading, but also they're pointing vaguely in the direction that I'm trying to point, like vaguely in the direction of the "'deepest', most important stuff, and collectively, comprehensively so":
 
 * Slingerland, Edward. **Trying not to try**: Ancient China, modern science, and the power of spontaneity. Crown, 2015. \[Mark comment: I haven't read this, and I don't know if Slingerland is a meditative practitioner, so this may be too wordy and totally miss the point, BUT my whole deal, which asymptotically includes many of the early and tibetan buddhist classical attainments, may also be exactly equivalent to the asymptotic "perfection" of wu wei. not sure yet, but it's sure looking like it at the time of this writing]
-* Siff, Jason. **Unlearning meditation**: What to do when the instructions get in the way. Shambhala Publications, 2010.
+* Siff, Jason. **Unlearning meditation**: What to do when the instructions get in the way. Shambhala Publications, 2010. \[not the best-organized book and maybe a lot of filler for "our" purposes, but deep alignment on narrowband core ethos]
+* Awbery, Charlie. **Opening Awareness**: A guide to finding vividness in spacious clarity. Evolving Ground Ltd, 2023. \[not identical but pretty closely related pith instructions to some of my pith instructions; also similar ethos in general in a lot of ways]
 * Burns, David. **Feeling good together**: The secret to making troubled relationships work. Random House, 2010. \[Mark comment: subtly hyperanalytical and brilliant, though imperfect. I don't recommend any of other Burns' stuff, fwiw.]
 * Grant, Adam. **Give and take**: A revolutionary approach to success. Penguin, 2013. \[Mark comment: cf. buddhist "interdependence"]
 * Kay, John, and Shiva Kumar Srinivasan. "**Obliquity**: Why Our Goals are Best Achieved Indirectly."
  \[Mark comment: cf. meditation as as-needed maximally indirect ultimately-concrete problem-solving]
  	* Kenneth O. O. Stanley, Kenneth O. O. and Joel Lehman. **Why Greatness Cannot Be Planned**: The Myth of the Objective. Springer, 2015 edition. \[hat-tip: JC]
-* Wilber, Ken. **The religion of tomorrow**: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017. \[maybe very overly-reifying and I'm aware there's a ton of Wilber-criticism])
+* Wilber, Ken. **The religion of tomorrow**: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017. \[maybe very overly-reifying and I'm aware there's a ton of Wilber-criticism, but the maps really do loosely correlate with the "real thing" with hard-to-beat comprehensiveness, and infrequently-but-usefully come in handy, practice-wise; and sometimes good for interpersonal bridge-building between different systems]
 
 <span id="who-is-this-document-for"></span> **Who is this document for?**
 
@@ -587,7 +588,7 @@ I make many bold assertions in this document, and sometimes I use words like usu
 1. If your immune system is under- or overactive, then you should engage with these practices with caution.
 1. If you have experienced abuse, psychological trauma, physical trauma, etc., then you should engage with these practices with caution.
 1. If you engage with these practices then you must be aware that you could permanently ruin the rest of your life or die (sooner that you would otherwise). You must also be aware that the lives of people around you may be ruined or those people may die sooner as a result of your engaging these practices.
-1. You have to judge whether you have net enough money, food, shelter, social/relationship capital, "opportunity cost slack" to proceed. Ideally, a person either has "truly nothing to lose" or they have ample resources to last them three to seven years (just in case).
+1. You have to judge whether you have net enough money, food, shelter, social/&#8203;relationship capital, "opportunity cost slack" to proceed. Ideally, a person either has "truly nothing to lose" or they have ample resources to last them three to seven years (just in case).
 
 \*\*\*
 
@@ -15458,7 +15459,13 @@ Sort of in this genre (lots, I think):
 
 Note: Regarding "interleaving," interleaving meditation and LIFE isn't particularly recommended, except for cautiously stolen moments, because the ultimate combination of meditation and life is just life. Perhaps keep meditation and life somewhat separate and let them sift into each other naturally so/&#8203;until only life remains. But also ignore/&#8203;adapt this, too, if it doesn't feel right.
 
-Note: Don't take too seriously all the "ontology" and "categorization" above. Let it be fluid and playful and provisional, discardable. 
+Note: Don't take too seriously all the "ontology" and "categorization" above. Let it be fluid and playful and provisional, discardable.
+
+See also:
+
+* Not identical, but, if curious, compare with "remain uninvolved" in:
+	* Awbery, Charlie. Opening Awareness: A guide to finding vividness in spacious clarity. Evolving Ground Ltd, 2023.
+* Also compare with Tilopa's "Six Words of Advice" (and lots of similar stuff)
 
 [<a href="#179ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
