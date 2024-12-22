@@ -7633,6 +7633,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * \~unresolved epistemic contradiction causes loss of contact with the sensory now ; thus loss of contact with the sensory now indicates unresolved epistemic contradiction ("within" or "without" / "self" or "other"); thus test everything against the sensory now ; test for whether something distances from the sensory now
 	* NOTE: The above is maybe as problematic as <a href="#wellbeing-and-sacrifice">The Human Handledness is Already Success Principle (Human HAS Princple or just "HAS" Principle)</a>. Not to be taken too seriously or literally! I should still maybe remove the linked section or the above bullet from the document.
 	* See also: <a href="#wrong1a">if it/&#8203;something feels wrong then something somehow somewhere is wrong, plus restatements</a>
+* no one: // me [interocepting; every couple hours deliberately exposing myself to small amounts of antigen to trigger mild IgE allergic responses, to explore oral tolerance mechanisms & nervous/psychological regulation of the immune system]: the autonomic nervous system and the immune system are so *cognitive* https://x.com/meditationstuff/status/1870899015895728134
 
 end "misc pith"
 
@@ -11017,7 +11018,11 @@ Each former sort of needs to happen before the latter, and/&#8203;but all of the
 
 Note:
 
-The above discussion also applies to "goodness models." For example, if you see, say, an "interpersonal relationship quality," or, say, an interpersonal experience, that's attractive to you in some way, in a piece of media, like a book or a tv/&#8203;streaming show or movie, then you might thereafter, deep-down implicitly, or explicitly, *reference* that goodness via that piece of media. Like, it lives *in* the media, for you, and you may go to the media in memory, or you watch/&#8203;read it again, to remember or to refresh yourself or to remind yourself that that goodness exists or is a thing, for comfort, hope, etc. Eventually, through naturalization, you come to *embody* that goodness, its stance, its pursuit or at least possibility in principle, without needing reference *through/&#8203;by/&#8203;via* that media (also with probably lots of "error correction," etc., like some aspects of it might provisionally turn out to be not so good). You still get to like the media! You can watch it as much as you want! Learn new things on re-watch! But something's been "de-twingled," you're free of it, lighter, in a way, and so on, and on. Critically, the whole system is more structurally fluid. (And you become more creative.)
+The above discussion also applies to "goodness models." For example, if you see, say, an "interpersonal relationship quality," or, say, an interpersonal experience, that's attractive to you in some way, in a piece of media\*, like a book or a tv/&#8203;streaming show or movie, then you might thereafter, deep-down implicitly, or explicitly, *reference* that goodness via that piece of media. Like, it lives *in* the media, for you, and you may go to the media in memory, or you watch/&#8203;read it again, to remember or to refresh yourself or to remind yourself that that goodness exists or is a thing, for comfort, hope, etc. Eventually, through naturalization, you come to *embody* that goodness, its stance, its pursuit or at least possibility in principle, without needing reference *through/&#8203;by/&#8203;via* that media (also with probably lots of "error correction," etc., like some aspects of it might provisionally turn out to be not so good). You still get to like the media! You can watch it as much as you want! Learn new things on re-watch! But something's been "de-twingled," you're free of it, lighter, in a way, and so on, and on. Critically, the whole system is more structurally fluid. (And you become more creative.)
+
+Footnotes:
+
+\*or an experience in-real-life, first-, second-, or third-hand, too, of course
 
 [<a href="#158da1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

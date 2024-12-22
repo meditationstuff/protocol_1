@@ -67,6 +67,35 @@ Messy list of mostly very academic references I found helpful (directly or indir
 
 <!-- --> 
 
+* Klinkenborg, Verlyn. Several short sentences about writing. Vintage, 2013.
+* MAKINO, Seiichi. "How and Why Do We Repeat?." 1980.
+* Tannen, Deborah. Talking voices: Repetition, dialogue, and imagery in conversational discourse. Vol. 26. Cambridge University Press, 2007.
+* Thomas, Andrew L. "Ellipsis: the interplay of sentence structure and context." Lingua 47.1 (1979): 43-68.
+* Hardt, Daniel. "Inference, ellipsis and deaccenting." Proceedings of the fifteenth Amsterdam colloquium. Amsterdam: University of Amsterdam, Institute for Logic, Language, and Computation and the Department of Philosophy, 2005.
+* (((( Weir, A. (2020). Antecedentless fragments: a middle road between sententialism and nonsententialism. Acta Linguistica Hafniensia, 52(2), 151–179. https://doi.org/10.1080/03740463.2020.1759369 )))) [Note: misleading]
+
+* https://www.reddit.com/r/grammar/s/LdktQl2UEz response to "Is 'As' a \[noun] a participle phrase?" https://www.reddit.com/r/grammar/s/xamhSVGNdP [Last accessed: 2024-12-19]
+* Zwicky, Arnold. "The power of the Subject Rule" https://arnoldzwicky.org/2017/03/04/the-power-of-the-subject-rule/ [Last accessed: 2024-12-19]
+* Zwicky, Arnold. "Why are some summatives labeled 'vague'?" https://languagelog.ldc.upenn.edu/nll/?p=178 [Last accessed: 2024-12-19]
+* https://arnoldzwicky.org/2009/10/08/dangling-postings/ [Last accessed: 2024-12-19]
+* https://arnoldzwicky.org/2012/06/02/as-a-spar/ [Last accessed: 2024-12-19]
+* https://arnoldzwicky.org/2012/10/20/possessive-controller-for-spar/ [Last accessed: 2024-12-19]
+* - [Last accessed: 2024-12-19]
+	* https://arnoldzwicky.org/2013/02/10/subjectless-predicative-adjuncts/
+	* https://english.stackexchange.com/questions/613666/would-we-consider-these-adjuncts-to-be-verbless-clauses
+	* https://arnoldzwicky.org/2011/03/23/annals-of-danglerology/
+	* https://arnoldzwicky.org/2012/10/20/possessive-controller-for-spar/
+	* https://arnoldzwicky.org/2017/12/20/after-spars/
+	* https://scholar.google.com/scholar?q=making+the+meaning+of+sentence+fragments+clear+-student+-error+-teaching
+
+* Gisborne, Nikolas. "The event structure of perception verbs." (2010).
+* Chen, Yiting. "Macro-events in Verb–verb Compounds from the Perspective of Baseline and Elaboration: Iconicity in Typology and Grammaticalization." Cognitive Semantics 6.1 (2020): 1-28.
+* Talmy, Leonard. Toward a cognitive semantics, volume 1: Concept structuring systems. Vol. 1. MIT press, 2003.
+* Talmy, Leonard. "Toward a cognitive semantics, Volume 2: Typology and process in concept structuring." (2000).
+
+<!-- --> 
+
+
 * Spiegel, Alan Harvey. FICTION AND THE CAMERA EYE: A STUDY OF VISUAL FORM IN THE MODERN NOVEL. University of Virginia, 1973.
 * Nielsen, Henrik Skov. "The impersonal voice in first-person narrative fiction." Narrative 12.2 (2004): 133-150.
 
