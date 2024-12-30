@@ -13880,7 +13880,7 @@ It's calmed down now, for the moment, but the past few nights:
 	* Purely conversationally, I did not do the parenthetical, in part because I had moderately thorough heart workup a year ago, though a lot can change in a year and I had the workup for a reason. Again purely conversationally, there was not realllly any new pressure, nor chest squeezing, nor heaviness and also there was the absence of several other possible heart attack symptoms. Note: it's still possible to have a heart attack with almost no symptoms, and women tend to have a mild or atypical presentation. Again this is not medical advice and I have no idea what I'm talking about. The smart call would be for me to at least go in and get my troponin tested or something, maybe.
 	* What did give me the most pause was that the emotional quality of the pain was very similar to my 14-on-a-10-out-of-10-scale appendicitis pain many years ago, though, again, without the pain.
 * Anyway, the first time, I kept 50% meditating and 50% monitoring whether I thought I was having a heart attack. Now it's about 90/10.
-* Anyway, anyway, the lifelong themes that have emerged so far are:
+* Anyway, anyway, large-scale unwinding in the heart area, chest, and down my left arm picked up, and lifelong themes that have emerged so far are:
 	* belonging, worth, deservingness
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
