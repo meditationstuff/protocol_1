@@ -88,10 +88,47 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* https://arnoldzwicky.org/2017/12/20/after-spars/
 	* https://scholar.google.com/scholar?q=making+the+meaning+of+sentence+fragments+clear+-student+-error+-teaching
 
-* Gisborne, Nikolas. "The event structure of perception verbs." (2010).
+* https://lauridonahue.com/getting-emotional-how-to-make-readers-feel-whats-on-the-page-stps-12/ [Last accessed: 2024-12-29]
+* Schmidhuber, Jürgen. "Driven by compression progress: A simple principle explains essential aspects of subjective beauty, novelty, surprise, interestingness, attention, curiosity, creativity, art, science, music, jokes." Workshop on anticipatory behavior in adaptive learning systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008.
+* https://statecharts.dev/ [Last accessed: 2024-12-29]
+* Iglesias, Karl. Writing for emotional impact : advanced dramatic techniques to attract, engage, and fascinate the reader from beginning to end. WingSpan Press. 2011.
+
+- *
+	* Gisborne, Nikolas. "The event structure of perception verbs." (2010).
+	* Page, Anna Katarina. "Causation is non-eventive." (2023).
+	* Mellquist, Simone. "Russian converb constructions corresponding to Swedish purposive för att ‘in order to’+ infinitive constructions." Poljarnyj vestnik 27 (2024): 1-37.
+	* Dowty, David R. Word meaning and Montague grammar: The semantics of verbs and times in generative semantics and in Montague's PTQ. Vol. 7. Springer Science & Business Media, 1979, 2012.
+	* -
+		* https://en.wikipedia.org/wiki/Dependency_relation [Last accessed: 2024-12-30]
+		* Ylikoski, Petri. "Causal and constitutive explanation compared." Erkenntnis 78 (2013): 277-297.
+		* https://www.google.com/search?q=%22synchronic+dependence%22 [Last accessed: 2024-12-30]
+		* Bennett, Karen. Making things up. Oxford University Press, 2017.
+		* Fine, Kit. "The question of realism." Individuals, essence and identity: Themes of analytic metaphysics. Dordrecht: Springer Netherlands, 2002. 3-48.
+		* Paul, Laurie Ann, and Edward Jonathan Hall. Causation: A user's guide. Oxford University Press, 2013.
+	* -
+		* Zwicky, Arnold M., Ann D. Zwicky, and B. Kachru. "How come and what for." (1973).
+		* Bruening, Benjamin. "Light verbs are just regular verbs." Proceedings of the 39th Annual Penn Linguistics Conference (U. Penn Working Papers in Linguistics). Vol. 22. No. 1. 2016.
+	* -
+		* Gibson, James J. The ecological approach to visual perception: classic edition. Psychology press, 2014.
+		* https://en.wikipedia.org/wiki/Affordance [Last accessed: 2024-12-24]
+		* Merleau-Ponty, Maurice. "Phenomenology of perception." Humanities (1945, 1962 translated).
+		* -
+			* Wittenberg, Eva. With light verb constructions from syntax to concepts. Vol. 7. Universitätsverlag Potsdam, 2016.
+			* Tron, A., Derevianko, O., Zhumbei, M., & Shpilchak, L. (2022). Light Verb Constructions as Means of Expressing Semelfactive/Multiplicative Meanings in J.K. Rowling’s Discourse (on the basis of novels ‘Harry Potter and the Sorcerer’s Stone’ and ‘Harry Potter and the Chamber of Secrets’). Amazonia Investiga, 11(50), 43–54. https://doi.org/10.34069/AI/2022.50.02.5
+		* -
+			* Alexiadou, Artemis, and Jane Grimshaw. "Verbs, nouns and affixation." (2008).
+			* Grimshaw, J., Williams, E. (1993). Nominalization and Predicative Prepositional Phrases. In: Pustejovsky, J. (eds) Semantics and the Lexicon. Studies in Linguistics and Philosophy, vol 49. Springer, Dordrecht. https://doi.org/10.1007/978-94-011-1972-6_7
+			* Grimshaw, Jane. 1990. Argument Structure. MIT Press. 
 * Chen, Yiting. "Macro-events in Verb–verb Compounds from the Perspective of Baseline and Elaboration: Iconicity in Typology and Grammaticalization." Cognitive Semantics 6.1 (2020): 1-28.
 * Talmy, Leonard. Toward a cognitive semantics, volume 1: Concept structuring systems. Vol. 1. MIT press, 2003.
 * Talmy, Leonard. "Toward a cognitive semantics, Volume 2: Typology and process in concept structuring." (2000).
+* Spring, Ryan. "Teaching phrasal verbs more efficiently: using corpus studies and cognitive linguistics to create a particle list." Advances in Language and Literary Studies 9.5 (2018): 121-135.
+* Zwicky, Arnold M., Ann D. Zwicky, and B. Kachru. "How come and what for." (1973).
+	* Wickboldt, June Marie. The semantics of since. Indiana University, 1998.
+	* Davison, Alice. Performative verbs, adverbs and felicity conditions: an inquiry into the nature of performative verbs. The University of Chicago, 1973.
+	* Radford, Andrew. Colloquial English: Structure and Variation. Cambridge University Press, 2018.
+	* Chaves, Rui P., and Michael T. Putnam. Unbounded dependency constructions: Theoretical and experimental perspectives. Vol. 10. Oxford Surveys in Syntax & Mor, 2020.
+		* Levine, Robert, and Thomas Emerson Hukari. "The unity of unbounded dependency constructions." (No Title) (2006).
 
 <!-- --> 
 

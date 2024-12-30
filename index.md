@@ -7634,6 +7634,7 @@ Miscellaneous messy scratch notes (added by Mark):
 	* NOTE: The above is maybe as problematic as <a href="#wellbeing-and-sacrifice">The Human Handledness is Already Success Principle (Human HAS Princple or just "HAS" Principle)</a>. Not to be taken too seriously or literally! I should still maybe remove the linked section or the above bullet from the document.
 	* See also: <a href="#wrong1a">if it/&#8203;something feels wrong then something somehow somewhere is wrong, plus restatements</a>
 * no one: // me [interocepting; every couple hours deliberately exposing myself to small amounts of antigen to trigger mild IgE allergic responses, to explore oral tolerance mechanisms & nervous/psychological regulation of the immune system]: the autonomic nervous system and the immune system are so *cognitive* https://x.com/meditationstuff/status/1870899015895728134
+* to do nothing = to idle --> do nothing meditation = idle meditation?
 
 end "misc pith"
 
@@ -13868,6 +13869,19 @@ Ken Wilber / Aurobindo --- overmind / supermind type stuff (not the first time; 
 * more self-is-leaving-out-world untwisting
 * some visual stuff over past year, as well as hippocampal thing and some other things feel like the beginning of sense-door integration (cf. centerlessness, etc.), finally
 * not doing anything different, same old (interesting / agonizing / etc.) practice; recent slight uptick in more explicit-ish meta-protocol-ish stuff versus last couple years, versus more spontaneous revelatory "oh this is next" or "oh this was wrong"
+
+**20241230**
+
+It's calmed down now, for the moment, but the past few nights:
+
+* strong (emotional) pain in the heart region, some actually painful burning, sensations going down the left arm, sensations going up to the jaw
+	* YES these are signs of either a a) heart attack or b) BROKEN HEART SYNDROME (google this), Takotsubo cardiomyopathy / takotsubo syndrome / stress cardiomyopathy (as per wikipedia, the names, not the symptoms)
+	* (I am not a doctor, but, first pass, if you have these sensations, you should consider immediately having someone drive you to the emergency department or you should call 911 or the equivalents in your country.)
+	* Purely conversationally, I did not do the parenthetical, in part because I had moderately thorough heart workup a year ago, though a lot can change in a year and I had the workup for a reason. Again purely conversationally, there was no (new) chest squeezing and no chest heaviness or pressure and also the absence of several other possible heart attack symptoms. Note: it's still possible to have a heart attack with almost no symptoms, and women tend to have a mild or atypical presentation. Again this is not medical advice and I have no idea what I'm talking about. The smart call would be for me to at least go in and get my troponin tested or something, maybe.
+	* What did give me the most pause was that the emotional quality of the pain was very similar to my 14-on-a-10-out-of-10-scale appendicitis pain many years ago, though, again, without the pain.
+* Anyway, the first time, I kept 50% meditating and 50% monitoring whether I thought I was having a heart attack. Now it's about 90/10.
+* Anyway, anyway, the lifelong themes that have emerged so far are:
+	* belonging, worth, deservingness
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
