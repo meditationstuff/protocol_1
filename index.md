@@ -6958,7 +6958,7 @@ For myself, based on prior actions and "karma," I've encountered a collection of
 
 See also:
 
-<a href="he412">Mark timeline heart thing</a>
+<a href="#he412">Mark timeline heart thing</a>
 
 [<a href="#138a1a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -13876,7 +13876,7 @@ Ken Wilber / Aurobindo --- overmind / supermind type stuff (not the first time; 
 
 <span id="he412">**20241230**</span>
 
-It's calmed down now, for the moment, but the past few nights:
+It's calmed down, now, for the moment, but the past few nights:
 
 * a strange almost-painful, almost-emotional pressure-y quality, additional strong (emotional) pain in the heart region, some actually painful burning, sensations going down the left arm, sensations going up to the jaw
 	* YES these are signs, including time of day, of either a) a heart attack or b) BROKEN HEART SYNDROME (google this), Takotsubo cardiomyopathy / takotsubo syndrome / stress cardiomyopathy (as per wikipedia, the names, not the symptoms), c) a "panic attack," though the symptoms are a little different. I am not a doctor and neither the preceding nor the below is medical advice.
