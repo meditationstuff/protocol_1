@@ -580,7 +580,7 @@ I make many bold assertions in this document, and sometimes I use words like usu
 
 # <span id="16"></span><a id="risks-maximally-cautious-warnings-directives-first-" href="#risks-maximally-cautious-warnings-directives-first-">risks; maximally cautious warnings/&#8203;directives (first-pass, without explanation):</a>
 
-1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), breathing disturbance, dysautonomia, or sleep disturbance then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
+1. If you are at risk from sequelae of high blood pressure, intracranial pressure, or intraocular pressure (e.g. stroke, dissection, glaucoma), breathing disturbance, dysautonomia, dystonia, or sleep disturbance then you must not engage with the practices below or you must engage with them with extreme caution. If you have spinal or cervical abnormalities that could lead to spinal cord or nerve root impingement, then you must not engage with the practices below or you must engage with them with extrem caution. If you have other musculoskeletal risks then you must be careful.
 1. Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
 1. Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
 1. If you are at risk for suicide, psychosis, or mania then you should engage with these practices with extreme caution.
@@ -2729,7 +2729,7 @@ The methods in this document don’t place great importance on the breath, allow
 
 Long-run, one might barely reflectively attend very much or not at all to the breath, for thousands of hours or indefinitely, or at least do so only as much one might attend to anything else, generally, with respect to body, mind, and environment, etc., "in" the entire "phenomenological field."
 
-Over time, all things being equal, with "right engagement" and right "non-engagement," breathing will tend to become ever-more-subtle, over time. This subtlety will be reflected in the barely perceptible use (or non-use) of all breathing muscles, from diaphragm, stomach/belly, chest, shoulders, and more. Sometimes the subtlest changes in posture are all that’s needed for "breathing."
+Over time, all things being equal, with "right engagement" and right "non-engagement," breathing will tend to become ever-more-subtle, over time. This subtlety will be reflected in the barely perceptible use (or non-use) of all breathing muscles, from diaphragm, stomach/&#8203;belly, chest, shoulders, and more. Sometimes the subtlest changes in posture are all that’s needed for "breathing."
 
 What’s happening, here, is that breathing has "volitional" components and an "autogenic" component. And, over time, "volitional" components can get habitually convolved with the autogenic components, leading to overbreathing and other kinds of disregulated breathing. Through meditation, volitional components can be "deconvolved" out of breathing, leaving mostly just the autogenic component, which, generally, can take care of itself. (Note that this untangling, "deconvolving," may involve much of the rest of the system, too, so attention elsewhere than to the breath, may have long-run positive effects on breathing, and so on. It’s a global sort of puzzle, where breathing is only one piece and is indirectly affected, sometimes, by the rest of it.)
 
@@ -6955,6 +6955,10 @@ For myself, based on prior actions and "karma," I've encountered a collection of
 (Sometimes there can be additional some or any of jaw, mouth, neck, throat, tongue, etc. wanting to settle into or let be helped or gently stabilized into a particular complex, evolving-dynamic-equilibrium muscular configuration, position, set of dynamic tensions, too.)
 
 (Not everyone will have stuff like this! It's really dependent on prior everything. Might be like pretty close to a "worst case" type of thing---and they're untangleable! In practice and in principle bc buddha nature, etc., etc.)
+
+See also:
+
+<a href="he412">Mark timeline heart thing</a>
 
 [<a href="#138a1a1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
@@ -13870,7 +13874,7 @@ Ken Wilber / Aurobindo --- overmind / supermind type stuff (not the first time; 
 * some visual stuff over past year, as well as hippocampal thing and some other things feel like the beginning of sense-door integration (cf. centerlessness, etc.), finally
 * not doing anything different, same old (interesting / agonizing / etc.) practice; recent slight uptick in more explicit-ish meta-protocol-ish stuff versus last couple years, versus more spontaneous revelatory "oh this is next" or "oh this was wrong"
 
-**20241230**
+<span id="he412">**20241230**</span>
 
 It's calmed down now, for the moment, but the past few nights:
 
