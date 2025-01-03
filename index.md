@@ -7639,6 +7639,8 @@ Miscellaneous messy scratch notes (added by Mark):
 	* See also: <a href="#wrong1a">if it/&#8203;something feels wrong then something somehow somewhere is wrong, plus restatements</a>
 * no one: // me [interocepting; every couple hours deliberately exposing myself to small amounts of antigen to trigger mild IgE allergic responses, to explore oral tolerance mechanisms & nervous/psychological regulation of the immune system]: the autonomic nervous system and the immune system are so *cognitive* https://x.com/meditationstuff/status/1870899015895728134
 * to do nothing = to idle --> do nothing meditation = idle meditation?
+* Carr, Jennifer. "Deontic modals." The Routledge handbook of metaethics. Routledge, 2017. 194-210.
+* People imply or even flat-out say: "You have *literally* infinite potential" / "You could do *literally* anything" / "You are *infinitely* malleable" --- which if you buy in (cf. impermanence and non-infinity) might be... firmly getting in the way of a bunch of things you really WANT to do, which don't have to be your identity, or the only thing you do, or a thing you have to do to the exception of other things, or a thing you have to do completely, well, or a long time, let alone forever.
 
 end "misc pith"
 
@@ -13886,6 +13888,9 @@ It's calmed down, now, for the moment, but the past few nights:
 * Anyway, the first time, I kept 50% meditating and 50% monitoring whether I thought I was having a heart attack. Now it's about 90/10.
 * Anyway, anyway, large-scale unwinding in the heart area, chest, and down my left arm picked up, and lifelong themes that have emerged so far are:
 	* belonging, worth, deservingness
+
+
+
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

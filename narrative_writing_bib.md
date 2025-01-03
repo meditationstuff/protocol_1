@@ -92,12 +92,30 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Schmidhuber, Jürgen. "Driven by compression progress: A simple principle explains essential aspects of subjective beauty, novelty, surprise, interestingness, attention, curiosity, creativity, art, science, music, jokes." Workshop on anticipatory behavior in adaptive learning systems. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008.
 * https://statecharts.dev/ [Last accessed: 2024-12-29]
 * Iglesias, Karl. Writing for emotional impact : advanced dramatic techniques to attract, engage, and fascinate the reader from beginning to end. WingSpan Press. 2011.
-
+	* Iglesias, Karl. The Emotional Thesaurus.
+	* Carr, Jennifer. "Deontic modals." The Routledge handbook of metaethics. Routledge, 2017. 194-210.
+		* - [Last accessed: 2025-01-01]
+		* https://en.wikipedia.org/wiki/Modal_operator
+		* https://en.wikipedia.org/wiki/Propositional_attitude
+		* https://en.wikipedia.org/wiki/Angelika_Kratzer
+		* https://en.wikipedia.org/wiki/Modal_subordination
+		* -
+			* https://en.wikipedia.org/wiki/Modality_(semantics)
+			* https://en.wikipedia.org/wiki/Grammatical_mood
+			* https://en.wikipedia.org/wiki/Irrealis_mood
+		* Lassiter, Daniel. Graded modality: Qualitative and quantitative perspectives. Oxford University Press, 2017.
+		* Federico L G Faroldi, Deontic modals and hyperintensionality, Logic Journal of the IGPL, Volume 27, Issue 4, August 2019, Pages 387–410.
+			* Faroldi, F.L.G. (2019). Deontic Modals are Hyperintensional. In: Hyperintensionality and Normativity. Springer, Cham.
+		* Glavaničová, Daniela. "HYPERINTENSIONALITY OF DEONTIC MODALS: AN ARGUMENT FROM ANALOGY." Filozofia 74.8 (2019).
+		* Iatridou, Sabine, and Hedde Zeijlstra. "Negation, polarity, and deontic modals." Linguistic inquiry 44.4 (2013): 529-568.
+		* Faroldi, Federico LG, and Federico LG Faroldi. "Intensional Logic and Semantics for Deontic Modals." Hyperintensionality and Normativity (2019): 3-34.
 - *
 	* Gisborne, Nikolas. "The event structure of perception verbs." (2010).
 	* Page, Anna Katarina. "Causation is non-eventive." (2023).
 	* Mellquist, Simone. "Russian converb constructions corresponding to Swedish purposive för att ‘in order to’+ infinitive constructions." Poljarnyj vestnik 27 (2024): 1-37.
 	* Dowty, David R. Word meaning and Montague grammar: The semantics of verbs and times in generative semantics and in Montague's PTQ. Vol. 7. Springer Science & Business Media, 1979, 2012.
+	* Ojea, Ana. "On the Eventive Structure of Adjectives and Adverbs." Atlantis (1998): 159-175.
+	* Bennett, J., 1987. “Event Causation: the Counterfactual Analysis”, Philosophical Perspectives, 1: 367–86.
 	* -
 		* https://en.wikipedia.org/wiki/Dependency_relation [Last accessed: 2024-12-30]
 		* Ylikoski, Petri. "Causal and constitutive explanation compared." Erkenntnis 78 (2013): 277-297.
@@ -130,6 +148,22 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* Chaves, Rui P., and Michael T. Putnam. Unbounded dependency constructions: Theoretical and experimental perspectives. Vol. 10. Oxford Surveys in Syntax & Mor, 2020.
 		* Levine, Robert, and Thomas Emerson Hukari. "The unity of unbounded dependency constructions." (No Title) (2006).
 
+* Di Pego, Gerald. WRITE! Find the Truth in Your Fiction. 2016.
+* Faulkner, Laura. "" That's convenient, not to say odd": Coincidence, Causality, and Hardy's Inconsistent Inconsistency." Victorian Review 37.1 (2011): 92-107.
+* Salkie, Raphael. "Enablement and possibility." Modes of modality. Modality, typology and universal grammar (2014): 319-352.
+* Richardson, Brian. Unlikely stories: Causality and the nature of modern narrative. University of Delaware Press, 1997.
+* Dannenberg, Hilary P. Coincidence and counterfactuality: Plotting time and space in narrative fiction. U of Nebraska Press, 2008.
+* Ryan, Marie-Laure. "Cheap plot tricks, plot holes, and narrative design." Narrative 17.1 (2009): 56-75.
+* Grener, Adam. "Coincidence as Realist Technique: Improbable Encounters and the Representation of Selfishness in Martin Chuzzlewit." Narrative, vol. 20 no. 3, 2012, p. 322-342. Project MUSE.
+* Glynn, Luke. "Causal foundationalism, physical causation, and difference-making." Synthese 190 (2013): 1017-1037.
+* Sloman, Steven A., and David Lagnado. "Causality in thought." Annual review of psychology 66.1 (2015): 223-247.
+* John Antonakis, Samuel Bendahan, Philippe Jacquart, Rafael Lalive, On making causal claims: A review and recommendations, The Leadership Quarterly, Volume 21, Issue 6, 2010, Pages 1086-1120, ISSN 1048-9843.
+* Strevens, M. Causality Reunified. Erkenn 78 (Suppl 2), 299–320 (2013).
+* Strevens, Michael. Depth: An account of scientific explanation. Harvard University Press, 2011.
+* Psillos, Stathis & Ioannidis, Stavros (2019). Mechanistic Causation: Difference-Making is Enough. Teorema: International Journal of Philosophy 3 (38):53-75.
+* Lewis, D. “Causation as Influence” (expanded version), in Collins, Hall, and Paul 2004, 75–106.
+* Noordhof, P., 2004. “Prospects for a Counterfactual Theory”, in Dowe and Noordhof 2004, 188–201.
+* Bennett, J., 1987. “Event Causation: the Counterfactual Analysis”, Philosophical Perspectives, 1: 367–86.
 <!-- --> 
 
 
@@ -150,6 +184,13 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Smith, Tim J. "The attentional theory of cinematic continuity." Projections 6.1 (2012): 1-27.
 * Cumming, Samuel, et al. "Showing seeing in film." Ergo an Open Access Journal of Philosophy 7 (2021).
 * Cumming, Samuel, Gabriel Greenberg, and Rory Kelly. "Conventions of viewpoint coherence in film." (2017).
+
+<!-- -->
+
+* Egamnazarova, Durdona. "THE USE OF PARADOX IN PROSE: AN EXPLORATION OF CONTRADICTION AS A LITERARY DEVICE." American Journal Of Philological Sciences 3.06 (2023): 23-33.
+* Hardy B. William Empson and" Seven Types of
+Ambiguity" //The Sewanee Review. – 1982. – Т. 90. – No. 3. – С. 430-439.
+* Oaks, Dallin D. "Structural ambiguity in English." Structural Ambiguity in English (2010): 1-576.
 
 <!-- -->
 
@@ -749,6 +790,7 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 * Ward, Gregory, Betty Birner, and Rodney Huddleston. Information Structuring (chap. 16). Huddleston, Rodney, and Geoffrey Pullum (Eds.). The Cambridge grammar of the English language (Reprint of 2002 Ed.). Cambridge University Press.
 
 * Webb, Don. It Beats As It Sweeps As It Cleans. http://www.bewilderingstories.com/issue555/as_ed.html [Last accessed: 2024-05-09]
+* https://guinlist.wordpress.com/tag/expressing-simultaneity/ [Last accessed: 2025-01-03]
 
 * Werth, P. Text Worlds: Representing Conceptual Space in Discourse. 1999. London: Longman. Series: Textual Explorations
 
@@ -832,7 +874,7 @@ Dowty, David R. Word meaning and Montague grammar: The semantics of verbs and ti
 
 * [PROBABLY DELETE] https://www.google.com/search?q=%22finite%22+%22infinite%22+OR+%22infinitive%22+%22non-finite%22+OR+%22nonfinite%22+clause [Last accessed: 2024-05-08]
 
-* [Too in the weeds? delete?] Freksa, Christian. "Temporal reasoning based on semi-intervals." Artificial intelligence 54.1-2 (1992): 199-227.
+* Freksa, Christian. "Temporal reasoning based on semi-intervals." Artificial intelligence 54.1-2 (1992): 199-227.
 
 * Huddleston, Rodney, and Geoffrey Pullum (Eds.). The Cambridge grammar of the English language (Reprint of 2002 Ed.). Cambridge University Press.
 
