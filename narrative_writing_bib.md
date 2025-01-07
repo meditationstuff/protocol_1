@@ -112,10 +112,26 @@ Messy list of mostly very academic references I found helpful (directly or indir
 - *
 	* Gisborne, Nikolas. "The event structure of perception verbs." (2010).
 	* Page, Anna Katarina. "Causation is non-eventive." (2023).
+		* Freksa, Christian. "Temporal reasoning based on semi-intervals." Artificial intelligence 54.1-2 (1992): 199-227.
+			* Webb, Don. It Beats As It Sweeps As It Cleans. http://www.bewilderingstories.com/issue555/as_ed.html [Last accessed: 2024-05-09]
+			* https://guinlist.wordpress.com/tag/expressing-simultaneity/ [Last accessed: 2025-01-03]
+		* Allen, J.F., Maintaining knowledge about temporal intervals, CACM 26 (11) (1983) 832- 843.
+		* Allen, J.F. and Hayes, P.J., A common-sense theory of time, in: Proceedings IJCAI-85, Los Angeles, CA (1985), 528-531.
+	* https://scholar.google.com/scholar?q=%22one+new+idea+constraint%22+%22intonation+unit%22+chafe+%22ellipsis%22+OR+%22gapping%22+redundancy+%22light+subject+constraint%22 [Last accessed: 2025-01-03]
+		* Search string: "one new idea constraint" "intonation unit" chafe "ellipsis" OR "gapping" redundancy "light subject constraint"
+		* Search string: "one new idea constraint" "intonation unit" chafe ellipsis OR gapping redundancy "light subject"
+		* \[maybe misleading] Tao, Hongyin, and Charles F. Meyer. "Gapped coordinations in English: Form, usage, and implications for linguistic theory." (2006): 129-163.
+		* Hall, Rayne. The Word-Loss Diet: Professional Self-Editing Techniques for Authors. Writer's Craft Series (book 4). 2014.
 	* Mellquist, Simone. "Russian converb constructions corresponding to Swedish purposive för att ‘in order to’+ infinitive constructions." Poljarnyj vestnik 27 (2024): 1-37.
 	* Dowty, David R. Word meaning and Montague grammar: The semantics of verbs and times in generative semantics and in Montague's PTQ. Vol. 7. Springer Science & Business Media, 1979, 2012.
 	* Ojea, Ana. "On the Eventive Structure of Adjectives and Adverbs." Atlantis (1998): 159-175.
 	* Bennett, J., 1987. “Event Causation: the Counterfactual Analysis”, Philosophical Perspectives, 1: 367–86.
+	* Heine, Bernd. The grammar of interactives. Oxford University Press, 2023.
+	* Leech Geoffrey, N., and H. Short Michael. Chapter: "Mind Style" in "Style in fiction." A linguistic introduction to English fictional prose. Longman Group Limited (1981).
+		* Lugea, J., Walker, B. (2023). Mind Style. In: Stylistics. Palgrave Macmillan, Cham.
+		* McIntyre, Dan and Archer, Dawn. "A corpus-based approach to mind style" Journal of Literary Semantics, vol. 39, no. 2, 2010, pp. 167-182.
+	* Semino, Elena. & Short, M. "Corpus Stylistics: Speech, Writing and Thought Presentation in a Corpus of English Writing." (2004).
+		* Vandelanotte, Lieven. Speech and thought representation in English: A cognitive-functional approach. Mouton de Gruyter, 2009.
 	* -
 		* https://en.wikipedia.org/wiki/Dependency_relation [Last accessed: 2024-12-30]
 		* Ylikoski, Petri. "Causal and constitutive explanation compared." Erkenntnis 78 (2013): 277-297.
@@ -149,6 +165,11 @@ Messy list of mostly very academic references I found helpful (directly or indir
 		* Levine, Robert, and Thomas Emerson Hukari. "The unity of unbounded dependency constructions." (No Title) (2006).
 
 * Di Pego, Gerald. WRITE! Find the Truth in Your Fiction. 2016.
+	* King, Stephen. Stephen King on Writing: A Memoir on the Craft. SIMON AND SCHUSTER, 2000.
+* Horwitz, S. Book Architecture: How to Plot and Outline Without Using a Formula. ISBN-10: 0986420409. ISBN-13: 978-0986420405. 2015.
+	* Deacon, Terrence W. The symbolic species: The co-evolution of language and the brain. WW Norton & Company, 1998.
+	* Heine, Bernd. The grammar of interactives. Oxford University Press, 2023.
+	* Wittgenstein. Philosophical Investigations.
 * Faulkner, Laura. "" That's convenient, not to say odd": Coincidence, Causality, and Hardy's Inconsistent Inconsistency." Victorian Review 37.1 (2011): 92-107.
 * Salkie, Raphael. "Enablement and possibility." Modes of modality. Modality, typology and universal grammar (2014): 319-352.
 * Richardson, Brian. Unlikely stories: Causality and the nature of modern narrative. University of Delaware Press, 1997.
@@ -164,11 +185,22 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Lewis, D. “Causation as Influence” (expanded version), in Collins, Hall, and Paul 2004, 75–106.
 * Noordhof, P., 2004. “Prospects for a Counterfactual Theory”, in Dowe and Noordhof 2004, 188–201.
 * Bennett, J., 1987. “Event Causation: the Counterfactual Analysis”, Philosophical Perspectives, 1: 367–86.
+
 <!-- --> 
 
+* Fowler, Roger. "Style and the concept of deep structure." Journal of Literary Semantics 1.Jahresband (1972): 5-24.
+* Rosaler, Ruth. Conspicuous silences: Implicature and fictionality in the Victorian novel. Oxford University Press, 2016.
+* Contemori, C., Hendriks, P., Köder, F., Maier, E., Vogels, J., & Zeman, S. (Eds.). (2023). Perspective Taking in Language. Frontiers Media SA.
+
+<!-- --> 
 
 * Spiegel, Alan Harvey. FICTION AND THE CAMERA EYE: A STUDY OF VISUAL FORM IN THE MODERN NOVEL. University of Virginia, 1973.
 * Nielsen, Henrik Skov. "The impersonal voice in first-person narrative fiction." Narrative 12.2 (2004): 133-150.
+
+<!-- -->
+
+* Postal, Paul, David A. Reibel, and Sanford A. Schane. "On so-called pronouns in English." Readings in English transformational grammar 5 (1969): 12-25.
+* Campbell, Richard. "A null pronominal in the noun phrase." Linguistic inquiry 29.1 (1998): 153-160.
 
 <!-- -->
 
@@ -278,6 +310,8 @@ Ambiguity" //The Sewanee Review. – 1982. – Т. 90. – No. 3. – С. 430-43
 	* Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.
 * Murphy, Terence Patrick, and Kelly S. Walsh. "Unreliable third person narration? The case of Katherine Mansfield." Journal of Literary Semantics 46.1 (2017): 67-85.
 * Gunn, Daniel P. "Free indirect discourse and narrative authority in" Emma"." Narrative 12.1 (2004): 35-54.
+* NOTEBOOM, MATTHEW. "Emma’s Perception: The Riddle of Unconscious Thought in Jane Austen’s Emma." THE FOUNDATIONALIST: 161.
+* Ferguson, Frances. "Jane Austen, Emma, and the Impact of Form." MLQ: Modern Language Quarterly 61.1 (2000): 157-180.
 * -
 	* Manganaro, Thomas Salem. "Free Indirect Discourse and the Problem of the Will in Two Novels by William Godwin." Studies in Romanticism 57.2 (2018): 301-323.
 	* Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.
@@ -875,6 +909,8 @@ Dowty, David R. Word meaning and Montague grammar: The semantics of verbs and ti
 * [PROBABLY DELETE] https://www.google.com/search?q=%22finite%22+%22infinite%22+OR+%22infinitive%22+%22non-finite%22+OR+%22nonfinite%22+clause [Last accessed: 2024-05-08]
 
 * Freksa, Christian. "Temporal reasoning based on semi-intervals." Artificial intelligence 54.1-2 (1992): 199-227.
+* Allen, J.F., Maintaining knowledge about temporal intervals, CACM 26 (11) (1983) 832- 843.
+* Allen, J.F. and Hayes, P.J., A common-sense theory of time, in: Proceedings IJCAI-85, Los Angeles, CA (1985), 528-531.
 
 * Huddleston, Rodney, and Geoffrey Pullum (Eds.). The Cambridge grammar of the English language (Reprint of 2002 Ed.). Cambridge University Press.
 
@@ -1187,6 +1223,8 @@ Cleft Sentence: Emphasizing Dog's Happiness
 *	Potts, Christopher. "The dimensions of quotation." Direct compositionality 14 (2007): 405-431.
 *	Standing still chapter 15. Dixon, Robert MW. The unmasking of English dictionaries. Cambridge University Press, 2018.
 *	Vandelanotte, Lieven. Speech and thought representation in English: A cognitive-functional approach. Mouton de Gruyter, 2009.
+	* Semino, Elena. & Short, M. "Corpus Stylistics: Speech, Writing and Thought Presentation in a Corpus of English Writing." (2004).
+	* Xu Yun, Susan. "Translation of Autobiography." John Benjamins Publishing Company. 2017.
 	⁃	(relative time and absolute time cf. past-in-past and future-in-past)
 *	register
 	⁃	https://wordsliketrees.wordpress.com/2020/08/16/register/

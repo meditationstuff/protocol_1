@@ -13890,6 +13890,13 @@ It's calmed down, now, for the moment, but the past few nights:
 	* belonging, worth, deservingness
 
 
+**20250107**
+
+* (content warning) something from college (very large university and campus) involving alcohol and fraternities, two-way obsession, (most saliently) at least one incident of sexual assault, multiple people peripherally involved, I don't know, still sifting through the detritus, emotional devastation and anguish (re assault) and other sad stuff and peripheral knock-on unnecessary performative drama, that I was many degrees removed from and had almost no concrete, confirmable details about, yet apparently I was still somehow, someway in close proximity enough to write the above, and it seems it REALLY messed me up in ways my whole system tangled around again and again and again. truly huge structural "fixity," possibly life-path altering
+
+* "I am evil and have behaved in evil ways from other people's perspectives"
+
+* I/&#8203;me/&#8203;identity/&#8203;being-&#8203;the-&#8203;type-&#8203;of-&#8203;person-&#8203;who --- very classical vibes, "but how will I organize a large subset of behavior without 'I am this so I will do that'...?"
 
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
