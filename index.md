@@ -13898,6 +13898,10 @@ It's calmed down, now, for the moment, but the past few nights:
 
 * I/&#8203;me/&#8203;identity/&#8203;being-&#8203;the-&#8203;type-&#8203;of-&#8203;person-&#8203;who --- very classical vibes, "but how will I organize a large subset of behavior without 'I am this so I will do that'...?"
 
+**20250108**
+
+* Very young and small and at a big (to me) party with lots of adults densely walking around with multiple rooms, and I was next to my own mother, but there was a kid maybe a little younger than me whose mother had just abandoned him and he was crying and terrified and looking around. And my mom was like "uhhhh, I wouldn't just *leave* my kid." A memory I've had before, once in a while, but it seems it tangled me up.
+
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

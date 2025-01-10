@@ -124,6 +124,8 @@ Messy list of mostly very academic references I found helpful (directly or indir
 		* Hall, Rayne. The Word-Loss Diet: Professional Self-Editing Techniques for Authors. Writer's Craft Series (book 4). 2014.
 	* Mellquist, Simone. "Russian converb constructions corresponding to Swedish purposive för att ‘in order to’+ infinitive constructions." Poljarnyj vestnik 27 (2024): 1-37.
 	* Dowty, David R. Word meaning and Montague grammar: The semantics of verbs and times in generative semantics and in Montague's PTQ. Vol. 7. Springer Science & Business Media, 1979, 2012.
+		* Martin, Fabienne. "Aspectual differences between agentive and non-agentive uses of causative predicates." Perspectives on causation: Selected papers from the Jerusalem 2017 Workshop. Springer International Publishing, 2020.
+		* Neeleman, Ad, and Hans Van de Koot. "The non-existence of sub-lexical scope." Linguistic variations: Structure and interpretation. A festschrift in honour of Rita Manzini (2017).
 	* Ojea, Ana. "On the Eventive Structure of Adjectives and Adverbs." Atlantis (1998): 159-175.
 	* Bennett, J., 1987. “Event Causation: the Counterfactual Analysis”, Philosophical Perspectives, 1: 367–86.
 	* Heine, Bernd. The grammar of interactives. Oxford University Press, 2023.
@@ -167,6 +169,8 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Di Pego, Gerald. WRITE! Find the Truth in Your Fiction. 2016.
 	* King, Stephen. Stephen King on Writing: A Memoir on the Craft. SIMON AND SCHUSTER, 2000.
 * Horwitz, S. Book Architecture: How to Plot and Outline Without Using a Formula. ISBN-10: 0986420409. ISBN-13: 978-0986420405. 2015.
+	* Poe. The Philosophy of Composition. 1846.
+		* https://en.wikipedia.org/wiki/The_Philosophy_of_Composition#%22Unity_of_effect%22 [Last accessed: 2025-01-09]
 	* Deacon, Terrence W. The symbolic species: The co-evolution of language and the brain. WW Norton & Company, 1998.
 	* Heine, Bernd. The grammar of interactives. Oxford University Press, 2023.
 	* Wittgenstein. Philosophical Investigations.
@@ -192,7 +196,37 @@ Messy list of mostly very academic references I found helpful (directly or indir
 * Rosaler, Ruth. Conspicuous silences: Implicature and fictionality in the Victorian novel. Oxford University Press, 2016.
 * Contemori, C., Hendriks, P., Köder, F., Maier, E., Vogels, J., & Zeman, S. (Eds.). (2023). Perspective Taking in Language. Frontiers Media SA.
 
+<!-- -->
+
+* Grimm, S., and B. Levin. "Artifact Nouns: Reference and Countability," Proceedings of the 47th Annual Meeting of North East Linguistic Society (NELS 47). GLSA (Graduate Linguistics Student Association), Amherst, MA (2017).
+* Waldon, Brandon, et al. "On the context dependence of artifact noun interpretation." Proceedings of Sinn und Bedeutung. Vol. 27. 2023.
+* Levin, Beth, Lelia Glass, and Dan Jurafsky. "Systematicity in the semantics of noun compounds: The role of artifacts vs. natural kinds." Linguistics 57.3 (2019): 429-471.
+* Pustejovsky, James. The generative lexicon. MIT press, 1998.
+* Sperber, Dan. "Seedless grapes: nature and culture." Creations of the mind: Theories of artifacts and their representation (2007): 124-137.
+* Koenig, Jean-Pierre, and Anthony R. Davis. "Sublexical modality and the structure of lexical semantic representations." Linguistics and Philosophy 24 (2001): 71-124.
+
+* Abbott, Barbara. "Presuppositions as nonassertions." Journal of pragmatics 32.10 (2000): 1419-1437.
+* Glass, Lelia. "The red dress is cute: why subjective adjectives are more often predicative" Corpus Linguistics and Linguistic Theory, 2024.
+* Abbott, Barbara. "Speaker's Reference: “Smith's Murderer”." The Wiley Blackwell Companion to Semantics (2020): 1-24.
+* Abbott, Barbara. “Nondescriptionality and Natural Kind Terms.” Linguistics and Philosophy, vol. 12, no. 3, 1989, pp. 269–91. 
+
+* Casagrande, June. It was the best of sentences, it was the worst of sentences: A writer's guide to crafting killer sentences. Ten Speed Press, 2010.
+* Landon, Brooks. Building great sentences: How to write the kinds of sentences you love to read. Penguin, 2013.
+* Christensen, Francis. "A generative rhetoric of the sentence." College Composition & Communication 14.3 (1963): 155-161.
+* Christensen, Francis. "Notes toward a New Rhetoric: I. Sentence Openers; II. A Lesson from Hemingway. College English, Volume 25, Issue 1, Oct 1963, p. 7 - 18.
+* Christensen, Francis. In Defense of the Absolute. College English , Apr., 1950, Vol. 11, No. 7 (Apr., 1950), pp. 401-403.
+* Pixton, W. H. (1990). On refining the free modifier. Rhetoric Society Quarterly, 20(2), 119–129.
+* Christensen, Francis. "The problem of defining a mature style." English Journal 57.4 (1968): 572-579.
+* non-finite adnomial adjuncts, adadjectival, adadverbial, recursive adjuncts, absolute phrases, appositive phrases versus arguments, complements, predicates
+* Huddleston, Rodney, Geoffrey K. Pullum, and Brett Reynolds. "Chapter 8: Adjuncts: modifiers and supplements" A student's introduction to English grammar. Cambridge University Press, 2021.
+	* manner and means, act-related, locational, temporal, degree, cause and result, concessive, conditional, domain, modal, evaluative, speech act-related, connective adjuncts
+
 <!-- --> 
+
+* Aloni, Maria. "Free choice and exhaustification: an account of subtrigging effects." Proceedings of Sinn und Bedeutung. Vol. 11. 2007.
+
+<!-- --> 
+
 
 * Spiegel, Alan Harvey. FICTION AND THE CAMERA EYE: A STUDY OF VISUAL FORM IN THE MODERN NOVEL. University of Virginia, 1973.
 * Nielsen, Henrik Skov. "The impersonal voice in first-person narrative fiction." Narrative 12.2 (2004): 133-150.
@@ -530,6 +564,12 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * Komen, E.R. Finding focus: a study of the historical development of focus in English. 2013, Dissertation 
 * Focalization matters. On focus typology, feature checking and the position(s) of focus. Dal Farra, Chiara <1991>
 * Meuser, Sara (2022). How Free is Free Indirect Discourse? Empirical Approaches to the Anchoring Mechanisms of Perspective-taking. PhD thesis, Universität zu Köln.
+
+<!-- -->
+
+* Abenina-Adar, Maayan. Expressing ignorance with determiner phrases. University of California, Los Angeles, 2020.
+* Lalisse, Matthias. "The Composition of Compounds: A resource logic account."
+* Bouchard, Denis. "Adjectives, Interfaces, and Explanation." Adjectives, Number and Interfaces. Brill, 2002. 1-56.
 
 <!-- -->
 
