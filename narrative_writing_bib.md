@@ -523,6 +523,28 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* Tanaka, Yoshiki. Legend of the Galactic Heroes.
 	* Erikson, Steven. Malazan Book of the Fallen.
 	* Ian Cameron Esslemont, Ian C.. Novels of the Malazan Empire.
+	*  Sleyca. Super Supportive. https://www.royalroad.com/fiction/63759/super-supportive [Last accessed: 2025-01-12]
+	* Cuttlefish That Loves Diving. Translated by Atlas Studios. "Lord of Mysteries." [Last accessed: 2025-01-12]
+
+<!-- -->
+
+* Fischer, Olga. "Iconicity in language and literature: language innovation and language change." Neuphilologische Mitteilungen (1997): 63-87.
+	* Oshima, David Y. "Iconicity, Implicature, and the Manner Interpretation of Coordination Structure: Through Comparison of English and French." Annual Meeting of the Berkeley Linguistics Society. 2012.
+	* Haiman, John. "The iconicity of grammar: Isomorphism and motivation." Language (1980): 515-540.
+* Jauss, David. “What We Talk About When We Talk About
+Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Penguin, 2011.
+	* Brecheen, Chris. "Prose Rhythm" https://www.chrisbrecheen.com/2013/06/prose-rhythm.html [Last accessed: 2024-09-17]
+* Ireland, Ken. The sequential dynamics of narrative: Energies at the margins of fiction. Fairleigh Dickinson Univ Press, 2001.
+* Horwitz, S. Book Architecture: How to Plot and Outline Without Using a Formula. ISBN-10: 0986420409. ISBN-13: 978-0986420405. 2015.
+* -
+	* Perniss, Pamela, Robin L. Thompson, and Gabriella Vigliocco. "Iconicity as a general property of language: evidence from spoken and signed languages." Frontiers in psychology 1 (2010): 227.
+	* Haspelmath, Martin. "Frequency vs. iconicity in explaining grammatical asymmetries" Cognitive Linguistics, vol. 19, no. 1, 2008, pp. 1-33.
+	* Newmeyer, Frederick J. "Iconicity and generative grammar." Language (1992): 756-796.
+	* Rohdenburg, Günter. "Aspects of grammatical iconicity in English." From sign to signing. John Benjamins Publishing Company, 2008. 263-285.
+	* Bybee, Joan L. "Morphology: A study of the relation between meaning and form." Morphology. John Benjamins Publishing Company, 1985.
+	* Ohori, Toshio. Diachrony in clause linkage and related issues. University of California, Berkeley, 1992.
+	* https://www.google.com/search?q=implicature+%22adjunct%22 [Last accessed: 2025-01-12]
+	* Stathi, Katerina. "Granularity in the Verbalization of Events and Objects." (2023): 1-554.
 
 <!-- -->
 
@@ -937,6 +959,42 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 * https://en.wikipedia.org/wiki/Frequentative [Last accessed: 2024-11-16]
 * Epstein, Richard. "The definite article, accessibility, and the construction of discourse referents." (2002): 333-378.
 * Stanzel, Franz K. "Teller-characters and reflector-characters in narrative theory." Poetics Today 2.2 (1981): 5-15.
+
+* Sedivy, Julie C. "Implicature during real time conversation: A view from language processing research." Philosophy compass 2.3 (2007): 475-496.
+	* Breheny, Richard, Heather J. Ferguson, and Napoleon Katsos. "Investigating the timecourse of accessing conversational implicatures during incremental sentence interpretation." Language and Cognitive Processes 28.4 (2013): 443-467.
+* Fredal, James. The enthymeme: Syllogism, reasoning, and narrative in ancient Greek rhetoric. Penn State Press, 2020.
+	* Bennett, W. Lance, and Martha S. Feldman. Reconstructing reality in the courtroom: Justice and judgment in American culture. Quid Pro Books, 2014.
+	* Iser, Wolfgang. "The reading process: A phenomenological approach \[1972]." The Critical (1986).
+* Rodden, John. "How do stories convince us? Notes towards a rhetoric of narrative." College Literature (2008): 148-173.
+* - \[maybe quite misleading]
+	* Plumer, Gilbert. "Novels as arguments." Frans H. van Eemeren, Bart Garssen, David Godden & Gordon Mitchell (eds.), Proceedings of the Seventh International Conference of the International Society for the Study of Argumentation. Rozenberg / Sic Sat. pp. 1547-1558
+		* Plumer, Gilbert. "On novels as arguments." Informal logic 35.4 (2015): 488-507.
+		* Plumer, Gilbert. "The transcendental argument of the novel." Journal of the American Philosophical Association 3.2 (2017): 148-167.
+	* McKeon, Zahava Karl. Novels and arguments: Inventing rhetorical criticism. University of Chicago Press, 1982.
+	* Fitzgerald, Robert P. "Novels and Arguments: Inventing Rhetorical Criticism." (1984): 174-176.
+	* https://narrativefirst.com/vault/a-story-is-an-argument [Last accessed: 2025-01-15]
+	* https://alanwatt.com/how-to-write/story-structure/story-is-an-argument/ [Last accessed: 2025-01-15]
+* -
+	* Maloney, Edward J. Footnotes in fiction: a rhetorical approach. Diss. The Ohio State University, 2005.
+	* Kearns, Michael. "Relevance, rhetoric, narrative." Rhetoric Society Quarterly 31.3 (2001): 73-92.
+* Sorensen, Roy A. Thought experiments. Oxford University Press, USA, 1992.
+* Slater, J. (2018). Attitudes of Collaborative Expectancy: Antithesis, Gradatio, and A Rhetoric of Motives, Page 58. Rhetoric Review, 37(3), 247–258.
+	* https://en.wikipedia.org/wiki/Antithesis [Last accessed: 2025-01-15]
+
+* Maass, Donald. The Emotional Craft of Fiction: How to Write the Story Beneath the Surface. Writer's Digest Books. 2016.
+* Hankamer, Jorge, and Ivan Sag. "Deep and surface anaphora." Linguistic inquiry 7.3 (1976): 391-428.
+* Depiante, Marcela Andrea. The syntax of deep and surface anaphora: A study of null complement anaphora and stripping/bare argument ellipsis. University of Connecticut, 2000.
+* Stainton, Robert J., Marile-Odile Junker, and Catherine Wearing. "The Semantics and Syntax of Null Complements." (2006).
+	* Junker, Marie-Odile, Robert Stainton, and Catherine Wearing. "The Semantics and Syntax of Null Complements/M." O. Junker, R. Stainton, C. Wearing.–Carleton: Carleton University Cognitive Science Technical Report (2006).
+* Iten, Corinne, Marie-Odile Junker, Aryn Pyke, Robert Stainton & Catherine Wearing. (2005) Null Complements: Licensed by Syntax or by Semantics-Pragmatics? In Proceedings of the 2004 Canadian Linguistics Association Annual Conference, ed. Marie-Odile Junker, Martha McGinnis and Yves Roberge, 15 pages.
+* Ginzburg, Jonathan. "Rethinking Deep and Surface: towards a comprehensive model of anaphoric processes in dialogue." Festshcrift for Ivan Sag, ed. by Philip Hofmeister (2013).
+
+* Singer, Murray, and Michael Halldorson. "Constructing and validating motive bridging inferences." Cognitive Psychology 30.1 (1996): 1-38.
+* Singer, Murray. "Causal bridging inferences: Validating consistent and inconsistent sequences." Reading and Language Processing. Psychology Press, 2013. 212-231.
+* -
+	* Irmer, Matthias. Bridging inferences: Constraining and resolving underspecification in discourse interpretation. Vol. 11. Walter de Gruyter, 2011.
+	* Liu, Donghong. Abstract Entity Anaphora in Argumentative Texts: Pragmatic Features and Referent Interpretation. Springer Nature, 2023.
+	* ZHAO, WEI. THE GENERATION OF BRIDGING ANAPHORA IN STREAM-OF-CONSCIOUSNESS DISCOURSE: A CENTERING APPROACH. American Academic Press, 2021.
 
 * https://www.google.com/search?q=complement+clause [Last accessed: 2024-05-08]
 

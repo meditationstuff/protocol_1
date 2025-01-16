@@ -13902,6 +13902,13 @@ It's calmed down, now, for the moment, but the past few nights:
 
 * Very young and small and at a big (to me) party with lots of adults densely walking around with multiple rooms, and I was next to my own mother, but there was a kid maybe a little younger than me whose mother had just abandoned him and he was crying and terrified and looking around. And my mom was like "uhhhh, I wouldn't just *leave* my kid." A memory I've had before, once in a while, but it seems it tangled me up.
 
+**20250115**
+
+* Some rigid / unresponsive *never-agains* in early childhood and middle school ; entangled with current striving
+
+* "trying to outrun myself each and every moment"
+
+
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
