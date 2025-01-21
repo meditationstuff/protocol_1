@@ -393,6 +393,7 @@ https://en.wiktionary.org/wiki/Category:English_lemmas [cf. expressives; Last ac
 * *Markels, Robin Bell. A new perspective on cohesion in expository paragraphs. SIU Press, 1984.*
 * *Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.*
 * *Giora, Rachel. "Segmentation and segment cohesion: On the thematic organization of the text."*
+* Fahnestock, Jeanne. "Semantic and lexical coherence." College Composition & Communication 34.4 (1983): 400-416.
 * *Gold, Jami. "Cause and Effect: Understanding Story Flow" https://jamigold.com/2014/10/cause-and-effect-understanding-story-flow/ [Last accessed: 2024-09-10]*
 * *Chafe, Wallace. Discourse, consciousness, and time: The flow and displacement of conscious experience in speaking and writing. University of Chicago Press, 1994.*
 
@@ -1396,5 +1397,24 @@ Cleft Sentence: Emphasizing Dog's Happiness
 *	https://en.wikipedia.org/wiki/Cognitive_poetics
 *	https://en.wikipedia.org/wiki/Text_world_theory
 *	Iser, W. The Implied Reader: Patterns of Communication in Prose Fiction from Bunyan to Beckett. 1974. John Hopkins University Press
+
+* Chafe, Wallace L. (1980). The deployment of consciousness in the construction of narrative. In The Pear Stories: Cognitive, Cultural, and Linguistic Aspects of Narrative Production. Ablex.
+
+* A.F. Gelbukh, G. Sidorov. On Indirect Anaphora Resolution. In: Proc. PACLING-99, pp. 181--190, 1999.
+* Sidorov, Grigori, and Alexander Gelbukh. "Demonstrative pronouns as markers of indirect anaphora." Proc. 2nd International Conference on Cognitive Science and 16th Annual Meeting of the Japanese Cognitive Science Society Joint Conference (ICCS/JCSS99). 1999.
+* Apothéloz, Denis, and Marie-José Reichler-Béguelin. "Interpretations and functions of demonstrative NPs in indirect anaphora." Journal of Pragmatics 31.3 (1999): 363-397.
+* Schwarz-Friesel, Monika. "Indirect anaphora in text: A cognitive account." Anaphors in text: Cognitive, formal and applied approaches to anaphoric reference. John Benjamins Publishing Company, 2008. 3-20.
+* Löbner, Sebastian. "Definite associative anaphora." manuscript) 1998.
+* https://en.m.wikipedia.org/wiki/Antecedent_(grammar) [Last accessed: 2025-01-20]
+* https://en.wikipedia.org/wiki/Quirky_subject [Last accessed: 2025-01-20]
+* Kolhatkar, Varada, et al. "Anaphora with non-nominal antecedents in computational linguistics: A survey." Computational Linguistics 44.3 (2018): 547-612.
+* Semino, Elena. Language and world creation in poems and other texts. Routledge, 2014.
+* Gavins, Joanna. Text world theory: An introduction. Edinburgh University Press, 2007.
+* Werth, P. Text Worlds: Representing Conceptual Space in Discourse. 1999. London: Longman. Series: Textual Explorations
+
+* https://pcwrede.com/pcw-wp/tight-third-and-me/ [Last accessed: 2025-01-21]
+* https://pcwrede.com/pcw-wp/camera-eye/ [Last accessed: 2025-01-21]
+* Schmid, Wolf. Figurally colored narration: Case studies from English, German, and Russian literature. Vol. 81. Walter de Gruyter GmbH & Co KG, 2022.
+* Hough, Graham. "Narrative and dialogue in Jane Austen" Selected essays. CUP Archive, 1978. Originally published: The Critical Quarterly, 1970.
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
