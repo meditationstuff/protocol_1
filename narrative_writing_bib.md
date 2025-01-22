@@ -1417,4 +1417,13 @@ Cleft Sentence: Emphasizing Dog's Happiness
 * Schmid, Wolf. Figurally colored narration: Case studies from English, German, and Russian literature. Vol. 81. Walter de Gruyter GmbH & Co KG, 2022.
 * Hough, Graham. "Narrative and dialogue in Jane Austen" Selected essays. CUP Archive, 1978. Originally published: The Critical Quarterly, 1970.
 
+* https://scholar.google.com/scholar?q=verum+focus [Last accessed: 2025-01-21]
+* https://www.google.com/search?q=temporal+factives+subordinators [Last accessed: 2025-01-21]
+* https://scholar.google.com/scholar?q=narrative+simultaneity [Last accessed: 2025-01-21] 
+* Aksu-Koç, Ayhan, and Christiane Von Stutterheim. "Temporal relations in narrative: Simultaneity." Relating events in narrative. Psychology Press, 2013. 393-455.
+* Webb, Don. It Beats As It Sweeps As It Cleans. http://www.bewilderingstories.com/issue555/as_ed.html [Last accessed: 2024-05-09]
+
+* https://en.wikipedia.org/wiki/Fiction-writing_mode [Last accessed: 2025-01-22]
+* Klaassen, Mike. Fiction-writing modes: Eleven essential tools for bringing your story to life. BookBaby, 2015.
+
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

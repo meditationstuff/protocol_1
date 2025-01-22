@@ -13908,6 +13908,9 @@ It's calmed down, now, for the moment, but the past few nights:
 
 * "trying to outrun myself each and every moment"
 
+**20250122**
+
+* Lost ***a*** center if not ***the*** center. + "this will cease". Time will tell.
 
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
