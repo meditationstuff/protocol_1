@@ -1412,6 +1412,14 @@ Cleft Sentence: Emphasizing Dog's Happiness
 * Gavins, Joanna. Text world theory: An introduction. Edinburgh University Press, 2007.
 * Werth, P. Text Worlds: Representing Conceptual Space in Discourse. 1999. London: Longman. Series: Textual Explorations
 
+* Horn, Laurence R. "Assertoric inertia and NPI licensing." Chicago Linguistic Society. Vol. 38. No. 2. 2002.
+* Potts, Christopher. "Into the conventional‐implicature dimension." Philosophy compass 2.4 (2007): 665-679.
+* Sander, Thorsten. "Taxonomizing non-at-issue contents." Grazer Philosophische Studien 99.1 (2022): 50-77.
+* Abbott, Barbara. "Where have some of the presuppositions gone." Drawing the boundaries of meaning: Neo-Gricean studies in pragmatics and semantics in honor of Laurence R. Horn 80 (2006): 1-20.
+* Abbott, Barbara. "Linguistic solutions to philosophical problems: The case of knowing how." Philosophical Perspectives 27 (2013): 1-21.
+* Koev, Todor. "Notions of at‐issueness." Language and Linguistics Compass 12.12 (2018): e12306.
+* Hunter, Julie, and Nicholas Asher. "Shapes of conversation and at-issue content." Semantics and Linguistic Theory. 2016.
+
 * https://pcwrede.com/pcw-wp/tight-third-and-me/ [Last accessed: 2025-01-21]
 * https://pcwrede.com/pcw-wp/camera-eye/ [Last accessed: 2025-01-21]
 * Schmid, Wolf. Figurally colored narration: Case studies from English, German, and Russian literature. Vol. 81. Walter de Gruyter GmbH & Co KG, 2022.
@@ -1425,5 +1433,18 @@ Cleft Sentence: Emphasizing Dog's Happiness
 
 * https://en.wikipedia.org/wiki/Fiction-writing_mode [Last accessed: 2025-01-22]
 * Klaassen, Mike. Fiction-writing modes: Eleven essential tools for bringing your story to life. BookBaby, 2015.
+
+* https://en.wikipedia.org/wiki/Repetition_(rhetorical_device) [Last accessed: 2025-01-22]
+
+
+* Hallett, Charles A., and Elaine S. Hallett. Analyzing Shakespeare's action: scene versus sequence. Cambridge University Press, 1991.
+* Horwitz, S. Book Architecture: How to Plot and Outline Without Using a Formula. ISBN-10: 0986420409. ISBN-13: 978-0986420405. 2015.
+* Maass, Donald. The Emotional Craft of Fiction: How to Write the Story Beneath the Surface. Writer's Digest Books. 2016.
+
+* Klaassen, M (2015). Fiction-Writing Modes: Eleven Essential Tools for Bringing Your Story to Life. Pennsauken, NJ: Bookbaby.
+* Gardner, John. (1983). The art of fiction. Random House, Inc. Print.
+
+* Gulino, Paul Joseph. "Screenwriting: the sequence approach." Bloomsbury Academic. 2024.
+* Chamberlain, Jill. The nutshell technique: Crack the secret of successful screenwriting. University of Texas Press, 2016.
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
