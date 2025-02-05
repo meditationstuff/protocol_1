@@ -45,10 +45,11 @@ Messy list of mostly very academic references I found helpful (directly or indir
 	* https://en.wikipedia.org/wiki/The [Last accessed: 2024-11-26]
 	* https://en.wikipedia.org/wiki/Restrictiveness [Last accessed: 2024-07-25]
 
-* Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
-	* Atkinson, Ian Thomas. In pursuit of a more comprehensive framework for fronting in classical BH prose. Diss. Stellenbosch: Stellenbosch University, 2021.
-	* Rochemont, Michael, et al. "Discourse new, focused, and given." Approaches to Hungarian 13 (2013).
-	* Bolinger, Dwight. "Accent is predictable (if you're a mind-reader)." Language (1972): 633-644.
+* Irwin, Patricia. "Unaccusativity and theticity." Thetics and categoricals (2020): 200-222.
+	* Rosengren, Inger. "The thetic/categorical distinction revisited once more." (1997): 439-480.
+		* Atkinson, Ian Thomas. In pursuit of a more comprehensive framework for fronting in classical BH prose. Diss. Stellenbosch: Stellenbosch University, 2021.
+		* Rochemont, Michael, et al. "Discourse new, focused, and given." Approaches to Hungarian 13 (2013).
+		* Bolinger, Dwight. "Accent is predictable (if you're a mind-reader)." Language (1972): 633-644.
 * Hill, Walter., Bryan Gindoff, and Bruce Henstell. Screenplay of the 1975 film "Hard Times".
 *  Hill, Walter and David Giler. Screenplay of the 1979 film "Alien".
 * - [Last accessed: 2024-12-05]
@@ -639,6 +640,14 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 <!-- -->
 
 * Markels, Robin Bell. A new perspective on cohesion in expository paragraphs. SIU Press, 1984.
+	* Bransford, John D., and Jeffery J. Franks. "The abstraction of linguistic ideas: A review." Cognition 1.2-3 (1972): 211-249.
+	* Carter, John Frederick. The role of organization in the recall of facts from prose. University of Illinois at Urbana-Champaign, 1972.
+	* Carfer, John F., and Carol Carrier. "THE ROLE OF SELECTED ORGANIZATIONAL VARIABLES IN LEARNING FROM WRITTEN INSTRUCTION."
+	* Pearson, P. D. (1969) The effects of grammatical complexity on children’s comprehension, recall, and conception of semantic relations. Unpublished Ph. D. thesis, University of Minnesota.
+		* Pearson, P. David. "The effects of grammatical complexity on children's comprehension, recall, and conception of certain semantic relations." Reading Research Quarterly (1974): 155-192.
+	* Tierney, Robert J., and P. David Pearson. "Toward a composing model of reading." Language arts 60.5 (1983): 568-580.
+	* Anderson, Richard C. "A schema-theoretic view of basic processes in reading comprehension." Handbook of reading research/Longman (1984). 
+	* Pearson, P. David, and Kaybeth Camperell. "Comprehension of text structures." Comprehension and teaching: Research reviews (1981): 27-55.
 * Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.
 <!-- -->
 * Sternberg, Meir. Expositional modes and temporal ordering in fiction. Indiana University Press, 1993.
@@ -966,6 +975,7 @@ and transparent free relatives. Natural Language & Linguistic Theory, 21(2):247�
 * Fredal, James. The enthymeme: Syllogism, reasoning, and narrative in ancient Greek rhetoric. Penn State Press, 2020.
 	* Bennett, W. Lance, and Martha S. Feldman. Reconstructing reality in the courtroom: Justice and judgment in American culture. Quid Pro Books, 2014.
 	* Iser, Wolfgang. "The reading process: A phenomenological approach \[1972]." The Critical (1986).
+		* Fish, Stanley. "Is there a text in this class?." Campus wars. Routledge, 2021. 49-56.
 * Rodden, John. "How do stories convince us? Notes towards a rhetoric of narrative." College Literature (2008): 148-173.
 * - \[maybe quite misleading]
 	* Plumer, Gilbert. "Novels as arguments." Frans H. van Eemeren, Bart Garssen, David Godden & Gordon Mitchell (eds.), Proceedings of the Seventh International Conference of the International Society for the Study of Argumentation. Rozenberg / Sic Sat. pp. 1547-1558
@@ -1263,7 +1273,13 @@ Cleft Sentence: Emphasizing Dog's Happiness
 	⁃	https://mythcreants.com/blog/identifying-what-you-need-to-describe/ [Last accessed: 2023-10-15]
 *	Sorensen, Roy A. Thought experiments. Oxford University Press, USA, 1992.
 *	Benjamin Opipari, To Boldly Go Without Bold, 16 Perspectives 131 (Winter 2008)
-*	George Gopen
+*	George Gopen, George. The ligitation articles. https://www.georgegopen.com/litigation-articles.html [Last accessed: 2025-02-04]
+	* Gopen, George D. "The Point of a Paragraph and Where to Find It." Litig. 43 (2016): 15.
+	* Gopen, GeorGe D. "What's at Issue: The Construction of the English Paragraph, Part II." Litig. 42 (2015): 16.
+	* Gopen, George D. "Five Varieties of Point Placement: The Construction of the English Paragraph, Part V." Litig. 43 (2016): 13.
+	* Gopen, George D. "Ensuring readers Know what actions are happening in any sentence." Litig. 38 (2011): 15.
+	* Gopen, George D. "Importance of Stress: Indicating the Most Important Words in a Sentence, the." Litig. 38 (2011): 20.
+	* GOPEN, GEORGE D. "THE PROGRESS OF THOUGHT: TO MOVE FORWARD, LINK BACKWARD." Litigation 42.2 (2016): 16-17.
 *	Krifka, Manfred (2008). "Basic notions of information structure" (PDF). Acta Linguistica Hungarica. 55 (3–4): 243–276.
 *	https://en.wikipedia.org/wiki/Polysyndeton
 *	[grammar appendix] It Was the Best of Sentences, It Was the Worst of Sentences: A Writer's Guide to Crafting Killer Sentences by June Casagrande
@@ -1431,15 +1447,40 @@ Cleft Sentence: Emphasizing Dog's Happiness
 * Aksu-Koç, Ayhan, and Christiane Von Stutterheim. "Temporal relations in narrative: Simultaneity." Relating events in narrative. Psychology Press, 2013. 393-455.
 * Webb, Don. It Beats As It Sweeps As It Cleans. http://www.bewilderingstories.com/issue555/as_ed.html [Last accessed: 2024-05-09]
 
+
 * https://en.wikipedia.org/wiki/Fiction-writing_mode [Last accessed: 2025-01-22]
 * Klaassen, Mike. Fiction-writing modes: Eleven essential tools for bringing your story to life. BookBaby, 2015.
 
-* https://en.wikipedia.org/wiki/Repetition_(rhetorical_device) [Last accessed: 2025-01-22]
 
-
+* Grapes, Jack. Method Writing: The First Four Concepts; Revised ed.. Bombshelter Press. 2017.
+* Glover, Douglas. Attack of the Copula Spiders: Essays on Writing. Biblioasis, 2012.
+* Markels, Robin Bell. A new perspective on cohesion in expository paragraphs. SIU Press, 1984.
 * Hallett, Charles A., and Elaine S. Hallett. Analyzing Shakespeare's action: scene versus sequence. Cambridge University Press, 1991.
+* Martell, William C.. Act Two Secrets (Screenwriting Blue Books Book 13). First Strike Productions. 2013.
 * Horwitz, S. Book Architecture: How to Plot and Outline Without Using a Formula. ISBN-10: 0986420409. ISBN-13: 978-0986420405. 2015.
+* Hardy, Janice. "How Scene Titles Make It Easier to Write Your Novel" 2021-05-17. http://blog.janicehardy.com/2021/05/how-scene-titles-make-it-easier-to.html?m=1 [Last accessed: 2025-01-28]
+	* https://www.how-to-write-a-book-now.com/writing-transitions-between-scenes.html#:~:text=Other%20times%2C%20the%20reader%20needs%20to%20be%20filled%20in%20a%20little%20more%20about%20what%20has%20happened%20since%20the%20last%20scene%2C%20or%20what%20the%20characters%20have%20been%20doing%20or%20thinking%20in%20response%20to%20what%20happened%20in%20the%20previous%20scene%2C%20so%20that%20the%20reader%20begins%20the%20new%20scene%20feeling%20%22up%20to%20speed.%22 [Last accessed: 2025-01-28]
+* Martell, William C.. Research & World Building Blue Book (Screenwriting Blue Books 18) 2013.
 * Maass, Donald. The Emotional Craft of Fiction: How to Write the Story Beneath the Surface. Writer's Digest Books. 2016.
+* Martell, William C.. Rewriting Your Story: The End Is Just The Beginning! (Screenwriting Blue Books Book 17). 2021.
+* The Gordon Lish Notes by Tetman Callis. https://www.tetmancallis.com/the-gordon-lish-notes-2/ [Last accessed: 2025-01-31]
+	* Groenland, Tim. "The Poetics of the Sentence: Examining Gordon Lish’s Literary Legacy." IJAS Online 4 (2015): 36-49.
+	* Lucarelli, Jason. “The Consecution of Gordon Lish: An Essay on Form and Influence.” https://numerocinqmagazine.com/2013/02/04/the-consecution-of-gordon-lish-an-essay-on-form-and-influence-jason-lucarelli/ [Last accessed: 2025-01-31]
+	* Lucarelli, Jason. Using Everything: Pattern Making in Gertrude Stein’s “Melanctha,” Robert Walser’s “Nothing at All,” and Sam Lipsyte’s “The Wrong Arm”. https://numerocinqmagazine.com/2013/08/12/using-everything-pattern-making-in-gertrude-steins-melanctha-robert-walsers-nothing-at-all-and-sam-lipsytes-the-wrong-arm-essay-jason-lucarelli/ [Last accessed: 2025-01-31]
+	* https://en.wikipedia.org/wiki/Repetition_(rhetorical_device) [Last accessed: 2025-01-22]
+	* https://en.wikipedia.org/wiki/Difference_and_Repetition [Last accessed: 2025-01-31]
+		* Gendlin, Eugene T. Experiencing and the creation of meaning: A philosophical and psychological approach to the subjective. Northwestern University Press, 1997.
+		* Langer, Susanne K. Philosophy in a new key: A study in the symbolism of reason, rite, and art. Harvard University Press, 2009.
+		* Deacon, Terrence W. The symbolic species: The co-evolution of language and the brain. WW Norton & Company, 1998.
+	* https://en.wikipedia.org/wiki/Specificity_(linguistics) [Last accessed: 2025-01-31]
+
+* Delany, Samuel R. About Writing: 7 Essays, 4 Letters, 5 Interviews. Wesleyan University Press, 2014.
+* Brady, Catherine. Story Logic and the Craft of Fiction. Bloomsbury Publishing, 2010.
+	* Bell, Madison Smartt. Narrative design: Working with imagination, craft, and form. WW Norton & Company, 2000.
+
+* Floor, Sebastiaan Jonathan. From information structure, topic and focus, to theme in Biblical Hebrew narrative. Diss. University of Stellenbosch, 2004.
+* Lambrecht, Knud. Information structure and sentence form: Topic, focus, and the mental representations of discourse referents. Vol. 71. Cambridge university press, 1994.
+
 
 * Klaassen, M (2015). Fiction-Writing Modes: Eleven Essential Tools for Bringing Your Story to Life. Pennsauken, NJ: Bookbaby.
 * Gardner, John. (1983). The art of fiction. Random House, Inc. Print.
