@@ -7641,6 +7641,7 @@ Miscellaneous messy scratch notes (added by Mark):
 * to do nothing = to idle --> do nothing meditation = idle meditation?
 * Carr, Jennifer. "Deontic modals." The Routledge handbook of metaethics. Routledge, 2017. 194-210.
 * People imply or even flat-out say: "You have *literally* infinite potential" / "You could do *literally* anything" / "You are *infinitely* malleable" --- which if you buy in (cf. impermanence and non-infinity) might be... firmly getting in the way of a bunch of things you really WANT to do, which don't have to be your identity, or the only thing you do, or a thing you have to do to the exception of other things, or a thing you have to do completely, well, or a long time, let alone forever.
+* Just setting a timer is a most minimal meditation container.
 
 end "misc pith"
 

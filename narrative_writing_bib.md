@@ -1593,6 +1593,49 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* https://en.wikipedia.org/wiki/Metrical_foot
 * Greenberg, Steven, et al. "Temporal properties of spontaneous speech—a syllable-centric perspective." Journal of Phonetics 31.3-4 (2003): 465-485.
 * Graesser, Arthur C. Prose comprehension beyond the word. Springer Science & Business Media, 2013.
+* Aruffo, Christopher. "Reconsidering Poe's" Rationale of Verse"." Poe Studies 44.1 (2011): 69-86.
+	* Poe, “The Rationale of Verse” (Text-06), The Works of the Late Edgar Allan Poe — Vol II: Poems & Miscellanies (1850), 2:215-258 [https://www.eapoe.org/works/essays/ratlvrsd.htm] Last accessed: 2025-02-20]
+	* Aruffo, Christopher. A Rational Guide to Verse: Scansion Made Simple. Acoustic Learning Inc.; First Edition (January 1, 2012)
+	* http://prescannedshakespeare.aruffo.com/about/part04b.htm [Last accessed: 2025-02-20]
+		* http://prescannedshakespeare.aruffo.com/about/part01.htm [Last accessed: 2025-02-20]
+		* Alice E. Turk and James R. Sawusch, "The Processing of Duration and Intensity Cues to Prominence," Journal of the Acoustical Society of America 99, no. 6 (1996): 3789
+		* John Morton, Steve Marcus, and Clive Frankish, "Perceptual Centers (P-centers)," Psychological Review 83, no. 5 (1976): 405.
+		* Ilse Lehiste, "Isochrony Reconsidered," Journal of Phonetics 5, no. 3 (1977): 253.
+		* Anjali Bhatara et al., "Perception of Emotional Expression In Musical Performance," Journal of Experimental Psychology: Human Perception and Performance 37, no. 3 (2011): 921
+		* Peter Ladefoged and Keith Johnson, A Course In Phonetics, 6th ed. (Beverly, MA: Wadsworth Publishing, 2010) [re "syllabified consonants"]
+	* Wright, George T. Shakespeare's metrical art. Univ of California Press, 1988.
+	* Beum, Robert, and Karl Shapiro. The prosody handbook: a guide to poetic form. Courier Corporation, 2006.
+	* Hartman, Charles O. Verse: an introduction to prosody. John Wiley & Sons, 2015.
+	* Hartman, Charles O. Free verse: an essay on prosody. Vol. 708. Princeton University Press, 2014.
+	* Aruffo, Christopher. "Cut Your Pauses: A Framework to Help Actors Stop Pausing between Lines." Theatre Topics 32.1 (2022): 25-32.
+	* Aruffo, Christopher. "Reading scripted dialogue: Pretending to take turns." Discourse Processes 57.3 (2020): 242-258.
+
+* Longacre, Robert E. The grammar of discourse. Springer Science & Business Media, 2013.
+* Longacre, Robert E. "The paragraph as a grammatical unit." Syntax and semantics 12 (1979): 115-134.
+* Hale, A. Towards the systematization of display grammar. Clause, sentence, and discourse patterns in selected languages ofNepal, Vol. I: General approach (pp. 175-249). Summer Institute of Linguistics Publications in Linguistics, 40. Norman, OK: Summer Institute of Linguistics of the University of Oklahoma. 1973.
+
+* https://scholar.google.com/scholar?q=aspectual+shape [Last accessed: 2025-02-26]
+* Abney, Steven P. The English noun phrase in its sentential aspect. Diss. Massachusetts Institute of Technology, 1987.
+* Melloni, Chiara. Event and result nominals. Peter Lang AG, 2012.
+* Levin, Beth. English verb classes and alternations: A preliminary investigation. University of Chicago press, 1993.
+* Lieber, Rochelle. English nouns: The ecology of nominalization. Vol. 150. Cambridge University Press, 2016.
+	* Lieber, Rochelle, and Pavol Stekauer, eds. "The Oxford handbook of compounding." (2009).
+* Olsen, Mari Broman. Telicity and English Verb Classes and Alternations: An Overview. Digital Repository at the University of Maryland, 1998.
+* Pustejovsky, James, and Pierrette Bouillon. "Aspectual coercion and logical polysemy." Journal of semantics 12.2 (1995): 133-162.
+* Grimm, Scott, and Louise McNally. "No ordered arguments needed for nouns." Proceedings of the 19th Amsterdam colloquium. Amsterdam: ILLC, 2013.
+* Burnstein, Eli. Dictionary of Fine Distinctions: Nuances, Niceties, and Subtle Shades of Meaning. Union Square & Co.. 2024.
+* Pustejovsky, James. The generative lexicon. MIT press, 1998.
+* Gisborne, Nikolas. "The event structure of perception verbs." (2010).
+* Holmes, Jasper Willem. Lexical properties of English verbs. University of London, University College London (United Kingdom), 2005.
+* Cumming, Samuel John. Proper nouns. Rutgers The State University of New Jersey, School of Graduate Studies, 2007.
+	* Cumming, Samuel. "Variabilism." Philosophical review 117.4 (2008): 525-554.
+	* Sanford, Anthony J., and F. Lockhart. "Description types and method of conjoining as factors influencing plural anaphora: A continuation study of focus." Journal of Semantics 7.4 (1990): 365-378.
+	* Moxey, Linda M., et al. "Constraints on the formation of plural reference objects: The influence of role, conjunction, and type of description." Journal of Memory and Language 51.3 (2004): 346-364.
+	* Argenti, Anne-Marie Liliane. "Plural anaphora with split antecedents in discontinuous reciprocal predicates." Workshop:" Linguistic and Cognitive Effects in Anaphora Resolution". 2015.
+	* Patson, Nikole D. "The processing of plural expressions." Language and Linguistics Compass 8.8 (2014): 319-329.
+	* Argenti, Anne-Marie Liliane. "Plural anaphora with split antecedents in discontinuous reciprocal predicates." Workshop:" Linguistic and Cognitive Effects in Anaphora Resolution". 2015.
+	* Moxey, Linda M., et al. "When do we use “they” to refer to two individuals? Scenario mapping as a basis for equivalence." Language and cognitive processes 26.1 (2011): 79-120.
+	* Moxey, Linda M., Anthony J. Sanford, and Karen Tonks. "Representing characters in a scenario: What makes two individuals a set?." Language and cognitive processes 27.9 (2012): 1405-1424.
 
 
 * Rohdenburg, Günter, and Britta Mondorf, eds. Determinants of grammatical variation in English. Berlin and New York: Mouton de Gruyter, 2003.
@@ -1608,10 +1651,36 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* Zucchi, Sandro. "Events and situations." linguistics 1.1 (2015): 85-106.
 * https://scholar.google.com/scholar?q=%22eventive+anaphora%22 [Last accessed: 2025-02-10]
 
+
+* Levin, Beth. English verb classes and alternations: A preliminary investigation. University of Chicago press, 1993.
+* Levin, Beth, Lelia Glass, and Dan Jurafsky. "Systematicity in the semantics of noun compounds: The role of artifacts vs. natural kinds." Linguistics 57.3 (2019): 429-471.
+	* Benczes, R.. Creative compounding in English. Amsterdam/Philadelphia: John Benjamins Publishing Company. 2006.
+	* Benczes, Réka. "Creative noun–noun compounds." Annual Review of Cognitive Linguistics 3.1 (2005): 250-268.
+	* Kun Sun, R. Harald Baayen, Hyphenation as a compounding technique in English, Language Sciences, Volume 83, 2021.
+	* https://www.english-corpora.org/
+* Jauss, David. “What We Talk About When We Talk About
+Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Penguin, 2011.
+* https://en.wikipedia.org/wiki/Metrical_phonology [Last accessed: 2025-02-27]
+* Aruffo, Christopher. A Rational Guide to Verse: Scansion Made Simple. Acoustic Learning Inc.; Second Edition Revised (January 1, 2018)
+* Aruffo, Christopher. A Rational Guide to Verse: Scansion Made Simple Workbook. Acoustic Learning Inc.; Second Edition (January 1, 2018)
+
+* Harding, Denys Wyatt. Words into rhythm: English speech rhythm in verse and prose. Cambridge University Press, 1976.
+* https://scholar.google.com/scholar?q=syntactic+temporal+iconicity+timing+rhythm+narrative+prose [Last accessed: 2025-02-27]
+* Kravchenko, Nataliia, Oksana Soshko, and Yuliia Kononets. "Temporal structure of rap narratives vs. fairy tales (syntactical and narrative facets)." (2023).
+
+
 * Klaassen, M (2015). Fiction-Writing Modes: Eleven Essential Tools for Bringing Your Story to Life. Pennsauken, NJ: Bookbaby.
 * Gardner, John. (1983). The art of fiction. Random House, Inc. Print.
 
 * Gulino, Paul Joseph. "Screenwriting: the sequence approach." Bloomsbury Academic. 2024.
 * Chamberlain, Jill. The nutshell technique: Crack the secret of successful screenwriting. University of Texas Press, 2016.
+
+* Loftin, Greg. "Writing-for-the-cut: What can screenwriters learn from film editors about storytelling?." Journal of Screenwriting 9.1 (2018): 85-102.
+* Mehring, Margaret. The screenplay: a blend of film form and content. Focal Press, 1990.
+* Reisz, Karel, and Gavin Millar. Technique of Film Editing, Reissue of 2nd Edition. Burlington MA: Focal Press. 2009.
+* Hollyn, Norman. The Lean forward moment: create compelling stories for film, tv, and the Web. New riders, 2008.
+
+
+* Langer, Susanne K. Feeling and form. London: Routledge and Kegan Paul, 1953.
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
