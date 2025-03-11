@@ -7642,6 +7642,8 @@ Miscellaneous messy scratch notes (added by Mark):
 * Carr, Jennifer. "Deontic modals." The Routledge handbook of metaethics. Routledge, 2017. 194-210.
 * People imply or even flat-out say: "You have *literally* infinite potential" / "You could do *literally* anything" / "You are *infinitely* malleable" --- which if you buy in (cf. impermanence and non-infinity) might be... firmly getting in the way of a bunch of things you really WANT to do, which don't have to be your identity, or the only thing you do, or a thing you have to do to the exception of other things, or a thing you have to do completely, well, or a long time, let alone forever.
 * Just setting a timer is a most minimal meditation container.
+* evil = unsustainable
+* \[via conversation; co-hat-tip with interlocuter] "there should be a voxel right there"---no! bodymap is nebulous and continuously shaped and has puzzle-/&#8203;layer-structure! fidelity and use and trade-offs and transformation time. continuous bottom-up (and top-down) reshaping. constrained, non-monotonic. "there is no body map" and/&#8203;but cf. motor and sensory neurons; cf. "separation";
 
 end "misc pith"
 

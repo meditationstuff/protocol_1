@@ -1680,7 +1680,60 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * Reisz, Karel, and Gavin Millar. Technique of Film Editing, Reissue of 2nd Edition. Burlington MA: Focal Press. 2009.
 * Hollyn, Norman. The Lean forward moment: create compelling stories for film, tv, and the Web. New riders, 2008.
 
+* https://medium.com/babel/lets-think-of-cinema-s-screen-as-a-language-e2167d40f9e1 [Last accessed: 2025-03-03]
+* Markham, Peter. The Art of the Filmmaker: The Practical Aesthetics of the Screen. Oxford University Press, 2023.
+* Markham, Peter. What’s the Story? The Director Meets Their Screenplay: An Essential Guide for Directors and Writer-Directors. Routledge, 2020.
+* Block, Bruce. The visual story: Creating the visual structure of film, TV, and digital media. Routledge, 2020.
+* Kenworthy, Christopher. Shoot Like Spielberg. Michael Wiese Productions. 2015.
+
+* Deppermann, Arnulf, and Susanne Günthner, eds. Temporality in interaction. Vol. 27. Amsterdam: John Benjamins Publishing Company, 2015.
+* Kupersmitt, Judy R., and Elena Nicoladis. "A developmental study of expressing simultaneous events in film-based narratives." First Language 41.6 (2021): 708-736.
+* Auer, Peter. "On-line syntax: Thoughts on the temporality of spoken language." Language sciences 31.1 (2009): 1-13.
+* https://lenafernandez.wordpress.com/2013/04/27/sequentiality-and-simultaneity/ [Last accessed: 2025-03-04]
+* Auer, Peter. "The temporality of language in interaction: Projection and latency." Temporality in interaction. John Benjamins Publishing Company, 2015. 27-56.
+* Wentworth, Isabelle. Catching Time: Temporality, Interaction, and Cognition in the Novel. Taylor & Francis, 2024.
+* Auer, Peter. "Sentences and their symbiotic guests. Notes on analepsis from the perspective of online syntax." Pragmatics 24.3 (2014): 533-560.
+* Blanche-Benveniste, Claire. "Un modèle d'analyse syntaxique" en grilles" pour les productions orales." Anuario de psicología/The UB Journal of psychology (1990): 11-28.
+* Aijmer, Karin, Laurel J. Brinton, and Bernd Heine. "Outside the clause: form and function of Extra-clausal constituents." Workshop: Vienna. Vol. 4. 2014.
+* Laury, Ritva, Tsuyoshi Ono, and Ryoko Suzuki. "Questioning the clause as a crosslinguistic unit in grammar and interaction." Studies in Language 43.2 (2019): 364-401.
+* CAPPELLE, BERT. "The special position of fragments and imperatives in polished prose: data from The Economist editorials." English Language & Linguistics 28.3 (2024): 465-490.
+* https://en.wikipedia.org/wiki/Constituent_(linguistics) [Last accessed: 2025-03-04]
+
 
 * Langer, Susanne K. Feeling and form. London: Routledge and Kegan Paul, 1953.
+
+* Kuroda, Sige-Yuki. "A study of the so-called topic wa in passages from Tolstoi, Lawrence and Faulkner (of course, in Japanese translation)." Hinds, Maynard and Iwasaki (eds.) (1987): 143-161.
+* Ohi, Kevin. Inceptions: Literary Beginnings and Contingencies of Form. Fordham University Press, 2021.
+
+* Scott, Fred Newton. "The scansion of prose rhythm." PMLA 20.4 (1905): 707-728.
+* Lello, James. 'The Auditive Intelligence': Intonation in Henry James. Diss. 2020.
+* Duncan, Michael. "Questioning the auditory sublime: A multisensory-organic approach to prose rhythm." JAC (2011): 579-608.
+* Patterson, William Morrison. The rhythm of prose: An experimental investigation of individual difference in the sense of rhythm. No. 57. Columbia University Press, 1917.
+* https://www.bbcmaestro.com/blog/rhythm-in-writing [Last accessed: 2025-03-06]
+* Kimball, John. "Seven principles of surface structure parsing in natural language." Cognition 2.1 (1973): 15-47.
+* Pearlman, Karen. Cutting rhythms: Intuitive film editing. Routledge, 2015.
+
+
+* McCluskey, Kathleen Mary. "REVERBERATIONS: SOUND AND STRUCTURE IN THE NOVELS OF VIRGINIA WOOLF." (1984): 1083-1083.
+* Harding, Denys Wyatt. Words into rhythm: English speech rhythm in verse and prose. Cambridge University Press, 1976.
+
+* Haines, Alice. "Comic timing in prose fiction." Journal of Literary Semantics 53.2 (2024): 93-109.
+* Simpson, Paul. "Just what is narrative urgency?." Language and Literature 23.1 (2014): 3-22.
+
+* - [Last accessed: 2025-03-11]
+	* https://mythcreants.com/blog/narration-makeover-giving-action-more-immediacy/
+	* https://mythcreants.com/blog/six-signs-of-over-summarized-prose/
+	* https://mythcreants.com/blog/five-tips-for-reviving-bland-prose/
+	* https://mythcreants.com/blog/description-makeover-creating-magical-atmosphere/
+	* https://mythcreants.com/blog/lessons-from-the-hyped-writing-of-dawn-of-wonder/
+	* https://mythcreants.com/blog/crafting-micro-stories/
+	* https://mythcreants.com/blog/five-common-reasons-stories-screech-to-a-halt/
+	* https://mythcreants.com/blog/narration-makeover-creating-tension/
+	* http://blog.janicehardy.com/2011/09/making-scene-using-scriptwriting-to-fix.html?m=1
+	* https://nailyournovel.wordpress.com/2014/10/26/novels-arent-movies-how-to-handle-passage-of-time-in-prose/
+	* https://lenafernandez.wordpress.com/2013/04/27/sequentiality-and-simultaneity/
+
+* Cron, Lisa. Story genius: How to use brain science to go beyond outlining and write a riveting novel (before you waste three years writing 327 pages that go nowhere). Ten Speed Press, 2016.
+
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
