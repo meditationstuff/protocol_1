@@ -1734,6 +1734,10 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* https://lenafernandez.wordpress.com/2013/04/27/sequentiality-and-simultaneity/
 
 * Cron, Lisa. Story genius: How to use brain science to go beyond outlining and write a riveting novel (before you waste three years writing 327 pages that go nowhere). Ten Speed Press, 2016.
+* Clark, Roy Peter. Writing tools: 55 essential strategies for every writer. Little, Brown Spark, 2008.
+	* Wilbers, Stephen. Mastering the Craft of Writing: How to Write With Clarity, Emphasis, and Style. Penguin, 2014.
+* Bell, Matt. Refuse to Be Done: How to Write and Rewrite a Novel in Three Drafts. Soho Press. 2022.
+* Horne, Jules. Dramatic Techniques for Creative Writers: Turbo-Charge Your Writing. Texthouse. 2018.
 
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
