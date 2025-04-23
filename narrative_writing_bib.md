@@ -1738,6 +1738,44 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* Wilbers, Stephen. Mastering the Craft of Writing: How to Write With Clarity, Emphasis, and Style. Penguin, 2014.
 * Bell, Matt. Refuse to Be Done: How to Write and Rewrite a Novel in Three Drafts. Soho Press. 2022.
 * Horne, Jules. Dramatic Techniques for Creative Writers: Turbo-Charge Your Writing. Texthouse. 2018.
+	* Shoot Your Novel: Cinematic Techniques to Supercharge Your Writing (The Writer's Toolbox Series) by C. S. Lakin. Ubiquitous Press. 2014.
+* Henley, Jodi. Backstory, Motivation and Conflict: An easy to understand, plain-English guide to the transformational character arc and story mechanics (Plain-English Writing Guides Book 2). 2015.
+
+* Sanderson, Brandon. 2020 Creative Writing Lectures at BYU. https://www.youtube.com/playlist?list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ [Last accessed: 2025-04-10]
+
+* https://pcwrede.com/pcw-wp/plotting-in-reverse/ [Last accessed: 2025-04-10]
+* https://pcwrede.com/pcw-wp/climax-types-and-reverse-planning/ [Last accessed: 2025-04-10]
+* Lyon, Elizabeth. Writing Subtext: How to craft subtext that develops characters, boosts suspense, and reinforces theme. 2013.
+* Ricco, John Paul. "Mourning, melancholia, moonlight." CR: The New Centennial Review 19.2 (2019): 21-46.
+* https://en.wikipedia.org/wiki/Hidden_Markov_model [Last accessed: 2025-04-10]
+
+* -
+	* https://pcwrede.com/pcw-wp/plotting-in-reverse/ [Last accessed: 2025-04-16]
+	* https://pcwrede.com/pcw-wp/climax-types-and-reverse-planning/ [Last accessed: 2025-04-16]
+
+* https://www.google.com/search?q=%22narratorial+implicature%22 [Last accessed: 2025-04-16]
+* Mullins, Blaine, and Peter Dixon. "Narratorial implicatures: Readers look to the narrator to know what is important." Poetics 35.4-5 (2007): 262-276.
+* Harsa, Wiwien Pratiwi. "Conversational implicatures of short story in the newspaper." English Education Journal 15.2 (2024): 118-126.
+* https://scholar.google.com/scholar?q=narrative+implicature [Last accessed: 2025-04-16]
+
+
+* Palahniuk, Chuck. Submerging the "I". https://litreactor.com/essays/chuck-palahniuk/submerging-the-%E2%80%9Ci%E2%80%9D [Last accessed: 2025-04-21]
+* Chase, Joslyn. Deep POV: 6 Ways to Master Character Voice. https://thewritepractice.com/deep-pov/ [Last accessed: 2025-04-21]
+* Palahniuk, Chuck. Establishing Your Authority. https://litreactor.com/essays/chuck-palahniuk/establishing-your-authority [Last accessed: 2025-04-21]
+* https://www.google.com/search?q=kav+cycle [Last accessed: 2025-02-11]
+* Smith, Wesley Dean. Writing into the Dark: How to Write a Novel without an Outline (WMG Writer's Guides). WMG Publishing, Inc. 2015.
+* -
+	* Kemmer, Suzanne. "Emphatic and reflexive-self: expectations, viewpoint, and subjectivity." Subjectivity and Subjectivisation. Cambridge: CUP (1995): 55-82.
+		* Corazza, Eros. "She and Herself." Indirect Reports and Pragmatics: Interdisciplinary Studies (2016): 507-519.
+		* Kemmer, Suzanne. The Middle Voice. John Benjamins B.V.. 1993.
+		* Stern, Nancy. "The semantic unity of reflexive, emphatic, and other-self pronouns." American speech 79.3 (2004): 270-280.
+		* Kemmer, Suzanne. "Middle voice, transitivity, and the elaboration of events." Voice: Form and function 27 (1994): 179-230.
+	* Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.
+	* Zribi-Hertz, Anne. "Anaphor binding and narrative point of view: English reflexive pronouns in sentence and discourse." Language (1989): 695-727.
+* https://arnoldzwicky.org/2013/02/10/subjectless-predicative-adjuncts/ \[re SPARs (subjectless predicational adjuncts requiring a referent for the subject)] [Last accessed: 2025-04-21]
+* https://lindamayeadams.com/2023/11/24/ writing-fiction-in-the-new-world-part-4/ [Last accessed: 2025-04-21]
+* https://carolynsteinblog.com/lessons-learned-character-setting-and-depth/ [Last accessed: 2025-04-21]
+* Ortega-Andrés, Marina, and Agustín Vicente. "Polysemy and co-predication." Glossa: a journal of general linguistics 4.1 (2019).
 
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

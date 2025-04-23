@@ -7644,6 +7644,16 @@ Miscellaneous messy scratch notes (added by Mark):
 * Just setting a timer is a most minimal meditation container.
 * evil = unsustainable
 * \[via conversation; co-hat-tip with interlocuter] "there should be a voxel right there"---no! bodymap is nebulous and continuously shaped and has puzzle-/&#8203;layer-structure! fidelity and use and trade-offs and transformation time. continuous bottom-up (and top-down) reshaping. constrained, non-monotonic. "there is no body map" and/&#8203;but cf. motor and sensory neurons; cf. "separation";
+* - [Last accessed: 2025-04-10]
+	* https://x.com/qiaochuyuan/status/1910387224895688870
+	* https://x.com/qiaochuyuan/status/1910383201148952601
+	* https://x.com/the_wilderless/status/1910337934680838543
+* - [Last accessed: 2025-04-10]
+	* "I just continuously gently coax upwards my 3-week average of literally every single vitamin in Cronometer & listen closely for my body to tell me to back off on something. // Nothing that’s not an essential or conditionally essential nutrient has ever been good for me long term." https://x.com/meditationstuff/status/1910025603568247077
+	* \~"How do you know if you've had too much of something?"
+		* Simple aversion to taking more, most often; others: tastes bad, headache, insomnia, muscle tension, stuff like that. Sometimes another nutrient “ungates” something else, and then a few days or weeks later taking more no longer causes symptoms, plus there can be a craving for it, on and off, for a few days or weeks, which might abruptly shut off or wax and wane https://x.com/meditationstuff/status/1910059897699660046
+		* Also histamine or “mcas” type reactions, that go away if you spend a few days or weeks on other vitamins, first https://x.com/meditationstuff/status/1910135185007345669
+	* "Nutrient meditation…: Right nutrients in the right order, in the right evolving pattern, with the right timing, in the right dose, in the right molecular form… …" https://x.com/meditationstuff/status/1910060837873635812
 
 end "misc pith"
 
