@@ -1766,6 +1766,8 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * Smith, Wesley Dean. Writing into the Dark: How to Write a Novel without an Outline (WMG Writer's Guides). WMG Publishing, Inc. 2015.
 * -
 	* Kemmer, Suzanne. "Emphatic and reflexive-self: expectations, viewpoint, and subjectivity." Subjectivity and Subjectivisation. Cambridge: CUP (1995): 55-82.
+		* Dieter Stein (Editor) and Susan Wright (Editor). Subjectivity and Subjectivisation: Linguistic Perspectives. Cambridge University Press. 1996.
+		* Langacker, Ronald W. "Subjectification." Cognitive Linguistics 1-1 (1990): 5-38.
 		* Corazza, Eros. "She and Herself." Indirect Reports and Pragmatics: Interdisciplinary Studies (2016): 507-519.
 		* Kemmer, Suzanne. The Middle Voice. John Benjamins B.V.. 1993.
 		* Stern, Nancy. "The semantic unity of reflexive, emphatic, and other-self pronouns." American speech 79.3 (2004): 270-280.
@@ -1777,5 +1779,18 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * https://carolynsteinblog.com/lessons-learned-character-setting-and-depth/ [Last accessed: 2025-04-21]
 * Ortega-Andrés, Marina, and Agustín Vicente. "Polysemy and co-predication." Glossa: a journal of general linguistics 4.1 (2019).
 
+* Bell, James Scott. VOICE: The Secret Power of Great Writing (Bell on Writing). Compendium Press. 2015.
+* Van Krieken, Kobie, Hans Hoeken, and José Sanders. "Evoking and measuring identification with narrative characters–A linguistic cues framework." Frontiers in psychology 8 (2017): 1190.
+
+* Lee, Eunhee, and Jeongmi Choi. "Two nows in Korean." Journal of Semantics 26.1 (2009): 87-107.
+* Carroll, Noël. "On the narrative connection." New perspectives on narrative perspective(2001): 21-41.
+Velleman, J. David. "Narrative explanation." The philosophical review 112.1 (2003): 1-25.
+* Van Krieken, Kobie. "Ambiguous perspective in narrative discourse: Effects of viewpoint markers and verb tense on readers’ interpretation of represented perceptions." Discourse Processes 55.8 (2018): 771-786. 
+
+* Bader, Markus. "Prosodic influences on reading syntactically ambiguous sentences." Reanalysis in sentence processing. Dordrecht: Springer Netherlands, 1998. 1-46.
+* Hopper, Paul J. "Aspect and foregrounding in discourse." Discourse and syntax 12 (1979): 213-241.
+* Ehrlich, Susan. "Aspect, foregrounding and point of view." Text-Interdisciplinary Journal for the Study of Discourse 7.4 (1987): 363-376.
+* Reinhart, Tanya. "Principles of gestalt perception in the temporal organization of narrative texts." (1984): 779-810.
+* Thompson, Sandra A. "“Subordination” and narrative event structure." Coherence and Grounding in Discourse: Outcome of a Symposium, Eugene, Oregon, June 1984. John Benjamins Publishing Company, 2011.
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
