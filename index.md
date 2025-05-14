@@ -134,10 +134,6 @@ Please support this open access work: https://www.patreon.com/meditationstuff
 [As of this version, now at 10 patrons and $101/month USD. Next round number $110; 9$ to go; 92% complete.]
 
 
-<span id="author-web-presence"></span> 
-**Author web presence:** https://meditationstuff.wordpress.com
-
-
 <span id="canonical-location-of-this-document"></span> 
 **Canonical location(s) of this document:** https://github.com/meditationstuff/protocol_1 ; https://meditationbook.page/
 
@@ -170,7 +166,6 @@ Sometimes I revise the anchor links to different sections in the document. When 
 * <a id="5h" href="#quick-start-guide">quick start guide</a>
 	* <a id="6h" href="#who-is-this-document-for">who is this document for?</a>
 * <a id="7h" href="#funding">funding</a>
-* <a id="8h" href="#author-web-presence">author web presence</a>
 * <a id="9h" href="#canonical-location-of-this-document">canonical location of this document</a>
 * <a id="10h" href="#closely-related-external-resources">closely related external resources</a>
 * <a id="10ah" href="#hyper-linking-deep-linking-anchor-linking-soft-guarantees">(hyper)linking/&#8203;(deep)linking/&#8203;(anchor)linking soft guarantees</a>
@@ -7654,6 +7649,7 @@ Miscellaneous messy scratch notes (added by Mark):
 		* Simple aversion to taking more, most often; others: tastes bad, headache, insomnia, muscle tension, stuff like that. Sometimes another nutrient “ungates” something else, and then a few days or weeks later taking more no longer causes symptoms, plus there can be a craving for it, on and off, for a few days or weeks, which might abruptly shut off or wax and wane https://x.com/meditationstuff/status/1910059897699660046
 		* Also histamine or “mcas” type reactions, that go away if you spend a few days or weeks on other vitamins, first https://x.com/meditationstuff/status/1910135185007345669
 	* "Nutrient meditation…: Right nutrients in the right order, in the right evolving pattern, with the right timing, in the right dose, in the right molecular form… …" https://x.com/meditationstuff/status/1910060837873635812
+* I just want to note as a perennial general PSA that I personally advise people not to use clickers/tally counters as mind tech, fwiw. At first they seem like amazing psychotechnology, and they can indeed be locally very effective. But they risk accumulating very “sharp, tangled” karma that is difficult to untangle (though always possible in principle), that limits “meditative flexibility” in the meantime. I think the tradeoff is not worth it. People who don’t “go all the way” with meditation risk long term behavioral, emotional, psychological rigidity if they double down on using clickers, tally counters. // (Separately, other tech like setting a meditation timer as a “meditative container” seem fine. I still use such things. Not all tech is bad, etc.) https://x.com/meditationstuff/status/1921621068680188165 [more stuff in the replies. I made add some of it here, but some of it is very lossily compressed, as it were.]
 
 end "misc pith"
 
