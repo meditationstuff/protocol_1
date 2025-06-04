@@ -7649,7 +7649,7 @@ Miscellaneous messy scratch notes (added by Mark):
 		* Simple aversion to taking more, most often; others: tastes bad, headache, insomnia, muscle tension, stuff like that. Sometimes another nutrient “ungates” something else, and then a few days or weeks later taking more no longer causes symptoms, plus there can be a craving for it, on and off, for a few days or weeks, which might abruptly shut off or wax and wane https://x.com/meditationstuff/status/1910059897699660046
 		* Also histamine or “mcas” type reactions, that go away if you spend a few days or weeks on other vitamins, first https://x.com/meditationstuff/status/1910135185007345669
 	* "Nutrient meditation…: Right nutrients in the right order, in the right evolving pattern, with the right timing, in the right dose, in the right molecular form… …" https://x.com/meditationstuff/status/1910060837873635812
-* I just want to note as a perennial general PSA that I personally advise people not to use clickers/tally counters as mind tech, fwiw. At first they seem like amazing psychotechnology, and they can indeed be locally very effective. But they risk accumulating very “sharp, tangled” karma that is difficult to untangle (though always possible in principle), that limits “meditative flexibility” in the meantime. I think the tradeoff is not worth it. People who don’t “go all the way” with meditation risk long term behavioral, emotional, psychological rigidity if they double down on using clickers, tally counters. // (Separately, other tech like setting a meditation timer as a “meditative container” seem fine. I still use such things. Not all tech is bad, etc.) https://x.com/meditationstuff/status/1921621068680188165 [more stuff in the replies. I made add some of it here, but some of it is very lossily compressed, as it were.]
+* I just want to note as a perennial general PSA that I personally advise people not to use clickers/&#8203;tally counters as mind tech, fwiw. At first they seem like amazing psychotechnology, and they can indeed be locally very effective. But they risk accumulating very “sharp, tangled” karma that is difficult to untangle (though always possible in principle), that limits “meditative flexibility” in the meantime. I think the tradeoff is not worth it. People who don’t “go all the way” with meditation risk long term behavioral, emotional, psychological rigidity if they double down on using clickers, tally counters. // (Separately, other tech like setting a meditation timer as a “meditative container” seem fine. I still use such things. Not all tech is bad, etc.) https://x.com/meditationstuff/status/1921621068680188165 [more stuff in the replies. I made add some of it here, but some of it is very lossily compressed, as it were.]
 
 end "misc pith"
 
@@ -13920,6 +13920,20 @@ It's calmed down, now, for the moment, but the past few nights:
 **20250122**
 
 * Lost ***a*** center if not ***the*** center. + "this will cease". Time will tell.
+
+**20250525**
+
+My EYE MUSCLES are meditatively refactoring and wearing corrective lenses interferes and I am like -2.5/-4.5. It’s been a few days, now, and I want to stop holding everything to my face and doing computer things on my phone.
+
+The global structure of mind is really something. https://x.com/meditationstuff/status/1925360991623082140
+
+> how come?
+
+Idk too much Netflix while meditating? (I will update my book if I determine that) Or maybe this happens to everyone who wears corrective lenses 😬maybe not idk yet! If so maybe not a problem until very far into meditation; unclear! I was worried about this possibly being a thing tho https://x.com/meditationstuff/status/1925383188689395851
+
+**20250604**
+
+ok eyes have chilled out atm
 
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
