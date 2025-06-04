@@ -1793,4 +1793,15 @@ Velleman, J. David. "Narrative explanation." The philosophical review 112.1 (200
 * Reinhart, Tanya. "Principles of gestalt perception in the temporal organization of narrative texts." (1984): 779-810.
 * Thompson, Sandra A. "“Subordination” and narrative event structure." Coherence and Grounding in Discourse: Outcome of a Symposium, Eugene, Oregon, June 1984. John Benjamins Publishing Company, 2011.
 
+* - [Last accessed: 2025-06-04]
+	* https://www.google.com/search?q=rules+of+a+narrative+paragraph
+	* https://www.helpingwritersbecomeauthors.com/how-to-use-paragraph-breaks/amp/
+	* https://zoemmccarthy.com/writing/13-guidelines-for-when-to-start-a-new-paragraph-in-your-story
+* https://pcwrede.com/pcw-wp/an-illusion-of-reality/
+* Hutchison, Lorna. “The Book Reads Well: Atwood’s ‘Alias Grace’ and the Middle Voice.” Pacific Coast Philology, vol. 38, 2003, pp. 40–59.
+* - [Last accessed: 2025-06-04]
+	* https://mystorydoctor.com/payoff/
+	* https://www.worldbuilders.ai/p/promises-payoffs
+
+
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
