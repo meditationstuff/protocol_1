@@ -60,11 +60,11 @@ name="viewport" content="width=device-width, initial-scale=1">
             opacity: 87%;
         }
 
-        a.darkmode:link {
+        .darkmode a:link {
             color: #5d6edf;
         }
 
-        a.darkmode:visited, a.darkmode:hover {
+        .darkmode a:visited, .darkmode a:hover {
             color: rgb(129, 140, 216);
         }
 
@@ -78,6 +78,22 @@ name="viewport" content="width=device-width, initial-scale=1">
          @media screen and (max-width: 1024px) {
             body {
                 max-width: 90vw;
+            }
+        }
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #121212;
+                color: white;
+                opacity: 87%;
+            }
+
+            a:link {
+                color: #5d6edf;
+            }
+
+            a:visited, a:hover {
+                color: rgb(129, 140, 216);
             }
         }
 
@@ -121,14 +137,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
     document.querySelector("#darkmode").onclick = function(e) {
         document.querySelector('body').classList.toggle('darkmode');
-        document.querySelectorAll("a").forEach((el) => {
-            el.classList.toggle('darkmode');
-        });    
+        // document.querySelectorAll("a").forEach((el) => {
+        //     el.classList.toggle('darkmode');
+        // });
         document.querySelector('#darkmode').text(function(i, text) {
         return text === "dark" ? "light" : "dark";
     });
     }
-    
+
 </script>
 
 <div class="paypal-button">
