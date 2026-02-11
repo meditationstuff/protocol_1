@@ -139,7 +139,7 @@ Please support this open access work: https://www.patreon.com/meditationstuff
 
 
 <span id="alternative-versions"><span id="closely-related-external-resources"></span> 
-**Closely related external resources:**
+**Closely related external resources (summaries, reviews, critiques, self-reports, warnings):**
 
 All of these are worth checking out:
 
@@ -149,6 +149,7 @@ All of these are worth checking out:
 * https://rothos.github.io/protocol_1/ (nicely formatted and navigable, outdated, but ***has links to still-useful companion tools***!) [Last accessed: 2022-09-01]
 *  1-paragraph summary of whole document [image text; alt text in thread] https://twitter.com/Malcolm_Ocean/status/1574463817177878529
 * https://docs.google.com/document/d/1L7PooFLqaPeNfrs9_sT2JYXSxkJWJr1gP314uHM4ujc/edit (ongoing "in plain english") [Last accessed: 2022-09-01]
+* https://casimirthemantis.substack.com/p/global-wayfinding-at-2000-ish-hours ("Global Wayfinding at ~2000-ish hours: a pit stop/&#8203;self-report \/\/ Also a retrospective." ) [Last accessed: 2026-02-10]
 
 <span id="hyper-linking-deep-linking-anchor-linking-soft-guarantees"></span> 
 **(hyper)linking/&#8203;(deep)linking/&#8203;(anchor)linking soft guarantees:**
@@ -4398,6 +4399,8 @@ Notes:
 * \[\[\[\[\[\[\["blind alley"]
 * "particular" experiences of suffering "as such"
 * welcoming
+* trying\*
+* helpless\[, hopeless, no escape, just] suffering\*
 
 
 Notes:
@@ -13934,6 +13937,11 @@ Idk too much Netflix while meditating? (I will update my book if I determine tha
 **20250604**
 
 ok eyes have chilled out atm
+
+**20260126**
+\>\>\>
+Wow, “I desperately, desperately, desperately don’t want to be better than other people at anything I am remotely good at, because of how disconnective it would be. Everybody should in principle be able to be as good as everybody else at all the things. And everybody should actively and proactively collude(?) to facilitate that. \[?…] Thus(?), if there’s nobody already teaching the thing better than I ever could, then I don’t want to learn the thing, let alone become good at it, unless I simultaneously learn how to superlatively teach it and simultaneously execute on teaching it while learning it, in a lockstep fashion. Given enough resources it should in theory be possible to teach anybody, anything, and there is a collective moral imperative to jointly acquire such/&#8203;those resources for doing so.” Well, hmmm/&#8203;butts.
+
 
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

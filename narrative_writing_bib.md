@@ -436,6 +436,7 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * **Dry, Helen Aristar. "The Movement of Narrative Time." Journal of Literary Semantics, vol. 12, no. 2, 1983, pp. 19-53.**
 	* Dry, Helen. "Sentence aspect and the movement of narrative time." Text-Interdisciplinary Journal for the Study of Discourse 1.3 (1981): 233-240.
 	* Depraetere, Ilse. "On the necessity of distinguishing between (un) boundedness and (a) telicity." Linguistics and philosophy 18 (1995): 1-19.
+		* Depraetere, Ilse. "(A)telicity and intentionality" Linguistics, vol. 45, no. 2, 2007, pp. 243-269.
 	* DEPRAETERE, ILSE. "Foregrounding in English relative clauses" Linguistics, vol. 34, no. 4, 1996, pp. 699-732.
 	* Bache, Carl. "Narrative when in English1." English Language & Linguistics 20.2 (2016): 273-294.
 	* Bache, Carl. "Narrative before in English." Journal of English Linguistics 46.1 (2018): 23-51.
@@ -1775,7 +1776,7 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* Brinton, Laurel. "Non-anaphoric reflexives in free indirect style: expressing the subjectivity of the non-speaker." Subjectivity and subjectivisation: Linguistic perspectives (1995): 173-194.
 	* Zribi-Hertz, Anne. "Anaphor binding and narrative point of view: English reflexive pronouns in sentence and discourse." Language (1989): 695-727.
 * https://arnoldzwicky.org/2013/02/10/subjectless-predicative-adjuncts/ \[re SPARs (subjectless predicational adjuncts requiring a referent for the subject)] [Last accessed: 2025-04-21]
-* https://lindamayeadams.com/2023/11/24/ writing-fiction-in-the-new-world-part-4/ [Last accessed: 2025-04-21]
+* https://lindamayeadams.com/2023/11/24/writing-fiction-in-the-new-world-part-4/ [Last accessed: 2025-04-21]
 * https://carolynsteinblog.com/lessons-learned-character-setting-and-depth/ [Last accessed: 2025-04-21]
 * Ortega-Andrés, Marina, and Agustín Vicente. "Polysemy and co-predication." Glossa: a journal of general linguistics 4.1 (2019).
 
@@ -1798,10 +1799,141 @@ Velleman, J. David. "Narrative explanation." The philosophical review 112.1 (200
 	* https://www.helpingwritersbecomeauthors.com/how-to-use-paragraph-breaks/amp/
 	* https://zoemmccarthy.com/writing/13-guidelines-for-when-to-start-a-new-paragraph-in-your-story
 * https://pcwrede.com/pcw-wp/an-illusion-of-reality/
-* Hutchison, Lorna. “The Book Reads Well: Atwood’s ‘Alias Grace’ and the Middle Voice.” Pacific Coast Philology, vol. 38, 2003, pp. 40–59.
+* Hutchison, Lorna. “The Book Reads Well: Atwood’s ‘Alias Grace’ and the Middle Voice.” Pacific Coast Philology, vol. 38, 2003, pp. 40–59
 * - [Last accessed: 2025-06-04]
 	* https://mystorydoctor.com/payoff/
 	* https://www.worldbuilders.ai/p/promises-payoffs
 
+* Patron, Sylvie. The Narrator: A Problem in Narrative Theory. U of Nebraska Press, 2023.
+
+* Kneece, Mark. The art of comic book writing: The definitive guide to outlining, scripting, and pitching Your sequential art stories. Watson-Guptill, 2015.
+	* Araki, Hirohiko and Nathan Collins (translator). Manga in Theory and Practice: The Craft of Creating Manga. VIZ Media LLC. 2017.
+	* Kitchen, Jeff. The Hero's Dilemma: Drama at the Heart of Your Story. 2023.
+	* O'Neil, Dennis. The DC comics guide to writing comics. Watson-Guptill, 2013.
+	* Lee, Stan. Stan Lee's How to Write Comics: From the Legendary Co-Creator of Spider-Man, the Incredible Hulk, Fantastic Four, X-Men, and Iron Man. Watson-Guptill, 2011.
+	* McCloud, Scott. "Making comics: Storytelling secrets of comics, manga and graphic novels." (2006).
+		* McCloud, Scott. Understanding comics: The invisible art. Kitchen sink press. William Morrow Paperbacks. 1994.
+		* ? Fusanosuke, Natsume, et al. Manga no Yomikata How to Read Manga. 1995.
+	* Lee, Stan, and John Buscema. How to draw comics the Marvel way. Simon and Schuster, 1984.
+		* -
+			* Barry, Lynda. Making Comics. Drawn and Quarterly. 2019.
+			* Bendis, Brian Michael. Words for pictures: The art and business of writing comics and graphic novels. Watson-Guptill, 2014.
+			* Moore, Alan, Jacen Burrows, and Juan Jose Ryp. Writing for comics. Avatar Press, 2003.
+
+* Bergqvist, Henrik. "Epistemic marking and multiple perspective: An introduction." STUF-Language Typology and Universals 68.2 (2015): 123-141.
+* Enghels, Renata. "Towards a constructional approach to discourse-level phenomena: The case of the Spanish interpersonal epistemic stance construction." Folia Linguistica 52.1 (2018): 107-138.
+
+* Abrusán, M. (2022). The Perspective-Sensitivity of Presuppositions. Mind & Language.
+	* Abrusán, Márta. "The spectrum of perspective shift: protagonist projection versus free indirect discourse." Linguistics and Philosophy 44 (2021): 839-873.
+	* Abrusán, M. (2021). Computing Perspective Shift in Narrative.  In The Language of Fiction,  edited by E. Maier and A. Stokke, Oxford University Press
+	* Abrusán, M. (2023). Plural and Quantified Protagonists in Free Indirect Discourse and Protagonist Projection. Journal of Semantics.
+* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
+* Thompson, Sandra A. "“Subordination” and narrative event structure." Coherence and Grounding in Discourse: Outcome of a Symposium, Eugene, Oregon, June 1984. John Benjamins Publishing Company, 2011.
+* Kneece, Mark. The art of comic book writing: The definitive guide to outlining, scripting, and pitching Your sequential art stories. Watson-Guptill, 2015.
+
+* McHale, Brian. "Islands in the Stream of Consciousness: Dorrit Cohn's Transparent Minds." (1981): 183-191.
+
+* Krifka, Manfred. "The origins of telicity." Events and grammar. Dordrecht: Springer Netherlands, 1998. 197-235.
+
+* Schmid, Hans-Jörg. "Cognitive effects of shell nouns." Discourse Studies in Cognitive Linguistics: Selected papers from the 5th International Cognitive Linguistics Conference, Amsterdam, July 1997. John Benjamins Publishing Company, 2009.
+* Schmid, Hans-Jörg. "Constant and ephemeral hypostatization: thing, problem and other shell nouns." Proceedings of the 16th International Congress of Linguists (Paris. 1997.)
+* Benítez Castro, Miguel Ángel. Formal, syntactic, semantic and textual features of English shell nouns. Universidad de Granada, 2014.
+* Mousavi, Azadeh, and Mohammad Rauof Moini. "A corpus study of shell nouns in published research articles of education." Procedia-Social and Behavioral Sciences 98 (2014): 1282-1289.
+* Benninghoven, Vera. The functions of'general nouns': theory and corpus analysis. Peter Lang. 2018.
+
+* Hallett, Charles A., and Elaine S. Hallett. Analyzing Shakespeare's action: scene versus sequence. Cambridge University Press, 1991.
+
+* -
+
+* Iatridou, Sabine. "The grammatical ingredients of counterfactuality." Linguistic inquiry 31.2 (2000): 231-270.
+	* Elder, Chi-Hé. "The underlying conditionality of conditionals which do not use'if'." (2012): 177-200.
+	* Iatridou, Sabine. "On the contribution of conditional then." Natural language semantics 2.3 (1993): 171-199.
+* Lee, EunHee. "The logic of narratives." The Logic of Narratives. Brill, 2020.
+
+* Copley, Bridget. The semantics of the future. Routledge, 2009.
+* Rawlins, Kyle. (Un) conditionals: An investigation in the syntax and semantics of conditional structures. University of California, Santa Cruz, 2008.
+
+
+* -
+
+* DEPRAETERE, ILSE. "Foregrounding in English relative clauses" Linguistics, vol. 34, no. 4, 1996, pp. 699-732.
+* Bache, Carl. "Narrative before in English." Journal of English Linguistics 46.1 (2018): 23-51.
+* Wald, Benji. "Cross-clause relations and temporal sequence in narrative and beyond." Coherence and Grounding in Discourse: Outcome of a Symposium, Eugene, Oregon, June 1984. John Benjamins Publishing Company, 2011.
+* Tomlin, Russell S. "Foreground-background information and the syntax of subordination." Text-Interdisciplinary Journal for the Study of Discourse 5.1-2 (1985): 85-122.
+* Thompson, Sandra A. "“Subordination” and narrative event structure." Coherence and Grounding in Discourse: Outcome of a Symposium, Eugene, Oregon, June 1984. John Benjamins Publishing Company, 2011.
+* Asher, Nicholas, Laurent Prévot, and Laure Vieu. "Setting the background in discourse." Discours. Revue de linguistique, psycholinguistique et informatique. A journal of linguistics, psycholinguistics and computational linguistics 1 (2007).
+
+
+* -
+	* Kuzmičová, Anežka. "Presence in the reading of literary narrative: A case for motor enactment." Semiotica 2012.189 (2012): 23-48.
+	* Kuzmicova, Anezka. "The words and worlds of literary narrative: the trade-off between verbal presence and direct presence in the activity of reading." (2013).
+	* Kuzmicova, Anezka. "Mental imagery in the experience of literary narrative: Views from embodied cognition." (2013).
+		* Kuzmičová, Anežka. "Literary narrative and mental imagery: A view from embodied cognition." Style 48.3 (2014): 275-293.
+	* Grethlein, Jonas, and Luuk Huitink. "Homer’s vividness: an enactive approach." The Journal of Hellenic Studies 137 (2017): 67-91.
+
+* Abrusán, M. (2023). Plural and Quantified Protagonists in Free Indirect Discourse and Protagonist Projection. Journal of Semantics. paper    draft
+* Abrusán, M. (2022). The Perspective-Sensitivity of Presuppositions. Mind & Language.
+* Abrusán, M. (2021). Computing Perspective Shift in Narrative.  In The Language of Fiction,  edited by E. Maier and A. Stokke, Oxford University Press draft
+* Abrusán, M. (2020). The Spectrum of Perspective Shift: Free Indirect Discourse vs. Protagonist Projection. Linguistics and Philosophy. 
+* Chafe, Wallace. "Linking intonation units in spoken English." Clause combining in grammar and discourse. John Benjamins Publishing Company, 2011. 1-28.
+* Chafe, Wallace L. (1980). The deployment of consciousness in the construction of narrative. In The Pear Stories: Cognitive, Cultural, and Linguistic Aspects of Narrative Production. Ablex.
+* Chafe, Wallace. Discourse, consciousness, and time: The flow and displacement of conscious experience in speaking and writing. University of Chicago Press, 1994.
+* Chafe, Wallace. "How consciousness shapes language." Pragmatics & Cognition 4.1 (1996): 35-54.
+* Gisborne, Nikolas. "The event structure of perception verbs." (2010).
+* Page, Anna Katarina. "Causation is non-eventive." (2023).
+* Jauss, David. “What We Talk About When We Talk About
+Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Penguin, 2011.
+* Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.
+* Smith, Wesley Dean. Writing into the Dark: How to Write a Novel without an Outline (WMG Writer's Guides). WMG Publishing, Inc. 2015.
+
+* Comrie, Bernard. "Tense and time reference: from meaning to interpretation in the chronological structure of a text." (1986): 12-22.
+* Couper-Kuhlen, Elizabeth. "Foregrounding and temporal relations in narrative discourse." Essays on tensing in English 2 (1989): 7-29.
+
+* -
+
+* Beavers, John. "On affectedness." Natural language & linguistic theory 29.2 (2011): 335-370.
+* Malka, Rappaport Hovav, and Beth Levin. "Building verb meanings." The projection of arguments: Lexical and compositional factors (1998): 97-134.
+* Hovav, Malka Rappaport, and Beth Levin. "Reflections on manner/result complementarity." Syntax, lexical semantics, and event structure (2010): 21-38.
+* Levin, Beth, and Malka Rappaport Hovav. "Lexicalized meaning and manner/result complementarity." Studies in the composition and decomposition of event predicates. Dordrecht: Springer Netherlands, 2013. 49-70.
+* Hovav, Malka Rappaport, and Beth Levin. "Variable agentivity: Polysemy or underspecification." Glossa: a journal of general linguistics 9.1 (2024).
+* Van Valin Jr, Robert D. Exploring the syntax-semantics interface. Cambridge University Press, 2005.
+* BENTLEY D. Internally caused change as change by inner predisposition: Comparative evidence from Romance. Journal of Linguistics. 2024;60(3):483-525.
+
+* Chatman, Seymour Benjamin, and Seymour Chatman. Story and discourse: Narrative structure in fiction and film. Cornell university press, 1978.
+* Barthes, Roland. S/Z: an essay. Macmillan, 1974.
+* Jauss, David. Alone with all that could happen: Rethinking conventional wisdom about the craft of fiction writing. Writer's Digest Books, 2008.
+* Ireland, Ken. The sequential dynamics of narrative: Energies at the margins of fiction. Fairleigh Dickinson Univ Press, 2001.
+* Rácz, Lilian. "Proust, Woolf, and Narrative Rhythm." Anachronist 23 (2025).
+* Bloom, Barthe. "Structuring the narrative with preposed adverbial clauses: A study of the German and Dutch Ponthus adaptations." Discourse structure and narration: A diachronic view from Germanic (2025): 47.
+* Mallier, Clara. "A Matter of Time: The Cinematographic Quality of Narration in Hemingway’s The Sun Also Rises." Presses Universitaires Blaise-Pascal 79.1 (2012): 245-262.
+* Genette, Gérard. Narrative discourse revisited. Cornell University Press, 1988.
+
+* Moens, Marc, and Mark Steedman. "Temporal ontology and temporal reference." Computational linguistics 14.2 (1988): 15-28.
+
+
+
+
+* Comrie, Bernard. "Tense and time reference: from meaning to interpretation in the chronological structure of a text." (1986): 12-22.
+* Dry, Helen. "Sentence aspect and the movement of narrative time." Text-Interdisciplinary Journal for the Study of Discourse 1.3 (1981): 233-240.
+* Dry, Helen Aristar. "The Movement of Narrative Time." Journal of Literary Semantics, vol. 12, no. 2, 1983, pp. 19-53.
+* Gardner, John. (1983). The art of fiction. Random House, Inc. Print.
+* Jauss, David. “What We Talk About When We Talk About
+Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Penguin, 2011.
+* Genette, Gérard. Narrative discourse: An essay in method. Vol. 3. Cornell University Press, 1980.
+
+* Wood, Monica. Description. Writer’s Digest Books. 1999.
+* Klein, Cheryl. The Magic Words. W. W. Norton & Company. 2016.
+
+* Delany, Samuel R. "About 5,750 Words". The jewel-hinged jaw: notes on the language of science fiction. Wesleyan University Press, 2009.
+* Benedetti, Robert. Action!: Professional Acting for Film and Television. Waveland Press, 2022.
+* Craft Essays by Chuck Palahniuk 2005-2007 \[pdf]
+* Heine, Bernd. The grammar of interactives. Oxford University Press, 2023.
+	* https://en.wikipedia.org/wiki/Bernd_Heine
+	* https://en.wikipedia.org/wiki/Discourse_grammar
+	* https://en.wikipedia.org/wiki/Thetical_grammar
+	* Kaltenböck, Gunther, Bernd Heine, and Tania Kuteva. "On thetical grammar." Studies in Language. International Journal sponsored by the Foundation “Foundations of Language” 35.4 (2011): 852-897.
+	* https://en.wikipedia.org/wiki/Ideophone \[Last accessed: 2026-01-19]
+	* https://en.wikipedia.org/wiki/Parenthetical_phrase
+* Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

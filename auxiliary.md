@@ -8158,4 +8158,27 @@ https://xkcd.com/915/ [Last accessed: 2025-01-10]
 
 [<a href="#957auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
 
+# <span id="958auxiliary"></span><a id="luxuriate" href="#luxuriate">luxuriate until:</a>
+
+Luxuriate in pain, suffering, fear, anxiety until it gets worse, burns, sears, in your limbs, everywhere, until/&#8203;as it continuously-for-a=while pleasurably burns/&#8203;hurts-so-good.
+
+Notes:
+
+Careful of forcing/&#8203;layering. This won't always be available, etc.
+
+See also:
+
+* Buteykko breathing
+* Young, Shinzen. The Icky-Sticky Creepy-Crawly It-Doesn't-Really-Hurt-But-I-Can't-Stand-It Feeling. 2010.
+
+[<a href="#958auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
+# <span id="959auxiliary"></span><a id="jawbone" href="#jawbone">jawbone:</a>
+
+Let your jawbone float suspended in/&#8203;from all directions. (Let all bones float suspended in/&#8203;from all directions.)
+
+[<a href="#959auxiliary_names">Click to go back to the corresponding entry in the "auxiliary names" appendix</a>]
+
+
 [<a href="#195h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

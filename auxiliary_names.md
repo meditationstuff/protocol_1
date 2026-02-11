@@ -967,5 +967,7 @@ For information on what the preliminary/auxiliary practices are and how to use t
 * <a id="955auxiliary_names" href="#lay-all-your-cards-on-the-table-h">lay all your cards on the table (h)</a>
 * <a id="956auxiliary_names" href="#trust-the-instantaneous-body">trust the instantaneous body</a>
 * <a id="957auxiliary_names" href="#connoisseur-gourmand-of-suffering">become a connoisseur/&#8203;gourmand of suffering</a>
+* <a id="958auxiliary_names" href="#luxuriate">luxuriate until</a>
+* <a id="959auxiliary_names" href="#jawbone">jawbone</a>
 
 [<a href="#194h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
