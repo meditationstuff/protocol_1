@@ -20,7 +20,7 @@
 
 <span id="byline"></span> **by** "meditationstuff" and collaborators
 
-<span id="collaborators-and-credits"></span> **Collaborators and Credits (needs to be updated):** ...JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, KQ, MO.)
+<span id="collaborators-and-credits"></span> **Collaborators and Credits (needs to be updated):** ...JD, \_\_, \_\_, \_\_, \_\_, \_\_, \_\_, H, A..., [...], and many more [I have to ask several of these people whether they want to be explicitly credited.] (*Colophon:* H, H \[sic], KQ, MO.)
 
 <span id="copyright"></span> **Copyright:** All rights reserved. You may fork/publish lightly transformed (formatted, edited, structurally rearranged) editions of this work if you prominently link back to this original document, possibly warning that the version they are reading might be out of date. No commercial use, nor fee-for-access, are permitted.
 
