@@ -15,12 +15,40 @@ name="viewport" content="width=device-width, initial-scale=1">
 
     <style>
 
+        :root {
+            --bg: initial;
+            --text: #121212;
+            --opacity: 1;
+            --link: #3a4fd3;
+            --link-visited: #0a0068;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root:not([data-theme="light"]) {
+                --bg: #121212;
+                --text: white;
+                --opacity: 0.87;
+                --link: #5d6edf;
+                --link-visited: rgb(129, 140, 216);
+            }
+        }
+
+        :root[data-theme="dark"] {
+            --bg: #121212;
+            --text: white;
+            --opacity: 0.87;
+            --link: #5d6edf;
+            --link-visited: rgb(129, 140, 216);
+        }
+
         body {
             margin: 40px auto;
             max-width: 50vw;
             font-size: 1.2em;
-            color: #121212;
-            
+            background-color: var(--bg);
+            color: var(--text);
+            opacity: var(--opacity);
+
             /* These are technically the same, but use both */
             overflow-wrap: break-word;
             word-wrap: break-word;
@@ -47,25 +75,11 @@ name="viewport" content="width=device-width, initial-scale=1">
         }
 
         a:link {
-            color: #3a4fd3;
+            color: var(--link);
         }
 
         a:visited, a:hover {
-            color: #0a0068;
-        }
-
-        .darkmode {
-            background-color: #121212;
-            color: white;
-            opacity: 87%;
-        }
-
-        .darkmode a:link {
-            color: #5d6edf;
-        }
-
-        .darkmode a:visited, .darkmode a:hover {
-            color: rgb(129, 140, 216);
+            color: var(--link-visited);
         }
 
         #darkmode {
@@ -78,22 +92,6 @@ name="viewport" content="width=device-width, initial-scale=1">
          @media screen and (max-width: 1024px) {
             body {
                 max-width: 90vw;
-            }
-        }
-
-        @media (prefers-color-scheme: dark) {
-            body {
-                background-color: #121212;
-                color: white;
-                opacity: 87%;
-            }
-
-            a:link {
-                color: #5d6edf;
-            }
-
-            a:visited, a:hover {
-                color: rgb(129, 140, 216);
             }
         }
 
@@ -135,16 +133,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <button id="darkmode">dark</button>
 <script>
-    document.querySelector("#darkmode").onclick = function(e) {
-        document.querySelector('body').classList.toggle('darkmode');
-        // document.querySelectorAll("a").forEach((el) => {
-        //     el.classList.toggle('darkmode');
-        // });
-        document.querySelector('#darkmode').text(function(i, text) {
-        return text === "dark" ? "light" : "dark";
-    });
+    var toggle = document.querySelector("#darkmode");
+    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+
+    function isDark() {
+        var theme = document.documentElement.dataset.theme;
+        if (theme) return theme === "dark";
+        return prefersDark.matches;
     }
 
+    toggle.textContent = isDark() ? "light" : "dark";
+
+    toggle.onclick = function() {
+        document.documentElement.dataset.theme = isDark() ? "light" : "dark";
+        this.textContent = isDark() ? "light" : "dark";
+    };
+
+    prefersDark.addEventListener('change', function() {
+        delete document.documentElement.dataset.theme;
+        toggle.textContent = isDark() ? "light" : "dark";
+    });
 </script>
 
 <div class="paypal-button">
