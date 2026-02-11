@@ -1939,5 +1939,8 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * Rossio, Terry & Ted Elliott. "The Off-Screen Movie." Screenwriting Column 40. http://www.wordplayer.com/columns/wp40.Off-Screen.Movie.html [Last accessed: 2026-02-11]
 * Rossio, Terry. "The Storyteller Cut" Screenwriting Column 40. http://www.wordplayer.com/columns/wp45.The.Storyteller.Cut.html [Last accessed: 2026-02-11]
 * Rossio, Terry. "Situation-Based Writing" Screenwriting Column 49. http://www.wordplayer.com/columns/wp49.Situation-Based.html [Last accessed: 2026-02-11]
+* Rossio, Terry. "The Task" Screenwriting Column 39. http://www.wordplayer.com/columns/wp30.The.Task.html [Last accessed: 2026-02-11]  
+
+
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
