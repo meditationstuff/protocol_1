@@ -1936,11 +1936,25 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 	* https://en.wikipedia.org/wiki/Parenthetical_phrase
 * Stainton, Robert. Words and thoughts: Subsentences, ellipsis, and the philosophy of language. Oxford University Press, 2006.
 
+
+
 * Rossio, Terry & Ted Elliott. "The Off-Screen Movie." Screenwriting Column 40. http://www.wordplayer.com/columns/wp40.Off-Screen.Movie.html [Last accessed: 2026-02-11]
 * Rossio, Terry. "The Storyteller Cut" Screenwriting Column 40. http://www.wordplayer.com/columns/wp45.The.Storyteller.Cut.html [Last accessed: 2026-02-11]
 * Rossio, Terry. "Situation-Based Writing" Screenwriting Column 49. http://www.wordplayer.com/columns/wp49.Situation-Based.html [Last accessed: 2026-02-11]
-* Rossio, Terry. "The Task" Screenwriting Column 39. http://www.wordplayer.com/columns/wp30.The.Task.html [Last accessed: 2026-02-11]  
+* Rossio, Terry. "The Task" Screenwriting Column 39. http://www.wordplayer.com/columns/wp30.The.Task.html [Last accessed: 2026-02-11]
+* Rossio, Terry. "Anthropic Principle" Column 14. http://www.wordplayer.com/columns/wp14.Anthropic.Principle.html [Last accessed: 2026-02-12]
 
-
-
+* -
+	* Christensen, Francis. "A generative rhetoric of the sentence." College Composition & Communication 14.3 (1963): 155-161.
+	* Christensen, Francis. "A generative rhetoric of the paragraph." College Composition & Communication 16.3 (1965): 144-156.
+	* Karrfalt, David H. "The generation of paragraphs and larger units." College Composition & Communication 19.3 (1968): 211-217.
+	* Kaltenböck, Gunther, Bernd Heine, and Tania Kuteva. "On thetical grammar." Studies in Language. International Journal sponsored by the Foundation “Foundations of Language” 35.4 (2011): 852-897.
+	* -
+		* Christensen, Francis. "Notes toward a New Rhetoric: I. Sentence Openers; II. A Lesson from Hemingway." College English, Volume 25, Issue 1, Oct 1963, p. 7 - 18.
+		* Rashid, Aatif. In Defense of Long Sentences. https://kenyonreview.org/2018/12/in-defense-of-long-sentences/ [Last accessed: 2026-02-11]
+		* Landon, Brooks. Building great sentences: How to write the kinds of sentences you love to read. Penguin, 2013.
+		* Christensen, Francis. In Defense of the Absolute. College English , Apr., 1950, Vol. 11, No. 7 (Apr., 1950), pp. 401-403.
+		* https://www.reddit.com/r/writing/comments/v6zi8h/comment/ibi317f/ [Last accessed: 2026-02-12]
+	* -
+		* Grady, Michael. "A conceptual rhetoric of the composition." College Composition & Communication 22.5 (1971): 348-354.
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
