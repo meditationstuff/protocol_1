@@ -1466,6 +1466,10 @@ Something like the HAS principle can maybe be used to explain some things (thoug
 
 \*\*\*
 
+20260311 Related: "And then some of the happier clients she sees are people who *also don't have what they want,* but who can openly admit what they want out of life & are leaving space open for it to come along or not. // Essentially: it is the *connection to* our desires that does the heavy lifting in keeping us feeling whole & regulated - not just the fulfilment of them." https://x.com/HeidiPriebe1/status/2031455839156949004
+
+\*\*\*
+
 So self-discovering and self-aligning with the principles above, and I’ve said things like this a bunch of times, is like a circa 10,000-hour Tower-of-Hanoi, constrained-evolving-state-space problem, involving arranging and rearranging millions of Tetris tetraminoes and LEGO bricks the size of quarks, or whatever.
 
 (I’m not done with all this, and "done" probably fluctuates because one keeps acquiring new capacities (which raise the bar for what the "best plan" is), identifying new challenges/unhandledness via those new capacities (which also raises the bar), and also previously-truly-unknown-unknowns [relative to one’s local knowledge and all meta-meta-proactiveness] keep disclosing from the other side of the "event horizon." But, take this blog post for what it’s worth!)

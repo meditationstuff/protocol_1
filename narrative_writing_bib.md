@@ -1924,6 +1924,8 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * Wood, Monica. Description. Writer’s Digest Books. 1999.
 * Klein, Cheryl. The Magic Words. W. W. Norton & Company. 2016.
 
+* Toolan, Michael. Making sense of narrative text: Situation, repetition, and picturing in the reading of short stories. Routledge, 2016.
+
 * Delany, Samuel R. "About 5,750 Words". The jewel-hinged jaw: notes on the language of science fiction. Wesleyan University Press, 2009.
 * Benedetti, Robert. Action!: Professional Acting for Film and Television. Waveland Press, 2022.
 * Craft Essays by Chuck Palahniuk 2005-2007 \[pdf]
@@ -1957,4 +1959,17 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 		* https://www.reddit.com/r/writing/comments/v6zi8h/comment/ibi317f/ [Last accessed: 2026-02-12]
 	* -
 		* Grady, Michael. "A conceptual rhetoric of the composition." College Composition & Communication 22.5 (1971): 348-354.
+
+* Dixon, Debra. GMC: Goal, Motivation, and Conflict. Riverbluff Publishing. 2025.
+* Bell, James Scott. Write Your Novel From The Middle: A New Approach for Plotters, Pantsers and Everyone in Between. Compendium Press. 2014.
+
+* Braine, John. Writing a novel. McGraw-Hill. 1975.
+
+* Langer, Susanne K. Feeling and form. London: Routledge and Kegan Paul, 1953.
+* Iglesias, Karl. Writing for emotional impact : advanced dramatic techniques to attract, engage, and fascinate the reader from beginning to end. WingSpan Press. 2011.
+	* Iglesias, Karl. The Emotional Thesaurus.
+
+* Mordhorst, Mads. "From counterfactual history to counter-narrative history." Management & Organizational History 3.1 (2008): 5-26.
+* Landau, Idan. The locative syntax of experiencers. MIT press, 2009.
+
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
