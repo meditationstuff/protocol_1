@@ -1969,7 +1969,17 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * Iglesias, Karl. Writing for emotional impact : advanced dramatic techniques to attract, engage, and fascinate the reader from beginning to end. WingSpan Press. 2011.
 	* Iglesias, Karl. The Emotional Thesaurus.
 
+* Martin, Andy. Reacher Said Nothing. Lee Child and the Making of Make Me. Polity. 2020.
+
+* MacIver, David. What is it like to read LitRPG?. https://drmaciver.substack.com/p/psychology-of-litrpg [Last accessed: 2026-05-05]
+* Nguyen, C Thi. Games: Agency as Art. Oxford University Press. 2025.
+* Lysford, Collin. Ontology Porn. https://tis.so/ontology-porn [Last accessed: 2026-05-05]
+
 * Mordhorst, Mads. "From counterfactual history to counter-narrative history." Management & Organizational History 3.1 (2008): 5-26.
 * Landau, Idan. The locative syntax of experiencers. MIT press, 2009.
+
+* Jarvis, Jennie. Crafting the Character Arc. Beating Windward Press. 2014.
+* Dale, Wendy. The Memoir Engineering System: Make Your First Draft Your Final Draft. Parentheses Press. 2025.
+
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
