@@ -13946,6 +13946,9 @@ ok eyes have chilled out atm
 \>\>\>
 Wow, “I desperately, desperately, desperately don’t want to be better than other people at anything I am remotely good at, because of how disconnective it would be. Everybody should in principle be able to be as good as everybody else at all the things. And everybody should actively and proactively collude(?) to facilitate that. \[?…] Thus(?), if there’s nobody already teaching the thing better than I ever could, then I don’t want to learn the thing, let alone become good at it, unless I simultaneously learn how to superlatively teach it and simultaneously execute on teaching it while learning it, in a lockstep fashion. Given enough resources it should in theory be possible to teach anybody, anything, and there is a collective moral imperative to jointly acquire such/&#8203;those resources for doing so.” Well, hmmm/&#8203;butts.
 
+**20260509**
+
+Worked through all available substantial regret and longing some years ago. (Plenty of other amazing emotions to be had.) Finally uncovered or computed/constructed some more, and it tastes so sweet. In my experience, so much goodness to be had, here. Very, very exciting. https://x.com/meditationstuff/status/2053102135454072888
 
 
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

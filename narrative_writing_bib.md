@@ -1981,5 +1981,11 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * Jarvis, Jennie. Crafting the Character Arc. Beating Windward Press. 2014.
 * Dale, Wendy. The Memoir Engineering System: Make Your First Draft Your Final Draft. Parentheses Press. 2025.
 
+* Gordon, Robert M.. The structure of emotions: Investigations in cognitive philosophy. Cambridge University Press, 1987.
+* Goldie, Peter. The emotions: A philosophical exploration. Oxford University Press, 2000.
+* Paul, Laurie Ann. Transformative experience. OUP Oxford, 2014.
+* Williams, Bernard. Moral luck: philosophical papers 1973-1980. Cambridge University Press, 1981.
+* Velleman, David. \[sic]
+
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
