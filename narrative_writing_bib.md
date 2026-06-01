@@ -1986,6 +1986,10 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 * Paul, Laurie Ann. Transformative experience. OUP Oxford, 2014.
 * Williams, Bernard. Moral luck: philosophical papers 1973-1980. Cambridge University Press, 1981.
 * Velleman, David. \[sic]
+* Thalberg, Irving. "Emotion and thought." American Philosophical Quarterly 1.1 (1964): 45-55.
+* Thalberg, Irving. "Constituents and causes of emotion and action." The Philosophical Quarterly (1950-) 23.90 (1973): 1-14.
 
+* Coyne, Shawn. The story grid: what good editors know. Black Irish Entertainment LLC, 2015.
+* Bruder, Melissa, et al. A practical handbook for the actor. Vintage, 1986.
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
