@@ -1991,5 +1991,23 @@ Flow” On Writing Fiction: Rethinking conventional wisdom about the craft. Peng
 
 * Coyne, Shawn. The story grid: what good editors know. Black Irish Entertainment LLC, 2015.
 * Bruder, Melissa, et al. A practical handbook for the actor. Vintage, 1986.
+* McKee, R. Story: Substance, structure, style and the principles of screenwriting.
+New York: Regan Books. 1997.
+* McKee, Robert. Character: The Art of Role and Cast Design for Page, Stage, and Screen. Twelve, 2021.
+* McKee, R. Dialogue: The Art of Verbal Action for Page, Stage, and Screen. Twelve. 2016.
+
+* Fludernik, Monika. The fictions of language and the languages of fiction. Routledge, 2003.
+* Hemingway Library Editions. Scribner.
+* Davidson, Donald. "Actions, reasons, and causes." The journal of philosophy 60.23 (1963): 685-700.
+	* Davidson, Donald. "Causal relations." The Journal of philosophy 64.21 (1967): 691-703.
+
+* Pustejovsky, James. "Type Coercion and Lexical Selection." Semantics and the Lexicon. Springer Netherlands, 1993, pp. 73–94.
+* Michaelis, Laura A. "Entity and Event Coercion in a Symbolic Theory of Syntax." Construction Grammars: Cognitive Grounding and Theoretical Extensions. John Benjamins, 2005, pp. 45–88.
+* de Swart, Henriëtte. "Aspect Shift and Coercion." Natural Language and Linguistic Theory 16.2 (1998): 347–385.
+* Koontz-Garboden, Andrew. "Aspectual Coercion and the Typology of Change of State Predicates." Journal of Linguistics 43.1 (2007): 115–152.
+* Piñango, Maria Mercedes, and Ashwini Deo. "Reanalyzing the Complement Coercion Effect." Journal of Semantics 33.2 (2016).
+
+* Scarry, Elaine. Dreaming by the Book. Princeton University Press, 2001.
+
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
