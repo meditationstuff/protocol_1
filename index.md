@@ -445,6 +445,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 		* <a id="173h" href="#karma-losslessness-developmental-stage-models-viole">karma, losslessness, developmental stage models, violence, world; including Ken Wilber and Robert Kegan (draft; 6000 words)</a>
 	* <a id="192ah" href="#mark-s-approximate-practice-timeline-summary-highli">mark's approximate practice timeline summary highlights</a>
 	* <a id="192a1h" href="#farther-to-fall">farther to fall and sometimes just plain wrong</a>
+	* <a id="192a1ah" href="#arational-coherence">arational coherence \[draft]</a>
 	* <a id="192bh" href="#miscellaneous-pith-notes">miscellaneous pith notes</a>
 * <a id="192ch" href="#neuroscience-speculative-snapshots">neuroscience speculative snapshots</a>
 	* <a id="192dh" href="#neuroscience-and-meditation-odds-and-ends-2-22-2-9">neuroscience and meditation, odds and ends [2022-02-09]</a>
@@ -14521,6 +14522,67 @@ cf. “unified will” (mega scare quotes), one thing going in one direction [ve
 
 [<a href="#158da1wh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+# <span id="192a1a"></span><a id="arational-coherence" href="#arational-coherence">arational coherence \[draft]:</a>
+
+Say, \[the rest of this line intentionally left blank]
+
+\[this line intentionally left blank]
+
+\[this line intentionally left blank]
+
+Regarding when people do/&#8203;act/&#8203;attempt/&#8203;try/&#8203;see/&#8203;refrain/&#8203;allow/&#8203;participate/&#8203;stop/&#8203;don’t/&#8203;achieve/&#8203;accomplish: \[the rest of this line intentionally left blank]
+
+\[this line intentionally left blank]
+
+When people say “reason” or “because,” there's at least three meanings:
+
+1. \[for the \[further]] purpose of, intention, goal, success condition, \[in order] to
+1. as ground/&#8203;basis of \[this/&#8203;that] action
+1. as cause
+
+So, instead of "reason" and "because," e.g. purpose-&#8203;reason, basis-&#8203;reason, cause-&#8203;reason, because-&#8203;purpose, because-&#8203;basis, because-&#8203;cause.
+
+One could say there are at least two types of actions:
+
+a) arational actions and b) rational actions
+
+Both types have an associated feeling or feeling-ness or maybe \[an] attitude with-respect-to/&#8203;towards/&#8203;at or \[an] aboutness/&#8203;"intention" (in the philosophical sense) with respect to an object or state of affairs.
+
+And, rational actions also do have a purpose, success condition, basis, etc.
+
+But, arational actions do not have a purpose, success condition, basis.
+
+So, we sometimes say things like:
+
+I just wanted to. I did it because I wanted to.* Just wanted to. Just felt like it. Just had to. Just in the grip of... Just out of... Just because \<null set>. No reason. (No purpose-&#8203;reason; no basis-&#8203;reason). \[Just d]idn't want to.
+
+We might say emotional or arational actions have a because-&#8203;cause but no because-&#8203;purpose or because-&#8203;basis.
+
+We might say there's no single because-&#8203;cause; we might say there's no single cause or discrete set of causes, yet/&#8203;but simply simply \[maybe outside-&#8203;view] "\[because of] the past."
+
+(For rational actions, we might also sometimes say there's no single purpose or basis, nor any discrete set of such, just/&#8203;yet/&#8203;but purpose-&#8203;ness or basis-&#8203;ness.)
+
+(We sometimes might not currently know or feeling-sense the cause, purpose, basis or cause-&#8203;ness, purpose-&#8203;ness, or basis-&#8203;ness.)
+
+An important distinction is that sometimes the statement "I wanted to," and the like, \*can be confused for/&#8203;as being a basis-reasons.
+
+One could clarify, "I did it because I wanted to, [but] not *because* I wanted to."
+
+Or, "I didn't do it because wanting to was a good reason to do it, although wanting to is often a good reason when having or needing a reason is good; I just wanted to, period, so I did it, or allowed myself to do it, or refrained from stopping myself from doing it, or spontaneously did it, or participated in doing it."
+
+(Doing something for the purpose of enjoying doing it or wanting to experience doing it can also be good reasons to do something, but there still doesn't need to be any reason (purpose-&#8203;/&#8203;basis-&#8203;wise) at all to do something.)
+
+(Interest or curiousity or wanting or enjoyment or fucking-&#8203;around or wanting-to-find-out are arational "reasons" or [outside view] causes.
+
+Or, finally, *uncaused*, spontaneous, free, awake, to various incomplete or complete degree(s), in valid phenomenological and philosophical and psychological and soteriological senses, if not scientific/&#8203;materialist.
+
+\~\~)\~\~ \[sic]
+
+* Hursthouse, Rosalind. "Arational actions." The Journal of Philosophy 88.2 (1991): 57-68.
+* Davidson, Donald. "Actions, reasons, and causes." The journal of philosophy 60.23 (1963): 685-700.
+
+[<a href="#192a1ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 # <span id="192b"></span><a id="miscellaneous-pith-notes" href="#miscellaneous-pith-notes">miscellaneous pith notes and tidbits:</a>
 
 * In the spirit of Daniel Ingram's (and others', of course) noting/&#8203;noticing, or Shinzen Young's "subtle is significant", leave out nothing, including nothing (or is that misleading?!). Anything and everything is fair game, but even this can lead to inappropriate reification or ontological fixation.
@@ -16904,6 +16966,12 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Nguyen, C. Thi. "Transparency is surveillance." Philosophy and Phenomenological Research 105.2 (2022): 331-361.
 	* https://x.com/Malcolm_Ocean/status/1793721160980746731 [Last accessed: 2024-05-23]
 * Self-Arising Three-fold Embodiment of Enlightenment [of Bon Dzogchen Meditation] Shar rDza Rinpoche 2022 Mustang Bon Foundation [ht XX]
+* Double-edged time management books I've found helpful at one point or another, for more bandwidth, brain space, and meditation time (they are all very similar):
+	* Lakein, Alan. How to Get Control of Your Time and Your Life. Signet. 1989.
+	* Allen, David. Getting Things Done: The Art of Stress-Free Productivity. Penguin Books. 2015.
+	* Linenberger, Michael. Master Your Workday Now!: Proven Strategies to Control Chaos, Create Outcomes, & Connect Your Work to Who You Really Are. New Academy Publishers. 2010.
+* Hursthouse, Rosalind. "Arational actions." The Journal of Philosophy 88.2 (1991): 57-68.
+* Davidson, Donald. "Actions, reasons, and causes." The journal of philosophy 60.23 (1963): 685-700.
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

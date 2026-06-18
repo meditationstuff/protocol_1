@@ -2007,7 +2007,11 @@ New York: Regan Books. 1997.
 * Koontz-Garboden, Andrew. "Aspectual Coercion and the Typology of Change of State Predicates." Journal of Linguistics 43.1 (2007): 115–152.
 * Piñango, Maria Mercedes, and Ashwini Deo. "Reanalyzing the Complement Coercion Effect." Journal of Semantics 33.2 (2016).
 
+* Wood, James. How fiction works. Farrar, Straus and Giroux, 2008.
 * Scarry, Elaine. Dreaming by the Book. Princeton University Press, 2001.
+
+* Hursthouse, Rosalind. "Arational actions." The Journal of Philosophy 88.2 (1991): 57-68.
+* Davidson, Donald. "Actions, reasons, and causes." The journal of philosophy 60.23 (1963): 685-700.
 
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
