@@ -14574,7 +14574,7 @@ Or, "I didn't do it because wanting to was a good reason to do it, although want
 
 (Interest or curiousity or wanting or enjoyment or fucking-&#8203;around or wanting-to-find-out are arational "reasons" or [outside view] causes.
 
-Or, finally, *uncaused*, spontaneous, free, awake, to various incomplete or complete degree(s), in valid phenomenological and philosophical and psychological and soteriological senses, if not scientific/&#8203;materialist.
+Or, finally, *uncaused*, spontaneous, free, awake, moral, ethical to various incomplete or complete degree(s), in valid phenomenological and philosophical and psychological and soteriological senses, if not scientific/&#8203;materialist.
 
 \~\~)\~\~ \[sic]
 
