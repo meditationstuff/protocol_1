@@ -2013,5 +2013,13 @@ New York: Regan Books. 1997.
 * Hursthouse, Rosalind. "Arational actions." The Journal of Philosophy 88.2 (1991): 57-68.
 * Davidson, Donald. "Actions, reasons, and causes." The journal of philosophy 60.23 (1963): 685-700.
 
+* Lambrecht, Knud. Information structure and sentence form: Topic, focus, and the mental representations of discourse referents. Vol. 71. Cambridge university press, 1994.
+* McNally, Louise. "Stativity and theticity." Events and grammar. Dordrecht: Springer Netherlands, 1998. 293-307.
+
+* Maienborn, Claudia. "On davidsonian and kimian states." Existence: Semantics and syntax. Dordrecht: Springer Netherlands, 2007. 107-130.
+* Von Heusinger, Klaus, Claudia Maienborn, and Paul Portner. "Specificity." Semantics: Noun phrases and verb phrases (2011): 70-111.
+* Gómez-Vázquez, Diana, Jaume Mateu, and Diana Gómez Vázquez. "How to obtain a copula from a process verb: Insights from the event structure of posture verbs." Glossa: a journal of general linguistics 7.1 (2022).
+* Rothmayr, Antonia. "The structure of stative verbs." (2009): 1-232. John Benjamins B.V.
+* Gómez Vázquez, Diana. Posture verbs and internally-caused verbs in Romance and Germanic languages : causavity, stationary motion, and intransitive-locative alternations. Dissertation. Universitat Autònoma de Barcelona, 2020.
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

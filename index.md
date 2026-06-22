@@ -14572,9 +14572,9 @@ Or, "I didn't do it because wanting to was a good reason to do it, although want
 
 (Doing something for the purpose of enjoying doing it or wanting to experience doing it can also be good reasons to do something, but there still doesn't need to be any reason (purpose-&#8203;/&#8203;basis-&#8203;wise) at all to do something.)
 
-(Interest or curiousity or wanting or enjoyment or fucking-&#8203;around or wanting-to-find-out are arational "reasons" or [outside view] causes.
+(Interest or curiousity or wanting or enjoyment or fucking-&#8203;around or wanting-to-find-out are arational "reasons" or \[outside view] causes.
 
-Or, finally, *uncaused*, spontaneous, free, awake, moral, ethical to various incomplete or complete degree(s), in valid phenomenological and philosophical and psychological and soteriological senses, if not scientific/&#8203;materialist.
+Or, finally, *uncaused*, spontaneous, free, awake, moral, ethical, normative to various incomplete or complete degree(s), in valid phenomenological and philosophical and psychological and soteriological senses, if not scientific/&#8203;materialist.
 
 \~\~)\~\~ \[sic]
 
@@ -16972,6 +16972,8 @@ In some ways the document might have the implicit premise of "thinking and rigor
 	* Linenberger, Michael. Master Your Workday Now!: Proven Strategies to Control Chaos, Create Outcomes, & Connect Your Work to Who You Really Are. New Academy Publishers. 2010.
 * Hursthouse, Rosalind. "Arational actions." The Journal of Philosophy 88.2 (1991): 57-68.
 * Davidson, Donald. "Actions, reasons, and causes." The journal of philosophy 60.23 (1963): 685-700.
+* J. David Velleman, “On the Aim of Belief”. The Possibility of Practical Reason. 244-281. 2014.
+
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
