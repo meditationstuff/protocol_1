@@ -2022,4 +2022,19 @@ New York: Regan Books. 1997.
 * Rothmayr, Antonia. "The structure of stative verbs." (2009): 1-232. John Benjamins B.V.
 * Gómez Vázquez, Diana. Posture verbs and internally-caused verbs in Romance and Germanic languages : causavity, stationary motion, and intransitive-locative alternations. Dissertation. Universitat Autònoma de Barcelona, 2020.
 
+* Toolan, Michael. Making sense of narrative text: Situation, repetition, and picturing in the reading of short stories. Routledge, 2016.
+	* Longacre, Robert E. The grammar of discourse. Springer Science & Business Media, 1996.
+	* De Vries, Lourens. "Towards a typology of tail–head linkage in Papuan languages." Studies in Language. International Journal sponsored by the Foundation “Foundations of Language” 29.2 (2005): 363-384.
+	* Guillaume, Antoine. "Subordinate clauses, switch-reference, and tail-head linkage in Cavineña narratives." Subordination in native South American languages (2011): 109-139.
+	* McKay, Graham. "Cohesive features in Rembarrnga narratives." Selected papers from the 2007 Conference of the Australian Linguistic Society. 2008.
+	* Levina, Ekaterina and Manfred Krifka. Recapitulative (Tail-Head) Linking as a Marker of Discourse Coherence in Daakie (Ambrym, Vanuatu) \[conference paper 2017]
+	* Guérin, Valérie, ed. Bridging constructions. Vol. 24. Language Science Press, 2019.
+	* Crompton, Peter. "Theme in discourse:‘Thematic progression’and ‘method of development’re-evaluated." Functions of language 11.2 (2004): 213-249.
+	* Aikhenvald, Alexandra Y. "A medial clause does it all: Coherence, continuity, and addressee involvement in Manambu." Celebrating Indigenous Voice: Legends and Narratives in Languages of the Tropics and Beyond 5 (2023): 73.
+	* Dixon, Robert MW. "The semantics of clause linking in typological perspective." The semantics of clause linking: A cross-linguistic typology (2009): 1-55.
+	* Badio, Janusz. "Construal and linguistic coding of narrative events." (2014).
+	* Wu, Amiao. "A-storytelling storytelling and time in koan texts." Cogent Arts & Humanities 12.1 (2025): 2573865.
+	* Richards, Marvin. Without Rhyme or Reason: Gaspard de la nuit and the Dialectic of the Prose Poem. Bucknell University Press, 1998.
+
+
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
