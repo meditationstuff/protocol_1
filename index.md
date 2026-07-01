@@ -172,10 +172,12 @@ Sometimes I revise the anchor links to different sections in the document. When 
 * <a id="10ah" href="#hyper-linking-deep-linking-anchor-linking-soft-guarantees">(hyper)linking/&#8203;(deep)linking/&#8203;(anchor)linking soft guarantees</a>
 * <a id="11h" href="#full-table-of-contents">full table of contents</a>
 * <a id="12h" href="#preliminary-and-introductory-things">preliminary and introductory things</a>
-	* <a id="14h" href="#document-level-meta-warning">document-level meta-warning</a>
-	* <a id="15h" href="#epistemic-status-disclaimer">epistemic status disclaimer</a>
-	* <a id="16h" href="#risks-maximally-cautious-warnings-directives-first-">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
-	* <a id="17h" href="#but-what-actually-makes-it-risky-how-do-risks-obtai">but what actually makes it risky?; how do risks obtain, when they do?</a>
+	* <a id="12ah" href="#ATTENTION-CAUTION">ATTENTION/&#8203;CAUTION</a>
+		* <a id="14h" href="#document-level-meta-warning">document-level meta-warning</a>
+		* <a id="15h" href="#epistemic-status-disclaimer">epistemic status disclaimer</a>
+		* <a id="16h" href="#risks-maximally-cautious-warnings-directives-first-">risks; maximally cautious warnings/directives (first-pass, without explanation)</a>
+		* <a id="17h" href="#but-what-actually-makes-it-risky-how-do-risks-obtai">but what actually makes it risky?; how do risks obtain, when they do?</a>
+		* <a id="17ah" href="#further-risk-qualifiers">further risk qualifiers, i.e. "but, really, now, what about me?" (especially with respect to pregnancy, parenting, caretaking/&#8203;caregiving)</a>
 	* <a id="18h" href="#an-exoteric-doctrine-v0-2">an exoteric doctrine v0.2</a>
 	* <a id="18ah" href="#an-esoteric-doctrine-going-full-buddhist-is-this-fu">an esoteric doctrine ("going full buddhist?" / "is this full buddhist?" / "is this even buddhist?" / "never go full buddhist"\*)</a>
 	* <a id="19h" href="#introduction-getting-over-the-hump-text-interpretat">introduction; getting over the hump; text interpretation</a>
@@ -509,6 +511,14 @@ Sometimes I revise the anchor links to different sections in the document. When 
 
 [<a href="#12h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
+
+# <span id="12a"></span><a id="ATTENTION-CAUTION" href="#ATTENTION-CAUTION">ATTENTION/&#8203;CAUTION:</a>
+
+[This (super)section intentionally left blank. Scroll down for the contentful subsections!]
+
+[<a href="#12ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+
 # <span id="14"></span><a id="document-level-meta-warning" href="#document-level-meta-warning">document-level meta-warning:</a>
 
 [meta-meta note: I want to acknowledge that this document is sort of accumulating warning after warning, which are sort of epicycles on epicycles on epicycles at this point. They’re responding to a twist in the document. And that twist needs to be eventually be untwisted. There’s like (a) an absence or a "not" that needs to be rotated around into (b) a "presence"--from "not this" to "yes that." From FUD to concretes.]
@@ -747,6 +757,121 @@ Mechanism-wise it could be something like privileging atoms of bare sensory expe
 For the record, the blowing stuff up approach was really fine for me for a long time. A lot of my stuff really just seemed to be straightforward spandrels that were producing neuroticism and in whose absence it was easy to reorganize. Then later I ran into stuff that wasn't like that, as far as I could tell.
 
 [<a href="#17h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
+# <span id="17a"></span><a id="further-risk-qualifiers" href="#further-risk-qualifiers">further risk qualifiers, i.e. "but, really, now, what about me?" (especially with respect to pregnancy, parenting, caretaking/&#8203;caregiving):</a>
+
+(online dialogue, shared with permission)
+
+**MO 20260628 \[11:27 PM]**
+
+Re-reading the protocol warnings in the context of setting up my mirror and I'm finding them disingenuous/&#8203;misleading. Specifically these ones, in the context of this slack having so many moms who practice and who are deeply inspiring to me in their practice:
+
+> Individuals residing in households with other residents below the age of eighteen or over the age of 65 should not engage in these practices after practice has been initiated, unless there is no one under the age of eighteen in the household and anyone over the age of 65 has consented to your doing these practices in residence after they’ve read this numbered list.
+
+> Women who are pregnant or you might become pregnant before asymptoting in these practices (e.g. 2-10 years, depending) should not engage in these practices.
+
+\[(\]Also\[, Mark\] I think the warnings would benefit from even the simple addition of the degree to which you'd apply these warnings to "meditation systems broadly", not merely "this particular protocol (2019 edition or 2026 edition)" or "global wayfinding style meditation (whatever that means)"\[)\]
+
+I'm probably just literally going to add my own disclaimer to these
+
+Simply stating the fact that while such risks may exist and I make no warranty that they don't, that there are a number of mothers practicing through and during pregnancy, who have read those warnings
+
+Q and MH are the two mums who come to mind for me who feel like they do the most srsbsns mark meditation. I'm curious what you think of this and what if anything you'd add to the disclaimer (speaking about your own experience or abstractly).
+
+**Q**
+
+hmm, my thoughts on this are complicated. as a first approximation I think the current warning is appropriate in its intent even if it's potentially not optimal in its wording (and therefore idk if successful in its impact). I will try to say more
+
+some considerations from my practice, specifically:
+
+* I am definitely someone who "started without realising they'd started" before reading the protocol doc, so always treated the warnings as a bit of a "oops, too late now"
+
+* I came across the protocol doc maybe.... 3-4 years before actually getting pregnant? and I remember engaging with the warnings thinking "ah yes, there are genuinely some potentially really bad outcomes here" and making an intention to do my wayfinding optimisation in such a way that I would asymptote in more like 2 years rather than more than 10. I remember making a conscious risk assessment that 1) the stuff I needed to tackle was not that complicated, in the grand scheme of things, and 2) I am spectacularly intuitive and a) likely to be able to go fast and accurately, and b) likely to be able to be attuned to the warning signals from my practice sandbox (which maybe hubris, idk) and therefore I could estimate that the 2 years end was more likely
+
+* in practice what this means was I found a local optimum (I described this at various times as doing "course grained optimisation first") by almost entirely skipping concentration practices until basically now. and when I reached a moderately-stable local optimum I made a conscious decision to "stop here". 
+
+* I did not do any "making further progress" practice between getting pregnant and basically now (baby is 15 months), I only did tech debt maintenance. and only feel safe doing so now because I have a spectacular amount of help in taking care of one baby and am not the breadwinner so have a lot of slack in taking risks.
+
+it was still **good** for me to do the amount I did, I think, because it made additional slack that made my current life easier. and part of why I'm doing more now is that I anticipate being able to free up some extra slack and find another moderately-stable local optimum to settle at.
+
+I did need to tear down and rebuild both my motivational structure and my interpersonal interfacing structure during the first two years. fortunately I was privileged enough to be in a job where I could coast, and in a pandemic that meant temporary lack of interpersonal interfacing structures did not become a problem. neither of these refactors took me through an intermediate state where survival was a concern, but that was because of my circumstances
+
+theoretical, global considerations based on my observations:
+
+* the problem with maximally cautious warnings is that you always have to take into account maximally un-privileged people, maximally non-slack-having people, maximally unintuitive people, maximally blasé people, maximally unaware people, maximally traumatised people, people maximally unable to sense that they are about to have a problem
+
+* the place in mind-operation-space that I personally started from was fairly ideal for wayfinding in that a) many local optima were available nearby to use as "rest stops", b) natively well-equipped with sense-information for steering the practice, and c) I'd already been doing... ~2-3 years of good-orientation practice only (thanks to my 2018 Marie Kondo obsession) before starting any other meditative practices. This allowed fairly easy and straightforward early-practice while semi-consciously avoiding large nonmonotonicities. 
+
+* (I can see that I have some upcoming large nonmonotonicities if I wanted to go "all the way" but I can more or less "indefinitely delay them" by focusing on the life I am living now and the motivational structures I am using now even if I can feel the pull away from them. in some sense deliberately anti-wayfinding in order to stay at a local optimum. I feel confident in my ability to do this partly because I think I have unusually strong intuitive wayfinding abilities - cite accidentally hitting jhana 1 that one time, I think pre-wayfinding and pre-any kind of formal meditation instruction that pointed towards jhana) 
+
+* Even with all the ideal conditions I was aware of, there was still risk that I could have stumbled into a hole I was not aware of. I had the specific conversation with my husband early on of "hey, these outcomes are rare but possible, I need your intervention if you think they are happening, and worst case we choose not to get pregnant until we've sorted it out". i was confident that we had enough slack in our relationship that we could weather substantial headwinds without him leaving me. I think this degree of trustworthy safety net is unusual in the population of people who might need to do wayfinding.
+
+that is to say, I think that refactoring motivational structures and refactoring interpersonal structures in such a way as to cause large nonmonotonicities in capabilities is genuinely highly risky for some people in some circumstances. it can be as serious as becoming a matter of survival. and so while I specifically had the slack/buffer in lots of directions to be ok, and had the ability to assess myself as such (whether accurately is not a question I can answer post-hoc of course, without knowing the counterfactuals), I can believe that there exist people in the maximally awkward combination of:
+
+* bad starting point in good-orienting 
+* bad starting point in motivation or interpersonal structures with no nearby local optima, and hard to avoid large local pitfalls
+* poor relationships that cannot be relied on to be a safety net
+* poor financial situation with no safety net, with. a job situation that does not survive a dip in motivation
+* limited external help with caregiving
+
+for which starting the practice could result in them going through a dip in capabilities that could become a matter of survival or extreme wellbeing risks for their dependents. 
+
+and actually that's just for "on track" wayfinding - of course there are psychosis risks, risks of going off the rails entirely, etc. etc. 
+
+given that mark always has to consider the psychosis risk it's hard to calibrate the warnings for all possible strengths of risk
+
+it's not as if we haven't seen people "go off the rails"/&#8203;get stuck in large nonmonotonicities that resist help and support, even in this slack's community. and it's one thing to see it in a young man with no dependents, and it would be quite a different matter for it to happen to someone with dependents.
+
+but yeah, basically for any specific mum you might be able to look at them and instantly say, ah yes you'll be fine", but the challenge with the protocol is that it's hard to give universal instructions that are spawn-point-agnostic
+
+**MH** \[ed. note: combined two threads]
+
+I don't find it disingenuous (especially not six years ago) but it does come across a bit like the warnings on bottles of tylenol. trying to think of how I'd re-word the stuff about kids and pregnancy specifically...
+
+like it's obviously trying to account for the way this stuff can make you sensitive and weird in a bad way, fuck with interpersonal relationships, etc and general advice to not layer vectors of destabilization seems good...
+
+yes, to pretty much all of this with some variation in the details (I "started" without realizing it, was actively trying to conceive when I encountered the doc but decided to proceed because it was literally the only thing I'd ever seen that specifically addressed some very weird issues I was struggling with. I actually found pregnancy itself kind of protective against going "too far" with meditation; postpartum was by far the more sensitive time. but that probably varies by woman! also ditto on the "sense that I can 'indefinitely delay' certain things (I don't think it's indefinite for real but I have a very strong sense some things are "waiting" for menopause/sterilization/etc, basically a strong signal that I am biologically done with babies. I expect about two years after I'm sure I'm done, certain lines of investigation will open up and completely surprise me)
+
+if I were to add any notes I would add some stuff about hormone cycles, prolactin, progesterone, and the way they can change orientation, salience, self-other boundary stuff
+
+I do think I made some mistakes that I don't think would have been as sticky if it weren't for pregnancy, but I think making them in the first place was more about covid
+
+really if I could do it over again I would not try to nurse while meditating during my first kid's infancy. too immature, too unfamiliar with my internal territory, there was a bit of force-multiplier stuff wrt innapropriately trying to "fix myself all by myself" but unsure how much to "blame" the protocol because that was (and still is, to a much smaller degree) a pretty deeply embedded thing before I ever came across this material.
+
+oh there is also something I appreciate too....none of those concerns/&#8203;warnings stopped mark from admitting women who were definitely going to have babies while meditating in some degree of alignment with the protocol, supporting their practice, etc
+
+**Q**
+
+yes! though I guess I always took that as a given because it's much safer to be here than not :sweat_smile: like I always thought of Mark's warnings as "ah shoot, randoms on the Internet are going to see this, how do I not have them go crazy and it be my fault"
+
+**Mark**
+
+\[this is online-audience flavored\]
+
+> "ah shoot, randoms on the Internet are going to see this, how do I not have them go crazy and it be my fault"
+
+More or less, yeah. 
+
+> though I guess I always took that as a given because it's much safer to be here than not
+
+More like, the document is \~designed to be somewhat hard to read, hard grasp as a whole, and hard to implement piecemeal. Because of this, if someone reaches out to me coherently, especially when asking targeted risk questions, or, well, honestly, even expressing interest in the material at all, I'm highly biased to overall trust their ongoing judgment.
+
+Over many years, this has worked almost-universally-pretty-well, so far, hyphens not to make light of any net-suffering due to interaction with the material, that I know of, and that I don't.
+
+**CW**
+
+\[Moved out of thread\] \[sic\] I have always been curious why they were no warnings about potentially reduced ability to drive automotive vehicles. Seems like a very common everyday thing that can be wildly affected by practice with potentially very bad consequences.
+
+**Mark**
+
+Definitely an oversight\[...\]
+
+**H\[temp2\]**
+
+Not in contradiction, I uh have gotten much much better at driving since engaging with the protocol seriously
+
+[<a href="#17ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
+
 
 # <span id="18"></span><a id="an-exoteric-doctrine-v0-2" href="#an-exoteric-doctrine-v0-2">an exoteric doctrine (v0.2):</a>
 
@@ -14908,7 +15033,11 @@ Comment link: https://news.ycombinator.com/item?id=30287240 [Last accessed: 2022
 
 Summary: people who switch languages may partially lose access to skills and declarative they learned while speaking the original language.
 
-Me: Meditation, etc., can more fully make available knowledge, capacity, skills that are entangled with prior languages but especially *prior contexts* in general. And meditation can help combine skill, knowledge, etc., from *far removed prior contexts* to facilitate generalization, error correction, etc., all the way up to (in some sense) fully global models that account for all so-far-encountered used-to-be-anomalies. There's a sense though in which even this is just a recontextualization. Like there's no way to escape "knowledge is behavior is entangled with environment and context", but in another sense it's relative by degrees, all the way up to global (which is partially overlaps with luminosity and is basically coextensive with paying off all technical debt. See also Plato's Camera by Paul Churchland. 
+Me: Meditation, etc., can more fully make available knowledge, capacity, skills that are entangled with prior languages but especially *prior contexts* in general. And meditation can help combine skill, knowledge, etc., from *far removed prior contexts* to facilitate generalization, error correction, etc., all the way up to (in some sense) fully global models that account for all so-far-encountered used-to-be-anomalies. There's a sense though in which even this is just a recontextualization. Like there's no way to escape "knowledge is behavior is entangled with environment and context", but in another sense it's relative by degrees, all the way up to global (which is partially overlaps with luminosity and is basically coextensive with paying off all technical debt. See also Plato's Camera by Paul Churchland.
+
+**new, misc. 20260629**
+
+* Frank, D., Moratti, S., Hellerstedt, R. et al. Human hippocampal ripples tune cortical responses based on predicted uncertainty. Nat Neurosci (2026). https://doi.org/10.1038/s41593-026-02345-6
 
 [<a href="#192eh">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
