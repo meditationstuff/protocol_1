@@ -17102,7 +17102,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Hursthouse, Rosalind. "Arational actions." The Journal of Philosophy 88.2 (1991): 57-68.
 * Davidson, Donald. "Actions, reasons, and causes." The journal of philosophy 60.23 (1963): 685-700.
 * J. David Velleman, “On the Aim of Belief”. The Possibility of Practical Reason. 244-281. 2014.
-
+* Bessis, David. Mathematica: A secret world of intuition and curiosity. Yale University Press, 2024.
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 

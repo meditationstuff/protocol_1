@@ -2040,5 +2040,18 @@ New York: Regan Books. 1997.
 
 * Gómez Vázquez, Diana. Posture verbs and internally-caused verbs in Romance and Germanic languages: causavity, stationary motion, and intransitive-locative alternations. 2020.
 
+* Emmott, Catherine, Anthony J. Sanford, and Lorna I. Morrow. "Capturing the attention of readers? Stylistic and psychological perspectives on the use and effect of text fragmentation in narratives." Journal of Literary Semantics 35.1 (2006).
+* Wimsatt, William K. "When Is Variation" Elegant"?." College English 3.4 (1942): 368-383.
+* Thompson, Sandra A. "“Subordination” and narrative event structure." Coherence and Grounding in Discourse: Outcome of a Symposium, Eugene, Oregon, June 1984. John Benjamins Publishing Company, 2011.
+* -
+	* Haselow, Alexander. "Syntactic fragments in social interaction: A socio-cognitive approach to the syntax of conversation." English Language & Linguistics 28.3 (2024): 521-551.
+	* Oh, Sun-Young. "English zero anaphora as an interactional resource." Research on language and social interaction 38.3 (2005): 267-302.
+	* Oh, Sun-Young. "English zero anaphora as an interactional resource II." Discourse studies 8.6 (2006): 817-846.
+	* Collins, Madeleine Rose. Taking grammar into the field: English zero anaphora in ordinary conversation. Diss. University of York, 2022.
+
+* Dry, Helen Aristar. "The Movement of Narrative Time." Journal of Literary Semantics, vol. 12, no. 2, 1983, pp. 19-53.
+* DEPRAETERE, ILSE. "Foregrounding in English relative clauses" Linguistics, vol. 34, no. 4, 1996, pp. 699-732.
+* Parsons, Terence. "Eventualities and narrative progression." Linguistics and Philosophy 25.5/6 (2002): 681-699.
+
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
