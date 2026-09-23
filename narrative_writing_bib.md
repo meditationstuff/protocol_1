@@ -2053,5 +2053,102 @@ New York: Regan Books. 1997.
 * DEPRAETERE, ILSE. "Foregrounding in English relative clauses" Linguistics, vol. 34, no. 4, 1996, pp. 699-732.
 * Parsons, Terence. "Eventualities and narrative progression." Linguistics and Philosophy 25.5/6 (2002): 681-699.
 
+* Johnson-Laird, Philip Nicholas, and Keith Oatley. "The language of emotions: An analysis of a semantic field." Cognition and emotion 3.2 (1989): 81-123.
+* Schmidt, Victoria Lynn. 45 Master Characters, Revised Edition: Mythic Models for Creating Original Characters. Penguin, 2012.
+
+* Erteschik-Shir, Nomi. "Stage topics and their architecture." Architecture of topic (2019): 223-248.
+* Klein, Wolfgang. "The topic situation." Empirische Forschung und Theoriebildung: Beiträge aus Soziolinguistik, Gesprochene-Sprache-und Zweitspracherwerbsforschung: Festschrift für Norbert Dittmar. Lang, 2008. 287-305.
+* -
+	* -
+		* -
+			* Frazier, Lyn, and Charles Clifton Jr. "Topic situations: Coherence by inclusion." Journal of Memory and Language 103 (2018): 176-190.
+			* Schultze-Berndt, Eva. "When subjects frame the clause: Discontinuous noun phrases as an iconic strategy for marking thetic constructions." Linguistics 60.3 (2022): 865-898.
+			* Villalobos Cardozo, Mercedes, Ludivine Crible, and Liesbeth Degand. "Discourse Markers as Cues for Topic Shift Interpretation: Experimental Evidence from Spanish." Discours. Revue de linguistique, psycholinguistique et informatique. A journal of linguistics, psycholinguistics and computational linguistics 35 (2024).
+* -
+	* Erteschik-Shir, Nomi, Lena Ibnbari, and Sharon Taube. "Missing objects as topic drop." Lingua 136 (2013): 145-169.
+	* Kennedy, Christopher, and Beth Levin. "Measure of change: The adjectival core of degree achievements." (2008): 156-182.
+	* -
+		* Verkuyl, Henk J., and H. J. Verkuyl. A theory of aspectuality: The interaction between temporal and atemporal structure. No. 64. Cambridge University Press, 1996.
+		* Verkuyl, Hendrik Jacob. On the compositional nature of the aspects. Springer Science & Business Media, 2013.
+		* Verkuyl, Henk J., and H. J. Verkuyl. A theory of aspectuality: The interaction between temporal and atemporal structure. No. 64. Cambridge University Press, 1996.
+	* Jackendoff, Ray. "Parts and boundaries." Cognition 41.1-3 (1991): 9-45.
+
+* Simons, Mandy, et al. "What projects and why." Semantics and linguistic theory. 2010.
+* Tonhauser J, Beaver D, Roberts C, Simons M. Toward a Taxonomy of Projective Content. Language. 2013;89(1):66-109.
+* Maier, Emar. "Quotation and unquotation in free indirect discourse." Mind & Language 30.3 (2015): 345-373.
+* Harris, Jesse A., and Christopher Potts. "Perspective-shifting with appositives and expressives." Linguistics and Philosophy 32.6 (2009): 523-552.
+* Holton, Richard. "Some telling examples: A reply to Tsohatzidis." Journal of pragmatics 28.5 (1997): 625-628.
+* Donnellan, Keith, 1966.  Reference and Definite Descriptions.  Philosophical Review 75: 281–304.
+* Doron, Edit. "Point of view as a factor of content." Semantics and Linguistic Theory. 1991.
+* Hinterwimmer, Stefan. "Two kinds of perspective taking in narrative texts." Semantics and Linguistic Theory. 2017.
+* Hinterwimmer, Stefan. "Prominent protagonists." Journal of Pragmatics 154 (2019): 79-91.
+* Roberts, Craige. "Information structure: Towards an integrated formal theory of pragmatics." Semantics and pragmatics 5 (2012): 6-1.
+* Zeman, Sonja. "The emergence of viewpoints in multiple perspective constructions." Pragmatics 29.2 (2019): 226-249.
+* Dancygier, Barbara, and Lieven Vandelanotte. "Discourse viewpoint as network." Viewpoint and the fabric of meaning: Form and use of viewpoint tools across languages and modalities 13.40 (2016): 9783110365467-003.
+* Saure, Christopher, Stefan Hinterwimmer, and Anna Pia Jordan-Bertinelli. "An experimental investigation of the interaction of narrators’ and protagonists’ perspectival prominence in narrative texts." Zeitschrift für Sprachwissenschaft 42.2 (2023): 341-372.
+* Hinterwimmer, Stefan. "Accounts of perspective taking in narrative." Language and Linguistics Compass 18.3 (2024): e12517.
+
+
+* Hinterwimmer, Stefan. "Prominent protagonists." Journal of Pragmatics 154 (2019): 79-91.
+	* Roberts, Craige. "Information structure in discourse: Toward a unified theory of formal pragmatics." Ohio State University Working Papers in Linguistics 49 (1996): 91-136.
+	* Van Kuppevelt, Jan. "Discourse structure, topicality and questioning." Journal of linguistics 31.1 (1995): 109-147.
+	* Onea, Edgar. "Specificity and questions of specification." Determiners and quantifiers: Functions, variation, and change (2022): 130-185.
+	* Onea, Edgar. Potential questions at the semantics-pragmatics interface. Brill, 2016.
+	* Kafalenos, Emma. Narrative causalities. Ohio State University Press, 2006.
+	* Onea, Edgar, and Malte Zimmermann. "Questions in discourse: An overview." Questions in discourse (2019): 5-117.
+	* Velleman, Dan, David Beaver, Emilie Destruel, Dylan Bumford, Edgar Onea, and Elizabeth Coppock. "It-clefts are IT (inquiry terminating) constructions." In Semantics and linguistic theory, pp. 441-460. 2012.
+	* DeVeaugh-Geiss, Joseph P., et al. "Contradicting (not-) at-issueness in exclusives and clefts: An empirical study." Semantics and Linguistic Theory. 2015.
+* Hinterwimmer, Stefan. "Accounts of perspective taking in narrative." Language and Linguistics Compass 18.3 (2024): e12517.
+* Fehr, B. (1938). Substitutionary narration and description. English Studies, 20(1-6), 97–107.
+* Brinton, L. (1980). “Represented perception”: A study in narrative style. Poetics, 9(4), 363–381.
+* Cohn, Dorrit. Transparent minds: Narrative modes for presenting consciousness in fiction. Princeton University Press, 1978.
+* Abrusán, Márta. "The spectrum of perspective shift: protagonist projection versus free indirect discourse." Linguistics and Philosophy 44 (2021): 839-873.
+
+
+* Abrusán, M. (2021). Computing Perspective Shift in Narrative.  In The Language of Fiction,  edited by E. Maier and A. Stokke, Oxford University Press
+* Asher, Nicholas, and Laure Vieu. "Subordinating and coordinating discourse relations." Lingua 115.4 (2005): 591-610.
+* -
+	* Asher, Nicholas, et al. "De l'espace-temps dans l'analyse du discours." Sémiotiques 9 (1995): 11-62.
+	* Lascarides, Alex, and Nicholas Asher. "Temporal interpretation, discourse relations and commonsense entailment." Linguistics and philosophy 16.5 (1993): 437-493.
+		* Lascarides, Alex, and Nicholas Asher. "Temporal Interpretation, Discourse Relations, and Commonsense Entailment." (2005): 353-396.
+* -
+	* Erteschik-Shir, Nomi. "Stage topics and their architecture." Architecture of topic (2019): 223-248.
+	* Klein, Wolfgang. "The topic situation." Empirische Forschung und Theoriebildung: Beiträge aus Soziolinguistik, Gesprochene-Sprache-und Zweitspracherwerbsforschung: Festschrift für Norbert Dittmar. Lang, 2008. 287-305.
+
+* Cohn, Dorrit. Transparent minds: Narrative modes for presenting consciousness in fiction. Princeton University Press, 1978.
+* Bratman, Michael. "Intention, plans, and practical reason." (1987).
+	* Holton, Richard. Willing, wanting, waiting. Oxford University Press, 2009.
+
+* Boswell, Robert. The Half-Known World: On Writing Fiction. Graywolf Press, 2008.
+* Russo, Richard. The Destiny Thief. 2018.
+* Peter Turchi, Peter. A Muse and a Maze: Writing as Puzzle, Solving as Story.
+
+
+
+* Mamet, David. On Directing. 
+
+* Carlson, Ron. Ron Carlson Writes a Story: Tips from a Master of the Craft. Open Road Integrated Media, Inc. 2023.
+* Hu, Zhichao, and Marilyn Walker. "Inferring narrative causality between event pairs in films." Proceedings of the 18th annual SIGdial meeting on discourse and dialogue. 2017.
+	* Trabasso, Tom, Paul Van den Broek, and So Young Suh. "Logical necessity and transitivity of causal relations in stories." Discourse processes 12.1 (1989): 1-25.
+	* Van Den Broek, Paul, and Tom Trabasso. "Causal networks versus goal hierarchies in summarizing text." Discourse Processes 9.1 (1986): 1-15.
+	* Trabasso, Tom, and Linda L. Sperry. "Causal relatedness and importance of story events." Journal of Memory and language 24.5 (1985): 595-611.
+
+
+* Sarah van Vliet, L. O. T. Proper nouns and pronouns: the production of referential expressions in narrative discourse. Netherlands Graduate School of Linguistics, 2008.
+* Fox, Barbara. "Anaphora in popular written English narratives." Coherence and grounding in discourse 11 (1987): 157-174.
+* Hofmann, Thomas R. "Paragraphs, & anaphora." Journal of pragmatics 13.2 (1989): 239-250.
+* Bonifazi, Anna, Pinelopi Ioannidou, and Zala Salarzai. "Proper names as anaphoric expressions in short crime stories: Doing more than referring within and across paragraphs." Journal of Pragmatics 193 (2022): 88-104.
+
+* Dancygier, Barbara, and Eve Sweetser. Mental spaces in grammar: Conditional constructions. Vol. 108. Cambridge University Press, 2005.
+* Dancygier, Barbara, and Eve Sweetser. Figurative language. Cambridge: Cambridge University Press, 2014.
+* Dancygier, Barbara. "Negation, stance verbs, and intersubjectivity." Viewpoint in language: A multimodal perspective (2012): 69-93.
+* Dancygier, Barbara. "Viewpoint phenomena in constructions and discourse." Glossa: a journal of general linguistics 2.1 (2017).
+* Dancygier, Barbara. "Mental space embeddings, counterfactuality, and the use of unless." English Language & Linguistics 6.2 (2002): 347-377.
+
+* William Labov, "The Transformation of Experience in Narrative Syntax," in Language in the Inner City: Studies in the Black English Vernacular (Philadelphia: University of Pennsylvania Press, 1972), 354–96.
+	* Labov, W. (1997). Some further steps in narrative analysis. Journal of Narrative and Life History, 7(1–4), 395–415.
+	* Labov, W. (2001/2003). Uncovering the event structure of narrative. In D. Tannen & J. E. Alatis (Eds.), Georgetown University Round Table on Languages and Linguistics 2001 (pp. 63–83). Washington, DC: Georgetown University Press.
+	* Labov, W. (2006). Narrative pre-construction. Narrative Inquiry, 16(1), 37–45. https://doi.org/10.1075/ni.16.1.07lab. Reprinted in M. Bamberg (Ed.), Narrative: State of the art (2007, pp. 47–56). Amsterdam: John Benjamins.
+	* Labov, W. (2013). The language of life and death: The transformation of experience in oral narrative. Cambridge: Cambridge University Press. ISBN 978-1-107-03334-4 (hb), 978-1-107-65681-9 (pb).
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]

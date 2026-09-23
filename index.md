@@ -45,6 +45,12 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
  	* Kenneth O. O. Stanley, Kenneth O. O. and Joel Lehman. **Why Greatness Cannot Be Planned**: The Myth of the Objective. Springer, 2015 edition. \[hat-tip: JC]
 * Wilber, Ken. **The religion of tomorrow**: a vision for the future of the great traditions-more inclusive, more comprehensive, more complete. Shambhala Publications, 2017. \[maybe very overly-reifying and I'm aware there's a ton of Wilber-criticism, but the maps really do loosely correlate with the "real thing" with hard-to-beat comprehensiveness, and infrequently-but-usefully come in handy, practice-wise; and sometimes good for interpersonal bridge-building between different systems]
 
+New:
+
+20260901
+
+O'Gieblyn, Meghan. Backsliding: On the Paradox of Willpower https://harpers.org/archive/2026/07/backsliding-meghan-ogieblyn-willpower/ [Last accessed: 2026-09-01] I haven't contemplated or even read all of this, but from a spot-skim, it may be fully and completely compatible with my stuff.
+
 <span id="who-is-this-document-for"></span> **Who is this document for?**
 
 This document is for people are curious about, serious about (and anything in between) *very long-term, goal-oriented meditation*, as in years and a lifetime. (And "goal-oriented" includes "no goal" and/or radical, self-determined, open-ended provisionality!) 
@@ -14077,6 +14083,20 @@ Wow, “I desperately, desperately, desperately don’t want to be better than o
 Worked through all available substantial regret and longing some years ago. (Plenty of other amazing emotions to be had.) Finally uncovered or computed/constructed some more, and it tastes so sweet. In my experience, so much goodness to be had, here. Very, very exciting. https://x.com/meditationstuff/status/2053102135454072888
 
 
+**20260827**
+
+> getting "home stretch" vibes again, tho I was getting those for an extended period like 8000 hours ago or whatever
+
+> there's like these "universe" waves and there's like these "ego" waves that arise to perfectly cancel out the universe waves, to like "keep the universe out"
+
+> like idk 4000 hours ago, all these numbers are wrong, there was a brief round of Ātman and Brahman, drop in the ocean, same/is/as the ocean type stuff
+
+> back to now, taste of something-something you-are-the-universe, deathless, etc.
+
+> pretty cool/good, very real-feeling; also I still like the scott alexander thing*, so we shall see where I end up
+
+\*search for "thx to scott alexander" in this document
+
 [<a href="#192ah">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
@@ -17103,6 +17123,7 @@ In some ways the document might have the implicit premise of "thinking and rigor
 * Davidson, Donald. "Actions, reasons, and causes." The journal of philosophy 60.23 (1963): 685-700.
 * J. David Velleman, “On the Aim of Belief”. The Possibility of Practical Reason. 244-281. 2014.
 * Bessis, David. Mathematica: A secret world of intuition and curiosity. Yale University Press, 2024.
+
 
 [<a href="#193h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
