@@ -2150,5 +2150,47 @@ New York: Regan Books. 1997.
 	* Labov, W. (2001/2003). Uncovering the event structure of narrative. In D. Tannen & J. E. Alatis (Eds.), Georgetown University Round Table on Languages and Linguistics 2001 (pp. 63–83). Washington, DC: Georgetown University Press.
 	* Labov, W. (2006). Narrative pre-construction. Narrative Inquiry, 16(1), 37–45. https://doi.org/10.1075/ni.16.1.07lab. Reprinted in M. Bamberg (Ed.), Narrative: State of the art (2007, pp. 47–56). Amsterdam: John Benjamins.
 	* Labov, W. (2013). The language of life and death: The transformation of experience in oral narrative. Cambridge: Cambridge University Press. ISBN 978-1-107-03334-4 (hb), 978-1-107-65681-9 (pb).
+	* Pratt, Mary Louise. Toward a speech act theory of literary discourse. Vol. 97. Bloomington: Indiana University Press, 1977.
+
+* Riedl, Mark O., and R. Michael Young. 2010. "Narrative Planning: Balancing Plot and Character." Journal of Artificial Intelligence Research 39: 217–68.
+
+
+* -
+	* Kuroda, S.-Y. “Where Epistemology, Style, and Grammar Meet: A Case Study from Japanese.” In Stephen R. Anderson and Paul Kiparsky, eds., A Festschrift for Morris Halle, 377–391. New York: Holt, Rinehart and Winston, 1973.
+	* Kuroda, S.-Y. “Reflections on the Foundations of Narrative Theory, from a Linguistic Point of View.” In Teun A. van Dijk, ed., Pragmatics of Language and Literature. Amsterdam: North-Holland, 1976. Reprinted in Kuroda, The (W)hole of the Doughnut, 205–231. Ghent: Story-Scientia, 1979.
+	* Kuroda, S.-Y. Toward a Poetic Theory of Narration: Essays of S.-Y. Kuroda. Ed. Sylvie Patron. Berlin: De Gruyter Mouton, 2014.
+* -
+	* Urmson, J. O. “Parenthetical Verbs.” Mind 61(244) (1952): 480–496.
+	* Hooper, Joan B. “On Assertive Predicates.” In John P. Kimball, ed., Syntax and Semantics 4. New York: Academic Press, 1975.
+	* Simons, Mandy. “Observations on Embedding Verbs, Evidentiality, and Presupposition.” Lingua 117(6) (2007): 1034–1056.
+* -
+	* Sells, Peter. “Aspects of Logophoricity.” Linguistic Inquiry 18(3) (1987): 445–479.
+	* Kuno, Susumu. Functional Syntax: Anaphora, Discourse and Empathy. Chicago: University of Chicago Press, 1987.
+	* Zribi-Hertz, Anne. “Anaphor Binding and Narrative Point of View: English Reflexive Pronouns in Sentence and Discourse.” Language 65(4) (1989): 695–727.
+	* Pollard, Carl, and Ivan A. Sag. “Anaphors in English and the Scope of Binding Theory.” Linguistic Inquiry 23(2) (1992): 261–303.
+	* Baker, C. L. “Contrast, Discourse Prominence, and Intensification, with Special Reference to Locally Free Reflexives in British English.” Language 71(1) (1995): 63–101.
+	* Charnavel, Isabelle. Locality and Logophoricity: A Theory of Exempt Anaphora. Oxford: Oxford University Press, 2019.
+
+* -
+	* Mamet, David. On Directing Film. New York: Viking, 1991.
+	* Banfield, Ann. Describing the Unobserved and Other Essays: Unspeakable Sentences after Unspeakable Sentences. Ed. Sylvie Patron. Newcastle upon Tyne: Cambridge Scholars, 2019.
+	* Parsons, Terence. Events in the Semantics of English. Cambridge, MA: MIT Press, 1990.
+	* Dik, Simon C., and Kees Hengeveld. “The Hierarchical Structure of Perception Verbs.” Linguistics 29(2) (1991): 231–259.
+	* Gardner, John. (1983). The art of fiction. Random House, Inc. Print.
+
+
+* Smith, Carlota S. Modes of discourse: The local structure of texts. Vol. 103. Cambridge University Press, 2003.
+* Caenepeel, Mimo. "Aspect, temporal ordering and perspective in narrative fiction." Dissertation. 1989.
+* Labov, W. (2013). The language of life and death: The transformation of experience in oral narrative. Cambridge: Cambridge University Press.
+* William Labov, "The Transformation of Experience in Narrative Syntax," in Language in the Inner City: Studies in the Black English Vernacular (Philadelphia: University of Pennsylvania Press, 1972), 354–96.
+* Bransford & Franks (1971), “The abstraction of linguistic ideas,” Cognitive Psychology, 2, 331–350.
+* Bransford, Barclay & Franks (1972), “Sentence memory: A constructive versus interpretive approach” (Cognitive Psychology, 3, 193–209)
+* Felser, Claudia. Verbal Complement Clauses: A Minimalist Study of Direct Perception Constructions. Amsterdam: John Benjamins, 1999.
+* -
+	* Barwise, Jon. “Scenes and Other Situations.” Journal of Philosophy 78(7) (1981): 369–397.
+	* Higginbotham, James. “The Logic of Perceptual Reports: An Extensional Alternative to Situation Semantics.” Journal of Philosophy 80(2) (1983): 100–127.
+
+
+
 
 [<a href="#206h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
