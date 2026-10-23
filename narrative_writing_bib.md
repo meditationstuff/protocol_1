@@ -2185,6 +2185,7 @@ New York: Regan Books. 1997.
 * William Labov, "The Transformation of Experience in Narrative Syntax," in Language in the Inner City: Studies in the Black English Vernacular (Philadelphia: University of Pennsylvania Press, 1972), 354–96.
 * Bransford & Franks (1971), “The abstraction of linguistic ideas,” Cognitive Psychology, 2, 331–350.
 * Bransford, Barclay & Franks (1972), “Sentence memory: A constructive versus interpretive approach” (Cognitive Psychology, 3, 193–209)
+* Stump, Gregory Thomas. The semantic variability of absolute constructions. Springer Science & Business Media, 2012.
 * Felser, Claudia. Verbal Complement Clauses: A Minimalist Study of Direct Perception Constructions. Amsterdam: John Benjamins, 1999.
 * -
 	* Barwise, Jon. “Scenes and Other Situations.” Journal of Philosophy 78(7) (1981): 369–397.
